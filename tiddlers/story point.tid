@@ -1,0 +1,18 @@
+category: game mechanics
+created: 20210402012356223
+modified: 20210727192034898
+tags: Storyloom
+title: story point
+type: text/vnd.tiddlywiki
+
+Story points are a sort of "storytelling currency" that players and GMs can use to control the flow of the narrative. Player characters start each mission or adventure with some number of story points (usually 3). After a player character makes an [[attempt|Taking Action]], the player may want to improve the result, but they may have no [[momentum]] to spend. However, if they have a story point, and a relevant [[aspect]] on their character sheet that provides narrative justification, they can spend that point and immediately get 3 [[momentum]] to spend on that roll result (which can be a combination of extra dice rolls or extra [[impact]]). 
+
+As an example, let's say Arien the [[paladin]] attacks a [[bulette]] that is rampaging through a village. The player rolls her dice, and... she gets a [[bad outcome]]. But! She has a story point, and her character sheet has the [[aspect]] //"I must protect the weak."//. She hands the story point to the GM and says "Because Arien must protect the weak, she digs deep and finds the strength to smite this monstrosity!" She picks up three more dice and rolls them, and... she gets a 6! A [[full success]]!
+
+In a later session, that same character may earn a story point from roleplaying that very same [[aspect]]. She sees a group of children seemingly about to be attacked by an angry [[elemental]], and rushes in to "protect the weak"... only to realize too late that it's actually a group of [[gnome]]s practicing [[elemental binding]]. As a result, she suffers a [[consequence]]—maybe she twists her ankle as she pivots at the last minute, or perhaps she loses respect among the gnomes. In any case, the player earns a story point for playing true to the character in a way that is against the character's self-interest.
+
+Even a "flaw" [[aspect]] can be used to gain or spend story points if it's written well. For example, if a character's flaw reads "//Tempted by shiny things//", they may well touch that cursed ruby statue that causes the temple to collapse. But they might also use that aspect in a scene where they are pawning loot to a shady antiquities dealer: if the character is "tempted by shiny things", surely they have an eye for appraisal of value! The player could use this justification to spend a story point and improve a haggling result.
+
+!! Optional Rule: Declare Story Detail
+
+As an optional rule, you can give story points even more power over the narrative. If a player can justify it using an [[aspect]], they can spend a story point and declare a minor story detail to be true. This could mean declaring that you had a specific item in your satchel all along, or that an ally shows up at a dramatically appropriate moment, or that you and the NPC you just met actually go way back ("Oh is that [[Zaira Dane]]? We served in the [[Last War]] together!"). Your new detail must somehow tie into one of your character aspects, and is subject to revision or veto by the GM.

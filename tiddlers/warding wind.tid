@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20210521025013098
+modified: 20210727192041766
+tags: [[primal magic]] evocation
+tier: 2
+title: warding wind
+type: text/vnd.tiddlywiki
+
+A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for up to 10 minutes, or until your concentration breaks.
+
+The wind has the following effects:
+
+* It deafens you and other creatures in its area.
+* It extinguishes unprotected flames in its area that are torch-sized or smaller.
+* It hedges out vapor, gas, and fog that can be dispersed by strong wind.
+* The area is difficult to traverse for creatures other than you.
+* Attacks with projectiles have [[disadvantage]] if they pass in or out of the wind.

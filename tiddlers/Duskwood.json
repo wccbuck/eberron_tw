@@ -1,0 +1,15 @@
+[
+    {
+        "created": "20210210012013661",
+        "title": "Duskwood",
+        "text": "The Duskwood is a small forest in western [[Aundair]], just north of [[Passage]]. It sits on a small [[manifest zone]] to [[Thelanis]].",
+        "modified": "20210727192006302",
+        "tags": "Aundair forest Khorvaire",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polygons": "48.28,-15.6 48.26,-15.87 48.39,-16.12 48.65,-16.37 48.97,-16.39 49.27,-16.41 49.54,-16.19 49.7,-15.87 50.01,-15.64 50.11,-15.35 50.09,-14.93 50.1,-14.61 50.23,-14.31 50.27,-13.72 50.2,-13.41 50.0,-13.26 49.81,-13.45 49.6,-13.53 49.4,-13.38 49.19,-13.29 49.01,-13.44 48.9,-13.72 48.78,-13.9 48.79,-14.18 48.73,-14.53 48.56,-14.46 48.31,-14.56 48.07,-14.8 48.01,-15.11 48.05,-15.48",
+        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}"
+    }
+]

@@ -1,0 +1,35 @@
+category: object
+color: #41D5E1
+created: 20201209020131411
+modified: 20210727192031874
+rarity: 0
+tags: [[arcane artillery]] fixed
+title: siege staff
+type: text/vnd.tiddlywiki
+
+Siege staffs, the primary form of [[arcane artillery]], are made of
+wood—typically around fifteen feet long—engraved with mystic
+sigils and inlaid with [[dragonshard]]s.
+
+Activating a siege staff takes three actions: one to prime the
+staff; one action to aim it; and one action to release the spell.
+
+There are several basic models, each of which serves a
+different purpose. When activated, it produces one of the
+following effects, determined by its model:
+
+//''Blast Staff.''// This model was typically used to bombard
+massed troops or villages, unleashing a wide burst of energy. It
+has a range of 300/1200 feet and targets all creatures within a
+60-foot-radius sphere. 
+
+//''Force Staff.''// This model releases focused blasts of pure
+energy. Developed late in the war, these were primarily used
+to target fortifications, [[warforged titan]]s, and [[airship]]s. It has a
+range of 600/2400 feet.
+
+//''Focus Staff.''// This model acts as a [[magical implement]], amplifying the spells cast by an attuned spellcaster. Any offensive spell can be cast through this model of siege staff. The range is magnified by a factor of 5, with a long range of up to
+10 times the spell's standard range—so a [[fire bolt]] cast through
+a siege staff has a range of 600 feet and a long range of 1,200
+feet. The spell's area of effect is doubled. If the spell normally
+affects a single target, it instead affects a 20-foot-radius sphere.

@@ -1,0 +1,20 @@
+category: phenomenon
+color: #432874
+created: 20210108101411815
+modified: 20210727192031636
+title: short-term madness
+type: text/vnd.tiddlywiki
+
+| !<<dr d10>> |!Effects (lasts <<dr 1d10>> minutes) |
+| 1 |The character retreats into their mind and becomes paralyzed. The effect ends if the character takes any damage. |
+| 2 |The character collapses on the floor and spends the duration screaming, laughing, or weeping. |
+| 3 |The character becomes terrified, and is compelled to flee from the source of their fear. |
+| 4 |The character begins babbling and is incapable of normal speech or spellcasting. |
+| 5 |The character physically attacks the nearest creature for the duration. |
+| 6 |The character experiences vivid hallucinations and has [[disadvantage]] on all actions. |
+| 7 |The character does whatever anyone tells them to do that isn't obviously self-destructive. |
+| 8 |The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal. |
+| 9 |The character is completely stunned, unable to move or act except to speak falteringly. |
+| 10 |The character falls unconscious. |
+
+A [[calm emotions]] spell can suppress the effects of madness, while a [[lesser restoration|restoration]] spell can rid a character of a short-term or [[long-term madness]]. Depending on the source of the madness, [[remove curse]] might also prove effective. 

@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20210428030355714
+modified: 20210727192003310
+tags: necromancy
+tier: 3
+title: danse macabre
+type: text/vnd.tiddlywiki
+
+Threads of dark power leap from your fingers to pierce up to four corpses you can see within 60 feet. The corpses must be of creatures no larger than a human. Each corpse immediately stands up and becomes a [[zombie]]. 
+
+You can mentally command the [[undead]] creatures you make with this spell, issuing the same command to all of them. To receive the command, a creature must be within 60 feet of you. You decide what action the creatures will take and where they will move, or you can issue a general command, such as to guard a chamber or passageway against your foes. If you issue no commands, the creatures do nothing except defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.
+
+The creatures are under your control until the spell ends (up to 1 hour, or until your concentration breaks), after which they become inanimate once more.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may animate up to eight corpses.

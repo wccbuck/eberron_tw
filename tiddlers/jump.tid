@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210412035722220
+modified: 20210727192015796
+tags: [[primal magic]] transmutation
+tier: 2
+title: jump
+type: text/vnd.tiddlywiki
+
+You touch a creature. The creature's jump distance is tripled until the spell ends, up to 1 minute later.

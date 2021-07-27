@@ -1,0 +1,27 @@
+category: location
+color: #092F1E
+created: 20210302025307431
+modified: 20210727192029988
+tags: [[location type]]
+title: sea
+type: text/vnd.tiddlywiki
+
+The vast world ocean that covers [[Eberron]] is divided into ten distinct
+bodies of water, defined by the boundaries of the landmasses they encompass. The lines between seas are often difficult to draw, and a matter of
+particular dispute involves determining where the [[Lhazaar Sea]] ends and
+the [[Sea of Rage]] begins. (Common wisdom holds that when storms erupt
+and unexplainable events start happening, a ship has left the Lhazaar and
+entered the Sea of Rage.)
+
+!! The Ten Seas and their Bays
+
+<ul>
+<$list filter="[tag{!!title}!is[system]category[location]] -[tag{!!title}tagging[]] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag[sea]tag<currentTiddler>]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>

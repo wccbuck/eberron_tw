@@ -1,0 +1,26 @@
+category: creature
+color: #EA868F
+created: 20210723180230460
+enhancement: //''Suction.''// The clockwork gains the ability to climb walls.
+malfunction: //''Weak Armor.''// The clockwork loses its resistance to non-[[adamantine]] weapons.
+modified: 20210727192015112
+tags: construct clockwork
+tier: 2
+title: iron cobra
+type: text/vnd.tiddlywiki
+
+An iron cobra is exactly what its name implies: a metal snake with a poisonous bite. In addition to standard poisons, [[gnome]]s load this [[clockwork]] with [[alchemical|alchemist]] concoctions that can paralyze creatures and cloud their minds with paranoia.
+
+!! Clockwork Enhancement and Malfunction
+
+<<<
+<$button>
+<$action-chooserandom $dataTiddler="$:/ClockworkEnhancements" $field=enhancement/>
+<$action-chooserandom $dataTiddler="$:/ClockworkMalfunctions" $field=malfunction/>
+Generate
+</$button>
+
+''Enhancement: '' {{!!enhancement}}
+
+''Malfunction: '' {{!!malfunction}}
+<<<

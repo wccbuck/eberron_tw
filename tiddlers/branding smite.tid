@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210427173347759
+modified: 20210727191959168
+tags: [[divine magic]]
+tier: 2
+title: branding smite
+type: text/vnd.tiddlywiki
+
+The next time you hit a creature with a weapon attack before this spell ends (up to 1 minute later), the weapon gleams with astral radiance as you strike. The attack deals extra radiant damage to the target, which becomes visible if it's invisible, and the target sheds dim light in a 5-foot radius and can't become invisible until the spell ends.

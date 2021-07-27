@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210412005603794
+modified: 20210727192009223
+tags: [[primal magic]] abjuration
+tier: 3
+title: freedom of movement
+type: text/vnd.tiddlywiki
+
+You touch a willing creature. For up to 1 hour, the target's movement is unaffected by slippery, rocky, entangling, or otherwise difficult terrain, and spells and other magical effects can neither reduce the target's mobility nor cause the target to be paralyzed or restrained.
+
+The target can also easily slip out from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target's movement or attacks.

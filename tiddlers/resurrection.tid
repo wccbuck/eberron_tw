@@ -1,0 +1,20 @@
+category: spell
+color: #B7A1E0
+created: 20201231191403499
+modified: 20210727192028025
+tags: [[divine magic]] necromancy
+tier: 4
+title: resurrection
+type: text/vnd.tiddlywiki
+
+This spell requires a one-hour ritual and [[100c|money]] worth of ritual components, which are expended.
+
+You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't [[undead]]. If its soul is free and willing, the target returns to life.
+
+This spell neutralizes any poisons and cures nonmagical diseases afflicting the creature when it died. It doesn't, however, remove magical diseases, curses, and the like; if such effects aren't removed prior to casting the spell, they afflict the target on its return to life.
+
+This spell closes all mortal wounds and restores any missing body parts.
+
+Coming back from the dead is an ordeal. The target must spend at least a week recovering before returning to their former strength. In addition, casting this spell to restore life to a creature that has been dead for one year or longer taxes the spellcaster greatly. For up to 24 hours, you can't cast spells again, and are at a [[disadvantage]] for all actions.
+
+Performing this spell is risky; drawing a spirit back from [[Dolurrh]] might catch the attention of a Dolurrhi [[marut]], or even bring back the wrong spirit, causing a ghost to manifest or ending up with a hostile personality in your friend's body. This is why [[Jorasco]] healers capable of resurrection typically cast [[augury]] first, and will refuse service if the result is "woe". For more information, see the "Concerning Resurrection" section of [[Dolurrh]].

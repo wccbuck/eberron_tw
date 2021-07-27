@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210412000114499
+modified: 20210727192023104
+tags: abjuration
+tier: 2
+title: nondetection
+type: text/vnd.tiddlywiki
+
+For up to eight hours, you hide a target that you touch from [[divination]] magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical [[scrying]] sensors. Casting this spell consumes material components equal in value to [[2c|money]].

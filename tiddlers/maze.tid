@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210425071603030
+modified: 20210727192020907
+tags: abjuration
+tier: 4
+title: maze
+type: text/vnd.tiddlywiki
+
+You banish a creature that you can see within 60 feet into a labyrinthine [[demiplane]]. The target remains there for up to 10 minutes or until it escapes the maze.
+
+When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.

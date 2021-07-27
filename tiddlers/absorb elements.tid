@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210503224122568
+modified: 20210727191953292
+tags: [[primal magic]] abjuration
+tier: 2
+title: absorb elements
+type: text/vnd.tiddlywiki
+
+You cast this spell as a reaction, when hit by damage that is elemental in nature (such as fire, ice, or lightning). The spell captures some of the incoming energy, lessening its effect on you and momentarily storing it within your body. You have up to about 10 seconds to release this energy (such as with a melee attack) before it dissipates.

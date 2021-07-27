@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210410050119699
+modified: 20210727192032661
+tags: enchantment
+tier: 3
+title: sleep
+type: text/vnd.tiddlywiki
+
+This spell sends creatures into a magical slumber. Creatures within 20 feet of a point you choose within 90 feet must resist the spell's effects or fall unconscious for up to 1 minute, or until they are shaken awake. 
+
+[[Undead|undead]] and creatures immune to being charmed aren't affected by this spell.

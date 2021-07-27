@@ -1,0 +1,15 @@
+[
+    {
+        "created": "20210209002523815",
+        "title": "Andnemun Desert",
+        "text": "The Andnemun Desert stretches across [[Sunyagir]] in [[Syrkarn]] and [[Borunan]] in [[Riedra]]. A small band of [[stone giant]] nomads known as the Sandstriders are rumored to roam the Andnemun.",
+        "modified": "20210727191954214",
+        "tags": "desert Sarlona",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polygons": "17.87,182.39 16.47,182.36 15.33,182.59 14.15,182.95 12.95,183.17 11.7,183.58 11.31,184.23 12.11,185.91 12.66,186.59 12.69,187.35 13.52,188.44 13.71,189.16 14.3,190.3 14.76,191.27 15.63,192.25 16.8,192.6 18.21,192.84 19.23,192.9 20.14,192.93 20.97,192.81 21.83,192.38 22.67,191.49 22.79,190.59 23.77,188.42 24.38,186.66 24.42,185.71 24.12,184.83 23.42,184.08 22.5,183.49 21.9,183.02 21.23,182.48 20.56,181.89 20.18,181.2 19.44,180.99 18.73,181.37",
+        "style": "{\"color\":\"#C57200\",\"fillColor\":\"#eedb74\",\"fillOpacity\":\"0.5\"}"
+    }
+]

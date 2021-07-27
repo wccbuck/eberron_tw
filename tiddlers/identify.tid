@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210315044843871
+modified: 20210727192014383
+tags: divination
+tier: 2
+title: identify
+type: text/vnd.tiddlywiki
+
+You choose one object that you must touch throughout the 1-minute casting of the spell. If it is a [[magic item]] or some other magic-imbued object, you learn its properties and how to use them, and any other details in the item's description. You learn whether any [[spell]]s or curses are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.
+
+If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.

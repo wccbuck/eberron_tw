@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20210102220729008
+modified: 20210727192020355
+rarity: 1
+tags: tool
+title: map of location
+type: text/vnd.tiddlywiki
+
+This map depicts the geography of a 100-mile square. You
+can speak a command word and have your
+current location appear on the map as a red dot that
+persists for 1 minute. Once you have used this property, it
+can't be used again until the next dawn. 

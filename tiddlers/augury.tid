@@ -1,0 +1,19 @@
+category: spell
+color: #B7A1E0
+created: 20201216163606242
+modified: 20210727191956374
+tags: [[divine magic]] divination
+tier: 2
+title: augury
+type: text/vnd.tiddlywiki
+
+By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you perform a 1-minute ritual and receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible omens:
+
+* ''Weal'', for good results
+* ''Woe'', for bad results
+* Weal and woe, for both good and bad results
+* Nothing, for results that aren't especially good or bad
+
+The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
+
+If you cast the spell two or more times within 24 hours, there is an increasing chance for each casting after the first that you get a random reading (<<dr 1d4>>, where 1=Weal, etc). The GM makes this roll in secret.

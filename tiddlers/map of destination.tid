@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20210102220436712
+modified: 20210727192020344
+rarity: 1
+tags: tool
+title: map of destination
+type: text/vnd.tiddlywiki
+
+This map depicts the geography of a 100-mile square. You can point at two spots on the map and cause it to display the shortest, most direct physical route between the points with a red line. The map then becomes nonmagical, but the line remains. 

@@ -1,0 +1,8 @@
+color: #092F1E
+created: 20210303025040257
+modified: 20210727192021983
+tags: [[location type]]
+title: monument
+type: text/vnd.tiddlywiki
+
+<<list-links-article "[tag{!!title}category[location]sort[title]]">>

@@ -1,0 +1,17 @@
+category: location
+color: #092F1E
+created: 20200417182416448
+modified: 20210727192040134
+tags: ward
+title: upper ward
+type: text/vnd.tiddlywiki
+
+The upper city of [[Sharn]] sees the most light and enjoys the freshest air,
+and consequently the most well-to-do members of
+society live and work among the skybridges and
+platforms and balconies that extend from the
+uppermost towers. 
+
+<<list-links "[tag{!!title}sort[title]]">>
+
+See also: [[middle ward]], [[lower ward]].

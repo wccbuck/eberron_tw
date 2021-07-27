@@ -1,0 +1,11 @@
+caption: Spells
+created: 20210409214722773
+modified: 20210727191952591
+tags: 
+title: $:/MySpells
+type: text/vnd.tiddlywiki
+
+!!! Saved Spells
+<$list filter="[list[My Stuff]category[spell]]">
+<$button><$action-listops $tiddler="My Stuff" $subfilter="-[<currentTiddler>]"/>X</$button> &nbsp;{{!!article}}<$link><<currentTiddler>></$link><br/>
+</$list>

@@ -1,0 +1,77 @@
+category: location
+color: #3B5C0A
+created: 20200416214513663
+modified: 20210727192026495
+polygons: 35.99,27.81 35.87,27.87 35.76,27.96 35.73,28.07 35.76,28.2 35.81,28.28 35.91,28.34 35.99,28.31 36.05,28.23 36.16,28.16 36.11,28.0 36.1,27.88 35.99,27.81|36.7,28.31 36.68,28.3 36.59,28.29 36.52,28.31 36.43,28.37 36.35,28.43 36.28,28.5 36.28,28.58 36.23,28.65 36.16,28.72 36.11,28.79 36.15,28.87 36.19,28.94 36.26,29.01 36.34,29.04 36.43,29.05 36.51,29.01 36.61,28.95 36.68,28.93 36.75,28.87 36.8,28.8 36.79,28.71 36.76,28.61 36.74,28.52 36.73,28.42 36.7,28.31|37.8,26.68 37.61,26.82 37.46,26.93 37.43,27.07 37.19,27.19 37.07,27.32 37.0,27.47 37.04,27.62 37.21,27.57 37.16,27.68 37.3,27.82 37.29,28.07 37.33,28.26 37.41,28.36 37.33,28.42 37.29,28.54 37.46,28.76 37.6,28.76 37.72,28.68 38.04,28.78 38.28,28.94 38.44,29.08 38.44,29.25 38.56,29.4 38.72,29.73 38.7,29.9 38.79,30.03 38.83,30.25 38.98,30.41 39.15,30.34 39.34,30.34 39.49,30.36 39.73,30.21 39.81,30.01 40.1,29.99 40.22,29.88 40.34,30.11 40.45,30.2 40.5,30.37 40.6,30.48 40.52,30.6 40.49,30.84 40.45,31.02 40.39,31.2 40.15,31.26 39.99,31.23 39.76,31.26 39.54,31.09 39.35,31.18 39.24,31.3 39.19,31.49 39.15,31.68 39.28,31.74 39.27,32.06 39.4,32.3 39.58,32.37 39.45,32.5 39.53,32.72 39.38,32.95 39.33,33.17 39.24,33.08 39.08,33.08 39.0,33.13 38.87,32.97 38.68,33.03 38.47,33.18 38.41,33.32 38.22,33.41 38.04,33.55 37.92,33.71 37.84,33.85 37.86,34.02 37.76,34.15 37.68,34.3 37.55,34.42 37.55,34.64 37.47,34.81 37.51,35.0 37.62,35.14 37.52,35.28 37.58,35.42 37.45,35.49 37.48,35.75 37.61,35.84 37.59,36.02 37.65,36.23 37.74,36.44 37.87,36.47 37.98,36.58 38.15,36.54 38.17,36.84 38.29,36.93 38.41,36.88 38.44,36.81 38.59,36.82 38.74,36.94 38.91,36.92 39.05,36.95 39.25,36.85 39.38,36.87 39.54,36.83 39.66,37.07 39.87,37.27 40.1,37.35 40.13,37.66 40.28,37.82 40.43,37.81 40.55,37.94 40.81,38.07 40.96,37.96 41.07,37.88 41.31,37.98 41.5,37.93 41.53,38.02 41.71,37.94 41.89,38.01 41.97,38.19 41.93,38.55 42.15,38.64 42.34,38.71 42.46,38.87 42.66,38.82 42.85,38.83 42.98,38.84 43.06,38.71 43.24,38.7 43.4,38.64 43.46,38.48 43.49,38.32 43.63,38.35 43.62,38.14 43.59,38.02 43.67,37.9 43.71,37.75 43.62,37.67 43.66,37.38 43.75,37.27 43.76,36.91 43.94,36.66 43.96,36.37 44.01,36.18 43.92,35.98 43.84,35.65 43.91,35.55 44.06,35.97 44.17,36.4 44.37,36.58 44.5,36.71 44.62,36.83 44.68,36.97 44.72,37.15 44.64,37.3 44.53,37.42 44.48,37.59 44.47,37.78 44.5,37.96 44.49,38.15 44.53,38.33 44.63,38.49 44.69,38.69 44.81,38.82 44.91,38.98 45.04,38.98 45.23,38.9 45.37,38.79 45.46,38.65 45.51,38.46 45.58,38.28 45.62,38.63 45.71,38.78 45.87,38.88 46.05,38.9 46.2,38.95 46.3,39.02 46.41,38.9 46.49,38.75 46.57,38.6 46.73,38.55 46.88,38.45 47.05,38.4 47.17,38.33 47.31,38.18 47.44,38.05 47.54,37.87 47.41,37.69 47.41,37.47 47.35,37.32 47.19,37.17 46.93,37.03 46.71,37.04 46.56,37.14 46.41,37.14 46.35,37.07 46.18,36.96 46.09,36.83 46.12,36.7 46.24,36.7 46.31,36.83 46.46,36.9 46.71,36.87 46.95,36.9 47.14,36.96 47.29,36.92 47.41,36.94 47.57,36.76 47.66,36.77 47.76,36.62 47.79,36.47 47.72,36.41 47.74,36.23 47.7,36.07 47.57,36.09 47.8,35.78 47.76,35.61 47.66,35.43 47.56,35.34 47.53,35.19 47.34,34.98 47.15,34.7 47.05,34.88 46.83,34.83 46.84,34.7 46.78,34.6 46.58,34.55 46.49,34.42 46.34,34.56 45.98,34.71 45.81,34.6 45.57,34.53 45.78,34.45 46.01,34.42 46.12,34.29 46.48,34.32 46.57,34.23 46.75,34.24 46.92,34.24 47.07,34.29 47.21,34.18 47.33,34.1 47.47,34.0 47.63,34.1 47.81,34.1 47.99,33.94 48.01,33.46 48.06,33.01 48.16,32.72 47.88,32.57 47.69,32.49 47.46,32.29 47.41,32.09 47.25,31.86 47.18,31.66 47.2,31.39 47.18,31.25 47.08,30.94 47.04,30.71 46.83,30.39 46.57,30.26 46.4,30.12 46.22,29.94 46.07,29.59 45.98,29.42 45.77,29.36 45.53,29.32 45.32,29.27 45.14,29.15 44.97,28.98 44.78,28.69 44.66,28.47 44.44,28.19 44.28,27.92 44.15,27.7 44.0,27.52 43.79,27.33 43.61,27.18 43.33,27.01 43.12,26.83 42.95,26.56 42.8,26.37 42.62,26.28 42.39,26.28 42.18,26.26 42.04,26.17 41.77,25.93 41.61,25.79 41.25,25.77 40.88,25.74 40.7,25.74 40.42,25.81 40.2,25.79 39.92,25.76 39.74,25.92 39.61,26.08 39.45,26.14 39.29,26.06 39.08,25.94 38.65,25.91 38.36,25.97 38.24,26.15 38.16,26.33 38.01,26.34 37.9,26.44
+style: {"fillOpacity":"0","opacity":"0"}
+tags: nation Khorvaire
+title: Q'barra
+type: text/vnd.tiddlywiki
+
+''Capital:'' [[Newthrone]]<br/>
+''Hallmarks:'' Eberron [[dragonshard]]s, [[lizardfolk]], rare herbs
+
+Q'barra is a young nation on the edge of [[Khorvaire]], an
+untamed frontier filled with danger and opportunity.
+During the golden age of [[Galifar]], few humans bothered
+to cross the [[Endworld Mountains]] to explore the vast
+jungle beyond. When the [[Last War]] broke out, a fleet of
+settlers came to Q'barra in search of a new home far
+from the war. As this settlement expanded, the settlers
+discovered massive deposits of Eberron [[dragonshard]]s. Over the past decade, a wave of prospectors, wandslingers, refugees, and fortune-seekers
+have descended on Q'barra, along with brigands, deserters from the war, and all manner of criminals and opportunists.
+
+To their surprise, Q'barra was already home to a number of ancient civilizations [[human]]s know nothing about:
+the [[lizardfolk]] of the [[Cold Sun Federation]], the [[dragonborn]] of [[Ka'rhashan]], and the confederacy of the [[Poison Dusk]]. Most settlers refer to them collectively
+as "[[scales]]." King [[Sebastes ir'Kesslan]] of [[Newthrone]] has
+established a treaty with the [[Cold Sun Federation]], but
+communication has been difficult and prospectors rarely
+abide by the terms of the treaty. 
+
+!! Interesting Things About {{!!article}}{{!!title}}
+
+* Q'barra is one of the richest sources of Eberron [[dragonshard]]s in [[Khorvaire]], drawing waves of settlers and prospectors to this young and growing nation on the edge of civilization.
+* Certain ruins in Q'barra appear connected to the [[Age of Demons]]. The settlers know little of the history of this region, but the [[Poison Dusk]] [[lizardfolk]] have ties to [[fiend]]ish powers.
+* House [[Tharashk]] has a strong presence in Q'barra. Tharashk is the primary buyer of Eberron dragonshards and also runs large-scale mining operations here. 
+
+!! Q'barran Characters
+
+Q'barra tempts explorers from the west with the prospects of wealth and new lands to conquer—mostly humans but including members of all races found in [[Khorvaire]]. Settlers, [[dragonborn]], and [[lizardfolk]] characters
+who originate here should consider the following:
+
+* ''Settlers.'' Q'barra is an excellent place to explore the traditional archetypes of the classic Western. As a [[paladin]], you could be a lone sheriff seeking to protect your newly formed mining village. Your [[cleric]] could be the town preacher. As a [[sorcerer]] or [[bard]] with a criminal background, you could be a dashing wandslinger looking for trouble and gold.
+* ''Renegades and Regrets.'' Q'barra promises a land of opportunity and a place where you can leave your past behind. Are you a deserter? Were you convicted of a crime you didn't commit? Are you fleeing from a broken heart? Q'barra has also drawn [[Cyran|Cyre]] refugees and newly freed [[warforged]], both seeking a home in the wild east.
+* ''Lizardfolk.'' The [[lizardfolk]]'s primitive culture blends [[druid]]ic traditions with the beliefs of the [[Silver Flame]]. You might have been sent to study the softskins—to learn about them and potentially serve as an envoy for your people. Alternatively, you could be following a spiritual vision.
+* ''Dragonborn.'' The [[dragonborn]] live amid the remnants of ancient glory. They have a proud martial tradition, and a number of dragonborn venture west in search of worthy challenges. If you follow this path, you might have served as a mercenary in the [[Last War]]. 
+
+!! Cities and Sites
+
+Q'barra is split into three main regions. [[New Galifar]] is
+the original colony; it has a feudal structure and holds
+to the laws of the [[Treaty of Thronehold]]. To the north,
+[[Hope]] is a collection of small mining towns. In Hope, the
+law goes only as far as the people willing to enforce it.
+Beyond these human regions lie the unexplored lands of
+the [[scales]]. 
+
+!!! Cities
+
+<<list-links-article "[tag{!!title}category[location]tag[city]sort[title]]">>
+
+!!! Towns
+
+<<list-links-article "[tag{!!title}category[location]tag[town]sort[title]]:filter[get[text]length[]compare:integer:gt[350]]">>
+
+!!! Other Sites
+
+<<list-links-article "[tag{!!title}category[location]!tag[province]!tag[city]!tag[town]sort[title]]:filter[get[text]length[]compare:integer:gt[350]]">>
+
+!! Aftermath of the Last War
+
+The influx of [[Cyran|Cyre]] refugees promises to reshape Q'barra. Most of the settlers are peaceful people searching for a homes and opportunities, but some among them chose Q'barra over refugee camps because they refused to accept charity from former enemies. These "Mourners" rob and kill settlers from the nations that fought against [[Cyre]]. Hope also has its share of brigands and criminals, bandits who prey on House [[Tharashk]] convoys and settlers alike.
+
+The relationship between the settlers and the natives
+is another source of tension. Although King [[Sebastes|Sebastes ir'Kesslan]]
+forged a treaty with the [[Cold Sun Federation]], the prospectors of [[Hope]] regularly violate this treaty. The [[Poison Dusk]] [[lizardfolk]] are hostile to both the settlers and the Cold Sun Federation. Conflicts between settlers and
+[[scales]] have escalated over the last four years, and many
+fear that worse is yet to come. 

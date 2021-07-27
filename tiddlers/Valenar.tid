@@ -1,0 +1,98 @@
+category: location
+color: #3B5C0A
+created: 20200417000117218
+modified: 20210727192040365
+polygons: 40.79,13.42 40.71,13.21 40.63,13.16 40.56,13.17 40.53,13.19 40.49,13.12 40.42,13.07 40.36,13.08 40.27,13.1 40.21,13.08 40.11,13.09 40.03,13.09 39.99,13.04 39.96,12.96 39.89,12.87 39.85,12.9 39.81,12.91 39.8,12.85 39.75,12.81 39.74,12.75 39.83,12.68 39.92,12.59 39.93,12.52 39.9,12.45 39.86,12.39 39.86,12.27 39.88,12.2 39.89,12.13 39.85,12.08 39.78,12.05 39.74,12.0 39.67,12.0 39.62,12.08 39.54,12.21 39.42,12.29 39.28,12.37 39.04,12.4 38.82,12.36 38.61,12.37 38.4,12.34 38.15,12.3 38.05,12.36 37.98,12.5 37.85,12.65 37.73,12.73 37.58,12.75 37.35,12.74 37.16,12.7 37.06,12.66 36.98,12.52 36.85,12.36 36.69,12.11 36.51,11.84 36.38,11.65 36.29,11.47 36.08,11.32 35.85,11.24 35.69,11.13 35.5,11.13 35.13,11.18 34.8,11.32 34.61,11.49 34.43,11.7 34.24,11.93 34.01,12.21 33.81,12.54 33.67,12.79 33.38,13.06 33.11,13.25 32.74,13.4 32.22,13.57 32.02,13.67 32.2,13.68 32.33,13.81 32.54,13.93 32.58,14.2 32.48,14.41 32.57,14.57 32.51,14.73 32.38,14.82 32.25,14.95 32.07,15.03 31.9,15.1 31.74,15.17 31.6,15.3 31.58,15.47 31.55,15.73 31.68,15.82 31.66,15.98 31.6,16.14 31.63,16.32 31.65,16.51 31.5,16.62 31.44,16.77 31.3,16.89 31.2,17.03 31.03,17.1 30.84,17.11 30.71,17.04 30.49,17.21 30.34,17.27 30.24,17.41 30.14,17.54 30.0,17.66 29.99,17.82 30.08,18.0 29.98,18.15 29.85,18.37 29.64,18.39 29.51,18.36 29.24,18.41 29.09,18.35 28.97,18.5 28.74,18.58 28.69,18.43 28.44,18.6 28.26,18.69 28.12,18.77 27.99,18.87 27.86,19.01 27.84,19.15 27.97,19.29 27.97,19.45 27.98,19.62 27.95,19.78 27.9,19.95 27.75,20.03 27.49,20.09 27.35,20.01 27.23,19.88 27.06,19.87 26.88,19.88 26.69,19.89 26.55,19.95 26.37,20.13 26.22,20.13 26.04,20.19 25.95,20.32 25.86,20.43 25.79,20.58 25.77,20.74 25.84,20.88 25.92,21.03 25.93,21.2 25.96,21.37 25.97,21.53 25.97,21.71 25.91,21.83 25.83,21.97 25.7,22.03 25.43,22.03 25.21,22.03 24.96,22.17 24.8,22.04 24.54,22.11 24.38,22.17 24.3,22.3 24.18,22.42 24.03,22.53 23.97,22.67 23.83,22.78 23.86,22.95 24.01,23.05 23.95,23.28 23.95,23.42 24.01,23.6 24.06,23.78 24.21,23.88 24.34,23.88 24.41,24.01 24.41,24.2 24.61,24.37 24.76,24.44 24.89,24.59 25.07,24.65 25.15,24.52 25.28,24.41 25.47,24.44 25.66,24.5 25.75,24.68 25.95,24.61 26.14,24.53 26.31,24.7 26.45,24.79 26.5,24.97 26.6,25.11 26.77,25.19 26.93,25.25 27.1,25.18 27.28,25.17 27.46,25.09 27.57,25.0 27.63,24.87 27.67,24.72 27.85,24.72 27.93,24.6 28.05,24.79 28.21,24.81 28.35,24.94 28.49,24.98 28.63,24.86 28.81,24.76 29.0,24.61 29.22,24.45 29.28,24.31 29.4,24.19 29.46,24.06 29.5,23.93 29.62,23.89 29.76,23.85 29.95,23.76 30.14,23.83 30.33,23.78 30.5,23.69 30.65,23.58 30.79,23.51 30.89,23.38 30.98,23.19 30.99,23.07 31.02,22.94 31.05,22.79 31.11,22.65 31.29,22.38 31.64,22.17 31.38,22.45 31.29,22.65 31.29,22.83 31.25,23.01 31.2,23.15 31.18,23.31 31.09,23.44 31.11,23.59 31.15,23.73 31.04,23.88 30.9,23.98 30.77,24.03 30.68,24.12 30.44,24.03 30.23,24.2 30.05,24.15 29.82,24.32 29.71,24.48 29.7,24.63 29.52,24.7 29.31,24.85 29.19,25.0 29.19,25.19 28.93,25.14 28.87,25.39 28.76,25.6 28.92,25.71 28.93,25.89 28.94,26.06 28.99,26.25 29.02,26.38 29.07,26.57 29.24,26.64 29.45,26.63 29.67,26.6 29.84,26.58 30.0,26.56 30.28,26.54 30.44,26.52 30.58,26.62 30.73,26.72 30.88,26.82 31.06,26.82 31.18,26.93 31.33,27.09 31.49,27.16 31.64,27.24 31.8,27.33 31.94,27.26 32.06,27.13 32.18,27.0 32.16,26.84 32.3,26.77 32.47,26.87 32.54,27.04 32.53,27.0 32.74,27.01 33.0,27.0 33.04,26.88 33.14,26.83 33.25,26.91 33.62,26.55 33.84,26.26 33.89,26.09 34.0,26.04 34.02,25.85 34.06,25.7 34.07,25.52 34.22,25.35 34.22,25.18 34.22,24.96 34.35,24.93 34.52,24.72 34.62,24.78 34.8,24.76 34.82,25.06 34.86,25.21 34.8,25.44 34.64,25.47 34.55,25.81 34.69,25.91 34.67,26.11 34.79,26.27 34.94,26.37 35.11,26.36 35.18,26.21 35.23,25.97 35.4,26.01 35.58,26.03 35.68,26.16 35.63,26.37 35.76,26.51 35.94,26.51 36.08,26.63 36.26,26.68 36.34,26.57 36.59,26.81 36.76,26.64 36.91,26.66 36.97,26.55 37.11,26.37 37.4,26.55 37.56,26.61 37.73,26.6 37.9,26.44 38.01,26.34 38.16,26.33 38.24,26.15 38.36,25.97 38.65,25.91 39.08,25.94 39.29,26.06 39.45,26.14 39.61,26.08 39.74,25.92 39.92,25.76 40.2,25.79 40.42,25.81 40.7,25.74 40.78,25.74 40.75,25.46 40.72,25.12 40.67,24.72 40.56,24.37 40.56,23.92 40.55,23.37 40.46,22.91 40.37,22.42 40.39,21.77 40.39,21.14 40.32,20.69 40.24,20.24 40.08,19.65 39.93,19.25 39.79,18.65 39.79,18.44 39.83,18.06 39.83,17.63 39.8,17.3 39.66,16.87 39.59,16.47 39.56,16.03 39.6,15.68 39.69,15.27 39.69,14.78 39.71,14.39 39.78,14.19 39.95,14.05 40.17,13.99 40.43,13.89 40.66,13.72 40.82,13.6
+style: {"fillOpacity":"0","opacity":"0"}
+tags: nation Khorvaire
+title: Valenar
+type: text/vnd.tiddlywiki
+
+''Capital:'' [[Taer Valaestas]]<br/>
+''Hallmarks:'' Elves, horses, mercenaries 
+
+In the midst of the [[Last War]], an army of [[Tairnadal]] warrior [[elves|elf]] from [[Aerenal]] seized this region from [[Cyre]],
+invoking a claim to the land from long before [[humanity|human]]'s
+arrival on the continent. The elves of Valenar devote
+themselves to the arts of war. Their cavalry has no equal
+in [[Khorvaire]], and they combine a talent for magic with
+stealth and swordplay. Cyre employed the Valenar as
+mercenaries until the elves betrayed Cyre and took a
+corner of the nation for themselves. These lands escaped the destruction visited upon the rest of [[Cyre]]. After
+the [[Mourning]], no one wanted to challenge the Valenar's
+claim to the land they had taken; in the interests of
+peace, the [[Treaty of Thronehold]] recognized the new elf
+kingdom of Valenar.
+
+Valenar [[elves|elf]] spend little time at rest, operating in
+small units called warbands. Those who aren't patrolling the kingdom on horseback or [[griffon]]back travel abroad seeking adventure.
+[[Half-elves|half-elf]] handle the civic administration. Some of
+these are the children of Valenar elves, but most are immigrants who've come from elsewhere in [[Khorvaire]] in
+search of opportunity. Cyran [[human]]s still occupying the
+region fall below them in rank. Once citizens of [[Cyre]],
+now they're citizens of Valenar. Little has changed for
+the commoners, most of whom don't care who wears
+the crown.
+
+The harsh sands of the [[Blade Desert]] cover northern
+Valenar and serve as a natural barrier between this land
+and the rest of [[Khorvaire]]. Beyond the desert, Valenar
+transitions from rolling steppes to fertile plains. The
+desert can be deadly, but the Valenar elves pose the
+greatest risk for adventurers. The elves won't interfere
+with peaceful caravans, but a well-armed group of travelers invites challenges. 
+
+!! Interesting Things About {{!!article}}{{!!title}}
+
+* The [[dragonmarked|dragonmarked house]] House [[Lyrandar]] helped the Valenar [[elves|elf]] build the infrastructure of their kingdom. The [[half-elves|half-elf]] have no homeland, but House Lyrandar hopes to make Valenar a haven for its people.
+* The ancestors of the elves fought [[goblin]]s for control of this region many thousands of years ago. Relics of that struggle are still scattered across Valenar and the [[Blade Desert]]: ruins, haunted fortresses, and battlefields that have slipped out of alignment with time.
+* Valenar warbands include [[druid]]s (the [[Siyal Marrain]]) and rangers, and [[druidic magic|primal magic]] bolsters the military arsenal of the elves. Walls of thorns surround elven fortresses, and beasts fight alongside the elves. [[Valenar horses|Valenar beast]] are known for being as fearless and stubborn as the elves who ride them. 
+
+!! Valenar Characters
+
+When creating a Valenar character or NPC, consider the following:
+
+* ''Martial Role.'' Valenar was forged in war. As an [[elf]], consider your role in a warband. Are you a simple soldier, an acolyte devoted to the elven ancestors, or a sage familiar with your Valenar history? As a [[half-elf]], you might be an entertainer, a sailor, or a guild artisan working to support the elf army, or you might be a charlatan seeking opportunities. As a [[human]] from Valenar, you could be an urchin born in [[Taer Valaestas]], or a folk hero fighting for the common people.
+* ''Dreams.'' Have you left Valenar behind, or are your aspirations tied to the new kingdom? As a [[half-elf]] with Valenar blood, do you want to be recognized as a true Valenar—granted a bond to a [[patron ancestor|Spirits of the Past]] and a chance at immortality—or are you more interested in building a homeland for your people? As a [[human]] whose land the elves reclaimed, do you want to work with the elves or do you want to drive them out—and if so, who do you want to replace them?
+* ''Animal Companions.'' Feytouched beasts play an important role in Valenar society. The Valenar are known for their steeds, but a wide range of [[Valenar beast]]s bond with non-elves. As a starting character, you might not have established a connection to a Valenar beast. If you return to Valenar later in your adventuring career, perhaps you will find your bondmate. 
+
+!! The People of Valenar
+
+Valenar is home to two sorts of people: the restless and the anchored. The warbands of the [[Valaes Tairn]] remain in constant motion, traveling along the [[Old Road]] and through the wilds. Even those who serve the Darkwood Crown as defenders of the kingdom rarely dine in the villages they protect, preferring to live off the land using their skills and their [[cualra flask]]s. But while you may not see elves in the villages of Valenar, you will certainly encounter a warband before you have spent a day in the realm. The [[Valaes Tairn]] love nothing more than to find a worthy foe, and many of their greatest warriors care nothing for honor in battle—only victory. If you make yourself a prize, you will face ambushes and challenges from one end of Valenar to the other, and each victory will simply draw the attention of more talented elves and teach them your strengths and weaknesses. Show humility, pose no threat, and the [[Valaes Tairn]] will pass you by.
+
+Where the restless elves hate to stand still, most of the other people of Valenar might as well be rooted to the earth. The [[human]]s and [[Khoravar|half-elf]] of this land live in villages, hamlets, and thorps, and few of these people have ever traveled farther than ten leagues from the ground on which they were born. By and large, the only traditions the people of [[Shivairn]] have in common with the folk of [[Norinath]] are those forced upon them by the lords of [[Galifar]]—including distrust and sometimes open hostility towards westerners. Those who venture off the [[Old Road]] will find a cold welcome in Valenar villages, along with few services for travelers; the [[human]]s of Valenar keep to themselves and expect the same of their neighbors.
+
+Most [[human]]s can trace their roots back to the fallen nation of [[Khunan]] in [[Sarlona]], and they are proud of their ties to the soil of the east; along the [[Old Road]], [[Shivairn]], [[Keth]], and [[Norinath]] are largely human communities. The [[Khoravar|half-elf]] are more recent arrivals, who have traveled east over the course of the last four decades. Some have founded new communities, such as [[Moonshadow]].
+
+!! Cities and Sites
+
+Most of the communities of Valenar consist of farming villages, with fortress towers scattered across the plains as military outposts. 
+
+!!! Cities
+
+<<list-links-article "[tag{!!title}category[location]tag[city]sort[title]]">>
+
+!!! Towns
+
+<<list-links-article "[tag{!!title}category[location]tag[town]sort[title]]:filter[get[text]length[]compare:integer:gt[200]]">>
+
+!!! Other Sites
+
+<<list-links-article "[tag{!!title}category[location]!tag[province]!tag[city]!tag[town]sort[title]]:filter[get[text]length[]compare:integer:gt[350]]">>
+
+!! Aftermath of the Last War
+
+There's a popular saying in [[Taer Valaestas]]: "The
+shadow of war hangs long over Valenar." War defines
+Valenar culture. The [[Treaty of Thronehold]] recognized
+Valenar as a sovereign nation, but the elves are already
+pushing the limits of the treaty. Some venture into the
+[[Mournland]] or the untamed jungles of [[Q'barra]], and Valenar warbands have launched raids into [[Darguun]] and
+[[Karrnath]]. High King [[Shaeras Vadallia]] has promised to
+rein in his warriors, but many believe that the elves will
+continue their provocation. Their main interest is conflict with a worthy foe—and they might want Darguun or Karrnath to declare war.
+
+Because of this, the nation remains on a war footing. Villages find it challenging to produce the supplies required to maintain the elf army. Still, the Valenar are rarely cruel overlords. As long as a village can meet its
+quotas, the elves leave it alone, though villages that fall
+below expectations are more likely to receive assistance
+from [[druid]]ic advisors than punishment. 

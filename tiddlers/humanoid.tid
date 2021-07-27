@@ -1,0 +1,23 @@
+category: creature
+color: #58151c
+created: 20200415015309474
+modified: 20210727192014057
+title: humanoid
+tooltip: human, elf, dwarf, orc, etc.
+type: text/vnd.tiddlywiki
+
+Humanoids are the main peoples of Eberron, both civilized and savage, including [[human]]s and a tremendous variety of other species. They have [[language]] and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form.
+
+!!! <<showcreature-type>>
+
+!! Common
+
+<<list-links-article "[tag{!!title}var[common]category[creature]sort[title]]">>
+
+!! Uncommon
+
+<<list-links-article "[tag{!!title}var[uncommon]category[creature]sort[title]]">>
+
+!! Exotic
+
+<<list-links-article "[tag{!!title}!var[common]!var[uncommon]category[creature]] -[tag{!!title}tagging[]category[creature]] +[sort[title]]">>

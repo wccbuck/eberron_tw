@@ -1,0 +1,25 @@
+category: spell
+color: #B7A1E0
+created: 20210507211929087
+modified: 20210727192012404
+tags: [[divine magic]]
+tier: 3
+title: hallow
+type: text/vnd.tiddlywiki
+
+This ritual requires 24 hours of preparation, as well as the expenditure of herbs, oils, incense, or other material components worth at least [[100c|money]]. You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect a //hallow// spell. The affected area is subject to the following effects.
+
+First, [[immortal]]s, [[manifestation]]s, and [[undead]] can't enter the area, nor can such creatures [[charm]], frighten, or possess creatures within it. Any creature charmed, frightened, or possessed by such a creature is no longer affected upon entering the area. You can exclude one or more of those types of creatures, such as [[celestial]]s or [[fey]], from this effect.
+
+Second, you can bind an extra effect to the area. Choose the effect from the following list, or choose an effect offered by the GM. Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific deity or leader, or creatures of a specific sort, such as [[orc]]s or [[troll]]s. Only creatures with powerful spiritual resolve can ignore the extra effect until it leaves the area.
+
+* //''Courage.''// Affected creatures can't be frightened while in the area.
+* //''Darkness.''// Darkness fills the area. Normal light, as well as magical light created by spells of [[rare tier|spell tier]] or lower, can't illuminate the area.
+* //''Daylight.''// Bright light fills the area. Magical darkness created by spells of [[rare tier|spell tier]] or lower can't extinguish the light.
+* ''//Energy Protection.//'' Affected creatures in the area have resistance to one magical or elemental damage type of your choice.
+* //''Energy Vulnerability.''// Affected creatures in the area have vulnerability to one magical or elemental damage type of your choice.
+* //''Everlasting Rest.''// Dead bodies interred in the area can't be turned into [[undead]].
+* //''Extradimensional Interference.''// Affected creatures can't move or travel using teleportation or by extradimensional or interplanar means.
+* //''Fear.''// Affected creatures are frightened while in the area.
+* //''Silence.''// No sound can emanate from within the area, and no sound can reach into it.
+* //''Tongues.''// Affected creatures can communicate with any other creature in the area, even if they don't share a common [[language]].

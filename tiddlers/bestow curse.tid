@@ -1,0 +1,21 @@
+category: spell
+color: #B7A1E0
+created: 20210412034609437
+modified: 20210727191957677
+tags: necromancy [[divine magic]]
+tier: 3
+title: bestow curse
+type: text/vnd.tiddlywiki
+
+You touch a creature, and that creature must resist your magic or else become cursed for up to 10 minutes. When you cast this spell, choose the nature of the curse from the following options:
+
+* Choose one [[action]] and one [[attribute]]. While cursed, the target has [[disadvantage]] when using that action or attribute.
+* While cursed, the target has [[disadvantage]] to perform any direct hostile action against you.
+* While the target is cursed, your attacks and spells deal extra necrotic damage to them.
+
+A [[remove curse]] spell ends this effect. At the GM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The GM has final say on such a curse's effect.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, the duration is extended to 24 hours.
+

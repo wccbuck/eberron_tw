@@ -1,0 +1,23 @@
+category: object
+color: #41D5E1
+created: 20210109074455464
+modified: 20210727192021511
+rarity: 3
+tags: weapon
+title: mimaxe
+type: text/vnd.tiddlywiki
+
+The mimaxe is a living weapon, the result of a [[mimic]]'s unlucky encounter with a creative [[artificer]]. It has a predatory intelligence, and is able to see and hear as well as communicate with simple grunts (usually to convey hunger). In addition to serving the wielder as a powerful magic battleaxe, the mimaxe has the following properties.
+
+''//False Appearance.//'' While the mimaxe remains motionless, it is indistinguishable from an ordinary battleaxe.
+
+''//Hungry.//'' The mimaxe has 3 charges, and recovers spent charges by consuming corpses. A small creature such as a [[goblin]] restores 1 charge, a [[human]]-sized creature restores 2 charges, and a large creature such as a horse restores 3 charges. A full mimaxe refuses to consume any additional corpses.
+
+The process of consuming a corpse is loud, obvious, and messy. Once consumed, the corpse is completely destroyed and any magic equipment on it is spat out into a nearby pile. The mimaxe does not change weight, regardless of what it has consumed.
+
+If the mimaxe goes 24 consecutive hours without eating a corpse, it loses 1 charge. If it goes 24 hours at 0 charges, it will search for the nearest source of food on its own... which may be the owner.
+
+''//Roar.//'' You may expend one charge to cause the mimaxe to roar menacingly, striking fear into the hearts of your foes, and granting [[advantage]] on attempts to intimidate.
+
+''//Teeth.//'' When you hit a creature with this weapon, you may expend a charge to deal extra damage.
+

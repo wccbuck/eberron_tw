@@ -1,0 +1,20 @@
+category: object
+color: #41D5E1
+created: 20201210025900683
+modified: 20210727192005466
+rarity: 2
+tags: accessory [[dragonmark focus item]]
+title: dragonmark reservoir
+tooltip: uncommon dragonmark focus item, stores power that can be channeled by mark wielders
+type: text/vnd.tiddlywiki
+
+Dragonmark reservoirs are always embedded with a Siberys
+[[dragonshard]], but come in many forms, most commonly an
+amulet or bracelet bearing the design of the [[house|dragonmarked house]] crest. Each
+reservoir is tied to a specific [[dragonmark]], such as
+the [[Mark of Healing]] or the [[Mark of Making]], and you can only
+attune to it if you possess that dragonmark.
+
+While wearing a dragonmark channel, you can use its power rather than your own to perform one of your dragonmark abilities (equivalent to a "common" tier spell). After using the channel 5-10 times in this way, its power is depleted and must recharge overnight.
+
+See also [[dragonmark channel]].

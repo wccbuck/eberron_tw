@@ -1,0 +1,15 @@
+category: spell
+color: #B7A1E0
+created: 20210420202126091
+modified: 20210727192008763
+tags: transmutation
+tier: 4
+title: flesh to stone
+type: text/vnd.tiddlywiki
+
+You attempt to turn one creature that you can see within 60 feet into stone. If the target's body is made of flesh, the creature must resist your magic or else be restrained as its flesh begins to harden. 
+
+Set up two four-segment [[progress clock]]s, one for your completion of the spell, and one for the restrained creature's struggle to resist the spell. If the restrained creature fills their progress clock first, the spell ends. Otherwise, it is turned to stone for 1 minute, or until your concentration breaks. As long as you maintain your concentration for the full minute, the creature is turned to stone until the effect is removed.
+
+If the creature is physically broken while petrified, it suffers from similar deformities if it reverts to its original state.
+

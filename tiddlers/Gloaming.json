@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20200415212424603",
+        "title": "Gloaming",
+        "text": "In the depths of the [[Towering Wood]], splendor and beauty surrenders to the darkness known as the Gloaming. Here, malformed trees\nare hosts to parasites, disease, and swarms of horrid\ninsects. Monstrous beetles, spiders, and centipedes\nattack unwary travelers. The [[druid]]s believe that this\nplace marks the location of a [[manifest zone]] to [[Mabar]],\nthe Endless Night. It could also have close ties to the [[layer]] of [[Lamannia]] known as the [[Rot]].\n\nThe [[Children of Winter]] often dwell among the twisted trees here, meditating on the cycle of life and death.",
+        "modified": "20210727192010570",
+        "tags": "[[Eldeen Reaches]] Khorvaire forest",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "list-after": "Towering Wood",
+        "polygons": "44.95,-28.79 45.04,-28.42 45.03,-28.09 44.86,-27.43 44.66,-27.2 44.2,-27.09 43.77,-27.1 43.48,-26.95 42.99,-26.95 42.69,-27.07 42.53,-27.4 42.19,-27.94 42.13,-28.21 42.23,-28.62 42.7,-28.9 43.24,-29.02 43.45,-29.19 43.45,-29.38 43.54,-29.63 43.85,-30.03 44.28,-29.95 44.63,-29.78 44.83,-29.47 44.93,-29.12",
+        "style": "{\"color\":\"#333C1A\",\"fillOpacity\":\"0\",\"weight\":2,\"dashArray\":\"4, 9\",\"opacity\":\"0.5\"}"
+    }
+]

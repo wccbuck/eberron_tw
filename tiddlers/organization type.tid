@@ -1,0 +1,7 @@
+category: miscellaneous
+created: 20210225042419305
+modified: 20210727192024027
+title: organization type
+type: text/vnd.tiddlywiki
+
+<<list-links-article "[tag{!!title}sort[title]]">>

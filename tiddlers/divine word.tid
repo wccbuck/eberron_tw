@@ -1,0 +1,17 @@
+category: spell
+color: #B7A1E0
+created: 20210425060240083
+modified: 20210727192004781
+tags: [[divine magic]]
+tier: 4
+title: divine word
+type: text/vnd.tiddlywiki
+
+You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within 30 feet. Each creature that can hear you must resist your magic or else it suffers the following effects (in order of increasing [[impact]]):
+
+* Deafened for 1 minute
+* Deafened and blinded for 10 minutes
+* Deafened, blinded and incapacitated for 1 hour
+* Killed instantly
+
+In addition, any extraplanar creature such as a [[fiend]] or [[elemental]] that fails to resist your spell is forced back to its [[plane]] of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a [[wish]] spell.

@@ -1,0 +1,16 @@
+category: spell
+color: #B7A1E0
+created: 20210318165532409
+modified: 20210727192004692
+tags: abjuration
+tier: 3
+title: dispel immortal
+type: text/vnd.tiddlywiki
+
+Shimmering energy surrounds and protects you from [[celestial]]s, [[elemental]]s, [[fiend]]s, and other [[immortal]]s. For the purposes of this spell, [[undead]] and [[manifestation]]s also count as immortals. You have [[advantage]] when defending yourself against an immortal for up to one minute.
+
+You can end the spell early by using either of the following special functions.
+
+//''Break Enchantment.''// You touch a creature you can reach that is charmed, frightened, or possessed by an [[immortal]]. The creature you touch is no longer charmed, frightened, or possessed by such creatures.
+
+//''Dismissal.''// If you are touching an extraplanar [[immortal]] (this will likely require an attempt), you can make an attempt to drive the creature back to its home [[plane]], if it isn't there already.

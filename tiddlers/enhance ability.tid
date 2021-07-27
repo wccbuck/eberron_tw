@@ -1,0 +1,21 @@
+category: spell
+color: #B7A1E0
+created: 20210428063946751
+modified: 20210727192007175
+tags: transmutation [[primal magic]]
+tier: 2
+title: enhance ability
+type: text/vnd.tiddlywiki
+
+You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends (10 minutes, or until your concentration breaks).
+
+//''Bear's Endurance.''// The target gains an extra temporary [[stress]] box.<br/>
+//''Bull's Strength.''// The target has [[advantage]] on attempts using ''Vigor''.<br/>
+//''Cat's Grace.''// The target has [[advantage]] on attempts using ''Focus''. Alternatively, it doesn't take damage from falling 20 feet or less if it isn't incapacitated.<br/>
+//''Eagle's Splendor. ''//The target has [[advantage]] on attempts using ''Heart''.<br/>
+//''Fox's Cunning.''// The target has [[advantage]] on attempts using ''Guile''.<br/>
+//''Owl's Wisdom.''// The target has [[advantage]] on attempts using ''Intellect''.
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target an additional creature, and the effect(s) last up to 1 hour.

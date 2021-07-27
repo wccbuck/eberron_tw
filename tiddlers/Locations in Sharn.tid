@@ -1,0 +1,62 @@
+category: miscellaneous
+created: 20210211170856241
+modified: 20210727192019176
+tags: 
+title: Locations in Sharn
+type: text/vnd.tiddlywiki
+
+!! The Five Plateaus
+
+<ul>
+<$list filter="[tag[Sharn]category[location]tag[quarter]!tag[dungeon]!tag[ward]] -[tag[Sharn]tagging[]] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>category[location]] -[tag<currentTiddler>tagging[]] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>category[location]] -[tag<currentTiddler>tagging[]] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>category[location]] -[tag<currentTiddler>tagging[]] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>category[location]] -[tag<currentTiddler>tagging[]] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+
+!! Above and Below
+
+<ul>
+<$list filter="[tag[Sharn]category[location]!tag[quarter]] [title[City of the Dead]] [title[Cliffside]] -[tag[Sharn]tagging[]] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>category[location]] -[tag<currentTiddler>tagging[]] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>category[location]] -[tag<currentTiddler>tagging[]] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>category[location]] -[tag<currentTiddler>tagging[]] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>category[location]] -[tag<currentTiddler>tagging[]] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>

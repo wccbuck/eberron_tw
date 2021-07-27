@@ -1,0 +1,15 @@
+[
+    {
+        "created": "20210124235100410",
+        "title": "Trolan River",
+        "text": "The Trolan River in [[Zilargo]] flows past the capital city of [[Trolanport]] into the [[Thunder Sea]].",
+        "modified": "20210727192039103",
+        "tags": "Zilargo river Khorvaire",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polylines": "25.18,-11.84 25.03,-11.89 25.04,-11.97 25.0,-12.04 24.89,-11.99 24.81,-11.91 24.7,-11.94 24.47,-12.11 24.28,-12.26 24.16,-12.23 23.99,-12.26 23.68,-12.5 23.53,-12.64 23.33,-12.74 23.12,-12.72 22.86,-12.67 22.57,-12.72 22.37,-12.79 22.09,-12.99 21.86,-13.06",
+        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
+    }
+]

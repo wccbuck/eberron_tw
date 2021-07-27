@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210504042834837
+modified: 20210727192030388
+tags: abjuration transmutation
+tier: 4
+title: sequester
+type: text/vnd.tiddlywiki
+
+This spell requires the expenditure of material components worth at least [[500c|money]]. By means of this spell, a willing creature or an object can be hidden away, safe from detection until it is dispelled or a specific condition is met. When you cast the spell and touch the target, it becomes invisible and can't be targeted by [[divination]] spells or perceived through [[scrying]] sensors created by divination spells.
+
+If the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn't grow older.
+
+You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include "after 1,000 years" or "when the [[Rage of War|Rak Tulkhesh]] is released." This spell also ends if the target takes any damage.

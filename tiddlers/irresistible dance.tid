@@ -1,0 +1,13 @@
+category: spell
+color: #B7A1E0
+created: 20210420232855722
+modified: 20210727192015235
+tags: enchantment
+tier: 3
+title: irresistible dance
+type: text/vnd.tiddlywiki
+
+When you cast this spell, add an extra die to your dice pool. Choose one creature that you can see within 30 feet. If the target cannot resist your enchantment, begins a comic dance in place: shuffling, tapping its feet, and capering for up to 1 minute. Creatures that can't be charmed are immune to this spell.
+
+A dancing creature must remain in place and has [[disadvantage]] to dodge or other actions that require dexterity. While the target is affected by this spell, other creatures have advantage on attack rolls against it. Every few seconds, a dancing creature can attempt to regain control of itself and end the spell early.
+

@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210507210845025
+modified: 20210727191956971
+tags: [[divine magic]]
+tier: 3
+title: banishing smite
+type: text/vnd.tiddlywiki
+
+The next time you hit a creature with a weapon attack within the next minute, your weapon crackles with force, and the attack deals extra force damage to the target. Additionally, if this attack brings the target creature close to being incapacitated, you banish it. If the target is native to a different [[plane]] of existence than the one you're on, the target disappears, returning to its home plane. If the target is native to the plane you're on (see exceptions below), the creature vanishes into a harmless [[demiplane]]. While there, the target is incapacitated. It remains there for up to 1 minute, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+
+The one exception to the above banishment rules are when the creature is a native [[fiend]] of Eberron. If you are on the Material Plane and the creature you banish is native to a [[demiplane]] of [[Khyber]], the target returns to its native demiplane. If it is [[creature tier]] ''3'' or less, it stays there, as if it were from a different plane of existence. If it is higher than tier 3, it is only banished to its home plane for up to 1 minute, at which point it reappears as described above for native creatures.

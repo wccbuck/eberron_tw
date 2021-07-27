@@ -1,0 +1,20 @@
+category: spell
+color: #B7A1E0
+created: 20210504005141915
+modified: 20210727192020010
+tags: necromancy
+tier: 4
+title: magic jar
+type: text/vnd.tiddlywiki
+
+This spell requires a one-minute ritual and a gem, crystal, reliquary, or some other ornamental container worth at least [[5c|money]]. Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or use reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a [[humanoid]]'s body.
+
+You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a [[protection from immortals]] or [[magic circle]] spell can't be possessed). If the target cannot resist your magic, your soul moves into the target's body, and the target's soul becomes trapped in the container. If the target resists your efforts to possess it, you can't attempt to possess it again for 24 hours.
+
+Once you possess a creature's body, you control it. Your game statistics are replaced by the statistics of the creature, though you retain your personality, ethics, and mental abilities. Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move or act at all.
+
+While possessing a body, you can choose to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and unless your container is within 100 feet and you are able to navigate back to it while resisting the pull of [[Dolurrh]], //you die too//.
+
+If the container is destroyed or the spell ends, your soul immediately returns to your body. If your body is more than 100 feet away from you or if your body is dead when you attempt to return to it, you die. If another creature's soul is in the container when it is destroyed, the creature's soul returns to its body if the body is alive and within 100 feet. Otherwise, that creature dies.
+
+When the spell ends, the container is destroyed.

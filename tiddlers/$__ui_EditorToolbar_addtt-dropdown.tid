@@ -1,0 +1,22 @@
+created: 20201223034114496
+modified: 20210727191952990
+tags: 
+title: $:/ui/EditorToolbar/addtt-dropdown
+type: text/vnd.tiddlywiki
+
+''Tooltip: ''<$edit-text tag="input" tiddler="$:/ToolTipTemp" default="" focus="true"/>
+
+<$button tag="a">
+
+<$action-sendmessage $message="tm-add-field"
+$name="tooltip"
+$value={{$:/ToolTipTemp}}/>
+
+<$action-deletetiddler
+	$tiddler=<<dropdown-state>>
+/>
+<$action-deletetiddler
+	$tiddler="$:/ToolTipTemp"
+/>
+Apply
+</$button>

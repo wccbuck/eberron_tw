@@ -1,0 +1,29 @@
+category: spell
+color: #B7A1E0
+created: 20210410050456841
+modified: 20210727192036577
+tags: conjuration
+tier: 4
+title: teleport
+type: text/vnd.tiddlywiki
+
+This spell instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be able to fit entirely inside a 10-foot cube, and it can't be held or carried by an unwilling creature.
+
+The destination you choose must be known to you, and it must be on the same [[plane]] of existence as you. Your familiarity with the destination determines whether you arrive there successfully. 
+
+* If the destination is a ''permanent [[teleportation circle]]'': ''+3 [[advantage]]s''
+* If you have in your possession an ''associated object'', an object taken from the desired destination within the last six months, such as a book from a [[wizard]]'s library, bed linen from a royal suite, or a chunk of marble from a [[lich]]'s secret tomb: ''+2 advantages''
+* If the desired destination is ''very familiar'', a place you have been very often, a place you have carefully studied, or a place you can see when you cast the spell (such as via [[scrying]]): ''+1 advantage''
+* If the desired destination is ''somewhat familiar'', a place you have seen more than once: ''no advantage''
+* If you have ''seen'' the desired destination ''only once'', perhaps using magic: ''1 [[disadvantage]]''
+* If the desired destination is a place whose location and appearance you know through someone else's ''description'', perhaps from a map: ''2 disadvantages''
+
+If you were given a false description or magically scried upon an illusion, the teleport is guaranteed to fail and will result in one of the following [[consequence]]s.
+
+!! Teleportation Consequences
+
+Sometimes a teleportation doesn't go well. Here are some possibilities for teleportation mishaps.
+
+* ''Off Target'': You and your group (or the target object) appear a random distance away (5-20% of travel distance) from the destination in a random direction. For example, if you tried to travel 120 miles, landed off target, and were off target by 15 percent, that would be 18 miles. The GM determines the direction off target randomly by rolling a <<dr d8>> and designating 1 as north, 2 as northeast, 3 as east, and so on around the points of the compass. If you were teleporting to a coastal city and wound up 18 miles out at sea, you could be in trouble.
+* ''Similar Area.'' You and your group (or the target object) wind up in a different area that's visually or thematically similar to the target area. If you are heading for your home laboratory, for example, you might wind up in another wizard's laboratory or in an alchemical supply shop that has many of the same tools and implements as your laboratory. Generally, you appear in the closest similar place, but since the spell has no range limit, you could conceivably wind up anywhere on the plane.
+* ''Mishap.'' The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes considerable force damage.

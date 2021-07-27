@@ -1,0 +1,42 @@
+created: 20210108212810444
+modified: 20210727192037957
+tags: 
+title: TierTemplate
+type: text/vnd.tiddlywiki
+
+<$reveal type="match" state="!!category" text="creature">
+<$reveal type="nomatch" state="!!tier" text="">
+''[[Creature Tier|creature tier]]: ''''{{!!tier}}''
+</$reveal>
+</$reveal>
+<$reveal type="match" state="!!category" text="spell">
+<$reveal type="nomatch" state="!!tier" text="">
+''[[Spell Tier|spell tier]]: ''''<$transclude tiddler="SpellTierNames" index={{!!tier}}/>''
+</$reveal>
+</$reveal>
+<$reveal type="match" state="!!category" text="object">
+<$reveal type="nomatch" state="!!rarity" text="">
+''[[Rarity|rarity]]: ''''<$transclude tiddler="RarityNames" index={{!!rarity}}/>''
+</$reveal>
+</$reveal>
+<$reveal type="match" state="!!category" text="location">
+<$reveal type="nomatch" state="!!points" text="">
+<$wikify name=locations text="{{!!points}} {{!!polylines}} {{!!polygons}}">
+<$button><$action-setfield $tiddler="$:/FlyLocation" text=<<locations>>/><$action-setfield $tiddler="$:/state/tab/sidebar--595412856" text="Map"/><$action-setfield $tiddler="Map" $field="refresh"/>Find On Map</$button>
+</$wikify>
+</$reveal>
+<$reveal type="match" state="!!points" text="">
+<$reveal type="nomatch" state="!!polylines" text="">
+<$wikify name=locations text="{{!!points}} {{!!polylines}} {{!!polygons}}">
+<$button><$action-setfield $tiddler="$:/FlyLocation" text=<<locations>>/><$action-setfield $tiddler="$:/state/tab/sidebar--595412856" text="Map"/><$action-setfield $tiddler="Map" $field="refresh"/>Find On Map</$button>
+</$wikify>
+</$reveal>
+<$reveal type="match" state="!!polylines" text="">
+<$reveal type="nomatch" state="!!polygons" text="">
+<$wikify name=locations text="{{!!points}} {{!!polylines}} {{!!polygons}}">
+<$button><$action-setfield $tiddler="$:/FlyLocation" text=<<locations>>/><$action-setfield $tiddler="$:/state/tab/sidebar--595412856" text="Map"/><$action-setfield $tiddler="Map" $field="refresh"/>Find On Map</$button>
+</$wikify>
+</$reveal>
+</$reveal>
+</$reveal>
+</$reveal>

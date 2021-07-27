@@ -1,0 +1,18 @@
+category: object
+color: #41D5E1
+created: 20201210043710517
+modified: 20210727192042608
+rarity: 1
+tags: tool [[dragonmark focus item]]
+title: wind stones
+tooltip: common dragonmark focus item, pair of stones, allows Scribing mark wielder to cast sending between them
+type: text/vnd.tiddlywiki
+
+Wind stones come in pairs, with each smooth stone carved to match the other so the pairing is easily recognized. While you touch one stone, if you have the [[Mark of Scribing]], you can cast the [[sending]] spell from it. The target is the bearer of the other stone. If no creature bears the other stone, you know that fact as soon as you use the stone and don't cast the spell.
+
+Once sending is cast through the stones, they can't be used again until the next dawn. If one of the stones in a pair is destroyed, the other one becomes nonmagical.
+
+<<<
+!! Sending
+{{sending}}
+<<<

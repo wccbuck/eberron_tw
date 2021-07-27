@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210110070608670
+modified: 20210727192041335
+tags: evocation
+tier: 4
+title: wall of ice
+type: text/vnd.tiddlywiki
+
+You create a wall of ice on a solid surface within 120 feet. You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-square panels. Each panel must be contiguous with another panel. In any form, the wall is 1 foot thick and lasts for up to 10 minutes.
+
+If the wall cuts through a creature's space when it appears, the creature within its area is pushed to one side of the wall and suffers significant cold damage.
+
+The wall is an object that can be damaged and thus breached. Destroying a section of wall leaves behind a sheet of frigid air in the space the wall occupied. A creature moving through the sheet of frigid air suffers a blast of cold damage.

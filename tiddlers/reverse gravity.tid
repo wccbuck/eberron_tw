@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210428001043206
+modified: 20210727192028076
+tags: transmutation
+tier: 4
+title: reverse gravity
+type: text/vnd.tiddlywiki
+
+This spell reverses gravity in a 50-foot-radius, 100-foot-high cylinder centered on a point within 100 feet. All creatures and objects that aren't somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can attempt to grab onto a fixed object it can reach, thus avoiding the fall.
+
+If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration of the spell (1 minute, or until your concentration breaks). When the spell ends, affected objects and creatures fall back down.

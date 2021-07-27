@@ -1,0 +1,42 @@
+category: organization
+color: #052c65
+created: 20201222082557129
+list-before: 
+modified: 20210727191954580
+tags: [[secret society]]
+title: arcane order
+type: text/vnd.tiddlywiki
+
+\define notaundair() [tag[Breland]] [tag[Thrane]] [tag[Cyre]] [tag[Karrnath]] [tag[Khorvaire]]
+
+Arcane orders, sometimes known as "wizard circles", are guilds or councils for arcane spellcasters. These provide the magically gifted with sanctums to practice
+their arts, share mystical knowledge, and debate the finer points of [[arcane theory]]. As the different circles focus on different types of magic,
+this also allows for a certain degree of control of the mystical market.
+
+!!! Membership Benefits
+
+Someone accepted into a [[Sharn]] arcane order (that is, the [[Guild of Starlight and Shadows]] or the [[Esoteric Order of Aureon]]) must pay [[100c|money]] to join, with ongoing dues of 25c each year thereafter. With this payment comes
+many benefits, including the following:
+
+* You can stay at the order's hall in any major city and enjoy the amenities of a wealthy lifestyle free of charge.
+* For as long as you have access to the order's hall, the cost of crafting a [[magic item]] at the site is reduced by 10 percent.
+* While in the hall, you have [[advantage]] any attempts involving arcane lore or research.
+* Membership in an arcane order in [[Sharn]] grants prestige within [[Breland]]. Though this status provides no tangible benefit, it proves that you are a gifted mage and stand above any mere [[magewright]] or dabbler. 
+
+Beyond these material benefits, being a member of a wizard circle provides a significant degree of prestige and legitimacy, as well as fellowship with other [[wizard]]s or [[artificer]]s.
+
+!! Arcane Orders
+
+!!! Arcane Orders of Aundair
+
+Aundair has more arcane orders than anywhere else in the world. In many ways, arcane orders of [[Aundair]] serve as research arms of the [[Arcane Congress]]. Some orders receive research grants directly from the Congress, while in other cases, an order may operate independently and sell their discoveries to the Congress.
+
+<<list-links-article "[tag{!!title}tag[Aundair]category[organization]sort[title]]">>
+
+!!! Other Arcane Orders of the Five Nations
+
+<<list-links-article "[tag{!!title}subfilter<notaundair>category[organization]sort[title]]">>
+
+!!! Arcane Orders Beyond Khorvaire
+
+<<list-links-article "[tag{!!title}!subfilter<notaundair>!tag[Aundair]category[organization]sort[title]]">>

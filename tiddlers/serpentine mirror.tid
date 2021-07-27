@@ -1,0 +1,18 @@
+category: object
+color: #41D5E1
+created: 20201210035520875
+modified: 20210727192030423
+rarity: 3
+tags: tool [[dragonmark focus item]]
+title: serpentine mirror
+tooltip: rare dragonmark focus item, allows Shadow mark wielder to scry
+type: text/vnd.tiddlywiki
+
+In order to attune to this magic item, you must possess the [[Mark of Shadow]].
+
+This ornate mirror is typically about 6 inches in diameter. While touching it, you can cast the [[scrying]] spell with it.
+
+<<<
+!! Scrying
+{{scrying}}
+<<<

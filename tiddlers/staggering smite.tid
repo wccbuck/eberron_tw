@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210427182628771
+modified: 20210727192034147
+tags: psionics [[divine magic]]
+tier: 3
+title: staggering smite
+type: text/vnd.tiddlywiki
+
+The next time you hit a creature with a weapon attack before this spell ends (up to 1 minute later), your weapon pierces both body and mind, and the attack deals extra psychic damage to the target. The target must resist your magic or else suffer [[disadvantage]] on all attempts, especially those requiring quick reaction time, for the next 10 or so seconds.

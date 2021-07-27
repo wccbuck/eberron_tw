@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20210425035139640
+modified: 20210727192035168
+tags: [[primal magic]]
+tier: 3
+title: summon beasts
+type: text/vnd.tiddlywiki
+
+You call out to natural beasts in the area, calling forth between three and five [[tier 1|creature tier]] [[beast]]s (such as wolves or giant spiders) from your surroundings.
+
+The GM chooses the beasts, and you choose the unoccupied spaces you can see within 60 feet where they appear. 
+
+For up to 1 hour (or until your concentration breaks), the summoned creatures are friendly to you and your companions. They obey any verbal commands that you issue to them. If you don't issue any commands to them, they act according to their nature. If a majority of the beasts are incapacitated, the rest may flee.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may summon between six and ten beasts.

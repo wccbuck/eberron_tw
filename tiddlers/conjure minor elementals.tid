@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20210428030947618
+modified: 20210727192001941
+tags: conjuration
+tier: 3
+title: conjure minor elementals
+type: text/vnd.tiddlywiki
+
+You summon between three and five <<showcreature-lteq "tier 1 elementals" 1 elemental>> (such as [[mephit]]s) that appear in unoccupied spaces that you can see within 90 feet.
+
+An [[elemental]] summoned by this spell disappears when it is incapacitated or when the spell ends after 1 hour (or your concentration breaks).
+
+The summoned creatures are friendly to you and your companions. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may summon between six and ten elementals.

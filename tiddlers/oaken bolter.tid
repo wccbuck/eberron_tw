@@ -1,0 +1,26 @@
+category: creature
+color: #EA868F
+created: 20210723180344051
+enhancement: //''Self-Repairing.''// The clockwork slowly regenerates damage. This effect can be temporarily suppressed if the clockwork suffers lightning damage.
+malfunction: //''Overheats.''// The clockwork randomly becomes incapacitated for a few seconds at a time.
+modified: 20210727192023335
+tags: construct clockwork
+tier: 2
+title: oaken bolter
+type: text/vnd.tiddlywiki
+
+No ordinary ballista, an oaken bolter is a [[clockwork]] [[construct]] capable of striking at long distances. The bolts it launches can rend flesh, destroy armor, or drag enemies toward traps or melee-oriented clockworks—and at shorter ranges, burst with explosive force.
+
+!! Clockwork Enhancement and Malfunction
+
+<<<
+<$button>
+<$action-chooserandom $dataTiddler="$:/ClockworkEnhancements" $field=enhancement/>
+<$action-chooserandom $dataTiddler="$:/ClockworkMalfunctions" $field=malfunction/>
+Generate
+</$button>
+
+''Enhancement: '' {{!!enhancement}}
+
+''Malfunction: '' {{!!malfunction}}
+<<<

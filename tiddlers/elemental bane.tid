@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210110061439813
+modified: 20210727192006826
+tags: transmutation
+tier: 3
+title: elemental bane
+type: text/vnd.tiddlywiki
+
+Choose one creature you can see within 90 feet, and choose one of the following damage types: acid, cold, fire, or lightning. If the target can't resist the spell, then for up to one minute, they are vulnerable to that damage type.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may target up to three additional creatures. The creatures must be within 30 feet of each other when you target them.

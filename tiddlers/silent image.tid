@@ -1,0 +1,19 @@
+category: spell
+color: #B7A1E0
+created: 20210422171935551
+modified: 20210727192031968
+tags: illusion
+tier: 2
+title: silent image
+type: text/vnd.tiddlywiki
+
+You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within 60 feet and lasts for up to 10 minutes (or until your concentration breaks). The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
+
+You can cause the image to move to any spot within 60 feet of you. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
+
+Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that spends time examining the image can potentially determine that it is an illusion. If a creature discerns the illusion for what it is, the creature can see through the image.
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, the image can be as large as a 30-foot cube, and lasts for up to an hour.
+

@@ -1,0 +1,15 @@
+created: 20210205201850231
+modified: 20210727192037933
+tags: 
+title: Tiddlers with duplicate tooltips
+type: text/vnd.tiddlywiki
+
+<$list filter="[has[tooltip]!tag[Sharn]]" variable="tid1">
+<$list filter="[<tid1>get[tooltip]]" variable="tt">
+<$list filter="[!<tid1>tooltip<tt>]">
+<$link/><br/>
+</$list>
+</$list>
+</$list>
+
+

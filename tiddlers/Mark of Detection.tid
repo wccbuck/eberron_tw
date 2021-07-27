@@ -1,0 +1,18 @@
+category: phenomenon
+color: #432874
+created: 20200415034919312
+modified: 20210727192020482
+tags: dragonmark
+title: Mark of Detection
+type: text/vnd.tiddlywiki
+
+The Mark of Detection is an [[inquisitive]]'s dream. It
+sharpens powers of observation and intuition, allowing the bearer to draw connections and interpret clues
+others might miss. By actively drawing on its powers,
+the bearer can discern the presence of threats, from poisoned food to scrying eyes.
+
+Only a [[half-elf]] with ties to House [[Medani]] can manifest this [[dragonmark]].
+
+!! {{!!title}} [[Focus Items|dragonmark focus item]]
+
+<<list-links-article "[tag[dragonmark focus item]search::casesensitive{!!title}!search:title[dragonmark]!search:title[channeling]]">>

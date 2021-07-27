@@ -1,0 +1,10 @@
+comparison: ≥
+created: 20201208005653883
+modified: 20210727191951516
+rarity: 0
+tags: [enablerarity6]
+title: $:/config/Manager/Rarity
+type: text/vnd.tiddlywiki
+var: [rarity[6]] [subfilter{$:/config/Manager/Rarity}]
+
+[has[rarity]!lessthan:rarity{$:/config/Manager/Rarity!!rarity}]

@@ -1,0 +1,16 @@
+category: spell
+color: #B7A1E0
+created: 20210721224122623
+modified: 20210727192004549
+tags: transmutation psionics
+tier: 2
+title: dimensional pocket
+type: text/vnd.tiddlywiki
+
+Your touch transfers a small unattended object you touch to an extradimensional pocket of space hidden in the palm of your hand. The dimensional pocket is invisible and weightless, regardless of its contents. The object must fit in your hand and weigh no more than 2 pounds.
+
+When the power ends up to 1 hour later or is dismissed, the object returns to your hand (or next to your hand if you cannot hold it). You can cast this spell again before its duration elapses to keep the object stored and reset the duration to 1 hour.
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you can hide an object weighing up to 5 lbs for up to 4 hours.

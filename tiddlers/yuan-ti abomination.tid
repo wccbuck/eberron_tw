@@ -1,0 +1,34 @@
+category: creature
+color: #EA868F
+created: 20210112074431531
+modified: 20210727192043494
+tags: yuan-ti humanoid monstrosity
+tier: 3
+title: yuan-ti abomination
+type: text/vnd.tiddlywiki
+y_eye7: tan
+y_headshape2: triangular
+y_sbshape2: 
+y_sc7: black and green
+y_sp7: striped
+y_tongue7: a red
+
+Monstrous serpents with burly [[humanoid]] torsos and arms, abominations form the highest caste of [[yuan-ti]] society. They mastermind elaborate schemes and perform dark rites in the hope of one day ruling the world.
+
+Abominations can shapeshift into snakes at will, and are able to communicate with snakes freely. Some abominations are able to secrete an acidic slime, camouflage themselves with chameleon-like skin, shed their skin to avoid being restrained, [[polymorph]] their enemies into snakes, or other unique mutations.
+
+<<<
+''Generate Abomination Appearance''
+
+<$button>
+<$action-chooserandom $dataTiddler="$:/YTSnakeBodyShape" $field="y_sbshape2"/>
+<$action-chooserandom $dataTiddler="$:/YTScaleColor" $field="y_sc7"/>
+<$action-chooserandom $dataTiddler="$:/YTScalePattern" $field="y_sp7"/>
+<$action-chooserandom $dataTiddler="$:/YTTongueColor" $field="y_tongue7"/>
+<$action-chooserandom $dataTiddler="$:/YTEyeColor" $field="y_eye7"/>
+<$action-chooserandom $dataTiddler="$:/YTHeadShape" $field="y_headshape2"/>
+Generate
+</$button>
+
+''Abomination:'' The yuan-ti is a monstrous {{!!y_sbshape2}} serpent with a burly humanoid torso and arms and a {{!!y_headshape2}} head. It has {{!!y_sp7}} {{!!y_sc7}} scales, {{!!y_eye7}} serpentine eyes and {{!!y_tongue7}} forked tongue.
+<<<

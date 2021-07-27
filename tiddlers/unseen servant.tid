@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210109061428062
+modified: 20210727192040039
+tags: conjuration
+tier: 2
+title: unseen servant
+type: text/vnd.tiddlywiki
+
+This spell creates an invisible, mindless, shapeless, human-sized force that performs simple tasks at your command until the spell ends up to 1 hour after casting. The servant springs into existence in an unoccupied space on the ground within 60 feet.
+
+You can mentally command the servant to move around and interact with objects. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command. It struggles to pick up anything heavier than 30 lbs, and it can't attack. If it ever suffers harm, the spell ends.
+
+If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.

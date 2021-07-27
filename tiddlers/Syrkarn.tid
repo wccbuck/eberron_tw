@@ -1,0 +1,271 @@
+category: location
+color: #3B5C0A
+created: 20210127010125020
+modified: 20210727192035762
+polygons: 22.24,158.29 21.65,158.19 21.25,157.9 20.84,157.93 20.58,158.13 20.22,158.36 19.96,158.55 19.64,158.61 19.32,158.55 19.03,158.71 18.8,158.56 18.27,158.54 17.74,158.63 17.15,158.78 16.72,158.81 16.47,159.21 16.19,159.67 16.03,160.19 16.27,160.55 16.04,160.92 15.99,161.38 16.16,161.75 16.19,162.3 16.57,162.58 16.87,162.89 16.99,163.45 17.16,163.84 17.56,164.13 17.6,164.58 17.74,164.86 18.01,165.03 18.47,165.12 18.81,165.1 19.17,165.61 19.55,165.93 19.88,166.22 19.95,166.51 20.15,166.81 19.86,166.81 19.57,166.62 19.3,166.53 19.18,166.23 18.69,166.02 18.26,166.07 17.74,166.07 17.18,165.79 16.87,165.55 16.64,165.2 16.13,165.08 15.77,164.75 15.25,164.6 14.61,164.6 14.35,164.37 13.91,164.25 13.44,164.31 13.2,164.04 12.68,163.93 12.54,164.15 12.22,164.07 12.04,164.15 11.84,164.44 11.46,165.0 11.47,165.56 11.59,165.81 11.93,165.82 12.16,166.05 12.59,166.48 12.6,166.93 12.69,167.42 12.56,167.81 12.95,168.3 13.03,168.72 12.83,169.17 12.92,169.47 13.16,169.67 13.34,169.84 13.3,170.13 13.12,170.3 12.77,170.55 12.32,170.72 12.0,170.91 11.9,171.19 11.85,171.45 11.74,171.7 11.56,171.87 11.27,171.95 10.97,171.93 10.74,171.69 10.43,171.39 10.13,171.29 9.71,171.32 9.32,171.53 9.13,171.69 8.83,171.92 8.53,172.16 8.24,172.2 7.87,172.05 7.37,172.37 6.81,172.58 6.25,172.8 5.79,172.94 5.43,173.03 4.95,173.16 4.6,173.23 4.33,173.37 4.06,173.58 3.63,173.63 3.37,173.69 3.01,173.73 2.7,173.71 2.45,173.91 2.27,173.9 1.95,173.93 1.79,174.03 1.61,174.15 1.43,174.1 1.12,174.04 0.79,174.13 0.48,174.01 0.36,173.83 0.04,173.8 -0.12,173.97 -0.39,174.08 -0.71,174.31 -1.02,174.52 -1.21,174.81 -1.34,175.0 -1.49,174.93 -1.83,174.95 -2.32,175.23 -2.58,175.28 -3.05,175.45 -3.29,175.45 -3.51,175.33 -3.8,175.31 -4.04,175.47 -4.16,175.68 -4.05,175.92 -4.27,176.5 -4.5,176.74 -4.54,177.05 -4.85,177.25 -5.05,177.49 -5.05,177.76 -5.33,178.0 -5.6,177.99 -6.1,178.33 -6.4,178.55 -6.5,178.76 -6.71,178.81 -6.77,179.06 -6.62,179.4 -6.46,179.55 -6.4,179.76 -6.46,180.08 -6.23,180.29 -5.9,180.48 -5.73,180.66 -5.48,180.81 -5.37,180.96 -5.06,181.03 -4.66,181.27 -4.31,181.54 -3.82,181.85 -3.3,181.98 -3.08,182.13 -2.97,182.47 -2.96,182.73 -3.04,183.0 -2.87,183.15 -2.61,183.26 -2.54,183.48 -2.5,183.67 -2.3,183.76 -2.08,183.69 -1.83,183.68 -1.64,183.85 -1.45,184.02 -1.17,184.16 -1.42,184.35 -1.61,184.56 -1.64,184.78 -1.49,185.04 -1.34,185.17 -1.07,185.25 -0.83,185.27 -0.56,185.36 -0.62,185.51 -1.04,185.57 -1.2,185.8 -1.14,186.0 -0.79,186.04 -0.43,186.15 0.0,186.22 0.23,186.45 0.59,186.6 0.84,186.52 1.05,186.22 1.15,186.0 1.37,185.92 1.71,185.87 2.08,185.79 2.33,185.71 2.55,185.49 2.6,185.24 2.59,184.99 2.99,184.84 3.46,184.61 3.83,184.44 4.18,184.45 4.6,184.51 5.01,184.51 5.5,184.49 5.89,184.45 6.46,184.27 6.23,184.46 5.91,184.65 5.52,184.76 5.13,184.76 4.69,184.72 4.22,184.67 3.87,184.69 3.54,184.81 3.27,185.0 2.98,185.14 2.86,185.35 2.75,185.64 2.53,185.84 2.11,186.02 1.7,186.18 1.51,186.41 1.42,186.7 1.55,186.89 1.89,186.85 2.43,186.73 3.01,186.79 3.88,186.97 4.49,187.16 4.93,187.28 5.18,187.11 5.35,186.96 5.65,187.03 6.05,186.96 6.4,186.82 6.68,186.61 6.96,186.38 7.3,186.21 7.67,186.33 7.85,186.51 8.04,186.76 8.27,186.89 8.73,186.95 9.04,186.88 9.65,186.86 10.08,187.04 10.31,187.29 10.5,187.45 10.9,187.48 11.34,187.53 11.75,187.68 12.1,187.93 12.0,188.18 12.39,188.83 12.75,189 12.98,188.88 13.39,188.68 13.67,188.4 13.97,188.13 14.42,188.01 15.16,187.9 15.61,187.95 16.06,187.81 16.53,187.52 17.03,187.35 17.58,187.4 18.13,187.37 18.57,187.12 18.99,186.82 19.4,186.74 19.98,186.49 20.31,186.18 20.54,185.84 20.94,185.69 21.5,185.57 21.91,185.47 22.5,185.6 22.88,185.34 23.26,185.12 23.4,184.79 23.45,184.3 23.44,183.98 23.59,183.69 23.95,183.33 24.27,183.01 24.61,182.7 25.02,182.32 25.38,181.9 25.59,181.55 25.99,181.2 26.32,180.98 26.77,180.86 27.17,180.7 27.39,180.27 27.68,179.98 28.13,179.6 28.44,179.14 28.59,178.8 28.57,178.41 28.58,177.99 28.77,177.49 28.95,176.86 29.0,176.39 28.9,175.93 28.72,175.42 28.71,174.8 28.64,174.3 28.53,173.9 28.2,173.7 28.02,173.28 27.81,172.87 27.59,172.64 27.53,172.25 27.35,172.08 27.22,171.72 27.23,171.39 26.92,170.92 26.67,170.4 26.7,169.77 26.67,169.27 26.72,168.51 26.72,167.98 26.85,167.55 27.04,167.2 26.91,166.72 26.95,166.34 26.99,165.54 26.98,164.92 26.92,163.93 26.93,163.4 26.85,163.12 26.9,162.64 26.62,162.16 26.59,161.71 26.66,161.26 26.66,160.83 26.36,160.4 25.94,160.13 25.6,159.82 25.25,159.82 24.9,159.82 24.5,159.65 24.19,159.44 23.84,159.27 23.52,159.08 23.26,158.82 22.91,158.47 22.55,158.39#6.73,166.11 7.05,166.3 7.22,166.57 7.54,166.56 7.71,166.28 7.94,166.41 8.29,166.47 8.54,166.35 8.79,166.14 9.17,166.1 9.64,165.93 9.85,166.07 10.15,165.96 10.35,165.78 10.39,165.49 10.49,165.13 10.3,164.79 9.97,164.66 9.55,164.67 9.26,164.64 8.95,164.47 8.7,164.32 8.4,164.28 8.17,164.54 7.92,164.5 7.72,164.7 7.43,164.94 7.23,165.21 7.13,165.47 6.7,165.77#4.94,167.54 5.3,167.67 5.76,167.7 6.07,167.77 6.38,167.52 6.57,167.18 6.62,166.82 6.32,166.6 6.03,166.41 5.69,166.39 5.43,166.56 5.18,166.86 5.02,167.25#4.88,168.06 4.63,167.87 4.38,167.76 4.04,167.88 3.91,168.22 3.71,168.49 3.71,168.71 4.05,168.75 4.26,168.57 4.39,168.39 4.67,168.37#20.75,173.68 20.45,173.83 20.33,174.09 20.19,174.34 19.83,174.44 19.46,174.65 19.44,174.84 19.24,175.13 19.64,175.07 19.94,175.15 20.2,175.01 20.52,174.74 20.69,174.78 20.9,175.01 21.13,175.02 21.37,174.94 21.59,175.15 21.71,174.9 21.62,174.47 21.26,174.1 21.29,173.77 21.07,173.4 20.75,173.68
+style: {"fillOpacity":"0","opacity":"0"}
+tags: Sarlona region
+title: Syrkarn
+type: text/vnd.tiddlywiki
+
+Five thousand years before the arrival of the [[Inspired]] and the present age, the nations now known collectively as Syrkarn were the jewels in the imperial crown of old
+[[Sarlona]]. Today, only ancient stonework and half-forgotten
+legends mark the fall, passing, and rebirth of this land.
+Still, to those who have inherited this seemingly inhospitable kingdom, Syrkarn offers a gift denied to both the warring nations of the past and the Inspired-dominated
+lands of the present. To its [[people|Syrks]], Syrkarn is the promise of freedom.
+
+Syrkarn is a vast expanse of arid plains where four nations
+of old once stood. Its history is rich with conflict and
+conquest, and it is one of the few places in [[Sarlona]] where
+the devastating effects of the ancient [[magewars|Sundering]] can still
+be seen, untouched by [[Inspired]] reconstruction. A land
+surrounded by [[Riedra]] yet distinct from it, Syrkarn has
+long been left to its own devices for reasons that none but
+the Inspired understand.
+
+Nearly all settlements in Syrkarn are agricultural centers—communal farmsteads (//daabi// in the [[Giant]] tongue) that trap the windblown soil of the steppes
+behind vast networks of berms and stone walls. However,
+nearly a third of Syrkarn's population lives on the open
+steppes. Though most are nomadic herders or hunters, a
+distinct class of traders (mostly [[eneko]]) are the lifeblood
+of commerce across the nation. Regular trade roads
+carry goods, laborers, and knowledge between the larger
+settlements, allowing the [[Syrks]] to maintain a social
+infrastructure that belies the land's isolation.
+
+!! Land of the Far Horizon
+
+Syrkarn is an arid landscape of harsh deserts, lush grasslands, and endless steppes sloping up from the southern extent of the [[Sea of Rage]]. Its population consists of an
+almost equal mix of Sarlonan [[human]] clans and tribes of [[eneko]]—the mongrel [[ogre]]s who trace their lineage back to the nation of [[Borunan]]. 
+
+Though the climate and the isolated life of this
+land are never easy, the coastal steppes and inland
+savannah of Syrkarn offer limitless range for animals
+and agriculture. Herds of wild bison and domesticated
+goats, deer, and horses roam the grasslands, while
+cultivated fields of oat grass and flax spread across the
+[[Itzaina|Khunan]] plains and the steppes of the [[Lamecha]] lowlands.
+The natives grow a range of vegetable crops, including the gnarled root known as [[sepse]], native to Sarlona and prized for its high nutritional value. Exotic spices
+found nowhere outside Sarlona thrive in the heat of
+the savannah, as does [[dreamlily]]. Use of the drug is
+rare among the [[Syrk|Syrks]] humans, but the [[eneko]] (who are
+immune to dreamlily's narcotic effects) grow it for its
+medicinal value. Harvests are hard in some years, but
+the clans and tribes of Syrkarn know bounty more often
+than not. 
+
+Though the ruins of great cities dot the landscape, modern-day Syrkarn is predominantly a land of hamlets, villages, and nomadic town sites. The remnants
+of [[human]] cities are common in the former lands of
+[[Mae-Kree]], [[Sunyagir]], and [[Lamecha]], but the plains
+and savannah that were once [[Khunan]] are marked exclusively by the ruins of the [[yuan-ti]]. [[Shulassakar|shulassakar]] and yuan-ti ruins are especially common on the [[Hailana Islands]], said to be the site from which the yuan-ti launched
+their desperate voyage to [[Argonnessen]] and left their
+homeland behind. 
+
+[[Wild zone|wild zone]]s linked to [[Fernia]], [[Risia]], and especially [[Lamannia]] are found throughout this land. Like all of [[Sarlona]], Syrkarn is beset by storms whose force borders on the unnatural, and
+planar disturbances flare and flood across the steppes
+like unnatural wellsprings. Still, these rifts are seldom
+as haunting or destructive as the [[reality storm]]s of the
+[[Tundra|Tashana Tundra]]. The prominent planar connection in Syrkarn
+is the [[Whitewater]], the crystal-clear lake believed to
+mark a [[manifest zone]] linked to [[Lamannia]]. 
+
+A few [[rogue dragon]]s roam the savannas and deserts of Syrkarn, most notably [[Qataakhast]] the Bright-Eyed. 
+
+!! Getting There
+
+As with any other destination in [[Sarlona]], travel to
+Syrkarn is never undertaken lightly. The direct sea route
+from eastern [[Khorvaire]] covers the entire length of
+the [[Sea of Rage]]. Ships embarking from Khorvaire's western shores must ply the [[Barren Sea]] and the [[Sea of Lost Souls]]. In either case, the journey is long, and ships
+must pass through the waters of unwelcoming [[Riedra]].
+Most ships traveling to Syrkarn are privateers from
+the [[Lhazaar|Lhazaar Principalities]] isles making trade runs, and the majority
+of adventurers arriving in Sarlona take passage on a
+Lhazaar ship. The privateers' destination is almost always the
+southern port of [[Ardhmen]].
+
+Attempting to land an unauthorized ship in [[Riedra]]n-controlled
+territory is extremely dangerous. As a result, travelers
+who have secret dealings often enter Riedra across the
+Syrkarn frontier. Likewise, [[kalashtar]] pilgrims and
+refugee Riedrans seeking to escape the gaze of the
+[[Thousand Eyes]] usually make their way to [[Khorvaire]] by
+way of Syrkarn. 
+
+Khorvairian ships traveling east often stop at
+[[Stormreach]] before returning to [[Sharn]], seeking to maximize their profits on the long voyage with a quick pickup of [[Xen'drik]] goods. Those [[eneko]] who leave Syrkarn
+typically book passage on that route, seeking to experience the lands of their forgotten [[giant]] explorers.
+
+!! Five Common Syrkarn Legends
+
+# ''Syrkarn is free.'' Though nominally a protectorate of [[Riedra]], Syrkarn and its people owe no fealty to that land or its [[Inspired]] overlords. When occasional muttering chalks this fact up only to Riedra's apparent lack of interest in Syrkarn. a pint or two of [[ustah]] and a toast to the past will drown it out.
+# ''In the past, greatness lingers.'' The [[eneko]] are descendants of [[ogre]]s and [[giant]]s, the latter thought to be explorers from ancient [[Xen'drik]]. From this lineage, the mongrel tribes believe that the blood of both the mighty titans of Xen'drik and the former [[oni]] [[sorcerer]]-kings of [[Sarlona]] flows in their veins.
+# ''The yuan-ti once held this land in the iron grip of dark magic—and seek to do so again.'' The [[yuan-ti]] empire that rose in the ruins of [[Khunan]] is one of the few pieces of old [[Sarlona]]n history still predominant in the age of [[Riedra]]. Some speculate that this is so because Riedra wants it that way, and many Syrks question whether the yuan-ti are a force to be fought along with the [[Inspired]], or a potential ally in the fight against Sarlona's masters.
+# ''The giant-based faiths of the eneko hide dark secrets.'' The [[eneko]] tribes follow religious traditions drawn from the faith of ancient [[Xen'drik]], [[Rushemé]]. However, it is said that dark cults among the "mongrel ogres" use the veneration of [[Karrak]] (thought to be an aspect of the [[Keeper]]) to conceal the practice of dark magic.
+# ''Beneath the beauty of Syrkarn, dark things abide.'' No one who has ridden the [[Itzaina|Khunan]] range or spent a night within sight of the [[Whitewater]] can deny the natural splendor that is Syrkarn. At the same time, whispered rumors speak of a nameless darkness in the desert, and of voices that call to those who walk the plains alone. Some who seek to define this darkness speak of connections between the fragmentary legends of the [[yuan-ti]] and the lore of the [[Age of Demons]]. What the truth is, none can say. 
+
+!! Who Rules Syrkarn
+
+According to the [[Unity]] of [[Riedra]], Syrkarn is a protectorate of that nation, and ostensibly owes fealty to Riedra and the [[Inspired]]. In truth, however, the Inspired's last act of governance in Syrkarn was to order the land emptied of its [[human]] population in the aftermath of a victorious purge of the [[yuan-ti]] more than twelve centuries ago.
+
+"Sahar" is a general term of leadership common among both humans and [[eneko]], but it can cover a wide range of power. The sahar of a nomadic tribe might rule only two dozen people, half of them her immediate family. The sahar of a large settlement might rule a mixed population of a thousand humans and eneko, and have ultimate authority over security, trade, and commerce in a wide region. 
+
+In larger settlements, sahar are usually elected to
+fixed-year terms, the exact length of which is set by
+tradition. Among the tribes and clanholds, leadership is a matter of strength or will, with warriors, spellcasters, or manifesters of [[psionics]] often taking up the mantle of power.
+Whether by social accident or design, no central leadership exists in Syrkarn, though the sahar of [[Nderitese]]—the territory's largest settlement—is
+sometimes asked to broker disputes between other settlements and larger clans.
+
+Smaller disagreements on trade, tariffs, and power
+sharing are typically handled by the time-honored tradition of threats and force, but the reality of Syrkarn means that its people typically have little reason to fight.
+Resources and land are plentiful, and the common culture
+forged by [[eneko]] and [[human]] has created social customs and
+a rule of law unheard of in agrarian tribal societies. 
+
+However, those Riedran exiles who monitor the
+activities of the [[Inspired]] in Syrkarn often claim to see
+signs of subtle manipulation of the clans and tribes that
+hint of [[psionics]]. Rival chieftains who have long histories
+of being at each other's throats will suddenly declare a
+mutual commitment to peace and allegiance. Smaller
+factions will suddenly gain tactical sophistication that
+allows them to thwart the expansionist plans of more
+powerful nomadic tribes, or force the larger settlements
+into a defensive stance.
+
+The least populous (and most mysterious) residents
+of Syrkarn are the [[yuan-ti]]. Descended from the few of
+their kind who did not flee to [[Argonnessen]] when their
+nation was overthrown, these serpentfolk keep themselves well hidden. Even after twelve hundred years, the utter destruction of the yuan-ti at the command of the
+[[Inspired]] remains a potent reminder of the power the
+lords of [[Riedra]] can bring to bear. 
+
+!! Foreign Relations
+
+[[Syrks]] are content to leave others alone and hope for the
+same in return. For all intents and purposes, [[Riedra]] is
+the nation's only neighbor, and the monolithic and isolationist bent of that land means that Syrks frequently
+define themselves as its antithesis. 
+
+!!! Riedra
+
+The [[Inspired]] in [[Riedra]] clearly have the resources and the
+military might to take Syrkarn in a heartbeat, driving
+its people into the sea if they so chose. Although desert
+and mountain marks much of Syrkarn's inland frontier,
+unlike [[Adar]], no natural or mystical defenses protect this
+land from invasion.
+
+The fact that the Inspired have chosen not to invade
+suggests that they have strong reasons to leave Syrkarn
+as it is. The [[Thousand Eyes]] has agents throughout the land, but these seem primarily focused on maintaining the status quo among the tribes and clans. Isolated skirmishes are sometimes made against the human exiles, but clear benefits can be seen in Riedra's allowing the exile clans to survive as a beacon to the like-minded. No matter how many exiles swell its population, vast Syrkarn
+will never have the resources or the population to challenge
+the [[Inspired]]. Better to have those who oppose Inspired rule
+flee for the "freedom" of the barbarian frontier than to
+disturb the Riedran peace. 
+
+Riedran agents harass the [[eneko]] tribes with
+greater frequency than they do the [[human]] clans. Some
+speculate that this behavior marks a fear that the "mongrel ogres"
+are more apt to pursue dark magic, as has been seen in
+the recent rise of the [[Karrak]] cults. It is known that the
+[[Horned Shadow]] has sought to recruit eneko from Syrkarn in recent years, but whether any connection exists between the rebellious [[oni]] and
+the cults remains to be seen. 
+
+More than anything else, [[Inspired]] agents seek signs
+of magic use in Syrkarn. They are especially watchful
+for any sign of the [[Heirs of Ohr Kaluun]] in the steppes
+and the [[yuan-ti]] ruins. When it is found, the [[arcane|arcane magic]] is
+exterminated. Riedra is intent on seeing that Syrkarn's
+lost lore stays that way.
+
+Sharing a desert border as it does with [[Borunan]],
+Syrkarn has a more open relationship with the former
+[[ogre]] kingdom than with the other Riedran provinces.
+Just as the ogres made their way south centuries ago,
+more than a few [[eneko]] make the trek north today. The
+eneko in the [[Savage Legion|Taskaan Legion]] are drawn from the ranks
+of such Syrk exiles. 
+
+!!! Adar
+
+The lands of the mountain refuge of [[Adar]] border Syrkarn to the
+southeast, and the outposts of that frontier are firmly in
+[[Inspired]] hands. For the Syrks of the border territories,
+the land along [[Jathara Sound]], guarded by a series of
+coastal forts, is merely another part of [[Riedra]], and that
+nation's business with the folk of the distant mountains
+is none of their concern.
+
+However, for those Syrks who actively oppose the rule
+of the [[Inspired]], the [[Adarans]] are brothers in arms. The
+treacherous seas and inhospitable cliffs of [[Adar]] channel
+those seeking to enter the mountain refuge to Syrkarn,
+where they land at [[Ardhmen]] or the smaller fishing villages of the western coast. They then make their way
+inland, crossing into Adar between Riedran outposts
+and patrols.
+
+Syrkarn is also the departure point for the goods that
+[[Adarans]] trade to [[Khorvaire]], and a steady flow of couriers
+passes along the [[Summit Road]] throughout the year.
+
+!!! Other Nations
+
+Outside of academic circles, few non-[[Sarlona]]ns even
+know of the existence of Syrkarn. Unlike the [[Adar]]an
+monks and the [[kalashtar]] who have established enclaves on
+[[Khorvaire]], [[Syrks]] have little reason to leave their land.
+
+Since the end of the [[Last War]], [[Lhazaar|Lhazaar Principalities]] traders have
+made their way to [[Ardhmen]] in order to barter for spices
+and [[dreamlily]]. However, with the [[Inspired]] now actively
+directing trade between [[Riedra]] and [[Khorvaire]], Syrk
+merchants are seeking contacts among the Riedrans,
+hoping to broker more profitable trade in mainstream
+Khorvaire. The merchants of the [[Lhazaar Principalities]]
+have largely turned their own trade to Syrk art, antiquities, and textiles—their quality as high as Riedran goods, but their design incorporating an old-Sarlonan aesthetic
+lost to Riedra. 
+
+!! The Syrkarn Overlord
+
+From fragments of [[yuan-ti]] lore and contemporary
+human records, some scholars assert that a demonic [[overlord]]
+exists in Syrkarn, possibly beneath the ruined yuan-ti
+city of [[Sustrai Mor]]. The [[eneko]] [[Karrak]] cults are said to
+be numerous within the wasted plain that surrounds the
+ruins. Among the Syrk nomads, the city has a reputation
+for being haunted or overrun with secret sects of yuan-ti.
+
+Whatever the truth, the Syrks avoid the place.
+Whether the [[Inspired]] or the [[Dreaming Dark]] have
+reason to fear the might of a bound [[overlord]] is an open
+question. It seems likely, though, that the Inspired's
+unwillingness to risk the resources necessary to destroy the Syrkarn [[fiend]] drove the decision to simply empty that
+land—denying the fiend (and its inevitable [[Lords of Dust]]
+allies) the followers it would inevitably seek.
+
+At the same time, the Inspired show little of the same
+concern for the overlords thought to be trapped in the [[Tashana Tundra]]
+and [[Adar]]. Perhaps the lords of [[Riedra]] have some plan for
+keeping these other fiends in check, either before, or
+preferably after, they run rampant in those lands. At the
+same time, the fall of [[Khunan]] and the subsequent rise of
+the yuan-ti suggests to some that the Syrk overlord was once
+unbound—and that whatever act saw it put down might not
+have bound it as strongly as the Inspired would like. 
+
+Abel Varmanc, patron and leader of the [[Korranberg]] expedition that bore his name, has gained recent notice for his attempts to collect the fragmentary lore of old Sarlona
+from Riedran merchants engaging in trade with [[Khorvaire]].
+In academic papers and private debate, he has suggested
+that some lingering power from the [[Age of Demons]] was not
+only involved in the creation of the [[yuan-ti]], but also in the
+destruction of [[Khunan]] that preceded that genesis. In his
+view, oral traditions describing the legendary devastation of
+Khunan bear an eerie similarity to the events in [[Thrane]] of
+299 YK, when the rising of a terrible [[force|Bel Shalor]] bound since the
+[[Age of Demons]] gave birth to a manifestation of [[Silver Flame]] through the
+sacrifice of a [[couatl]] and the [[paladin]] [[Tira Miron]]. Whether
+the destruction of Khunan was the result of a bound [[fiend]]'s
+stirrings or of potent magic wielded by the Khunani in their
+attempts to confine it once more, "Syrkarn" is the name the
+legends give to that dark presence. 

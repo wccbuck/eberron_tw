@@ -1,0 +1,28 @@
+category: game mechanics
+created: 20210402021419698
+modified: 20210727192036059
+tags: Storyloom
+title: talent
+type: text/vnd.tiddlywiki
+
+A character's talents are special capabilities or areas of expertise that lets them do new things or gain mechanical benefits in specific situations. 
+
+Typically a talent will allow your character to do one of the following:
+
+* Get narrative permission to do something most people can't do (e.g. cast [[spell]]s)
+* Get +1d6 in your dice pool (an [[advantage]]) on a specific type of attempt under a narrow circumstance
+* Gain a new benefit to [[push yourself]], or gain an added bonus to push yourself in a specific circumstance
+
+When you make a character, you may choose one or two talents (depending on the game's power level, determined by the GM). As your character advances, you may slowly add more talents. 
+
+!! Talent List
+
+<ul>
+<$list filter="[tag{!!title}sort[title]]">
+<li>
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$link to=<<currentTiddler>>><<splittitle>></$link>
+</$wikify>
+</li>
+</$list>
+</ul>

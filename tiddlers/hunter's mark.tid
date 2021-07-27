@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210428005543693
+modified: 20210727192014100
+tags: [[primal magic]]
+tier: 2
+title: hunter's mark
+type: text/vnd.tiddlywiki
+
+You choose a creature you can see within 90 feet and mystically mark it as your quarry. Until the spell ends (up to an hour later, or until your concentration breaks), you gain extra [[impact]] whenever you successfully attack the target, and you have [[advantage]] on any attempt you make to find it. If the target is incapacitated before this spell ends, you can choose to mark a new creature in range without casting the spell again.
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you can maintain your concentration on the spell for up to 8 hours. 

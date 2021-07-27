@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210421022546237
+modified: 20210727192035272
+tags: [[divine magic]] evocation
+tier: 4
+title: sunbeam
+type: text/vnd.tiddlywiki
+
+For up to a minute (or until your concentration is broken), a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is considered [[sunlight|Sun]].
+
+Every few seconds until the spell ends, you can fire a beam of radiance. This beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line suffers radiant damage and is blinded for several seconds. [[Undead|undead]] and [[ooze]]s are particularly susceptible to this spell.

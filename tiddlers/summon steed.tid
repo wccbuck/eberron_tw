@@ -1,0 +1,20 @@
+category: spell
+color: #B7A1E0
+created: 20210429184422869
+modified: 20210727192035214
+tags: [[divine magic]]
+tier: 2
+title: summon steed
+type: text/vnd.tiddlywiki
+
+This ritual takes 10 minutes to cast. You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a warhorse, a pony, a camel, an elk, a large mastiff, or another creature approved by your GM. The steed has the traits and abilities of the chosen form ([[creature tier]] ''1''), though it is a [[celestial]], [[fey]], or [[fiend]] (your choice) instead of its normal type. Additionally, it gains the ability to understand one [[language]] of your choice that you speak. While your steed is within 1 mile of you, you can also communicate with each other telepathically.
+
+Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit. While mounted on your steed, you can make any spell you cast that targets only you also target your steed.
+
+When the steed is incapacitated, it disappears, leaving behind no physical form. You can also dismiss your steed at any time, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its full health.
+
+You can't have more than one steed bonded by this spell at a time. You can choose to release the steed from its bond at any time, causing it to disappear.
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, the spirit steed can take on a more powerful form ([[creature tier]] ''2''), such as that of a [[griffon]], a [[pegasus]], a [[peryton]], a [[dire wolf]], a rhinoceros, a saber-toothed tiger, or another form approved by the GM.

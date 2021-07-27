@@ -1,0 +1,28 @@
+category: object
+color: #41D5E1
+created: 20210102211815847
+modified: 20210727192001832
+rarity: 1
+tags: tool
+title: concealable cutlery
+type: text/vnd.tiddlywiki
+
+This item appears to be a piece of simple silver cutlery,
+stored in a leather case. Different types of concealable
+cutlery exist, each with a different effect. The GM chooses
+the kind of cutlery or determines it randomly. 
+
+While you are holding a piece of cutlery, you can speak its command word to cause it to turn into another item (listed below) for 1 hour or until you return it to its case and end this effect. Once you have used this property for a given piece of cutlery, it can't be used again until the next dawn.
+
+|!Cutlery |!Transformed Item |
+|Butter Knife |Torch |
+|Dessert Fork |Crowbar |
+|Salad Fork |Trident |
+|Soup Spoon |Shield |
+|Steak Knife |Longsword |
+|Tea Spoon |Shovel |
+
+Concealable cutlery can be found individually or in
+complete sets. A utility set contains a butter knife, a
+dessert fork, and a tea spoon. A warfare set contains a
+salad fork, a soup spoon, and a steak knife. 

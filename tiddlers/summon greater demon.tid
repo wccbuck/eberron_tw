@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20210501025838395
+modified: 20210727192035191
+tags: conjuration
+tier: 3
+title: summon greater demon
+type: text/vnd.tiddlywiki
+
+You complete a foul ritual using the blood of a [[humanoid]] killed within the last 24 hours, calling forth one <<showcreature-lteq "tier 2 demon" 2 demon>> (such as a [[barlgura]] or [[shadow demon]]) from a [[demiplane]] of [[Khyber]] or another [[plane]] of existence. The [[demon]] appears in an unoccupied space you can see within 60 feet. A summoned demon disappears when it is incapacitated or when the spell ends after 1 hour (or up to a minute after your concentration breaks; see below). 
+
+You can issue a verbal command to the summoned [[demon]], telling it what it must do. If you issue no command, it devotes its attention to attacking any creature within reach that has attacked it. However, you must continuously contend with the demon's resolve to maintain control over it, requiring repeated attempts every 10-15 seconds (though you have [[advantage]] on these attempts if you know the demon's true name). If the demon breaks free of your control, it pursues and attacks any nearby non-demons to the best of its ability. If you stop concentrating on the spell before it reaches its full duration (1 hour), an uncontrolled demon doesn't disappear for up to a minute if it hasn't been incapacitated.
+
+As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to make a 2-foot-radius circle around you. While the spell lasts, the summoned demon can't cross the circle or harm it, and they can't target anyone within it. 
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may summon a demon up to <<showcreature-lteq "tier 3" 3 demon>>.

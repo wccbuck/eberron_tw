@@ -1,0 +1,8 @@
+category: location
+created: 20210319054625764
+modified: 20210727191952354
+polygons: 75.34,-130 75.34,230 -75.34,230 -75.34,-130
+style: {"fillColor":"#96935D","fillOpacity":1,"weight":0}
+tags: $:/Background
+title: $:/Land0
+type: text/vnd.tiddlywiki

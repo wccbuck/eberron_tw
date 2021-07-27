@@ -1,0 +1,11 @@
+caption: Add category
+condition: [<targetTiddler>type[]] [<targetTiddler>get[type]prefix[text/]] +[first[]]
+created: 20201218031135265
+description: Add category
+dropdown: $:/ui/EditorToolbar/category-dropdown
+icon: $:/core/images/storyview-classic
+modified: 20210727191953000
+shortcuts: ((category))
+tags: $:/tags/EditorToolbar
+title: $:/ui/EditorToolbar/category
+type: text/vnd.tiddlywiki

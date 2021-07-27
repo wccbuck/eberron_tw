@@ -1,0 +1,11 @@
+category: object
+color: #41D5E1
+created: 20201216223802593
+modified: 20210727192038436
+rarity: 3
+tags: poison
+title: torpor
+type: text/vnd.tiddlywiki
+
+A creature that ingests this poison and can't resist its effects is poisoned for <<dr "4d6">> hours. The poisoned creature is incapacitated.
+

@@ -1,0 +1,88 @@
+caption: Find Misc
+created: 20210302181952900
+modified: 20210727192008300
+tags: 
+title: Find Miscellaneous
+type: text/vnd.tiddlywiki
+
+\define lingo-base() $:/language/Manager/
+\define results-count() $(count)$ results
+\define misc-cat() [category[$(cat)$]]
+
+<div class="tc-manager-wrapper">
+	<div class="tc-manager-controls">
+		<div class="tc-manager-control">
+			<<lingo Controls/Search/Prompt>> <$edit-text tiddler="$:/config/Manager/Filter" tag="input" default="" placeholder={{$:/language/Manager/Controls/Search/Placeholder}}/>
+		</div>
+		<div class="tc-manager-control">
+			Category: <$select tiddler="$:/config/Manager/MiscCat" default="">
+				<option value="[has[category]!category[location]!category[object]!category[spell]!category[creature]!category[person]!category[entity]!category[organization]]">---</option>
+				<$list filter="[!category[location]!category[object]!category[spell]!category[creature]!category[person]!category[entity]!category[organization]each[category]get[category]sort[title]]" variable="cat">
+					<option value=<<misc-cat>>><$text text=<<cat>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			Filter by tag: <$select tiddler="$:/config/Manager/MiscTag" default="">
+				<option value="">---</option>
+				<$list filter="[has[category]subfilter{$:/config/Manager/MiscCat}tags[]] [{$:/config/Manager/MiscTag}!is[blank]] +[sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			Exclude tag: <$select tiddler="$:/config/Manager/ExcludeMiscTag" default="">
+				<option value="">---</option>
+				<$list filter="[has[category]subfilter{$:/config/Manager/MiscCat}tags[]] [{$:/config/Manager/ExcludeMiscTag}!is[blank]] +[sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			<<lingo Controls/Sort/Prompt>> <$select tiddler="$:/config/Manager/MiscSort" default="title">
+				<$list filter="title category relevance" variable="field">
+					<option value=<<field>>><$text text=<<field>>/></option>
+				</$list>
+			</$select>
+			&nbsp;&nbsp;
+			<$checkbox tiddler="$:/config/Manager/MiscSortOrder" field="text" checked="reverse" unchecked="forward" default="forward">
+				<<lingo Controls/Order/Prompt>>
+			</$checkbox>
+		</div>
+		<div class="tc-manager-control">
+		<$button><<resetmisc>>Reset All Fields</$button> <$button>
+<$action-chooserandom $filter="[all{$:/config/Manager/Show}has[category]subfilter{$:/config/Manager/MiscCat}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/MiscTag}!tag{$:/config/Manager/ExcludeMiscTag}]" $nav="true"/>Open Random</$button>
+		</div>
+		<div class="tc-manager-control" align="right">
+			<$list filter={{$:/config/Manager/LimitMisc}} variable="count">
+				<<results-count>><br/>
+				<$checkbox tiddler= "$:/config/Manager/LimitMisc" field="limit50" checked="[limit[50]]" unchecked="[has[title]]" default="[limit[50]]">
+					Limit display to 50 results?
+				</$checkbox>
+			</$list>
+		</div>
+	</div>
+	<div class="tc-manager-list">
+		<table class="manager-table">
+		<tr><th align="left" class="th-sticky">Thing</th><th align="left" width="30%" class="th-sticky">Category</th><th align="left" width="35%" class="th-sticky">Tags</th></tr>
+		<$list filter="[all{$:/config/Manager/Show}has[category]subfilter{$:/config/Manager/MiscCat}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/MiscTag}!tag{$:/config/Manager/ExcludeMiscTag}sort[title]order{$:/config/Manager/MiscSortOrder}sort{$:/config/Manager/MiscSort}order{$:/config/Manager/MiscSortOrder}subfilter{$:/config/Manager/LimitMisc!!limit50}]">
+		<tr><td>{{!!article}}<$link/></td>
+		<td>{{!!category}}</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+		</$list>
+		</table>
+		<$reveal type="match" state="$:/config/Manager/LimitMisc!!limit50" text="[limit[50]]">
+			<$button set="$:/config/Manager/LimitMisc!!limit50" setTo="[has[title]]">Show All Results</$button>
+		</$reveal>
+	</div>
+<style>
+	.tc-manager-list {border-style: none;}
+</style>

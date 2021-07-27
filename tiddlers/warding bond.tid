@@ -1,0 +1,15 @@
+category: spell
+color: #B7A1E0
+created: 20210507202911983
+modified: 20210727192041731
+tags: [[divine magic]] abjuration
+tier: 2
+title: warding bond
+type: text/vnd.tiddlywiki
+
+This spell requires a pair of platinum rings (worth about [[5c|money]] each) which you and the target must wear for the duration of the spell. This spell wards a willing creature you touch and creates a mystic connection between you and the target for up to 1 hour. While the target is within 60 feet of you, it gains [[advantage]] when taking defensive actions, and it has resistance to all damage. Also, each time it suffers [[harm]], you take the same amount of harm.
+
+The spell ends if you are incapacitated or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell at will.
+
+
+

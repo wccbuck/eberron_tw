@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20201231231013946
+modified: 20210727192004359
+tags: divination
+tier: 2
+title: detect magic
+type: text/vnd.tiddlywiki
+
+For up to 10 minutes, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can see a faint aura around any visible creature or object in the area that bears magic, and you learn its [[school of magic|spell school]], if any.
+
+The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.

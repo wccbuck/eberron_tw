@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20210109022310335
+modified: 20210727191958275
+rarity: 2
+tags: accessory
+title: blink boots
+type: text/vnd.tiddlywiki
+
+While wearing these boots, you can cast [[misty step]] once per day.
+
+<<<
+{{misty step}}
+<<<

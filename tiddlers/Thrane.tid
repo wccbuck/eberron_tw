@@ -1,0 +1,109 @@
+category: location
+color: #3B5C0A
+created: 20200414171156783
+modified: 20210727192037431
+polygons: 44.09,2.57 44.07,2.4 44.07,2.23 44.08,2.06 44.04,1.89 44.09,1.72 44.1,1.55 44.15,1.42 44.27,1.29 44.28,1.12 44.28,0.95 44.37,0.79 44.53,0.7 44.64,0.54 44.74,0.42 44.98,0.51 45.17,0.41 45.33,0.47 45.47,0.5 45.66,0.51 45.81,0.55 45.97,0.64 46.11,0.77 46.22,0.9 46.33,1.04 46.41,1.21 46.52,1.34 46.67,1.43 46.81,1.53 46.96,1.57 47.12,1.49 47.23,1.36 47.39,1.28 47.54,1.2 47.69,1.2 47.84,1.21 48.02,1.21 48.17,1.17 48.25,1.0 48.4,0.87 48.47,0.74 48.59,0.61 48.74,0.52 48.89,0.44 48.99,0.31 49.14,0.36 49.29,0.27 49.44,0.14 49.56,0.01 49.67,-0.17 49.9,-0.31 50.01,-0.25 50.16,-0.29 50.3,-0.38 50.45,-0.38 50.66,-0.57 50.61,-0.67 50.41,-0.73 50.18,-0.71 50.02,-0.7 49.88,-0.79 49.73,-0.88 49.62,-1.02 49.48,-1.15 49.4,-1.33 49.3,-1.42 49.15,-1.46 49.04,-1.6 48.94,-1.73 48.82,-1.86 48.68,-1.82 48.53,-1.86 48.39,-1.81 48.24,-1.77 48.05,-1.77 47.9,-1.77 47.72,-1.77 47.5,-1.79 47.54,-2.05 47.75,-1.98 47.9,-2.03 48.09,-2.03 48.24,-2.08 48.39,-2.16 48.53,-2.08 48.66,-2.16 48.82,-2.21 48.97,-2.13 49.12,-2.04 49.27,-1.95 49.37,-1.82 49.45,-1.64 49.55,-1.51 49.7,-1.42 49.84,-1.33 49.99,-1.24 50.1,-1.1 50.29,-1.1 50.51,-1.18 50.73,-1.22 50.9,-1.28 51.06,-1.19 51.18,-1.09 51.3,-0.97 51.47,-0.84 51.59,-1.16 51.6,-1.34 51.52,-1.52 51.38,-1.64 51.22,-1.86 51.34,-2.05 51.46,-2.2 51.59,-2.36 51.62,-2.61 51.8,-2.72 51.88,-2.92 52.04,-3.03 52.19,-3.14 52.35,-3.25 52.52,-3.35 52.67,-3.46 52.82,-3.57 52.98,-3.63 53.13,-3.74 53.21,-3.69 53.09,-3.51 52.99,-3.37 52.79,-3.32 52.67,-3.16 52.51,-3.0 52.35,-2.95 52.19,-2.89 52.07,-2.68 51.99,-2.53 51.95,-2.33 51.87,-2.12 51.82,-1.92 51.74,-1.72 51.73,-1.52 51.84,-1.37 51.91,-1.17 52.07,-1.02 52.22,-0.93 52.37,-0.88 52.49,-0.83 52.69,-0.84 52.85,-0.79 53.0,-0.8 53.15,-0.7 53.26,-0.55 53.4,-0.5 53.53,-0.41 53.63,-0.37 53.76,-0.42 53.92,-0.4 54.08,-0.36 54.3,-0.41 54.45,-0.46 54.57,-0.45 54.73,-0.46 54.89,-0.63 54.89,-0.63 54.94,-1.22 54.93,-1.57 54.92,-1.98 54.94,-2.22 54.95,-2.57 54.93,-2.93 54.88,-3.18 54.75,-3.55 54.56,-3.87 54.29,-4.16 54.1,-4.46 54.12,-4.71 54.19,-5.03 54.19,-5.34 54.15,-5.71 54.07,-5.91 54.06,-6.18 54.0,-6.45 53.91,-6.69 53.8,-6.63 53.64,-6.97 53.43,-7.14 53.26,-7.11 53.1,-7.26 52.89,-7.45 52.7,-7.6 52.39,-7.73 52.2,-7.82 51.92,-7.88 51.65,-7.89 51.28,-7.89 51.06,-7.83 50.65,-7.82 50.28,-7.85 49.88,-7.84 49.5,-7.87 49.08,-7.94 48.75,-7.96 48.42,-8.02 48.05,-8.02 47.76,-8.02 47.57,-8.14 47.32,-8.26 47.03,-8.25 46.76,-8.25 46.32,-8.21 45.96,-8.19 45.56,-8.17 45.17,-8.18 44.93,-8.14 44.74,-8.08 44.25,-8.16 43.83,-8.29 43.28,-8.58 42.86,-9.03 42.48,-9.35 42.22,-9.72 42.0,-10.11 41.7,-10.38 41.46,-10.04 41.33,-9.73 41.22,-9.3 41.06,-8.89 40.7,-8.42 40.41,-7.97 40.1,-7.57 39.97,-7.32 40.03,-7.13 39.96,-7.0 39.83,-6.98 39.81,-6.82 39.89,-6.72 39.8,-6.57 39.8,-6.32 39.87,-6.23 39.97,-6.26 39.93,-6.05 39.85,-5.88 40.01,-5.7 40.03,-5.36 39.9,-5.37 39.86,-5.19 39.76,-5.09 39.66,-5.05 39.55,-4.92 39.44,-4.91 39.33,-4.68 39.19,-4.6 39.11,-4.35 39.21,-4.19 39.28,-4.06 39.4,-3.95 39.51,-3.94 39.58,-3.85 39.48,-3.61 39.6,-3.45 39.62,-3.21 39.76,-3.02 39.81,-2.8 39.75,-2.92 39.97,-2.54 40.11,-2.27 40.27,-2.11 40.59,-1.57 40.8,-1.17 40.99,-0.74 41.24,-0.36 41.29,-0.16 41.5,0.15 41.56,0.45 41.74,0.83 41.84,0.96 41.96,1.35 42.08,1.86 42.22,2.09 42.2,2.42 42.17,2.99 42.39,3.23 42.6,3.29 42.77,3.23 42.99,3.08 43.2,3.1 43.41,3.15 43.56,3.08 43.81,2.96 44.01,2.75
+style: {"fillOpacity":"0","opacity":"0"}
+tags: nation Khorvaire
+title: Thrane
+tooltip: theocracy of the Silver Flame
+type: text/vnd.tiddlywiki
+
+''Capital:'' [[Flamekeep]]<br/>
+''Hallmarks:'' [[Divine magic|divine magic]], fine crafts, fruit, livestock, the [[Silver Flame]], textiles, wool 
+
+The modern Church of the [[Silver Flame]] was founded in
+Thrane, and most of the people of the nation follow this
+faith. During the [[Last War]], the people of Thrane chose
+to set aside the rule of the monarchy and to embrace
+the leadership of the church. For the last seventy years,
+Thrane has been a theocracy. The head of the state is
+11-year-old Jaela Daran, the divinely selected [[Keeper of the Flame]]. Jaela depends on the [[Council of Cardinals]] to
+perform the practical work of running the nation.
+
+The primary purpose of the Silver Flame is to defend
+the innocent from supernatural evil. The church has
+always had a militant aspect, with battalions of templars
+and peasant militias prepared to face [[undead]], [[therianthrope]]s, or other monstrous threats. But compassion
+and charity are core values of the church, and the templars are tasked to defend all innocents. Even during the
+Last War, if a [[fiend]]ish threat arose in a [[Brelish|Breland]] village,
+Thrane templars would ally with the locals to bring an
+end to the threat. Not all Thranes rise to this ideal. Zealous Thranes believe the church is destined to reunite [[Galifar]] under the Silver Flame, and corrupt priests are
+interested only in power and wealth.
+
+Not all priests are [[cleric]]s, and the typical templar is a
+mundane warrior. However, due to the deep faith of its
+people, Thrane produces more clerics and [[paladin]]s than
+any other nation in [[Khorvaire]]. 
+
+!! Interesting Things About {{!!title}}
+
+* Faith is part of daily life in Thrane, and divine [[adept]]s provide important services. [[Arcane magic|arcane magic]] is also common in Thrane. [[Everbright lantern|everbright lantern]]s light the streets while [[magewright]]s and [[wizard]]s practice their trades, though there are fewer of them than in other nations.
+* Every town has a militia ready to deal with supernatural threats, and people stand together to fight darkness. Champions of the light find support and hospitality, but any character who dabbles with dark forces—[[necromancer|necromancy]]s, [[warlock]]s, and the like—finds Thrane a dangerous, unwelcoming place.
+* The feudal system of nobility remains in place, but ultimate authority rests in the hands of the church. Queen [[Diani ir'Wynarn]] is the "blood regent," serving as a symbolic advisor to the [[Keeper of the Flame]]. A small fraction of the population would like to see the traditional monarchy restored to power. 
+
+!! Thrane Characters
+
+As you develop a Thrane character, consider the following details:
+
+* ''The Impact of Faith.'' If you want to reflect a close bond to the [[Silver Flame]], you could gain a few divine spells by taking the Magic Initiate feat. Archery is a devotional practice of the Silver Flame, so as a martial Thrane you might focus on archery-related combat styles or take the Sharpshooter feat. Any Thrane could take the acolyte background to reflect a strong connection to the church or the soldier background based on service with the templars.
+* ''Church or Crown?'' Do you support the theocracy, or would you like to see power restored to the throne? Many people of faith believe that miring the church in politics distracts it and invites corruption.
+* ''Dealing with Darkness.'' The [[Shadow in the Flame|Bel Shalor]] can tempt even the most virtuous soul. How do you react when you encounter corruption and greed? Are you a compassionate person who seeks to lead people to the light, or a zealot determined to crush all darkness? 
+
+!! Cities and Sites
+
+The Church of the [[Silver Flame]] is a militant faith, and
+Thrane communities are built around fortified churches
+designed to serve as fortresses in times of trouble.
+Larger towns maintain sturdy walls patrolled by skilled
+archers. A Flamic architectural style appears throughout the region. Buildings incorporate light and soaring
+spaces, and icons of the Silver Flame and images of the
+martyr [[Tira Miron]] appear throughout the nation. 
+
+!!! Cities
+
+<<list-links-article "[tag{!!title}category[location]tag[city]sort[title]]">>
+
+!!! Towns
+
+<<list-links-article "[tag{!!title}category[location]tag[town]sort[title]]:filter[get[text]length[]compare:integer:gt[350]]">>
+
+!!! Other Sites
+
+<<list-links-article "[tag{!!title}category[location]!tag[province]!tag[city]!tag[town]sort[title]]:filter[get[text]length[]compare:integer:gt[350]]">>
+
+!! Aftermath of the Last War
+
+The war is over, but deep rifts remain between Thrane
+and its neighbors. [[Aundair]]ian war magic created a
+blasted wasteland between the two nations. To the east,
+the conflict with [[Karrnath]] left farms and cities such as
+[[Shadukar]] devastated and abandoned, home only to the
+lingering undead left behind after the Karrnathi retreat.
+
+For most, these grim reminders of war strengthen
+Thrane resolve. The common people are united by their
+faith and sure of the righteousness of their cause. The
+[[Silver Flame]] urges people to stand together in the face
+of evil, and across the nation, villagers work together to
+repair the damage inflicted during the war. People in
+a Thrane village regularly cooperate to raise a barn or
+practice archery in the fields.
+
+The Silver Flame urges its followers to feel compassion for all people, which often proves a more difficult challenge. Thrane has never forgiven Karrnath for its
+use of [[undead]] soldiers, and many Thranes are quick
+to imagine all Karrns as agents of darkness. Likewise,
+Thranes have bitter memories of the conflict with Aundair, and Aundairian wizards or eldritch knights receive a cold reception.
+
+For most Thranes, the war strengthened their faith
+and drew them together. However, some question the
+validity of theocratic rule. Such doubt can be found
+even among the most devout followers of the faith; such
+people fear that the merging of temporal and spiritual
+authority distracts the church from its proper mission.
+If these doubts spread, a serious faction might seek
+to restore Queen Diani to power.
+
+[[Thaliost]] is another open wound. The [[Council of Cardinals]] is determined to hold onto
+this prize, but it is a bitter point of contention with [[Aundair]] and a constant source
+of tension and violence. In creating a Thrane character, consider how you feel about Thaliost. Would you like to see it returned to Aundair, or do you support Thrane's rule? 

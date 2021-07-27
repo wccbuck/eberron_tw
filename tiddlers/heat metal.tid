@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210421032109616
+modified: 20210727192013193
+tags: transmutation
+tier: 2
+title: heat metal
+type: text/vnd.tiddlywiki
+
+Choose a manufactured metal object, such as a metal weapon or a suit of metal armor, that you can see within 60 feet. You cause the object to glow red-hot. Any creature in physical contact with the object is burned when you cast the spell. With sustained concentration, you can maintain the heat for up to 1 minute.
+
+If a creature is holding or wearing the object and takes the damage from it, the creature will likely drop the object if it can. If it doesn't drop the object, it has [[disadvantage]] on all attempts as long as the object is heated.

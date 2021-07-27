@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20210110053153436
+modified: 20210727192042014
+tags: conjuration
+tier: 3
+title: watery sphere
+type: text/vnd.tiddlywiki
+
+You conjure up a sphere of water with a 5-foot radius at a point you can see within 90 feet. The sphere can hover but no more than 10 feet off the ground. The sphere remains for the spell's duration of 1 minute, or until your concentration breaks.
+
+Any creature in the sphere's space is either ejected from that space (especially if it is larger than the sphere) or is restrained by the sphere as it is engulfed by the water.
+
+The sphere can restrain as many as four human-sized or smaller creatures. If the sphere restrains a creature that causes it to exceed this capacity, a random creature that was already restrained by the sphere gets ejected.
+
+You can move the sphere as long as the spell is in effect. If it moves over a pit, a cliff, or other drop-off, it safely descends until it is hovering 10 feet above the ground. Any creature restrained by the sphere moves with it. You can ram the sphere into creatures and attempt to engulf them.
+
+When the spell ends, the sphere falls to the ground and extinguishes all normal flames within 30 feet of it. Any creature restrained by the sphere is knocked prone in the space where it falls. The water then vanishes.

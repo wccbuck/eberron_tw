@@ -1,0 +1,13 @@
+category: spell
+color: #B7A1E0
+created: 20201231204509598
+modified: 20210727191956443
+tags: illusion
+tier: 1
+title: Aundair's silent sanctum
+type: text/vnd.tiddlywiki
+
+You create an invisible sphere of energy with a 5-foot radius.
+Until the spell ends (up to 1 minute later, or when you break concentration), it moves with you, centered on you. The sphere muffles sound in both directions. 
+
+In addition, creatures have [[advantage]] to resist effects that require them to hear a sound from the other side of the sphere, such as the [[command]] spell.

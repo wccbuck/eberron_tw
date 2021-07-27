@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210427162121983
+modified: 20210727192026156
+tags: abjuration [[divine magic]] [[primal magic]]
+tier: 2
+title: protection from poison
+type: text/vnd.tiddlywiki
+
+You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
+
+For 1 hour, the target has enhanced resistance to all poisons.

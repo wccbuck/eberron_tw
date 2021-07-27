@@ -1,0 +1,11 @@
+category: object
+color: #41D5E1
+created: 20201208072418216
+modified: 20210727192008373
+rarity: 2
+tags: accessory [[dragonmark focus item]]
+title: finder's goggles
+tooltip: uncommon dragonmark focus item, allows Finding mark wielder to see the aura of the last person who touched a specific object
+type: text/vnd.tiddlywiki
+
+The lenses of these garish goggles are carved from Siberys [[dragonshard]]s. While wearing these lenses, a creature with the [[Mark of Finding]] can examine an object to identify the aura of the last creature that touched it. If successful, the wearer can learn the creature's type and can see the creature's aura through any physical barriers up to 1,000 feet away from the wearer. This property can't be used again until the next dawn.

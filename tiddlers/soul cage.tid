@@ -1,0 +1,20 @@
+category: spell
+color: #B7A1E0
+created: 20210507214845779
+modified: 20210727192033279
+tags: necromancy
+tier: 4
+title: soul cage
+type: text/vnd.tiddlywiki
+
+This spell snatches the soul of a [[humanoid]] as it dies and traps it inside a tiny silver cage (worth at least [[10c|money]]). A stolen soul remains inside the cage for up to 8 hours or until you destroy the cage, which ends the spell. While you have a soul inside the cage, you can exploit it in any of the ways described below. You can use a trapped soul up to six times. Once you exploit a soul for the sixth time, it is released to [[Dolurrh]], and the spell ends. While a soul is trapped, the dead humanoid it came from can't be revived.
+
+//''Steal Life.''// You can drain vigor from the soul and recover from injury.
+
+//''Query Soul.''// You ask the soul a question and receive a brief telepathic answer, which you can understand regardless of the [[language]] used. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.
+
+//''Borrow Experience.''// You can bolster yourself with the soul's life experience, making your next relevant [[attempt|Taking Action]] with [[advantage]]. 
+
+//''Eyes of the Dead. ''//You can name a place the [[humanoid]] saw in life, which creates an invisible sensor somewhere in that place if it is on the [[plane]] of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes. You receive visual and auditory information from the sensor as if you were in its space using your senses.
+
+A creature that can see the sensor (such as one using [[see invisibility]] or [[truesight]]) sees a translucent image of the tormented [[humanoid]] whose soul you caged.

@@ -1,0 +1,26 @@
+category: game mechanics
+created: 20210409191449051
+modified: 20210727192021950
+tags: Storyloom
+title: money
+type: text/vnd.tiddlywiki
+
+The [[Storyloom]] system doesn't keep track of every single coin your character spends in-universe. However, larger (and therefore story-relevant) sums of money can be symbolized by ''crowns'' (indicated with a "c" symbol). For a quick reference, 1c is about 1-2 days' wages for a laborer, equivalent to approximately 10 gold pieces (5E), about $100 USD.
+
+Other denominations include ''sovereigns'' (indicated with an "s" symbol), which are equal to 5 crowns, and ''galifars'' ("g"), which are equal to 5 sovereigns. At your table, you can indicate these currencies with copper, silver, and gold coin tokens for crowns, sovereigns, and galifars, respectively.
+
+Carrying around 10c or more in coin tends to be rather bulky; each footstep likely results in a noisy jangling. If you are a customer of a [[Kundarak]] bank, you can receive a [[Sivis]]-notorized letter of credit for a specific amount of money, designated for a specific person or organization.
+
+!! Lifestyle
+
+If you are playing an urban campaign, you might consider an optional ''lifestyle'' rule. Below are the approximate costs per month of living of one person at different lifestyle levels:
+
+|!Lifestyle |!Cost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |!Description |
+|''Squalid'' |1–10c |Shelter from the elements, but in a desperate environment |
+|''Poor'' |11–20c |Simple food and lodgings, threadbare clothing |
+|''Modest'' |21–40c |Renting a house in an older part of town, simple clothing, don't go hungry |
+|''Comfortable'' |41–80c |Own a cottage in a middle-class neighborhood, nicer clothing |
+|''Wealthy'' |81–300c |Life of luxury, rich enough for a small staff of servants (1-3) |
+|''Aristocratic'' |301+c |Dine at the finest restaurants, retain the finest tailors, have servants for your every need |
+
+To simplify bookkeeping, you can use a "stash" system. For every 100c that you have stashed in a bank, you earn 10c towards your lifestyle tier cost each month.

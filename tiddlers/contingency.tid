@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210421025708798
+modified: 20210727192002022
+tags: evocation
+tier: 4
+title: contingency
+type: text/vnd.tiddlywiki
+
+This spell requires 10 minutes to cast, and requires a special material component worth at least [[150c|money]], such as a statuette of yourself carved from ivory and decorated with gems. Choose a spell of [[rare tier|spell tier]] or lower that you can cast, that has a casting time of no more than a few seconds, and that can target you. You cast that spell—called the contingent spell—as part of casting contingency, expending [[stress]] for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs over the next ten days. You describe that circumstance when you cast the two spells. For example, a contingency cast with [[water breathing]] might stipulate that water breathing comes into effect when you are engulfed in water or a similar liquid.
+
+The contingent spell takes effect immediately after the circumstance is met for the first time, whether or not you want it to, and then contingency ends. 
+
+The contingent spell takes effect only on you, even if it can normally target others. You can use only one contingency spell at a time. If you cast this spell again, the effect of another contingency spell on you ends. Also, contingency ends on you if its material component is ever not on your person, or if it is not triggered after 10 days.

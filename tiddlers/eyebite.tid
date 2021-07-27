@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20201210231838300
+modified: 20210727192007629
+tags: necromancy
+tier: 3
+title: eyebite
+type: text/vnd.tiddlywiki
+
+For up to one minute, your eyes become an inky void imbued with dread power. As long as the spell is active, whenever you spend at least five seconds staring at a creature you can see within 60 feet of you, they must magically resist your gaze or else succumb to one of the following effects of your choice. If you try to target a creature who successfully resisted your magic already, you have [[disadvantage]] on subsequent attempts.
+
+''//Asleep.//'' The target falls unconscious, though they can be forcefully shaken awake.<br/>
+//''Panicked.''// The target is frightened of you and flees.<br/>
+''//Sickened.//'' The target is overwhelmed with nausea and dizziness.

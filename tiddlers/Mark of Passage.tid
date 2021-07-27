@@ -1,0 +1,17 @@
+category: phenomenon
+color: #432874
+created: 20200415043640913
+modified: 20210727192020546
+tags: dragonmark
+title: Mark of Passage
+type: text/vnd.tiddlywiki
+
+The Mark of Passage governs motion, allowing its
+bearer to move with uncanny speed. The bearer of the
+mark can even slip through space in the blink of an eye. 
+
+Only a [[human]] with ties to House [[Orien]] can manifest this [[dragonmark]].
+
+!! {{!!title}} [[Focus Items|dragonmark focus item]]
+
+<<list-links-article "[tag[dragonmark focus item]search::casesensitive{!!title}!search:title[dragonmark]!search:title[channeling]]">>

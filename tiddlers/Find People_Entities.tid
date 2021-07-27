@@ -1,0 +1,93 @@
+caption: Find People
+created: 20210301043114493
+modified: 20210727192008321
+tags: 
+title: Find People/Entities
+type: text/vnd.tiddlywiki
+
+\define lingo-base() $:/language/Manager/
+\define results-count() $(count)$ results
+
+<div class="tc-manager-wrapper">
+	<div class="tc-manager-controls">
+		<div class="tc-manager-control">
+			<<lingo Controls/Search/Prompt>> <$edit-text tiddler="$:/config/Manager/Filter" tag="input" default="" placeholder={{$:/language/Manager/Controls/Search/Placeholder}}/>
+		</div>
+		<div class="tc-manager-control">
+			Creature type: <$select tiddler="$:/config/Manager/PplEntType" default="">
+				<option value="">---</option>
+				<$list filter="[subfilter<ppl-ent>tags[]category[creature]] -[category[creature]tagging[]] +[sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			Tag 1: <$select tiddler="$:/config/Manager/PplEntTag" default="">
+				<option value="">---</option>
+				<$list filter="[subfilter<ppl-ent>tag:strict{$:/config/Manager/PplEntType}tag:strict{$:/config/Manager/PplEntTag2}!tag{$:/config/Manager/ExcludePplEntTag}tags[]!regexp<capitalized>] [subfilter<ppl-ent>tag:strict{$:/config/Manager/PplEntType}tag:strict{$:/config/Manager/PplEntTag2}!tag{$:/config/Manager/ExcludePplEntTag}!title{$:/config/Manager/PplEntType}tags[]!regexp<capitalized>is[missing]] [{$:/config/Manager/PplEntTag}!is[blank]] +[sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+			&nbsp;Tag 2: <$select tiddler="$:/config/Manager/PplEntTag2" default="">
+				<option value="">---</option>
+				<$list filter="[subfilter<ppl-ent>tag:strict{$:/config/Manager/PplEntType}tag:strict{$:/config/Manager/PplEntTag}!tag{$:/config/Manager/ExcludePplEntTag}tags[]regexp<capitalized>] [subfilter<ppl-ent>tag:strict{$:/config/Manager/PplEntType}tag:strict{$:/config/Manager/PplEntTag}!tag{$:/config/Manager/ExcludePplEntTag}tags[]regexp<capitalized>is[missing]] [{$:/config/Manager/PplEntTag2}!is[blank]] +[sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+
+		</div>
+		<div class="tc-manager-control">
+			Exclude tag: <$select tiddler="$:/config/Manager/ExcludePplEntTag" default="">
+				<option value="">---</option>
+				<$list filter="[subfilter<ppl-ent>tag:strict{$:/config/Manager/PplEntType}tags[]!title{$:/config/Manager/PplEntType}] [{$:/config/Manager/ExcludePplEntTag}!is[blank]] +[sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			<<lingo Controls/Sort/Prompt>> <$select tiddler="$:/config/Manager/PplEntSort" default="title">
+				<$list filter="title relevance" variable="field">
+					<option value=<<field>>><$text text=<<field>>/></option>
+				</$list>
+			</$select>
+			&nbsp;&nbsp;
+			<$checkbox tiddler="$:/config/Manager/PplEntSortOrder" field="text" checked="reverse" unchecked="forward" default="forward">
+				<<lingo Controls/Order/Prompt>>
+			</$checkbox>
+		</div>
+		<div class="tc-manager-control">
+		<$button><<resetpplents>>Reset All Fields</$button> <$button>
+<$action-chooserandom $filter="[all{$:/config/Manager/Show}subfilter<ppl-ent>!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/PplEntType}tag:strict{$:/config/Manager/PplEntTag}tag:strict{$:/config/Manager/PplEntTag2}!tag{$:/config/Manager/ExcludePplEntTag}]" $nav="true"/>Open Random</$button>
+		</div>
+		<div class="tc-manager-control" align="right">
+			<$list filter={{$:/config/Manager/LimitPplEnt}} variable="count">
+				<<results-count>><br/>
+				<$checkbox tiddler= "$:/config/Manager/LimitPplEnt" field="limit50" checked="[limit[50]]" unchecked="[has[title]]" default="[limit[50]]">
+					Limit display to 50 results?
+				</$checkbox>
+			</$list>
+		</div>
+	</div>
+	<div class="tc-manager-list">
+		<table class="manager-table">
+		<tr><th align="left" class="th-sticky">Person/Entity</th><th align="left" width="60%" class="th-sticky">Tags</th></tr>
+		<$list filter="[all{$:/config/Manager/Show}subfilter<ppl-ent>!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/PplEntType}tag:strict{$:/config/Manager/PplEntTag}tag:strict{$:/config/Manager/PplEntTag2}!tag{$:/config/Manager/ExcludePplEntTag}sort{$:/config/Manager/PplEntSort}order{$:/config/Manager/PplEntSortOrder}subfilter{$:/config/Manager/LimitPplEnt!!limit50}]">
+		<tr><td>{{!!article}}<$link/></td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+		</$list>
+		</table>
+		<$reveal type="match" state="$:/config/Manager/LimitPplEnt!!limit50" text="[limit[50]]">
+			<$button set="$:/config/Manager/LimitPplEnt!!limit50" setTo="[has[title]]">Show All Results</$button>
+		</$reveal>
+	</div>
+<style>
+	.tc-manager-list {border-style: none;}
+</style>

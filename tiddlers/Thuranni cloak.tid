@@ -1,0 +1,15 @@
+category: object
+color: #41D5E1
+created: 20201210040754335
+modified: 20210727192037839
+rarity: 2
+tags: accessory [[dragonmark focus item]]
+title: Thuranni cloak
+tooltip: uncommon dragonmark focus item, allows Shadow mark wielder to obscure their precise location
+type: text/vnd.tiddlywiki
+
+To use this cloak's effect, you must have the [[Mark of Shadow]].
+
+While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, much like a [[displacer beast]]. If you or the cloak take damage, the property ceases to function for 5-10 seconds. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move.
+
+(See also [[cloak of displacement]], the higher rarity version of this item that does not require a [[dragonmark]].)

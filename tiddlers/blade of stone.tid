@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20210102170036694
+modified: 20210727191958112
+rarity: 1
+tags: weapon
+title: blade of stone
+type: text/vnd.tiddlywiki
+
+While holding this weapon, you can use the stored energy in the blade to cast the [[mold earth]] spell once per day.
+
+<<<
+{{mold earth}}
+<<<

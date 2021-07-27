@@ -1,0 +1,18 @@
+category: location
+color: #092F1E
+created: 20210302025200336
+modified: 20210727192015256
+title: island
+type: text/vnd.tiddlywiki
+
+<ul>
+<$list filter="[tag[island]tags[]tag[continent]] [tag[island]tags[]tag[nation]] [tag[island]tags[]tag[sea]] +[sort[title]]">
+<$list filter="[<currentTiddler>tag[island]]" emptyMessage="""<li>{{!!article}}<$link overrideClass="graylink"/></li>""" variable="noop">
+<li>{{!!article}}<$link/></li></$list>
+<ul>
+<$list filter="[tag[island]tag<currentTiddler>] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>

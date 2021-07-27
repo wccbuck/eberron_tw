@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20201216171252210
+modified: 20210727192013595
+tags: enchantment
+tier: 2
+title: hold
+type: text/vnd.tiddlywiki
+
+Choose a [[humanoid]] that you can see within 90 feet. If the target cannot resist your enchantment, it is paralyzed for up to 1 minute, or until your concentration is broken. While paralyzed, the creature freezes in place and cannot move or speak.
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target a non-humanoid creature. Alternatively, you can target up to three humanoids with this spell simultaneously; the targets must be within 30 feet of each other when you target them.

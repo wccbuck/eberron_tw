@@ -1,0 +1,11 @@
+caption: Items
+created: 20210409214400998
+modified: 20210727191952543
+tags: 
+title: $:/MyItems
+type: text/vnd.tiddlywiki
+
+!!! Saved Items and Objects
+<$list filter="[list[My Stuff]category[object]]">
+<$button><$action-listops $tiddler="My Stuff" $subfilter="-[<currentTiddler>]"/>X</$button> &nbsp;{{!!article}}<$link><<currentTiddler>></$link><br/>
+</$list>

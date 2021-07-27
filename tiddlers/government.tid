@@ -1,0 +1,33 @@
+category: organization
+color: #052c65
+created: 20210225014419806
+list: [[intelligence agency]] military [[law enforcement]]
+modified: 20210727192011126
+tags: [[organization type]]
+title: government
+type: text/vnd.tiddlywiki
+
+<ul>
+<$list filter="[tag[government]tags[]tag[nation]] [tag[government]tags[]tags[]tag[nation]] +[sort[title]]">
+<li>{{!!article}}<$link overrideClass="graylink"/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[government]] [tag<currentTiddler>tagging[]tag[government]tags[]tag<currentTiddler>!tag[province]category[location]] [tag<currentTiddler>tagging[]tag[government]tags[]tag<currentTiddler>!title[government]!tag[fleet]category[organization]] +[sort[title]]">
+<$list filter="[<currentTiddler>tag[government]]" emptyMessage="""<li>{{!!article}}<$link overrideClass="graylink"/></li>""" variable="noop">
+<li>{{!!article}}<$link/></li></$list>
+<ul>
+<$list filter="[tag<currentTiddler>tag[government]] [tag<currentTiddler>tagging[]tag[government]tags[]tag<currentTiddler>category[location]] [tag<currentTiddler>tagging[]tag[government]tags[]tag<currentTiddler>!title[government]category[organization]] +[sort[title]]">
+<$list filter="[<currentTiddler>tag[government]]" emptyMessage="""<li>{{!!article}}<$link overrideClass="graylink"/></li>""" variable="noop">
+<li>{{!!article}}<$link/></li></$list>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+
+
+!! Other Tags Under "Government" Umbrella
+
+<$list filter="[list{!!title}sort[title]]">
+<$macrocall $name="tag" text={{!!title}}/>
+</$list>

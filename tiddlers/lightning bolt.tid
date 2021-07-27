@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20201228020119569
+modified: 20210727192018909
+tags: evocation
+tier: 3
+title: lightning bolt
+type: text/vnd.tiddlywiki
+
+A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must dodge or be electrocuted. The lightning ignites flammable objects in the area.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you can increase the range to 150 feet, and cause the bolts to chain and leap to several other targets (as long as the secondary targets are within 30 feet of each other).

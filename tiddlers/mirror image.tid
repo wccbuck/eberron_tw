@@ -1,0 +1,15 @@
+category: spell
+color: #B7A1E0
+created: 20201216173336883
+modified: 20210727192021684
+tags: illusion
+tier: 2
+title: mirror image
+type: text/vnd.tiddlywiki
+
+Three illusory duplicates of yourself appear within 5 feet of you. Until the spell ends (up to one minute), the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. 
+
+Each time a creature targets you with an attack during the spell's duration, there's a chance it will instead target a duplicate. If the duplicate is hit by an attack, it is destroyed. The spell ends when all three duplicates are destroyed.
+
+A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, or if it can perceive illusions as false, as with [[truesight]].
+

@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210428061433856
+modified: 20210727192022055
+tags: [[primal magic]]
+tier: 2
+title: moonbeam
+type: text/vnd.tiddlywiki
+
+A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high cylinder centered on a point within 120 feet. Until the spell ends up to a minute later (or earlier if your concentration breaks), dim light fills the cylinder.
+
+A creature within the spell's area is engulfed in ghostly flames that cause searing pain, and it suffers radiant damage. A [[shapechanger]] (such as a [[changeling]] or a [[therianthrope]]) is particularly susceptible to this spell. If it is hit by the beam, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.
+
+While the spell is active, you can move the beam up to 20 feet per second in any direction, but no further than 120 feet away from you.

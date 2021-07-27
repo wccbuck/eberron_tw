@@ -1,0 +1,8 @@
+created: 20201208011142174
+limit50: [has[title]]
+modified: 20210727191951247
+tags: 
+title: $:/config/Manager/LimitObject
+type: text/vnd.tiddlywiki
+
+[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/ObjectTag}!tag{$:/config/Manager/ExcludeObjectTag}subfilter{$:/config/Manager/Rarity}subfilter{$:/config/Manager/Rarity0}field:category[object]count[]]

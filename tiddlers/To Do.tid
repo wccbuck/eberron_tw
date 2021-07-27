@@ -1,0 +1,60 @@
+created: 20200410005509578
+modified: 20210727192038173
+tags: 
+title: To Do
+type: text/vnd.tiddlywiki
+
+\define chimera-counts-filter() $(boo)$ +[sortan[]reverse[]] +[limit[50]]
+\define scares-ghost() [[$(scares)$: $(ghost)$]]
+\define chimera-counts()
+<$list filter="[all[tiddlers]!is[system]!has[draft.of]links[]is[missing]]" variable="ghost">
+<$list filter="[<ghost>backlinks[]count[]]" variable="scares" >
+<$text text=<<scares-ghost>>/>
+</$list>
+</$list>
+\end
+\define common-counts()
+<$list filter="[all[tiddlers]has[category]!is[system]]" variable="ghost">
+<$list filter="[<ghost>links[]is[missing]]" emptyMessage="" variable="noop">
+<$list filter="[<ghost>backlinks[]count[]]" variable="scares" >
+<$text text=<<scares-ghost>>/>
+</$list>
+</$list>
+</$list>
+\end
+\define search-actions() <$action-setfield $tiddler="$:/temp/advancedsearch" text="[title[$(ghostname)$]backlinks[]]"/><$action-setfield $tiddler="$:/temp/advancedsearch/input" text="[title[$(ghostname)$]backlinks[]]"/><$action-navigate $to="$:/AdvancedSearch"/><$action-setfield $tiddler="$:/temp/advancedsearch/refresh" text="yes"/><$action-setfield $tiddler="$:/state/advancedsearch/currentTab" text="$:/core/ui/AdvancedSearch/Filter"><$action-sendmessage $message="tm-focus-selector" $param="""[data-tiddler-title="$:/AdvancedSearch"] .tc-search input""" preventScroll="true"/>
+
+* Make the Graywall adventure as an example one-shot. "note" category
+* [[Map]]
+** Colors inspiration: https://i.pinimg.com/originals/9d/20/5e/9d205e9fa8988711e313c8d926cf8120.png.
+** $:/plugins/sycom/leaflet/mapWidget.tid
+
+!! Missing Tiddlers
+
+{{{ [all[tiddlers]!is[system]!has[draft.of]links[]is[missing]count[]] }}} missing
+
+<$wikify name="boo" text=<<chimera-counts>>>
+<$list filter=<<chimera-counts-filter>> variable="ghostnamecounts">
+<$wikify name="ghostname" text="{{{ [<ghostnamecounts>split[: ]nth[2]] }}}">
+<$set name="ghostcounts" filter="[<ghostnamecounts>split[: ]nth[1]]">
+{{{ [<ghostnamecounts>split[: ]nth[2]] }}} (<$button class="tc-btn-invisible tc-tiddlylink"><<search-actions>><<ghostcounts>></$button>)<br/>
+</$set></$wikify>
+</$list>
+</$wikify>
+...
+
+<$wikify name="boo" text=<<common-counts>>>
+<ul>
+<$list filter=<<chimera-counts-filter>> variable="ghostnamecounts">
+<$wikify name="ghostname" text="{{{ [<ghostnamecounts>split[: ]nth[2]] }}}">
+<$set name="ghostcounts" filter="[<ghostnamecounts>split[: ]nth[1]]">
+<li>{{{ [<ghostnamecounts>split[: ]nth[2]] }}}</li>
+<ul>
+<$list filter="[<ghostnamecounts>split[: ]nth[2]links[]is[missing]]">
+<li><$link/></li>
+</$list>
+</ul>
+</$set></$wikify>
+</$list>
+</ul>
+</$wikify>

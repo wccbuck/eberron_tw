@@ -1,0 +1,8 @@
+category: location
+created: 20210319063833890
+modified: 20210727191952364
+polygons: 64.41,230 64.41,-130 62.62,-130 62.62,230|-64.41,230 -64.41,-130 -62.62,-130 -62.62,230
+style: {"fillColor":"#A3A173","fillOpacity":1,"weight":0}
+tags: $:/Background
+title: $:/Land1
+type: text/vnd.tiddlywiki

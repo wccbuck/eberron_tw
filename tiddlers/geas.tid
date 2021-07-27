@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20201216170648452
+modified: 20210727192009910
+tags: enchantment
+tier: 3
+title: geas
+type: text/vnd.tiddlywiki
+
+This spell takes 1 minute to cast. You place a magical command on a creature that you can see within 60 feet, forcing it to carry out some service or refrain from some action or course of activity as you decide. If the creature can understand you, and if it cannot resist your enchantment, it becomes charmed by you for up to 30 days. While the creature is charmed by you, it experiences agonizing psychic pain each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can't understand you is unaffected by the spell.
+
+You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
+
+You can end the spell early by choosing to dismiss it. A [[remove curse]] or [[wish]] spell also ends it.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may extend the duration to 1 year.

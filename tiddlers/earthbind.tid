@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210505034209841
+modified: 20210727192006488
+tags: transmutation [[primal magic]]
+tier: 2
+title: earthbind
+type: text/vnd.tiddlywiki
+
+Choose one creature you can see within 300 feet that is able to fly. Yellow strips of magical energy loop around the creature. If the target cannot break free of these bonds, it cannot fly for up to 1 minute. An airborne creature affected by this spell safely descends at 10 feet per second until it reaches the ground or the spell ends.

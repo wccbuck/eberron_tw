@@ -1,0 +1,11 @@
+category: object
+color: #41D5E1
+created: 20201208073739444
+modified: 20210727192028689
+rarity: 2
+tags: accessory [[dragonmark focus item]]
+title: rings of shared suffering
+tooltip: uncommon dragonmark focus item, allows Warding mark wielder to take half the damage suffered by the wearer of the other ring
+type: text/vnd.tiddlywiki
+
+These rings come in linked pairs. If you possess the [[Mark of Sentinel]], you can form a link to the creature attuned to the other ring; from then on, whenever that creature suffers damage, they only suffer half of that damage and you take the rest. This effect continues until you end it or until you or the other creature removes their ring. This effect isn't limited by range. A creature cannot be attuned to more than one //ring of shared suffering//.

@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210412035445113
+modified: 20210727191953352
+tags: conjuration
+tier: 1
+title: acid splash
+type: text/vnd.tiddlywiki
+
+The spellcaster hurls a bubble of acid at one creature they can see within 60 feet (or two such creatures within 5 feet of each other). Targets who don't dodge suffer acid damage.

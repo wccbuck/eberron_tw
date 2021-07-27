@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210507203410363
+modified: 20210727192008075
+tags: necromancy [[divine magic]]
+tier: 3
+title: feign death
+type: text/vnd.tiddlywiki
+
+You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.
+
+For up to an hour or until you touch the target and choose to dismiss the spell, the target appears dead to all outward inspection and to spells used to determine the target's status. The target is considered incapacitated. The target gains resistance to all damage except psychic damage, and the effects of all diseases and poisons are suppressed while the spell is active.

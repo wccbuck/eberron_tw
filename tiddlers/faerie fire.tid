@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210411215056510
+modified: 20210727192007762
+tags: evocation
+tier: 2
+title: faerie fire
+type: text/vnd.tiddlywiki
+
+Each object in a 20-foot diameter sphere within 60 feet is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails to avoid the spell. For up to 1 minute, objects and affected creatures shed dim light in a 10-foot radius.
+
+Affected creatures or objects are highly visible, and can't easily be hidden or benefit from being invisible.

@@ -1,0 +1,90 @@
+created: 20201210225929044
+limit50: [limit[50]]
+modified: 20210727192008342
+tags: 
+title: Find Spells
+type: text/vnd.tiddlywiki
+
+\define lingo-base() $:/language/Manager/
+\define results-count() $(count)$ results
+
+See also the main [[spell]] page.
+
+<div class="tc-manager-wrapper">
+	<div class="tc-manager-controls">
+		<div class="tc-manager-control">
+			<<lingo Controls/Search/Prompt>> <$edit-text tiddler="$:/config/Manager/Filter" tag="input" default="" placeholder={{$:/language/Manager/Controls/Search/Placeholder}}/>
+		</div>
+		<div class="tc-manager-control">
+			[[Spell Tier|spell tier]]:&nbsp;
+				<$vars tid="$:/config/Manager/SpellTier", fld="tier", list="range[5]">
+			    <$select tiddler=<<tid>> field="comparison" actions=<<comp-actions>>>
+				<option>≤</option>
+				<option>=</option>
+				<option>≥</option>
+			</$select>
+			<$select tiddler=<<tid>> field=<<fld>>>
+				<$list filter="[range[5]]" variable="st">
+					<option value=<<st>>><$transclude tiddler="SpellTierNames" index=<<st>>/></option>
+				</$list>
+			</$select>
+			</$vars>
+		</div>
+		<div class="tc-manager-control">
+			<<lingo Controls/FilterByTag/Prompt>> <$select tiddler="$:/config/Manager/SpellTag" default="">
+				<option value="">---</option>
+				<$list filter="[category[spell]tags[]sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			<<lingo Controls/Sort/Prompt>> <$select tiddler="$:/config/Manager/SpellSort" default="title">
+				<$list filter="title tier relevance" variable="field">
+					<option value=<<field>>><$text text=<<field>>/></option>
+				</$list>
+			</$select>
+			&nbsp;&nbsp;
+			<$checkbox tiddler="$:/config/Manager/SpellSortOrder" field="text" checked="reverse" unchecked="forward" default="forward">
+				<<lingo Controls/Order/Prompt>>
+			</$checkbox>
+		</div>
+		<div class="tc-manager-control">
+		<$button><<resetspells>>Reset All Fields</$button> <$button>
+<$action-chooserandom $filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/SpellTag}subfilter{$:/config/Manager/SpellTier}category[spell]]" $nav="true"/>Open Random</$button>
+		</div>
+		<div class="tc-manager-control" align="right">
+			<$list filter={{$:/config/Manager/LimitSpells}} variable="count">
+				<<results-count>><br/>
+				<$checkbox tiddler= "$:/config/Manager/LimitSpells" field="limit50" checked="[limit[50]]" unchecked="[has[title]]" default="[limit[50]]">
+					Limit display to 50 results?
+				</$checkbox>
+			</$list>
+		</div>
+	</div>
+	<div class="tc-manager-list">
+		<table class="manager-table">
+		<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+		<$list filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/SpellTag}subfilter{$:/config/Manager/SpellTier}category[spell]sort[title]order{$:/config/Manager/SpellSortOrder}sort{$:/config/Manager/SpellSort}order{$:/config/Manager/SpellSortOrder}subfilter{$:/config/Manager/LimitSpells!!limit50}]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+		</$list>
+		</table>
+		<$reveal type="match" state="$:/config/Manager/LimitSpells!!limit50" text="[limit[50]]">
+			<$button set="$:/config/Manager/LimitSpells!!limit50" setTo="[has[title]]">Show All Results</$button>
+		</$reveal>
+	</div>
+<style>
+	.tc-manager-list {border-style: none;}
+</style>

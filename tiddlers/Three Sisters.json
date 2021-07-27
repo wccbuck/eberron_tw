@@ -1,0 +1,15 @@
+[
+    {
+        "created": "20210204211237703",
+        "title": "Three Sisters",
+        "text": "The Three Sisters are a trio of islands in the [[Lhazaar Principalities]]. They separate the [[Bitter Sea]] from the [[Straits of Orthoss]].",
+        "modified": "20210727192037544",
+        "tags": "[[Lhazaar Principalities]] island",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polygons": "67.96,24.42 68.13,25.0 68.46,25.05 68.48,24.68 68.36,24.24 68.18,24.02|68.41,22.82 68.52,23.6 68.66,23.9 68.89,23.75 69.16,23.28 69.2,22.7 69.02,22.18 68.71,22.07 68.54,22.35|68.61,21.21 68.76,21.63 68.95,21.66 69.0,21.56 69.2,21.42 69.01,20.85 68.89,20.66 68.82,20.94 68.68,20.93",
+        "style": "{\"fillOpacity\":\"0\",\"opacity\":\"0\"}"
+    }
+]

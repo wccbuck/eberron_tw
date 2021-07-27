@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210507204234255
+modified: 20210727191956464
+tags: [[divine magic]]
+tier: 3
+title: aura of purity
+type: text/vnd.tiddlywiki
+
+Purifying energy radiates from you in an aura with a 30-foot radius. For up to 10 minutes (or until your concentration breaks), the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) can't become diseased and has [[advantage]] to defend against poison and a host of other negative conditions: blinded, [[charm]]ed, frightened, paralyzed, etc.

@@ -1,0 +1,12 @@
+category: object
+color: #41D5E1
+created: 20201227060116923
+modified: 20210727192034112
+rarity: 2
+tags: weapon
+title: staff of the python
+type: text/vnd.tiddlywiki
+
+A [[cleric]], [[druid]], or [[warlock]] can speak this staff's command word and throw the staff on the ground within 10 feet of them. The staff becomes a giant constrictor snake under their control. They can send mental commands to the snake as long as it is within 60 feet of them and they aren't incapacitated. By speaking the command word again, they return the staff to its normal form in a space formerly occupied by the snake.
+
+If the snake is incapacitated, it dies and reverts to its staff form. The staff then shatters and is destroyed. If the snake reverts to staff form before being incapacitated, it recovers from all damage.

@@ -1,0 +1,16 @@
+category: object
+color: #41D5E1
+created: 20201227035701044
+modified: 20210727192006877
+rarity: 2
+tags: tool
+title: elemental gem
+type: text/vnd.tiddlywiki
+
+This gem contains a mote of elemental energy. When you break the gem, an [[elemental]] is summoned as if you had cast the [[conjure elemental]] spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell.
+
+|!Gem |!Summoned Elemental |
+|Blue sapphire |air |
+|Yellow diamond |earth |
+|Red corundum |fire |
+|Emerald |water |

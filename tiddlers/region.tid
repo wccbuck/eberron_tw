@@ -1,0 +1,11 @@
+color: #092F1E
+created: 20210302051536516
+list: nation province region [[manifest zone]]
+modified: 20210727192027767
+tags: [[location type]]
+title: region
+type: text/vnd.tiddlywiki
+
+<$list filter="[list{!!title}sort[title]]">
+<$macrocall $name="tag" text={{!!title}}/>
+</$list>

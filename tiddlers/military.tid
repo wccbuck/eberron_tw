@@ -1,0 +1,34 @@
+category: organization
+color: #052c65
+created: 20210225044623048
+list-before: 
+modified: 20210727192021490
+title: military
+type: text/vnd.tiddlywiki
+
+<ul>
+<$list filter="[tag[military]tags[]tag[nation]] [tag[military]tags[]tags[]tag[nation]] [tag[military]tags[]tag[dragonmarked house]] [tag[military]tags[]tag[plane]] [tag[military]tags[]tags[]tag[plane]] +[sort[title]]">
+<li>{{!!article}}<$link overrideClass="graylink"/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[military]] [tag<currentTiddler>tagging[]tag[military]tags[]tag<currentTiddler>category[location]] [tag<currentTiddler>tagging[]tag[military]tags[]tag<currentTiddler>!title[military]category[organization]] +[sort[title]]">
+<$list filter="[<currentTiddler>tag[military]]" emptyMessage="""<li>{{!!article}}<$link overrideClass="graylink"/></li>""" variable="noop">
+<li>{{!!article}}<$link/></li></$list>
+<ul>
+<$list filter="[tag<currentTiddler>tag[military]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[military]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[military]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>

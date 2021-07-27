@@ -1,0 +1,17 @@
+category: game mechanics
+created: 20210401182844254
+modified: 20210727192035001
+tags: Storyloom [[Taking Action]]
+title: stress
+type: text/vnd.tiddlywiki
+
+Stress represents your reserve of stamina and luck that is depleted as your character exerts themselves or tempts fate. You have six boxes on your character sheet labeled "stress"; mark these boxes as you suffer stress from [[consequence]]s. Perhaps casting that [[fireball]] fatigued you a bit, or sprinting across the courtyard took more out of you than you expected, or maybe you twisted out of the way of that dart trap just in time. These are all great situations to mark stress as a [[consequence]]. 
+
+You can also choose to spend two stress to [[push yourself]], adding +1 [[momentum]] to an attempt. Some [[talent]]s allow you to spend only one stress to push yourself in specific situations.
+
+Recovering from stress depends on the situation, and the GM has final authority on how many boxes of stress you recover during downtime. But as a guideline, you recover from 1 stress for every 10 minutes of rest.
+
+If you suffer a [[consequence]] but are out of stress boxes, you may be forced to suffer [[harm]].
+
+In addition to your standard stress boxes that you can spend on any type of action, your character may have access to ''special'' stress boxes that can only be spent on specific actions. Most commonly, these are gained by taking a [[talent]] involving using magic ([[Spellcaster (talent)]]), allowing you to spend your special stress on casting [[spell]]s.
+

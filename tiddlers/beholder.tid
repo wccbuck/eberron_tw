@@ -1,0 +1,85 @@
+category: creature
+color: #EA868F
+created: 20200423002333849
+modified: 20210727191957482
+tags: aberration
+tier: 4
+title: beholder
+type: text/vnd.tiddlywiki
+var1: 5
+var10: 
+var11: 
+var12: thin and long
+var13: smooth
+var14: narrow
+var15: humanlike
+var16: 
+var2: scaled
+var3: pinkish
+var4: 
+var5: purple-blue
+var6: 
+var7: brown
+var8: 
+var9: triangle
+
+One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these [[aberration]]s dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.
+
+A beholder's spheroid body levitates at all times, and its great bulging eye sits above a wide, toothy maw, while the smaller eyestalks that crown its body twist and turn to keep its foes in sight. When a beholder sleeps, it closes its central eye but leaves its smaller eyes open and alert. Each of these smaller eyes are capable of emitting a different ray of magical energy; the gaze from one eyestalk might result in petrification, while a different eye ray might disintegrate its target, and another might charm a [[humanoid]].
+
+Beholders and their kin ([[gazer]]s, [[gauth]]s, [[spectator]]s, etc) are native to the plane of [[Xoriat]], and were part of the initial incursion of the [[daelkyr]] into Eberron along with other [[aberration]]s from the plane of madness. They are closely associated with the daelkyr known as [[Belashyrra]], the Lord of Eyes.
+
+!! Birth of a Beholder
+
+Beholders can produce others of their own kind, but the
+process has nothing to do with biology and everything to do with psychology.
+
+When a beholder sleeps, its body goes briefly dormant
+but its mind never stops working. The creature is fully aware, even though to an outside observer it might appear oblivious of its surroundings. Sometimes a beholder's dreams (which take place in [[Xoriat]], not [[Dal Quor]]) are dominated by images of itself or of other beholders (which might or might not actually exist). On extremely rare occasions when a beholder dreams of
+another beholder, the act creates a warp in reality—from
+which a new, fully formed beholder springs forth unbidden, seemingly having appeared out of thin air in a nearby space. This "offspring" might be a duplicate of
+the beholder that dreamed it into existence, or it could
+take the form of a different variety of beholder-kin, such as a
+[[death kiss]] or a [[gazer]]. It might also be a truly unique creature, such as could be spawned only from the twisted imagination of a beholder, with
+a set of magical abilities unlike that of its parent.
+
+!! Physical Characteristics
+
+As a byproduct of their unique method of propagation,
+beholders in one part of the world tend to look similar,
+with variations becoming more pronounced the farther
+one travels from that area. Even a slight variation in the
+shape of an eyestalk or the texture of its skin is enough
+for one beholder to consider another a flawed abomination, which should be destroyed.
+Use the following button to produce a variety of different appearances for beholders. 
+
+<<<
+<$button>
+<$action-chooserandom $dataTiddler="$:/BeholderBodyDiameter" $field="var1"/>
+<$action-chooserandom $dataTiddler="$:/BeholderSkinTexture" $field="var2"/>
+<$action-chooserandom $dataTiddler="$:/BeholderSkinColor" $field="var3"/><$action-chooserandom $dataTiddler="$:/BeholderSkinExtra" $field="var4"/>
+<$action-chooserandom $dataTiddler="$:/BeholderSkinColor" $field="var5"/>
+<$action-chooserandom $dataTiddler="$:/BeholderEyeMetallic" $field="var6"/>
+<$action-chooserandom $dataTiddler="$:/BeholderEyeColor" $field="var7"/>
+<$action-chooserandom $dataTiddler="$:/BeholderIrisDouble" $field="var8"/>
+<$action-chooserandom $dataTiddler="$:/BeholderIrisShape" $field="var9"/>
+<$action-chooserandom $dataTiddler="$:/BeholderEyeSize" $field="var10"/>
+<$action-chooserandom $dataTiddler="$:/BeholderEyeSize" $field="var11"/>
+<$action-chooserandom $dataTiddler="$:/BeholderEyestalkShape" $field="var12"/>
+<$action-chooserandom $dataTiddler="$:/BeholderEyestalkTexture" $field="var13"/>
+<$action-chooserandom $dataTiddler="$:/BeholderMouthSize" $field="var14"/>
+<$action-chooserandom $dataTiddler="$:/BeholderTeeth" $field="var15"/>
+<$action-chooserandom $dataTiddler="$:/BeholderTeethDouble" $field="var16"/>
+Generate Beholder Appearance
+</$button>
+
+The beholder is {{!!var1}} feet in diameter, covered in {{!!var2}},
+<$list filter="[{!!var4}!is[blank]]" emptyMessage="" variable="noop">
+<$list filter="[all[current]!var3{!!var5}]" emptyMessage="" variable="noop">{{!!var5}}-</$list>{{!!var4}} </$list>
+{{!!var3}} skin. Its eyes are {{!!var6}}
+{{!!var7}} with <$list filter="[{!!var8}!is[blank]]" emptyMessage="" variable="noop">{{!!var8}}-</$list>{{!!var9}}-shaped pupils. <$list filter="[{!!var10}!is[blank]]" emptyMessage="" variable="noop">The central eye is {{!!var10}}.</$list> The beholder's {{!!var11}} extra eyes are attached to eyestalks that are {{!!var12}}, and {{!!var13}}. The creature's {{!!var14}} mouth is filled with {{!!var16}} {{!!var15}} teeth.
+<<<
+
+!! Beholderkin
+
+<<list-links-article "[tag{!!title}category[creature]sort[title]]">>

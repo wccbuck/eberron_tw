@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20201217033505460
+modified: 20210727192002730
+rarity: 4
+tags: tool
+title: crystal ball
+type: text/vnd.tiddlywiki
+
+This crystal sphere is typically about 6 inches in diameter. While touching it, you can cast the [[scrying]] spell with it.
+
+<<<
+{{scrying}}
+<<<

@@ -1,0 +1,14 @@
+category: game mechanics
+created: 20210401201336213
+modified: 20210727192024218
+tags: [[Taking Action]] Storyloom
+title: overcome
+type: text/vnd.tiddlywiki
+
+Pick a lock, calm a crowd, take cover from an explosion, clash with an opponent—whenever you need to do something like this and there’s something standing between you and your goals, you'll need to ''overcome'' that obstacle. If this is a simple obstacle, there’s no need to make a [[progress clock]] for it; just resolve it with a single roll. But often you’ll face a more complex obstacle such as dealing with a pack of angry wolves. In that case, you might have a six-segment [[progress clock]] labeled “Pack Of Wolves”, and your successful overcome actions tick segments of that clock until it is completed and you defeat them, escape from them, or whatever the narrative dictates.
+
+So for example, you may decide you want your character wants to attack the wolves. Your character pulls their sword out and rushes headlong into battle! Your [[Fight|action]] is 2 and your [[Heart|attribute]] is 1, so together you’ll roll three dice. You’re starting the fight on equal footing, so let’s say [[risk]] and [[impact]] are both moderate. (If you had no weapon, or if you were facing a very large group of wolves, or some other circumstance, your impact might be low, or risk high.) You roll the dice and get 3, 3, and 5. So we have a [[partial success]] (highest die was between 4 and 5). The player and the GM now discuss how to interpret that result. You succeeded (2 [[clock|progress clock]] segments filled in), but have to suffer a [[consequence]]. That could mean a reduced [[impact]] (1 clock segment rather than 2), you suffer 2 [[stress]], some complication occurs, or we end up in a [[risk]]ier position.
+
+Overcome attempts can be improved by spending [[momentum]]. So in the above example, let's say I wanted to try for an even better result. I could spend one point of momentum to pick up another six-sided die and roll it. If it is a 6, I upgrade my result to a [[full success]]. Alternatively, let's say I wanted to keep my [[partial success]], but improve the [[impact]]. I could spend one point of momentum to fill in an additional [[progress clock]] segment, for a total of 3 segments filled in.
+
+Completing a progress clock with “overfill” (meaning you finish it with any amount of excess impact) grants you +1 [[momentum]].

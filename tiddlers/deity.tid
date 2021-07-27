@@ -1,0 +1,19 @@
+category: creature
+color: #EA868F
+created: 20210301200511942
+modified: 20210727192004050
+tags: 
+title: deity
+type: text/vnd.tiddlywiki
+
+!! [[Sovereign Host]]
+
+<<list-links-article "[tag{!!title}tag[Sovereign Host]sort[title]]">>
+
+!! [[Dark Six]]
+
+<<list-links-article "[tag{!!title}tag[Dark Six]sort[title]]">>
+
+!! Other Deities
+
+<<list-links-article "[tag{!!title}!tag[Sovereign Host]!tag[Dark Six]sort[title]]">>

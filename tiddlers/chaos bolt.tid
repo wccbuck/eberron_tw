@@ -1,0 +1,22 @@
+category: spell
+color: #B7A1E0
+created: 20210430212149620
+modified: 20210727192000518
+tags: evocation
+tier: 2
+title: chaos bolt
+type: text/vnd.tiddlywiki
+var: acid, force
+
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. The attack's damage type is randomly determined, using the button below.
+
+<<<
+<$button>
+<$action-chooserandom $filter="acid cold fire force lightning psychic" $number="2" $unique="true" $field="var" $opt="comma"/>
+Random Damage Type
+</$button>
+
+Choose One: {{!!var}}
+<<<
+
+This spell is cast at one level higher [[risk]] and [[impact]] than normal, all else equal. On a [[critical success|full success]], the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. This chaining can happen multiple times.

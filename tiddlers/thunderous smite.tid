@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210428053926492
+modified: 20210727192037794
+tags: [[divine magic]]
+tier: 2
+title: thunderous smite
+type: text/vnd.tiddlywiki
+
+The next time you hit a creature with a weapon attack before this spell ends (up to 1 minute later), your weapon rings with thunder that is audible within 300 feet of you, and the attack deals extra thunder damage to the target. Additionally, if the target is a creature, it may be pushed up to 10 feet away from you and knocked prone.

@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210110052045978
+modified: 20210727192041359
+tags: evocation
+tier: 3
+title: wall of sand
+type: text/vnd.tiddlywiki
+
+You create a wall of swirling sand on the ground at a point you can see within 90 feet. You can make the wall up to 30 feet long, 10 feet high, and 10 feet thick, and it vanishes when the spell ends up to 10 minutes later (or when your concentration is broken). It blocks line of sight but not movement. A creature is blinded while within the wall, and their walking speed is reduced to at least a third of their normal speed.

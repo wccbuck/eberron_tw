@@ -1,0 +1,150 @@
+category: object
+color: #41D5E1
+created: 20210126054359896
+modified: 20210727192012476
+rarity: 0
+tags: [[eldritch machine]]
+title: hanbalani alta
+type: text/vnd.tiddlywiki
+
+The massive monoliths of [[Riedra]] serve many purposes.
+They draw on the emotions of the nearby populace and
+transform these thoughts into psychic energy, which is
+used to power many systems in nearby communities. More
+importantly, they allow the [[quori]] to shape the dreams of
+masses of humans, and in so doing, to prevent change in
+[[Dal Quor]]. Most importantly, the hanbalani are slowly bringing [[Dal Quor]] into alignment with [[Eberron]], repairing the damage inflicted by the [[giant]]s [[ages ago|Age of Giants]]. Already, the [[quori]] are able to possess willing humans. As more monoliths are built, quori might be able to possess other willing creatures, and [[manifest zone]]s tied to [[Dal Quor]] could appear across the world. Eventually, the quori should be able to
+physically manifest on [[Eberron]].
+
+Along with the functions detailed in the Monolith Features section below, these are the known functions of the hanbalani, but they could just be the beginning. The
+monoliths might be physically transforming Eberron
+into a replica of [[Dal Quor]] or granting [[quori]] the ability
+to rapidly regenerate their [[psionic|psionics]] power.
+
+''Getting the PCs Involved:'' The [[Arcane Congress]]
+and the [[Twelve]] know of the hanbalani, but they have little
+idea what these massive structures do. Explorers might
+be sent to study a monolith, to try determine what its
+purpose is. Once this information is known, PCs might
+find that shutting down a monolith is a vital step in any
+sort of plan involving a [[Riedra]]n city. Alternatively, PCs
+could join a group of [[Akiak]] or [[kalashtar]] commandos on
+a mission to destroy as many hanbalani as possible.
+
+!! Monolith Features
+
+!!! Shell
+
+Monoliths vary in size and shape, but they are usually
+egg-like, approximately 300 feet tall and 100 feet wide.
+When hanbalani are in close proximity to one another,
+such as within a major bastion, they tend to be smaller.
+They are constructed of psionically reinforced steel and
+[[crysteel]]. A monolith shell has apertures at the base, and
+these doorways are up to 15 feet wide.
+
+The "floor" of a monolith is open to the terrain on
+which it's built. Inside, a monolith is cavernous. It has
+no features aside from the interior wall, the core, and a
+small aperture at the top that leads to the controls.
+
+The shape and reflective interior of a monolith,
+as well as the design, the crystal core, and the control
+crystals, link each hanbalan to [[Dal Quor]]. Beings on Dal
+Quor can contact a particular monolith from a specific
+corresponding area in a [[quori]] enclave on Dal Quor. Doing so
+works the same as accessing a monolith from the control
+crystals on Eberron.
+
+Monolith shells are designed to contain the blast of
+a detonating core. The shell's two inner and outer layers
+have 3 feet of space between them. Each layer is nearly 2
+feet thick, and nearly as hard as [[adamantine]].
+
+!!! Core
+
+A 10-foot-diameter pillar of pure crystal, the core of an
+active monolith is warm to the touch. Its greenish light
+illuminates the entire interior of the shell and creates
+shadowy illumination within 300 feet of the apertures.
+
+A monolith core acts as a giant [[cognizance crystal]], storing a great deal of [[psionic|psionics]] energy that can used by any psionic creature touching it. If expended, the energy slowly replenishes over 12-24 hours. This reserve is accessible from Dal Quor, so a monolith usually has <<dr "2d8">> hours of psionic energy at any given time.
+
+Many monoliths enhance psionics used within 600 feet of them. Some are even more powerful, and can increase the area of their effect up to many miles.
+
+Specific monoliths are often tied to powering other functions used to maintain order and provide comfort in [[Riedra]]. These include [[dreamshaping]], the [[Soothing Voice]], [[climate control|Riedran climate control]], [[crystal illumination]], and [[scry shielding|psionic scry shielding]]. In these cases, the psionic empowering effect is suppressed unless the core's function is changed (see Controls below). 
+
+If a monolith's core is broken or shut down, the monolith and all its subsidiary utilities cease functioning. When a core is improperly tampered with, it can explode. It
+might also explode 10-60 seconds after it suffers heavy damage. Creatures
+outside the shell and not near an aperture are unharmed.
+
+Shutting down or destroying a monolith core
+immediately alerts any [[quori]] tapped into the monolith
+from [[Dal Quor]]. Otherwise, the authorities are notified within a few minutes (or longer if the area is not heavily settled).
+
+!!! Controls
+
+At the top of a monolith's interior, a cluster of small crystals
+and Siberys [[dragonshard]]s pulse and glow with multiple
+colors, regulating the power of the monolith core. Here,
+the monolith's functions can be altered and accessed.
+
+A creature that possesses [[psionics]] can attempt to
+manipulate a monolith's functioning. By touching the control crystals and making a successful attempt representing 1 minute of effort, the creature bonds with the monolith's control crystals. Failing the attempt causes the monolith to store the user's identity and description (mental picture), giving that information to
+any [[Inspired]] or [[quori]] who contact the monolith within the
+next few hours. Once a bond with the control crystals has
+been established, additional attempts can alter the
+monolith's function:
+
+* ''Easy''
+** Lure psionic creatures to the monolith.
+** Activate dormant monolith safely.
+* ''Moderate''
+** Shut down active monolith safely.
+** Sever connection to public utilities.
+** Recharge the core's psionic reserve.
+* ''Difficult''
+** Sever connection to [[Dal Quor]].
+** Set the core to explode in 10 minutes.
+** Shut down a self-destruct sequence.
+
+A user can attempt to perform the action in half the time, but at a higher [[risk]]. A failure might mean that contact with the controls has been disrupted and must be reestablished. A high-risk failure when controlling the monolith sends the monolith into a psionic feedback loop, negating all further attempts at control and causing the monolith's core to explode in 10-60 seconds.
+
+In any case, a monolith's secondary functions
+require power. Powering utilities with a monolith
+requires it to be at full psionic reserve. While a
+monolith is performing a secondary function, its power
+can't be redirected or siphoned, so a saboteur must disconnect a monolith to siphon off its power. Then the monolith can't be reconnected to the utility until it
+has fully recharged.
+
+!! Special Situations
+
+Here are a couple of special situations involving monoliths.
+
+!!! Creatures
+
+Because the core of a monolith radiates light and heat, as well as psionic power, a monolith built in a remote location attracts psionic creatures from
+miles around. Tribes that travel on foot in [[Syrkarn]] and
+the [[Tashana Tundra]] sometimes use monoliths as shelter.
+Normal creatures living within a mile of a monolith can
+have phrenic or psionically gifted offspring, but such
+an occurrence is extremely unusual and more so if the
+monolith is used to power a subsidiary function. If a
+remote monolith ceases working, [[Inspired]] agents come
+and wipe out any creatures in the vicinity, so inhabitants
+are likely to oppose intruders looking to harm a wilderness monolith.
+
+As indicated in the "Controls" section above, a character can use the controls to lure psionic creatures to a monolith. This call has a range of 1 mile, but it is not
+a compulsion—non-sapient creatures usually respond, but cleverer creatures can choose not to. This tool is often useful to the [[Inspired]] or [[quori]]. If the call is not expected or
+planned, they send troops to investigate. 
+
+!!! Under Construction
+
+If a monolith is still under construction, it has as many as three hundred workers
+living in and around it, plus a squad of twenty Riedran soldiers (usually [[Stone|Stone Soldiers]]) led by a sergeant. After a
+monolith is activated, the soldiers and a trained engineer remain stationed there for up to a week.
+
+The interior of an uncompleted monolith is filled
+with wooden scaffolding that rises up to 400 feet off the
+ground. Workers use this scaffolding to hoist sections
+of the shell into position during the building process.

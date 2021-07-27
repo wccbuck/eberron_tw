@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20201210230849781
+modified: 20210727192008480
+tags: evocation
+tier: 3
+title: fireball
+type: text/vnd.tiddlywiki
+
+A bright streak flashes from your pointing finger to a point you choose within 150 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must dodge from the flames or be scorched. The fire spreads around corners.
+
+This spell can be upgraded to legendary-[[tier|spell tier]] for an even more destructive effect.

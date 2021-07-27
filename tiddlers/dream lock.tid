@@ -1,0 +1,20 @@
+category: spell
+color: #B7A1E0
+created: 20210721215156890
+modified: 20210727192005681
+tags: psionics
+tier: 2
+title: dream lock
+type: text/vnd.tiddlywiki
+
+The [[dreamspace]] threads through you to wrap a creature within 30 feet in a web of dazing energy. You must be [[dreamtouched]] to use this psionic power.
+
+The target is wrapped in the otherworldly energy of the [[dreamspace]], altering its perceptions and behavior. The creature enters a state of waking dreaming, and is unable to differentiate the random visions of the dream from reality, for up to 1 minute.
+
+Creatures that do not dream are ''not'' immune to the effect of this spell unless they are also immune to enchantments or mind-affecting phenomena.
+
+If you cast this spell while in a [[dreamtouched]] state, you can partially direct the random visions that plague the target creature. This allows you to influ­ence the actions of the target as if using a [[suggestion]] spell.
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target up to 5 creatures within 30 feet of each other. Any suggested course of activity will be directed to all creatures simultaneously, and will be ignored if inapplicable.

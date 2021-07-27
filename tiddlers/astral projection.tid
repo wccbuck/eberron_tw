@@ -1,0 +1,20 @@
+category: spell
+color: #B7A1E0
+created: 20210427183052464
+modified: 20210727191956287
+tags: necromancy [[divine magic]]
+tier: 5
+title: astral projection
+type: text/vnd.tiddlywiki
+
+This ritual takes an hour to cast, and requires and consumes ritual components worth at least [[10c|money]] for each creature affected. You and up to eight willing creatures within 10 feet project your astral bodies into the starry space between [[plane]]s (the spell fails and the casting is wasted if you are already physically there). The material body you leave behind is unconscious and in a state of suspended animation, it doesn't need food or air, and doesn't age.
+
+Your astral body resembles your mortal form in almost every way, replicating your game statistics and possessions. The principal difference is the addition of a silvery cord that extends from between your shoulder blades and trails behind you, fading to invisibility after 1 foot. This cord is your tether to your material body. As long as the tether remains intact, you can find your way home. If the cord is cut—something that can happen only when an effect specifically states that it does, such as the silver swords of the [[githyanki|gith]]—your soul and body are separated, killing you instantly.
+
+Your astral form can freely travel through the space between planes and can pass through portals there leading to any other [[plane]] (excluding [[Dal Quor]]). If you enter a new plane or return to the plane you were on when casting this spell, your body and possessions are transported along the silver cord, allowing you to re-enter your body as you enter the new plane. Your astral form is a separate incarnation. Any damage or other effects that apply to it have no effect on your physical body, nor do they persist when you return to it.
+
+The spell ends for you and your companions when you choose to dismiss it. When the spell ends, the affected creature returns to its physical body, and it awakens.
+
+The spell might also end early for you or one of your companions. A successful [[dispel magic]] spell used against an astral or physical body ends the spell for that creature. If a creature's original body or its astral form is incapacitated, the spell ends for that creature. If the spell ends and the silver cord is intact, the cord pulls the creature's astral form back to its body, ending its state of suspended animation.
+
+If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by becoming incapacitated.

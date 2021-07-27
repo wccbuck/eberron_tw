@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210414014519270
+modified: 20210727192024486
+tags: [[primal magic]]
+tier: 2
+title: pass without trace
+type: text/vnd.tiddlywiki
+
+A veil of shadows and silence radiates from you, masking you and your companions from detection. For up to an hour (as long as you maintain concentration), each creature you choose within 30 feet of you (including you) has advantage on any attempts to avoid detection, and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.

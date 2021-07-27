@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210427180034216
+modified: 20210727192007205
+tags: [[primal magic]]
+tier: 2
+title: ensnaring strike
+type: text/vnd.tiddlywiki
+
+The next time you hit a creature with a weapon attack before this spell ends (up to a minute later), a writhing mass of thorny vines appears at the point of impact, and the target must break free of the magical vines or be restrained for up to a minute. Creatures significantly larger than humans have [[advantage]] on attempts to break free. If the target breaks free, the vines shrivel away.
+
+While restrained by this spell, the target suffers piercing damage repeatedly, especially if they struggle to break free unsuccessfully.

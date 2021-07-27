@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210721222324245
+modified: 20210727192038699
+tags: psionics divination
+tier: 3
+title: trace teleport
+type: text/vnd.tiddlywiki
+
+For up to 1 minute, you immediately become aware of any teleportation effects that begin or end within 40 feet of you. The spell’s area radiates from you and moves as you move. You know the exact origin point of any teleportation effect that originates within the spell’s area, and the exact end point of any teleportation effect that terminates within the spell’s area. Further, you can detect the lingering traces of any teleportation effect that occurred up to 1 hour previously, in the same fashion; you intuitively know, to the nearest minute, when the teleportation effect occurred.
+
+You may also get a mental glimpse at the opposite end of the teleportation. This glimpse lasts long enough for you to get a brief look at the area, but not long enough to scrutinize it in detail. It doesn’t come with any geographic knowledge of the location, so it is not sufficient for [[teleport]] or similar magic. 

@@ -1,0 +1,9 @@
+color: #075157
+created: 20201227174416653
+modified: 20210727192002954
+title: cursed
+type: text/vnd.tiddlywiki
+
+Some [[magic item]]s bear curses that bedevil their users, sometimes long after a user has stopped using an item. Most methods of identifying items fail to reveal such a curse, although lore might hint at it. Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[remove curse]] spell.
+
+<<list-links-article "[tag{!!title}sort[title]]">>

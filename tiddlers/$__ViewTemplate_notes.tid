@@ -1,0 +1,23 @@
+created: 20210707210033615
+modified: 20210727191953049
+tags: $:/tags/ViewTemplate
+title: $:/ViewTemplate/notes
+type: text/vnd.tiddlywiki
+
+<$reveal type="nomatch" stateTitle=<<folded-state>> text="hide" tag="div" retain="yes" animate="yes">
+<$reveal type="nomatch" state="!!category" text="">
+<$reveal type="nomatch" state="!!category" text="note">
+<h2 style="display:inline-block;width:100%;margin-bottom:0;"><p style="float:left;margin:0;">Notes</p> <p style="float:right;margin:0;">{{||$:/core/ui/Buttons/new-journal-here}}</p></h2>
+<$list filter="[tag<currentTiddler>category[note]!has[draft.of]sort[created]]">
+<div class="note-bg">
+<p style="margin:5px;">
+
+!!! <$link/>
+
+{{!!text}}
+</p>
+</div>
+</$list>
+</$reveal>
+</$reveal>
+</$reveal>

@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210326030854871
+modified: 20210727192031944
+tags: illusion
+tier: 2
+title: silence
+type: text/vnd.tiddlywiki
+
+For up to 10 minutes, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within 120 feet. Any creature or object entirely inside the sphere is immune to sound damage or other harmful vibrations, and creatures are deafened while entirely inside it. Casting a [[spell]] that includes a verbal component is impossible there.

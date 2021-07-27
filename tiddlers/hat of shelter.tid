@@ -1,0 +1,15 @@
+category: object
+color: #41D5E1
+created: 20210104205157179
+modified: 20210727192012939
+rarity: 2
+tags: accessory tool
+title: hat of shelter
+type: text/vnd.tiddlywiki
+
+This wide-brimmed hat of cream-colored wool grows into a three-person tent when the command word is spoken.
+
+Speaking the command word again causes the tent to
+transform back into a hat, provided that no creatures are
+inside. Any objects inside the tent when it collapses are
+ejected and remain outside the tent as it folds.

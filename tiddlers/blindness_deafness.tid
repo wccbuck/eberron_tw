@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210414215818732
+modified: 20210727191958254
+tags: [[divine magic]] necromancy
+tier: 2
+title: blindness/deafness
+type: text/vnd.tiddlywiki
+
+You can blind or deafen a foe. Choose one creature that you can see within 30 feet. If it is unable to resist your magic, the target is either blinded or deafened (your choice) for up to one minute. 
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target two additional creatures.

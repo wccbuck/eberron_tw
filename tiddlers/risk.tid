@@ -1,0 +1,33 @@
+category: game mechanics
+created: 20210401190251509
+modified: 20210727192028727
+tags: [[Taking Action]] Storyloom
+title: risk
+type: text/vnd.tiddlywiki
+
+The risk associated with an [[attempt|Taking Action]] determines how bad the [[consequence]]s are for a [[partial success]] or [[bad outcome]]. Risk does not play a part in the event of a [[full success]]. These consequences can include taking [[stress]] or losing [[momentum]]. Risk can be low, moderate (default), or high.
+
+Take note that [[consequence]]s for an attempt should not negate the success. For example, consequences for [[boost]]ing (that is, increasing [[momentum]]) typically should not include losing momentum.
+
+The below examples of different [[consequence]]s for different levels of risk should be taken as suggestions. Feel free to mix and match different consequence types in order to better serve the scene. 
+
+!!! Low Risk
+
+You act on your terms. You leverage a dominant situation.
+
+* [[partial success]]: You hesitate. Withdraw and try a different approach, or else do it with a minor [[consequence]]: a minor complication occurs, your [[impact]] is reduced by 1, you suffer 1 [[stress]] or [[harm]], you lose 1 [[momentum]], or your risk level increases to moderate. 
+* [[bad outcome]]: You falter. Press on by seizing a high-risk opportunity, or withdraw and try a different approach.
+
+!!! Moderate Risk
+
+You go head to head. You act under fire. You take a chance. This is the default risk level for most attempts.
+
+* [[partial success]]: You do it, but there’s a [[consequence]]: you suffer 2 [[stress]] or [[harm]], you lose 2 [[momentum]], a complication occurs, your [[impact]] is reduced by 1 or 2, or you end up in a high-risk position.
+* [[bad outcome]]: Things go badly. You suffer 2 [[stress]] or [[harm]], you lose 2 [[momentum]], a complication occurs, you end up in a high-risk position, or you lose this opportunity.
+
+!!! High Risk
+
+You overreach your capabilities. You're in serious trouble.
+
+* [[partial success]]: You do it, but there’s a [[consequence]]: you suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious complication occurs, or you have significantly reduced [[impact]].
+* [[bad outcome]]: Things are bad. You suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious complication occurs, or you lose this opportunity for action.

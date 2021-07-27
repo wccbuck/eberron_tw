@@ -1,0 +1,66 @@
+category: organization
+color: #052c65
+created: 20200417022452769
+list-before: 
+modified: 20210727192027834
+tags: [[organization type]]
+title: religion
+type: text/vnd.tiddlywiki
+
+Religion plays an important role in [[Eberron]]. The gods
+don't manifest physically, but people of faith believe that
+divine forces shape everyday life. Shared beliefs unite
+communities and can provide hope in difficult times.
+
+Most Khorvairians acknowledge the pantheon of
+the [[Sovereign Host]] and its malign shadow, the [[Dark Six]]. The Sovereign Host was the dominant faith of the
+Kingdom of [[Galifar]] and holds sway over most of [[Khorvaire]]—except for [[Thrane]], which favors the Church of the
+[[Silver Flame]]. Other religions connect specific cultures
+or communities; the [[kalashtar]] observe the [[Path of Light]],
+and the [[Undying Court]] guides the [[elves|Aereni]] of [[Aerenal]].
+
+Religion is especially important for a [[paladin]], [[cleric]],
+or [[druid]], yet any character can have faith in a higher
+power. Following a religion is a way to give your character a deeper connection to the world and a bond to other
+members of the community. The Foundation of Faith
+table can provide ideas for the source of your beliefs.
+
+| !<<dr d6>> |!Foundation of Faith |
+| 1 |You were raised in the faith. Your religion is an important part of your family and community. |
+| 2 |Someone you care about—a mentor, a friend, or a lover—introduced you to the faith. |
+| 3 |You were raised in a different religion but became drawn to the ideals and beliefs of your current faith. |
+| 4 |You never took your faith seriously. Then you made a vow during the [[Last War]], pledging your devotion if a disaster was averted... and it was. |
+| 5 |You're devoted to your religion, but you've never been formally educated in its ways. You follow your own personal interpretation. |
+| 6 |You had a transcendental experience and believe you have a divine purpose to fulfill. |
+
+Conversely, a lack of faith can also be a meaningful
+part of your story. If you don't believe in any divine
+power, what caused such doubt? The Rejection of Faith
+table offers ideas that can help shape your story. 
+
+| !<<dr d6>> |!Rejection of Faith |
+| 1 |You believe that the magic of [[cleric]]s and [[paladin]]s doesn't come from deities, but from the caster's inner power or belief. |
+| 2 |You come from an agnostic community and give little thought to spiritual matters. |
+| 3 |You were once deeply devout, but a tragedy during the [[Last War]] caused you to question your faith. |
+| 4 |A personal loss or betrayal shook your faith. |
+| 5 |You were spiritually scarred by an encounter with a [[fiend]] or [[aberration]]. |
+| 6 |You've created your own personal religion and believe that all the established faiths are flawed. |
+
+!! Religions in Eberron
+
+<ul>
+<$list filter="[tag[religion]] -[tag[religion]tagging[]] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[religion]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[religion]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+

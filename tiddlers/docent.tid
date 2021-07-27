@@ -1,0 +1,22 @@
+category: object
+color: #41D5E1
+created: 20200415022634304
+modified: 20210727192004812
+rarity: 3
+tags: accessory [[warforged item]]
+title: docent
+type: text/vnd.tiddlywiki
+
+A docent is a small metal sphere, approximately 2 inches
+across, studded with [[dragonshard]]s. Explorers
+have found them in [[Xen'drik]], and [[artificer]]s and [[warforged]]
+alike have so far failed to discover the secret of their construction. Despite a strong magical aura, a docent has no apparent abilities. Its powers are only revealed when it is
+attached to a [[warforged]], embedded somewhere on their body such as their chest or eye socket. At this point, a docent comes to life—literally. A
+docent is an intelligent magic item designed to advise and
+assist the warforged it is attached to.
+
+One of the simple functions of a docent is to serve as a translator. It knows [[Common]], [[Giant]], and <<dr 1d4>> additional [[language]]s chosen by the GM. It perceives the world through its host's senses, and communicates telepathically with its host. The docent can be knowledgable on a variety of subjects including arcana, history, or nature, and can even assist in investigation or detecting magical auras. It can also serve as emergency life support if its host warforged is grievously damaged.
+
+!! Named Docents
+
+<<list-links-article "[tag{!!title}category[entity]sort[title]]">>

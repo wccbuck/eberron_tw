@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20210503031641472
+modified: 20210727192020042
+tags: psionics transmutation [[primal magic]]
+tier: 1
+title: magic stone
+type: text/vnd.tiddlywiki
+
+You touch one to three pebbles (or other tiny nonmagical objects; see below) and imbue them with magic. If thrown by hand or hurled with a sling, the stone gains a great deal of momentum and strikes its target with great force.
+
+Other than stones, you can cast this spell on any nonmagical items that fit in your palm and weigh less than 1 pound each. For example, you can enchant a few playing cards, some coins, or a needle, but not a vial filled with a magical potion or an enchanted amulet.
+
+If you cast this spell again, the spell ends on any objects still affected by your previous casting.
+
+!! Common-Tier
+
+When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you may cast this spell on up to 10 objects, and make them harmlessly float a few inches away from you in a circle. You can quickly draw a floating object to your hand when you are ready to cast it.

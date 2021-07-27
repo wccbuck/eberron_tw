@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210410042857391
+modified: 20210727192039240
+tags: divination
+tier: 1
+title: true strike
+type: text/vnd.tiddlywiki
+
+You extend your hand and point a finger at a target within 30 feet. Your magic grants you a brief insight into the target's defenses, revealing specific weaknesses. Within the next 30 seconds, you gain an [[advantage]] on your first attempt to attack the target. The new information gained from this divination can be used to justify higher [[impact]] or lower [[risk]] for as long as the information is relevant.

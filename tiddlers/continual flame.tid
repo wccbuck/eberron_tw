@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20200429032930542
+modified: 20210727192002033
+tags: [[divine magic]] evocation
+tier: 2
+title: continual flame
+type: text/vnd.tiddlywiki
+
+Casting this spell consumes [[5c|money]] of material components. A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered or hidden but not smothered or quenched, and lasts until it is dispelled.

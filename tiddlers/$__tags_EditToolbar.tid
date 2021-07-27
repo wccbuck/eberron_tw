@@ -1,0 +1,5 @@
+created: 20200418182639252
+list: $:/core/ui/Buttons/add-article $:/core/ui/Buttons/remove-article $:/core/ui/Buttons/delete $:/core/ui/Buttons/cancel $:/core/ui/Buttons/save
+modified: 20210727191952858
+title: $:/tags/EditToolbar
+type: text/vnd.tiddlywiki

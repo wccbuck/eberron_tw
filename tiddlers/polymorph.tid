@@ -1,0 +1,20 @@
+category: spell
+color: #B7A1E0
+created: 20201227182122282
+modified: 20210727192025400
+tags: [[primal magic]] transmutation
+tier: 3
+title: polymorph
+type: text/vnd.tiddlywiki
+
+This spell transforms a creature that you can see within 60 feet into a new form. An unwilling creature can try to resist the effect. The spell has no effect on a [[shapechanger]] (such as a [[changeling]] or [[rakshasa]]) or an incapacitated creature.
+
+The transformation lasts for up to 1 hour, or until the target is incapacitated or dies. The new form can be any [[beast]], but the beast's [[creature tier]] must be no higher than that of the target. The target's physical and mental capabilities are replaced by those of the chosen beast, but it retains its ethics and personality.
+
+The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech.
+
+The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may target up to four additional creatures. You can choose the same beast or different ones for each target.

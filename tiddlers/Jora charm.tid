@@ -1,0 +1,13 @@
+category: object
+color: #41D5E1
+created: 20201210034536344
+modified: 20210727192015676
+rarity: 1
+tags: accessory [[dragonmark focus item]]
+title: Jora charm
+tooltip: common dragonmark focus item, allows Healing mark wielders to stabilize the dying and heal themselves faster
+type: text/vnd.tiddlywiki
+
+In order to attune to this magic item, you must possess the [[Mark of Healing]].
+
+While you wear this pendant, you automatically stabilize whenever you are dying. In addition, whenever you use your [[dragonmark]] to heal yourself, you heal twice as fast.

@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20200415213013281",
+        "title": "Twilight Demesne",
+        "text": "The sylvan grove known\nas the Twilight Demesne has long been a sacred site\nfor the [[fey]] and [[Greensingers]] of the [[Towering Wood]], for the boundaries between the Faerie Court of [[Thelanis]] and Eberron are thin here.\nThe Twilight Demesne is home to great revels, and those who wander within may stumble upon the [[City of Rose and Thorn|Shae Loralyndar]], the domain of a powerful [[archfey]] called the King of Summer. If you're playing a character with ties to the\n[[fey]], the Twilight Demesne could be your home. ",
+        "modified": "20210727192039488",
+        "tags": "forest [[Eldeen Reaches]] Khorvaire",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "list-after": "Towering Wood",
+        "polygons": "47.34,-39.73 47.27,-39.43 47.15,-39.17 46.91,-38.7 46.85,-38.36 46.8,-37.91 46.76,-37.31 46.86,-36.97 47.11,-36.65 47.31,-36.45 47.53,-36.47 47.74,-36.64 48.03,-36.81 48.21,-37.03 48.23,-37.27 48.27,-37.47 48.28,-37.99 48.29,-38.42 48.27,-38.93 48.21,-39.29 48.12,-39.72 48.0,-39.97 47.8,-40.12 47.58,-40.22 47.4,-40.08",
+        "style": "{\"color\":\"#333C1A\",\"fillOpacity\":\"0\",\"weight\":2,\"dashArray\":\"4, 9\",\"opacity\":\"0.5\"}"
+    }
+]

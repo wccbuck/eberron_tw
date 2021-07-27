@@ -1,0 +1,23 @@
+category: phenomenon
+color: #432874
+created: 20210722174714312
+modified: 20210727192019284
+tags: 
+title: long-term madness
+type: text/vnd.tiddlywiki
+
+| !<<dr d12>> |!Effects (lasts <<dr 1d10>>x10 hours) |
+| 1 |The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins. |
+| 2 |The character experiences vivid hallucinations. |
+| 3 |The character suffers extreme paranoia. |
+| 4 |The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the [[antipathy/sympathy]] spell. |
+| 5 |The character experiences a powerful delusion. Choose a [[potion]]. The character imagines that they are under its effects. |
+| 6 |The character becomes attached to a "lucky charm," such as a person or an object, and has [[disadvantage]] on all attempts while more than 30 feet from it. |
+| 7 |The character is blinded or deafened. |
+| 8 |The character experiences uncontrollable tremors or tics, which impose [[disadvantage]] on actions that involve physical strength or dexterity. |
+| 9 |The character suffers from partial amnesia. The character knows who they are, but doesn't recognize other people or remember anything that happened before the madness took effect. |
+| 10 |Whenever the character takes damage, as a possible high-[[risk]] [[consequence]], the character may be subject to one of the effects of the [[confusion]] spell for 1 minute. |
+| 11 |The character loses the ability to speak. |
+| 12 |The character falls unconscious; no amount of jostling or damage can wake the character. |
+
+A [[calm emotions]] spell can suppress the effects of madness, while a [[lesser restoration|restoration]] spell can rid a character of a [[short-term|short-term madness]] or long-term madness. Depending on the source of the madness, [[remove curse]] might also prove effective. 

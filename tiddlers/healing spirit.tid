@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210510023758827
+modified: 20210727192013130
+tags: conjuration [[primal magic]]
+tier: 2
+title: healing spirit
+type: text/vnd.tiddlywiki
+
+You call forth a nature spirit to soothe the wounded. The intangible spirit appears in a space  you can see within 60 feet. The spirit looks like a transparent [[beast]] or [[fey]] (your choice). 
+
+For up to 1 minute (or until your concentration breaks), creatures of your choice within five feet of the spirit rapidly recover from injury. This healing magic does not affect [[undead]] or [[construct]]s (but does affect [[deathless]] and [[warforged]]). You can choose move the spirit up to 10 ft/s (7 mph), but it must stay within 60 feet of you.

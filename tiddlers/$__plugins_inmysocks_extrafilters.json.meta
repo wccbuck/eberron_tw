@@ -1,0 +1,11 @@
+author: inmysocks
+core-version: >=5.1.5
+created: 20210727191612696
+dependents: 
+description: Some extra filters for TiddlyWiki
+modified: 20210727191612696
+plugin-type: plugin
+source: 
+title: $:/plugins/inmysocks/extrafilters
+type: application/json
+version: 0.0.1

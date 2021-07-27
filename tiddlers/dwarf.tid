@@ -1,0 +1,185 @@
+category: creature
+color: #EA868F
+created: 20200414232527235
+modified: 20210727192006386
+tags: humanoid
+tier: 1
+title: dwarf
+type: text/vnd.tiddlywiki
+var: common
+
+//Gold is the gift of the mountains, but iron comes from blood and bone.//
+
+<div align="right">—Mror proverb</div>
+
+The origin of the dwarves is shrouded in mystery. Some
+of their legends tell of a great migration that led the
+ancient dwarves to [[Khorvaire]] from "a land of endless
+ice." Many believe this refers to the arctic lands of the
+[[Frostfell]], while others claim that the first dwarves must
+have come from the frozen plane of [[Risia]]. Wherever
+their roots, these migrant dwarves established a mighty
+nation beneath the surface of Khorvaire.
+
+Most dwarven legends, unconcerned with the question of origin, dwell on the mighty artifacts and priceless
+treasures crafted by ancient deep-dwelling dwarves,
+and of the bloody wars they waged against the [[goblinoid]]
+Empire of [[Dhakaan]]. Dwarves today cherish the memory
+of this ancient nation, for all dwarves in Khorvaire are
+descended from exiles driven from the realm below—which was later destroyed by the [[daelkyr]]. Particularly
+in the [[Mror Holds]], many dwarves cherish the idea of returning to the subterranean reaches and reestablishing
+their ancient nation, restoring them to a greatness they
+have all but forgotten. 
+
+!! Dwarven Biology
+
+Though they stand
+well under 5 feet tall, dwarves are so
+broad and compact that they can weigh
+as much as a human standing nearly two
+feet taller. Their courage and endurance
+are also easily a match for any of
+the larger folk.
+Dwarven skin ranges from deep brown to a paler
+hue tinged with red, but the most common shades are
+light brown or deep tan, like certain tones of earth.
+Their hair, worn long but in simple styles, is usually
+black, gray, or brown, though paler dwarves often have
+red hair. Male dwarves value their beards highly and
+groom them carefully. 
+
+Dwarves can live to be more than 350 years old, so the
+oldest living dwarves often remember a very different
+world. This longevity grants them a
+perspective on the world that shorter-lived races such as
+[[human]]s and [[halfling]]s lack. Dwarves are solid and enduring like the mountains
+they love, weathering the passage of centuries with stoic
+endurance and little change.  Intellectually, they mature at about the same rate as
+humans, but they generally aren't considered to be full adults
+until around 50 years of age. This ties to the fact that dwarves
+have a low fertility rate and their reproductive peak is between
+50 and 120. While under 50, a [[Mror|Mror Holds]] dwarf is usually learning
+the family trade and working directly for their parents, uncles,
+or aunts; at 50 and above, a dwarf starts thinking about starting
+their own branch of the family tree and the family trade.
+
+While the dwarves of the [[Realm Below]] may have spent their
+entire lives below the surface, the [[Mror|Mror Holds]] dwarves were born
+on the surface of the [[Ironroot Mountains]]. Mror dwarves
+appreciate sunlight and color, and their buildings typically have
+windows, but dwarves don't need light. Absolute darkness
+impairs their darkvision, but this is merely inconvenient, not
+unbearable, and many mine tunnels and stretches of the Realm
+Below have no light sources.
+
+Resulting from this, the circadian rhythms of dwarves are
+more flexible than those of humans. While it's important to
+maintain a regular schedule, day and night have little meaning
+for the Mror. Mror communities are active at all hours, and
+major Mror businesses are continuously open. “Nightlife” isn't
+a concept in Mror society, and entertainment can likewise be
+found at all hours, so traveling Mror are often frustrated by the
+limited opportunities in [[human]] communities.
+
+!! Dwarves of the Mror Holds
+
+Despite their long lives, the Mror dwarves are surprisingly
+unconcerned with recording the past. They care deeply
+about family. They cling to property, whether it's land or more
+portable possessions. They're fierce in protecting the things
+that they care about. But as the bard [[Kessler]] said, “The Mror
+care deeply about their stories, but facts just get in the way.”
+Mror talespinners have an endless supply of stories about the
+mighty deeds of clan heroes, but when it comes to specific
+dates or verifiable facts, things often get muddy. Records of
+debts, marriages, adoptions—these things are written down
+by [[Sivis]] scribes. But general history is largely trusted to the
+passed-down tales of the spinners, and they make history
+//interesting//. A particular story could be placed in three different
+centuries by three different [[clans|Mror clan]], and the villain of one tale
+could be the hero in the neighboring holdfast.
+
+Mror dwarves can be seen as boastful by outsiders, quick
+to share tales of their exploits. However, they don't seek to
+dominate every conversation with their tales, but expect others
+to share their stories as well—and if others don't, Mror are
+quick to boast about the deeds of their companions. Anyone
+who spends much time around Mror quickly grows used to the [[Mjordai]]
+phrase //Tol kollan//—or the [[Common]] translation, “That reminds
+me of a story.” Mror hate quick meetings; any gathering should
+have time for tales. In playing a Mror character, you might
+come up with a few stories you love, as well as taking joy in
+dramatically retelling the story of your adventures—the deeds
+of both you and your fellow adventurers—celebrating and
+highlighting your finest moments.
+
+The dwarves of the [[Mror Holds]] are defined in part
+by their relationship to the ancient [[Realm Below]]. In a
+desperate effort to rediscover and reclaim the holdings
+of their old nation, the dwarves have recovered many
+weapons of war created in the final days of the empire.
+Some of these weapons were forged by the dwarves to
+wield against the [[daelkyr]], but others were made by the
+daelkyr for the use of their minions—strange symbiotic items that use the
+life force of their hosts to power their magical abilities.
+
+Some [[clans|Mror clan]] have banned the use of these [[symbiont]]s and any exploration of daelkyr magic, notably
+the prominent Clan [[Mroranon]]. Others, particularly Clan
+[[Soldorak]], have embraced this magic to use against the
+daelkyr. Defining a relationship to these discoveries
+can be an important element of your character's background; you might be a Mroranon [[paladin]] or ranger
+dedicated to expunging any trace of daelkyr magic from
+the Realm Below, or a Soldorak [[warlock]] drawing on the
+magic of [[Xoriat]] in pursuit of your own power, as well as
+glory for your clan.
+
+Another important question to consider in playing a
+Mrorian character is why you have left the Holds. The table below offers some suggestions
+that might spark further ideas. 
+
+| !<<dr d8>> |!Reason for Leaving |
+| 1 |A feud with a rival clan has gotten out of hand, and it's best that you spend a few decades away from the Holds while things cool down. |
+| 2 |You come from a large family and there's no room for you to shine in your hold, so you hope to make a name for yourself in the wider world. |
+| 3 |Your clan has arranged your marriage and your future, and you've decided to have a few adventures before you settle down. |
+| 4 |You're pursuing a vendetta with a personal rival, seeking to defeat them either in battle or in business. |
+| 5 |You're searching for a legendary dwarven artifact, stolen centuries ago by a [[Karrnish|Karrnath]] noble. |
+| 6 |You want to assemble champions who can help you explore the ancient ruins beneath your ancestral home. |
+| 7 |You've rejected your clan's attitude toward [[daelkyr]] magic, earning the enmity of powerful dwarves. |
+| 8 |You want to understand how the other peoples of [[Khorvaire]]—especially the [[goblinoid]]s and [[orc]]s—have fought the daelkyr. |
+
+!! Dwarves of the Five Nations
+
+Dwarves are spread across Khorvaire. Dwarf soldiers
+and engineers were part of the armies that united the
+[[Five Nations]], and dwarf masons laid the foundations
+of the greatest cities of [[Galifar]]. Traditionally loyal to
+family and clan, dwarves who were born outside the
+[[Mror Holds]] tend to transfer their fierce clan loyalty to
+their new homes—and particularly to the edifices of
+stonework that symbolize the permanence and stability of those places. A [[Brelish|Breland]] dwarf might feel a deep,
+personal connection to the towers of [[Sharn]] or the great
+walls of [[Wroat]]; some dwarves love the great [[Cathedral of the Silver Flame]] in [[Thrane]] more than devout followers of the [[Silver Flame]]. Ultimately, the typical dwarf in
+wider [[Khorvaire]] is more patriotic than the average [[human]] of the Five Nations, and many dwarves fought for
+their nations in the [[Last War]], at least for a time.
+
+When creating a dwarf character from the Five Nations, consider both your national loyalty and the role
+your family plays in your life. Do you live near family?
+What kind of work do your closest family members pursue, and is that reflected in the background you choose?
+Are you close to your relatives, or have you had a falling
+out? Did you lose kin in the [[Last War]]? 
+
+!! Dwarves and Dragonmarks
+
+The [[Mark of Warding]] appears on dwarves of House
+[[Kundarak]], which had its origins as one of the clans of
+the [[Mror Holds]]. Kundarak dwarves live across Khorvaire while maintaining close ties to the Mror Holds and
+their loyalty to the house over any particular nation. In addition to providing all manner of security, House
+Kundarak dominates [[Khorvaire]]'s banking industry. 
+
+As a [[dragonmarked house]], it is obliged to remain neutral
+in the politics of all nations, including its homeland. As a result, Clan Kundarak is no longer represented on
+the [[Iron Council]] that rules the Mror Holds. However, it
+wields an influence over the other clans that reflects its
+wealth and its status in the world beyond the Holds, and
+the voice of Kundarak members arguing against the use
+of [[daelkyr]] magic carries significant weight. 
