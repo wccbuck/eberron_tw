@@ -1,5 +1,5 @@
 created: 20210715234357438
-modified: 20210727212231888
+modified: 20210727214714287
 tags: 
 title: Readme
 type: text/vnd.tiddlywiki
@@ -34,6 +34,8 @@ As for checking out the tons and tons of Eberron content in this database, I'd s
 [[Modern Age]] is a rundown of major events in the world (particularly within [[Khorvaire]]) over the last 5000 years. Pick an event, and then just start link hopping!
 
 Feel free to save a snapshot of this site ({{$:/core/ui/Buttons/save-wiki}}) at any time and edit absolutely anything you want to!
+
+And check out the github: [[https://github.com/wccbuck/eberron_tw/]]
 
 !! Featured Random Generators
 
