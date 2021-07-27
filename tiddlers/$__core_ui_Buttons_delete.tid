@@ -1,0 +1,17 @@
+caption: {{$:/core/images/delete-button}} {{$:/language/Buttons/Delete/Caption}}
+created: 20210425024207057
+description: {{$:/language/Buttons/Delete/Hint}}
+modified: 20210727191952023
+tags: $:/tags/EditToolbar $:/tags/ViewToolbar
+title: $:/core/ui/Buttons/delete
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+<$button actions=<<cancel-delete-tiddler-actions "delete">> tooltip={{$:/language/Buttons/Delete/Hint}} aria-label={{$:/language/Buttons/Delete/Caption}} class=<<tv-config-toolbar-class>>>
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+{{$:/core/images/delete-button}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text"><$text text=" "/><$text text={{$:/language/Buttons/Delete/Caption}}/></span>
+</$list>
+</$button>

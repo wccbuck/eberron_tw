@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210504033104415
+modified: 20210727192014965
+tags: [[primal magic]] transmutation
+tier: 4
+title: investiture of wind
+type: text/vnd.tiddlywiki
+
+For up to 10 minutes, wind whirls around you, and you gain the following benefits:
+
+* Attempts to hit you with projectiles are made with [[disadvantage]].
+* You can freely fly at speeds up to 20 mph.
+* You can create a 15-foot cylinder of swirling wind centered on a point you can see within 60 feet of you. Each creature in that area suffers some damage and may be pushed away from the center of the cylinder.

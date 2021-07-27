@@ -1,0 +1,19 @@
+category: spell
+color: #B7A1E0
+created: 20210421012127649
+modified: 20210727192001931
+tags: [[primal magic]] conjuration
+tier: 3
+title: conjure fey
+type: text/vnd.tiddlywiki
+
+You call forth a [[fey]] creature, or a fey spirit that takes the form of a [[beast]], of <<showcreature-lteq "creature tier 2" 2 fey>>. It appears within an unoccupied space you can see within 90 feet. The fey creature disappears when it is incapacitated or after 1 hour. 
+
+The fey creature is friendly to you and your companions for the full duration. It obeys any verbal commands that you issue to it, as long as they don't violate its moral code as defined by its story. If you don't issue any commands to the fey creature, it defends itself from hostile creatures but otherwise takes no actions.
+
+If your concentration is broken, the fey creature doesn't disappear. Instead, you lose control of the fey creature, it becomes hostile toward you and your companions, and it might attack. An uncontrolled fey creature can't be dismissed by you, and it disappears 1 hour after you summoned it.
+
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, the [[creature tier]] of the summoned [[fey]] is <<showcreature-lteq "3" 3 fey>>.

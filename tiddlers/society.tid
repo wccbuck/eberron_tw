@@ -1,0 +1,15 @@
+category: organization
+color: #052c65
+created: 20210225052544699
+list: [[secret society]] [[arcane order]] [[adventurers' guild]] bard druid monk artificer
+modified: 20210727192032952
+tags: [[organization type]]
+title: society
+type: text/vnd.tiddlywiki
+
+<ul>
+<$list filter=[list{!!title}sort[title]]>
+<li><$link/></li>
+<<list-links-article "[tag{!!title}category[organization]regexp<capitalized>sort[title]]">>
+</$list>
+</ul>

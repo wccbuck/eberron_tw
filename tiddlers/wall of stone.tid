@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20210425064116218
+modified: 20210727192041370
+tags: conjuration [[primal magic]]
+tier: 3
+title: wall of stone
+type: text/vnd.tiddlywiki
+
+A nonmagical wall of solid stone springs into existence at a point you choose within 120 feet. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick. 
+
+If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can attempt to dodge out of the way so that it is not enclosed by the wall.
+
+The wall can have any shape you desire, though it can't occupy the same space as a creature or object. The wall doesn't need to be vertical or rest on any firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this spell to bridge a chasm or create a ramp.
+
+If you create a span greater than 20 feet in length, you must halve the size of each panel to create supports. You can crudely shape the wall to create crenellations, battlements, and so on.
+
+The wall persists for up to 10 minutes, or until your concentration breaks, at which point the wall disappears. The wall is an object made of stone that can be damaged and thus breached; when the spell ends, any rubble from the wall also disappears. If you maintain your concentration on this spell for its whole duration (10 minutes), the wall becomes permanent and can't be dispelled. 

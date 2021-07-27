@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210420224731864
+modified: 20210727192042620
+tags: [[primal magic]]
+tier: 4
+title: wind walk
+type: text/vnd.tiddlywiki
+
+You and up to ten willing creatures you can see within 30 feet assume a gaseous form for up to eight hours, appearing as wisps of cloud. While in this cloud form, a creature's only method of movement is flying (up to 60 mph). They can still be harmed by magical effects, but have [[advantage]] to defend against nonmagical damage. A cloud-form creature may also choose to revert to its normal form. Reverting takes 1 minute, during which time a creature is incapacitated and can't move. Until the spell ends, a creature can revert to cloud form, which also requires the 1-minute transformation.
+
+If a creature is in cloud form and flying when the effect ends, the creature descends at a rate of 10 feet per second for 1 minute until it lands, which it does safely. If it can't land after 1 minute, the creature falls the remaining distance.

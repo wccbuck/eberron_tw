@@ -1,0 +1,31 @@
+category: game mechanics
+created: 20210402040751030
+modified: 20210727191956345
+tags: Storyloom [[Actions and Attributes]]
+title: attribute
+type: text/vnd.tiddlywiki
+
+Whenever your character [[attempts to do something|Taking Action]], they use their [[actions and attributes|Actions and Attributes]] to determine how many dice to roll. While [[action]]s answer the question "What do you do", ''attribute''s describe "//What do you use//?"
+
+The five attributes are: ''Focus'', ''Guile'', ''Heart'', ''Intellect'', and ''Vigor''. Below are a few different ways you could combine each attribute with an [[action]] to perform an attempt.
+
+* ''Focus''
+** + ''Fight'': Take careful aim with a bow
+** + ''Operate'': Carefully maneuver a vehicle around obstacles
+** + ''Study'': Investigate a scene and look for clues
+* ''Guile''
+** + ''Fight'': Use a dirty trick in combat
+** + ''Move'': Sneakily move through shadows
+** + ''Sway'': Make a convincing bluff
+* ''Heart''
+** + ''Move'': Perform a stirring dance performance
+** + ''Study'': Read a person's emotional state and motives
+** + ''Sway'': Give an inspiring speech to your allies
+* ''Intellect''
+** + ''Operate'': Repair a clockwork construct
+** + ''Study'': Recall useful arcane lore
+** + ''Sway'': Present a well-reasoned argument
+* ''Vigor''
+** + ''Fight'': Wrestle an enemy to the ground
+** + ''Move'': Swim across a rushing river
+** + ''Operate'': Throw a grappling hook across a ravine

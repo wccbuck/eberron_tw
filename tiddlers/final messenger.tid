@@ -1,0 +1,37 @@
+category: object
+color: #41D5E1
+created: 20201210062648653
+modified: 20210727192008267
+rarity: 2
+tags: accessory [[warforged item]]
+title: final messenger
+type: text/vnd.tiddlywiki
+
+A final messenger is a tiny homunculus—a delicate winged
+creature designed to facilitate communication between
+[[warforged]] soldiers during the [[Last War]].
+
+If you are a warforged, you can hold a final messenger and integrate it into your body. You can only have one messenger attached to your body at a time.
+
+A final messenger holds four pieces of data, accessible only
+to the warforged it is attached to:
+
+* A destination for the messenger. This can be very specific (a particular apartment in [[Sharn]]) or more general (an open marketplace).
+* A target individual. This could be a specific person or a category (“Any [[Karrnath]]i warforged”).
+* A single image recorded through the eyes of a warforged attached to the messenger.
+* A message of up to 25 words.
+
+While the messenger is attached to you, you can take a moment
+to review the data currently stored within the final messenger,
+and if you choose, to change any or all of these data points. You
+can release the final messenger, at which
+point it flies to its destination by the most direct route possible.
+Once it reaches the destination it seeks the target individual; if
+no target has been set, it approaches the nearest [[warforged]].
+
+If you are incapacitated while a final messenger is
+attached to you, it immediately detaches and seeks out its target.
+It retains its stored message, but replaces its stored image with
+the last thing you saw before losing consciousness.
+
+A final messenger is a tiny [[construct]] with darkvision and a flying speed of 15 mph. A messenger can only remain active for 8 hours after it detaches from a warforged body, after which time its energy dissipates and it falls unconscious. An unconscious messenger must spend at least an hour or two attached to a warforged, after which it regains its energy, as well as repairs any minor damages.

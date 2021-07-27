@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20201210052119099
+modified: 20210727191954551
+tags: abjuration
+tier: 2
+title: arcane lock
+type: text/vnd.tiddlywiki
+
+You touch a closed door, window, gate, chest, or other entryway, and it becomes locked until it is dispelled. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting [[knock]] on the object suppresses arcane lock for 10 minutes, as does the use of an [[arcane key]].
+
+While affected by this spell, the object is more difficult to break or force open.

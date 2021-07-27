@@ -1,0 +1,20 @@
+category: object
+color: #41D5E1
+created: 20210601054033842
+modified: 20210727192000015
+rarity: 4
+tags: vehicle
+title: carpet of flying
+type: text/vnd.tiddlywiki
+
+You can speak the carpet's command word to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.
+
+Carpets of flying come in several varieties. Use the below table for a few examples. 
+
+| !<<dr "d4">> | !Size | !Capacity | !Flying Speed |
+| 1 | 3 ft x 5 ft | 200 lb | 20 mph |
+| 2 | 4 ft x 6 ft | 400 lb | 15 mph |
+| 3 | 5 ft x 7 ft | 600 lb | 10 mph |
+| 4 | 6 ft x 9 ft | 800 lb | 7 mph |
+
+A carpet can carry up to twice the weight shown on the table, but its flying speed drops considerably if it carries more than its normal capacity.

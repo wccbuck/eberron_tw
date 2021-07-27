@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210110052623049
+modified: 20210727192038299
+tags: divination
+tier: 3
+title: tongues
+type: text/vnd.tiddlywiki
+
+This spell grants the creature you touch the ability to understand any spoken [[language]] it hears for the next hour. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.

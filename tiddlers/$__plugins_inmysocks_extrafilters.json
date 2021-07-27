@@ -1,0 +1,28 @@
+{
+    "tiddlers": {
+        "$:/plugins/inmysocks/extrafilters/angreaterthan.js": {
+            "text": "/*\\\ntitle: $:/plugins/inmysocks/extrafilters/angreaterthan.js\ntype: application/javascript\nmodule-type: filteroperator\n\nFilter operator for checking if an alphanumeric value is greater than an operand.\nHere greater than means comes after in an alphanumeric sort, so b > a and 2 > 10.\n\n\\*/\n(function(){\n\n/*jslint node: true, browser: true */\n/*global $tw: false */\n\"use strict\";\n\n/*\nExport our filter function\n*/\nexports.angreaterthan = function(source,operator,options) {\n\tvar results = [],\n\tfieldname = (operator.suffix || \"title\").toLowerCase();\n\tif(operator.prefix === \"!\") {\n\t\tsource(function(tiddler,title) {\n\t\t\tif(tiddler) {\n\t\t\t\tvar text = tiddler.getFieldString(fieldname);\n\t\t\t\tif(text.toLowerCase() <= operator.operand.toLowerCase()) {\n\t\t\t\t\tresults.push(title);\n\t\t\t\t}\n\t\t\t} else {\n\t\t\t\tresults.push(title);\n\t\t\t}\n\t\t});\n\t} else {\n\t\tsource(function(tiddler,title) {\n\t\t\tif(tiddler) {\n\t\t\t\tvar text = tiddler.getFieldString(fieldname);\n\t\t\t\tif(text.toLowerCase() > operator.operand.toLowerCase()) {\n\t\t\t\t\tresults.push(title);\n\t\t\t\t}\n\t\t\t}\n\t\t});\n\t}\n\treturn results;\n};\n\n})();\n\n",
+            "title": "$:/plugins/inmysocks/extrafilters/angreaterthan.js",
+            "type": "application/javascript",
+            "module-type": "filteroperator"
+        },
+        "$:/plugins/inmysocks/extrafilters/anlessthan.js": {
+            "text": "/*\\\ntitle: $:/plugins/inmysocks/extrafilters/anlessthan.js\ntype: application/javascript\nmodule-type: filteroperator\n\nFilter operator for checking if an alphanumeric value is less than an operand. `lessthan` in this case means 'comes before in an alphabetical sort'.\nSo a < b and 10 < 2\n\n\\*/\n(function(){\n\n/*jslint node: true, browser: true */\n/*global $tw: false */\n\"use strict\";\n\n/*\nExport our filter function\n*/\nexports.anlessthan = function(source,operator,options) {\n\tvar results = [],\n\t\tfieldname = (operator.suffix || \"title\").toLowerCase();\n\tif(operator.prefix === \"!\") {\n\t\tsource(function(tiddler,title) {\n\t\t\tif(tiddler) {\n\t\t\t\tvar text = tiddler.getFieldString(fieldname);\n\t\t\t\tif(text.toLowerCase() >= operator.operand.toLowerCase()) {\n\t\t\t\t\tresults.push(title);\n\t\t\t\t}\n\t\t\t} else {\n\t\t\t\tresults.push(title);\n\t\t\t}\n\t\t});\n\t} else {\n\t\tsource(function(tiddler,title) {\n\t\t\tif(tiddler) {\n\t\t\t\tvar text = tiddler.getFieldString(fieldname);\n\t\t\t\tif(text.toLowerCase() < operator.operand.toLowerCase()) {\n\t\t\t\t\tresults.push(title);\n\t\t\t\t}\n\t\t\t}\n\t\t});\n\t}\n\treturn results;\n};\n\n})();\n\n",
+            "title": "$:/plugins/inmysocks/extrafilters/anlessthan.js",
+            "type": "application/javascript",
+            "module-type": "filteroperator"
+        },
+        "$:/plugins/inmysocks/extrafilters/greaterthan.js": {
+            "text": "/*\\\ntitle: $:/plugins/inmysocks/extrafilters/greaterthan.js\ntype: application/javascript\nmodule-type: filteroperator\n\nFilter operator for checking if a numeric value is greater than an operand\n\n\\*/\n(function(){\n\n/*jslint node: true, browser: true */\n/*global $tw: false */\n\"use strict\";\n\n/*\nExport our filter function\n*/\nexports.greaterthan = function(source,operator,options) {\n\tvar results = [],\n\tfieldname = (operator.suffix || \"title\").toLowerCase();\n\tif(operator.prefix === \"!\") {\n\t\tsource(function(tiddler,title) {\n\t\t\tif(tiddler) {\n\t\t\t\tvar text = tiddler.getFieldString(fieldname);\n\t\t\t\tif(Number(text) <= Number(operator.operand)) {\n\t\t\t\t\tresults.push(title);\n\t\t\t\t}\n\t\t\t} else {\n\t\t\t\tresults.push(title);\n\t\t\t}\n\t\t});\n\t} else {\n\t\tsource(function(tiddler,title) {\n\t\t\tif(tiddler) {\n\t\t\t\tvar text = tiddler.getFieldString(fieldname);\n\t\t\t\tif(Number(text) > Number(operator.operand)) {\n\t\t\t\t\tresults.push(title);\n\t\t\t\t}\n\t\t\t}\n\t\t});\n\t}\n\treturn results;\n};\n\n})();\n\n",
+            "title": "$:/plugins/inmysocks/extrafilters/greaterthan.js",
+            "type": "application/javascript",
+            "module-type": "filteroperator"
+        },
+        "$:/plugins/inmysocks/extrafilters/lessthan.js": {
+            "text": "/*\\\ntitle: $:/plugins/inmysocks/extrafilters/lessthan.js\ntype: application/javascript\nmodule-type: filteroperator\n\nFilter operator for checking if a numeric value is less than an operand\n\n\\*/\n(function(){\n\n/*jslint node: true, browser: true */\n/*global $tw: false */\n\"use strict\";\n\n/*\nExport our filter function\n*/\nexports.lessthan = function(source,operator,options) {\n\tvar results = [],\n\t\tfieldname = (operator.suffix || \"title\").toLowerCase();\n\tif(operator.prefix === \"!\") {\n\t\tsource(function(tiddler,title) {\n\t\t\tif(tiddler) {\n\t\t\t\tvar text = tiddler.getFieldString(fieldname);\n\t\t\t\tif(Number(text) >= Number(operator.operand)) {\n\t\t\t\t\tresults.push(title);\n\t\t\t\t}\n\t\t\t} else {\n\t\t\t\tresults.push(title);\n\t\t\t}\n\t\t});\n\t} else {\n\t\tsource(function(tiddler,title) {\n\t\t\tif(tiddler) {\n\t\t\t\tvar text = tiddler.getFieldString(fieldname);\n\t\t\t\tif(Number(text) < Number(operator.operand)) {\n\t\t\t\t\tresults.push(title);\n\t\t\t\t}\n\t\t\t}\n\t\t});\n\t}\n\treturn results;\n};\n\n})();\n\n",
+            "title": "$:/plugins/inmysocks/extrafilters/lessthan.js",
+            "type": "application/javascript",
+            "module-type": "filteroperator"
+        }
+    }
+}

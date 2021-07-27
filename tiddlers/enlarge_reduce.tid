@@ -1,0 +1,16 @@
+category: spell
+color: #B7A1E0
+created: 20210414012305992
+modified: 20210727192007195
+tags: transmutation
+tier: 2
+title: enlarge/reduce
+type: text/vnd.tiddlywiki
+
+You cause a creature or an object you can see within 30 feet to grow larger or smaller for up to 1 minute. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it may try to resist the effects of the spell.
+
+If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.
+
+//''Enlarge:''// The target's size doubles in all dimensions, and its weight is multiplied by eight. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. 
+
+//''Reduce:''// The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. 

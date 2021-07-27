@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210501025623091
+modified: 20210727191953741
+tags: abjuration
+tier: 2
+title: aid
+type: text/vnd.tiddlywiki
+
+Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within 30 feet. Each target gains an extra temporary [[harm]] box for eight hours.

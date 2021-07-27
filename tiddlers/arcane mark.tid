@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210713041127384
+modified: 20210727191954571
+tags: illusion
+tier: 1
+title: arcane mark
+type: text/vnd.tiddlywiki
+
+You set your personal arcane mark on an object you touch. It manifests as a unique sigil of your devising, which can consist of no more than six characters. The writing can be visible or invisible. If an invisible mark is made, a [[detect magic]] spell causes it to glow and be visible, though not necessarily understandable. [[See invisibility|see invisibility]], [[true seeing]], a [[gem of seeing]], or other similar spells and items also allow the user to see an invisible arcane mark. 
+
+If an arcane mark is placed on a living being, normal wear gradually causes the effect to fade in about a month.

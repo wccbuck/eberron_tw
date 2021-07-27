@@ -1,0 +1,26 @@
+category: creature
+color: #EA868F
+created: 20210723180143128
+enhancement: //''Sturdy Frame.''// The clockwork's ability to stay upright and withstand falls and impacts is enhanced.
+malfunction: //''Leaking Lubricant.''// The clockwork becomes increasingly exhausted and eventually grinds to a halt.
+modified: 20210727191959535
+tags: construct clockwork
+tier: 1
+title: bronze scout
+type: text/vnd.tiddlywiki
+
+A bronze scout, a [[clockwork]] [[construct]], seldom emerges from below ground; thanks to its telescoping eyestalks, it can observe enemies at close range while most of its segmented, wormlike body remains buried. If it is detected, the bronze scout deters pursuers by sending electrical shocks through the ground while it retreats to safety.
+
+!! Clockwork Enhancement and Malfunction
+
+<<<
+<$button>
+<$action-chooserandom $dataTiddler="$:/ClockworkEnhancements" $field=enhancement/>
+<$action-chooserandom $dataTiddler="$:/ClockworkMalfunctions" $field=malfunction/>
+Generate
+</$button>
+
+''Enhancement: '' {{!!enhancement}}
+
+''Malfunction: '' {{!!malfunction}}
+<<<

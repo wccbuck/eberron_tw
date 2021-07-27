@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210430225701153
+modified: 20210727192035703
+tags: psionics
+tier: 3
+title: synaptic static
+type: text/vnd.tiddlywiki
+
+You choose a point within 120 feet and cause psychic energy to explode there. Each creature in a 20-foot-radius sphere centered on that point must resist your magic or suffer psychic damage. A creature with insect intelligence or lower can't be affected by this spell.
+
+If a creature is hit with this spell, it has muddled thoughts for up to 1 minute. During that time, it has [[disadvantage]] on all attempts involving mental focus, and cannot easily concentrate.

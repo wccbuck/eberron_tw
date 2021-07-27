@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20201221191737899
+modified: 20210727192003869
+tags: [[divine magic]]
+tier: 3
+title: death ward
+type: text/vnd.tiddlywiki
+
+You touch a creature and grant it a measure of protection from death. 
+
+For up to eight hours, the first time the target would be incapacitated as a result of taking damage, the target instead only suffers a minor injury, and the spell ends.
+
+If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously, that effect is instead negated against the target, and the spell ends.

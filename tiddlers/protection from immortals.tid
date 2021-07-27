@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210331142002906
+modified: 20210727192026143
+tags: abjuration
+tier: 2
+title: protection from immortals
+type: text/vnd.tiddlywiki
+
+For up to 10 minutes, one willing creature you touch is protected against [[celestial]]s, [[fiend]]s, and other [[immortal]]s. For the purposes of this spell, [[undead]] and [[manifestation]]s also count as immortals.
+
+The protection grants several benefits. The target has [[advantage]] when defending themselves against immortals' attacks. The target also can't be [[charm]]ed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any future attempts to shake off the relevant effect.

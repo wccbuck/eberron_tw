@@ -1,0 +1,26 @@
+category: organization
+color: #052c65
+created: 20210211044954566
+list-before: 
+modified: 20210727192038711
+tags: business
+title: trade guild
+type: text/vnd.tiddlywiki
+
+The great [[dragonmarked house]]s are the barons of industry and commerce
+throughout [[Khorvaire]] and beyond. These dynastic
+houses of commerce derive their power partly from their [[dragonmark]]s, but each house has economic as well as magical dominance in its area of influence. House [[Cannith]]’s [[Mark of Making]] makes its dragonmarked heirs the best [[artificer]]s and artisans in
+[[Khorvaire]]. But House Cannith also operates crafting guilds whose unmarked [[magewright]]s and crafters benefit from the best training possible.
+
+!! Trade Guilds of Khorvaire
+
+<ul>
+<$list filter="[tag[dragonmarked house]sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag[trade guild]tag<currentTiddler>sort[title]]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>

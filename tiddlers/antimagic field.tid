@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20201210234346932
+modified: 20210727191954373
+tags: abjuration
+tier: 4
+title: antimagic field
+type: text/vnd.tiddlywiki
+
+A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can't be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends (up to 1 hour, or until your concentration breaks), the sphere moves with you, centered on you.
+
+Spells and other magical effects, with extremely few exceptions, are suppressed in the sphere and can't protrude into it. Energy expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.
+
+Teleportation and planar travel fail to work within the sphere, whether the sphere is the destination or the departure point. Extradimensional spaces are also not accessible.
+
+A creature or object summoned or created by magic temporarily winks out of existence in the sphere. Such a creature instantly reappears once the space the creature occupied is no longer within the sphere.
+
+Spells and magical effects such as [[dispel magic]] have no effect on the sphere. Likewise, the spheres created by different antimagic field spells don't nullify each other.

@@ -1,0 +1,22 @@
+category: spell
+color: #B7A1E0
+created: 20201216162532491
+modified: 20210727192001726
+tags: enchantment
+tier: 2
+title: command
+type: text/vnd.tiddlywiki
+
+You speak a one-word command to a creature you can see within 60 feet. If the target cannot resist your magical imperative, they must follow the command. The spell has no effect if the target is [[undead]], if it doesn't understand your [[language]], or if your command is directly harmful to it.
+
+Some typical commands follow, though you might issue a command other than one described here. If the target can't follow your command, the spell ends.
+
+* ''Approach''. The target moves toward you by the shortest and most direct route.
+* ''Drop''. The target drops whatever it is holding.
+* ''Flee''. The target moves away from you by the fastest available means.
+* ''Grovel''. The target drops to the ground and lies face down.
+* ''Halt''. The target stops moving.
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may affect up to three creatures with this spell simultaneously.

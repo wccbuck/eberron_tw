@@ -1,0 +1,62 @@
+category: object
+color: #075157
+created: 20201209014700240
+modified: 20210727191954503
+tags: fixed
+title: arcane artillery
+tooltip: heavy long-range military spellcasting focus
+type: text/vnd.tiddlywiki
+
+Wands, staffs, and rods are well-established weapons in the
+world of Eberron. Similarly, arcane artillery doesn't employ
+any sort of physical projectile, relying solely on magical
+energy—but rather than a small weapon one person can
+easily carry, arcane artillery refers to a variety of larger
+arcane foci that can increase the range and area of magical
+attacks. Likewise, the [[war|Last War]] employed magical explosives such
+as [[blast disk]]s that could wreak devastation by triggering a
+previously stored spell.
+
+!! Operating Arcane Artillery
+
+While a specially trained spellcaster must operate arcane
+artillery, more than one person can assist with its operation,
+allowing a team to prime, aim, and fire in a single round. Using these weapons requires specialized training, similar to that of an [[artificer]] or [[magewright]]; someone trained to
+operate arcane artillery is generally called a bombardier. A typical bombardier may know one or more spells that they're only able to cast using a focus—such as a [[siege staff]] or [[long rod]]. So an [[Aundair]]ian specialist might be able to produce [[cloudkill]] through a focus, but not cast the spell on its own. Bombardiers don't use their own power when casting these spells;
+instead, they prime the weapon using a [[dragonshard]] solution
+known as the [[breath of Siberys]]. However, player characters are more versatile than
+magewrights or bombardiers.
+
+!! Enhanced Artillery
+
+While arcane artillery is a powerful force, there's still a place for
+mundane siege engines that use physical projectiles. The ballista,
+mangonel, and trebuchet are all common forms of artillery,
+seen on both the battlefield and on warships. However, just as
+a [[Thrane]] archer may have used an enchanted bow, the siege
+engines of the [[Last War]] are enhanced with magical power.
+
+For example, a siege engine can be partially
+animated, speeding its use. Generally, an animated engine
+loads itself while the crew aims it, requiring less time to fire an animated ballista or mangonel. House [[Cannith]] also manufactured fully animated
+siege engines, capable of self-aiming. Such an engine required
+the same amount of time to aim and fire as a crewed engine,
+it simply had no need of a crew. However, these engines could
+only follow simple instructions and had little ability to adapt,
+requiring clear, absolute orders to be effective: “//Continue to
+attack the north tower until it is destroyed.//”
+
+!!! Enchanted Ammunition
+
+Ballista bolts and mangonel
+missiles are often enchanted with spell effects that trigger
+when the bolt strikes its target. This effect is in addition to
+the standard damage inflicted by the siege engine.
+
+* //Explosive ammunition// affects a 30-foot radius sphere centered on the impact of the bolt. Typically, explosive ammunition deals fire damage, igniting flammable objects that aren't being worn or carried. However, [[Karrnath]]i //deathbolt//s deal necrotic damage and only harm living creatures, while [[Thrane]] //Tira's tears// deal radiant damage.
+* //Summoning ammunition// conjures creatures around the point of impact. [[Aundair]]ian firestones produce a temporary flaming sphere that randomly rolls around the area of impact. [[Zil|Zilargo]] binders developed a more powerful form of this ammunition which conjures an [[elemental]] on detonation, but it is extremely costly and rare.
+* //Panic stones// affect all creatures within a 90-foot-radius sphere centered on the impact of the stone; those without high enough resolve drop whatever they are holding and flee in terror.
+
+!
+
+!!! <<showitem-type>>

@@ -1,0 +1,37 @@
+category: phenomenon
+color: #432874
+created: 20210129035604285
+modified: 20210727192027490
+title: reality storm
+type: text/vnd.tiddlywiki
+
+Ask anyone on [[Sarlona]] about the vast open spaces of the
+[[Tashana Tundra]], and you're likely to hear the same refrain—it is a land
+of strange weathers. The native [[shifter]] tribes can tell you more
+specifically: The Tundra is home to //aukaraks// or reality storms.
+
+//Aukaraks// are actually free-floating planar breaches, remnants of a long-ago era in which terrible magics rent the very fabric of the planes. They move about the Tundra, blowing in just as a rainstorm might, and blowing over again just as quickly. Reality storms usually function as small, temporary [[manifest zone]]s to one of the twelve [[plane]]s that have coterminous phases with Eberron. They tend to be more intense and powerful than typical manifest zones, but they are unpredictable and impermanent. Reality storms also have a chance of "porting in" natives of a particular [[plane]], as if summoned—these creatures are effectively unsummoned at the end of the storm's duration, and return to their native plane. Finally, some aukaraks simply produce bizarre, random effects that have no apparent connection to any individual plane. Consult the table below for descriptions and effects.
+
+A reality storm takes a few minutes to fully manifest, sometimes simply materializing overhead, sometimes rolling over the horizon and toward the characters. The duration of an aukarak is between 1 and 7 hours, with exceptions for burst storms. Encountered aukaraks can be chosen from the table or randomly rolled. 
+
+| !<<dr d50>> |!Aukarak&nbsp;Type |!Description |!Possible&nbsp;Encounters |
+| 1-3 |[[Daanvi]], the Perfect Order |Translucent geometrical shapes float in the air; items intermittently shift to "ideal form"; a field of wildflowers could appear as a cultivated garden |[[modron]]s, [[formian]]s |
+| 4-6 |[[Dolurrh]], the Realm of the Dead |Muted colors and sounds; feelings of despair; heavy gravity |[[shadow]]s, [[meld]]s, [[lemure]]s, [[sorrowsworn]], [[nalfeshnee]] (rarely) |
+| 7-9 |[[Fernia]], the Sea of Fire |Embers and ash swirl through the air; uncomfortable heat; fire magic enhanced |fire or earth [[elemental]]s, magma [[mephit]]s |
+| 10-12 |[[Irian]], the Eternal Dawn |Intense sunlight; illusory landscapes of fields of crystal and sand |benign [[ember]]s |
+| 13-15 |[[Kythri]], the Churning Chaos |Random, intense environmental effects—noise, snow, steam, lightning |[[slaad]], never-before-seen [[monstrosities|monstrosity]] |
+| 16-18 |[[Lamannia]], the Twilight Forest |Illusory overgrowth of plant life and verdant terrains; pockets of the [[First Storm]] |[[dire beast]]s, [[elemental]]s |
+| 19-21 |[[Mabar]], the Endless Night |Near-total darkness |[[shadow]]s, [[wraith]]s, [[mezzoloth]]s |
+| 22-24 |[[Risia]], the Plain of Ice |pieces of the [[Boundless Blizzard]]; enhanced ice magic |Usually none. Rarely: [[remorhaz]]es, [[ice devil]]s |
+| 25-27 |[[Shavarath]], the Eternal Battleground |Illusory scenes of ghostly combatants eternally at war; cacophonous noise; whirling blades |[[devil]]s, [[demon]]s, [[angel]]s, or the [[manifestation]] of literally any kind of warrior |
+| 28-30 |[[Syrania]], the Azure Sky |Bright, vibrant colors; cloudless blue sky; feelings of calm; light gravity |Syranian [[angel]]s, no combat |
+| 31-33 |[[Thelanis]], the Faerie Court |Dancing lights and phosphorescence; landscapes with exaggerated features; the smell of perfume|[[dryad]]s, [[satyr]]s, [[sprite]]s, any [[fey]] |
+| 34-36 |[[Xoriat]], the Realm of Madness |Illusions of utterly alien phenomena, [[random magical effect]]s |[[beholder]]kin, native [[aberration]]s (not necessarily hostile) |
+| 37 | Binary storm: [[Daanvi]]/[[Kythri]] |Storm toggles between opposing planes once every 20-60 seconds ||
+| 38 | Binary storm: [[Irian]]/[[Mabar]] |Storm toggles between opposing planes once every 20-60 seconds ||
+| 39 | Binary storm: [[Fernia]]/[[Risia]] |Storm toggles between opposing planes once every 20-60 seconds ||
+| 40-42 | Antimagic storm |An eerie dead stillness and dimming of light; [[antimagic field]] effect ||
+| 43 | Temporal storm |A light sleet descends, causing time to speed up or slow down in the area ||
+| 44-45 | Temporal burst |A light sleet descends, causing time to speed up or slow down in the area only for 30-90 seconds ||
+| 46-47 | Gravity burst |A shimmering air mass descends, causing heavy or light gravity for 30-90 seconds ||
+| 48-50 | Teleportation burst |A cloud of sparkling snow descends, teleporting creatures in a 100-foot radius to another randomly determined location in the Tashana region ||

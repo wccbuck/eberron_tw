@@ -1,0 +1,22 @@
+category: spell
+color: #B7A1E0
+created: 20210428000436892
+modified: 20210727192039194
+tags: transmutation
+tier: 5
+title: true polymorph
+type: text/vnd.tiddlywiki
+
+Choose one creature or nonmagical object that you can see within 30 feet. You transform the creature into a different creature, the creature into a nonmagical object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for up to one hour, or until your concentration breaks or the target dies or becomes incapacitated. If you concentrate on this spell for the full hour, the spell lasts until it is dispelled.
+
+This spell has no effect on a [[shapechanger]] (such as a [[changeling]] or [[rakshasa]]) or an incapacitated creature. An unwilling creature can try to resist the effect.
+
+//''Creature into Creature.''// If you turn a creature into another kind of creature, the new form can be any kind you choose whose [[creature tier]] is equal to or less than the target's. The target's physical and mental capabilities are replaced by those of the chosen creature, but it retains its ethics and personality.
+
+The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech, unless its new form is capable of such actions.
+
+The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
+
+//''Object into Creature.''// You can turn an object into any kind of creature, as long as the creature's size is no larger than the object's size and the creature's [[tier|creature tier]] is <<showcreature-lteq "3 or lower" 3>>. The creature is friendly to you and your companions. You decide what action it takes and how it moves. If the spell becomes permanent, you no longer control the creature. It might remain friendly to you, depending on how you have treated it.
+
+//''Creature into Object.''// If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form, as long as the object's size is no larger than the creature's size. The creature has no memory of time spent in this form, after the spell ends and it returns to its normal form.

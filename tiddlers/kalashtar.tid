@@ -1,0 +1,98 @@
+category: creature
+color: #EA868F
+created: 20200414225913615
+modified: 20210727192015932
+tags: humanoid
+tier: 1
+title: kalashtar
+type: text/vnd.tiddlywiki
+var: uncommon
+
+//I am kalashtar, born of two worlds. Over a thousand years ago, my ancestor bound her bloodline to the spirit Kashtai, and I am a child of that union. Kashtai moves within me. Her memories come to me in dreams, and at times her voice whispers in the silence of my mind. As long as at least one of my sisters is alive, Kashtai will survive—and as long as she lives, she will fight [[il-Lashtavar]]. //
+
+<div align="right">—Lakashtai, servant of the light</div>
+
+The kalashtar are a compound people, created from the
+union of humanity and renegade spirits from the [[plane of dreams|Dal Quor]]—spirits called [[quori]]. Kalashtar are often seen as wise, spiritual people with great compassion
+for others. There is an unmistakable alien quality to the
+kalashtar, though, as they are haunted by the conflicts of
+their otherworldly spirits. 
+
+!! Bound to Spirits
+
+Every kalashtar has a connection to a spirit of light, a
+bond shared by other members of their bloodline. Kalashtar appear [[human]], but their spiritual connection affects them in a variety of ways. Kalashtar have symmetrical, slightly angular features, and their eyes often glow
+when they are focused or expressing strong emotions.
+
+Kalashtar can't directly communicate with their [[quori]]
+spirits. Rather, they might experience this relationship
+as a sense of instinct and inspiration, drawing on the
+memories of the spirit when they dream. This connection grants kalashtar minor [[psionic|psionics]] abilities, as well
+as protection from psychic attacks. All of these quori
+dream-spirits are virtuous, but some are warriors and
+others are more contemplative. Work together with the GM to determine the nature of your linked spirit. Typically, a kalashtar knows the name and nature of their
+spirit, but some may know nothing of their spirit or the
+source of their psychic gifts, such as an orphan kalashtar
+raised among strangers. 
+
+The bond to the spirit can cause some kalashtar to
+display unusual quirks. Consider rolling or selecting a
+trait from the table below.
+
+| !<<dr d10>> |!Quirk |
+| 1 |You try to understand the motives and feelings of your enemies. |
+| 2 |You prefer using telepathy over speaking aloud. |
+| 3 |You feel a strong drive to protect the innocent. |
+| 4 |You apply dream logic to mundane situations. |
+| 5 |You discuss things out loud with your quori spirit. |
+| 6 |You suppress your emotions and rely on logic. |
+| 7 |You are strongly influenced by the emotions of those around you. |
+| 8 |You prefer to find nonviolent solutions to problems whenever possible. |
+| 9 |You are driven by a warrior spirit and will fight for any noble cause. |
+| 10 |You are obsessed with [[Dreaming Dark]] conspiracies. |
+
+!! Hunted by Nightmares
+
+The virtuous spirits tied to the kalashtar fled from the
+dream-realm of [[Dal Quor]] to escape evil spirits that dominate it. The rebel [[quori]] believe that through meditation
+and devotion, they can change the fundamental nature
+of Dal Quor, shifting the balance from darkness to light.
+Most kalashtar communities focus on acts of devotion
+known as the [[Path of Light]]. But the dark powers of Dal
+Quor have their own plans for [[Eberron]]. Through the
+force known as the [[Dreaming Dark]], these monsters
+manipulate the folk of [[Khorvaire]] to eliminate kalashtar
+whenever possible.
+
+Many kalashtar defend themselves from the [[Dreaming Dark]] by focusing on devotion to the [[Path of Light]]. Others, though, seek out the agents of the Dreaming
+Dark and oppose their plans, or protect the innocent
+however they can. Still other kalashtar grow up isolated,
+knowing nothing about Dal Quor or the Dreaming Dark.
+Such orphans might use their abilities for personal gain
+or otherwise act against the virtuous instincts of their
+quori spirits; this can cause internal conflicts and violent
+mood swings. 
+
+!! Kalashtar Names
+
+A kalashtar name adds a personal prefix to the name of
+the quori spirit within the kalashtar. Such names have
+no relation to the kalashtar's gender.
+
+Kalashtar orphans are unlikely to know the name of
+their spirit and take names from another source.
+
+//''Quori Names:''// Ashana, Ashtai, Ishara, Hareth, Khad, Kosh, Melk, Nari, Tana, Tari, Tash, Ulad, Vakri, Vash
+
+//''Kalashtar Names:''// Coratash, Dalavash, Dolishara, Halakosh, Khoratari, Koratana, Lanhareth, Molavakri,
+Nevitash, Sorashana, Torashtai, Valakhad, Vishara
+
+!! Kalashtar Culture
+
+The kalashtar were born in the mountains of [[Adar]]. Descended from the hosts of [[Taratai]] and the other sixty-six immortal [[quori]] she led out of [[Dal Quor]], kalashtar have endless patience and a firm conviction that their traditions will some day usher in a golden age for all creatures. They do not want to change in any way; they know what needs to be done to fight the [[Dreaming Dark]], and they will continue until they succeed or have been destroyed. This attitude is reflected in the rigid monastic lifestyle of the [[Adarans]], which has remained unchanged and uncontested for more than a thousand years.
+
+Things are different on the continent of [[Khorvaire]]. The kalashtar of Khorvaire come from a variety of backgrounds. Some migrated before the [[Inspired]] arrived on [[Sarlona]], blending quietly into the [[human]]s of the [[Five Nations]] before [[Galifar]] united them. Others have been sent by kalashtar elders over the course of the last few centuries. Some came to study Khorvaire, while others were sent away to ensure that kalashtar society could not be eliminated in a single blow. The kalashtar of Khorvaire have more interaction with other cultures and don't have to deal with the constant distraction of war with the [[Dreaming Dark]].
+
+As a result, the kalashtar of [[Khorvaire]] are generally more optimistic and innovative than their [[Adaran|Adarans]] counterparts, and they enjoy experimenting with new things. The most significant innovation has been the development of the path of the [[atavist]].
+
+The kalashtar population of Khorvaire is split between a number of racial enclaves in the major cities of the continent, such as [[Overlook]] in [[Sharn]] and Stillstone Holt in [[Stormhome]]. This pattern has largely been driven by the war with the [[Dreaming Dark]]. They cluster together not because they are uncomfortable around members of other races, but because they need the sense of safety in numbers, and it's easier to spot the actions of the Dreaming Dark in a closed system.

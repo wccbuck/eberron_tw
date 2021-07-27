@@ -1,0 +1,54 @@
+category: game mechanics
+created: 20210331200737600
+modified: 20210727192036001
+tags: Storyloom
+title: Taking Action
+type: text/vnd.tiddlywiki
+
+Whenever you want to do something that has the potential to be dangerous or troublesome, you have to roll dice to determine whether you succeed, and to what extent you succeed. You roll a number of six-sided dice, and read the single highest result.
+
+* If the highest die is a 6, it's a [[full success]]—you accomplish what you set out to do. Typically this means you suffer no [[consequence]]s or gain some additional advantage. If you roll more than one 6, that's a ''critical success''.
+* If the highest die is a 4 or 5, that's a [[partial success]]—you accomplish what you set out to do, but there are [[consequence]]s, such as [[stress]], reduced [[impact]], or a complication.
+* If the highest die is a 1, 2, or 3, that's a [[bad outcome]] or failure. Things go poorly. You suffer [[consequence]]s and probably don't accomplish your goal.
+
+If you ever need to make a roll but you have zero or negative dice, roll two dice and take the single lowest result.
+
+To determine your pool of dice for a roll, it’s as simple as answering the following question: “What do you do, and what are you using to do it?” You’ll look at your character’s most relevant [[action]] (what do you do?) and [[attribute]] (what do you use to do it?) scores, and use a number of dice equal to their sum. You can also spend [[momentum]] to add dice to your pool. Some [[talent]]s and [[item|magic item]]s also add dice to your pool for certain specific actions. This is sometimes called [[advantage]]. Rarely, magical effects can remove one die from your pool; this is sometimes called [[disadvantage]]. 
+
+Like [[Blades in the Dark|https://bladesinthedark.com/basics]] and other "Powered by the Apocalypse" games, ''the GM does not roll dice to take actions. Only the players do.'' So enemies, NPCs, and the like only "act" in the sense that their actions and decisions are narrated depending on the results of the players' dice rolls. 
+
+On that note, certain spells, items, and magical effects in the game might describe how they restore the target's [[stress]] or [[harm]], or apply [[disadvantage]] to a specific [[action]] performed by the target, or in some way interact with PC-specific game mechanics. If any of these effects are applied to non-player characters, the GM needs to adjudicate how to translate them into a player-focused mechanic. Some are easy; disadvantage for an enemy means an [[advantage]] for a PC. Others might need some narrative framing. When in doubt, the GM can just translate bonuses into [[momentum]] or some other positive effect.
+
+!!! Dice Pool, Risk, Impact
+
+Every attempt you make has three properties: dice pool, [[risk]], and [[impact]].
+
+The size of your dice pool affects how likely it is to succeed. This is the number of 6-sided dice you actually roll.
+
+The [[risk]] associated with an attempt determines how bad the [[consequence]]s are for a [[partial success]] or [[bad outcome]]. Risk does not play a part in the event of a [[full success]]. These consequences can include taking [[stress]] or losing [[momentum]]. Risk can be low, moderate (default), or high.
+
+Your attempts' [[impact]] level determines how much you're able to accomplish with a successful roll ([[full success]] or [[partial success]]). If you're using a [[progress clock]] to track your progress towards a goal, impact helps determine how many segments of the clock to fill in. Impact does not play a part in the event of a [[bad outcome]]. Depending on the context, you may end up with a zero [[impact]] (requiring the spending of [[momentum]] to make any progress).
+
+The GM decides how to set the [[impact]] and [[risk]] based on the context of the scene, and by the choices made by the players. If the player describes their character's actions as playing it safe for an incremental success, the GM might decide impact is low, risk is low. An action which may turn the tides in a desperate situation might be high impact, high risk. Things like [[talent]]s and [[item|magic item]]s can also affect [[impact]] and [[risk]]. See also [[spell tier]] and [[rarity]].
+
+You can also choose to [[push yourself]] to gain 1 [[momentum]] after rolling an attempt, which you immediately use to gain +1 d6 or +1 [[impact]]; however, this requires you to suffer a [[consequence]] (usually 2 [[stress]]).
+
+Finally, you can spend a [[story point]] to gain 3 [[momentum]] after rolling an attempt, which you immediately use to gain any combination of +1 d6 or +1 impact. You must narrate how your character's [[aspect]]s make the use of the story point fit into the story.
+
+!!! Overcome and Boost
+
+Any attempt you make in Storyloom can be boiled down to one of two actions: [[overcome]] or [[boost]].
+
+* ''Overcome'' an obstacle, tackling a challenge, hindrance, or engaging task. This is the move you make when you are directly attempting to make progress towards a goal, attack an enemy, face immediate danger, or finish a scene.
+* ''Boost'' your chances of success on future [[overcome]] actions by increasing your [[momentum]]. Help an ally, create a situation that helps you succeed, or discover a benefit that already exists.
+
+!!! Action Summary
+
+A player or GM calls for a roll when the player’s character performs a dangerous or troublesome action. The player and GM decide which [[action]] and [[attribute]] are most relevant for what the character intends to do, as well as the [[risk]] and [[impact]] for the roll are. The player has ultimate authority on which [[action]] and [[attribute]] they’d like to use, and the GM has ultimate authority on the risk/impact.
+
+After you know the [[risk]] and [[impact]], if you decide to make the attempt, roll 1d for each rating dot in the relevant [[action]] and [[attribute]], and look at your highest result. (If rolling "zero" dice, roll two and pick the lowest.) A 6 is a [[full success]] (two or more 6’s is a critical), a 4-5 is a [[partial success]], and a 1-3 is a [[bad outcome]]. 
+
+After making the roll, you have some options for fudging the result. For example, you can spend any [[momentum]] you may have available to add another dice roll or an additional point of [[impact]] to your result. Additionally, you can [[push yourself]] for +1 [[momentum]], or spend a [[story point]] for +3 momentum, to be spent on this attempt only. 
+
+The GM narrates what happens based on your result, advancing [[progress clock]]s or doling out [[consequence]]s as necessary, and the scene continues!
+

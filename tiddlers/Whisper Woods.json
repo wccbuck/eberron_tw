@@ -1,0 +1,15 @@
+[
+    {
+        "created": "20210130234742960",
+        "title": "Whisper Woods",
+        "text": "Dark shapes and strange sounds fill the\nwoods known as Whisper, located in the northern reaches of\n[[Aundair]]. Monsters still roam this cold and forlorn forest,\nand few dare venture too deeply into its ancient recesses.\n\nThe Whisper Woods have a\nreputation for sinister creatures and grave dangers,\nbut nothing compares to the sheer strangeness of the\nWhisper Rock. This ancient monolith, raised long\nbefore humanity came to [[Khorvaire]], exudes a corrupting influence, warping trees and animals and\ncausing shadows to bend and twist. Winds swirl and\nissue a chilling susurrus, which gives the rock and\nthe forest their name. Some believe the whispers\ncontain prophetic fragments—prompting some fools,\nseers, and apocalyptic doomsayers to make the hazardous journey through the woods and congregate\naround the stone, straining to make sense of the\nweird voices in the wind.",
+        "modified": "20210727192042290",
+        "tags": "Aundair forest Khorvaire",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polygons": "56.34,-11.82 56.27,-11.69 56.17,-11.6 56.04,-11.54 55.87,-11.53 55.76,-11.47 55.63,-11.36 55.55,-11.14 55.57,-10.99 55.51,-10.81 55.5,-10.69 55.51,-10.48 55.45,-10.49 55.38,-10.64 55.24,-10.79 55.12,-10.92 55.03,-10.94 54.87,-11.05 54.69,-11.02 54.42,-10.95 54.28,-11.02 54.11,-11.0 54.01,-10.89 54.01,-10.61 54.05,-10.31 53.99,-9.94 53.82,-9.75 53.72,-9.44 53.81,-9.25 53.87,-9.02 53.97,-8.78 54.16,-8.64 54.28,-8.48 54.45,-8.39 54.6,-8.3 54.6,-8.07 54.68,-7.92 54.85,-7.79 54.94,-7.67 55.1,-7.69 55.28,-7.76 55.45,-7.84 55.52,-7.67 55.54,-7.41 55.63,-7.3 55.75,-7.19 55.78,-7.0 55.83,-6.83 55.9,-6.73 55.97,-6.56 56.04,-6.48 56.1,-6.4 56.06,-6.23 56.01,-6.04 56.01,-5.88 56.05,-5.76 56.12,-5.64 56.11,-5.48 56.07,-5.3 56.06,-5.08 56.13,-4.83 56.05,-4.62 56.04,-4.38 56.11,-4.2 56.24,-3.93 56.37,-3.73 56.49,-3.64 56.65,-3.6 56.76,-3.54 56.91,-3.57 56.97,-3.75 57.1,-3.91 57.16,-4.12 57.21,-4.35 57.34,-4.55 57.46,-4.7 57.48,-4.89 57.43,-5.15 57.34,-5.32 57.27,-5.53 57.28,-5.82 57.34,-6.0 57.5,-6.1 57.62,-6.26 57.73,-6.49 57.86,-6.73 57.85,-6.89 57.71,-6.99 57.53,-7.18 57.4,-7.2 57.29,-7.01 57.2,-7.05 57.05,-7.08 56.9,-7.28 56.89,-7.63 56.95,-7.86 56.93,-8.14 56.86,-8.38 56.91,-8.68 57.04,-8.84 57.08,-9.08 57.07,-9.35 57.08,-9.69 57.2,-9.76 57.33,-9.86 57.39,-10.08 57.43,-10.4 57.43,-10.61 57.29,-10.84 57.2,-10.96 57.16,-11.16 57.07,-11.33 56.95,-11.37 56.85,-11.49 56.79,-11.67 56.67,-11.84 56.55,-11.89 56.45,-11.8",
+        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}"
+    }
+]

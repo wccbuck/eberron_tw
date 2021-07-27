@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210421031752193
+modified: 20210727192013296
+tags: evocation
+tier: 2
+title: hellish rebuke
+type: text/vnd.tiddlywiki
+
+As a reaction to suffering [[harm]] by a creature within 60 feet of you that you can see, you can cause that creature to be momentarily surrounded by hellish flames. If the creature can't dodge, they suffer fire damage.

@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210505031730034
+modified: 20210727192005319
+tags: transmutation
+tier: 2
+title: dragon's breath
+type: text/vnd.tiddlywiki
+
+You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose acid, cold, fire, lightning, or poison. Until the spell ends (up to 1 minute), the creature can choose to exhale energy of the chosen type in a 15-foot cone, much like a [[dragon]].

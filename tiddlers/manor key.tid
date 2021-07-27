@@ -1,0 +1,22 @@
+category: object
+color: #41D5E1
+created: 20201210054238444
+modified: 20210727192020291
+rarity: 3
+tags: tool [[dragonmark focus item]]
+title: manor key
+tooltip: rare dragonmark focus item, grants Hospitality mark wielder access to an extradimensional mansion
+type: text/vnd.tiddlywiki
+
+This long key, studded with tiny Siberys [[dragonshard]]s, can
+only be used by a creature with the [[Mark of Hospitality]]. You
+can trace the outline of a door in the air with
+the manor key and conjure a shimmering door to an extravagant extradimensional dwelling. While closed, the portal is invisible. 
+
+<<<
+!!! [[Magnificent Mansion|magnificent mansion]]
+{{magnificent mansion}}
+<<<
+
+The spell ends after 24 hours or when you use the key to lock the door and dismiss
+the effect; at that time, any creatures within the mansion are expelled into an open space near its entrance. Once used, the key cannot be used again until the next dawn.

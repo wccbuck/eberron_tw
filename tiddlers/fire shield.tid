@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210425052101926
+modified: 20210727192008449
+tags: evocation
+tier: 3
+title: fire shield
+type: text/vnd.tiddlywiki
+
+Thin and wispy flames wreathe your body for up to 10 minutes, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. You can end the spell early if you choose to.
+
+The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.
+
+In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes fire damage from a warm shield, or cold damage from a chill shield.

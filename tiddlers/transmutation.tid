@@ -1,0 +1,23 @@
+category: phenomenon
+color: #432874
+created: 20200422221346805
+modified: 20210727192038841
+tags: [[spell school]]
+title: transmutation
+type: text/vnd.tiddlywiki
+
+A student of transmutation casts spells that modify energy and matter.
+To them, the world is not a fixed thing, but eminently
+mutable. They wield the raw stuff of creation and learn to alter both
+physical forms and mental qualities. Their magic gives
+them the tools to become a smith on reality's forge.
+
+Some transmuters are tinkerers and pranksters,
+turning people into toads and transforming copper into
+silver for fun and occasional profit. Others pursue their
+magical studies with deadly seriousness, seeking the
+power of the gods to make and destroy worlds. 
+
+See also [[cosmetic transmutation]].
+
+!!! <<showspells-school {{!!title}}>>

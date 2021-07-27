@@ -1,0 +1,30 @@
+category: spell
+color: #B7A1E0
+created: 20201210004030730
+modified: 20210727192018621
+tags: illusion
+tier: 1
+title: lesser illusion
+type: text/vnd.tiddlywiki
+
+The spellcaster creates a sound or an image of an object within 30 feet that lasts for up to one minute. The illusion also ends if the caster dismisses it or casts this spell again.
+
+If the caster creates a sound, its volume can range from a whisper to a scream. It can be the caster's voice, someone else's voice, a lion's roar, a beating of drums, or any other sound they choose. The sound continues unabated throughout the one-minute duration, or they can make discrete sounds at different times before the spell ends.
+
+If the caster creates an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
+
+If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+
+!! Common-Tier
+
+When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you may do up to ''two'' of the following:
+
+* Create a simultaneous sound AND an image.
+* Increase the range to 60 feet and the illusion's maximum size to a 10-foot cube.
+* Extend the duration of the illusion to five minutes.
+* Delay the start of the illusion for up to five minutes.
+* Freely move an image or the source of sound to any spot within the range of the spell.
+
+!! Ghost Sound
+
+Many [[gnome]]s are innately able to cast the "sound" half of this cantrip; this spell is often referred to as "ghost sound".

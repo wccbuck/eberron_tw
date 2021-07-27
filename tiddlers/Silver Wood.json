@@ -1,0 +1,15 @@
+[
+    {
+        "created": "20210210013932064",
+        "title": "Silver Wood",
+        "text": "The Silver Wood is a small forest in the foothills of the [[Starpeaks]], spanning across the border of [[Aundair]] and [[Thrane]] near [[Thaliost]].",
+        "modified": "20210727192032084",
+        "tags": "forest Aundair Thrane Khorvaire",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polygons": "52.87,-2.34 52.92,-2.61 53.11,-2.85 53.34,-3.12 53.5,-3.43 53.73,-3.7 53.92,-3.75 54.27,-3.51 54.54,-3.4 54.81,-3.4 55.19,-3.28 55.49,-3.22 55.63,-2.79 55.66,-2.43 55.51,-2.09 55.26,-1.66 55.09,-1.39 54.82,-1.29 54.5,-1.2 54.31,-0.98 54.11,-1.0 53.92,-1.39 53.8,-1.74 53.6,-2.03 53.38,-2.16 53.08,-2.18",
+        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}"
+    }
+]

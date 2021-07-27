@@ -1,0 +1,11 @@
+caption: Add category
+condition: [<targetTiddler>type[]] [<targetTiddler>get[type]prefix[text/]] +[first[]]
+created: 20210108195705674
+description: Add tier
+dropdown: $:/ui/EditorToolbar/tier-dropdown
+icon: $:/core/images/storyview-pop
+modified: 20210727191953017
+shortcuts: ((tier))
+tags: $:/tags/EditorToolbar
+title: $:/ui/EditorToolbar/tier
+type: text/vnd.tiddlywiki

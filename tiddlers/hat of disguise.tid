@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20200512220056588
+modified: 20210727192012880
+rarity: 2
+tags: accessory
+title: hat of disguise
+type: text/vnd.tiddlywiki
+
+While wearing this hat, you can cast the [[disguise self]] spell at will. The spell ends if the hat is removed.
+
+<<<
+{{disguise self}}
+<<<

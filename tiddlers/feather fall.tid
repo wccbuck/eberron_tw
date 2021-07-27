@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20200430194057716
+modified: 20210727192008024
+tags: transmutation
+tier: 2
+title: feather fall
+type: text/vnd.tiddlywiki
+
+When this spell is cast on a falling creature, the creature's rate of descent slows to 10 feet per second for 1 minute (or until the spell ends by other means). If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.

@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210411215628527
+modified: 20210727192022821
+tags: necromancy
+tier: 3
+title: negative energy flood
+type: text/vnd.tiddlywiki
+
+You send ribbons of negative energy at one creature you can see within 60 feet. Unless the target is [[Mabar]]an [[undead]], it suffers searing pain as they are sapped of vitality. A target killed by this spell rises up as a [[zombie]] within 10-15 seconds. The zombie pursues whatever creature it can see that is closest to it.
+
+If you target a [[Mabar]]an [[undead]] with this spell, the target is healed rather than harmed.

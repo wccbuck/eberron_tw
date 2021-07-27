@@ -1,0 +1,11 @@
+category: object
+color: #41D5E1
+created: 20201208070940480
+modified: 20210727192041569
+rarity: 1
+tags: accessory [[warforged item]]
+title: wand sheath
+tooltip: warforged item, holds retractable wand
+type: text/vnd.tiddlywiki
+
+A wand sheath clamps onto a [[warforged]]'s arm and allows them to retract or extend a wand in less than a second. While extended, the wand is usable by the warforged, but their hand remains free.

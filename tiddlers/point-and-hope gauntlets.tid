@@ -1,0 +1,23 @@
+category: object
+color: #41D5E1
+created: 20210105233100592
+modified: 20210727192025273
+rarity: 3
+spell: meld into stone
+tags: accessory
+title: point-and-hope gauntlets
+type: text/vnd.tiddlywiki
+
+This pair of purple leather gauntlets are studded with colorful gems and strange runes. The [[artificer]] who designed them intended to create powerful, spell-enhancing gauntlets, but he didn't really know what he was doing and made these instead.
+
+Three times per day, the wearer can cast a completely random spell (cantrip, common, or rare [[tier|spell tier]]) on a chosen target. If the range of that spell is less than 30 feet, it becomes 30 feet. Any [[consequence]] also triggers a [[random magical effect]], as does any "dud" spell (such as casting [[awaken]] on a beast).
+
+<$button>
+<$action-chooserandom $filter="[category[spell]!tier[4]!tier[5]]" $field="spell"/>Random Spell
+</$button>
+
+<<<
+<$link to={{!!spell}}/>
+<<<
+
+{{random magical effect}}

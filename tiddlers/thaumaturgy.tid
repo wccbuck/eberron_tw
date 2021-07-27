@@ -1,0 +1,29 @@
+category: spell
+color: #B7A1E0
+created: 20210410004857760
+modified: 20210727192037127
+tags: [[divine magic]]
+tier: 1
+title: thaumaturgy
+type: text/vnd.tiddlywiki
+
+You manifest a minor wonder, a sign of supernatural power, within 30 feet. You create one of the following magical effects:
+
+* Your voice booms up to three times as loud as normal for 1 minute.
+* You cause flames to flicker, brighten, dim, or change color for 1 minute.
+* You cause harmless tremors in the ground for 1 minute.
+* You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
+* You instantaneously cause an unlocked door or window to fly open or slam shut.
+* You alter the appearance of your eyes for 1 minute.
+
+You can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
+
+!! Common-Tier
+
+When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you may have up to five of its 1-minute effects active at a time, and may do any of the following:
+
+* Change your voice to sound more angelic or more demonic for 1 minute. 
+* Amplify your voice up to four times as loud as normal for 1 minute.
+* Cause tremors strong enough to rattle objects without seriously damaging them.
+* Instantaneously open or close any number of unlocked doors and windows within 30 feet.
+* Extend the duration of any of this spell's cantrip-level effects to 1 hour.

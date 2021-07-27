@@ -1,0 +1,13 @@
+caption: Open
+created: 20210215062131545
+is-dropdown: yes
+modified: 20210727191952494
+tags: $:/tags/MenuBar
+title: $:/MenuBarOpenTiddlers
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+<$scrollable fallthrough="none" class="tc-menubar-dropdown-sidebar">
+<$list filter="[list<tv-story-list>]">
+<$link/><br/>
+</$list>

@@ -1,0 +1,13 @@
+category: object
+color: #41D5E1
+created: 20201210041700859
+modified: 20210727192041743
+rarity: 1
+tags: accessory [[dragonmark focus item]]
+title: warding brooch
+tooltip: common dragonmark focus item, allows Warding mark wielder to resist magic force
+type: text/vnd.tiddlywiki
+
+To use this brooch's effect, you must have the [[Mark of Warding]].
+
+While wearing this brooch, you are more resistant to magical force (e.g. [[force blast]], [[concussive burst]]), and you are immune to damage from the [[magic missile]] spell.

@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20210209000416245",
+        "title": "Tese Hills",
+        "text": "The Tese Hills in [[Syrkarn]] are a small chain of low mountains where the [[Qitha River]] has its headwaters. They form part of the border between [[Khunan]] and [[Lamecha]].",
+        "modified": "20210727192036891",
+        "tags": "Syrkarn mountains Sarlona",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "list-before": "Adder River",
+        "polygons": "6.77,176.3 6.64,176.78 6.36,177.41 6.07,177.88 5.83,178.39 5.98,178.93 6.54,179.19 7.0,179.59 7.02,180.1 7.0,180.6 7.19,180.99 7.27,181.43 7.11,182.08 7.04,182.66 6.98,183.2 7.16,183.61 7.36,183.92 7.63,183.85 7.98,183.3 8.55,182.91 8.57,182.1 8.73,181.45 8.91,180.95 9.12,180.36 9.59,179.84 9.79,179.39 9.61,178.9 9.65,178.36 9.66,177.9 9.4,177.53 9.08,177.09 8.74,176.52 8.49,175.9 8.26,175.4 7.82,175.24 7.51,175.51 7.06,175.9",
+        "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}"
+    }
+]

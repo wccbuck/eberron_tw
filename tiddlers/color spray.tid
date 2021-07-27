@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210414020202283
+modified: 20210727192001717
+tags: illusion
+tier: 2
+title: color spray
+type: text/vnd.tiddlywiki
+
+A dazzling array of flashing, colored light springs from your hand. Creatures in a 15-foot cone originating from you (ignoring unconscious creatures and creatures that can't see) may be blinded for the next 5-10 seconds by these dancing lights, prioritizing the creatures with the lowest [[creature tier]].

@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210428004656583
+modified: 20210727192007793
+tags: conjuration
+tier: 3
+title: faithful hound
+type: text/vnd.tiddlywiki
+
+You conjure a phantom watchdog in an unoccupied space that you can see within 30 feet, where it remains for 8 hours, until you dismiss it, or until you move more than 100 feet away from it. It remains fixed in place in the frame of reference you are in when you cast the spell.
+
+The hound is invisible to all creatures except you and can't be harmed. When a creature comes within 30 feet of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound has [[truesight]] and ignores [[illusion]]s.
+
+The hound attempts to bite creatures within 5 feet of it that are hostile to you. 

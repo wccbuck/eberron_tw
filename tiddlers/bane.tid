@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210412052639258
+modified: 20210727191956942
+tags: [[divine magic]]
+tier: 2
+title: bane
+type: text/vnd.tiddlywiki
+
+You choose up to three creatures that you can see within 30 feet. If they cannot resist your magic, for the next minute, whenever a target makes an attempt using a specific [[action]] or [[attribute]] (your choice), they have [[disadvantage]].
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target three additional creatures.

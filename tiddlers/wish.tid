@@ -1,0 +1,22 @@
+category: spell
+color: #B7A1E0
+created: 20201211174259686
+modified: 20210727192042772
+tags: conjuration
+tier: 5
+title: wish
+tooltip: mythical conjuration spell, alter the foundations of reality to match your desires
+type: text/vnd.tiddlywiki
+
+Wish is the mightiest [[spell]] a mortal creature can cast. By simply speaking aloud, you can alter the very foundations of reality in accord with your desires.
+
+The basic use of this spell is to duplicate <<showspells "any other spell">> that is legendary-tier or lower. Alternatively, you can achieve an endless variety of other effects, including:
+
+* Create one object of up to [[5000c|money]] in value, no more than 300 feet in any dimension.
+* Fully heal up to twenty creatures that you can see.
+* Grant up to ten creatures that you can see resistance to a specific magical effect.
+* Undo a single event within the last minute. Reality reshapes itself to accommodate the new result.
+
+...Or something beyond the scope of the above examples. State your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary [[magic item]] or artifact might instantly transport you to the presence of the item's current owner.
+
+The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, you suffer harm when casting spells for one day, and suffer fatigue, weakness and body aches that persist for <<dr 2d4>> days. Finally, there is a small chance that you are unable to cast wish ever again if you suffer this stress.

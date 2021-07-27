@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210505041023212
+modified: 20210727192004070
+tags: evocation
+tier: 4
+title: delayed blast fireball
+type: text/vnd.tiddlywiki
+
+A beam of yellow light flashes from your pointing finger, then condenses to linger at a chosen point within 150 feet as a glowing bead for up to 1 minute. When the spell ends, either because your concentration is broken or because you decide to end it, the bead blossoms with a low roar into an explosion of flame that spreads around corners. Each creature in a 20-foot-radius sphere centered on that point must dodge from the flames or be scorched.
+
+The spell's base damage is the same as a normal [[fireball]]. However, every 15-20 seconds that the glowing bead remains undetonated, its stored energy increases, and the eventual explosion becomes more powerful.
+
+If the glowing bead is touched before the interval has expired, the creature touching it will very likely cause the bead to erupt in flame immediately. However, if they have a deft hand, they may be able to throw the bead before it detonates. When it strikes a creature or a solid object, the spell ends, and the bead explodes.

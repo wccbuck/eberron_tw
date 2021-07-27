@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210110060125095
+modified: 20210727192041310
+tags: evocation
+tier: 3
+title: wall of fire
+type: text/vnd.tiddlywiki
+
+You create a wall of fire on a solid surface within 120 feet. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the up to 1 minute, or until your concentration is broken.
+
+When the wall appears, each creature within its area is scorched. 
+
+One side of the wall, selected by you when you cast this spell, deals fire damage to each creature that stands within 10 feet of that side. A creature also suffers fire damage when it enters the wall. The other side of the wall deals no damage.

@@ -1,0 +1,95 @@
+caption: Find Orgs
+created: 20210228202858619
+limit50: [limit[50]]
+modified: 20210727192008310
+tags: 
+title: Find Organizations
+type: text/vnd.tiddlywiki
+
+\define lingo-base() $:/language/Manager/
+\define results-count() $(count)$ results
+\define org-type() [tag:strict{$:/config/Manager/OrgType}!is[system]] [list{$:/config/Manager/OrgType}tagging[]category[organization]!is[system]]
+
+<div class="tc-manager-wrapper">
+	<div class="tc-manager-controls">
+		<div class="tc-manager-control">
+			<<lingo Controls/Search/Prompt>> <$edit-text tiddler="$:/config/Manager/Filter" tag="input" default="" placeholder={{$:/language/Manager/Controls/Search/Placeholder}}/>
+		</div>
+		<div class="tc-manager-control">
+			Organization type: <$select tiddler="$:/config/Manager/OrgType" default="">
+				<option value="">---</option>
+				<$list filter="[tag[organization type]!has[draft.of]sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			Tag 1: <$select tiddler="$:/config/Manager/OrgTag" default="">
+				<option value="">---</option>
+				<$list filter="[category[organization]subfilter<org-type>tag:strict{$:/config/Manager/OrgTag2}!tag{$:/config/Manager/ExcludeOrgTag}tags[]!regexp<capitalized>!title{$:/config/Manager/OrgType}] [category[organization]subfilter<org-type>tag:strict{$:/config/Manager/OrgTag2}!tag{$:/config/Manager/ExcludeOrgTag}tags[]!regexp<capitalized>is[missing]] [{$:/config/Manager/OrgTag}!is[blank]] +[sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+			&nbsp;Tag 2: <$select tiddler="$:/config/Manager/OrgTag2" default="">
+				<option value="">---</option>
+				<$list filter="[category[organization]subfilter<org-type>tag:strict{$:/config/Manager/OrgTag}!tag{$:/config/Manager/ExcludeOrgTag}tags[]regexp<capitalized>!title{$:/config/Manager/OrgType}] [category[organization]subfilter<org-type>tag:strict{$:/config/Manager/OrgTag}!tag{$:/config/Manager/ExcludeOrgTag}tags[]regexp<capitalized>is[missing]] 
+ [{$:/config/Manager/OrgTag2}!is[blank]] +[sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			Exclude tag: <$select tiddler="$:/config/Manager/ExcludeOrgTag" default="">
+				<option value="">---</option>
+				<$list filter="[category[organization]subfilter<org-type>tag:strict{$:/config/Manager/OrgTag}tag:strict{$:/config/Manager/OrgTag2}tags[]!title{$:/config/Manager/OrgType}] [category[organization]subfilter<loc-type>tag:strict{$:/config/Manager/OrgTag}tag:strict{$:/config/Manager/OrgTag2}tags[]is[missing]][{$:/config/Manager/ExcludeOrgTag}!is[blank]] +[sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			<<lingo Controls/Sort/Prompt>> <$select tiddler="$:/config/Manager/OrgSort" default="title">
+				<$list filter="title relevance" variable="field">
+					<option value=<<field>>><$text text=<<field>>/></option>
+				</$list>
+			</$select>
+			&nbsp;&nbsp;
+			<$checkbox tiddler="$:/config/Manager/OrgSortOrder" field="text" checked="reverse" unchecked="forward" default="forward">
+				<<lingo Controls/Order/Prompt>>
+			</$checkbox>
+		</div>
+		<div class="tc-manager-control">
+		<$button><<resetorgs>>Reset All Fields</$button> <$button>
+<$action-chooserandom $filter="[all{$:/config/Manager/Show}subfilter<org-type>category[organization]regexp<capitalized>!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/OrgTag}tag:strict{$:/config/Manager/OrgTag2}!tag{$:/config/Manager/ExcludeOrgTag}]" $nav="true"/>Open Random</$button>
+		</div>
+		<div class="tc-manager-control" align="right">
+			<$list filter={{$:/config/Manager/LimitOrg}} variable="count">
+				<<results-count>><br/>
+				<$checkbox tiddler= "$:/config/Manager/LimitOrg" field="limit50" checked="[limit[50]]" unchecked="[has[title]]" default="[limit[50]]">
+					Limit display to 50 results?
+				</$checkbox>
+			</$list>
+		</div>
+	</div>
+	<div class="tc-manager-list">
+		<table class="manager-table">
+		<tr><th align="left" class="th-sticky">Organization</th><th align="left" width="60%" class="th-sticky">Tags</th></tr>
+		<$list filter="[all{$:/config/Manager/Show}subfilter<org-type>category[organization]regexp<capitalized>!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/OrgTag}tag:strict{$:/config/Manager/OrgTag2}!tag{$:/config/Manager/ExcludeOrgTag}sort{$:/config/Manager/OrgSort}order{$:/config/Manager/OrgSortOrder}subfilter{$:/config/Manager/LimitOrg!!limit50}]">
+		<tr><td>{{!!article}}<$link/></td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+		</$list>
+		</table>
+		<$reveal type="match" state="$:/config/Manager/LimitOrg!!limit50" text="[limit[50]]">
+			<$button set="$:/config/Manager/LimitOrg!!limit50" setTo="[has[title]]">Show All Results</$button>
+		</$reveal>
+	</div>
+<style>
+	.tc-manager-list {border-style: none;}
+</style>

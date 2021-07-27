@@ -1,0 +1,67 @@
+category: organization
+color: #052c65
+created: 20210225045515159
+list-before: 
+modified: 20210727192014907
+title: intelligence agency
+type: text/vnd.tiddlywiki
+
+Intelligence agencies are often attached to governments or [[dragonmarked house]]s, gathering information on the activities and plans of rival nations, houses, and businesses. It's said the [[Last War]] was fought as much by spies as by armies. Espionage agencies in every nation sought secrets to bring military supremacy to their own lands and gain dominance over their neighbors. In the years since the end of the war, a clandestine struggle among these agencies (which the [[Korranberg Chronicle]] has dubbed the "Shadow War") has continued unabated, just outside of the public eye.
+
+!! Nations
+
+<ul>
+<$list filter="[tag[intelligence agency]tags[]tag[nation]] [tag[intelligence agency]tags[]tags[]tag[nation]] +[sort[title]]">
+<li>{{!!article}}<$link overrideClass="graylink"/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[intelligence agency]] [tag<currentTiddler>tagging[]tag[intelligence agency]tags[]tag<currentTiddler>category[location]] [tag<currentTiddler>tagging[]tag[intelligence agency]tags[]tag<currentTiddler>!title[intelligence agency]category[organization]] +[sort[title]]">
+<$list filter="[<currentTiddler>tag[intelligence agency]]" emptyMessage="""<li>{{!!article}}<$link overrideClass="graylink"/></li>""" variable="noop">
+<li>{{!!article}}<$link/></li></$list>
+<ul>
+<$list filter="[tag<currentTiddler>tag[intelligence agency]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[intelligence agency]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[intelligence agency]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+
+!! Dragonmarked Houses
+
+<ul>
+<$list filter="[tag[intelligence agency]tags[]tag[dragonmarked house]] +[sort[title]]">
+<li>{{!!article}}<$link overrideClass="graylink"/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[intelligence agency]] [tag<currentTiddler>tagging[]tag[intelligence agency]tags[]tag<currentTiddler>category[location]] [tag<currentTiddler>tagging[]tag[intelligence agency]tags[]tag<currentTiddler>!title[intelligence agency]category[organization]] +[sort[title]]">
+<$list filter="[<currentTiddler>tag[intelligence agency]]" emptyMessage="""<li>{{!!article}}<$link overrideClass="graylink"/></li>""" variable="noop">
+<li>{{!!article}}<$link/></li></$list>
+<ul>
+<$list filter="[tag<currentTiddler>tag[intelligence agency]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[intelligence agency]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[intelligence agency]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>

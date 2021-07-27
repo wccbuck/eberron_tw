@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210425054022056
+modified: 20210727192025868
+tags: enchantment
+tier: 4
+title: power word stun
+type: text/vnd.tiddlywiki
+
+You speak a word of power that can overwhelm the mind of one creature you can see within 60 feet, leaving it dumbfounded. If the target is [[creature tier]] <<showcreature-lteq "3 or less" 3>>, it is stunned for 10-30 seconds. Otherwise, the spell has no effect.

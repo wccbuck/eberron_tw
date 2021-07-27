@@ -1,0 +1,11 @@
+caption: Orgs
+created: 20210409214916076
+modified: 20210727191952562
+tags: 
+title: $:/MyOrgs
+type: text/vnd.tiddlywiki
+
+!!! Saved Organizations
+<$list filter="[list[My Stuff]category[organization]]">
+<$button><$action-listops $tiddler="My Stuff" $subfilter="-[<currentTiddler>]"/>X</$button> &nbsp;{{!!article}}<$link><<currentTiddler>></$link><br/>
+</$list>

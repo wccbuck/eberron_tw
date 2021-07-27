@@ -1,0 +1,15 @@
+[
+    {
+        "created": "20210121074842041",
+        "title": "Gaala River",
+        "text": "The Gaala River in [[Adar]] flows into the [[Jathara Sound]] near [[Kasshta Keep]].",
+        "modified": "20210727192009421",
+        "tags": "Adar river Sarlona",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polylines": "10.16,189.91 10.16,189.58 10.36,189.36 10.7,189.28 11.15,189.21 11.54,188.92 11.54,188.37 11.47,187.84 11.21,187.66",
+        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
+    }
+]

@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20201210052926085
+modified: 20210727192034415
+tags: conjuration
+tier: 3
+title: stinking cloud
+type: text/vnd.tiddlywiki
+
+You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point within 100 feet. The cloud spreads around corners, and its area is heavily obscured. The cloud lingers in the air for 1-10 minutes, or until dispersed by a strong wind.
+
+Each creature in the cloud that can't withstand the poison immediately stops everything and starts retching and reeling. Creatures that don't need to breathe or are immune to poison aren't affected.

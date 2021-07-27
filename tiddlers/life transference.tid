@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210521025741231
+modified: 20210727192018790
+tags: [[divine magic]] necromancy
+tier: 3
+title: life transference
+type: text/vnd.tiddlywiki
+
+You sacrifice some of your health to mend another creature's injuries. You suffer necrotic damage, and one creature of your choice that you can see within 30 feet rapidly recovers from injury (with increased [[impact]]).

@@ -1,0 +1,99 @@
+created: 20201208004157407
+limit50: [limit[50]]
+modified: 20210727192008289
+tags: 
+title: Find Items
+type: text/vnd.tiddlywiki
+
+\define lingo-base() $:/language/Manager/
+\define results-count() $(count)$ results
+
+See also the [[magic item]] and [[trinket]] pages.
+
+<div class="tc-manager-wrapper">
+	<div class="tc-manager-controls">
+		<div class="tc-manager-control">
+			<<lingo Controls/Search/Prompt>> <$edit-text tiddler="$:/config/Manager/Filter" tag="input" default="" placeholder={{$:/language/Manager/Controls/Search/Placeholder}}/>
+		</div>
+		<div class="tc-manager-control">
+			[[Rarity|rarity]]:&nbsp;
+                <$vars tid="$:/config/Manager/Rarity", fld="rarity", list="range[0,5]">
+			    <$select tiddler=<<tid>> field="comparison" actions=<<comp-actions>>>
+				<option>≤</option>
+				<option>=</option>
+				<option>≥</option>
+			</$select>
+			<$select tiddler=<<tid>> field=<<fld>>>
+				<$list filter="[range[0,5]]" variable="st">
+					<option value=<<st>>><$transclude tiddler="RarityNames" index=<<st>>/></option>
+				</$list>
+			</$select>
+			</$vars>
+            &nbsp;&nbsp;<$checkbox tiddler="$:/config/Manager/Rarity0" field="text" unchecked="[!rarity[0]]" checked="[is[tiddler]]">&nbsp;Include "—"</$checkbox>
+		</div>
+		<div class="tc-manager-control">
+			<<lingo Controls/FilterByTag/Prompt>> <$select tiddler="$:/config/Manager/ObjectTag" default="">
+				<option value="">---</option>
+				<$list filter="[category[object]has[rarity]tags[]sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			Exclude tag: <$select tiddler="$:/config/Manager/ExcludeObjectTag" default="">
+				<option value="">---</option>
+				<$list filter="[category[object]has[rarity]tags[]sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			<<lingo Controls/Sort/Prompt>> <$select tiddler="$:/config/Manager/ObjectSort" default="title">
+				<$list filter="title rarity relevance" variable="field">
+					<option value=<<field>>><$text text=<<field>>/></option>
+				</$list>
+			</$select>
+			&nbsp;&nbsp;
+			<$checkbox tiddler="$:/config/Manager/ObjectSortOrder" field="text" checked="reverse" unchecked="forward" default="forward">
+				<<lingo Controls/Order/Prompt>>
+			</$checkbox>
+		</div>
+		<div class="tc-manager-control">
+		<$button><<resetobjects>>Reset All Fields</$button> <$button>
+<$action-chooserandom $filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/ObjectTag}!tag{$:/config/Manager/ExcludeObjectTag}subfilter{$:/config/Manager/Rarity}subfilter{$:/config/Manager/Rarity0}category[object]]" $nav="true"/>Open Random</$button>
+		</div>
+		<div class="tc-manager-control" align="right">
+			<$list filter={{$:/config/Manager/LimitObject}} variable="count">
+				<<results-count>><br/>
+				<$checkbox tiddler= "$:/config/Manager/LimitObject" field="limit50" checked="[limit[50]]" unchecked="[has[title]]" default="[limit[50]]">
+					Limit display to 50 results?
+				</$checkbox>
+			</$list>
+		</div>
+	</div>
+	<div class="tc-manager-list">
+		<table class="manager-table">
+		<tr><th align="left" class="th-sticky">Item</th><th align="left" width="100px" class="th-sticky">Rarity</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+		<$list filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/ObjectTag}!tag{$:/config/Manager/ExcludeObjectTag}subfilter{$:/config/Manager/Rarity}subfilter{$:/config/Manager/Rarity0}category[object]sort[title]order{$:/config/Manager/ObjectSortOrder}sort{$:/config/Manager/ObjectSort}order{$:/config/Manager/ObjectSortOrder}subfilter{$:/config/Manager/LimitObject!!limit50}]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="RarityNames" index={{!!rarity}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+		</$list>
+		</table>
+		<$reveal type="match" state="$:/config/Manager/LimitObject!!limit50" text="[limit[50]]">
+			<$button set="$:/config/Manager/LimitObject!!limit50" setTo="[has[title]]">Show All Results</$button>
+		</$reveal>
+	</div>
+<style>
+	.tc-manager-list {border-style: none;}
+</style>

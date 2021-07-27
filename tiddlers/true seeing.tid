@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210412040334704
+modified: 20210727192039217
+tags: divination [[divine magic]]
+tier: 3
+title: true seeing
+type: text/vnd.tiddlywiki
+
+This spell (which requires and consumes [[2c|money]] worth of material components to cast) gives the willing creature you touch the ability to see things as they actually are. For ten minutes, the creature has [[truesight]], notices secret doors hidden by magic, and can see into the [[Border Ethereal|etherealness]], all out to a range of 30 feet.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you can cast the spell on up to two additional targets (spending 2c on components per target). Also, the duration extends to 1 hour, and the range of the truesight extends to 120 feet.

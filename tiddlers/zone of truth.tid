@@ -1,0 +1,13 @@
+category: spell
+color: #B7A1E0
+created: 20201210231611215
+modified: 20210727192043960
+tags: enchantment [[divine magic]]
+tier: 2
+title: zone of truth
+tooltip: spell that compels honesty
+type: text/vnd.tiddlywiki
+
+You create a magical zone that guards against deception in a 15-foot-radius sphere centered on a point of your choice within 60 feet. Until the spell ends up to 10 minutes later, a creature that can't resist the enchantment can't speak a deliberate lie while in the spell's area. You know whether each creature succeeds or fails in resisting the spell.
+
+An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.

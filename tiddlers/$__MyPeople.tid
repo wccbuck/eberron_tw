@@ -1,0 +1,11 @@
+caption: People
+created: 20210409214817299
+modified: 20210727191952572
+tags: 
+title: $:/MyPeople
+type: text/vnd.tiddlywiki
+
+!!! Saved People and Entities
+<$list filter="[list[My Stuff]subfilter<ppl-ent>]">
+<$button><$action-listops $tiddler="My Stuff" $subfilter="-[<currentTiddler>]"/>X</$button> &nbsp;{{!!article}}<$link><<currentTiddler>></$link><br/>
+</$list>

@@ -1,0 +1,36 @@
+category: creature
+color: #EA868F
+created: 20210112073611930
+modified: 20210727192043518
+tags: yuan-ti humanoid monstrosity
+tier: 1
+title: yuan-ti pureblood
+type: text/vnd.tiddlywiki
+y_eye1: red
+y_hskin1: light brown
+y_pure: 2 1
+y_puredouble: 4
+y_sc1: black and brown
+y_sp1: mottled
+y_tongue1: a red
+
+Purebloods form the lowest caste of [[yuan-ti]] society. They closely resemble humans, yet a pureblood can't pass for human under close scrutiny because there's always some hint of its true nature, such as scaly patches of skin, serpentine eyes, pointed teeth, or a forked tongue. Wearing cloaks and cowls, they masquerade as humans and infiltrate civilized lands to gather information, kidnap prisoners for interrogation and sacrifice, and trade with anyone who has something that can further their myriad plots.
+
+Purebloods are able to communicate with snakes at will, and many are capable of casting [[suggestion]] up to three times per day.
+
+<<<
+''Generate Pureblood Appearance''
+
+<$button>
+<$action-chooserandom $dataTiddler="$:/YTHumanSkinColor" $field="y_hskin1"/><$action-chooserandom $dataTiddler="$:/YTTongueColor" $field="y_tongue1"/>
+<$action-chooserandom $dataTiddler="$:/YTEyeColor" $field="y_eye1"/>
+<$action-chooserandom $filter="[range[6]]" $field="y_pure" $number="2" $opt="none"/>
+<$action-chooserandom $filter="[range[7]]" $field="y_puredouble"/>
+<$action-chooserandom $dataTiddler="$:/YTScaleColor" $field="y_sc1"/>
+<$action-chooserandom $dataTiddler="$:/YTScalePattern" $field="y_sp1"/>
+Generate
+</$button>
+
+''Pureblood:'' The yuan-ti closely resembles a human with {{!!y_hskin1}} skin, {{!!y_tongue1}} <$list filter="[all[current]get[y_pure]split[ ]nth[1]search[2]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[2]]" variable="noop">forked </$list>tongue<$list filter="[all[current]get[y_pure]split[ ]nth[1]search[1]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[1]]" variable="noop"> behind snakelike fangs</$list>, and <$list filter="[all[current]get[y_pure]split[ ]nth[1]search[3]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[3]]" variable="noop">serpentine </$list>{{!!y_eye1}} eyes. <$list filter="[subfilter{!!y_pure_scaly}nth[1]]" variable="noop">Despite otherwise smooth human-like skin, the yuan-ti also has patches of {{!!y_sp1}} {{!!y_sc1}} scales on its<$list filter="[all[current]get[y_pure]split[ ]nth[1]search[5]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[5]]" variable="noop"> face<$list filter="[all[current]get[y_pure]split[ ]nth[1]search[4]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[4]]" variable="noop">,</$list><$list filter="[all[current]get[y_pure]split[ ]nth[1]search[6]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[6]]" variable="noop"> and</$list></$list><$list filter="[all[current]get[y_pure]split[ ]nth[1]search[6]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[6]]" variable="noop"> torso<$list filter="[all[current]get[y_pure]split[ ]nth[1]search[4]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[4]]" variable="noop">,</$list></$list><$list filter="[all[current]get[y_pure]split[ ]nth[1]search[4]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[4]]" emptyMessage="." variable="noop"> arms and hands.</$list></$list>
+
+<<<

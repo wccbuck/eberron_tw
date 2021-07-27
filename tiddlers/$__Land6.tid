@@ -1,0 +1,8 @@
+category: location
+created: 20210319062600394
+modified: 20210727191952414
+polygons: 75.34,-130 75.34,230 71.57,230 71.57,-130|-75.34,230 -75.34,-130 -71.57,-130 -71.57,230
+style: {"fillColor":"#E5E6E1","fillOpacity":1,"weight":0}
+tags: $:/Background
+title: $:/Land6
+type: text/vnd.tiddlywiki

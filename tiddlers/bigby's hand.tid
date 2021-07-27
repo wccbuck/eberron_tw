@@ -1,0 +1,22 @@
+category: spell
+color: #B7A1E0
+created: 20210422170525932
+modified: 20210727191957726
+tags: psionics evocation
+tier: 3
+title: bigby's hand
+type: text/vnd.tiddlywiki
+
+You create a large hand of shimmering, translucent force in an unoccupied space that you can see within 120 feet. The hand lasts for up to a minute (or until your concentration breaks), and it moves at your command, mimicking the movements of your own hand.
+
+The hand is an object that can be attacked and can be damaged; when it is incapacitated, the spell ends. As long as the spell is active, you can move the hand around and cause any of the following effects with the hand:
+
+//''Clenched Fist.''// The hand strikes a creature or object within 5 feet of it, dealing force damage on a hit.
+
+//''Forceful Hand.''// The hand attempts to push an adjacent creature in a direction you choose. 
+
+//''Grasping Hand.''// The hand attempts to grapple an adjacent creature. While the hand is grappling the target, you can attempt to have the hand crush it.
+
+//''Interposing Hand. ''//The hand interposes itself between you and a creature you choose until you give the hand a different command. The hand moves to stay between you and the target, providing you with partial cover against the target. The target must be [[creature tier]] ''3'' or greater and have great physical strength (like a [[cloud giant]] or an adult [[dragon]]) to push through the hand.
+
+If casting this spell as a [[psionics]] manifestation, you can flavor each of these effects as telekinesis.

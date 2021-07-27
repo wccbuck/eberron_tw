@@ -1,0 +1,20 @@
+category: spell
+color: #B7A1E0
+created: 20210428044454708
+modified: 20210727191954303
+tags: transmutation
+tier: 3
+title: animate objects
+type: text/vnd.tiddlywiki
+
+Objects come to life at your command. Choose up to four nonmagical objects (or groups of tiny objects, like bags of ball bearings or drawers of silverware) within 120 feet that are not being worn or carried. These objects must not have any dimension longer than 5 feet. Alternatively, choose one nonmagical object with a longest dimension between 5 and 15 feet. Each target animates and becomes a hovering [[construct]] creature under your control until the spell ends (10 minutes, or until your concentration breaks) or until the object is destroyed or otherwise incapacitated, at which point it reverts to a mundane object. An animated group of tiny objects acts as a single "swarm" creature. You can't animate an object with any dimension longer than 15 feet.
+
+|!Longest Dimension |!Number Animated |![[Creature Tier|creature tier]] |
+|less than 5 feet | 4 | 1 |
+|between 5 and 15 feet| 1 | 2 |
+
+You can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may animate up to eight small objects, two large objects, or one large and four small objects.

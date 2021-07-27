@@ -1,0 +1,27 @@
+created: 20201218024811695
+modified: 20210727191953010
+tags: 
+title: $:/ui/EditorToolbar/category-dropdown
+type: text/vnd.tiddlywiki
+
+\define toolbar-button-category-inner()
+<$button tag="a">
+
+<$action-sendmessage $message="tm-add-field"
+$name="category"
+$value="$(snippetTitle)$"/>
+
+<$action-deletetiddler
+	$tiddler=<<dropdown-state>>
+/>
+
+<$view tiddler=<<snippetTitle>> field="title" mode="inline"/>
+
+</$button>
+\end
+
+<$list filter="[each[category]get[category]sort[]]" variable="snippetTitle">
+
+<<toolbar-button-category-inner>>
+
+</$list>

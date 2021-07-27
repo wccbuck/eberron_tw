@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20210207212115814",
+        "title": "Blade Desert",
+        "text": "The Blade Desert is a vast region that stretches across [[Valenar]] and the [[Talenta Plains]], from the [[Mournland]] to the [[Ironroots|Ironroot Mountains]] and [[Endworld Mountains]]. Every year, the desert seems to creep farther into the grasslands of the [[Talenta Plains]].\n\nIn addition to the natural dangers of any desert, strips of the Blade Desert are touched by the [[plane]]s. [[Manifest zone|manifest zone]]s bound to [[Fernia]] are filled with unearthly heat and furnace winds. Fearsome flaywinds tear across areas bound to [[Shavarath]], and it's said that the ghosts of fallen warriors—[[Dhakaan]]i [[hobgoblin]]s and other soldiers who have died in the desert—haunt these regions. A good guide can avoid these treacherous areas, and possibly even find a [[Lamannia]]n oasis within the burning sands. But traveling blind is a deadly business; a few tales even speak of unlucky wanderers who entered the desert only to end up on [[Shavarath]] itself.",
+        "modified": "20210727191958070",
+        "tags": "Khorvaire desert",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "list-before": "Adder River",
+        "polygons": "48.47,30.79 48.16,30.56 47.76,29.74 47.5,29.35 47.23,28.93 46.95,28.55 46.66,28.21 46.28,28.02 45.85,28.02 45.59,27.94 45.32,27.65 44.94,27.25 44.66,26.95 44.32,26.48 43.96,26.24 43.54,26.01 43.14,25.66 42.93,25.38 42.58,25.27 42.2,25.05 41.89,24.72 41.53,24.59 41.02,24.32 40.62,24.34 40.1,24.61 39.75,24.79 39.24,24.86 38.83,24.96 38.58,25.22 38.14,25.3 37.94,25.11 37.75,24.73 37.54,24.28 37.4,23.7 36.99,23.43 36.56,23.12 36.09,22.67 35.7,21.96 35.54,21.44 35.48,20.88 35.64,20.49 35.75,19.79 36.02,19.0 36.01,18.25 36.1,17.58 35.75,17.14 35.13,16.59 34.68,16.38 34.12,15.94 33.79,15.47 33.38,15.05 33.29,14.51 33.57,13.99 33.74,13.43 34.0,12.84 34.18,12.38 34.46,12.08 34.81,11.76 35.19,11.65 35.56,11.71 35.92,11.82 36.22,11.92 36.56,12.17 36.73,12.47 37.02,12.75 37.41,12.97 37.69,13.13 38.15,13.19 38.49,13.4 38.78,13.84 39.08,14.08 39.24,14.48 39.16,14.89 39.03,15.41 39.11,15.85 39.57,16.34 39.83,16.56 40.09,17.03 40.15,17.52 40.11,17.9 40.04,18.56 40.26,19.07 40.67,19.44 41.13,19.77 41.51,20.18 41.84,20.77 42.12,21.53 42.34,22.05 42.69,22.51 43.01,22.77 43.47,23.0 43.99,23.34 44.55,23.86 44.9,24.31 45.21,24.82 45.47,25.24 45.77,25.49 46.15,25.86 46.47,26.16 46.79,26.4 47.14,26.7 47.46,26.9 47.8,27.19 48.08,27.57 48.38,27.81 48.73,27.79 49.25,27.74 49.78,27.62 50.29,27.58 50.98,27.77 51.5,27.9 51.99,27.76 52.37,27.7 52.4,27.89 52.25,28.25 51.96,28.61 51.63,28.97 51.37,29.04 50.92,28.95 50.47,28.93 50.1,29.1 49.72,29.4 49.47,29.86 49.14,30.29 48.81,30.63",
+        "style": "{\"color\":\"#C57200\",\"fillColor\":\"#eedb74\",\"fillOpacity\":\"0.5\"}"
+    }
+]

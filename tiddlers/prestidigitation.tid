@@ -1,0 +1,27 @@
+category: spell
+color: #B7A1E0
+created: 20200428222316448
+modified: 20210727192025946
+tags: transmutation
+tier: 1
+title: prestidigitation
+type: text/vnd.tiddlywiki
+
+This spell is a minor magical trick that novice [[wizard]]s and [[artificer]]s use for practice. You create one of the following magical effects within 10 feet:
+
+* You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+* You instantaneously light or snuff out a candle, a torch, or a small campfire.
+* You instantaneously clean or soil an object no larger than 1 cubic foot.
+* You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+* You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+* You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts for a few seconds.
+
+You can have up to three of these effects active at one time.
+
+!! Common-Tier
+
+When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, the range of the spell increases to 30 feet, and you may have up to five non-instantaneous effects active at a time. In addition, you may do any of the following: 
+
+* Dry any willing creature within range.
+* Clean/soil/flavor/chill/warm an object up to 5 cubic feet; the effect lasts for two hours.
+* Create a trinket or illusory image that can fit in a 1-foot cube; the effect lasts for a few minutes.

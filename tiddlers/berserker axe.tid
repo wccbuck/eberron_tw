@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20201227173803180
+modified: 20210727191957638
+rarity: 3
+tags: weapon cursed
+title: berserker axe
+type: text/vnd.tiddlywiki
+
+This magic axe is an extremely fine weapon, enchanted to pierce armor and improve the wielder's own vitality.
+
+This axe is ''cursed'', and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have [[disadvantage]] when using weapons other than this one.
+
+Whenever a hostile creature damages you while the axe is in your possession, you have a chance of going berserk. While berserk, you must continuously attack the creature nearest to you with the axe, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until there are no creatures within 60 feet of you that you can see or hear.

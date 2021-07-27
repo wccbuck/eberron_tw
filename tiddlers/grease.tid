@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210428002311516
+modified: 20210727192011336
+tags: conjuration
+tier: 2
+title: grease
+type: text/vnd.tiddlywiki
+
+Slick grease covers the ground in a 10-foot square centered on a point within 60 feet and lasts for 1 minute.
+
+When the grease appears, each creature standing in its area must struggle to maintain its balance or fall prone. A creature that tries to move through the area must do so slowly and carefully, and still might end up slipping and falling.
+
+Alternatively, this spell can be cast on a creature or object, causing it to become extremely slippery for 1 minute. A creature has a chance to dodge the spell.

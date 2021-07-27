@@ -1,0 +1,18 @@
+created: 20200214002759566
+modified: 20210727191951983
+title: $:/core/ui/AlertTemplate
+type: text/vnd.tiddlywiki
+
+<div class="tc-alert">
+<div class="tc-alert-toolbar">
+<$button class="tc-btn-invisible"><$action-deletefield $tiddler=<<currentTiddler>> tags/><$action-deletetiddler $tiddler="$:/temp/DiceNewRoll"/>{{$:/core/images/close-button}}</$button>
+</div>
+<div class="tc-alert-subtitle">
+<$view field="component"/> <$reveal type="nomatch" state="!!count" text=""><span class="tc-alert-highlight">({{$:/language/Count}}: <$view field="count"/>)</span></$reveal>
+</div>
+<div class="tc-alert-body">
+
+<$transclude/>
+
+</div>
+</div>

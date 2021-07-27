@@ -1,0 +1,17 @@
+category: object
+color: #41D5E1
+created: 20201210054803586
+modified: 20210727192026118
+rarity: 2
+tags: tool [[dragonmark focus item]]
+title: prospector's wand
+tooltip: uncommon dragonmark focus item, allows Finding mark wielder to locate items, creatures, or natural resources
+type: text/vnd.tiddlywiki
+
+This Y-shaped wand, bearing the emblem of the [[Mark of Finding]], has stored magical power that can be expended to enhance the power of someone wielding that [[dragonmark]]. The wand can be used 3-8 times before it needs to be recharged overnight.
+
+You can expend this power instead of your own energy in order to:
+
+* Sense the direction a specific object familiar to you, as long as it is within 1000 feet of you.
+* As above, but for a specific creature. This counts as two uses of the wand.
+* Sense the direction and distance of a specific beast, plant, or mineral within five miles. When you cast this spell, you can specify the minimum quantity of that beast, plant, or mineral that you wish the spell to find within a 30-foot-radius sphere, such as “at least 3 pounds of Eberron [[dragonshard]]s” or “at least five deer.” You learn the direction and distance to the closest occurrence in that concentration, if any are present.

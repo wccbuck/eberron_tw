@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210504192639351
+modified: 20210727192006477
+tags: evocation [[primal magic]]
+tier: 2
+title: earth tremor
+type: text/vnd.tiddlywiki
+
+You cause a tremor in the ground within 10 feet. Each creature other than you in that area must keep their balance or else fall prone and/or suffer bludgeoning damage. If the ground in that area is loose earth or stone, it becomes difficult to traverse until the rubble is cleared.

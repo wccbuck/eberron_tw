@@ -1,0 +1,95 @@
+created: 20210302070815292
+modified: 20210727192008331
+tags: 
+title: Find Places
+type: text/vnd.tiddlywiki
+
+\define lingo-base() $:/language/Manager/
+\define results-count() $(count)$ results
+\define loc-type() [tag:strict{$:/config/Manager/LocationType}!is[system]] [list{$:/config/Manager/LocationType}tagging[]category[location]!is[system]]
+
+See also <$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tiddler="$:/state/tab/sidebar--595412856" text="Map"/>Map</$button>.
+
+<div class="tc-manager-wrapper">
+	<div class="tc-manager-controls">
+		<div class="tc-manager-control">
+			<<lingo Controls/Search/Prompt>> <$edit-text tiddler="$:/config/Manager/Filter" tag="input" default="" placeholder={{$:/language/Manager/Controls/Search/Placeholder}}/>
+		</div>
+		<div class="tc-manager-control">
+			Location type: <$select tiddler="$:/config/Manager/LocationType" default="">
+				<option value="">---</option>
+				<$list filter="[tag[location type]sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			Tag 1: <$select tiddler="$:/config/Manager/LocationTag" default="">
+				<option value="">---</option>
+				<$list filter="[category[location]subfilter<loc-type>tag:strict{$:/config/Manager/LocationTag2}!tag{$:/config/Manager/ExcludeLocationTag}tags[]!regexp<capitalized>!title{$:/config/Manager/LocationType}] [category[location]subfilter<loc-type>tag:strict{$:/config/Manager/LocationTag2}!tag{$:/config/Manager/ExcludeLocationTag}tags[]!regexp<capitalized>is[missing]] [{$:/config/Manager/LocationTag}!is[blank]] +[sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+			&nbsp;Tag 2: <$select tiddler="$:/config/Manager/LocationTag2" default="">
+				<option value="">---</option>
+				<$list filter="[category[location]subfilter<loc-type>tag:strict{$:/config/Manager/LocationTag}!tag{$:/config/Manager/ExcludeLocationTag}tags[]regexp<capitalized>!title{$:/config/Manager/LocationType}] [category[location]subfilter<loc-type>tag:strict{$:/config/Manager/LocationTag}!tag{$:/config/Manager/ExcludeLocationTag}tags[]regexp<capitalized>is[missing]] 
+ [{$:/config/Manager/LocationTag2}!is[blank]] +[sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			Exclude tag: <$select tiddler="$:/config/Manager/ExcludeLocationTag" default="">
+				<option value="">---</option>
+				<$list filter="[category[location]subfilter<loc-type>tag:strict{$:/config/Manager/LocationTag}tag:strict{$:/config/Manager/LocationTag2}tags[]!title{$:/config/Manager/LocationType}] [category[location]subfilter<loc-type>tag:strict{$:/config/Manager/LocationTag}tag:strict{$:/config/Manager/LocationTag2}tags[]is[missing]][{$:/config/Manager/ExcludeLocationTag}!is[blank]] +[sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
+		</div>
+		<div class="tc-manager-control">
+			<<lingo Controls/Sort/Prompt>> <$select tiddler="$:/config/Manager/LocationSort" default="title">
+				<$list filter="title relevance" variable="field">
+					<option value=<<field>>><$text text=<<field>>/></option>
+				</$list>
+			</$select>
+			&nbsp;&nbsp;
+			<$checkbox tiddler="$:/config/Manager/LocationSortOrder" field="text" checked="reverse" unchecked="forward" default="forward">
+				<<lingo Controls/Order/Prompt>>
+			</$checkbox>
+		</div>
+		<div class="tc-manager-control">
+		<$button><<resetplaces>>Reset All Fields</$button> <$button>
+<$action-chooserandom $filter="[all{$:/config/Manager/Show}subfilter<loc-type>category[location]!is[system]regexp<capitalized>!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/LocationTag}tag:strict{$:/config/Manager/LocationTag2}!tag{$:/config/Manager/ExcludeLocationTag}]" $nav="true"/>Open Random</$button>
+		</div>
+		<div class="tc-manager-control" align="right">
+			<$list filter={{$:/config/Manager/LimitLocations}} variable="count">
+				<<results-count>><br/>
+				<$checkbox tiddler= "$:/config/Manager/LimitLocations" field="limit50" checked="[limit[50]]" unchecked="[has[title]]" default="[limit[50]]">
+					Limit display to 50 results?
+				</$checkbox>
+			</$list>
+		</div>
+	</div>
+	<div class="tc-manager-list">
+		<table class="manager-table">
+		<tr><th align="left" class="th-sticky">Location</th><th align="left" width="60%" class="th-sticky">Tags</th></tr>
+		<$list filter="[all{$:/config/Manager/Show}subfilter<loc-type>category[location]!is[system]regexp<capitalized>!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/LocationTag}tag:strict{$:/config/Manager/LocationTag2}!tag{$:/config/Manager/ExcludeLocationTag}sort{$:/config/Manager/LocationSort}order{$:/config/Manager/LocationSortOrder}subfilter{$:/config/Manager/LimitLocations!!limit50}]">
+		<tr><td>{{!!article}}<$link/></td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+		</$list>
+		</table>
+		<$reveal type="match" state="$:/config/Manager/LimitLocations!!limit50" text="[limit[50]]">
+			<$button set="$:/config/Manager/LimitLocations!!limit50" setTo="[has[title]]">Show All Results</$button>
+		</$reveal>
+	</div>
+<style>
+	.tc-manager-list {border-style: none;}
+</style>

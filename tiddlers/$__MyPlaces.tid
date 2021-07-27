@@ -1,0 +1,11 @@
+caption: Places
+created: 20210409214951124
+modified: 20210727191952581
+tags: 
+title: $:/MyPlaces
+type: text/vnd.tiddlywiki
+
+!!! Saved Places
+<$list filter="[list[My Stuff]category[location]]">
+<$button><$action-listops $tiddler="My Stuff" $subfilter="-[<currentTiddler>]"/>X</$button> &nbsp;{{!!article}}<$link><<currentTiddler>></$link><br/>
+</$list>

@@ -1,0 +1,18 @@
+category: phenomenon
+color: #432874
+created: 20200415172030671
+modified: 20210727192020598
+tags: dragonmark
+title: Mark of Warding
+type: text/vnd.tiddlywiki
+
+The Mark of Warding helps its bearers protect things of
+value. Using the mark, a [[dwarf]] can weave wards with
+mystic force. It also provides its bearer with an intuitive
+understanding of locks used to protect and seal. 
+
+Only a [[dwarf]] with ties to House [[Kundarak]] can manifest this [[dragonmark]].
+
+!! {{!!title}} [[Focus Items|dragonmark focus item]]
+
+<<list-links-article "[tag[dragonmark focus item]search::casesensitive{!!title}!search:title[dragonmark]!search:title[channeling]]">>

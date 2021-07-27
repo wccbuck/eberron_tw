@@ -1,0 +1,67 @@
+category: object
+color: #41D5E1
+created: 20201209022900097
+modified: 20210727191958174
+rarity: 1
+tags: [[alchemical explosive]] weapon
+title: blast disk
+type: text/vnd.tiddlywiki
+
+A blast disk holds destructive arcane power. A typical blast
+disk is about nine inches in diameter and one inch thick, made
+from layers of different metal; [[dragonshard]]s are embedded in
+the surface of the disk and arcane symbols are engraved in its
+surface. Most blast disks are explosive (see below), but others can store different magical effects. Knowledge in arcana is necessary for a person examining a spell-effect blast disk in order to identify the spell effect contained within the disk.
+
+There are three elements to a blast disk: the trigger, payload,
+and charge. Each effect is selected at the time it is created.
+
+//''Trigger.''// A spellcaster touching a blast disk can choose
+to activate it. However, generally you don't want to be holding
+a blast disk when it goes off. A blast disk can be created with
+one of the following triggers, or with a more complex trigger of
+the creator's choosing (e.g. to detonate when a certain word is
+spoken, when a specific object comes within range, etc.):
+
+* ''Time. ''When the disk is activated, the user can set a time delay of up to 10 minutes before it releases its effect.
+* ''Proximity.'' 30 seconds after the disk is activated, it can trigger when someone comes within a certain distance of the disk or when someone first makes contact with the disk, then breaks that contact.
+* ''Impact.'' The activated disk can be set to detonate on impact, then used by throwing or dropping it.
+
+//''Payload.''// When a common explosive blast disk is triggered, it creates an explosion in a 20-foot radius centered on the disk. More rare and expensive spell-effect blast disks produces a magical effect when triggered, chosen when it was manufactured.
+
+''//Charge.//'' A typical blast disk holds a single charge, the
+[[dragonshard]]s shattering when the effect is triggered. However,
+more advanced blast disks recharge at dawn; this increases the
+rarity of the disk by one category.
+
+!
+
+The blast disk is the most common form of magical explosive
+used in the [[Five Nations]]. While blast disks serve a similar
+role to bombs or landmines, they can produce a wide range of
+magical effects; a blast disk could trigger a burst of confusion
+and start a riot, or summon a rampaging [[elemental]] into a
+crowded town square.
+
+All nations employed blast disks during the [[Last War]]; when
+exploring abandoned battlefields, untriggered blast disks are
+an ongoing threat. While all nations used simple force or fire
+explosions, there were a few variations tied to specific nations:
+
+* [[Aundair]] made extensive use of high-powered blast disks; they were infamous for [[dragonhawk]] squads equipped with [[cloudkill]] disks.
+* [[Breland]] utilized the base model of explosive disks.
+* [[Cyre]] experimented with psychoactive effects—confusion, fear, and explosions that dealt psychic damage.
+* During the ascendancy of the [[Blood of Vol]], [[Karrnath]] created disks that first dealt necrotic damage, then inflicted effects that killed victims with the initial explosion then animated the corpses to prey on survivors.
+* [[Thrane]] developed blast disks that dealt radiant damage—a useful tool against Karrnathi [[undead]]. Toward the end of the war, Thrane was working on disks that created a column of searing light that lasted for a minute or more.
+
+While the basic blast disk is a common [[magic item]], under
+the [[Code of Galifar]], they're illegal for civilians to own or carry.
+House [[Cannith]] manufactures blast disks, but won't sell them
+to civilians (at least, not openly). So if you're looking for a blast
+disk, you'll need to have criminal connections or build your own.
+
+More powerful blast disks can be created to serve the
+needs of a particular story. A powerful explosive disk could
+have a radius of hundreds of feet instead of just twenty, while
+a [[cloudkill]] disk could unleash a force that expands as it moves
+and lingers for hours or days.

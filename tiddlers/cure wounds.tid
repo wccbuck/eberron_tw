@@ -1,0 +1,16 @@
+category: spell
+color: #B7A1E0
+created: 20210410045222285
+modified: 20210727192002944
+tags: [[divine magic]] [[primal magic]]
+tier: 2
+title: cure wounds
+type: text/vnd.tiddlywiki
+
+The spellcaster touches a wounded ally, and their wounds begin to close, their injuries rapidly closing. This spell has no effect on [[undead]] or [[construct]]s (but does affect [[deathless]] and [[warforged]]).
+
+This spell is similar to [[healing word]]. Healing word can be cast from a distance, but cure wounds results in more substantial healing, and can be cast quietly.
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, a wave of healing energy washes out from you. Up to six creatures within 30 feet of you rapidly recover from injury.

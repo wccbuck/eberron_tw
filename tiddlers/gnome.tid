@@ -1,0 +1,93 @@
+category: creature
+color: #EA868F
+created: 20200414230807420
+modified: 20210727192010826
+tags: humanoid
+tier: 1
+title: gnome
+type: text/vnd.tiddlywiki
+var: common
+
+//Five words can defeat a thousand swords. //
+
+<div align="right">—Zil proverb</div>
+
+The average gnome has a love of knowledge that borders on obsession, a curiosity that admits no limits, and a vast collection of potentially useful information on every personal acquaintance. Most gnomes detest physical violence and prefer to solve their problems with words—whether that's a [[bard]]'s eloquent persuasion, a [[wizard]]'s
+words of power, or a rogue's careful threat. They give an initial impression as friendly busybodies, always ready to lend a hand or share a story, while asking questions that tend toward the slightly-too-personal. Often, though, a cheerful and amiable gnome is methodically adding to a mental storehouse of knowledge that might one day provide important leverage. 
+
+Gnomes are between 3 and 4 feet tall and average about 40 pounds. They mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
+
+Many gnomes have an innate ability to conjure small illusory sounds, equivalent to the audible version of the [[lesser illusion]] cantrip. Some gnomes are able to use these "ghost sound"s to communicate simple ideas to tiny beasts, such as squirrels, badgers, and woodpeckers, and keep such animals as pets.
+
+!! Gnomes of Zilargo
+
+To say that every [[Zil|Zilargo]] gnome is a ruthless schemer would
+be a hurtful exaggeration. Intrigue is the favorite pastime of most Zil, though. Every gnome child of Zilargo is taught to manipulate and deceive, and by the time
+they reach adulthood most have been involved in dozens
+of schemes and feuds, some of which persist well into
+adulthood. Even a gnome with a good heart and noble
+goals—of which there are many—often still prefers to
+use trickery and cunning rather than the unreliable
+tools of honesty or brute force.
+
+The gnomes' natural talent for [[illusion]] aids them in trickery and
+entertaining, and they often use small animals as messengers and guides.
+When you're making a Zil gnome character, consider
+what kinds of schemes you or your family might be
+involved in. The table below offers some suggestions, but you should feel free to elaborate on these schemes, even to absurd extremes. 
+
+| !<<dr d10>> |!Scheme |
+| 1 |Your family is working on a new form of [[elemental binding]], but they need a lot of Khyber [[dragonshard]]s. |
+| 2 |You have an anonymous contact who sends you missions via the [[sending]] spell. When you do as you're asked, you receive handsome rewards. |
+| 3 |You've inherited a plot of land in [[Q'barra]]. If you don't visit within a year, you'll lose the claim. |
+| 4 |Due to an unusual twist of [[Triumvirate]] law, you share the same name with a number of other Zil, and you're all legally considered to be the same person. |
+| 5 |You've acquired a [[spellshard]] that contains a vast amount of text in a strange code. |
+| 6 |You know the location of a wanted war criminal, and you've been trying to decide whether to turn them in or try to get something in exchange for your silence. |
+| 7 |You've been selling false treasure maps, but now you've found one that might be real. |
+| 8 |You've acquired a controlling stake in a [[dragonshard]] mine, which was abandoned long ago. But why? [[Kobold|kobold]]s? [[Aberration|aberration]]s? There's only one way to find out! |
+| 9 |Your family is facing financial ruin, and they've taken out a life insurance policy on you. It only pays out if you die under unusual circumstances, and they're encouraging you to seek out more dangerous adventures. |
+| 10 |You're peddling a life-extension scheme where clients are petrified by a [[medusa]] and then restored later. |
+
+Additionally, consider your relationship to [[Zilargo]]:
+why you have left, and what ties do you still have to it?
+Your scheme could provide a good reason for you to
+leave. Or you could be a sage gathering information
+for the [[Library of Korranberg]] or an investigator sending stories of your adventures back to the [[Korranberg Chronicle]]. Family is important to the Zil, and you could
+be pursuing your family's interests. You could even be
+working for the mysterious [[Trust]], the conspiracy behind
+the [[Triumvirate]]'s throne that quietly maintains order
+in Zilargo. If you are working for the Trust, you could
+have a specific mission, but you could also be a sleeper
+agent—gathering information and allies until you're activated and you are put to your intended use.
+
+//''Zil Names.''// Zil society is divided into major houses,
+each of which is composed of multiple families. Each
+gnome carries the name of a house and of a family in addition to a personal name. For example, [[Alina Lorridan Lyrris]] and Tallian Talius Lyrris are members of different families (Lorridan and Talius) within House Lyrris. Gnome names are long and lyrical; a Zil proverb claims "the sweetest song is the name of a friend." Personal and clan names are usually at least three syllables long, and there is a strong tradition of alliteration. 
+
+!! Gnomes of the Five Nations
+
+As they have for countless generations, insatiable curiosity and endless opportunity draw gnomes from
+Zilargo into the wider lands of [[Khorvaire]]. Most of these
+dispersed gnomes find new homes and integrate easily
+into local cultures. Gnomes can be found in any walk of life, whether they be as merchants, [[magewright]]s, scholars, or scoundrels. While the gnomes of the [[Five Nations]] aren't as inherently devious as their Zil cousins,
+they share the Zil emphasis on the importance of family.
+
+As a gnome character from the Five Nations, you
+might have a network of connections to the community
+your grew up in, likely built on the exchange of information. Alternatively, you might seek your own path in life,
+avoiding the intrigues your cousins adore. 
+
+See also [[Lorghalan]], if you're looking to play a [[bard]] or [[druid]] and want no connection to the schemes and secrets of the [[Zil|Zilargo]].
+
+!! Gnomes and Dragonmarks
+
+The [[Mark of Scribing]] appears among the gnomes of
+House [[Sivis]]. The gnomes of this house were among
+the first of their kind to leave [[Zilargo]] and live in human
+lands. They love bureaucracy and intrigue as much as
+the gnomes of their homeland, but they have carefully
+cultivated a reputation for impartiality and secrecy,
+since their services rely on trust.
+
+Today, House Sivis provides avenues of communication across [[Khorvaire]]. Translation, mediation, interpreting, and legal advocacy all fall within House Sivis's
+broad purview, and they maintain the network of [[message stations|speaking stone]] that allow cross-continent communication. 

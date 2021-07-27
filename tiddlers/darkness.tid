@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20201228041712480
+modified: 20210727192003600
+tags: evocation
+tier: 2
+title: darkness
+type: text/vnd.tiddlywiki
+
+Magical darkness spreads from a point you choose within 60 feet to fill a 15-foot-radius sphere for up to 10 minutes. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it.
+
+If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
+
+If any of this spell's area overlaps with an area of light created by a cantrip (such as [[light]]), the spell that created the light is dispelled.

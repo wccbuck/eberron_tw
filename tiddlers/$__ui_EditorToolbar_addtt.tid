@@ -1,0 +1,10 @@
+caption: Add tooltip
+condition: [<targetTiddler>type[]] [<targetTiddler>get[type]prefix[text/]] +[first[]]
+created: 20201223034027432
+description: Add tooltip
+dropdown: $:/ui/EditorToolbar/addtt-dropdown
+icon: $:/core/images/spiral
+modified: 20210727191952978
+tags: $:/tags/EditorToolbar
+title: $:/ui/EditorToolbar/addtt
+type: text/vnd.tiddlywiki

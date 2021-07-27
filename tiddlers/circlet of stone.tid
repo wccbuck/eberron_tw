@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20210103201917022
+modified: 20210727192000891
+rarity: 3
+tags: accessory
+title: circlet of stone
+type: text/vnd.tiddlywiki
+
+This copper circlet is set with a sphere of polished granite. The wearer can cast [[meld into stone]].
+
+<<<
+{{meld into stone}}
+<<<

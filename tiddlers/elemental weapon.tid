@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210507203244163
+modified: 20210727192006898
+tags: [[divine magic]] transmutation
+tier: 3
+title: elemental weapon
+type: text/vnd.tiddlywiki
+
+A nonmagical weapon you touch becomes a magic weapon for up to 1 hour. Choose one of the following damage types: acid, cold, fire, or lightning. While your spell lasts, the weapon has improved [[impact]], dealing extra damage of the chosen type when it hits.

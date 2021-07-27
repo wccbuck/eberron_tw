@@ -1,0 +1,11 @@
+color: #092F1E
+created: 20210302044723988
+list: city town settlement [[dragonborn clanhold]] feyspire
+modified: 20210727192030448
+tags: [[location type]]
+title: settlement
+type: text/vnd.tiddlywiki
+
+<$list filter="[list{!!title}sort[title]]">
+<$macrocall $name="tag" text={{!!title}}/>
+</$list>

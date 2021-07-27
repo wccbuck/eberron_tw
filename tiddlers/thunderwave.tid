@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210410044900930
+modified: 20210727192037805
+tags: [[primal magic]] evocation
+tier: 2
+title: thunderwave
+type: text/vnd.tiddlywiki
+
+A wave of thunderous force sweeps out from you. Each creature in a 15-foot cone originating from you must resist that wave or else suffer damage and get pushed 10 feet away from you. 
+
+In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.

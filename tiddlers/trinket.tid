@@ -1,0 +1,34 @@
+category: object
+color: #41D5E1
+created: 20210602173917791
+modified: 20210727192039070
+rarity: 0
+tags: tool
+title: trinket
+type: text/vnd.tiddlywiki
+var: A [[glamerweave]] soft-brimmed hat; wearing it colors the wearer in shades of monochrome as if viewed through [[darkvision]]
+
+\define changedyes() <$action-setfield $tiddler="$:/TrinketTableName" changed="yes"/>
+\define tablename() {{!!caption}} ({{{ [<currentTiddler>indexes[]count[]] }}})
+A trinket is a simple item lightly touched by mystery. It could be a story hook, a key to a puzzle, or a mere curiosity. Click the button below to generate a random trinket. (The "Sora Esma" tables contain many trinkets directly pertaining to Eberron locations and lore.)
+
+Select Trinket Table: <$select tiddler="$:/TrinketTableName" default="" actions=<<changedyes>>>
+<$list filter="[tag[trinket]!has[draft.of]sort[caption]]">
+    <option value=<<currentTiddler>>><<tablename>></option>
+</$list>
+</$select>
+
+<$button>
+<$list filter="[title[$:/TrinketTableName]text[$:/AllTrinketTables]changed[yes]then[Yes]]">
+<$wikify name="att" text="""<$list filter="[tag[trinket]!title[$:/AllTrinketTables]!has[draft.of]]">{{!!text}}
+</$list>""">
+<$action-setfield $tiddler="$:/AllTrinketTables" text=<<att>>/>
+<$action-setfield $tiddler="$:/TrinketTableName" changed="no"/>
+</$wikify>
+</$list>
+<$action-chooserandom $dataTiddler={{$:/TrinketTableName}} $field="var"/>
+Generate Trinket</$button>
+
+<<<
+''Trinket: '' {{!!var}}
+<<<

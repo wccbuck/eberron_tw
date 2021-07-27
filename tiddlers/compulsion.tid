@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210427181739173
+modified: 20210727192001821
+tags: enchantment
+tier: 3
+title: compulsion
+type: text/vnd.tiddlywiki
+
+Creatures of your choice that you can see within 30 feet and that can hear you and can be charmed must resist your enchantment or else be affected by this spell. Until the spell ends (up to a minute, or sooner if your concentration breaks), every few seconds, you can designate a direction that is horizontal to you. Each affected target must immediately move in that direction as fast as it can. It can act normally otherwise. After moving in this way, it can attempt to shake off the effect.
+
+A target isn't compelled to move into an obviously deadly hazard, such as a fire or deep pit, but less lethal threats do not stop the creature's compelled movement.

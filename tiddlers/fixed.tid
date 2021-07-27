@@ -1,0 +1,9 @@
+color: #075157
+created: 20201208060957233
+modified: 20210727192008606
+title: fixed
+type: text/vnd.tiddlywiki
+
+This tag indicates a [[magic item]] or other object that is installed in place, as opposed to a portable, personal item.
+
+<<list-links-article "[tag{!!title}sort[title]]">>

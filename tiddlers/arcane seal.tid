@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210428065158732
+modified: 20210727191954609
+tags: abjuration
+tier: 3
+title: arcane seal
+type: text/vnd.tiddlywiki
+
+You touch a closed door, window, gate, chest, or other entryway, and it becomes magically sealed (as an [[arcane lock]]) and tied to a mystical [[alarm]] until it is dispelled. The focus of the spell is a platinum key worth [[5c|money]]; this key is mystically bound to the target of the spell and cannot be used again. The bearer of the key may freely pass the arcane seal without affecting it. Otherwise, it is impassable until it is broken or the spell is [[dispelled|dispel magic]] or suppressed. Casting [[knock]] on the object suppresses arcane seal for 10 minutes. If the target is opened in any matter while not suppressed, or if the seal is dispelled, the bearer of the key receives a mental alert: a single word, set when the spell is cast. An [[arcane key]] can be used to temporarily disable the alarm.

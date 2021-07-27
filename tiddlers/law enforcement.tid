@@ -1,0 +1,34 @@
+category: organization
+color: #052c65
+created: 20210225041401276
+list-before: 
+modified: 20210727192018465
+title: law enforcement
+type: text/vnd.tiddlywiki
+
+<ul>
+<$list filter="[tag[law enforcement]tags[]tag[nation]] [tag[law enforcement]tags[]tags[]tag[nation]] [tag[law enforcement]tags[]tag[dragonmarked house]] +[sort[title]]">
+<li>{{!!article}}<$link overrideClass="graylink"/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[law enforcement]] [tag<currentTiddler>tagging[]tag[law enforcement]tags[]tag<currentTiddler>category[location]] [tag<currentTiddler>tagging[]tag[law enforcement]tags[]tag<currentTiddler>!title[law enforcement]category[organization]] +[sort[title]]">
+<$list filter="[<currentTiddler>tag[law enforcement]]" emptyMessage="""<li>{{!!article}}<$link overrideClass="graylink"/></li>""" variable="noop">
+<li>{{!!article}}<$link/></li></$list>
+<ul>
+<$list filter="[tag<currentTiddler>tag[law enforcement]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[law enforcement]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[law enforcement]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>

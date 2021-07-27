@@ -1,0 +1,125 @@
+category: miscellaneous
+created: 20201222081940370
+modified: 20210727192041777
+tags: Sharn
+title: Wards of Sharn
+type: text/vnd.tiddlywiki
+
+[[Sharn]] is a vertical city, and elevation is an indicator of
+status and wealth. Each quarter is roughly divided into
+three levels, and the combination of quarter and level
+defines a ward. Thus, wards have names such as [[Lower Dura]], [[Upper Central]], and [[Middle Menthis]].
+
+Upper wards are the domain of the rich and powerful. Here you'll find the finest goods and the most expensive services. Only those who maintain a wealthy or aristocratic lifestyle can easily afford the prices for meals and lodging, and adventurers who maintain a squalid or wretched lifestyle might be treated with disdain.
+
+Violence is rare in any of the upper wards, and the
+[[Sharn Watch]] actively patrols these areas. Although
+the guards here might be corrupt just as in a middle or
+lower ward, they're already being well paid by powerful
+nobles and criminal organizations, and they work efficiently in the service of these forces.
+
+Middle wards are home to the middle classes. Here
+you'll find bustling markets and taverns, along with a
+wide range of entertainment and housing. Most goods
+and services are affordable by those of a modest or
+comfortable lifestyle, with a few higher-priced options
+tucked away. The Sharn Watch has a presence, but not
+as strong as in the upper wards.
+
+Lower wards house the hard-working laborers, along
+with the destitute and the desperate, including refugees
+who lost everything in the war and orphans who never
+had anything to begin with. Services priced for a modest lifestyle can be found, but overall the lower wards are
+home to those who have no better than a poor lifestyle;
+a visitor who displays signs of a wealthy or aristocratic
+lifestyle might attract unwanted attention. The watch
+pays little attention to the lower districts, making them a
+haven for criminals and gangs.
+
+These are stereotypes that don't apply to all wards.
+Dura is a particularly poor quarter, meaning that Upper Dura is effectively a middle ward in economic terms;
+similarly, because Central Plateau is a hub of wealth
+and power, Lower Central is effectively a middle ward.
+
+Each ward is further subdivided into districts, which
+are neighborhoods defined by an economic role, a separate culture, or both. For example, [[Lower Northedge]]
+includes the districts of [[Stoneyard]], [[Longstairs]], and
+[[North Market]]. It's generally true that the combination of
+a district's ward and quarter will give you a broad idea
+of what to expect there. A district in [[Upper Central]] will
+typically be well kept and swarming with guards, while
+a district in [[Lower Dura]] will be squalid and dangerous. 
+
+!! Getting Around
+
+Sharn is an enormous city, and traveling on foot from
+one side of the city to the other can be time-consuming.
+Here are some travel-time guidelines:
+
+* It takes at least 30 minutes to cross a ward.
+* If you're traveling between wards, add 30 minutes for each ward you pass through.
+* [[Dura]] and [[Tavick's Landing]] are especially large; double the time it takes to move through one of them.
+
+For instance, traveling from [[Lower Menthis]] to [[Upper Central]] involves passing through three wards (taking a bridge from Lower Menthis to [[Lower Central]], then
+ascending two levels) and can take 90 minutes or longer.
+
+Not all the quarters are linked to one another by
+bridges. The connections that do exist include these:
+
+* [[Central Plateau]] has bridges that lead to [[Northedge]] and [[Menthis|Menthis Plateau]].
+* [[Dura]] is connected to [[Tavick's Landing]] and Menthis.
+* Tavick's Landing is connected to Dura, Menthis, and [[Northedge]]. 
+* Menthis is connected to Tavick's Landing, Dura, and Central.
+* Northedge is connected to Central and Tavick's Landing.
+
+Traveling from district to district involves the use of
+bridges and ramps, along with magic lifts—vast floating
+disks that slowly ascend and descend along threads of
+mystical energy. Lifts are mainly used to move cargo
+and can be up to 30 feet in diameter. Most lifts have rails
+but aren't fully enclosed; if combatants fight on a lift,
+someone falling or being pushed off the edge is always a
+possibility.
+
+<<<
+Alternative walking travel time guideline: 15 minutes per district, including ones connected by bridge. 
+
+Example: [[Clifftop]] to [[Deathsgate]]. 
+
+:''Path 1:'' [[Clifftop]] → [[Hope's Peak]] → [[Redstone]] → [[Daggerwatch]] → [[Highhold]] → [[Sunrise]] → [[Ocean View]] → [[Dalan's Refuge]] →(down)→ [[Deathsgate]] (8 districts, 8*15=120 minutes)
+
+:''Path 2:'' [[Clifftop]] → [[Hope's Peak]] → [[Redstone]] → [[Daggerwatch]] →(bridge)→ [[Ivy Towers]] → [[University District]] → [[Platinate]] →(bridge)→ [[Dalan's Refuge]] →(down)→ [[Deathsgate]] (8 districts, 8*15=120 minutes)
+
+<<<
+
+For a speedier journey through the streets, House [[Orien]] manages a system of carriages for hire. Taking an Orien carriage cuts travel time in half and costs a negligible fee ([[0.02c|money]]) per district. Flight is, of course, the fastest way to get around in Sharn, cutting travel time down to one-sixth of the walking pace (2.5 minutes per district). It's also more expensive, at 0.05c per district, and each mount can hold only one person, as opposed to four in a carriage (not including the driver). The most common form of aerial transport is the [[skycoach]], but many flying mounts, including [[hippogriff]]s, [[griffon]]s, [[glidewing]]s,
+and [[giant owl]]s, can be found for hire around the city. 
+
+!! Important Districts
+
+|!&nbsp; |![[Central Plateau]] |![[Dura]] |![[Menthis Plateau]] |![[Northedge]] |![[Tavick's Landing]] |
+|![[Upper|upper ward]] |[[Highest Towers]], [[Korranath]], [[Mithral Tower]], [[Platinum Heights]], [[Skysedge Park]] |[[Clifftop]], [[Daggerwatch]], [[Highhold]], [[Highwater]], [[Hope's Peak]], [[Overlook]] |[[Den'iyas]], [[Ivy Towers]], [[Seventh Tower]], [[University District]] |[[Crystal Bridge]], [[Oak Towers]], [[Shae Lias]] |[[Copper Arch]], [[Ocean View]], [[Silvergate]], [[Sunrise]], [[Twelve Pillars]] |
+|![[Middle|middle ward]] |[[Ambassador Towers]], [[Dragon Towers]], [[Sovereign Towers]], [[Sword Point]], [[Tradefair]] |[[The Bazaar|Bazaar]], [[Broken Arch]], [[Hareth's Folly]], [[Rattlestone]], [[Stormhold]], [[Tumbledown]], [[Underlook]] |[[Cassan Bridge]], [[Everbright]], [[Little Plains]], [[Smoky Towers]], [[Warden Towers]] |[[High Hope]], [[Holdfast]] |[[Cornerstone]], [[Deathsgate]], [[Grawand]], [[Tavick's Market]] |
+|![[Lower|lower ward]] |[[Boldrei's Hearth]], [[Olladra's Kitchen]] |[[Callestan]], [[Fallen]], [[Gate of Gold]], [[Malleon's Gate]], [[Oldkeep]], [[Precarious]], [[The Stores|Stores]] |[[Downstairs]], [[Firelight]], [[Torchfire]] |[[Longstairs]], [[North Market]], [[Stoneyard]] |[[Black Arch]], [[Cogsgate]], [[Dragoneyes]], [[High Walls]], [[Terminus]], [[Wroann's Gate]] |
+|!The [[Cogs]] |[[Ashblack]], [[Blackbones]], [[Khyber's Gate]] |<|<|<|<|
+
+Above the city: [[Skyway]]<br/>
+[[Cliffside]] (on the banks of the [[Dagger|Dagger River]], bordering [[Dura]]): [[Grayflood]], [[Mud Caves]], [[Sharn's Welcome]], [[Ship's Towers]]
+
+To see all locations in Sharn in a complete bulleted list, see [[Locations in Sharn]].
+
+!! Dungeons of Sharn
+
+[[Sharn]] boasts countless opportunities for adventurers.
+You can get caught up in espionage in [[Upper Central]] or
+drawn into a crime war in [[Lower Dura]]. Aside from the
+intrigues and politics of the city, Sharn has a wide range
+of cursed ruins, haunted slums, shunned catacombs,
+and other dangerous places. Wise folk avoid these areas, but those whose hunger for adventure outweighs
+their good sense might do the opposite. 
+
+* The [[City of the Dead]]
+* [[Old Sharn]]
+* [[Fallen]]
+* [[Khyber's Gate]]
+* The [[Sewers|Sewers of Sharn]]

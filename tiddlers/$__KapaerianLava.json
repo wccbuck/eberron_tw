@@ -1,0 +1,15 @@
+[
+    {
+        "created": "20210222212006185",
+        "title": "$:/KapaerianLava",
+        "text": "",
+        "modified": "20210727191952344",
+        "tags": "lava",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "linkto": "Mount Kapaerian",
+        "polygons": "-8.77,-70.17 -8.93,-69.75 -9.52,-69.32 -9.53,-68.72 -9.33,-68.37 -8.56,-68.23 -8.39,-67.89 -8.05,-68.31 -7.62,-68.39 -7.58,-69.01 -7.51,-69.6 -7.88,-70.01",
+        "style": "{\"color\":\"#B82D14\",\"fillColor\":\"#B82D14\",\"fillOpacity\":\"0.5\"}"
+    }
+]

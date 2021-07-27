@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20201231191809711
+modified: 20210727192039206
+tags: [[divine magic]]
+tier: 5
+title: true resurrection
+type: text/vnd.tiddlywiki
+
+This spell requires a one-hour ritual and [[2500c|money]] worth of ritual components, which are expended.
+
+You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. If the creature's soul is free and willing, the creature is restored to life.
+
+This spell closes all wounds, neutralizes any poison, cures all diseases, and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs and limbs. If the creature was [[undead]], it is restored to its non-undead form.
+
+The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
+
+Performing this spell is risky; drawing a spirit back from [[Dolurrh]] might catch the attention of a Dolurrhi [[marut]], or even bring back the wrong spirit, causing a ghost to manifest or ending up with a hostile personality in your friend's body. This is why [[Jorasco]] healers capable of resurrection typically cast [[augury]] first, and will refuse service if the result is "woe". For more information, see the "Concerning Resurrection" section of [[Dolurrh]].

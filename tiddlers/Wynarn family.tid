@@ -1,0 +1,23 @@
+category: organization
+color: #9EC5FE
+created: 20210301204834148
+modified: 20210727192043031
+tags: tribe Khorvaire human
+title: Wynarn family
+type: text/vnd.tiddlywiki
+
+The royal family of the now fractured kingdom of [[Galifar]], the Wynarns are the descendants of the [[Galifar I|Galifar Wynarn]]. 
+
+Note that the "ir" prefix for nobility did not come to pass until after the time of Galifar Wynarn and his children.
+
+!! Monarchs of Galifar
+
+<<list-links-article "[tag{!!title}category[person]tag[Galifar]article[King ]] [tag{!!title}category[person]tag[Galifar]article[Queen ]] +[sort[title]]">>
+
+!! Monarchs of the Five Nations
+
+<<list-links-article "[tag{!!title}category[person]!tag[Galifar]article[King ]] [tag{!!title}category[person]!tag[Galifar]article[Queen ]] +[sort[title]]">>
+
+!! Other Wynarns
+
+<<list-links-article "[tag{!!title}category[person]!article[Queen ]!article[King ]sort[title]]">>

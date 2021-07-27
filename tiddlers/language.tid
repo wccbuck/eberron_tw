@@ -1,0 +1,25 @@
+category: culture
+color: #0F5132
+created: 20210408165007631
+modified: 20210727192018230
+tags: 
+title: language
+type: text/vnd.tiddlywiki
+
+!! Mortal Languages
+
+These languages developed naturally on Eberron from mortal cultures. Many of these were heavily influenced by [[immortal]] languages.
+
+!!! Major Languages
+
+<<list-links-article "[tag{!!title}category[culture]!tag[immortal]var[major]sort[title]]">>
+
+!!! Minor Languages
+
+<<list-links-article "[tag{!!title}category[culture]!tag[immortal]!var[major]sort[title]]">>
+
+!! Immortal Languages
+
+The languages of [[immortal]]s are part of the fundamental structure of reality. As such, most words of power, including magic [[spell]]s that require a verbal component, are taken from these languages. These languages existed at the dawn of time and do not change (with the exception of [[Deep Speech]], which is constantly changing).
+
+<<list-links-article "[tag{!!title}category[culture]tag[immortal]sort[title]]">>

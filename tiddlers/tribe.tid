@@ -1,0 +1,32 @@
+color: #052c65
+created: 20210225043215950
+modified: 20210727192039013
+tags: [[organization type]]
+title: tribe
+type: text/vnd.tiddlywiki
+
+<ul>
+<$list filter="[tag[tribe]] -[tag[tribe]tagging[]] +[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[tribe]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[tribe]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[tribe]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[tribe]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>

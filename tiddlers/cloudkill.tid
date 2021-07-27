@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20201210053239153
+modified: 20210727192001528
+tags: conjuration
+tier: 3
+title: cloudkill
+type: text/vnd.tiddlywiki
+
+The spellcaster creates a 20-foot-radius sphere of acidic, yellow-green fog centered on a point within 100 feet. The fog spreads around corners, and its area is heavily obscured. The fog lasts for 1-10 minutes, or until dispersed by a strong wind. The vapors are heavier than air and roll along the surface of the ground.
+
+Each creature in the cloud that can't withstand the effects of the fog suffers painful acid burns. Creatures are affected even if they hold their breath or don't need to breathe.

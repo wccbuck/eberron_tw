@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20201210011509193
+modified: 20210727192000230
+tags: necromancy
+tier: 2
+title: cause fear
+type: text/vnd.tiddlywiki
+
+This spell awakens the sense of mortality in the target creature, causing it to become deathly terrified. The spellcaster chooses a creature (but not an [[undead]] or [[construct]]) within 60 feet; if the creature lacks resolve, it will be filled with fear for up to a minute.

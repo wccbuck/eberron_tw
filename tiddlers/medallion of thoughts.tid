@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20201227044224226
+modified: 20210727192020953
+rarity: 2
+tags: accessory
+title: medallion of thoughts
+type: text/vnd.tiddlywiki
+
+While wearing this medallion, you can cast the [[detect thoughts]] spell from it, up to three times per day.
+
+<<<
+{{detect thoughts}}
+<<<

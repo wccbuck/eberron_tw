@@ -1,0 +1,13 @@
+caption: Sort Search Results
+created: 20210621191414929
+modified: 20210727191952273
+tags: $:/tags/ControlPanel/Settings
+title: $:/eberron-tw/ControlPanel/Settings/SearchSort
+type: text/vnd.tiddlywiki
+
+<$link to="$:/config/SearchSort">Search Sort</$link>
+
+<$select tiddler="$:/config/SearchSort">
+<option>title</option>
+<option>relevance</option>
+</$select>

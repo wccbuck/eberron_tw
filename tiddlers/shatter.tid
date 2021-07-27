@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210412191838491
+modified: 20210727192031241
+tags: evocation
+tier: 2
+title: shatter
+type: text/vnd.tiddlywiki
+
+A sudden loud ringing noise, painfully intense, erupts from a point of your choice within 60 feet. Each creature in a 10-foot-radius sphere centered on that point takes damage. A creature made of inorganic material such as stone, crystal, or metal takes extra damage. Nonmagical objects in the spell's area that aren't being worn or carried also take the damage.

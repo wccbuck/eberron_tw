@@ -1,0 +1,37 @@
+2d4: 2
+category: phenomenon
+color: #432874
+created: 20210108063641067
+d10: 8
+d20: 10
+d35: 15
+d4: 3
+d50: 20
+d7: 1
+duration: 1 minute
+effect: One of target's arms is bent like a shepherd's crook for the next {{!!duration}}.
+l_duration: 24 hours
+modified: 20210727192027129
+s_duration: 1 second
+tags: 
+title: random magical effect
+type: text/vnd.tiddlywiki
+
+<$button>
+<$action-chooserandom $dataTiddler="RandomMagicEffect" $field="effect"/>
+<$action-chooserandom $dataTiddler="RandomShortDuration" $field="s_duration"/>
+<$action-chooserandom $dataTiddler="RandomDuration" $field="duration"/>
+<$action-chooserandom $dataTiddler="RandomLongDuration" $field="l_duration"/>
+<$action-chooserandom $filter="[range[4]]" $field="d4"/>
+<$action-chooserandom $filter="[range[7]]" $field="d7"/>
+<$action-chooserandom $filter="[range[10]]" $field="d10"/>
+<$action-chooserandom $filter="2 3 3 4 4 4 5 5 5 5 6 6 6 7 7 8" $field="2d4"/>
+<$action-chooserandom $filter="5 10 15 20" $field="d20"/>
+<$action-chooserandom $filter="5 10 15 20 25 30 35" $field="d35"/>
+<$action-chooserandom $filter="5 10 15 20 25 30 35 40 45 50" $field="d50"/>
+Random Magical Effect
+</$button>
+
+<<<
+{{!!effect}}
+<<<

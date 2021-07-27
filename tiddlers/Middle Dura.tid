@@ -1,0 +1,53 @@
+category: location
+color: #96CC39
+created: 20200414042203759
+modified: 20210727192021389
+polygons: 22.31,-24.63 22.28,-24.64 22.23,-24.66 22.21,-24.66 22.19,-24.66 22.16,-24.66 22.13,-24.67 22.1,-24.68 22.08,-24.69 22.05,-24.69 22.02,-24.69 21.99,-24.7 21.96,-24.71 21.93,-24.71 21.89,-24.71 21.84,-24.71 21.82,-24.7 21.79,-24.69 21.77,-24.67 21.75,-24.66 21.73,-24.65 21.7,-24.64 21.68,-24.62 21.72,-24.59 21.73,-24.61 21.77,-24.61 21.78,-24.62 21.82,-24.63 21.86,-24.63 21.9,-24.62 21.94,-24.62 21.97,-24.62 21.99,-24.6 22.02,-24.58 22.05,-24.56 22.08,-24.56 22.1,-24.54 22.13,-24.54 22.16,-24.53 22.19,-24.5 22.21,-24.48 22.23,-24.46 22.26,-24.44 22.28,-24.43 22.28,-24.45 22.29,-24.48 22.28,-24.51 22.28,-24.54 22.28,-24.57 22.29,-24.59 22.29,-24.62
+style: {"color":"#902532","fillColor":"#8E0024","fillOpacity":"0.1"}
+tags: Dura [[middle ward]] ward Sharn
+title: Middle Dura
+type: text/vnd.tiddlywiki
+
+Middle Dura caters to the working class. Its taverns are
+modestly priced, but there's gold among the dross.
+
+The [[Bazaar]] of Dura is the largest commercial district in [[Sharn]]. In addition to the dozens of permanent
+shops and smithies, the streets of the bazaar are an ever-changing tapestry of stalls and tents. It's said that you
+can find anything here, if you're not too worried about
+where it came from and if you're prepared to contend
+with the cutpurses that prey on the crowds.
+
+A small selection of merchants that regularly do business at the bazaar is given on the table below; roll a <<dr d10>>, or choose a location of interest. 
+
+| !<<dr d10>> |!Merchant |
+| 1 |''Secondhand Strings.'' A must-stop shop for the [[bard]] on a budget, with a variety of gently used instruments. |
+| 2 |''Korryn's Quill.'' A reliable source for cartographers, calligraphers, and scribes of all stripes. See [[Korryn]]. |
+| 3 |''Seven Leagues.'' Owned by the cobbler Boots, this small stall has a remarkable selection of footwear. |
+| 4 |''Borran's Blades.'' Borran is one of the few [[halfling]] smiths in Sharn. He specializes in knives and daggers. |
+| 5 |''Hearty Scales.'' A stall serving grilled lizard meat and other [[Talentan|Talenta Plains]] delicacies. |
+| 6 |''Roll and Conquer.'' One of Sharn's only game stores. It does most of its business in cards and dice. |
+| 7 |''The Old Apothecary.'' Selling supplies for herbalists and [[alchemist]]s, this claims to be Bazaar's oldest shop. |
+| 8 |''Illumination.'' This shop sells lamps, lanterns, candles, and torches. Some are magical. |
+| 9 |''The [[Magewright|magewright]]'s Miscellany.'' This little shop deals in spell components. The clerks love to discuss magic. |
+| 10 |''Sundry's Shop.'' A [[gnome]] named Sundry runs a pawn shop filled with all manner of trinkets. |
+
+Elsewhere in Middle Dura, the district of [[Hareth's Folly]] is a bizarre blend of architectural styles. One of the primary attractions is the [[Hollow Tower]], an enormous
+arena that features aerial jousting and racing. The [[King of Fire]] is a grand tavern that hosts a broad range of gambling and bookmaking activities, legal and otherwise.
+
+Many people make their homes in Middle Dura, even if their jobs take them elsewhere. [[Rattlestone]] and [[Tumbledown]] are mostly poor tenements. [[Stormhold]]
+contains crumbling manors still occupied by some of
+Sharn's oldest families, while many that have prospered
+have moved on to more prestigious districts. 
+
+!! Districts and Noteworthy Locations
+
+* The [[Bazaar]]. The largest commercial district in Sharn, an excellent place to buy or sell used—and possibly stolen—goods.
+* [[Broken Arch]]. Once a proud residential district, Broken Arch has fallen into disrepair. Its housing is poor to modest in quality, though the shells of wealthy manors can still be seen. 
+* [[Hareth's Folly]]. A jumble of architectural styles, Hareth's Folly is a place to gamble and enjoy modest food and drink. Hareth's Folly is where the [[Race of Eight Winds]] begins and ends. 
+** The [[Hollow Tower]]. A vertically oriented arena used for aerial jousting and other unusual sporting events. 
+** The [[King of Fire]]. A comfortable tavern and gambling hall, known as one of the safest places to bet on the Race of Eight Winds and the events at the Hollow Tower. 
+* [[Rattlestone]]. Rattlestone is a tenement district. Its people have little but their pride, but there's a strong camaraderie between them. 
+* [[Stormhold]]. A comfortable residential district, Stormhold is home to the few powerful families that have  remained in Dura. It's in better condition than most of Middle Dura, and [[Deneith]] mercenaries protect the streets. 
+* [[Tumbledown]]. A poor residential district, Tumbledown has experienced recent incursions from [[Daask]]. 
+* [[Underlook]]. The center of Sharn's nightlife before [[Menthis Plateau]] was built, Underlook is a collection of poor taverns and inns. 
+** [[Ghallanda Hall]]. This proud [[Ghallanda]] [[enclave]] continues to operate amid the fading squalor of Middle Dura, and has become a tourist attraction. It offers a range of services, with food and lodging of poor to comfortable quality. 

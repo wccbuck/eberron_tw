@@ -1,0 +1,18 @@
+category: game mechanics
+created: 20210726044638544
+modified: 20210727192006766
+tags: artificer Storyloom talent
+title: Eldritch Cannon (talent)
+type: text/vnd.tiddlywiki
+
+Using magical [[artifice|artificer]], you can create a small magical cannon once per day. This can either be a handheld weapon or mounted at a fixed position. If mounted, it can be considered a [[tier|creature tier]] 1 [[construct]]. You can only have one cannon at a time, and can only control the cannon's actions while you are within 60 feet of it.
+
+When you create the cannon, choose one of the following types:
+
+* ''Flamethrower.'' The cannon emits a 15-foot cone of fire.
+* ''Force Ballista.'' The cannon fires a pulse up to 120 feet that strikes one creature or object and potentially pushes it back a few feet.
+* ''Protector.'' The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a protective aura that lasts a few moments.
+
+!! Enhanced Eldritch Cannon
+
+If you take this talent a second time, you can have two cannons active at a time. In addition, you can command a cannon to self-detonate if you are within 60 feet of it; doing so destroys the cannon and damages everything within 20 feet of it. 

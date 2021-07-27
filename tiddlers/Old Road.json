@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20210325182006736",
+        "title": "Old Road",
+        "text": "While there are villages and hamlets scattered across [[Valenar]], there is only one major highway in the territory. This is the Old Road, which runs from [[Pylas Maradal]] on the southern coast to [[Norinath]] in the northeast. [[Tairnadal]] warbands patrol the Old Road, ensuring that it is safe for their [[Lyrandar]] allies and those khunans (residents of the [[Khunan]] villages of the countryside) who wish to travel. However, while travelers may not have to worry about bandits or other predators, they will find no inns or other amenities along the Old Road. If you seek supplies or comfort after crossing the [[Blade Desert]], you will want to stop in the town of [[Keth]], the third largest community in [[Valenar]]. As long as you avoid provoking the [[Valaes Tairn]] themselves you will find few risks on the Old Road.",
+        "modified": "20210727192023636",
+        "tags": "Khorvaire Valenar road",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polylines": "28.18,19.49 28.27,19.6 28.44,19.83 28.6,19.97 29.05,20.08 29.56,20.28 29.98,20.46 30.34,20.71 30.68,21.0 31.0,21.25 31.22,21.34 31.58,21.5 31.86,21.65 32.25,21.83 32.55,21.94 32.74,21.95 32.84,21.9 32.85,21.72 32.94,21.48 33.09,21.25 33.27,21.09 33.45,20.95 33.76,20.89 34.1,20.89 34.41,20.84 34.61,20.92 34.85,21.04 35.17,21.14 35.54,21.2 35.8,21.31 36.02,21.48 36.18,21.69 36.21,21.96 36.27,22.16 36.46,22.36 36.67,22.62 36.86,22.74 37.06,22.8 37.24,22.84 37.35,22.99 37.49,23.25 37.64,23.42 37.74,23.65 37.73,23.79 37.65,23.91 37.46,24.0 37.28,24.2 37.1,24.41 36.93,24.57 36.69,24.69 36.42,25.0",
+        "style": "{\"color\":\"#8E0024\",\"opacity\":0.8}",
+        "var": "orientraderoad"
+    }
+]

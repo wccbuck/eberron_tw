@@ -1,0 +1,38 @@
+category: creature
+color: #EA868F
+created: 20210723174647353
+modified: 20210727192001422
+tags: construct
+tier: 2
+title: clockwork
+type: text/vnd.tiddlywiki
+
+[[Zil|Zilargo]] [[artificer]]s' efforts to invent and tinker with magic and mechanical devices produce many failed [[construct]]s, but also result in genuine advances, such as clockworks. These constructs are loyal servants and soldiers, many of which resist all non-magical attacks from weapons that aren't made of [[adamantine]]. Since their discovery, the methods used to craft clockworks have passed from one community of [[gnome]]s to another and down the generations.
+
+A gnome artisan values an individualized clockwork more highly than a perfectly functioning one that copies too much from another creation. For that reason, even clockworks that fit established designs are seldom identical. Consider rolling on the tables below to add one enhancement and one malfunction to any given clockwork construct.
+
+| !<<dr d10>> |!Enhancement |
+| 1 |//''Stealthy.''// The clockwork runs extremely quietly. While motionless, it is indistinguishable from a stopped machine. |
+| 2 |//''Sensors.''// The clockwork gains [[darkvision]] and gains [[advantage]] on perception-based actions. |
+| 3 |//''Improved Armor.''// The clockwork's armor is stronger than usual. |
+| 4 |//''Increased Speed.''// The clockwork can move faster than usual. |
+| 5 |//''Reinforced Construction.''// The clockwork has high resistance to force, lightning, and thunder damage. |
+| 6 |//''Self-Repairing.''// The clockwork slowly regenerates damage. This effect can be temporarily suppressed if the clockwork suffers lightning damage. |
+| 7 |//''Sturdy Frame.''// The clockwork's ability to stay upright and withstand falls and impacts is enhanced. |
+| 8 |//''Suction.''// The clockwork gains the ability to climb walls. |
+| 9 |//''Vocal Resonator.''// The clockwork gains the ability to speak rudimentary [[Common]] or [[Zilasalza]] (creator's choice). |
+| 10 |//''Water Propulsion.''// The clockwork gains the ability to swim. |
+
+| !<<dr d10>> |!Malfunction |
+| 1 |//''Faulty Sensors.''// The clockwork is sporadically blinded. |
+| 2 |//''Flawed Targeting.''// The clockwork often misses attacks. |
+| 3 |//''Ground Fault.''// The clockwork is particularly vulnerable to lightning damage. |
+| 4 |//''Imprinting Loop.''// The clockwork periodically mistakes random creatures it sees for its creator. |
+| 5 |//''Leaking Lubricant.''// The clockwork becomes increasingly exhausted and eventually grinds to a halt. |
+| 6 |//''Limited Steering.''// The clockwork has a difficult time making tight turns. |
+| 7 |//''Overactive Sense of Self-Preservation.''// The clockwork is prone to fleeing dangerous situations. |
+| 8 |//''Overheats.''// The clockwork randomly becomes incapacitated for a few seconds at a time. |
+| 9 |//''Rusty Gears.''// The clockwork moves more slowly and has a difficult time moving quietly. |
+| 10 |//''Weak Armor.''// The clockwork loses its resistance to non-[[adamantine]] weapons. |
+
+!!! <<showcreature-type>>

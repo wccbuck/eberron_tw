@@ -1,0 +1,11 @@
+caption: Misc
+created: 20210409215048550
+modified: 20210727191952553
+tags: 
+title: $:/MyMisc
+type: text/vnd.tiddlywiki
+
+!!! Saved Miscellaneous
+<$list filter="[list[My Stuff]!category[object]!category[spell]!category[creature]!category[organization]!category[person]!category[entity]!category[location]]">
+<$button><$action-listops $tiddler="My Stuff" $subfilter="-[<currentTiddler>]"/>X</$button> &nbsp;{{!!article}}<$link><<currentTiddler>></$link><br/>
+</$list>

@@ -1,0 +1,11 @@
+category: object
+color: #41D5E1
+created: 20201208070352168
+modified: 20210727192029874
+rarity: 1
+tags: tool [[dragonmark focus item]]
+title: scribe's pen
+tooltip: common dragonmark focus item, allows Scribing mark wielder to write invisible messages
+type: text/vnd.tiddlywiki
+
+A creature with the [[Mark of Scribing]] can use this pen to write on any surface. They can decide whether the writing is visible or invisible, but the writing is always visible to a person with the Mark of Scribing. Any creature with the mark can touch the invisible writing, making it visible to all.

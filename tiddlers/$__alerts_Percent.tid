@@ -1,0 +1,19 @@
+component: Percentage Roller
+created: 20201211203450427
+modified: 20210727191950856
+result: 51
+string: 20%
+target: 80
+title: $:/alerts/Percent
+type: text/vnd.tiddlywiki
+valiffalse: Effect blocked.
+valiftrue: Shroud penetrated.
+
+<h2 class="alert-h2">{{!!string}} chance:</h2>
+<h3>(1d100 result: ''{{!!result}}''. Must Exceed: {{!!target}})</h3>
+<$reveal type="gt" state="!!result" text={{!!target}}>
+<h1 class="alert-h1">{{!!valiftrue}}</h1>
+</$reveal>
+<$reveal type="lteq" state="!!result" text={{!!target}}>
+<h1 class="alert-h1">{{!!valiffalse}}</h1>
+</$reveal>

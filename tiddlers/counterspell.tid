@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20201210050055268
+modified: 20210727192002246
+tags: abjuration
+tier: 3
+title: counterspell
+type: text/vnd.tiddlywiki
+
+You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of "rare" tier or lower, the spell fails and has no effect.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may counter other legendary-tier spells.

@@ -1,0 +1,27 @@
+created: 20210108195510721
+modified: 20210727191953027
+tags: 
+title: $:/ui/EditorToolbar/tier-dropdown
+type: text/vnd.tiddlywiki
+
+\define toolbar-button-tier-inner()
+<$button tag="a">
+
+<$action-sendmessage $message="tm-add-field"
+$name="tier"
+$value="$(snippetTitle)$"/>
+
+<$action-deletetiddler
+	$tiddler=<<dropdown-state>>
+/>
+
+<$view tiddler=<<snippetTitle>> field="title" mode="inline"/>
+
+</$button>
+\end
+
+<$list filter="[range[6]]" variable="snippetTitle">
+
+<<toolbar-button-tier-inner>>
+
+</$list>

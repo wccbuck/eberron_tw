@@ -1,0 +1,103 @@
+created: 20200212174048601
+modified: 20210727191952303
+tags: $:/tags/Stylesheet
+title: $:/ETW_Stylesheet
+type: text/vnd.tiddlywiki
+
+table.manager-table
+{
+    table-layout: fixed;
+    width: 100%;
+    max-width: 600px;
+}
+
+.dice-roller {
+    color: #007000;
+    font-weight: 600;
+    padding: 0;
+}
+
+.commas span:not(:last-child):after {content:", ";}
+
+.lightweight {
+    font-weight: 300;
+}
+
+.xlightweight {
+    font-weight: 200;
+    color: #808080;
+}
+
+.big-text {
+    font-size: 1.1em;
+}
+
+.tc-site-subtitle, .tc-alert-subtitle {font-family: 'masoch-dirach'; font-size: 1.5em; font-variant: small-caps; font-weight:500;}
+
+.tc-site-title, .tc-title {font-family: 'masoch-dirach'; font-variant: small-caps; font-weight:500;}
+
+h1 {
+font-family: 'masoch-dirach'; font-variant: small-caps; font-weight:500;
+	font-size: 2em;
+    border-style: solid;
+    border-width: 0 0 3px 0;
+    border-image: linear-gradient(to right, <<colour muted-foreground>>, rgba(0,0,0,0)) 1;
+}
+
+h2 {
+font-family: 'masoch-dirach'; font-variant: small-caps; font-weight:500;
+	font-size: 1.7em;
+    border-style: solid;
+    border-width: 0 0 3px 0;
+    border-image: linear-gradient(to right, <<colour muted-foreground>>, rgba(0,0,0,0)) 1;
+}
+
+.tc-title, .tc-site-title {
+	border-width: 0;
+}
+
+.alert-h1 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-variant: normal;
+	border-width: 0;
+}
+
+.alert-h2 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-variant: normal;
+}
+
+.tc-sidebar-lists a.tc-tiddlylink {
+    color: <<colour sidebar-tiddler-link-foreground>>;
+}
+
+div.sidebar-map a.tc-tiddlylink {
+    color: black;
+}
+
+.graylink { text-decoration: none; font-weight: 600; color: #999; -webkit-user-select: inherit;  }
+
+.graylink:hover { text-decoration: underline; }
+
+.blacklink { text-decoration: none; font-weight: 600; color: <<colour tiddler-title-foreground>>; -webkit-user-select: inherit;  }
+
+.blacklink:hover { text-decoration: underline; }
+
+.subtitlelink { text-decoration: none; font-weight: 600; color: <<colour tiddler-subtitle-foreground>>; -webkit-user-select: inherit;  }
+
+.subtitlelink:hover { text-decoration: underline; }
+
+.titlelink { text-decoration: none; color: <<colour tiddler-title-foreground>>; -webkit-user-select: inherit;  }
+
+.titlelink:hover { text-decoration: underline; }
+
+.th-sticky {
+position: -webkit-sticky;position: -moz-sticky;position: -o-sticky;position: -ms-sticky;position: sticky;top:73px; }
+
+div.title-gradient { z-index:200;position: -webkit-sticky;position:-moz-sticky;position:-o-sticky;position:-ms-sticky;position:sticky;top: 71px;}
+div.title-gradient-1 {height: 1px; background-color: <<color page-background>>;}
+div.title-gradient-2 {height: 3px;background-image: linear-gradient(to right, <<color foreground>>, <<color page-background>>);}
+
+div.header-gradient {height: 3px;background-image: linear-gradient(to right, <<color foreground>>, rgba(0,0,0,0));opacity:0.7; }
+
+.note-bg {background-color:<<color select-tag-background>>; color:<<color select-tag-foreground>>;}

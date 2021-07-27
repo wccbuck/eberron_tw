@@ -1,0 +1,25 @@
+category: object
+color: #41D5E1
+created: 20201210050514304
+modified: 20210727192013973
+rarity: 2
+tags: fixed tool [[dragonmark focus item]]
+title: houseward
+tooltip: uncommon dragonmark focus item, allows Warding mark wielder to enable intense magical security in a building
+type: text/vnd.tiddlywiki
+
+This engraved block of lead, approximately 1 cubic foot in size,
+holds an embedded Siberys [[dragonshard]]. The houseward
+provides state-of-the-art magical security, and is typically
+embedded into the floor of the building it is supposed to
+protect. If any creature with the [[Mark of Warding]] spends 10 minutes touching the houseward, it can cast [[guards and wards]] using its stored magical energy. The area protected by the spell is determined by the rarity of the houseward (see table below). The duration of the spell is 24 days, but the effect ends early if the houseward is used again to cast the spell, if a creature with the Mark of Warding spends 10 minutes
+touching the houseward to end its effects, or if a houseward is
+removed from the area it is currently protecting. After being
+used to cast the spell, the houseward can't do so again until
+dawn the next day.
+
+|!Houseward Rarity |!Warding Area |
+|uncommon |2,500 sq ft |
+|rare |5,000 sq ft |
+|very rare |7,500 sq ft |
+|legendary |10,000 sq ft |

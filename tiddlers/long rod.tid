@@ -1,0 +1,22 @@
+category: object
+color: #41D5E1
+created: 20201209020804933
+modified: 20210727192019252
+rarity: 0
+tags: [[magical implement]] [[arcane artillery]] fixed
+title: long rod
+type: text/vnd.tiddlywiki
+
+A long rod is a more portable version of a [[siege staff]], measuring
+around 8 feet long. Including the stand required to brace it, it
+weighs close to 350 pounds.
+
+It takes five actions to set up a long rod, and the same to tear
+down for transport. Once set up, it takes one action to prime
+the rod, one to aim it, and one to fire it.
+
+Any offensive spell can be cast through the long rod. The range is magnified by a factor
+of 3, with a long range of up to 6 times the spell's standard
+range. The spell's area of effect is increased to 150%. If the spell
+normally affects a single target, it instead affects a 10-foot-radius
+sphere.

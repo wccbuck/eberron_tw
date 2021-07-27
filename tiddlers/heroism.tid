@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210427162517473
+modified: 20210727192013372
+tags: enchantment [[divine magic]]
+tier: 2
+title: heroism
+type: text/vnd.tiddlywiki
+
+A willing creature you touch is imbued with bravery. Until the spell ends up to an hour later, the creature is immune to being frightened and gains a temporary extra [[stress]] box. When the spell ends, the target loses this temporary box.

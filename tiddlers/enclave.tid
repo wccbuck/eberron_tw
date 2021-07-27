@@ -1,0 +1,48 @@
+category: location
+color: #092F1E
+created: 20210211051201677
+modified: 20210727192007072
+tags: 
+title: enclave
+tooltip: dragonmarked house base of operations
+type: text/vnd.tiddlywiki
+
+In a small community, a [[dragonmarked house]] might be
+represented by a single business. A village might have a
+[[Jorasco]] healing house, a tiny [[Sivis]] [[message station|speaking stone]], or a
+[[Gold Dragon Inn]] of House [[Ghallanda]], all run by individuals. Large cities and metropolises have dozens of such
+house businesses, but they also have ''enclaves''—the citadels
+of the dragonmarked houses.
+
+A house enclave is a self-contained community where
+a member of a house can spend months without ever
+needing to leave. The center of the enclave includes production, training, and administration facilities, living
+quarters, and shops catering to the everyday needs of its inhabitants. This region of an enclave is reserved for the
+private business of the house, and strangers are allowed
+in only under special circumstances. 
+
+The secondary ring of the enclave is where business
+occurs, and is the site of [[guild|trade guild]] offices, shops, and other
+facilities. Customers, [[dragonmark]]ed heirs, and guild
+members with no family connections all cross paths here.
+Though the everyday services of house and guild can be
+found across [[Khorvaire]], a house’s most expensive services
+are exclusive to its enclaves. Courier stations are common
+throughout [[Sharn]], for example, but teleportation is
+available only at the [[Orien]] enclave in [[Dragon Towers]].
+Part shopping center, part production facility, and part
+suburb, a house enclave is often the economic center of
+the community in which it is found.
+
+!! Enclaves of the Dragonmarked Houses
+
+<ul>
+<$list filter="[tag[dragonmarked house]sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag[enclave]tag<currentTiddler>sort[title]]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>

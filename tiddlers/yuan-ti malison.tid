@@ -1,0 +1,112 @@
+category: creature
+color: #EA868F
+created: 20210112071521173
+modified: 20210727192043505
+tags: yuan-ti humanoid monstrosity
+tier: 2
+title: yuan-ti malison
+type: text/vnd.tiddlywiki
+y_2arm1: cluster of small snakes
+y_2arm2: single large snake
+y_4lb: scaly legs and a large snake tail
+y_eye2: red
+y_eye3: yellow
+y_eye4: red
+y_eye5: green
+y_eye6: green
+y_headshape1: broad and rounded
+y_hskin2: light brown
+y_hskin3: dark brown
+y_hskin4: light brown
+y_hskin5: pale brown
+y_sbshape1: thick
+y_sc2: green
+y_sc3: green and yellow
+y_sc4: white
+y_sc5: blue and gray
+y_sc6: green and yellow
+y_sp2: blotched
+y_sp3: striped
+y_sp4: speckled
+y_sp5: striped
+y_sp6: striped
+y_tongue2: a red
+y_tongue3: a red
+y_tongue4: a pale
+y_tongue5: an orange
+y_tongue6: a black
+
+A [[yuan-ti]] malison is a hideous blend of human and serpentine features. Five different types of malisons are known to exist, and other types are possible. Malisons form the middle caste of yuan-ti society and hunt with arrows tipped with their own venom. They use their magical powers of suggestion to force their enemies' surrender.
+
+Malisons can shapeshift into snakes at will, and are able to communicate with snakes freely. Some malisons are able to secrete an acidic slime, camouflage themselves with chameleon-like skin, shed their skin to avoid being restrained, [[polymorph]] their enemies into snakes, or other unique mutations.
+
+<<<
+''Generate Malison Appearance''
+
+Choose malison type: <$select tiddler="$:/config/YTMalisonType" default=""><$list filter="[range[5]]" variable="type"><option value=<<type>>>Type <$text text=<<type>>/></option></$list></$select>
+
+<$reveal type="match" state="$:/config/YTMalisonType" text="1">
+
+<$button>
+<$action-chooserandom $dataTiddler="$:/YTScaleColor" $field="y_sc2"/>
+<$action-chooserandom $dataTiddler="$:/YTScalePattern" $field="y_sp2"/>
+<$action-chooserandom $dataTiddler="$:/YTHumanSkinColor" $field="y_hskin2"/>
+<$action-chooserandom $dataTiddler="$:/YTHeadShape" $field="y_headshape1"/>
+<$action-chooserandom $dataTiddler="$:/YTEyeColor" $field="y_eye2"/>
+<$action-chooserandom $dataTiddler="$:/YTTongueColor" $field="y_tongue2"/>
+Generate
+</$button>
+
+''Malison Type 1:'' The yuan-ti has the body of a human with {{!!y_hskin2}} skin, and the {{!!y_headshape1}} head of a snake with {{!!y_sp2}} {{!!y_sc2}} scales. The creature's serpentine eyes are {{!!y_eye2}}, and it has {{!!y_tongue2}} forked tongue.
+</$reveal><$reveal type="match" state="$:/config/YTMalisonType" text="2">
+
+<$button>
+<$action-chooserandom $dataTiddler="$:/YTHumanSkinColor" $field="y_hskin3"/><$action-chooserandom $dataTiddler="$:/YTTongueColor" $field="y_tongue3"/>
+<$action-chooserandom $dataTiddler="$:/YTEyeColor" $field="y_eye3"/>
+<$action-chooserandom $dataTiddler="$:/YT2Arms" $field="y_2arm1"/>
+<$action-chooserandom $dataTiddler="$:/YT2Arms" $field="y_2arm2"/>
+<$action-chooserandom $dataTiddler="$:/YTScaleColor" $field="y_sc3"/>
+<$action-chooserandom $dataTiddler="$:/YTScalePattern" $field="y_sp3"/>
+Generate
+</$button>
+
+''Malison Type 2:'' The yuan-ti has the head and body of a human with {{!!y_hskin3}} skin, {{!!y_eye3}} eyes, and {{!!y_tongue3}} tongue, but its arms are serpentine. <$list filter="[[Yuan-ti]!y_2arm1{Yuan-ti!!y_2arm2}]" emptyMessage="Each of the arms is" variable="noop">The left arm is a {{!!y_2arm1}}, and the right is</$list> a {{!!y_2arm2}}. The arms have {{!!y_sp3}} {{!!y_sc3}} scales.
+</$reveal><$reveal type="match" state="$:/config/YTMalisonType" text="3">
+
+<$button>
+<$action-chooserandom $dataTiddler="$:/YTScaleColor" $field="y_sc4"/>
+<$action-chooserandom $dataTiddler="$:/YTScalePattern" $field="y_sp4"/>
+<$action-chooserandom $dataTiddler="$:/YTHumanSkinColor" $field="y_hskin4"/>
+<$action-chooserandom $dataTiddler="$:/YTEyeColor" $field="y_eye4"/>
+<$action-chooserandom $dataTiddler="$:/YTTongueColor" $field="y_tongue4"/>
+<$action-chooserandom $dataTiddler="$:/YTSnakeBodyShape" $field="y_sbshape1"/>
+Generate
+</$button>
+
+''Malison Type 3:'' The yuan-ti has the head and upper body of a human with {{!!y_hskin4}} skin, {{!!y_eye4}} eyes, and {{!!y_tongue4}} tongue, but from the waist down, the creature has a {{!!y_sbshape1}} serpentine body with {{!!y_sp4}} {{!!y_sc4}} scales.
+</$reveal><$reveal type="match" state="$:/config/YTMalisonType" text="4">
+
+<$button>
+<$action-chooserandom $dataTiddler="$:/YTHumanSkinColor" $field="y_hskin5"/>
+<$action-chooserandom $dataTiddler="$:/YTScaleColor" $field="y_sc5"/>
+<$action-chooserandom $dataTiddler="$:/YTScalePattern" $field="y_sp5"/>
+<$action-chooserandom $dataTiddler="$:/YTTongueColor" $field="y_tongue5"/>
+<$action-chooserandom $dataTiddler="$:/YTEyeColor" $field="y_eye5"/>
+<$action-chooserandom $dataTiddler="$:/YT4LowerBody" $field="y_4lb"/>
+Generate
+</$button>
+
+''Malison Type 4:'' The yuan-ti looks nearly entirely human in form, with humanoid arms and legs, {{!!y_hskin5}} skin, {{!!y_eye5}} eyes, and {{!!y_tongue5}} tongue, but it has {{!!y_4lb}} with {{!!y_sp5}} {{!!y_sc5}} scales.
+</$reveal><$reveal type="match" state="$:/config/YTMalisonType" text="5">
+
+<$button>
+<$action-chooserandom $dataTiddler="$:/YTScaleColor" $field="y_sc6"/>
+<$action-chooserandom $dataTiddler="$:/YTScalePattern" $field="y_sp6"/>
+<$action-chooserandom $dataTiddler="$:/YTTongueColor" $field="y_tongue6"/>
+<$action-chooserandom $dataTiddler="$:/YTEyeColor" $field="y_eye6"/>
+Generate
+</$button>
+
+''Malison Type 5:'' The yuan-ti would closely resemble a human if it weren't covered in {{!!y_sp6}} {{!!y_sc6}} scales. The creature also has {{!!y_eye6}} eyes and {{!!y_tongue6}} tongue.
+</$reveal>
+<<<

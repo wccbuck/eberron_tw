@@ -1,0 +1,21 @@
+category: spell
+color: #B7A1E0
+created: 20210726043536882
+modified: 20210727192020085
+tags: transmutation
+tier: 1
+title: magical tinkering
+type: text/vnd.tiddlywiki
+
+Using [[artifice|artificer]], you invest a spark of magic into mundane objects. To use this spell, you must use tinker's tools or some other set of artisan's tools in hand. You then touch a non-magical object no larger than 1 foot in any dimension and give it one of the following magical properties of your choice:
+
+* The object emits bright light out to 10 feet.
+* Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
+* The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
+* A static visual effect appears on one of the object's sur­faces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
+
+The chosen property lasts indefinitely, until [[dispelled|dispel magic]], or until you touch the object and choose to end the property early. Each object can bear only one property at a time.
+
+!! Common-Tier
+
+When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you can bestow magic on up to 5 objects.

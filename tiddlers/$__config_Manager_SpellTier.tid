@@ -1,0 +1,9 @@
+comparison: ≥
+created: 20201210230256243
+modified: 20210727191951570
+tags: [tier[1]] [tier[2]] [tier[3]]
+tier: 1
+title: $:/config/Manager/SpellTier
+type: text/vnd.tiddlywiki
+
+[has[tier]!lessthan:tier{$:/config/Manager/SpellTier!!tier}]

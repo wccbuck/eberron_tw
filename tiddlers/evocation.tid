@@ -1,0 +1,11 @@
+category: phenomenon
+color: #432874
+created: 20200422221301197
+modified: 20210727192007578
+tags: [[spell school]]
+title: evocation
+type: text/vnd.tiddlywiki
+
+Evocation spells manipulate magical energy to produce a desired effect. Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.
+
+!!! <<showspells-school {{!!title}}>>

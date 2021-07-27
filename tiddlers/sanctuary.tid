@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210330050553326
+modified: 20210727192029452
+tags: [[divine magic]]
+tier: 2
+title: sanctuary
+type: text/vnd.tiddlywiki
+
+You ward a creature within 30 feet against attack. Until the spell ends up to one minute later, any creature who targets the warded creature with an attack or a harmful spell feels a strong compulsion to target a different creature.
+
+If the warded creature makes an attack, casts a spell that affects an enemy, or harms another creature, this spell ends.

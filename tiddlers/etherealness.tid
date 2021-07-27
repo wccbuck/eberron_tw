@@ -1,0 +1,22 @@
+category: spell
+color: #B7A1E0
+created: 20210412010703786
+modified: 20210727192007466
+tags: conjuration
+tier: 4
+title: etherealness
+type: text/vnd.tiddlywiki
+
+You step into the border regions of your current [[plane]], in the ethereal state where it fades into the space between planes. You remain in the "Border Ethereal" for up to eight hours or until you choose to dismiss the spell. During this time, you can move in any direction. If you move up or down, you move at half speed. You can see and hear the plane you originated from, but everything there looks gray, and you can't see anything more than 60 feet away.
+
+While in the Border Ethereal, you can only affect and be affected by other creatures in that region. Creatures that aren't in the Border Ethereal can't perceive you and can't interact with you, unless a special ability or magic has given them the ability to do so.
+
+You ignore all objects and effects that aren't in the Border Ethereal, allowing you to move through objects you perceive on the [[plane]] you originated from.
+
+When the spell ends, you immediately return to the plane you originated from in the spot you currently occupy. If you occupy the same spot as a solid object or creature when this happens, you are immediately shunted to the nearest unoccupied space that you can occupy and suffer some force damage.
+
+This spell has no effect if you cast it while you are in the Border Ethereal or under an effect that inhibits planar travel.
+
+!! Mythical-Tier
+
+When you cast //{{!!title}}// as a mythical-[[tier|spell tier]] spell, you can target up to six willing creatures (including you). The creatures must be within 10 feet of you when you cast the spell.

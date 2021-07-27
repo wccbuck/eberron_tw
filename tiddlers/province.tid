@@ -1,0 +1,17 @@
+category: miscellaneous
+color: #092F1E
+created: 20210126005542397
+modified: 20210727192026167
+tags: 
+title: province
+type: text/vnd.tiddlywiki
+
+Sovereign nations in Eberron are sometimes broken up into provinces, or distinct territories within that nation that act as administrative units. At one point, each of the [[Five Nations]] were considered provinces of united [[Galifar]]. Today, in [[Sarlona]], the [[provinces|Sarlonan province]] of [[Riedra]] and [[Syrkarn]] are named after twelve kingdoms that fell during the [[Sundering]].
+
+!! Provinces
+
+!!! Sarlona
+<<list-links-article "[tag{!!title}tag[Riedra]] [tag{!!title}tag[Syrkarn]] +[sort[title]]">>
+
+!!! Elsewhere
+<<list-links-article "[tag{!!title}!tag[Riedra]!tag[Syrkarn]!is[system]sort[title]]">>

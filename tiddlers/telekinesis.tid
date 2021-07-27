@@ -1,0 +1,20 @@
+category: spell
+color: #B7A1E0
+created: 20210411205223066
+modified: 20210727192036545
+tags: psionics
+tier: 3
+title: telekinesis
+type: text/vnd.tiddlywiki
+
+You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and for as long as you maintain your concentration for the next ten minutes, you can exert your will on one creature or object that you can see within 60 feet, causing the appropriate effect below. If you switch targets, the prior target is no longer affected by the spell.
+
+!!! Creature
+
+You can try to move a creature that weighs up to 2,000 pounds. If the creature can't resist your mental power, you restrain them in your telekinetic grip and move the creature up to 5 feet per second in any direction, including upward, but not beyond the range of the spell (60 feet). 
+
+!!! Object
+
+You can try to move an object that weighs up to 2,000 pounds. If the object isn't being worn or carried, you automatically move it up to 5 feet per second in any direction, but not beyond the range of this spell. If the object is worn or carried by a creature, you must be able to pull the object away from the creature or pull the creature with the object.
+
+You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.

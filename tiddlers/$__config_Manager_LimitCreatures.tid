@@ -1,0 +1,8 @@
+created: 20210302000110569
+limit50: [has[title]]
+modified: 20210727191951216
+tags: 
+title: $:/config/Manager/LimitCreatures
+type: text/vnd.tiddlywiki
+
+[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]subfilter{$:/config/Manager/CreatureTier}search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/CreatureType}tag:strict{$:/config/Manager/CreatureTag}!tag{$:/config/Manager/ExcludeCreatureTag}category[creature]count[]]

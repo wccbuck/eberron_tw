@@ -1,0 +1,27 @@
+category: spell
+color: #B7A1E0
+created: 20210412032728658
+modified: 20210727192005960
+tags: [[primal magic]]
+tier: 1
+title: druidcraft
+type: text/vnd.tiddlywiki
+
+Whispering to the spirits of nature, you create one of the following effects within 30 feet:
+
+* You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 5 seconds.
+* You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
+* You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
+* You instantly light or snuff out a candle, a torch, or a small campfire.
+
+!! Common-Tier
+
+When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you can create one of the following effects:
+
+* A barrier against weather extends out from you in a 10-foot radius and moves with you, remaining centered on you and shielding the area from nonmagical snow, rain and wind. It also has a mild equalizing effect on temperature and humidity. The barrier lasts for 1 hour.
+* You dim the flame of a candle, a torch, or a small campfire.
+* You create a more potent instantaneous sensory effect, like a roar of a tiger, rumble of thunder, or the acrid scent of smoke or burning wood. The effect must fit in a 15-foot cube.
+* You touch a creature and instantly remove any unnatural smell from its body or clothing.
+* You instantly make //all// flowers blossom, seed pods open, and leaf buds bloom within 30 feet.
+* You instantly wilt all flowers and dry out all leaves within 30 feet.
+* You instantly light or snuff out //all// nonmagical flames within 30 feet.

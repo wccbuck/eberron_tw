@@ -1,0 +1,25 @@
+category: spell
+color: #B7A1E0
+created: 20210503022119383
+modified: 20210727192002042
+tags: [[primal magic]] transmutation
+tier: 1
+title: control flames
+type: text/vnd.tiddlywiki
+
+You choose nonmagical flame that you can see within 60 feet and that fits within a 5-foot cylinder. You affect it in one of the following ways:
+
+* You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
+* You instantaneously extinguish the flames within the area.
+* You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.
+* You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames and animate as you like. The shapes last for 1 hour.
+
+If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect at will.
+
+!! Common-Tier
+
+When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you may have up to six non-instantaneous effects active at a time, and increase the area of effect to a 10-foot cylinder. In addition, you may affect flames in one of the following ways:
+
+* You extinguish or change the intensity of all flames within 60 feet simultaneously.
+* You affect flame to produce no heat. This change lasts for 1 hour.
+

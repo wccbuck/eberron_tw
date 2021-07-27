@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210414012012535
+modified: 20210727192008638
+tags: [[divine magic]]
+tier: 3
+title: flame strike
+type: text/vnd.tiddlywiki
+
+A vertical column of divine fire roars down from the heavens in a location you specify within 60 feet. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on a point within range that doesn't dodge suffers fire damage and radiant damage.

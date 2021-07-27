@@ -1,0 +1,11 @@
+category: spell
+color: #B7A1E0
+created: 20210505042159307
+modified: 20210727192013663
+tags: [[divine magic]]
+tier: 4
+title: holy aura
+type: text/vnd.tiddlywiki
+
+Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have [[advantage]] on all defensive actions for up to 1 minute (or your concentration breaks). In addition, when a [[fiend]] or an [[undead]] hits an affected creature with at close range, the aura flashes with brilliant light, and the attacker is blinded until the spell ends.
+

@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210411231709831
+modified: 20210727191958581
+tags: illusion
+tier: 2
+title: blur
+type: text/vnd.tiddlywiki
+
+Your body becomes blurred, shifting and wavering to all who can see you. For up to 1 minute, gain [[advantage]] to dodge attacks against you. An attacker is immune to this effect if it doesn't rely on sight, as with [[blindsight]], or can see through [[illusion]]s, as with [[truesight]].

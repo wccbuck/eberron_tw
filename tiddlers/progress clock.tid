@@ -1,0 +1,80 @@
+category: game mechanics
+created: 20210401220254117
+modified: 20210727192026091
+tags: [[Taking Action]] Storyloom
+title: progress clock
+type: text/vnd.tiddlywiki
+
+<div align="center">
+<svg width="20%" height="20%" viewBox="0 0 70 70" style="margin-left:10px;margin-right:10px;">
+  <g stroke="black" stroke-width="3" fill="transparent">
+    <circle cx="35" cy="35" r="31.831"/>
+    <line x1="3" y1="35" x2="67" y2="35"/>
+    <line x1="35" y1="3" x2="35" y2="67"/>
+  </g>
+</svg>
+<svg width="20%" height="20%" viewBox="0 0 70 70" style="margin-left:10px;margin-right:10px;">
+  <g stroke="black" stroke-width="3" fill="transparent">
+    <circle cx="35" cy="35" r="31.831"/>
+    <line x1="3" y1="35" x2="67" y2="35"/>
+    <line x1="19" y1="7.287" x2="51" y2="62.713"/>
+    <line x1="51" y1="7.287" x2="19" y2="62.713"/>
+  </g>
+</svg>
+<svg width="20%" height="20%" viewBox="0 0 70 70" style="margin-left:10px;margin-right:10px;">
+  <g stroke="black" stroke-width="3" fill="transparent">
+    <circle cx="35" cy="35" r="31.831"/>
+    <line x1="3" y1="35" x2="67" y2="35"/>
+    <line x1="35" y1="3" x2="35" y2="67"/>
+    <line x1="57.627" y1="57.627" x2="12.373" y2="12.373"/>
+    <line x1="57.627" y1="12.373" x2="12.373" y2="57.627"/>
+  </g>
+</svg>
+</div>
+
+A progress clock is a way to track an ongoing effort against an obstacle or the approach of impending trouble. It is a circle divided into several segments; the number of segments depends on the complexity of the problem. If the clock represents an obstacle, the GM will fill in segments after player characters make successful [[overcome]] attempts, filling in segments based on [[impact]]. If the clock represents the onset of trouble (say, the alert level of guards when the player characters are sneaking; the progress of a player character's opponent in a bike race), the GM fills in segments as the scene progresses or as a [[consequence]].
+
+<div align="center">
+<svg width="20%" height="20%" viewBox="0 0 70 70">
+  <circle class="donut-segment" cx="35" cy="35" r="15.91549430918954" fill="transparent" stroke="dimgray" stroke-width="30" stroke-dasharray="16.667 83.333" stroke-dashoffset="0"/>
+  <g stroke="black" stroke-width="3" fill="transparent">
+    <circle cx="35" cy="35" r="31.831"/>
+    <line x1="3" y1="35" x2="67" y2="35"/>
+    <line x1="19" y1="7.287" x2="51" y2="62.713"/>
+    <line x1="51" y1="7.287" x2="19" y2="62.713"/>
+  </g>
+</svg>
+<svg width="20%" height="20%" viewBox="0 0 70 70">
+  <circle class="donut-segment" cx="35" cy="35" r="15.91549430918954" fill="transparent" stroke="dimgray" stroke-width="30" stroke-dasharray="33.333 66.667" stroke-dashoffset="0"/>
+  <g stroke="black" stroke-width="3" fill="transparent">
+    <circle cx="35" cy="35" r="31.831"/>
+    <line x1="3" y1="35" x2="67" y2="35"/>
+    <line x1="19" y1="7.287" x2="51" y2="62.713"/>
+    <line x1="51" y1="7.287" x2="19" y2="62.713"/>
+  </g>
+</svg>
+<svg width="20%" height="20%" viewBox="0 0 70 70">
+  <circle class="donut-segment" cx="35" cy="35" r="15.91549430918954" fill="transparent" stroke="dimgray" stroke-width="30" stroke-dasharray="50 50" stroke-dashoffset="0"/>
+  <g stroke="black" stroke-width="3" fill="transparent">
+    <circle cx="35" cy="35" r="31.831"/>
+    <line x1="3" y1="35" x2="67" y2="35"/>
+    <line x1="19" y1="7.287" x2="51" y2="62.713"/>
+    <line x1="51" y1="7.287" x2="19" y2="62.713"/>
+  </g>
+</svg>
+<svg width="20%" height="20%" viewBox="0 0 70 70">
+  <circle class="donut-segment" cx="35" cy="35" r="15.91549430918954" fill="transparent" stroke="dimgray" stroke-width="30" stroke-dasharray="66.667 33.333" stroke-dashoffset="0"/>
+  <g stroke="black" stroke-width="3" fill="transparent">
+    <circle cx="35" cy="35" r="31.831"/>
+    <line x1="3" y1="35" x2="67" y2="35"/>
+    <line x1="19" y1="7.287" x2="51" y2="62.713"/>
+    <line x1="51" y1="7.287" x2="19" y2="62.713"/>
+  </g>
+</svg>
+</div>
+
+By design, completing a progress clock requires multiple successful attempts. Obstacles that can be completed with a single action probably don't need progress clocks made for them; the GM should just ask for a roll and judge the outcome based on the result. (Such rolls can be considered 2-segment progress clocks if a visual aid is needed.)
+
+Clocks should be labeled in a way that describes the obstacle to be overcome, not the method used to overcome it. A clock indicating a tall fence should read "Tall Fence", not "Climb the Fence". Let the PCs decide how they approach an obstacle.
+
+Highly complex problems can have multiple or even "nested" progress clocks; completing one clock ("Embassy Security") might be necessary to advance to another clock ("Ambassador's Bodyguard").

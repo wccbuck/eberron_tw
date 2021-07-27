@@ -1,0 +1,59 @@
+category: creature
+color: #EA868F
+created: 20200414222441964
+modified: 20210727192014046
+tags: humanoid
+tier: 1
+title: human
+type: text/vnd.tiddlywiki
+var: common
+
+//[[Dwarves|dwarf]] are stoic. [[Elves|elf]] are wise. [[Gnomes|gnome]] are cunning. And humans? They can't make up their mind, so they try to be all of these things at once.//
+
+<div align="right">—[[Kessler]], [[bard]] of [[Sharn]]</div>
+
+The first human settlers came to [[Khorvaire]] from [[Sarlona]] about
+3,000 years ago, landing in the area now known as the
+[[Lhazaar Principalities]]. From there, they began a slow
+but inexorable spread across the continent, disrupting
+the placid elven empire of [[Aerenal]] and leaving further
+ruined remnants of fallen [[Dhakaan]]i [[goblinoid]] kingdoms
+in their wake. During this migration, they founded the
+settlements that would grow into the [[Five Nations]]. Even
+today humans make up the majority of the population
+in these countries. Despite their relatively short lifespans—or perhaps because of them—humans are innovative, adaptable, and aggressive, always pushing their
+limits and pursuing new ideas.
+
+Humans prove extremely diverse; a barbarian from
+the [[Demon Wastes]] has little in common with a [[Brelish|Breland]]
+rogue. When creating a human character, consider
+where you're from and how that's reflected in your class
+and background. [[Aundair]] is a logical place of origin for a
+[[wizard]] character, but your wizard could be a down-and-out arcanist from the alleys of [[Sharn]] or a [[Lhazaar|Lhazaar Principalities]] pirate
+with a knack for the mystic arts.
+
+If you want to jump-start your ideas for a human character's origins, you can roll on the table below.
+
+| !<<dr d10>> |!Origin |
+| 1 |An impoverished wizard from [[Aundair]], striving to prove you're as intelligent as any other Aundairian |
+| 2 |A streetwise rogue from [[Breland]] who wants nothing more than to escape the bustle of [[Sharn]] forever |
+| 3 |A displaced Cyran fighter who was engaged in war outside [[Cyre]] at the time of the [[Mourning]] and is now stranded with no home |
+| 4 |A barbarian from the [[Demon Wastes]] who repented from a life of cruelty and hopes to atone for past evils |
+| 5 |A kindly [[druid]] from the [[Eldeen Reaches]] who wants to learn about the flora and fauna of the rest of [[Khorvaire]] and beyond |
+| 6 |A [[cleric]] from [[Karrnath]] who aspires to learn the arts of [[necromancy]]—for the noblest aims, of course]] |
+| 7 |A piratical bard from the [[Lhazaar Principalities]] who loves sea shanties but also wants to immortalize the deeds of great heroes in song |
+| 8 |A ranger trained to hunt the jungles of [[Q'barra]] who harbors a grudge against [[dragon]]s |
+| 9 |A [[warlock]] from the [[Shadow Marches]], teetering on the edge of sanity while contemplating the [[daelkyr]] |
+| 10 |A [[Thrane]] [[paladin]] of the [[Silver Flame]] who's looking for something to prove the truth underpinning belief |
+
+!! Humans and Dragonmarks
+
+Five different [[dragonmark]]s appear among humans,
+reflecting their dominant status among the races of
+[[Khorvaire]]:
+
+* The [[Mark of Making]] is found in House [[Cannith]], which has used it to become one of the most powerful houses, creating an abundance of both magical and technological wonders.
+* The [[Mark of Passage]] aids the humans of House [[Orien]] in operating the lightning rail and trade caravans running across the continent.
+* The [[Mark of Sentinel]] makes the bodyguards, mercenaries, and [[Sentinel Marshals]] of House [[Deneith]] widely respected across [[Khorvaire]].
+* The [[Mark of Handling]] appears in House [[Vadalis]], which uses it to breed fine mounts and other creatures.
+* Humans also number among House [[Tharashk]] and manifest the [[Mark of Finding]] with their [[half-orc]] kin, though they need to have at least some [[orc]] blood in their ancestry. 

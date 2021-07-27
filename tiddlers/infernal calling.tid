@@ -1,0 +1,22 @@
+category: spell
+color: #B7A1E0
+created: 20210108193521826
+modified: 20210727192014739
+tags: conjuration
+tier: 3
+title: infernal calling
+type: text/vnd.tiddlywiki
+
+Uttering a dark incantation and sacrificing a ruby or other valuable item worth at least [[100c|money]], you summon a [[devil]] from a [[demiplane]] of [[Khyber]] or another [[plane]] of existence. You choose the devil's type, which must be one of <<showcreature-lteq "creature tier 2 or lower" 2 devil>>, such as a [[barbed devil]] or a [[bearded devil]]. The devil appears in an unoccupied space that you can see within 90 feet. The devil disappears when it is incapacitated or when the spell ends up to 1 hour later (or if your concentration breaks).
+
+The [[devil]] is unfriendly toward you and your companions. It is under the GM's control and acts according to its nature, which might result in its attacking you if it thinks it can prevail, or trying to tempt you to undertake an evil act in exchange for limited service.
+
+For as long as the spell lasts, you can try to issue a verbal command to the devil. It obeys the command if the likely outcome is in accordance with its desires, especially if the result would draw you toward evil. Otherwise, you must make a persuade attempt to command it. Gain an [[advantage]] if you say the devil's true name. If your attempt fails, the devil becomes immune to your verbal commands for the duration of the spell, though it can still carry out your commands if it chooses. If your attempt succeeds, the devil carries out your command—such as "attack my enemies," "explore the room ahead," or "bear this message to the queen"—until it completes the activity, at which point it returns to you to report having done so.
+
+If your concentration ends before the spell reaches its full duration, the devil doesn't disappear if it has become immune to your verbal commands. Instead, it acts in whatever manner it chooses for up to 20 minutes, and then it disappears.
+
+Some say if you possess an individual devil's talisman, you have wield complete control over that devil when you summon it.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may summon a <<showcreature-lteq "tier 3 devil" 3 devil>>.

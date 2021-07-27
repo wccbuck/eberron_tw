@@ -1,0 +1,27 @@
+category: object
+color: #41D5E1
+created: 20201210032143101
+modified: 20210727192010088
+rarity: 1
+tags: tool [[dragonmark focus item]]
+title: Ghallan jug
+tooltip: common dragonmark focus item, allows Hospitality mark bearer to conjure various liquids
+type: text/vnd.tiddlywiki
+
+This ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty. Sloshing sounds can be heard from within the jug when it is shaken, even if the jug is empty.
+
+A person with the [[Mark of Hospitality]] can name one liquid from the table below to cause the jug to produce the chosen liquid. Afterward, they can uncork the jug and pour that liquid out, up to 2 gallons per minute. The maximum amount of liquid the jug can produce depends on the liquid they named.
+
+Once the jug starts producing a liquid, it can't produce a different one, or more of one that has reached its maximum, until the next dawn.
+
+|!Liquid |!Max Amount |
+|Acid |8 ounces |
+|Basic poison |1/2 ounce |
+|Beer |4 gallons |
+|Honey |1 gallon |
+|Mayonnaise |2 gallons |
+|Oil |1 quart |
+|Vinegar |2 gallons |
+|Water, fresh |8 gallons |
+|Water, salt |12 gallons |
+|Wine |1 gallon |

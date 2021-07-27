@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20201231190519496
+modified: 20210727192004680
+tags: transmutation
+tier: 3
+title: disintegrate
+type: text/vnd.tiddlywiki
+
+A thin green ray springs from your pointing finger to a target that you can see within 60 feet. The target can be a creature, an object, or a creation of magical force, such as the wall created by [[wall of force]].
+
+On a successful roll, the target (if it is not a living creature) is partially or fully reduced to a pile of fine gray dust. [[Magic item|magic item]]s are more difficult to destroy than nonmagical items or creations of magical force. Living creatures suffer force damage (comparable to a [[fireball]]) but are not completely disintegrated.
+
+This spell can be upgraded to legendary-tier for an even more destructive effect. If you defeat a creature with the legendary version of this spell, the creature and everything it is wearing and carrying (except powerful [[magic item]]s) are reduced to fine dust. The creature can be restored to life only by means of a [[true resurrection]] or [[wish]] spell.

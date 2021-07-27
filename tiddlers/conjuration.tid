@@ -1,0 +1,11 @@
+category: phenomenon
+color: #432874
+created: 20200422221147509
+modified: 20210727192001901
+tags: [[spell school]]
+title: conjuration
+type: text/vnd.tiddlywiki
+
+Conjuration spells involve the transportation of objects and creatures from one location to another. Some spells summon creatures or objects to the caster's side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing. 
+
+!!! <<showspells-school {{!!title}}>>

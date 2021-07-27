@@ -1,0 +1,11 @@
+category: location
+color: #3B5C0A
+created: 20210204230310137
+modified: 20210727192007277
+polylines: 0,-130 0,230
+style: {"opacity":"0.5","color": "#FFCC00"}
+tags: latitude
+title: Equator
+type: text/vnd.tiddlywiki
+
+The equator is the line of latitude that is equidistant from the north pole and south pole.

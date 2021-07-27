@@ -1,0 +1,13 @@
+category: object
+color: #41D5E1
+created: 20201225034339220
+modified: 20210727192001205
+rarity: 3
+tags: accessory
+title: cloak of displacement
+tooltip: allows wielder to obscure their precise location
+type: text/vnd.tiddlywiki
+
+While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, much like a [[displacer beast]]. If you or the cloak take damage, the property ceases to function for 5-10 seconds. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move.
+
+(See also [[Thuranni cloak]], the lower rarity version of this item that requires a [[Mark of Shadow]].)

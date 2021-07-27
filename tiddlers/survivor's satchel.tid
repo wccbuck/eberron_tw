@@ -1,0 +1,15 @@
+category: object
+color: #41D5E1
+created: 20201228203024764
+modified: 20210727192035426
+rarity: 3
+tags: tool
+title: survivor's satchel
+type: text/vnd.tiddlywiki
+
+Within this satchel are a number of items that can be used by any adventurer to help endure the hardships of the harsh wilderness. Each part of the satchel can be put to good use if the person carrying it knows basic survival skills. The features of the satchel are as follows:
+
+* The strap of the satchel can be removed. Speaking the word "rope" changes it to 50 ft. of hemp rope. Speaking the word "chain" transforms it into 20 ft. of chain. Speaking the word "strap" returns it to its ordinary form.
+* One of the pouches within the satchel holds a single branch. Each morning, this branch grows <<dr 1d4>> [[goodberries|goodberry]] up to a maximum of 10. These goodberries accelerate healing and provide sustenance for an entire day.
+* Attached to the front of the satchel is a small, round yellow orb. If it is removed from the satchel, it begins to glow. This casts bright light in a 15-foot radius and dim light for another 15 feet.
+* Speaking the word "shelter" causes the satchel to spring up into a tent large enough to hold 4 human-sized creatures comfortably. Any items that were contained in the bag when this command word is spoken are stacked up neatly in the corner of the tent. Speaking "satchel" causes this item to return to normal, but only if the contents of the tent can be contained within the satchel.

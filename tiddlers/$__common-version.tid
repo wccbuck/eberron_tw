@@ -1,0 +1,10 @@
+caption: "when you cast (title) as a common-tier spell,"
+created: 20210411201139256
+modified: 20210727191951051
+tags: $:/tags/TextEditor/Snippet
+title: $:/common-version
+type: text/vnd.tiddlywiki
+
+!! Common-Tier
+
+When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell,

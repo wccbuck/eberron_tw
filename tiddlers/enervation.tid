@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210411221212503
+modified: 20210727192007165
+tags: necromancy
+tier: 3
+title: enervation
+type: text/vnd.tiddlywiki
+
+A tendril of inky darkness reaches out from you, touching a creature you can see within 60 feet to drain life from it. If the target can't dodge, they suffer necrotic damage, and until the spell ends (up to a minute later), you can continue to deal necrotic damage to the target continuously. The spell ends if you break your concentration or perform another action, if the target is ever outside the spell's range, or if the target breaks line-of-sight to you.
+
+Whenever the spell deals damage to a target, your own wounds rapidly heal.

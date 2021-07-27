@@ -1,0 +1,34 @@
+category: spell
+color: #B7A1E0
+created: 20210110063754099
+modified: 20210727192002460
+tags: conjuration illusion
+tier: 3
+title: creation
+type: text/vnd.tiddlywiki
+
+You pull wisps of shadow material from the weave of raw magic
+to create a nonliving object of plant-based matter within
+30 feet: soft goods, rope, wood, or something similar. You
+can also use this spell to create mineral objects such as
+stone, crystal, or metal. The object created must be no
+larger than a 5-foot cube, and the object must be of a
+form and material that you have seen before. The spell takes one minute to cast, and requires a tiny piece of matter of the same type of the item you plan to create.
+
+The duration depends on the object's material. If
+the object is composed of multiple materials, use the
+shortest duration.
+
+|!Material |!Duration |
+|Vegetable matter |1 day |
+|Stone or crystal |12 hours |
+|Precious metals |1 hour |
+|Gems |10 minutes |
+|[[Adamantine|adamantine]] or [[mithral]] |1 minute |
+
+Using any material created by this spell as another
+spell's material component causes that spell to fail.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may make objects up to a 15-foot cube in size.

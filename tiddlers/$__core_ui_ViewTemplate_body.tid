@@ -1,0 +1,20 @@
+created: 20210303211257754
+modified: 20210727191952151
+tags: $:/tags/ViewTemplate
+title: $:/core/ui/ViewTemplate/body
+type: text/vnd.tiddlywiki
+
+<div class="title-gradient"><div class="title-gradient-1"/><div class="title-gradient-2"/></div><<setGradHeight>>
+<$reveal tag="div" class="tc-tiddler-body" type="nomatch" stateTitle=<<folded-state>> text="hide" retain="yes" animate="yes">
+
+<$list filter="[all[current]!has[plugin-type]!field:hide-body[yes]]">
+
+<$transclude>
+
+<$transclude tiddler="$:/language/MissingTiddler/Hint"/>
+
+</$transclude>
+
+</$list>
+
+</$reveal>

@@ -1,0 +1,20 @@
+category: miscellaneous
+created: 20210302014454113
+modified: 20210727192035047
+title: subrace
+type: text/vnd.tiddlywiki
+
+Some [[humanoid]] races have "subraces". These are different phenotypes within a specific species of humanoid, still considered part of the parent race, but with some different physical traits or abilities.
+
+!! Subraces
+
+<ul>
+<$list filter="[tag[subrace]tags[]category[creature]!title[humanoid]sort[title]]">
+<li><$link overrideClass="graylink"/></li>
+<ul>
+<$list filter="[tag[subrace]tag<currentTiddler>]">
+<li><$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>

@@ -1,0 +1,15 @@
+[
+    {
+        "created": "20200413205521556",
+        "title": "City of the Dead",
+        "text": "Look to the cliffs to the north of [[Sharn]], and you'll see\na collection of crypts embedded into the cliff face. This\nis the City of the Dead, the final resting place of the\nwealthiest citizens of Sharn. Common folk are cremated\nafter death, but members of the [[Sixty]] Families and others with sufficient wealth have their remains interred in the tombs and tunnels of this necropolis. \n\nFew people reside in this area. Among its major features are ''Aureon's Holt'', a temple of the [[Restful Watch]], where [[Sovereign|Sovereign Host]] priests conduct funerals and serve as the caretakers of the tombs. [[Warden Tower]] is an outpost of the Church of the [[Silver Flame]], staffed by a [[single hermit|Gaia Sotharr]] tasked to watch for supernatural threats.\n\nThough the City of the Dead is largely peaceful, stories circulate about dark powers lurking there. Some parents warn their children of the [[Lich|lich]]-Priest [[Gath]], who\nsteals disobedient children and forces them to work in\nhis kingdom of the dead, polishing the bones of his skeletal subjects. \n\nThe City of the Dead lies outside of the [[manifest zone]] linked to [[Syrania]]. Magic items, spells, and feats that take advantage of the manifest zone do not function in the City of the Dead.\n\n!! Noteworthy Locations\n\n<<list-links-article \"[tag{!!title}category[location]sort[title]]\">>",
+        "modified": "20210727192001019",
+        "tags": "dungeon Sharn quarter",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#96CC39",
+        "polygons": "22.29,-24.32 22.27,-24.32 22.25,-24.32 22.23,-24.32 22.21,-24.31 22.19,-24.3 22.18,-24.28 22.19,-24.27 22.21,-24.26 22.22,-24.25 22.24,-24.26 22.25,-24.25 22.27,-24.24 22.29,-24.25 22.3,-24.26 22.31,-24.28 22.31,-24.3",
+        "style": "{\"color\":\"#902532\",\"fillColor\":\"#8E0024\",\"fillOpacity\":\"0.1\"}"
+    }
+]

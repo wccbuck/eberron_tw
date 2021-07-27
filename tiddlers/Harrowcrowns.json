@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20210208045159848",
+        "title": "Harrowcrowns",
+        "text": "The dark wood on the northern shore of [[Lake Brey]] in [[Thrane]]\nis called the Harrowcrowns. At the birth of [[Galifar]],\none great forest stretched from the [[Blackcaps|Blackcap Mountains]] to\n[[Scions Sound]], including the woods now called the\n[[Greenhaunt]], the [[Imistil Forest]], and the [[Thornwood]]\nas well as the Harrowcrowns. Settlers through the ages have cleared most of the land for farming, and several small [[Thrane]] villages now surround the Harrowcrowns, despite the monsters that periodically seem to erupt from the forest and ravage the countryside for miles around.\n\nSavage [[goblin]]s raided out from the Harrowcrowns in 465 YK, leading eventually to the discovery of an ancient [[Dhakaan]]i ruin in the heart of the forest. A team of scholars from [[Flamekeep]] never returned from its exploration of the ruins, and the ruins’ location has since been lost.\n\n[[Ettercap|ettercap]]s and giant spiders, crazed [[dryad]]s and [[treant]]s, bloodthirsty [[gnoll]]s, and twisted [[dolgrim]]s are among the monsters that have emerged from the forest to ravage the surrounding villages. Some have speculated that a planar connection—to [[Thelanis]], or perhaps the mad realm of [[Xoriat]]—is responsible for the plague of monsters, but it seems more likely that these creatures are native to the forest itself. ",
+        "modified": "20210727192012705",
+        "tags": "Thrane forest Khorvaire",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polygons": "40.42,-5.39 40.4,-5.03 40.44,-4.77 40.59,-4.46 40.7,-4.21 40.67,-3.83 40.72,-3.51 40.67,-3.3 40.56,-3.03 40.55,-2.77 40.66,-2.57 40.95,-2.54 41.14,-2.62 41.33,-2.65 41.53,-2.59 41.82,-2.45 42.05,-2.44 42.3,-2.55 42.54,-2.56 42.75,-2.48 42.94,-2.6 43.12,-2.7 43.3,-2.9 43.38,-3.13 43.27,-3.42 43.12,-3.61 42.92,-3.63 42.78,-3.71 42.65,-3.95 42.5,-4.2 42.35,-4.33 42.38,-4.48 42.56,-4.68 42.66,-4.99 42.82,-5.24 42.89,-5.55 42.97,-5.89 42.95,-6.3 42.81,-6.64 42.64,-6.76 42.38,-6.66 42.09,-6.46 41.9,-6.44 41.54,-6.52 41.37,-6.46 41.23,-6.29 41.03,-6.1 40.72,-5.91 40.53,-5.65",
+        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}",
+        "tooltip": "monster-infested forest in Thrane"
+    }
+]

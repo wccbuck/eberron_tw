@@ -1,0 +1,62 @@
+category: game mechanics
+created: 20210725173949205
+modified: 20210727192033736
+tags: Storyloom talent
+title: Spellcaster (talent)
+type: text/vnd.tiddlywiki
+
+The Spellcaster [[talent]] allows you to cast [[spell]]s. You can take this talent multiple times to gain access to more spells. The spells you gain are restricted by [[spell tier]], but you gain access to more tiers as you take this talent multiple times.
+
+| !Spellcaster<br/>Level |!Spells Gained |
+| 1 |Two cantrip or common |
+| 2 |Two cantrip or common, or rare (no more than 1 rare) |
+| 3 |Two cantrip, common, or rare; or one legendary |
+| 4 |As above |
+| 5 |Two cantrip, common, rare, or legendary; or one mythical |
+
+Instead of gaining a new spell, a player may choose to upgrade ''two'' existing spells to gain the ability to cast it at one tier higher, if possible. If the new or upgraded spells chosen are highly specialized or niche, additional spells can be taken (at the GM's discretion).
+
+Example combinations of spells for different character archetypes/occupations are shown below. Spells marked with * are given for free due to their niche utility.
+
+!! Enchanter
+
+[[Wizard|wizard]]s who are masters of [[enchantment]] might take the following spells. 
+
+| !Spellcaster<br/>Level |!Spells Gained |
+| 1 |[[friends]]*, [[charm]], [[command]] |
+| 2 |[[dominate]], [[suggestion]] |
+| 3 |[[glibness]] |
+| 4 |[[hex]], upgraded [[hex]], [[sleep]] |
+| 5 |[[power word stun]], [[power word pain]] |
+| 6 |[[power word kill]] |
+
+!! Eldritch Knight
+
+[[Eldritch knight|eldritch knight]]s might take the following spells.
+
+| !Spellcaster<br/>Level |!Spells Gained |
+| 1 |[[sword burst]], [[green-flame blade]] |
+| 2 |[[lightning lure]], [[warding bond]]|
+| 3 |[[stoneskin]], upgrade [[sword burst]] and [[lightning lure]] |
+| 4 |[[globe of invulnerability]] |
+
+!! Child of Winter
+
+A [[druid]] of the [[Children of Winter]] might take the following spells.
+
+| !Spellcaster<br/>Level |!Spells Gained |
+| 1 |[[infestation]], [[detect poison and disease]]*, [[druidcraft]]|
+| 2 |[[insect plague]], [[armor of winter]]|
+| 3 |[[giant insect]], [[blight]] |
+| 4 |[[control weather]] |
+
+!! Paladin
+
+A [[paladin]] of [[Dol Arrah]] might take the following spells.
+
+| !Spellcaster<br/>Level |!Spells Gained |
+| 1 |[[light]], [[compelled duel]]|
+| 2 |[[cure wounds]], [[restoration]]|
+| 3 |[[divine favor]], [[banishing smite]] |
+| 4 |[[crusader's mantle]], upgrade [[cure wounds]] and [[restoration]] |
+| 5 |[[conjure celestial]], [[sunbeam]] |

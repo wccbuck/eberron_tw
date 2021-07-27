@@ -1,0 +1,16 @@
+category: spell
+color: #B7A1E0
+created: 20210427162303293
+modified: 20210727192013383
+tags: enchantment
+tier: 2
+title: hex
+type: text/vnd.tiddlywiki
+
+You place a curse on a creature that you can see within 90 feet. Choose one [[action]] or [[attribute]] when you cast the spell. For up to 1 hour (or until your concentration breaks), the target has [[disadvantage]] on attempts made with the chosen action or attribute.
+
+A [[remove curse]] cast on the target ends this spell early.
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, the duration increases to 8 hours and does not require concentration to maintain.

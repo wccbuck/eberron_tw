@@ -1,0 +1,11 @@
+category: phenomenon
+color: #432874
+created: 20200422220959503
+modified: 20210727191953252
+tags: [[spell school]]
+title: abjuration
+type: text/vnd.tiddlywiki
+
+Abjuration spells are protective in nature, though some of them have aggressive uses. They create magical barriers, negate harmful effects, harm trespassers, or banish creatures to other [[plane]]s of existence.
+
+!!! <<showspells-school {{!!title}}>>

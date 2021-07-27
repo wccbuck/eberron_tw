@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20210427160155301
+modified: 20210727192006509
+tags: [[divine magic]] [[primal magic]] evocation
+tier: 4
+title: earthquake
+type: text/vnd.tiddlywiki
+
+You create a seismic disturbance at a point on the ground that you can see within 500 feet. For up to a minute (or until your concentration breaks), an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
+
+This spell can have additional effects depending on the terrain in the area, as determined by the GM.
+
+//''Fissures.''// Fissures open throughout the spell's area a few seconds after you start casting the spell. A total of <<dr 1d6>> such fissures open in locations chosen by the GM. Each is 10-100 feet deep, 10 feet wide, and extends from one edge of the spell's area to the opposite side. A creature that successfully avoids falling in when the fissure opens moves with the fissure's edge as it opens.
+
+A fissure that opens beneath a structure causes it to automatically collapse (see below).
+
+//''Structures.''// The tremor deals heavy damage to any structure in contact with the ground in the area continuously until the spell ends. Eventually, a structure may collapse and potentially damage or bury nearby creatures.

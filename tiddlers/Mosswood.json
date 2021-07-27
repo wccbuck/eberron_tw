@@ -1,0 +1,15 @@
+[
+    {
+        "created": "20210210012219048",
+        "title": "Mosswood",
+        "text": "The Mosswood is a small forest in the [[Eldeen Reaches]], near the towns of [[Mossmantle]] and [[Alvirad]].",
+        "modified": "20210727192022275",
+        "tags": "[[Eldeen Reaches]] forest Khorvaire",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polygons": "52.26,-21.46 52.22,-21.17 52.13,-20.89 51.99,-20.49 51.99,-20.22 52.08,-19.94 52.24,-19.61 52.52,-19.34 52.74,-19.2 53.0,-19.29 53.16,-19.45 53.41,-19.59 53.55,-19.87 53.64,-20.34 53.57,-20.74 53.36,-21.06 53.14,-21.31 52.93,-21.44 52.7,-21.49 52.49,-21.57",
+        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}"
+    }
+]

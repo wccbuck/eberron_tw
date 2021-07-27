@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210501015904146
+modified: 20210727192006498
+tags: transmutation
+tier: 2
+title: earthen grasp
+type: text/vnd.tiddlywiki
+
+You choose a spot on the ground that you can see within 30 feet. A humanoid hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must avoid the hand or else suffer some damage and become restrained for as long as the spell's duration (up to a minute, or until your concentration breaks), but the creature may break free earlier.
+
+You can cause the hand to crush the restrained target, which causes additional damage. You can also choose to direct the hand to reach for a different creature or to move to a different unoccupied space within 30 feet for as long as the spell lasts. The hand releases a restrained target if you do either.

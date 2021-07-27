@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210330171030667
+modified: 20210727192013839
+tags: necromancy
+tier: 4
+title: horrid wilting
+type: text/vnd.tiddlywiki
+
+You draw the moisture from every creature in a 30-foot sphere centered on a point you choose within 150 feet. Creatures that don't have blood or don't require moisture (such as many [[undead]], [[construct]]s, and [[immortal]]s) aren't affected, whereas [[plant creature]]s and water [[elemental]]s are at a disadvantage.  Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly.

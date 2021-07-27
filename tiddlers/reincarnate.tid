@@ -1,0 +1,28 @@
+category: spell
+color: #B7A1E0
+created: 20210428054345961
+modified: 20210727192027779
+tags: [[primal magic]]
+tier: 3
+title: reincarnate
+type: text/vnd.tiddlywiki
+var: gnome
+
+This spell requires a one-hour ritual and [[100c|money]] worth of ritual components, which are expended.
+
+You touch a dead Humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target's soul isn't free or willing to do so, the spell fails.
+
+The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The GM chooses a form the creature takes when restored to life, or chooses a random [[humanoid]] race:
+
+<<<
+<$button>
+<$action-chooserandom $filter="[category[creature]tag[humanoid]has[var]!has[article]!tag[monstrosity]!tag[construct]] [[goblin]] [[hobgoblin]] [[bugbear]] -[[goblinoid]]" $field="var"/>
+Random Race
+</$button>
+
+''Reincarnated Form: ''<$link to={{!!var}}/>
+<<<
+
+The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
+
+Performing this spell is risky; drawing a spirit back from [[Dolurrh]] might catch the attention of a Dolurrhi [[marut]], or even bring back the wrong spirit, causing a ghost to manifest or ending up with a hostile personality in your friend's body. This is why [[Jorasco]] healers capable of resurrection typically cast [[augury]] first, and will refuse service if the result is "woe". For more information, see the "Concerning Resurrection" section of [[Dolurrh]].
