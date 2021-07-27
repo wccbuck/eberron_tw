@@ -1,9 +1,0 @@
-created: 20210117185710989
-cutoff: 0
-list: 
-modified: 20210727210249843
-tags: [tag[$:/Background]search:title[Land]sort[title]] [has[title]tag[$:/Background]search:title[Sea]sort[title]] [has[polygons]tag[continent]] [has[polygons]tag[sea]] [all[]all[]all[]has[polylines]tag[latitude]] [all[]all[]all[]all[]tag[quarter]] [has[points]] [all[]all[]all[]all[]var[orientraderoad]] [all[]has[polygons]!tag[continent]!tag[desert]!tag[forest]!tag[geography]!tag[island]!tag[lake]!tag[mountains]!tag[river]!tag[swamp]!tag[sea]!tag[province]!tag[quarter]!tag[ward]!tag[$:/Background]] [all[]all[]has[polygons]tag[province]] [all[]all[]all[]list[geography]tagging[]!tag[continent]!has[points]!var[back]] [all[]list[geography]tagging[]!tag[continent]!has[points]var[back]] [all[]all[]all[]all[]var[lightningrail]]
-title: $:/MapTags
-type: text/vnd.tiddlywiki
-
--28.41,17.77,-16.02,26.31,-25.31,19.91,-19.12,24.18,-22.21,22.04
