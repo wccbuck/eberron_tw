@@ -1,6 +1,6 @@
 created: 20210302183726633
-modified: 20210727191951348
+modified: 20210727210758378
 title: $:/config/Manager/MiscCat
 type: text/vnd.tiddlywiki
 
-[category[game mechanics]]
+[has[category]!category[location]!category[object]!category[spell]!category[creature]!category[person]!category[entity]!category[organization]]
