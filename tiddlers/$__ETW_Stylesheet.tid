@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20210727191952303
+modified: 20210728190328039
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -95,7 +95,7 @@ div.sidebar-map a.tc-tiddlylink {
 position: -webkit-sticky;position: -moz-sticky;position: -o-sticky;position: -ms-sticky;position: sticky;top:73px; }
 
 div.title-gradient { z-index:200;position: -webkit-sticky;position:-moz-sticky;position:-o-sticky;position:-ms-sticky;position:sticky;top: 71px;}
-div.title-gradient-1 {height: 1px; background-color: <<color page-background>>;}
+div.title-gradient-1 {height: 1px; background-color: <<color background>>;}
 div.title-gradient-2 {height: 3px;background-image: linear-gradient(to right, <<color foreground>>, <<color page-background>>);}
 
 div.header-gradient {height: 3px;background-image: linear-gradient(to right, <<color foreground>>, rgba(0,0,0,0));opacity:0.7; }
