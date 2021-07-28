@@ -2,7 +2,7 @@ caption: Map
 created: 20210112213904741
 cutoff: 0
 list-before: $:/core/ui/SideBar/Open
-modified: 20210727215622703
+modified: 20210728184430371
 showcontrols: show
 tags: $:/tags/SideBar
 title: Map
@@ -25,7 +25,7 @@ type: text/vnd.tiddlywiki
 
 <$fieldmangler tiddler="$:/MapTags">
 <$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]has[polylines]tag[latitude]]"> ''Lines of Latitude''&nbsp;&nbsp;</$checkbox><$checkbox tiddler="$:/MapTags" tag="[has[polygons]tag[continent]]"> ''Continents''</$checkbox><br/><$checkbox tiddler="$:/MapTags" tag="[has[polygons]tag[sea]]"> ''Seas''&nbsp;&nbsp;</$checkbox><$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]list[geography]tagging[]!tag[continent]!has[points]!var[back]]" checkactions=<<backgeocheck>> uncheckactions=<<backgeouncheck>>> ''Geography''</$checkbox><br/>
-<$checkbox tiddler="$:/MapTags" tag="[all[]has[polygons]!tag[continent]!tag[desert]!tag[forest]!tag[geography]!tag[island]!tag[lake]!tag[mountains]!tag[river]!tag[swamp]!tag[sea]!tag[province]!tag[quarter]!tag[ward]!tag[$:/Background]]"> ''Nations and Regions''&nbsp;&nbsp;</$checkbox><$checkbox tiddler="$:/MapTags" tag="[all[]all[]has[polygons]tag[province]]"> ''Provinces''</$checkbox><br/>
+<$checkbox tiddler="$:/MapTags" tag="[all[]has[polygons]!tag[continent]!tag[desert]!tag[forest]!tag[geography]!tag[island]!tag[lake]!tag[mountains]!tag[river]!tag[swamp]!tag[sea]!tag[lava]!tag[province]!tag[quarter]!tag[ward]!tag[$:/Background]]"> ''Nations and Regions''&nbsp;&nbsp;</$checkbox><$checkbox tiddler="$:/MapTags" tag="[all[]all[]has[polygons]tag[province]]"> ''Provinces''</$checkbox><br/>
 <$checkbox tiddler="$:/MapTags" tag="[has[points]]"> ''Cities and Sites''&nbsp;&nbsp;</$checkbox><$select tiddler="Map" field="cutoff"><option value="0">All</option><option value="1000">Many</option><option value="3000">Some</option><option value="7000">Few</option><option value="14000">Very Few</option></$select><br/>
 <$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]all[]var[orientraderoad]]"> ''Roads''&nbsp;&nbsp;</$checkbox>
 <$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]all[]var[lightningrail]]"> ''Lightning Rail Lines''</$checkbox><br/>
