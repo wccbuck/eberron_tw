@@ -1,5 +1,5 @@
 created: 20210707210033615
-modified: 20210727191953049
+modified: 20210728215606428
 tags: $:/tags/ViewTemplate
 title: $:/ViewTemplate/notes
 type: text/vnd.tiddlywiki
@@ -12,7 +12,8 @@ type: text/vnd.tiddlywiki
 <div class="note-bg">
 <p style="margin:5px;">
 
-!!! <$link/>
+<h3 style="display:inline-block;width:100%;margin-bottom:0;"><p style="float:left;margin:0;"><$link/></p> <p style="float:right;margin:0;">{{||$:/core/ui/Buttons/edit}}</p></h3>
+<div class="header-gradient"/>
 
 {{!!text}}
 </p>
