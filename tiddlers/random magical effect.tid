@@ -1,18 +1,18 @@
-2d4: 2
+2d4: 7
 category: phenomenon
 color: #432874
 created: 20210108063641067
 d10: 8
-d20: 10
-d35: 15
+d20: 15
+d35: 30
 d4: 3
-d50: 20
-d7: 1
-duration: 1 minute
-effect: One of target's arms is bent like a shepherd's crook for the next {{!!duration}}.
-l_duration: 24 hours
-modified: 20210727192027129
-s_duration: 1 second
+d50: 10
+d7: 3
+duration: 20 minutes
+effect: All cloth within 50 yards is scrubbed clean.
+l_duration: 6 hours
+modified: 20210728183938863
+s_duration: 5 seconds
 tags: 
 title: random magical effect
 type: text/vnd.tiddlywiki
