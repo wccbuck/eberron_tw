@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20201221190410331
-modified: 20210727192042476
+modified: 20210728212939688
 tags: undead
 tier: 2
 title: wight
@@ -13,6 +13,6 @@ Wights possess the memories and drives of their formerly living selves. They wil
 
 //''Life Eaters.''// Neither dead nor alive, a wight exists in a transitional state between one world and the next. The bright spark it possessed in life is gone, and in its place is a yearning to consume that spark in all living things. When a wight attacks, this life essence glows like white-hot embers to its dark eyes, and the wight's cold touch can drain the spark through flesh, clothing, and armor.
 
-//''Shadow of the Grave.''// Wights flee from the world by day, away from the light of the sun, which they hate. They retreat to barrow mounds, crypts, and tombs where they dwell. Their lairs are silent, desolate places, surrounded by dead plants, noticeably blackened, and avoided by bird and beast.
+//''Shadow of the Grave.''// Wights flee from the world by day, away from the light of the [[sun|Sun]], which they hate. They retreat to barrow mounds, crypts, and tombs where they dwell. Their lairs are silent, desolate places, surrounded by dead plants, noticeably blackened, and avoided by bird and beast.
 
 [[Humanoids|humanoid]] slain by a wight can rise as [[zombie]]s under its control. Motivated by hunger for living souls and driven by the same desire for power that awakened them in undeath, some wights serve as shock troops for evil leaders, including [[wraith]]s. As soldiers, they are able to plan but seldom do so, relying on their hunger for destruction to overwhelm any creature that stands before them.

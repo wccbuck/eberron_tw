@@ -1,13 +1,13 @@
 [
     {
         "created": "20210330173636740",
-        "title": "Dral Khatuur",
-        "text": "Dral Khatuur is an [[overlord]] of the [[Age of Demons]]. She embodies mortal fear of cold and darkness. She is the winter that steals the sun, the terror carried on the icy winds howling in the night. Those who venture out into the icy dark may never return... and if they do, they may merely be [[simulacra|simulacrum]] of victims of the killing cold, sculpted by the Heart of Winter to drain the warmth of hope from the living.\n\nDral Khatuur has few allies, if any. She does not have a speaker among the [[Lords of Dust]], and none among the [[rakshasa]] work to bring about her release.",
-        "modified": "20210727192005576",
-        "tags": "overlord immortal fiend",
+        "text": "Dral Khatuur is an [[overlord]] of the [[Age of Demons]]. She embodies mortal fear of cold and darkness. She is the winter that steals the [[sun|Sun]], the terror carried on the icy winds howling in the night. Those who venture out into the icy dark may never return... and if they do, they may merely be [[simulacra|simulacrum]] of victims of the killing cold, sculpted by the Heart of Winter to drain the warmth of hope from the living.\n\nDral Khatuur has few allies, if any. She does not have a speaker among the [[Lords of Dust]], and none among the [[rakshasa]] work to bring about her release.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the Heart of Winter, ",
+        "title": "Dral Khatuur",
+        "tags": "overlord immortal fiend",
+        "modified": "20210728213642108",
+        "color": "#8C4606",
         "category": "entity",
-        "color": "#8C4606"
+        "article": "the Heart of Winter, "
     }
 ]
