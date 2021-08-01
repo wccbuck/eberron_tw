@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20200415034919312
-modified: 20210727192020482
+modified: 20210801031331116
 tags: dragonmark
 title: Mark of Detection
 type: text/vnd.tiddlywiki
@@ -13,6 +13,10 @@ the bearer can discern the presence of threats, from poisoned food to scrying ey
 
 Only a [[half-elf]] with ties to House [[Medani]] can manifest this [[dragonmark]].
 
-!! {{!!title}} [[Focus Items|dragonmark focus item]]
+See also [[Mark of Detection (talent)]].
 
-<<list-links-article "[tag[dragonmark focus item]search::casesensitive{!!title}!search:title[dragonmark]!search:title[channeling]]">>
+!! {{!!title}} Focus Items
+
+The following [[dragonmark focus item]]s require a {{!!title}}.
+
+<<list-links-article "[tag[dragonmark focus item]] -[tag[dragonmark]!title{!!title}tagging[]] +[sort[title]]">>

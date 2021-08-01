@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20200415044053976
-modified: 20210727192020556
+modified: 20210801031331208
 tags: dragonmark
 title: Mark of Scribing
 type: text/vnd.tiddlywiki
@@ -16,7 +16,11 @@ a distance.
 
 Only a [[gnome]] with ties to House [[Sivis]] can manifest this [[dragonmark]].
 
-!! {{!!title}} [[Focus Items|dragonmark focus item]]
+See also [[Mark of Scribing (talent)]].
 
-<<list-links-article "[tag[dragonmark focus item]search::casesensitive{!!title}!search:title[dragonmark]!search:title[channeling]]">>
+!! {{!!title}} Focus Items
+
+The following [[dragonmark focus item]]s require a {{!!title}}.
+
+<<list-links-article "[tag[dragonmark focus item]] -[tag[dragonmark]!title{!!title}tagging[]] +[sort[title]]">>
 

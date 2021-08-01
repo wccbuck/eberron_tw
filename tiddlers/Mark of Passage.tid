@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20200415043640913
-modified: 20210727192020546
+modified: 20210801031331196
 tags: dragonmark
 title: Mark of Passage
 type: text/vnd.tiddlywiki
@@ -12,6 +12,10 @@ mark can even slip through space in the blink of an eye.
 
 Only a [[human]] with ties to House [[Orien]] can manifest this [[dragonmark]].
 
-!! {{!!title}} [[Focus Items|dragonmark focus item]]
+See also [[Mark of Passage (talent)]].
 
-<<list-links-article "[tag[dragonmark focus item]search::casesensitive{!!title}!search:title[dragonmark]!search:title[channeling]]">>
+!! {{!!title}} Focus Items
+
+The following [[dragonmark focus item]]s require a {{!!title}}.
+
+<<list-links-article "[tag[dragonmark focus item]] -[tag[dragonmark]!title{!!title}tagging[]] +[sort[title]]">>

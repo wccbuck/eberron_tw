@@ -1,0 +1,32 @@
+category: game mechanics
+created: 20210731190725358
+list: light [[Medani foresight]] [[detect magic]] [[detect immortal]] [[detect poison and disease]] [[detect thoughts]] [[detect traps]] clairvoyance nondetection [[arcane eye]] [[legend lore]] [[see invisibility]] [[true seeing]] [[true strike]] [[trace teleport]]
+modified: 20210801003811875
+tags: half-elf Storyloom talent [[Mark of Detection]]
+title: Mark of Detection (talent)
+type: text/vnd.tiddlywiki
+
+You possess the [[Mark of Detection]], a [[dragonmark]] that only manifests on [[half-elves|half-elf]] with ties to House [[Medani]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (cantrip or common [[spell tier]]) from the below list. //Recommended Spell: [[detect magic]].//
+
+If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster (talent)]].
+
+!! Mark of Detection Spell List
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

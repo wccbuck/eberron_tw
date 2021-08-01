@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20200415043011224
-modified: 20210727192020535
+modified: 20210801031331184
 tags: dragonmark
 title: Mark of Making
 type: text/vnd.tiddlywiki
@@ -15,6 +15,10 @@ for an enchanted blade.
 
 Only a [[human]] with ties to House [[Cannith]] can manifest this [[dragonmark]].
 
-!! {{!!title}} [[Focus Items|dragonmark focus item]]
+See also [[Mark of Making (talent)]].
 
-<<list-links-article "[tag[dragonmark focus item]search::casesensitive{!!title}!search:title[dragonmark]!search:title[channeling]]">>
+!! {{!!title}} Focus Items
+
+The following [[dragonmark focus item]]s require a {{!!title}}.
+
+<<list-links-article "[tag[dragonmark focus item]] -[tag[dragonmark]!title{!!title}tagging[]] +[sort[title]]">>

@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20200415044811339
-modified: 20210727192020576
+modified: 20210801031331236
 tags: dragonmark
 title: Mark of Shadow
 type: text/vnd.tiddlywiki
@@ -12,6 +12,10 @@ sculpt shadows, making it easy to avoid detection. Some wielders of the mark can
 
 Only an [[elf]] with ties to House [[Phiarlan]] or [[Thuranni]] can manifest this [[dragonmark]].
 
-!! {{!!title}} [[Focus Items|dragonmark focus item]]
+See also [[Mark of Shadow (talent)]].
 
-<<list-links-article "[tag[dragonmark focus item]search::casesensitive{!!title}!search:title[dragonmark]!search:title[channeling]]">>
+!! {{!!title}} Focus Items
+
+The following [[dragonmark focus item]]s require a {{!!title}}.
+
+<<list-links-article "[tag[dragonmark focus item]] -[tag[dragonmark]!title{!!title}tagging[]] +[sort[title]]">>

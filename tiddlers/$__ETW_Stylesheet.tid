@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20210728190328039
+modified: 20210731182441424
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -101,3 +101,7 @@ div.title-gradient-2 {height: 3px;background-image: linear-gradient(to right, <<
 div.header-gradient {height: 3px;background-image: linear-gradient(to right, <<color foreground>>, rgba(0,0,0,0));opacity:0.7; }
 
 .note-bg {background-color:<<color select-tag-background>>; color:<<color select-tag-foreground>>;}
+
+p.new-note button svg {fill: <<colour tiddler-controls-foreground>>;}
+
+p.new-note button svg:hover {fill: <<colour tiddler-controls-foreground-hover>>;}

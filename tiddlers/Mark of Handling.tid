@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20200415040258740
-modified: 20210727192020504
+modified: 20210801031331144
 tags: dragonmark
 title: Mark of Handling
 type: text/vnd.tiddlywiki
@@ -13,6 +13,10 @@ guide a [[hippogriff]] as easily as a horse.
 
 Only a [[human]] with ties to House [[Vadalis]] can manifest this [[dragonmark]].
 
-!! {{!!title}} [[Focus Items|dragonmark focus item]]
+See also [[Mark of Handling (talent)]].
 
-<<list-links-article "[tag[dragonmark focus item]search::casesensitive{!!title}!search:title[dragonmark]!search:title[channeling]]">>
+!! {{!!title}} Focus Items
+
+The following [[dragonmark focus item]]s require a {{!!title}}.
+
+<<list-links-article "[tag[dragonmark focus item]] -[tag[dragonmark]!title{!!title}tagging[]] +[sort[title]]">>

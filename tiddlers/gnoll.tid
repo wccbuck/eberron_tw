@@ -1,9 +1,9 @@
 category: creature
 color: #EA868F
 created: 20200423050207895
-modified: 20210727192010815
+modified: 20210801045546276
 tags: humanoid monstrosity
-tier: 1
+tier: 2
 title: gnoll
 tooltip: hyena-headed humanoid
 type: text/vnd.tiddlywiki
@@ -32,6 +32,14 @@ its appearance. An unusual gnoll could have glowing red eyes,
 fur with stripes that glow like flames, or other unusual traits.
 Typically these don't grant special abilities, though you could
 attribute a class ability or feat to such a mutation.
+
+//''Lifespan.''// Young gnolls grow with uncanny speed. A gnoll is
+capable of fending for itself after only a few months, and is
+considered an adult at 5 years of age. Gnolls live to be around
+30 years old. They remain vigorous until the end; death by
+old age is marked by a catastrophic decline over a space of
+a few days. Many believe this unusual lifecycle is tied to the
+supernatural origins of the gnoll.
 
 //''Bone Eaters.''// Gnolls possess powerful jaws, as reflected by
 their bite attack. They can chew through and digest bone, and

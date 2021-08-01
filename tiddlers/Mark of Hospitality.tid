@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20200415041610596
-modified: 20210727192020524
+modified: 20210801031331170
 tags: dragonmark
 title: Mark of Hospitality
 type: text/vnd.tiddlywiki
@@ -14,6 +14,10 @@ helps the bearer connect with others, with a calming aura that helps guests rela
 
 Only a [[halfling]] with ties to House [[Ghallanda]] can manifest this [[dragonmark]].
 
-!! {{!!title}} [[Focus Items|dragonmark focus item]]
+See also [[Mark of Hospitality (talent)]].
 
-<<list-links-article "[tag[dragonmark focus item]search::casesensitive{!!title}!search:title[dragonmark]!search:title[channeling]]">>
+!! {{!!title}} Focus Items
+
+The following [[dragonmark focus item]]s require a {{!!title}}.
+
+<<list-links-article "[tag[dragonmark focus item]] -[tag[dragonmark]!title{!!title}tagging[]] +[sort[title]]">>
