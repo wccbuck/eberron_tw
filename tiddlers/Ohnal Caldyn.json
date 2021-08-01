@@ -1,13 +1,13 @@
 [
     {
         "created": "20210322012721595",
-        "title": "Ohnal Caldyn",
-        "text": "[[Morgrave University]] is honored to have Ohnal Caldyn as an adjunct professor this term. While some have called Professor Caldyn’s work on the [[Draconic Prophecy]] “the ravings of a lunatic,” Morgrave stands by Caldyn’s scholarship and believes that history will vindicate his remarkable work. When speaking to the professor, please avoid making\nany sudden movements or loud noises.",
-        "modified": "20210727192023513",
-        "tags": "[[Morgrave University]] humanoid human",
+        "text": "[[Morgrave University]] is honored to have Ohnal Caldyn as an adjunct professor this term. While some have called Professor Caldyn’s work on the [[Draconic Prophecy]] “the ravings of a lunatic,” Morgrave stands by Caldyn’s scholarship and believes that history will vindicate his remarkable work. When speaking to the professor, please avoid making\nany sudden movements or loud noises.\n\nSee also [[Caldyn Fragments]].",
         "type": "text/vnd.tiddlywiki",
-        "article": "Professor ",
+        "title": "Ohnal Caldyn",
+        "tags": "[[Library of Korranberg]] [[Morgrave University]] humanoid human",
+        "modified": "20210801005735115",
+        "color": "#FEA627",
         "category": "person",
-        "color": "#FEA627"
+        "article": "Professor "
     }
 ]

@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20210731233829966
+modified: 20210731234004941
+tags: [[primal magic]] abjuration
+tier: 3
+title: antilife shell
+type: text/vnd.tiddlywiki
+
+A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than [[undead]] and [[construct]]s. The barrier lasts for up to an hour, or until your concentration breaks.
+
+The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or projectiles through the barrier.
+
+If you move so that an affected creature is forced to pass through the barrier, the spell ends.

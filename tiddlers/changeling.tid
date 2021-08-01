@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414202806968
-modified: 20210727192000457
+modified: 20210801053339421
 tags: humanoid shapechanger
 tier: 1
 title: changeling
@@ -66,7 +66,7 @@ and persona and adopt new names as easily as they
 change faces. The true name of a changeling tends to
 be simple and monosyllabic; however, there are often
 accents to a changeling's name that are expressed
-through shapeshifting, something single-skins will
+through shapeshifting or [[skin cant]], something single-skins will
 likely miss. So, two changelings might have the name
 //Jin//, but one is //Jin-with-vivid-blue-eyes// and one is //Jin-with-golden-nails//.
 

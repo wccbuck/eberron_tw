@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20200415171423053
-modified: 20210727192020587
+modified: 20210801031331252
 tags: dragonmark
 title: Mark of Storm
 type: text/vnd.tiddlywiki
@@ -12,6 +12,10 @@ the storm itself. Bearers can resist the elements and endure lightning strikes, 
 
 Only a [[half-elf]] with ties to House [[Lyrandar]] can manifest this [[dragonmark]].
 
-!! {{!!title}} [[Focus Items|dragonmark focus item]]
+See also [[Mark of Storm (talent)]].
 
-<<list-links-article "[tag[dragonmark focus item]search::casesensitive{!!title}!search:title[dragonmark]!search:title[channeling]]">>
+!! {{!!title}} Focus Items
+
+The following [[dragonmark focus item]]s require a {{!!title}}.
+
+<<list-links-article "[tag[dragonmark focus item]] -[tag[dragonmark]!title{!!title}tagging[]] +[sort[title]]">>

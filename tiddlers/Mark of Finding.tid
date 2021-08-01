@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20200415035355840
-modified: 20210727192020493
+modified: 20210801031331130
 tags: dragonmark
 title: Mark of Finding
 type: text/vnd.tiddlywiki
@@ -12,7 +12,11 @@ clan hunters used it to find their quarry. Today, bounty hunters and prospectors
 
 Only a [[half-orc]] (or [[human]] with just a bit of [[orc]] ancestry) with ties to House [[Tharashk]] can manifest this [[dragonmark]].
 
-!! {{!!title}} [[Focus Items|dragonmark focus item]]
+See also [[Mark of Finding (talent)]].
 
-<<list-links-article "[tag[dragonmark focus item]search::casesensitive{!!title}!search:title[dragonmark]!search:title[channeling]]">>
+!! {{!!title}} Focus Items
+
+The following [[dragonmark focus item]]s require a {{!!title}}.
+
+<<list-links-article "[tag[dragonmark focus item]] -[tag[dragonmark]!title{!!title}tagging[]] +[sort[title]]">>
 

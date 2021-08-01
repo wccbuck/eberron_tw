@@ -1,0 +1,34 @@
+category: game mechanics
+created: 20210731220727273
+list: [[cure wounds]] [[healing word]] [[gentle repose]] restoration [[prayer of healing]] [[aura of vitality]] [[aura of purity]] [[aura of life]] heal regeneration [[life transference]] [[spare the dying]] [[raise dead]] resurrection
+modified: 20210731230803259
+tags: Storyloom talent [[Mark of Healing]] halfling
+title: Mark of Healing (talent)
+type: text/vnd.tiddlywiki
+
+You possess the [[Mark of Healing]], a [[dragonmark]] that only manifests on [[halfling]]s with ties to House [[Jorasco]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (cantrip or common [[spell tier]]) from the below list. //Recommended Spell: [[cure wounds]].//
+
+If your character is following the path of the [[nosomatic chirurgeon]], you may add disease-based and harm-based spells to your dragonmark spell list, such as [[contagion]], [[inflict wounds]], and [[vampiric touch]].
+
+If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster (talent)]].
+
+!! Mark of Healing Spell List
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210402021419698
-modified: 20210727192036059
+modified: 20210731191540117
 tags: Storyloom
 title: talent
 type: text/vnd.tiddlywiki
@@ -17,8 +17,42 @@ When you make a character, you may choose one or two talents (depending on the g
 
 !! Talent List
 
+!!! Occupation-Based Talents
 <ul>
-<$list filter="[tag{!!title}sort[title]]">
+<$list filter="[category[occupation]tagging[]tag[talent]sort[title]]">
+<li>
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$link to=<<currentTiddler>>><<splittitle>></$link>
+</$wikify>
+</li>
+</$list>
+</ul>
+
+!!! Species-Based Talents
+<ul>
+<$list filter="[category[creature]tagging[]tag[talent]] -[tag[dragonmark]tagging[]tag[talent]] +[sort[title]]">
+<li>
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$link to=<<currentTiddler>>><<splittitle>></$link>
+</$wikify>
+</li>
+</$list>
+</ul>
+
+!!! Dragonmark-Based Talents
+<ul>
+<$list filter="[tag[dragonmark]tagging[]tag[talent]sort[title]]">
+<li>
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$link to=<<currentTiddler>>><<splittitle>></$link>
+</$wikify>
+</li>
+</$list>
+</ul>
+
+!!! Other Talents
+<ul>
+<$list filter="[tag[talent]] -[tag[dragonmark]tagging[]tag[talent]] -[category[creature]tagging[]tag[talent]] -[category[occupation]tagging[]tag[talent]] +[sort[title]]">
 <li>
 <$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>

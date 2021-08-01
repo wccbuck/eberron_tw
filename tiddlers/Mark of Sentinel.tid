@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20200415044343838
-modified: 20210727192020566
+modified: 20210801031331222
 tags: dragonmark
 title: Mark of Sentinel
 type: text/vnd.tiddlywiki
@@ -15,6 +15,10 @@ for danger.
 
 Only a [[human]] with ties to House [[Deneith]] can manifest this [[dragonmark]].
 
-!! {{!!title}} [[Focus Items|dragonmark focus item]]
+See also [[Mark of Sentinel (talent)]].
 
-<<list-links-article "[tag[dragonmark focus item]search::casesensitive{!!title}!search:title[dragonmark]!search:title[channeling]]">>
+!! {{!!title}} Focus Items
+
+The following [[dragonmark focus item]]s require a {{!!title}}.
+
+<<list-links-article "[tag[dragonmark focus item]] -[tag[dragonmark]!title{!!title}tagging[]] +[sort[title]]">>

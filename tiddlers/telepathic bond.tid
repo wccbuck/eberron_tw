@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210428002946564
-modified: 20210727192036567
+modified: 20210801004318803
 tags: divination psionics
 tier: 3
 title: telepathic bond
@@ -11,7 +11,9 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other [[plane]]s of existence.
 
-Some [[eldritch machine]]s allow permanent telepathic bonds to be formed between two willing creatures.
+Some [[eldritch machine]]s allow permanent telepathic bonds to be formed between two willing creatures. 
+
+A wielder of the [[Mark of Scribing]] who can cast this spell can form a telepathic bond to a [[magic mouth]] they have created.
 
 !! Legendary-Tier
 

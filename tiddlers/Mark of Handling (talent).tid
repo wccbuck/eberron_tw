@@ -1,0 +1,34 @@
+category: game mechanics
+created: 20210731213255412
+list: [[animal friendship]] [[enhance ability]] [[speak with animals]] [[beast sense]] [[calm emotions]] [[blessed birth]] [[summon beasts]] charm dominate [[aura of life]] awaken [[beacon of hope]] [[beast bond]] farmhand
+modified: 20210801004047083
+tags: Storyloom talent [[Mark of Handling]] human
+title: Mark of Handling (talent)
+type: text/vnd.tiddlywiki
+
+You possess the [[Mark of Handling]], a [[dragonmark]] that only manifests on [[human]]s with ties to House [[Vadalis]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (cantrip or common [[spell tier]]) from the below list. //Recommended Spell: [[animal friendship]].//
+
+Any dragonmark spell you learn that targets [[beast]]s can also target [[monstrosities|monstrosity]] with beast-like intelligence. However, spells like [[calm emotions]] and [[dominate]] learned with this talent cannot target [[humanoid]]s, only [[beast]]s and [[monstrosities|monstrosity]]. 
+
+If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster (talent)]].
+
+!! Mark of Handling Spell List
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>
