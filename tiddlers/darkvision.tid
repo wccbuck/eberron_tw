@@ -1,10 +1,9 @@
-category: spell
-color: #B7A1E0
-created: 20210422172614150
-modified: 20210727192003611
-tags: divination transmutation
-tier: 2
+category: phenomenon
+color: #432874
+created: 20210801064359058
+modified: 20210801190702244
+tags: 
 title: darkvision
 type: text/vnd.tiddlywiki
 
-You touch a willing creature to grant it the ability to see in the dark. For up to 8 hours, that creature has darkvision out to a range of 60 feet.
+Within a specified range, a creature with darkvision can see in dim light as if it were bright light, and in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned. However, the creature can't discern color in darkness, only shades of gray. 

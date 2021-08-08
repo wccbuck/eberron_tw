@@ -1,0 +1,37 @@
+created: 20210804170916757
+modified: 20210806222114611
+tags: $:/tags/Macro
+title: $:/core/macros/list-data-draggable
+type: text/vnd.tiddlywiki
+
+\define list-data-draggable-drop-actions()
+<$action-datainsertbefore $tiddler=<<targetTiddler>> $targetIndex=<<item-index>> $actionIndex=<<actionTiddler>>/>
+\end
+
+\define list-data-draggable(tiddler,type:"ul",subtype:"li",class:"",itemTemplate)
+\whitespace trim
+<span class="tc-data-draggable-list">
+<$vars targetTiddler="""$tiddler$""">
+<$type$ class="$class$">
+<$list filter="[[$tiddler$]indexesunsorted[]]" variable="item-index">
+<$wikify name="item-value" text="{{{ [<targetTiddler>getindex<item-index>] }}}">
+<$droppable actions=<<list-data-draggable-drop-actions>> tag="""$subtype$""" enable=<<tv-enable-drag-and-drop>>>
+<div class="tc-droppable-placeholder"/>
+<div>
+<$link to=<<item-value>>>{{||$itemTemplate$}}</$link>
+</div>
+</$droppable>
+</$wikify>
+</$list>
+<$tiddler tiddler="">
+<$droppable actions=<<list-data-draggable-drop-actions>> tag="div" enable=<<tv-enable-drag-and-drop>>>
+<div class="tc-droppable-placeholder">
+{{$:/core/images/blank}}
+</div>
+<div style="height:0.5em;"/>
+</$droppable>
+</$tiddler>
+</$type$>
+</$vars>
+</span>
+\end

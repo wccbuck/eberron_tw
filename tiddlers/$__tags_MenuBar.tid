@@ -1,5 +1,5 @@
 created: 20210215060727729
-list: $:/plugins/tiddlywiki/menubar/items/hamburger $:/plugins/tiddlywiki/menubar/items/topleftbar $:/plugins/tiddlywiki/menubar/items/sidebar $:/MenuBarOpenTiddlers $:/plugins/tiddlywiki/menubar/items/contents $:/MenuBarFindThings $:/plugins/tiddlywiki/menubar/items/search $:/plugins/tiddlywiki/menubar/items/pagecontrols $:/plugins/tiddlywiki/menubar/items/server $:/plugins/tiddlywiki/menubar/items/toprightbar
-modified: 20210727191952868
+list: $:/plugins/tiddlywiki/menubar/items/hamburger $:/plugins/tiddlywiki/menubar/items/topleftbar $:/plugins/tiddlywiki/menubar/items/sidebar $:/MenuBarOpenTiddlers $:/plugins/tiddlywiki/menubar/items/contents $:/MenuBarFindThings $:/plugins/tiddlywiki/menubar/items/pagecontrols $:/plugins/tiddlywiki/menubar/items/search $:/plugins/tiddlywiki/menubar/items/server $:/plugins/tiddlywiki/menubar/items/toprightbar
+modified: 20210802071444870
 title: $:/tags/MenuBar
 type: text/vnd.tiddlywiki
