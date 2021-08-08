@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210402021419698
-modified: 20210731191540117
+modified: 20210807231658368
 tags: Storyloom
 title: talent
 type: text/vnd.tiddlywiki
@@ -13,13 +13,13 @@ Typically a talent will allow your character to do one of the following:
 * Get +1d6 in your dice pool (an [[advantage]]) on a specific type of attempt under a narrow circumstance
 * Gain a new benefit to [[push yourself]], or gain an added bonus to push yourself in a specific circumstance
 
-When you make a character, you may choose one or two talents (depending on the game's power level, determined by the GM). As your character advances, you may slowly add more talents. 
+When you [[make a character|Character Creation]], you may choose two talents (or one, or three, depending on the game's power level, determined by the GM). As your character advances, you may slowly add more talents. 
 
 !! Talent List
 
 !!! Occupation-Based Talents
 <ul>
-<$list filter="[category[occupation]tagging[]tag[talent]sort[title]]">
+<$list filter="[category[occupation]tagging[]category[talent]sort[title]]">
 <li>
 <$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
@@ -30,7 +30,7 @@ When you make a character, you may choose one or two talents (depending on the g
 
 !!! Species-Based Talents
 <ul>
-<$list filter="[category[creature]tagging[]tag[talent]] -[tag[dragonmark]tagging[]tag[talent]] +[sort[title]]">
+<$list filter="[category[creature]tagging[]category[talent]] -[tag[dragonmark]tagging[]category[talent]] +[sort[title]]">
 <li>
 <$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
@@ -41,7 +41,7 @@ When you make a character, you may choose one or two talents (depending on the g
 
 !!! Dragonmark-Based Talents
 <ul>
-<$list filter="[tag[dragonmark]tagging[]tag[talent]sort[title]]">
+<$list filter="[tag[dragonmark]tagging[]category[talent]sort[title]]">
 <li>
 <$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
@@ -52,7 +52,7 @@ When you make a character, you may choose one or two talents (depending on the g
 
 !!! Other Talents
 <ul>
-<$list filter="[tag[talent]] -[tag[dragonmark]tagging[]tag[talent]] -[category[creature]tagging[]tag[talent]] -[category[occupation]tagging[]tag[talent]] +[sort[title]]">
+<$list filter="[category[talent]] -[tag[dragonmark]tagging[]tag[talent]] -[category[creature]tagging[]category[talent]] -[category[occupation]tagging[]category[talent]] +[sort[title]]">
 <li>
 <$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>

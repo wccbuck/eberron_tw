@@ -1,0 +1,17 @@
+created: 20210805170046363
+modified: 20210806222041956
+tags: 
+title: $:/cs-talenttemplate
+type: text/vnd.tiddlywiki
+
+<$draggable tiddler=<<item-index>>>
+<div class="cs-row">
+<$reveal type="match" state="!!mode" text="edit">
+<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-dataremove $tiddler=<<targetTiddler>> $index=<<item-index>>/>{{$:/core/images/close-button}}</$button></p></$reveal>
+<$reveal type="nomatch" state="!!mode" text="edit">
+<p class="new-note" style="margin:0px 10px 0px 0px; visibility:hidden;"><$button class=<<tv-config-toolbar-class>>>{{$:/core/images/close-button}}</$button></p></$reveal>
+<$wikify name="splittitle" text= """{{{[<item-value>split[(]first[]]}}}""">
+<<splittitle>>
+</$wikify>
+</div>
+</$draggable>

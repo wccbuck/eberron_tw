@@ -1,6 +1,6 @@
 created: 20201210230324672
-limit50: [has[title]]
-modified: 20210727191951275
+limit50: [limit[50]]
+modified: 20210808010751546
 tags: 
 title: $:/config/Manager/LimitSpells
 type: text/vnd.tiddlywiki

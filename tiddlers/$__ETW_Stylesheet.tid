@@ -1,8 +1,12 @@
 created: 20200212174048601
-modified: 20210731182441424
+modified: 20210808000315559
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
+
+\define datauri(title)
+<$macrocall $name="makedatauri" type={{$title$!!type}} text={{$title$}}/>
+\end
 
 table.manager-table
 {
@@ -105,3 +109,126 @@ div.header-gradient {height: 3px;background-image: linear-gradient(to right, <<c
 p.new-note button svg {fill: <<colour tiddler-controls-foreground>>;}
 
 p.new-note button svg:hover {fill: <<colour tiddler-controls-foreground-hover>>;}
+
+.cs-wrapper {
+  margin: 15px;
+}
+
+.cs-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  flex: 1;
+}
+
+.cs-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+.cs-doublecolumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-basis: 100%;
+  flex: 2;
+}
+
+.cs-quadcolumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-basis: 100%;
+  flex: 4;
+}
+
+.cs-gamename {
+    font-family: 'masoch-dirach'; font-variant: small-caps; font-weight:500;
+	font-size: 2.4em;
+    margin: 0px;
+}
+
+.cs-attr-act-label {
+    font-weight: bold;
+	font-size: 1.1em;
+    margin: 0px;
+}
+
+.cs-attr-act {
+    font-family: 'masoch-dirach'; font-variant: small-caps; font-weight:500;
+	font-size: 2em;
+    color: <<colour tiddler-title-foreground>>;
+    margin: 0px;
+}
+
+.cs-heading {
+	font-size: 1.4em;
+    margin-bottom: 6px;
+    margin-top: 12px;
+}
+
+.cs-form-group {
+  position: relative;
+  min-height: 3em;
+}
+
+input.cs-input {
+  height: 2.5em;
+  position:relative;
+  width: 100%;
+  padding: 9px 5px 1px 5px;
+  background-color: #fff;
+}
+
+div.cs-input {
+  height: 2.5em;
+  position:relative;
+  width: 100%;
+  padding: 10px 5px 1px 5px;
+  background-color: <<color select-tag-background>>;
+  border-style: solid;
+  border-width: 2px;
+  border-color:  <<colour tiddler-subtitle-foreground>>;
+}
+
+input.cs-a {
+  height: 1.5em;
+  width: 3em;
+}
+
+label.cs-label {
+  position: absolute;
+  font-size: .7em;
+  top: 0;
+  right: 5px;
+  text-transform: uppercase;
+  z-index: 100;
+  color: <<colour tiddler-subtitle-foreground>>
+}
+
+label.cs-check input{
+  height: 25px;
+  width: 25px;
+  margin: 0px 6px 6px 0px;
+}
+
+.cs-talent select{
+  width: calc(100% - 30px);
+  height: 2.2em;
+}
+
+input.cs-newitem {
+  height: 2.2em;
+  width: calc(100% - 30px);
+  background-color: #fff;
+}
+
+.cs-notes {
+  width: 100%;
+  height: 150px !important;
+  resize: none;
+}

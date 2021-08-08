@@ -1,10 +1,24 @@
 created: 20210715234357438
-modified: 20210728190057011
+modified: 20210808011558294
 tags: 
 title: Readme
 type: text/vnd.tiddlywiki
 
 !!! Welcome to the Eberron Tiddlywiki!
+
+<$set name="numobjects" filter="[category[object]!is[system]count[]]">
+<$set name="numcreatures" filter="[category[creature]!is[system]count[]]">
+<$set name="numplaces" filter="[category[location]!is[system]count[]]">
+<$set name="numorgs" filter="[category[organization]!is[system]count[]]">
+<$set name="numspells" filter="[category[spell]!is[system]count[]]">
+<$set name="numpplent" filter="[subfilter<ppl-ent>!is[system]count[]]">
+<<numobjects>> items, <<numcreatures>> creatures, <<numplaces>> places, <<numpplent>> characters, <<numorgs>> organizations, <<numspells>> spells, and much more!
+</$set>
+</$set>
+</$set>
+</$set>
+</$set>
+</$set>
 
 !! What is this?
 
@@ -35,7 +49,7 @@ As for checking out the tons and tons of Eberron content in this database, I'd s
 
 I also made a short [[video|https://youtu.be/BNXhAwjD4qw]] to demosntrate a few features of this database.
 
-Feel free to save a snapshot of this site ({{$:/core/ui/Buttons/save-wiki}}) at any time and edit absolutely anything you want to!
+Feel free to save a snapshot of this site ({{$:/core/ui/Buttons/save-wiki}}) at any time and edit absolutely anything you want to! When running a game, I actually give my players at the table a copy of this database to make [[character sheets|character sheet template]] (after deleting all pages with the "note" category, of course!). 
 
 And check out the github: [[https://github.com/wccbuck/eberron_tw/]]
 

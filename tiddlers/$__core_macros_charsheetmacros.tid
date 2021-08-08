@@ -1,0 +1,173 @@
+created: 20210803194143720
+modified: 20210808001941321
+tags: $:/tags/Macro
+title: $:/core/macros/charsheetmacros
+type: text/vnd.tiddlywiki
+
+\define cs-talent(tid) 
+<div class="cs-row cs-talent">
+<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-datainsertnew $tiddler="$:/$(currentTiddler)$/talents" $newIndex=<<newIndex>> $newValue={{$tid$}}/>{{$:/core/images/done-button}}</$button></p>
+<$select tiddler="$tid$" default="">
+<option value="">None</option>
+<optgroup label="Occupation-Based Talents" class="sticky">
+<$list filter="[category[occupation]tagging[]category[talent]sort[title]]">
+<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
+</$list>
+</optgroup>
+<optgroup label="Species-Based Talents">
+<$list filter="[category[creature]tagging[]category[talent]] -[tag[dragonmark]tagging[]category[talent]] +[sort[title]]">
+<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
+</$list>
+</optgroup>
+<optgroup label="Dragonmark-Based Talents">
+<$list filter="[tag[dragonmark]tagging[]category[talent]sort[title]]">
+<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
+</$list>
+</optgroup>
+<optgroup label="Other Talents">
+<$list filter="[category[talent]] -[tag[dragonmark]tagging[]tag[talent]] -[category[creature]tagging[]category[talent]] -[category[occupation]tagging[]category[talent]] +[sort[title]]">
+<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
+</$list>
+</optgroup>
+</$select>
+</div>
+\end
+
+\define cs-spell(tid, tier) 
+<div class="cs-row cs-talent">
+<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-datainsertnew $tiddler="$:/$(currentTiddler)$/spells_$tier$" $newIndex=<<newIndex>> $newValue={{$tid$}}/>{{$:/core/images/done-button}}</$button></p>
+<$select tiddler="$tid$" default="">
+<option value="">None</option>
+<$wikify name="this-tier" text="""<$transclude tiddler="SpellTierNames" index="$tier$"/>""">
+<optgroup label=<<this-tier>>>
+<$list filter="[category[spell]tier[$tier$]sort[title]]">
+<option><<currentTiddler>></option>
+</$list>
+</optgroup>
+<$wikify name="low-tier-number" text="""{{{ [[$tier$]subtract[1]] }}}""">
+<$wikify name="low-tier" text="""<$transclude tiddler="SpellTierNames" index=<<low-tier-number>>/>""">
+<optgroup label=<<low-tier>>>
+<$list filter="[category[spell]tier<low-tier-number>sort[title]]">
+<option><<currentTiddler>></option>
+</$list>
+</optgroup>
+</$wikify></$wikify>
+</$select>
+</div>
+\end
+
+\define cs-field(field, fieldlabel, fieldph)
+<div class="cs-form-group">
+<label class="cs-label">$fieldlabel$</label>
+<$reveal type="nomatch" state="$(currentTiddler)$!!mode" text="edit">
+<div class="cs-input">
+{{$:/$(currentTiddler)$/data!!$field$}}
+</div>
+</$reveal>
+<$reveal type="match" state="$(currentTiddler)$!!mode" text="edit">
+<div id="div_$field$">
+<$edit-text tiddler="$:/$(currentTiddler)$/data" field="$field$" tag=input class="cs-input" placeholder="$fieldph$"/>
+</div>
+</$reveal>
+</div>
+\end
+
+\define cs-attr-act(field, fieldlabel)
+<div class="cs-column">
+<div class="cs-attr-act-label">$fieldlabel$</div>
+     </div>
+    <div class="cs-column" style="align-items:center;">
+<$reveal type="nomatch" state="!!mode" text="edit">
+<p class="cs-attr-act">{{$:/$(currentTiddler)$/data!!$field$}}</p>
+</$reveal>
+<$reveal type="match" state="!!mode" text="edit">
+<$edit-text tiddler="$:/$(currentTiddler)$/data" field="$field$" tag=input type="number" class="cs-a" size=2/>
+</$reveal>
+     </div>
+\end
+
+\define cs-checkboxes(s7 s8 h7 h8)
+<div class="cs-row">
+            <div class="cs-column">
+				<div>
+		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s1" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s2" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s3"class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s7"class="cs-check" disabled="$s7$"/>
+				</div>
+            </div>
+            <div class="cs-column">
+				 <div>
+		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h1" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h2" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h3" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h7"class="cs-check" disabled="$h7$"/>
+				</div>
+            </div>
+        </div>
+		<div class="cs-row">
+			<div class="cs-column">
+				<div>
+		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s4" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s5" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s6"class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s8"class="cs-check" disabled="$s8$"/>
+				</div>
+			</div>
+			<div class="cs-column">
+				<div>
+		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h4" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h5" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h6" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h8"class="cs-check" disabled="$h8$"/>
+				</div>
+			</div>
+		</div>
+\end
+
+\define cs-storypoints()
+<div align="right"><$edit-text tiddler="$:/$(currentTiddler)$/data" field="sp" tag=input type="number" class="cs-a" size=2/></div>
+\end
+
+\define cs-money()
+<$edit-text tiddler="$:/$(currentTiddler)$/data" field="money" tag=input type="number" class="cs-a" size=2/>
+\end
+
+\define cs-item-list()
+<div class="cs-column" style="justify-content: flex-start;">
+				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/items" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div"/>
+<$reveal type="match" state="!!mode" text="edit">
+		  		<div class="cs-row">
+					<$list filter="[[$:/$(currentTiddler)$/items]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
+					<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-datainsertnew $tiddler="$:/$(currentTiddler)$/items" $newIndex=<<newIndex>> $newValue={{$:/newitem}}/>{{$:/core/images/done-button}}</$button></p><$edit-text tag=input tiddler="$:/newitem" class="cs-newitem"/>
+					</$list>
+		  		</div>
+</$reveal>
+			</div>
+\end
+
+\define cs-talent-list()
+<div class="cs-column" style="justify-content: flex-start;">
+				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/talents" itemTemplate="$:/cs-talenttemplate" type="div" subtype="div"/>
+<$reveal type="match" state="!!mode" text="edit">
+		  		<div class="cs-row">
+					<$list filter="[[$:/$(currentTiddler)$/talents]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
+					<<cs-talent "$:/newtalent">>
+					</$list>
+		  		</div>
+</$reveal>
+			</div>
+\end
+
+\define cs-spell-list(tier)
+<div class="cs-column" style="justify-content: flex-start;">
+				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/spells_$tier$" itemTemplate="$:/cs-talenttemplate" type="div" subtype="div"/>
+<$reveal type="match" state="!!mode" text="edit">
+		  		<div class="cs-row">
+					<$list filter="[[$:/$(currentTiddler)$/spells_$tier$]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
+					<<cs-spell "$:/newspell$tier$" $tier$>>
+					</$list>
+		  		</div>
+</$reveal>
+			</div>
+\end
+
+\define cs-item-eqps()
+<$list filter="[[$:/$(currentTiddler)$/items]indexesunsorted[]]" variable="item-index">
+<div class="cs-row" style="height:1.5em;">
+<$checkbox tiddler="$:/$(currentTiddler)$/items" tag=<<item-index>>/>
+</div>
+</$list>
+\end
+
+\define cs-notes()
+<$edit-text tiddler="$:/$(currentTiddler)$/data" rows="5" class="cs-notes" placeholder="Type Notes Here" default=""/>
+\end

@@ -1,10 +1,9 @@
-category: object
 color: #075157
 created: 20201208064459132
-modified: 20210727192041836
+modified: 20210801195649943
 title: warforged item
 type: text/vnd.tiddlywiki
 
 A warforged item is any [[magic item]] that can only be used by [[warforged]].
 
-<<list-links-article "[tag{!!title}sort[title]]">>
+!!! <<showitem-type>>

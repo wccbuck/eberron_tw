@@ -1,7 +1,7 @@
-category: game mechanics
+category: talent
 created: 20210801041832699
-modified: 20210801042637484
-tags: kalashtar Storyloom talent
+modified: 20210801191047785
+tags: kalashtar Storyloom
 title: Kalashtar (talent)
 type: text/vnd.tiddlywiki
 
@@ -9,11 +9,4 @@ As a [[kalashtar]], you have [[advantage]] when defending against [[enchantment]
 
 In addition, you can speak telepathically to any creature you can see within 30 feet of you. You don't need to share a [[language]] with the creature for it to
 understand your telepathic utterances, but the creature
-must be able to understand at least one language.
-
-When you're using this trait to speak telepathically to
-a creature, you can choose to give that creature
-the ability to speak telepathically with you for 1 hour or
-until you choose to end this effect. To use this ability,
-the creature must be able to see you and must be within 30 feet of you. You can give this ability to only one creature at a time; giving it to a creature takes it away
-from another creature who has it.
+must be able to understand at least one language. A creature without telepathy can receive and respond to your telepathic messages, but can’t initiate or terminate a telepathic conversation.

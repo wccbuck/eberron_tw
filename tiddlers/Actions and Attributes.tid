@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210401231524919
-modified: 20210727191953400
+modified: 20210802005836478
 tags: Storyloom
 title: Actions and Attributes
 type: text/vnd.tiddlywiki
@@ -11,7 +11,7 @@ The five [[action]]s are verbs: ''Fight, Move, Operate, Study,'' and ''Sway''. T
 
 The five [[attribute]]s are nouns: ''Focus, Guile, Heart, Intellect,'' and ''Vigor''. They indicate //what you use// when solving problems.
 
-At character creation, distribute the following scores across any of your actions and attributes: 2, 1, 1, 1, 1. An example distribution might look like this:
+At [[character creation|Character Creation]], distribute the following scores across any of your actions and attributes: 2, 1, 1, 1, 1. An example distribution might look like this:
 
 |!Fight | 1 ||!Focus | 1 |
 |!Move | ||!Guile | 2 |

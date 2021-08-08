@@ -1,6 +1,6 @@
 created: 20210302183629322
-limit50: [has[title]]
-modified: 20210727191951237
+limit50: [limit[50]]
+modified: 20210808010746998
 tags: 
 title: $:/config/Manager/LimitMisc
 type: text/vnd.tiddlywiki
