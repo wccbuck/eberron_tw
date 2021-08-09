@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210105213051245
-modified: 20210727192033693
+modified: 20210809013459793
 spellname: [[spell]]
 tags: Storyloom
 title: spell tier
@@ -28,4 +28,4 @@ Keep in mind that [[Storyloom]] is a fiction-first game. The rules work best whe
 
 If a [[magic item]] grants a character the ability to cast a spell, but places a daily limit to the number of times the spell can be cast, that spell does ''not'' cost any stress to cast. The energy needed to cast the spell is stored (and slowly recharged) within the item itself. If there is no limit, that means the spell is simply added to your spell list and you must expend your own energy to cast it.
 
-If an item grants a non-spellcaster access to a spell, they may still cast it using that item, but at a single [[disadvantage]].
+If an item grants a non-spellcaster access to a spell, they may still cast it using that item, but at a single [[disadvantage]]. 

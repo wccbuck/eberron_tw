@@ -1,13 +1,13 @@
 [
     {
         "created": "20201222052157984",
-        "title": "Bloody Sea",
-        "text": "There are no continents in this aquatic [[layer]] of [[Shavarath]], but a handful\nof islands support the warring fleets. Grand and powerful\nwarships clash in the open waters and bombard settlements.\nThe ships may be familiar, but there are many other unusual\nengines of war: constructed [[kraken]]s, submersible warships,\n[[monstrosities|monstrosity]] and [[dragon]]s bound to service—wonders that\nthe people of Eberron can //imagine// but can't yet create. The\npirate queen [[Lhazaar]] surely has inspired a sword wraith in the\nBloody Sea... but which [[legion|legion of Shavarath]] does her sword wraith fight for?",
-        "modified": "20210727191958522",
-        "tags": "layer Shavarath",
+        "text": "There are no continents in this aquatic [[layer]] of [[Shavarath]], but a handful\nof islands support the warring fleets. Grand and powerful\nwarships clash in the open waters and bombard settlements.\nThe ships may be familiar, but there are many other unusual\nengines of war: [[construct]] [[kraken]]s far mightier than [[Cyre]]'s [[steel kraken]]s, submersible warships,\n[[monstrosities|monstrosity]] and [[dragon]]s bound to service—wonders that\nthe people of Eberron can //imagine// but can't yet create. The\npirate queen [[Lhazaar]] surely has inspired a [[sword wraith]] in the\nBloody Sea... but which [[legion|legion of Shavarath]] does her sword wraith fight for?",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Bloody Sea",
+        "tags": "layer Shavarath",
+        "modified": "20210809063414223",
+        "color": "#3B5C0A",
         "category": "location",
-        "color": "#3B5C0A"
+        "article": "the "
     }
 ]

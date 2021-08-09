@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20210808001941321
+modified: 20210809012134855
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 <p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-datainsertnew $tiddler="$:/$(currentTiddler)$/talents" $newIndex=<<newIndex>> $newValue={{$tid$}}/>{{$:/core/images/done-button}}</$button></p>
 <$select tiddler="$tid$" default="">
 <option value="">None</option>
-<optgroup label="Occupation-Based Talents" class="sticky">
+<optgroup label="Occupation-Based Talents">
 <$list filter="[category[occupation]tagging[]category[talent]sort[title]]">
 <option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
 </$list>
@@ -27,6 +27,30 @@ type: text/vnd.tiddlywiki
 <optgroup label="Other Talents">
 <$list filter="[category[talent]] -[tag[dragonmark]tagging[]tag[talent]] -[category[creature]tagging[]category[talent]] -[category[occupation]tagging[]category[talent]] +[sort[title]]">
 <option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
+</$list>
+</optgroup>
+</$select>
+</div>
+\end
+
+\define cs-language(tid) 
+<div class="cs-row cs-talent">
+<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-datainsertnew $tiddler="$:/$(currentTiddler)$/languages" $newIndex=<<newIndex>> $newValue={{$tid$}}/>{{$:/core/images/done-button}}</$button></p>
+<$select tiddler="$tid$" default="">
+<option value="">None</option>
+<optgroup label="Major Mortal Languages">
+<$list filter="[tag[language]category[culture]!tag[immortal]var[major]sort[title]]">
+<option><<currentTiddler>></option>
+</$list>
+</optgroup>
+<optgroup label="Minor Mortal Languages">
+<$list filter="[tag[language]category[culture]!tag[immortal]!var[major]sort[title]]">
+<option><<currentTiddler>></option>
+</$list>
+</optgroup>
+<optgroup label="Immortal Languages">
+<$list filter="[tag[language]category[culture]tag[immortal]sort[title]]">
+<option><<currentTiddler>></option>
 </$list>
 </optgroup>
 </$select>
@@ -141,6 +165,19 @@ type: text/vnd.tiddlywiki
 		  		<div class="cs-row">
 					<$list filter="[[$:/$(currentTiddler)$/talents]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
 					<<cs-talent "$:/newtalent">>
+					</$list>
+		  		</div>
+</$reveal>
+			</div>
+\end
+
+\define cs-language-list()
+<div class="cs-column" style="justify-content: flex-start;">
+				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/languages" itemTemplate="$:/cs-talenttemplate" type="div" subtype="div"/>
+<$reveal type="match" state="!!mode" text="edit">
+		  		<div class="cs-row">
+					<$list filter="[[$:/$(currentTiddler)$/languages]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
+					<<cs-language "$:/newlanguage">>
 					</$list>
 		  		</div>
 </$reveal>

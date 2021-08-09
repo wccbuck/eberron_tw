@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20210424044254267
-modified: 20210727192003806
+modified: 20210808060839691
 tags: [[primal magic]] [[divine magic]]
 tier: 3
 title: daylight
 type: text/vnd.tiddlywiki
 
-A 60-foot-radius sphere of light spreads out from a point you choose within 60 feet, and persists for up to 1 hour. The sphere is bright light and sheds dim light for an additional 60 feet.
+A 60-foot-radius sphere of light spreads out from a point you choose within 60 feet, and persists for up to 1 hour. The sphere is bright light and sheds dim light for an additional 60 feet. The light is considered [[sunlight|Sun]].
 
 If you chose a point on an object you are holding or one that isn't being worn or carried, the light shines from the object and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light.
 

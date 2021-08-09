@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210808050411693
+modified: 20210808050553186
+tags: [[divine magic]] evocation
+tier: 3
+title: dawn
+type: text/vnd.tiddlywiki
+
+For up to a minute (or until your concentration is broken), the light of dawn shines down on a location you specify within 60 feet. Until the spell ends, a 30-foot-radius, 40-foot-high cylinder of bright light glimmers there. This light is considered [[sunlight|Sun]].
+
+Creatures within the column of light suffer radiant damage. [[Undead|undead]] and [[ooze]]s are particularly susceptible to this spell.

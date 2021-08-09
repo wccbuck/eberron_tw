@@ -1,0 +1,22 @@
+category: object
+color: #41D5E1
+created: 20210809060739517
+modified: 20210809060947020
+rarity: 3
+tags: [[magical implement]]
+title: fulminating treatise
+type: text/vnd.tiddlywiki
+
+This thick, scorched spellbook reeks of smoke and
+ozone, and sparks of energy crackles along the
+edges of its pages.
+
+When using this spellbook as a [[magical implement]] to cast any of the following [[evocation]] spells, gain [[advantage]].
+
+* [[contingency]]
+* [[fireball]]
+* [[gale]]
+* [[tiny hut]]
+* [[magic missile]]
+* [[thunderwave]]
+* [[wall of force]]
