@@ -1,0 +1,13 @@
+category: spell
+color: #B7A1E0
+created: 20210809042349367
+modified: 20210809042715732
+tags: necromancy
+tier: 3
+title: spirit shroud
+type: text/vnd.tiddlywiki
+
+You call forth spirits of the dead, which flit around
+you for up to one minute (or until your concentration is broken). The spirits are intangible and invulnerable.
+
+Until the spell ends, any creature of your choice that you can see within 10 feet of you has [[disadvantage]] on attempts to move away from you, and any time they suffer [[harm]], they suffer 1 more. The extra harm is radiant, necrotic, or cold damage (your choice when you cast the spell). 

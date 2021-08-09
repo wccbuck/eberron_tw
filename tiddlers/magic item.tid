@@ -1,16 +1,18 @@
 category: object
 color: #41D5E1
 created: 20200417064035970
-modified: 20210801195504627
+modified: 20210809033936823
 rarity: 0
 title: magic item
 type: text/vnd.tiddlywiki
 
 The world of [[Eberron]] thrums with the power of magic. [[Artificer|artificer]]s, [[magewright]]s, [[wizard]]s, and other spellcasters produce an abundance of magic items, particularly those with the "common" [[rarity]]. 
 
+See also <<showitems "Find Items">>.
+
 !! Crafting Complications
 
-Sometimes, the process of creating magic items of "uncommon" [[rarity]] or higher can involve complications. The table below includes some options.
+Sometimes, the process of creating magic items of "uncommon" [[rarity]] or higher during [[Downtime|Missions and Downtime]] can involve complications. The table below includes some options.
 
 | !<<dr d6>> |!Complication |
 | 1 |House [[Cannith]] or another [[dragonmarked house]] takes an interest in your work. Do they view you as a threat, or are they impressed by your techniques? |

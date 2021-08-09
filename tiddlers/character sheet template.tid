@@ -1,7 +1,7 @@
 category: character sheet
 created: 20210802012325047
 mode: view
-modified: 20210808003000413
+modified: 20210809012211655
 title: character sheet template
 type: text/vnd.tiddlywiki
 
@@ -114,6 +114,12 @@ type: text/vnd.tiddlywiki
         <div class="cs-column">
 			<<cs-item-eqps>>
         </div>
+		</div>
+        <div class="cs-row">
+			<p class="cs-heading">[[Languages|language]]</p>
+        </div>
+		<div class="cs-row" style="align-items: flex-start;">
+			<<cs-language-list>>
 		</div>
 	</div>
 	<div class="cs-column" style="align-self: flex-start;">

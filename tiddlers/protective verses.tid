@@ -1,0 +1,22 @@
+category: object
+color: #41D5E1
+created: 20210809062142798
+modified: 20210809062334951
+rarity: 3
+tags: [[magical implement]]
+title: protective verses
+type: text/vnd.tiddlywiki
+
+This leather-bound spellbook is reinforced with
+iron and silver fittings and an iron lock. You can touch the book's cover
+and cause it to lock as if you cast [[arcane lock]] on it.
+
+When using this spellbook as a [[magical implement]] to cast any of the following [[abjuration]] spells, gain [[advantage]].
+
+* [[arcane lock]]
+* [[dispel magic]]
+* [[globe of invulnerability]]
+* [[glyph of warding]]
+* [[private sanctum]]
+* [[protection from immortals]]
+* [[symbol]]
