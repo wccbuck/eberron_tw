@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20210811003748433
+modified: 20210811035532630
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -226,6 +226,14 @@ label.cs-check input{
   margin: 0px 6px 6px 0px;
 }
 
+label.cs-check-special input{
+  height: 25px;
+  width: 25px;
+  margin: 0px 6px 6px 0px;
+  opacity: 0.5;
+}
+
+
 .cs-talent select{
   width: calc(100% - 30px);
   height: 2.2em;
@@ -242,13 +250,13 @@ input.cs-newitem {
   background-color: #fff;
 }
 
-input.newclock {
+input.progressclock {
   height: 2.2em;
   width: calc(100% - 60px - 3em);
   background-color: <<color alert-background>>;
 }
 
-input.newclock:focus {
+input.progressclock:focus {
   background-color: #fff;
 }
 

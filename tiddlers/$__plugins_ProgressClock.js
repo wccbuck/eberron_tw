@@ -32,8 +32,14 @@ ProgressClock.prototype.render = function(parent,nextSibling) {
     this.computeAttributes();
 	this.execute();
     this.segments = this.getAttribute("segments","2");
-    this.ref = this.getAttribute("refresh", "");
+    this.tiddler = this.getAttribute("tiddler");
     if(!this.segments) {this.segments="2"};
+    var filledSegments = parseInt(this.getAttribute("filled", "0"));
+    if(this.tiddler) {
+        var tidtext = this.wiki.getTiddlerText(this.tiddler);
+        if(!tidtext) {tidtext = 0;}
+        filledSegments = parseInt(tidtext);
+    }
     var svg = this.document.createElementNS('http://www.w3.org/2000/svg','svg');
     svg.setAttribute('width', '80%');
     svg.setAttribute('height', '80%');
@@ -45,7 +51,8 @@ ProgressClock.prototype.render = function(parent,nextSibling) {
     piechart.setAttribute('fill','transparent');
     piechart.setAttribute('stroke','#D65618');
     piechart.setAttribute('stroke-width','30');
-    piechart.setAttribute('stroke-dasharray','0 100');
+    var percentage = Math.round(1000*(100.0*filledSegments/this.segments))/1000.0;
+    piechart.setAttribute('stroke-dasharray',percentage.toString()+' '+(100-percentage).toString());
     piechart.setAttribute('stroke-dashoffset','25');
     svg.appendChild(piechart);
     var group = this.document.createElementNS('http://www.w3.org/2000/svg','g');
@@ -70,11 +77,11 @@ ProgressClock.prototype.render = function(parent,nextSibling) {
         group.appendChild(line);
     }
 
-    var filledSegments = 0;
     var self = this;
     svg.addEventListener("dblclick",function(event) {
         filledSegments = Math.min(filledSegments+1, self.segments);
-        var percentage = Math.round(1000*(100.0*filledSegments/self.segments))/1000.0;
+        self.wiki.setText(self.tiddler, "text", undefined, filledSegments.toString());
+        percentage = Math.round(1000*(100.0*filledSegments/self.segments))/1000.0;
         piechart.setAttribute('stroke-dasharray',percentage.toString()+' '+(100-percentage).toString());
     });
     parent.insertBefore(svg,nextSibling);
@@ -94,7 +101,7 @@ Selectively refreshes the widget if needed. Returns true if the widget or any of
 */
 ProgressClock.prototype.refresh = function(changedTiddlers) {
 	var changedAttributes = this.computeAttributes();
-    if(changedAttributes["segments"] || changedAttributes["refresh"]) {
+    if(changedAttributes["segments"] || changedAttributes["tiddler"] || changedAttributes["filled"]) {
         this.refreshSelf();
         return true;
     }

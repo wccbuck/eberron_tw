@@ -1,7 +1,7 @@
 category: character sheet
 created: 20210802012325047
 mode: view
-modified: 20210811001949592
+modified: 20210811033208406
 title: character sheet template
 type: text/vnd.tiddlywiki
 
@@ -85,7 +85,7 @@ type: text/vnd.tiddlywiki
 
 <div class="cs-row">
 	<div class="cs-column" style="align-self: flex-start;">
-        <<cs-checkboxes yes yes yes yes>>
+        <<cs-checkboxes>>
 		<div class="cs-row">
 			<div class="cs-column" style="justify-content: flex-start;">
 				<div style="margin-right:25px;">

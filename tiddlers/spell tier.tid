@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210105213051245
-modified: 20210810190733477
+modified: 20210811014552013
 spellname: [[spell]]
 tags: Storyloom
 title: spell tier
@@ -15,6 +15,8 @@ A {{!!spellname}}'s tier is a general indicator of how powerful and rare it is.
 # ''Mythical Spell.'' Spells of never-before-seen power over the fabric of reality. Ex: [[wish]], [[true resurrection]], [[imprisonment]]. Mythical spells cost 3 stress to cast, require filling a [[progress clock]] of size 4, and usually can only be cast once or twice per week.
 
 The "spellcasting stress" to cast a spell triggers for //each attempt to fill the casting [[progress clock]]//. So two attempts to fill a legendary spell progress clock will cost 4 stress total. Also, all of the "spellcasting stress" requirements above are //in addition to// any [[consequence]]s suffered from attempting to cast the spell. So a cantrip still might end up costing 1 stress on a [[partial success]].
+
+If situational factors grant the spellcaster added [[impact]] for their spellcasting, they can choose to either use it to fill their spellcasting [[progress clock]], or to add to the impact of their spell effect (or split between the two).
 
 These tiers roughly correspond to D&D 5e's spell levels: Common = 1st and 2nd level; Rare = 3-5th level (some 6th); Legendary = 6-8th level; Mythical = 9th level. 
 

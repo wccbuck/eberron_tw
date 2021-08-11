@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210401190251509
-modified: 20210727192028727
+modified: 20210811014239966
 tags: [[Taking Action]] Storyloom
 title: risk
 type: text/vnd.tiddlywiki
@@ -18,7 +18,7 @@ You act on your terms. You leverage a dominant situation.
 * [[partial success]]: You hesitate. Withdraw and try a different approach, or else do it with a minor [[consequence]]: a minor complication occurs, your [[impact]] is reduced by 1, you suffer 1 [[stress]] or [[harm]], you lose 1 [[momentum]], or your risk level increases to moderate. 
 * [[bad outcome]]: You falter. Press on by seizing a high-risk opportunity, or withdraw and try a different approach.
 
-!!! Moderate Risk
+!!! Moderate Risk (default)
 
 You go head to head. You act under fire. You take a chance. This is the default risk level for most attempts.
 
