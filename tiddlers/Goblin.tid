@@ -1,9 +1,10 @@
 category: culture
 color: #A3CFBB
 created: 20210408194814878
-modified: 20210727192010847
+modified: 20210810160442498
 tags: language
 title: Goblin
+tooltip: common language of Darguun, widely spoken throughout Khorvaire
 type: text/vnd.tiddlywiki
 var: major
 

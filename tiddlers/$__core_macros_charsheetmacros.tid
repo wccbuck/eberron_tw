@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20210809012134855
+modified: 20210811001836005
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -34,7 +34,7 @@ type: text/vnd.tiddlywiki
 \end
 
 \define cs-language(tid) 
-<div class="cs-row cs-talent">
+<div class="cs-row cs-language">
 <p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-datainsertnew $tiddler="$:/$(currentTiddler)$/languages" $newIndex=<<newIndex>> $newValue={{$tid$}}/>{{$:/core/images/done-button}}</$button></p>
 <$select tiddler="$tid$" default="">
 <option value="">None</option>
@@ -147,7 +147,7 @@ type: text/vnd.tiddlywiki
 
 \define cs-item-list()
 <div class="cs-column" style="justify-content: flex-start;">
-				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/items" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div"/>
+				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/items" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="210px"/>
 <$reveal type="match" state="!!mode" text="edit">
 		  		<div class="cs-row">
 					<$list filter="[[$:/$(currentTiddler)$/items]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
@@ -160,7 +160,7 @@ type: text/vnd.tiddlywiki
 
 \define cs-talent-list()
 <div class="cs-column" style="justify-content: flex-start;">
-				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/talents" itemTemplate="$:/cs-talenttemplate" type="div" subtype="div"/>
+				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/talents" itemTemplate="$:/cs-talenttemplate" type="div" subtype="div" subtitlewidth="260px"/>
 <$reveal type="match" state="!!mode" text="edit">
 		  		<div class="cs-row">
 					<$list filter="[[$:/$(currentTiddler)$/talents]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
@@ -173,7 +173,7 @@ type: text/vnd.tiddlywiki
 
 \define cs-language-list()
 <div class="cs-column" style="justify-content: flex-start;">
-				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/languages" itemTemplate="$:/cs-talenttemplate" type="div" subtype="div"/>
+				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/languages" itemTemplate="$:/cs-talenttemplate" type="div" subtype="div" subtitlewidth="240px"/>
 <$reveal type="match" state="!!mode" text="edit">
 		  		<div class="cs-row">
 					<$list filter="[[$:/$(currentTiddler)$/languages]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
@@ -186,7 +186,7 @@ type: text/vnd.tiddlywiki
 
 \define cs-spell-list(tier)
 <div class="cs-column" style="justify-content: flex-start;">
-				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/spells_$tier$" itemTemplate="$:/cs-talenttemplate" type="div" subtype="div"/>
+				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/spells_$tier$" itemTemplate="$:/cs-talenttemplate" type="div" subtype="div" subtitlewidth="260px"/>
 <$reveal type="match" state="!!mode" text="edit">
 		  		<div class="cs-row">
 					<$list filter="[[$:/$(currentTiddler)$/spells_$tier$]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
@@ -202,9 +202,18 @@ type: text/vnd.tiddlywiki
 <div class="cs-row" style="height:1.5em;">
 <$checkbox tiddler="$:/$(currentTiddler)$/items" tag=<<item-index>>/>
 </div>
+<div class="cs-row" style="height:1.5em;">
+&nbsp;
+</div>
 </$list>
 \end
 
 \define cs-notes()
 <$edit-text tiddler="$:/$(currentTiddler)$/data" rows="5" class="cs-notes" placeholder="Type Notes Here" default=""/>
+\end
+
+\define cs-momentum()
+''[[Momentum|momentum]]:'' &nbsp;
+<$range tiddler="$:/$(currentTiddler)$/data" field="momentum" min="0" max="3" default="0" increment="1"/>&nbsp;
+<div style="margin-right:25px;">''{{$:/$(currentTiddler)$/data!!momentum}}''</div>
 \end

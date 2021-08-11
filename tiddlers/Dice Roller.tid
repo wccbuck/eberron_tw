@@ -1,0 +1,64 @@
+created: 20210810025804553
+modified: 20210810234552802
+tags: 
+title: Dice Roller
+type: text/vnd.tiddlywiki
+
+See [[Taking Action]].
+
+<div class="cs-wrapper">
+  <div class="cs-row">
+    <div class="cs-column">
+''Dice Pool''
+    </div>
+    <div class="cs-column">
+      <$edit-text tiddler="$:/diceroller" field="pool" tag=input type="number" class="cs-a" size=2/>
+    </div>
+    <div class="cs-doublecolumn"></div>
+  </div>
+  <div class="cs-row">
+    <div class="cs-column">
+[[Impact|impact]]
+    </div>
+    <div class="cs-column">
+      <$select tiddler="$:/diceroller" field="impact" default="2">
+        <option value="0">Zero</option>
+        <option value="1">Low</option>
+        <option value="2">Moderate</option>
+        <option value="3">High</option>
+        <option value="4">Extreme</option>
+      </$select>
+    </div>
+    <div class="cs-doublecolumn"></div>
+  </div>
+  <div class="cs-row">
+    <div class="cs-column">
+[[Risk|risk]]
+    </div>
+    <div class="cs-column">
+      <$select tiddler="$:/diceroller" field="risk" default="2">
+        <option value="1">Low</option>
+        <option value="2">Moderate</option>
+        <option value="3">High</option>
+        <option value="4">Extreme</option>
+      </$select>
+    </div>
+    <div class="cs-doublecolumn"></div>
+  </div>
+  <div class="cs-row">
+    <div class="cs-column">
+''Action Type''
+    </div>
+    <div class="cs-column">
+      <$select tiddler="$:/diceroller" field="actiontype" default="overcome">
+        <option>overcome</option>
+        <option>boost</option>
+      </$select>
+    </div>
+    <div class="cs-doublecolumn"></div>
+  </div>
+</div>
+
+!
+
+<$macrocall $name="drbitd" pool={{$:/diceroller!!pool}} impact={{$:/diceroller!!impact}} risk={{$:/diceroller!!risk}} actiontype={{$:/diceroller!!actiontype}}/>

@@ -1,7 +1,7 @@
 category: character sheet
 created: 20210802012325047
 mode: view
-modified: 20210809012211655
+modified: 20210811001949592
 title: character sheet template
 type: text/vnd.tiddlywiki
 
@@ -93,6 +93,9 @@ type: text/vnd.tiddlywiki
 				</div>
 		    </div>
 		</div>
+        <div class="cs-row" style="justify-content:space-between;">
+           <<cs-momentum>>
+        </div>
 		<div class="cs-row">
         <div class="cs-doublecolumn">
 			<p class="cs-heading">[[Items|magic item]]</p>

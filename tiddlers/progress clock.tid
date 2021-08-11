@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210401220254117
-modified: 20210727192026091
+modified: 20210810234148426
 tags: [[Taking Action]] Storyloom
 title: progress clock
 type: text/vnd.tiddlywiki
@@ -36,7 +36,7 @@ A progress clock is a way to track an ongoing effort against an obstacle or the 
 
 <div align="center">
 <svg width="20%" height="20%" viewBox="0 0 70 70">
-  <circle class="donut-segment" cx="35" cy="35" r="15.91549430918954" fill="transparent" stroke="dimgray" stroke-width="30" stroke-dasharray="16.667 83.333" stroke-dashoffset="0"/>
+  <circle class="donut-segment" cx="35" cy="35" r="15.9155" fill="transparent" stroke="dimgray" stroke-width="30" stroke-dasharray="16.667 83.333" stroke-dashoffset="0"/>
   <g stroke="black" stroke-width="3" fill="transparent">
     <circle cx="35" cy="35" r="31.831"/>
     <line x1="3" y1="35" x2="67" y2="35"/>
@@ -45,7 +45,7 @@ A progress clock is a way to track an ongoing effort against an obstacle or the 
   </g>
 </svg>
 <svg width="20%" height="20%" viewBox="0 0 70 70">
-  <circle class="donut-segment" cx="35" cy="35" r="15.91549430918954" fill="transparent" stroke="dimgray" stroke-width="30" stroke-dasharray="33.333 66.667" stroke-dashoffset="0"/>
+  <circle class="donut-segment" cx="35" cy="35" r="15.9155" fill="transparent" stroke="dimgray" stroke-width="30" stroke-dasharray="33.333 66.667" stroke-dashoffset="0"/>
   <g stroke="black" stroke-width="3" fill="transparent">
     <circle cx="35" cy="35" r="31.831"/>
     <line x1="3" y1="35" x2="67" y2="35"/>
@@ -54,7 +54,7 @@ A progress clock is a way to track an ongoing effort against an obstacle or the 
   </g>
 </svg>
 <svg width="20%" height="20%" viewBox="0 0 70 70">
-  <circle class="donut-segment" cx="35" cy="35" r="15.91549430918954" fill="transparent" stroke="dimgray" stroke-width="30" stroke-dasharray="50 50" stroke-dashoffset="0"/>
+  <circle class="donut-segment" cx="35" cy="35" r="15.9155" fill="transparent" stroke="dimgray" stroke-width="30" stroke-dasharray="50 50" stroke-dashoffset="0"/>
   <g stroke="black" stroke-width="3" fill="transparent">
     <circle cx="35" cy="35" r="31.831"/>
     <line x1="3" y1="35" x2="67" y2="35"/>
@@ -63,7 +63,7 @@ A progress clock is a way to track an ongoing effort against an obstacle or the 
   </g>
 </svg>
 <svg width="20%" height="20%" viewBox="0 0 70 70">
-  <circle class="donut-segment" cx="35" cy="35" r="15.91549430918954" fill="transparent" stroke="dimgray" stroke-width="30" stroke-dasharray="66.667 33.333" stroke-dashoffset="0"/>
+  <circle class="donut-segment" cx="35" cy="35" r="15.9155" fill="transparent" stroke="dimgray" stroke-width="30" stroke-dasharray="66.667 33.333" stroke-dashoffset="0"/>
   <g stroke="black" stroke-width="3" fill="transparent">
     <circle cx="35" cy="35" r="31.831"/>
     <line x1="3" y1="35" x2="67" y2="35"/>
@@ -78,3 +78,5 @@ By design, completing a progress clock requires multiple successful attempts. Ob
 Clocks should be labeled in a way that describes the obstacle to be overcome, not the method used to overcome it. A clock indicating a tall fence should read "Tall Fence", not "Climb the Fence". Let the PCs decide how they approach an obstacle.
 
 Highly complex problems can have multiple or even "nested" progress clocks; completing one clock ("Embassy Security") might be necessary to advance to another clock ("Ambassador's Bodyguard").
+
+!!! <$button class="tc-btn-invisible tc-tiddlylink"><$action-listops $tiddler="$:/alerts/ProgressClocks" $tags="$:/tags/Alert"/>Open Progress Clock Tool</$button>

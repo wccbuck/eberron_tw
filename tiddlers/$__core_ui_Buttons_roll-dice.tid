@@ -1,0 +1,23 @@
+caption: {{$:/images/dice}} "Roll Dice"
+created: 20210810015203606
+description: Roll Dice
+modified: 20210810015705055
+tags: $:/tags/PageControls
+title: $:/core/ui/Buttons/roll-dice
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+\define roll-dice-button(class)
+<$button message="tm-navigate" to="Dice Roller" rootwindow="true" tooltip="Dice Roller" aria-label="Dice Roller" class="""$(tv-config-toolbar-class)$ $class$""">
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+{{$:/images/dice}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text"><$text text="Roll Dice"/></span>
+</$list>
+</$button>
+\end
+
+<$list filter="[list[$:/StoryList]] +[field:title[Dice Roller]]" emptyMessage=<<roll-dice-button>>>
+<<roll-dice-button "tc-selected">>
+</$list>

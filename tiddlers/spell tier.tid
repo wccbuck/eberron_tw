@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210105213051245
-modified: 20210809013459793
+modified: 20210810190733477
 spellname: [[spell]]
 tags: Storyloom
 title: spell tier
@@ -9,12 +9,12 @@ type: text/vnd.tiddlywiki
 A {{!!spellname}}'s tier is a general indicator of how powerful and rare it is.
 
 # ''Cantrip.'' A cantrip is a quick and simple spell that can be performed without a significant expenditure of energy. Ex: [[prestidigitation]], [[fire bolt]], [[mage hand]], [[light]].
-# ''Common Spell.'' These spells require more effort or time to cast than cantrips. The people of Khorvaire are used to dealing with tools and services that mimic cantrips or common spells. Ex: [[knock]], [[alarm]], [[burning hands]], [[floating disk]], [[zone of truth]]. Common spells require the expenditure of 1 "spellcasting [[stress]]" to cast.
-# ''Rare Spell.'' These spells are exceptionally potent, but aren't part of everyday life, and the typical commoner doesn't expect to run into them. Ex: [[fireball]], [[sending]], [[conjure elemental]], [[raise dead]], [[cloudkill]]. Rare spells require the caster to expend 2 stress.
-# ''Legendary Spell''. These are magical incantations of mythical proportions, usually the product of more advanced civilizations—the [[dragon]]s of [[Argonnessen]], the [[elves|elf]] of [[Aerenal]], the ancient [[giant]]s of [[Xen'drik]]. Ex: [[resurrection]], [[plane shift]], [[simulacrum]], [[antimagic field]]. Legendary spells cost 3 stress to cast, and usually can only be cast once or twice per day.
-# ''Mythical Spell.'' Spells of never-before-seen power over the fabric of reality. Ex: [[wish]], [[true resurrection]], [[imprisonment]]. Mythical spells cost 4 stress to cast, and usually can only be cast once or twice per week.
+# ''Common Spell.'' These spells require more effort or time to cast than cantrips. The people of Khorvaire are used to dealing with tools and services that mimic cantrips or common spells. Ex: [[knock]], [[alarm]], [[burning hands]], [[floating disk]], [[zone of truth]]. Common spells require the expenditure of 1 "spellcasting [[stress]]" to cast, and require filling a [[progress clock]] of size 2.
+# ''Rare Spell.'' These spells are exceptionally potent, but aren't part of everyday life, and the typical commoner doesn't expect to run into them. Ex: [[fireball]], [[sending]], [[conjure elemental]], [[raise dead]], [[cloudkill]]. Rare spells require the caster to expend 2 stress, and require filling a [[progress clock]] of size 2.
+# ''Legendary Spell''. These are magical incantations of mythical proportions, usually the product of more advanced civilizations—the [[dragon]]s of [[Argonnessen]], the [[elves|elf]] of [[Aerenal]], the ancient [[giant]]s of [[Xen'drik]]. Ex: [[resurrection]], [[plane shift]], [[simulacrum]], [[antimagic field]]. Legendary spells cost 2 stress to cast, require filling a [[progress clock]] of size 4, and usually can only be cast once or twice per day.
+# ''Mythical Spell.'' Spells of never-before-seen power over the fabric of reality. Ex: [[wish]], [[true resurrection]], [[imprisonment]]. Mythical spells cost 3 stress to cast, require filling a [[progress clock]] of size 4, and usually can only be cast once or twice per week.
 
-All of the "spellcasting stress" requirements above are //in addition to// any [[consequence]]s suffered from casting the spell. So a cantrip still might end up costing 1 stress on a [[partial success]].
+The "spellcasting stress" to cast a spell triggers for //each attempt to fill the casting [[progress clock]]//. So two attempts to fill a legendary spell progress clock will cost 4 stress total. Also, all of the "spellcasting stress" requirements above are //in addition to// any [[consequence]]s suffered from attempting to cast the spell. So a cantrip still might end up costing 1 stress on a [[partial success]].
 
 These tiers roughly correspond to D&D 5e's spell levels: Common = 1st and 2nd level; Rare = 3-5th level (some 6th); Legendary = 6-8th level; Mythical = 9th level. 
 

@@ -1,9 +1,10 @@
 category: culture
 color: #A3CFBB
 created: 20210408184336606
-modified: 20210727191953616
+modified: 20210810160329206
 tags: language
 title: Aerenese
+tooltip: Elvish, language of Aerenal
 type: text/vnd.tiddlywiki
 var: major
 

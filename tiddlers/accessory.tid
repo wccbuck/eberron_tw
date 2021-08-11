@@ -1,7 +1,8 @@
 color: #075157
 created: 20210718033310978
-modified: 20210727191953322
+modified: 20210810160855409
 title: accessory
+tooltip: wearable item
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>
