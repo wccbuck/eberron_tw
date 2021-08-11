@@ -1,13 +1,13 @@
 [
     {
         "created": "20210212074901671",
-        "title": "Demesne of Shape",
-        "text": "House [[Phiarlan]]'s [[Demesne|Demesnes]] of Shape is in [[Thaliost]], in [[Thrane]].\nIt is focused on material arts such as sculpting and painting. Its students also create the\nresources the house requires for its entertainers, from fine instruments to sets and costumes. The smallest and least populated demesne, it holds a specialization few others have the expertise to teach. \n\nMost masters of these arts left the house for [[Thuranni]] during the [[Shadow Schism]]; the former headquarters of the Demesne of Shape was located in [[Atur]], at an [[enclave]] now called the [[True Shapers]].",
-        "modified": "20210727192004149",
-        "tags": "enclave Phiarlan Demesnes Thaliost",
+        "text": "House [[Phiarlan]]'s [[Demesne|Demesnes]] of Shape is in [[Thaliost]], in [[Thrane]].\nIt is focused on material arts such as sculpting and painting. Its students also create the\nresources the house requires for its entertainers, from fine instruments to sets and costumes. The smallest and least populated demesne, it holds a specialization few others have the expertise to teach. \n\nMost masters of these arts left the house for [[Thuranni]] during the [[Shadow Schism]]; the former headquarters of the Demesne of Shape was located in [[Atur]], at an [[enclave]] now called the [[True Shapers]].\n\nThe Demesne of Shape is led by Viceroy Idal Tialaen d'[[Phiarlan]].",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Demesne of Shape",
+        "tags": "enclave Phiarlan Demesnes Thaliost",
+        "modified": "20210811012004589",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

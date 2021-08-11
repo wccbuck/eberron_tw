@@ -1,13 +1,13 @@
 [
     {
         "created": "20210212075421460",
-        "title": "Elvinor Elorrenthi d'Phiarlan",
-        "text": "Head of House [[Phiarlan]] and leader of the [[Demesne of Shadow]],\nElvinor is a bard of exceptional skill. Her years weigh\nupon her, and she is looking for a successor—not someone to lead the house, but someone to learn the secrets that she has borne for centuries. She knows tales long\nforgotten—stories that might be the key to great adventures. If she takes a PC Phiarlan as her apprentice, these secrets could inspire a campaign.",
-        "modified": "20210727192006971",
-        "tags": "elf Phiarlan humanoid Sharn",
+        "text": "Head of House [[Phiarlan]] and leader of the [[Demesne of Shadow]],\nElvinor is a [[bard]] of exceptional skill. Her years weigh\nupon her, and she is looking for a successor—not someone to lead the house, but someone to learn the secrets that she has borne for centuries. She knows tales long\nforgotten—stories that might be the key to great adventures. If she takes a PC Phiarlan as her apprentice, these secrets could inspire a campaign.",
         "type": "text/vnd.tiddlywiki",
-        "article": "Baron ",
+        "title": "Elvinor Elorrenthi d'Phiarlan",
+        "tags": "bard elf Phiarlan humanoid Sharn",
+        "modified": "20210811012126833",
+        "color": "#FEA627",
         "category": "person",
-        "color": "#FEA627"
+        "article": "Baron "
     }
 ]

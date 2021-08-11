@@ -1,6 +1,6 @@
 component: Progress Clocks
 created: 20210810194734398
-modified: 20210811000549099
+modified: 20210811012257704
 title: $:/alerts/ProgressClocks
 type: text/vnd.tiddlywiki
 
@@ -21,6 +21,14 @@ Double click/tap the [[progress clock]]s to fill segments. Click the refresh but
     </div>
     <div class="cs-column">
       <<progressclocks 4>>
+    </div>
+  </div>
+  <div class="cs-row">
+    <div class="cs-column">
+      <<progressclocks 5>>
+    </div>
+    <div class="cs-column">
+      <<progressclocks 6>>
     </div>
   </div>
 </div>

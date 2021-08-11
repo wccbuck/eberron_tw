@@ -1,10 +1,13 @@
 created: 20210810195119737
-modified: 20210810231120370
+modified: 20210811003645674
 tags: $:/tags/Macro
 title: $:/core/macros/progressclocks
 type: text/vnd.tiddlywiki
 
 \define progressclocks($index$)
+<div class="cs-row-centered">
+<div class="clocklabel">{{$:/newclock$index$}}</div>
+</div>
 <div class="cs-row-centered">
 <$progressclock segments={{$:/newclock$index$!!segments}} refresh={{$:/newclock$index$!!refresh}}/>
 </div>
