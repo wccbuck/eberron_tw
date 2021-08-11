@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210401192736920
-modified: 20210727192014602
+modified: 20210811014212546
 tags: [[Taking Action]] Storyloom
 title: impact
 type: text/vnd.tiddlywiki
@@ -14,7 +14,7 @@ The below examples of different results for different levels of impact should be
 * [[overcome]]: Mark 1 section of the [[progress clock]].
 * [[boost]]: Gain 1 momentum, or change the scene slightly in a way that reduces your [[risk]] by 1 level.
 
-!!! Moderate Impact
+!!! Moderate Impact (default)
 
 * [[overcome]]: Mark 2 sections of the [[progress clock]]. Gain 1 [[momentum]] if you overfill the clock.
 * [[boost]]: Gain 2 momentum, or change the scene in a way that reduces your [[risk]] by 2 levels.

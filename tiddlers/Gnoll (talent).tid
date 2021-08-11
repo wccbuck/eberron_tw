@@ -1,6 +1,6 @@
 category: talent
 created: 20210801045349793
-modified: 20210801185845091
+modified: 20210811015944012
 tags: Storyloom gnoll
 title: Gnoll (talent)
 type: text/vnd.tiddlywiki
@@ -8,5 +8,5 @@ type: text/vnd.tiddlywiki
 As a [[gnoll]], you gain the following benefits:
 
 * Your teeth are natural weapons, and your bites can be deadly.
-* You have [[darkvision]]. 
+* You have [[darkvision]] within 60 feet. 
 * Whenever you [[push yourself]] to physically attack an enemy, if that attack successfully killed or incapacitated the target, recover 1 [[stress]].
