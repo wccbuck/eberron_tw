@@ -1,11 +1,12 @@
 caption: People
 created: 20210409214817299
-modified: 20210727191952572
+mode: edit
+modified: 20210811171422165
 tags: 
 title: $:/MyPeople
 type: text/vnd.tiddlywiki
 
 !!! Saved People and Entities
-<$list filter="[list[My Stuff]subfilter<ppl-ent>]">
-<$button><$action-listops $tiddler="My Stuff" $subfilter="-[<currentTiddler>]"/>X</$button> &nbsp;{{!!article}}<$link><<currentTiddler>></$link><br/>
-</$list>
+<div class="cs-column" style="justify-content: flex-start;">
+<$macrocall $name="list-data-draggable" tiddler="$:/MyStuffData" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="100%" filter="[subfilter<ppl-ent>]"/>
+</div>

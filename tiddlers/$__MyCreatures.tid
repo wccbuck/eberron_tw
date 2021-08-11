@@ -1,11 +1,12 @@
 caption: Creatures
 created: 20210409214745182
-modified: 20210727191952529
+mode: edit
+modified: 20210811171145313
 tags: 
 title: $:/MyCreatures
 type: text/vnd.tiddlywiki
 
 !!! Saved Creatures
-<$list filter="[list[My Stuff]category[creature]]">
-<$button><$action-listops $tiddler="My Stuff" $subfilter="-[<currentTiddler>]"/>X</$button> &nbsp;{{!!article}}<$link><<currentTiddler>></$link><br/>
-</$list>
+<div class="cs-column" style="justify-content: flex-start;">
+<$macrocall $name="list-data-draggable" tiddler="$:/MyStuffData" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="100%" filter="[category[creature]]"/>
+</div>
