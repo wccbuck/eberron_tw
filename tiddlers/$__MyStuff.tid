@@ -1,11 +1,13 @@
 caption: All
 created: 20210409214549115
-modified: 20210727191952601
+mode: edit
+modified: 20210811170735361
 tags: 
 title: $:/MyStuff
 type: text/vnd.tiddlywiki
 
 !!! All Saved Things
-<$list filter="[list[My Stuff]]">
-<$button><$action-listops $tiddler="My Stuff" $subfilter="-[<currentTiddler>]"/>X</$button> &nbsp;{{!!article}}<$link><<currentTiddler>></$link><br/>
-</$list>
+
+<div class="cs-column" style="justify-content: flex-start;">
+<$macrocall $name="list-data-draggable" tiddler="$:/MyStuffData" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="100%"/>
+</div>

@@ -1,14 +1,16 @@
 category: object
 color: #41D5E1
 created: 20201227062456100
-modified: 20210727191957313
+modified: 20210811170446145
 rarity: 3
 tags: tool
 title: bead of force
 type: text/vnd.tiddlywiki
 
-This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, <<dr "1d4 + 4">> beads of force are found together.
+This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. 
 
 When you throw a bead, the bead explodes on impact and is destroyed. Each creature within a 10-foot radius of where the bead landed that doesn't dodge suffers force damage. A sphere of transparent force then encloses the area for 1 minute. Any creature that failed to dodge and is completely within the area is trapped inside this sphere. Creatures that are partially within the area are pushed away from the center of the sphere until they are no longer inside it. Only breathable air can pass through the sphere's wall. No attack or other effect can.
 
 An enclosed creature can push against the sphere's wall, moving the sphere up to half the creature's walking speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
+
+Typically, <<dr "1d4 + 4">> beads of force are found together.

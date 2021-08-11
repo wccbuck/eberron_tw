@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20210811033156836
+modified: 20210811172224852
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -151,7 +151,7 @@ type: text/vnd.tiddlywiki
 <$reveal type="match" state="!!mode" text="edit">
 		  		<div class="cs-row">
 					<$list filter="[[$:/$(currentTiddler)$/items]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
-					<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-datainsertnew $tiddler="$:/$(currentTiddler)$/items" $newIndex=<<newIndex>> $newValue={{$:/newitem}}/>{{$:/core/images/done-button}}</$button></p><$edit-text tag=input tiddler="$:/newitem" class="cs-newitem"/>
+					<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-datainsertnew $tiddler="$:/$(currentTiddler)$/items" $newIndex=<<newIndex>> $newValue={{$:/newitem}}/>{{$:/core/images/done-button}}</$button></p><$edit-text tag=input tiddler="$:/newitem" class="cs-newitem" placeholder="Add Item" default=""/>
 					</$list>
 		  		</div>
 </$reveal>

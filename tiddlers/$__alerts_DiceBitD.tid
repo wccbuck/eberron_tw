@@ -2,9 +2,9 @@ actiontype: overcome
 component: Dice Roller
 created: 20210810021010090
 impact: 2
-modified: 20210811032758924
+modified: 20210811161446681
 pool: 3
-result: 6 6 4
+result: 6 4 3
 risk: 2
 title: $:/alerts/DiceBitD
 type: text/vnd.tiddlywiki

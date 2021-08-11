@@ -1,11 +1,12 @@
 caption: Spells
 created: 20210409214722773
-modified: 20210727191952591
+mode: edit
+modified: 20210811171124920
 tags: 
 title: $:/MySpells
 type: text/vnd.tiddlywiki
 
 !!! Saved Spells
-<$list filter="[list[My Stuff]category[spell]]">
-<$button><$action-listops $tiddler="My Stuff" $subfilter="-[<currentTiddler>]"/>X</$button> &nbsp;{{!!article}}<$link><<currentTiddler>></$link><br/>
-</$list>
+<div class="cs-column" style="justify-content: flex-start;">
+<$macrocall $name="list-data-draggable" tiddler="$:/MyStuffData" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="100%" filter="[category[spell]]"/>
+</div>

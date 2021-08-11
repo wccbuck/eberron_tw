@@ -1,11 +1,12 @@
 caption: Orgs
 created: 20210409214916076
-modified: 20210727191952562
+mode: edit
+modified: 20210811171348369
 tags: 
 title: $:/MyOrgs
 type: text/vnd.tiddlywiki
 
 !!! Saved Organizations
-<$list filter="[list[My Stuff]category[organization]]">
-<$button><$action-listops $tiddler="My Stuff" $subfilter="-[<currentTiddler>]"/>X</$button> &nbsp;{{!!article}}<$link><<currentTiddler>></$link><br/>
-</$list>
+<div class="cs-column" style="justify-content: flex-start;">
+<$macrocall $name="list-data-draggable" tiddler="$:/MyStuffData" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="100%" filter="[category[organization]]"/>
+</div>

@@ -1,5 +1,5 @@
 created: 20210804170916757
-modified: 20210810160152081
+modified: 20210811171907199
 tags: $:/tags/Macro
 title: $:/core/macros/list-data-draggable
 type: text/vnd.tiddlywiki
@@ -8,22 +8,24 @@ type: text/vnd.tiddlywiki
 <$action-datainsertbefore $tiddler=<<targetTiddler>> $targetIndex=<<item-index>> $actionIndex=<<actionTiddler>>/>
 \end
 
-\define list-data-draggable(tiddler,type:"ul",subtype:"li",class:"",itemTemplate,subtitlewidth:"200px")
+\define list-data-draggable(tiddler,type:"ul",subtype:"li",class:"",itemTemplate,subtitlewidth:"200px",filter:"[is[tiddler]]")
 \whitespace trim
 <span class="tc-data-draggable-list">
 <$vars targetTiddler="""$tiddler$""">
 <$type$ class="$class$">
-<$list filter="[[$tiddler$]indexesunsorted[]]" variable="item-index">
+<$list filter="[<targetTiddler>indexesunsorted[]]" variable="item-index">
 <$wikify name="item-value" text="{{{ [<targetTiddler>getindex<item-index>] }}}">
+<$list filter="[<item-value>] +$filter$" variable="noop">
 <$droppable actions=<<list-data-draggable-drop-actions>> tag="""$subtype$""" enable=<<tv-enable-drag-and-drop>>>
 <div class="tc-droppable-placeholder"/>
 <div>
 <$link to=<<item-value>>>{{||$itemTemplate$}}</$link>
-<$vars dragsub={{{ [<item-value>get[text]trim<item-value>substring[100]] }}}>
+<$vars dragsub={{{ [<item-value>get[text]trim<item-value>substring[200]] }}}>
 <div class="draggable-subtitle" style="width:$subtitlewidth$;">&nbsp;<<dragsub>></div>
 </$vars>
 </div>
 </$droppable>
+</$list>
 </$wikify>
 </$list>
 <$tiddler tiddler="">
