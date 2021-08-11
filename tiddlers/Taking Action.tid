@@ -1,11 +1,11 @@
 category: game mechanics
 created: 20210331200737600
-modified: 20210727192036001
+modified: 20210810020047247
 tags: Storyloom
 title: Taking Action
 type: text/vnd.tiddlywiki
 
-Whenever you want to do something that has the potential to be dangerous or troublesome, you have to roll dice to determine whether you succeed, and to what extent you succeed. You roll a number of six-sided dice, and read the single highest result.
+Whenever you want to do something that has the potential to be dangerous or troublesome, you have to [[roll dice|Dice Roller]] to determine whether you succeed, and to what extent you succeed. You roll a number of six-sided dice, and read the single highest result.
 
 * If the highest die is a 6, it's a [[full success]]—you accomplish what you set out to do. Typically this means you suffer no [[consequence]]s or gain some additional advantage. If you roll more than one 6, that's a ''critical success''.
 * If the highest die is a 4 or 5, that's a [[partial success]]—you accomplish what you set out to do, but there are [[consequence]]s, such as [[stress]], reduced [[impact]], or a complication.
@@ -52,3 +52,4 @@ After making the roll, you have some options for fudging the result. For example
 
 The GM narrates what happens based on your result, advancing [[progress clock]]s or doling out [[consequence]]s as necessary, and the scene continues!
 
+See also [[Dice Roller]].

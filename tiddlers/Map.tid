@@ -1,8 +1,8 @@
 caption: Map
 created: 20210112213904741
-cutoff: 0
+cutoff: 3000
 list-before: $:/core/ui/SideBar/Open
-modified: 20210801201916270
+modified: 20210811002050850
 showcontrols: show
 tags: $:/tags/SideBar
 title: Map

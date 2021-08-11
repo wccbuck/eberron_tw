@@ -1,20 +1,20 @@
-add: 
-average: 5.5
+add: 1
+average: 12
 component: Dice Roller
 created: 20200410014544149
-dicestring: 1d10
-max: 10
-modified: 20210727191950844
-result: 3
+dicestring: 2d10+1
+max: 21
+modified: 20210810175252060
+result: 5 1
 title: $:/alerts/Dice
 type: text/vnd.tiddlywiki
 
 <$vars resultplus={{{[{!!result}trim[]split[ ]join[+]]}}} total={{{[{!!result}split[ ]sum[]add{!!add}]}}}>
 <$vars half={{{[<total>divide[2]floor[]]}}}>
-<h2 class="alert-h2">{{!!dicestring}}:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>
-<$list filter="[{!!add}!is[blank]]" emptyMessage ="""<h1 class="alert-h1">''<<total>>'' (<<resultplus>>)</h1>""" variable="noop">
+<h2 class="alert-h2">{{!!dicestring}}:</h2><$list filter="[{!!add}!is[blank]]" emptyMessage ="""<h1 class="alert-h1">''<<total>>'' (<<resultplus>>)</h1>""" variable="noop">
 <h1 class="alert-h1">''<<total>>'' (<<resultplus>>+{{!!add}})</h1>
 </$list>
 <h3>(Half ''<<half>>'', Max ''{{!!max}}'', Average ''{{!!average}}'')</h3>
 </$vars>
 </$vars>
+<div style="width:250px;"></div>

@@ -1,9 +1,10 @@
 category: culture
 color: #A3CFBB
 created: 20210408171544199
-modified: 20210727192028283
+modified: 20210810160526155
 tags: language
 title: Riedran
+tooltip: dominant language of Sarlona
 type: text/vnd.tiddlywiki
 var: major
 

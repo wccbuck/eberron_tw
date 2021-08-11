@@ -1,13 +1,14 @@
 [
     {
         "created": "20200414211050578",
-        "title": "Mourning",
         "text": "The nation of [[Cyre]] was once the heart of the kingdom of\n[[Galifar]]. The [[Last War]] took a heavy toll on Cyre and its\ncitizens, as the nation became a primary battleground\nwhere the [[Five Nations]] crossed swords. But no one was\nprepared for the disaster that struck in 994 YK.\n\nAccounts of the Mourning vary. Some say that a\nblinding light engulfed the battlefield near the Saerun\nRoad. Others say that [[dead-gray mists]] rose in the capital\ncity of [[Metrol]] and spread from there. Still others swear that the disaster began in the [[Cannith]] stronghold of [[Making]]. Within the space of\none day, the nation of Cyre had been engulfed in a wall of mist, and anything caught within the mists was horrifically transformed. Over ten million Cyrans were killed on\nthe day of Mourning. Those who survived were soldiers\nfighting in enemy territory, those living on the borders\nwho were able to flee from the advancing mists, and\nthose few who were able to escape the interior through\nmagical means. On 20 Olarune 994 YK, the nation of\n[[Cyre]] ceased to exist. \n\nThe Mourning threw [[Khorvaire]] into a state of shock.\nWho could unleash such power? Was this a weapon,\nand if so, when would those responsible issues their demands? Were the borders of the lingering walls of mist stable, or could they expand at any moment? What was\nto be done with the Cyran refugees surging into every\nadjacent nation? Fear of the Mourning ended the war.\nBut all those questions remain unanswered.\n\n[[Breland]] opened its borders to refugees, and Prince [[Oargev|Oargev ir'Wynarn]] serves as de facto ruler in the area now called [[New Cyre]]. Despite its grand name, New Cyre is little more than a vast refugee camp. Other refugees scattered across [[Khorvaire]]; some are treated with pity, others with suspicion or anger. And fear of the Mourning\nhangs like a shadow across Khorvaire. Could it happen\nagain? Is this how the world ends? \n\nOver the last four\nyears, people have ventured into the [[mist|dead-gray mists]] for many reasons. Some sought to plunder the abandoned treasures\nof the richest nation in [[Galifar]]. Others hoped to find lost\nloved ones, or some explanation for the disaster. Few of\nthese explorers have returned, and those survivors all\ntell tales of a [[land|Mournland]] twisted in unpredictable and inexplicable ways. ",
-        "modified": "20210727192022330",
-        "tags": "",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Mourning",
+        "tags": "",
+        "modified": "20210810161422315",
+        "color": "#432874",
         "category": "phenomenon",
-        "color": "#432874"
+        "article": "the ",
+        "tooltip": "magical cataclysm that destroyed the nation of Cyre in 994YK"
     }
 ]

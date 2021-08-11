@@ -1,0 +1,291 @@
+actiontype: boost
+component: Dice Roller
+created: 20210810021010090
+impact: 2
+modified: 20210811002009212
+pool: 3
+result: 4 3 2 6
+risk: 2
+title: $:/alerts/DiceBitD
+type: text/vnd.tiddlywiki
+
+<$vars loresult={{{ [{!!result}split[ ]nsort[]first[]] }}} loremaining={{{ [{!!result}split[ ]nsort[]butfirst[]join[ ]] }}} hiresult={{{ [{!!result}split[ ]nsort[]last[]] }}} hiremaining={{{ [{!!result}split[ ]nsort[]butlast[]join[ ]] }}} crit={{{ [{!!result}split[ ]nsort[]last[2]append[6]unique[]count[]compare:number:eq[1]then[yes]else[no]] }}}>
+
+<$reveal type="lt" state="!!pool" text="1">
+
+<h2 class="alert-h2">Lowest Result: ''<<loresult>>''</h2>
+
+Remaining dice: <<loremaining>>
+
+  <$reveal type="match" text="6" default=<<loresult>>>
+
+<h1 class="alert-h1">[[Full Success|full success]]</h1>
+
+Things go well. You accomplish what you set out to accomplish, either with no associated [[consequence]]s or with a mild consequence and some added bonus.
+
+  </$reveal>
+
+  <$reveal type="lt" text="6" default=<<loresult>>>
+    <$reveal type="gt" text="3" default=<<loresult>>>
+
+<h1 class="alert-h1">[[Partial Success|partial success]]</h1>
+
+You do what you were trying to do, but there are [[consequence]]s.
+
+    </$reveal>
+    <$reveal type="lteq" text="3" default=<<loresult>>>
+
+<h1 class="alert-h1">[[Bad Outcome|bad outcome]]</h1>
+
+Things go poorly. You probably don't achieve your goal and also suffer [[consequence]]s.
+
+    </$reveal>
+  </$reveal>
+
+  <$reveal type="gt" text="3" default=<<loresult>>>
+
+    <$reveal type="match" text="0" state="!!impact">
+
+<h3>Zero [[Impact|impact]]</h3>
+You succeeded, but you need to spend [[momentum]] to make any progress.
+
+    </$reveal>
+    <$reveal type="match" text="1" state="!!impact">
+
+<h3>Low [[Impact|impact]]</h3>
+      <$reveal type="match" text="overcome" state="!!actiontype">
+[[overcome]]: Mark 1 section of the [[progress clock]].
+      </$reveal>
+      <$reveal type="nomatch" text="overcome" state="!!actiontype">
+[[boost]]: Gain 1 [[momentum]], or change the scene slightly in a way that reduces your [[risk]] by 1 level.
+      </$reveal>
+
+    </$reveal>
+    <$reveal type="match" text="2" state="!!impact">
+
+<h3>Moderate [[Impact|impact]]</h3>
+      <$reveal type="match" text="overcome" state="!!actiontype">
+[[overcome]]: Mark 2 sections of the [[progress clock]]. Gain 1 [[momentum]] if you overfill the clock.
+      </$reveal>
+      <$reveal type="nomatch" text="overcome" state="!!actiontype">
+[[boost]]: Gain 2 [[momentum]], or change the scene in a way that reduces your [[risk]] by 2 levels.
+      </$reveal>
+
+    </$reveal>
+    <$reveal type="match" text="3" state="!!impact">
+
+<h3>High [[Impact|impact]]</h3>
+      <$reveal type="match" text="overcome" state="!!actiontype">
+[[overcome]]: Mark 3 sections of the [[progress clock]]. Gain 1 [[momentum]] if you overfill the clock.
+      </$reveal>
+      <$reveal type="nomatch" text="overcome" state="!!actiontype">
+[[boost]]: Gain 3 [[momentum]], or gain 1 momentum and change the scene in a way that reduces your [[risk]] by 2 levels (or some other combination).
+      </$reveal>
+
+    </$reveal>
+    <$reveal type="match" text="4" state="!!impact">
+
+<h3>Extreme [[Impact|impact]]</h3>
+      <$reveal type="match" text="overcome" state="!!actiontype">
+[[overcome]]: Mark 4 sections of the [[progress clock]]. Gain 1 [[momentum]] if you overfill the clock.
+      </$reveal>
+      <$reveal type="nomatch" text="overcome" state="!!actiontype">
+[[boost]]: Gain 4 [[momentum]], or gain 2 momentum and change the scene in a way that reduces your [[risk]] by 2 levels (or some other combination).
+      </$reveal>
+
+    </$reveal>
+  </$reveal>
+  <$reveal type="lt" text="6" default=<<loresult>>>
+    <$reveal type="gt" text="3" default=<<loresult>>>
+      <$reveal type="match" text="1" state="!!risk">
+
+<h3>Low [[Risk|risk]]</h3>
+You hesitate. Withdraw and try a different approach, or else succeed with a minor [[consequence]]: a minor complication occurs, your [[impact]] is reduced by 1, you suffer 1 [[stress]] or [[harm]], you lose 1 [[momentum]], or your risk level increases to moderate. 
+      </$reveal>
+      <$reveal type="match" text="2" state="!!risk">
+
+<h3>Moderate [[Risk|risk]]</h3>
+You succeed, but there’s a [[consequence]]: you suffer 2 [[stress]] or [[harm]], you lose 2 [[momentum]], a complication occurs, your [[impact]] is reduced by 1 or 2, or you end up in a high-risk position.
+      </$reveal>
+      <$reveal type="match" text="3" state="!!risk">
+
+<h3>High [[Risk|risk]]</h3>
+You succeed, but there’s a [[consequence]]: you suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious complication occurs, or you have significantly reduced [[impact]].
+      </$reveal>
+      <$reveal type="match" text="4" state="!!risk">
+
+<h3>Extreme [[Risk|risk]]</h3>
+You succeed, but there’s a serious [[consequence]]: you suffer some combination of [[stress]], [[harm]], lost [[momentum]], or reduced [[impact]] adding up to four.
+      </$reveal>
+    </$reveal>
+    <$reveal type="lteq" text="3" default=<<loresult>>>
+      <$reveal type="match" text="1" state="!!risk">
+
+<h3>Low [[Risk|risk]]</h3>
+You falter. Press on by seizing a high-risk opportunity, or withdraw and try a different approach.
+      </$reveal>
+      <$reveal type="match" text="2" state="!!risk">
+
+<h3>Moderate [[Risk|risk]]</h3>
+Things go badly. You suffer 2 [[stress]] or [[harm]], you lose 2 [[momentum]], a [[complication|consequence]] occurs, you end up in a high-risk position, or you lose this opportunity.
+      </$reveal>
+      <$reveal type="match" text="3" state="!!risk">
+
+<h3>High [[Risk|risk]]</h3>
+Things are bad. You suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious [[complication|consequence]] occurs, or you lose this opportunity for action.
+      </$reveal>
+      <$reveal type="match" text="4" state="!!risk">
+
+<h3>Extreme [[Risk|risk]]</h3>
+Things are very bad. You suffer some combination of [[stress]], [[harm]], lost [[momentum]], or reduced [[impact]] adding up to four, as well as potentially a [[complication|consequence]] or lost opportunity.
+      </$reveal>
+    </$reveal>
+  </$reveal>
+
+</$reveal>
+
+<$reveal type="gteq" state="!!pool" text="1">
+
+<h2 class="alert-h2">Highest Result: ''<<hiresult>>''</h2>
+
+Remaining dice: <<hiremaining>>
+
+  <$reveal type="match" text="6" default=<<hiresult>>>
+
+<h1 class="alert-h1">[[Full Success|full success]]</h1>
+
+    <$reveal type="match" text="yes" default=<<crit>>>
+
+...and a ''critical'' at that! Gain an additional bonus (usually +1 [[impact]], +1 [[momentum]], or some lucky shift in fortune).
+
+    </$reveal>
+
+Things go well. You accomplish what you set out to accomplish, either with no associated [[consequence]]s or with a mild consequence and some added bonus.
+
+  </$reveal>
+  <$reveal type="lt" text="6" default=<<hiresult>>>
+    <$reveal type="gt" text="3" default=<<hiresult>>>
+
+<h1 class="alert-h1">[[Partial Success|partial success]]</h1>
+
+You do what you were trying to do, but there are [[consequence]]s.
+
+    </$reveal>
+    <$reveal type="lteq" text="3" default=<<hiresult>>>
+
+<h1 class="alert-h1">[[Bad Outcome|bad outcome]]</h1>
+
+Things go poorly. You probably don't achieve your goal and also suffer [[consequence]]s.
+
+    </$reveal>
+  </$reveal>
+
+  <$reveal type="gt" text="3" default=<<hiresult>>>
+    <$reveal type="match" text="0" state="!!impact">
+
+<h3>Zero [[Impact|impact]]</h3>
+You succeeded, but you need to spend [[momentum]] to make any progress.
+
+    </$reveal>
+    <$reveal type="match" text="1" state="!!impact">
+
+<h3>Low [[Impact|impact]]</h3>
+      <$reveal type="match" text="overcome" state="!!actiontype">
+[[overcome]]: Mark 1 section of the [[progress clock]].
+      </$reveal>
+      <$reveal type="nomatch" text="overcome" state="!!actiontype">
+[[boost]]: Gain 1 [[momentum]], or change the scene slightly in a way that reduces your [[risk]] by 1 level.
+      </$reveal>
+
+    </$reveal>
+    <$reveal type="match" text="2" state="!!impact">
+
+<h3>Moderate [[Impact|impact]]</h3>
+      <$reveal type="match" text="overcome" state="!!actiontype">
+[[overcome]]: Mark 2 sections of the [[progress clock]]. Gain 1 [[momentum]] if you overfill the clock.
+      </$reveal>
+      <$reveal type="nomatch" text="overcome" state="!!actiontype">
+[[boost]]: Gain 2 [[momentum]], or change the scene in a way that reduces your [[risk]] by 2 levels.
+      </$reveal>
+
+    </$reveal>
+    <$reveal type="match" text="3" state="!!impact">
+
+<h3>High [[Impact|impact]]</h3>
+      <$reveal type="match" text="overcome" state="!!actiontype">
+[[overcome]]: Mark 3 sections of the [[progress clock]]. Gain 1 [[momentum]] if you overfill the clock.
+      </$reveal>
+      <$reveal type="nomatch" text="overcome" state="!!actiontype">
+[[boost]]: Gain 3 [[momentum]], or gain 1 momentum and change the scene in a way that reduces your [[risk]] by 2 levels (or some other combination).
+      </$reveal>
+
+    </$reveal>
+    <$reveal type="match" text="4" state="!!impact">
+
+<h3>Extreme [[Impact|impact]]</h3>
+      <$reveal type="match" text="overcome" state="!!actiontype">
+[[overcome]]: Mark 4 sections of the [[progress clock]]. Gain 1 [[momentum]] if you overfill the clock.
+      </$reveal>
+      <$reveal type="nomatch" text="overcome" state="!!actiontype">
+[[boost]]: Gain 4 [[momentum]], or gain 2 momentum and change the scene in a way that reduces your [[risk]] by 2 levels (or some other combination).
+      </$reveal>
+
+    </$reveal>
+  </$reveal>
+  <$reveal type="lt" text="6" default=<<hiresult>>>
+    <$reveal type="gt" text="3" default=<<hiresult>>>
+      <$reveal type="match" text="1" state="!!risk">
+
+<h3>Low [[Risk|risk]]</h3>
+You hesitate. Withdraw and try a different approach, or else succeed with a minor [[consequence]]: a minor complication occurs, your [[impact]] is reduced by 1, you suffer 1 [[stress]] or [[harm]], you lose 1 [[momentum]], or your risk level increases to moderate. 
+      </$reveal>
+      <$reveal type="match" text="2" state="!!risk">
+
+<h3>Moderate [[Risk|risk]]</h3>
+You succeed, but there’s a [[consequence]]: you suffer 2 [[stress]] or [[harm]], you lose 2 [[momentum]], a complication occurs, your [[impact]] is reduced by 1 or 2, or you end up in a high-risk position.
+      </$reveal>
+      <$reveal type="match" text="3" state="!!risk">
+
+<h3>High [[Risk|risk]]</h3>
+You succeed, but there’s a [[consequence]]: you suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious complication occurs, or you have significantly reduced [[impact]].
+      </$reveal>
+      <$reveal type="match" text="4" state="!!risk">
+
+<h3>Extreme [[Risk|risk]]</h3>
+You succeed, but there’s a serious [[consequence]]: you suffer some combination of [[stress]], [[harm]], lost [[momentum]], or reduced [[impact]] adding up to four.
+      </$reveal>
+    </$reveal>
+    <$reveal type="lteq" text="3" default=<<hiresult>>>
+      <$reveal type="match" text="1" state="!!risk">
+
+<h3>Low [[Risk|risk]]</h3>
+You falter. Press on by seizing a high-risk opportunity, or withdraw and try a different approach.
+      </$reveal>
+      <$reveal type="match" text="2" state="!!risk">
+
+<h3>Moderate [[Risk|risk]]</h3>
+Things go badly. You suffer 2 [[stress]] or [[harm]], you lose 2 [[momentum]], a [[complication|consequence]] occurs, you end up in a high-risk position, or you lose this opportunity.
+      </$reveal>
+      <$reveal type="match" text="3" state="!!risk">
+
+<h3>High [[Risk|risk]]</h3>
+Things are bad. You suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious [[complication|consequence]] occurs, or you lose this opportunity for action.
+      </$reveal>
+      <$reveal type="match" text="4" state="!!risk">
+
+<h3>Extreme [[Risk|risk]]</h3>
+Things are very bad. You suffer some combination of [[stress]], [[harm]], lost [[momentum]], or reduced [[impact]] adding up to four, as well as potentially a [[complication|consequence]] or lost opportunity.
+      </$reveal>
+    </$reveal>
+  </$reveal>
+
+</$reveal>
+
+!
+
+<$button><$action-chooserandom $filter="[range[6]]" $tiddler="$:/newdie"/><$action-setfield $field="result" $value={{{ [{!!result}] [{$:/newdie}] +[join[ ]] }}}/>Roll another die</$button>
+<$button><$action-setfield $field="impact" $value={{{ [{!!impact}add[1]min[4]] }}}/>Improve Impact</$button>
+<$button><$action-setfield $field="risk" $value={{{ [{!!risk}subtract[1]max[1]] }}}/>Reduce Risk</$button>
+
+</$vars>
+<div style="width:300px;"></div>

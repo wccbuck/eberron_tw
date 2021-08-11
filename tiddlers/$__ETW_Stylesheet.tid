@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20210808000315559
+modified: 20210810213612264
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -122,6 +122,16 @@ p.new-note button svg:hover {fill: <<colour tiddler-controls-foreground-hover>>;
   flex: 1;
 }
 
+.cs-row-centered {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  flex: 1;
+  justify-content:center;
+  align-items:center;
+}
+
 .cs-column {
   display: flex;
   flex-direction: column;
@@ -221,9 +231,35 @@ label.cs-check input{
   height: 2.2em;
 }
 
+.cs-language select{
+  width: calc(100% - 50px);
+  height: 2.2em;
+}
+
 input.cs-newitem {
   height: 2.2em;
   width: calc(100% - 30px);
+  background-color: #fff;
+}
+
+input.newclock {
+  height: 2.2em;
+  width: calc(100% - 60px - 3em);
+  background-color: <<color alert-background>>;
+}
+
+input.newclock:focus {
+  background-color: #fff;
+}
+
+input.newsegments {
+  height: 2.2em;
+  width: 3em;
+  margin-left: 5px;
+  background-color: <<color alert-background>>;
+}
+
+input.newsegments:focus {
   background-color: #fff;
 }
 
@@ -231,4 +267,18 @@ input.cs-newitem {
   width: 100%;
   height: 150px !important;
   resize: none;
+}
+
+.draggable-subtitle {
+  color: <<colour tiddler-subtitle-foreground>>;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  margin-left: 10px;
+  width: 200px;
+  font-size: 0.75em;
+}
+
+.draggable-subtitle a{
+  color: <<colour tiddler-subtitle-foreground>>;
 }

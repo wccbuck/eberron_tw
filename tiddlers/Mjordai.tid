@@ -1,9 +1,10 @@
 category: culture
 color: #A3CFBB
 created: 20210408193045599
-modified: 20210727192021809
+modified: 20210810160509025
 tags: language
 title: Mjordai
+tooltip: Dwarvish, language of Mror Holds
 type: text/vnd.tiddlywiki
 var: major
 

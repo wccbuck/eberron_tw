@@ -1,13 +1,13 @@
 category: game mechanics
 created: 20210103022320477
-modified: 20210727192009379
+modified: 20210810185956720
 tags: Storyloom [[Taking Action]]
 title: full success
 type: text/vnd.tiddlywiki
 
-After rolling dice, if your highest die is a 6, it's a full success. Things go well. You accomplish what you set out to accomplish, either with no associated [[consequence]]s or with some added bonus.
+After rolling dice, if your highest die is a 6, it's a full success. Things go well. You accomplish what you set out to accomplish, either with no associated [[consequence]]s or with a mild consequence and some added bonus.
 
-Rolling two or more 6's is a ''critical success'', and grants you some additional bonus. 
+Rolling two or more 6's is a ''critical success'', and grants you some additional bonus, such as +1 [[impact]] or +1 [[momentum]]. 
 
 <<<
 ''Side note: ''You can only roll a critical if you are rolling at a +2 or higher; if you are at zero or negative dice, and therefore are rolling two dice and taking the single lowest result, you don't get a critical if you roll two 6's.

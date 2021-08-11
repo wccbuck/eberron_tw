@@ -171,6 +171,8 @@ function editTextWidgetFactory(toolbarEngine,nonToolbarEngine) {
 		this.editPlaceholder = this.getAttribute("placeholder");
 		this.editSize = this.getAttribute("size");
 		this.editRows = this.getAttribute("rows");
+		this.editMin = this.getAttribute("min");
+		this.editMax = this.getAttribute("max");
 		this.editAutoHeight = this.wiki.getTiddlerText(HEIGHT_MODE_TITLE,"auto");
 		this.editAutoHeight = this.getAttribute("autoHeight",this.editAutoHeight === "auto" ? "yes" : "no") === "yes";
 		this.editMinHeight = this.getAttribute("minHeight",DEFAULT_MIN_TEXT_AREA_HEIGHT);

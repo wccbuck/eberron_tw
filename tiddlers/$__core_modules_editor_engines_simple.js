@@ -46,6 +46,12 @@ function SimpleEngine(options) {
 	if(this.widget.editRows) {
 		this.domNode.setAttribute("rows",this.widget.editRows);
 	}
+	if(this.widget.editMin) {
+		this.domNode.setAttribute("min",this.widget.editMin);
+	}
+	if(this.widget.editMax) {
+		this.domNode.setAttribute("max",this.widget.editMax);
+	}
 	if(this.widget.editClass) {
 		this.domNode.className = this.widget.editClass;
 	}
