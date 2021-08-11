@@ -1,13 +1,13 @@
 [
     {
         "created": "20210212074529315",
-        "title": "Demesne of Motion",
-        "text": "House [[Phiarlan]]'s [[Demesne|Demesnes]] of Motion in [[Breland]]’s capital,\n[[Wroat]], focuses on physical arts such as dance,\ngymnastics, and contortion. Acrobats of the [[Carnival of Shadows|Entertainers and Artisans Guild]], a traveling circus sponsored by the house,\nand spies of the [[Serpentine Table]] study here. The Demesne also teaches martial arts, both ancient elven styles and new techniques developed by the school. For students\nof motion, combat is a celebration.",
-        "modified": "20210727192004120",
-        "tags": "enclave Phiarlan Demesnes Wroat",
+        "text": "House [[Phiarlan]]'s [[Demesne|Demesnes]] of Motion in [[Breland]]’s capital,\n[[Wroat]], focuses on physical arts such as dance,\ngymnastics, and contortion. Acrobats of the [[Carnival of Shadows|Entertainers and Artisans Guild]], a traveling circus sponsored by the house,\nand spies of the [[Serpentine Table]] study here. The Demesne also teaches martial arts, both ancient elven styles and new techniques developed by the school. For students\nof motion, combat is a celebration.\n\nThe Demesne of Motion is administered by Viceroy Surael Shol d'[[Phiarlan]], Lord Seneschal of [[Breland]].",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Demesne of Motion",
+        "tags": "enclave Phiarlan Demesnes Wroat",
+        "modified": "20210811011830143",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

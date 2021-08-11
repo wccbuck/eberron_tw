@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20210810213612264
+modified: 20210811003748433
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -261,6 +261,12 @@ input.newsegments {
 
 input.newsegments:focus {
   background-color: #fff;
+}
+
+.clocklabel {
+    font-family: 'masoch-dirach'; font-variant: small-caps; font-weight:500;
+	font-size: 2em;
+    margin: 0px;
 }
 
 .cs-notes {

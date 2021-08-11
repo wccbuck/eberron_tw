@@ -43,7 +43,7 @@ ProgressClock.prototype.render = function(parent,nextSibling) {
     piechart.setAttribute('cy','35');
     piechart.setAttribute('r','15.9155');
     piechart.setAttribute('fill','transparent');
-    piechart.setAttribute('stroke','#AF8252');
+    piechart.setAttribute('stroke','#D65618');
     piechart.setAttribute('stroke-width','30');
     piechart.setAttribute('stroke-dasharray','0 100');
     piechart.setAttribute('stroke-dashoffset','25');

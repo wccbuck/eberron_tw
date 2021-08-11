@@ -1,13 +1,13 @@
 [
     {
         "created": "20210212074306275",
-        "title": "Demesne of Memory",
-        "text": "The [[Demesne|Demesnes]] of Memory is located\nin [[Fairhaven]] in [[Aundair]]. Embodying\nthe discipline of the written word, it\nhouses [[Phiarlan]]’s stories and history. Novelists, playwrights, and poets\nare all students of memory. This Demesne\ncontains one of the finest libraries in [[Khorvaire]], a\nrepository both of general knowledge and songs\nand stories. ",
-        "modified": "20210727192004110",
-        "tags": "enclave Phiarlan Demesnes Fairhaven",
+        "text": "The [[Demesne|Demesnes]] of Memory is located\nin [[Fairhaven]] in [[Aundair]]. Embodying\nthe discipline of the written word, it\nhouses [[Phiarlan]]’s stories and history. Novelists, playwrights, and poets\nare all students of memory. This Demesne\ncontains one of the finest libraries in [[Khorvaire]], a\nrepository both of general knowledge and songs\nand stories. \n\nThe Demesne of Memory is run by Viceroy Dulaen Elorrenthi d'[[Phiarlan]], Lord Seneschal of [[Aundair]].",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Demesne of Memory",
+        "tags": "enclave Phiarlan Demesnes Fairhaven",
+        "modified": "20210811011638578",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]
