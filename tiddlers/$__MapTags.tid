@@ -1,0 +1,5 @@
+created: 20210117185710989
+modified: 20210813083933726
+tags: [tag[$:/Background]search:title[Land]sort[title]] [has[title]tag[$:/Background]search:title[Sea]sort[title]] [all[]all[]all[]has[polylines]tag[latitude]] [all[]all[]all[]all[]tag[quarter]] [all[]all[]has[polygons]tag[province]] [all[]has[polygons]!tag[continent]!tag[desert]!tag[forest]!tag[geography]!tag[island]!tag[lake]!tag[mountains]!tag[river]!tag[swamp]!tag[sea]!tag[lava]!tag[province]!tag[quarter]!tag[ward]!tag[$:/Background]] [all[]all[]all[]list[geography]tagging[]!tag[continent]!has[points]!var[back]] [all[]list[geography]tagging[]!tag[continent]!has[points]var[back]] [has[polygons]tag[sea]] [has[polygons]tag[continent]] [all[]all[]all[]all[]var[orientraderoad]] [all[]all[]all[]all[]var[lightningrail]] [has[points]]
+title: $:/MapTags
+type: text/vnd.tiddlywiki

@@ -38,6 +38,7 @@ A widget for displaying leaflet map in TiddlyWiki
         iter = [],           // iteration indicator to avoid infinite loops
         setting = {};        // the map's settings
 
+    var allMarkers = [];
     /* Inherit from the base widget class */
     mapWidget.prototype = new Widget();
 
@@ -333,7 +334,7 @@ A widget for displaying leaflet map in TiddlyWiki
         // set map to objects bounds
 
         try {
-            var boundsString = this.wiki.getTiddlerText("$:/MapTags");
+            var boundsString = this.wiki.getTiddlerText("$:/MapBounds");
             if (boundsString) {
                 var boundSplit = boundsString.split(",");
                 bounds = L.latLngBounds(L.latLng(boundSplit[1], boundSplit[0]), L.latLng(boundSplit[3], boundSplit[2]));
@@ -380,12 +381,12 @@ A widget for displaying leaflet map in TiddlyWiki
 
                         var polygon = L.polygon(ShapesList);
                         var bounds = polygon.getBounds();
-                        Map[map].flyToBounds(bounds);
+                        Map[map].fitBounds(bounds);
                     }catch(e){}
 
                 } else {
                     var pt = flyString.split(",");
-                    Map[map].flyTo(pt, 6);
+                    Map[map].flyTo(pt, 6, {animate: false});
                 }
             }
 
@@ -484,7 +485,6 @@ A widget for displaying leaflet map in TiddlyWiki
         extBounds(feature);
 
         function saveBounds() {
-            // console.log("saved bounds")
             var bounds = feat.getBounds();
             var centerLat = bounds.getCenter().lat;
             var centerLng = bounds.getCenter().lng;
@@ -502,18 +502,30 @@ A widget for displaying leaflet map in TiddlyWiki
             var destLat = String(Math.round((bounds.getNorth()+centerLat)*100/2)/100);
 
             var boundsString = west+","+south+","+east+","+north+","+originLng+","+originLat+","+destLng+","+destLat+","+cLngString+","+cLatString;
-            obj.wiki.setText("$:/MapTags", "text", undefined, boundsString);
+            obj.wiki.setText("$:/MapBounds", "text", undefined, boundsString);
         }
 
         var saveBoundsTimer;
 
         feat.on('zoomend', function() {
+            var cutoffKhorvaire = obj.wiki.getTiddlerData("$:/mapCutoffKhorvaire",[]);
+            var cutoffNotKhorvaire = obj.wiki.getTiddlerData("$:/mapCutoffNotKhorvaire",[]);
+            var zoomIndex = feat.getZoom() || 10;
+            var cutoffFilter = "[has[points]!minrelevance["+cutoffNotKhorvaire[zoomIndex]+"]] [tag[Khorvaire]tagging[]has[points]!minrelevance["+cutoffKhorvaire[zoomIndex]+"]]";
+            var cutoffTids = obj.wiki.filterTiddlers(cutoffFilter);
+            clust.clearLayers();
+            for (var marker of allMarkers){
+                if (!cutoffTids.includes(marker.linkto)){
+                    clust.addLayer(marker);
+                }
+            }
+
             clearTimeout(saveBoundsTimer);
-            saveBoundsTimer = setTimeout(saveBounds, 1000);
+            saveBoundsTimer = setTimeout(saveBounds, 750);
         });
         feat.on('dragend', function() {
             clearTimeout(saveBoundsTimer);
-            saveBoundsTimer = setTimeout(saveBounds, 1000);
+            saveBoundsTimer = setTimeout(saveBounds, 750);
         });
     }
 
@@ -534,6 +546,7 @@ A widget for displaying leaflet map in TiddlyWiki
             var marker = L.marker(location, {
                 icon: lfltIcon(col, mark, map)
             });
+            marker.linkto = linkto;
             if (linkto) {
                 marker.bindTooltip(objTitle, {sticky: true});
                 if (isTouchDevice()){
@@ -556,6 +569,7 @@ A widget for displaying leaflet map in TiddlyWiki
             if (clust.count) clust.count +=1;
             else clust.count = 1;
             clust.addLayer(marker);
+            allMarkers.push(marker);
         } catch (err) {displayError("point marker error", err);}
     }
     // add a marker serie for a points list
@@ -836,6 +850,7 @@ A widget for displaying leaflet map in TiddlyWiki
 
     // map tiddlers with a filter
     function mapFilter(obj, filter, feat, clust, pop, col, mark, style) {
+        allMarkers = [];
         try {
             iter.map.tid = 1;
             var Tids = obj.wiki.filterTiddlers(filter);

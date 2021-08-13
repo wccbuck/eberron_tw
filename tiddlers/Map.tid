@@ -1,32 +1,34 @@
 caption: Map
 created: 20210112213904741
-cutoff: 3000
+cutoff: 0
 list-before: $:/core/ui/SideBar/Open
-modified: 20210811002050850
-showcontrols: show
+modified: 20210813090904697
+showcontrols: hide
 tags: $:/tags/SideBar
 title: Map
 type: text/vnd.tiddlywiki
 
-\define places() {"filter":"$(filters)$ -[has[points]!minrelevance[$(cutoff)$]]"}
+\define places() {"filter":"$(filters)$"}
 \define coords() $(first)$,$(second)$
 \define mapactions() <$action-setfield $tiddler="Map" $field="refresh"/>
-\define markeractions() <$set name="first" filter="[{$:/MapTags}split[,]nth[6]]"> <$set name="second" filter="[{$:/MapTags}split[,]nth[5]]"> <$action-setfield $tiddler="$:/Origin" text=<<coords>>/> </$set> </$set> <$set name="first" filter="[{$:/MapTags}split[,]nth[8]]"> <$set name="second" filter="[{$:/MapTags}split[,]nth[7]]"> <$action-setfield $tiddler="$:/Destination" text=<<coords>>/> </$set> </$set><$action-setfield $tiddler="Map" $field="refresh"/>
-\define posactions() <$set name="first" filter="[{$:/MapTags}split[,]nth[10]]"> <$set name="second" filter="[{$:/MapTags}split[,]nth[9]]"> <$action-setfield $tiddler="$:/PartyPosition" text=<<coords>>/> </$set> </$set><$action-setfield $tiddler="Map" $field="refresh"/>
+\define markeractions() <$set name="first" filter="[{$:/MapBounds}split[,]nth[6]]"> <$set name="second" filter="[{$:/MapBounds}split[,]nth[5]]"> <$action-setfield $tiddler="$:/Origin" text=<<coords>>/> </$set> </$set> <$set name="first" filter="[{$:/MapBounds}split[,]nth[8]]"> <$set name="second" filter="[{$:/MapBounds}split[,]nth[7]]"> <$action-setfield $tiddler="$:/Destination" text=<<coords>>/> </$set> </$set><$action-setfield $tiddler="Map" $field="refresh"/>
+\define posactions() <$set name="first" filter="[{$:/MapBounds}split[,]nth[10]]"> <$set name="second" filter="[{$:/MapBounds}split[,]nth[9]]"> <$action-setfield $tiddler="$:/PartyPosition" text=<<coords>>/> </$set> </$set><$action-setfield $tiddler="Map" $field="refresh"/>
 \define backgeocheck() <$action-sendmessage $message="tm-add-tag" $param="[all[]list[geography]tagging[]!tag[continent]!has[points]var[back]]"/>
 \define backgeouncheck() <$action-sendmessage $message="tm-remove-tag" $param="[all[]list[geography]tagging[]!tag[continent]!has[points]var[back]]"/>
 
+<div id="map-scroll-position"></div>
+
 <$reveal type="nomatch" state="Map!!showcontrols" text="show">
-<$button class="tc-btn-invisible tc-tiddlylink" set="Map!!showcontrols" setTo="show">Show Map Layers</$button>
+<$button class="tc-btn-invisible tc-tiddlylink" set="Map!!showcontrols" setTo="show">Show Map Options</$button>
 </$reveal>
 
 <$reveal type="match" state="Map!!showcontrols" text="show">
-<$button class="tc-btn-invisible tc-tiddlylink" set="Map!!showcontrols" setTo="hide">Hide Map Layers</$button><br/>
+<$button class="tc-btn-invisible tc-tiddlylink" set="Map!!showcontrols" setTo="hide">Hide Map Options</$button><br/>
 
 <$fieldmangler tiddler="$:/MapTags">
 <$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]has[polylines]tag[latitude]]"> ''Lines of Latitude''&nbsp;&nbsp;</$checkbox><$checkbox tiddler="$:/MapTags" tag="[has[polygons]tag[continent]]"> ''Continents''</$checkbox><br/><$checkbox tiddler="$:/MapTags" tag="[has[polygons]tag[sea]]"> ''Seas''&nbsp;&nbsp;</$checkbox><$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]list[geography]tagging[]!tag[continent]!has[points]!var[back]]" checkactions=<<backgeocheck>> uncheckactions=<<backgeouncheck>>> ''Geography''</$checkbox><br/>
 <$checkbox tiddler="$:/MapTags" tag="[all[]has[polygons]!tag[continent]!tag[desert]!tag[forest]!tag[geography]!tag[island]!tag[lake]!tag[mountains]!tag[river]!tag[swamp]!tag[sea]!tag[lava]!tag[province]!tag[quarter]!tag[ward]!tag[$:/Background]]"> ''Nations and Regions''&nbsp;&nbsp;</$checkbox><$checkbox tiddler="$:/MapTags" tag="[all[]all[]has[polygons]tag[province]]"> ''Provinces''</$checkbox><br/>
-<$checkbox tiddler="$:/MapTags" tag="[has[points]]"> ''Cities and Sites''&nbsp;&nbsp;</$checkbox><$select tiddler="Map" field="cutoff"><option value="0">All</option><option value="1000">Many</option><option value="3000">Some</option><option value="7000">Few</option><option value="14000">Very Few</option></$select><br/>
+<$checkbox tiddler="$:/MapTags" tag="[has[points]]"> ''Cities and Sites''&nbsp;&nbsp;</$checkbox><br/>
 <$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]all[]var[orientraderoad]]"> ''Roads''&nbsp;&nbsp;</$checkbox>
 <$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]all[]var[lightningrail]]"> ''Lightning Rail Lines''</$checkbox><br/>
 <$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]all[]tag[quarter]]"> ''[[Sharn]] Plateaus''</$checkbox>
@@ -34,11 +36,9 @@ type: text/vnd.tiddlywiki
 </$reveal>
 
 <$set name=filters filter="[[$:/MapTags]tags[]sort[]reverse[]]">
-<$set name=cutoff filter="[{Map!!cutoff}]">
 <div style="padding:7px;border-style: double;max-width:600px;">
 <$leafmap cluster="0" width="100%" places=<<places>>/>
 </div>
-</$set>
 </$set>
 
 <$button>

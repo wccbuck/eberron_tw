@@ -1,5 +1,5 @@
 created: 20210108212810444
-modified: 20210808000750213
+modified: 20210813051139947
 tags: 
 title: TierTemplate
 type: text/vnd.tiddlywiki
@@ -31,7 +31,7 @@ type: text/vnd.tiddlywiki
 <$reveal type="match" state="!!category" text="location">
 <$reveal type="nomatch" state="!!points" text="">
 <$wikify name=locations text="{{!!points}} {{!!polylines}} {{!!polygons}}">
-<$button><$action-setfield $tiddler="$:/FlyLocation" text=<<locations>>/><$action-setfield $tiddler="$:/state/tab/sidebar--595412856" text="Map"/><$action-setfield $tiddler="Map" $field="refresh"/>Find On Map</$button>
+<$button><$action-setfield $tiddler="$:/FlyLocation" text=<<locations>>/><$action-setfield $tiddler="$:/state/tab/sidebar--595412856" text="Map"/><$action-setfield $tiddler="Map" $field="refresh"/><$mapscrollintoview/>Find On Map</$button>
 </$wikify>
 </$reveal>
 <$reveal type="match" state="!!points" text="">

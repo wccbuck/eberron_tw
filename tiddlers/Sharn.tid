@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200410005743410
-modified: 20210728213320499
+modified: 20210813085111122
 points: 21.87,-24.47
 style: {"color": "#8E0024"}
 tags: Breland city
@@ -493,15 +493,15 @@ questions:
 * What do the people involved hope is going to happen next? What are they afraid might happen next? How are the circumstances changed because the characters have witnessed the event? 
 
 <$button>
-<$action-chooserandom $dataTiddler="LowerSharnStreetEvents" $field="var"/>
+<$action-chooserandom $dataTiddler="$:/LowerSharnStreetEvents" $field="var"/>
 Lower Sharn Street Event
 </$button>
 <$button>
-<$action-chooserandom $dataTiddler="UpperSharnStreetEvents" $field="var"/>
+<$action-chooserandom $dataTiddler="$:/UpperSharnStreetEvents" $field="var"/>
 Upper Sharn Street Event
 </$button>
 <$button>
-<$action-chooserandom $dataTiddler="SkywayStreetEvents" $field="var"/>
+<$action-chooserandom $dataTiddler="$:/SkywayStreetEvents" $field="var"/>
 Skyway Street Event
 </$button>
 
