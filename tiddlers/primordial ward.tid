@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20210813212618931
+modified: 20210813212813406
+tags: [[primal magic]]
+tier: 4
+title: primordial ward
+type: text/vnd.tiddlywiki
+
+You have resistance to acid, cold, fire, lightning, and force damage for up to 1 minute.
+
+When you take damage of one of those types, you can choose to end these resistances to gain immunity to that type of damage, including against the triggering damage. The immunity lasts for up to 10 seconds, and then the spell ends.
