@@ -1,7 +1,7 @@
 category: character sheet
 created: 20210802012325047
 mode: view
-modified: 20210813183308366
+modified: 20210813222402812
 title: character sheet template
 type: text/vnd.tiddlywiki
 
@@ -93,7 +93,10 @@ type: text/vnd.tiddlywiki
 				</div>
 		    </div>
 		</div>
-        <div class="cs-row" style="justify-content:space-between;">
+		<div class="cs-row">
+<p class="cs-heading">[[Momentum|momentum]]</p>
+        </div>
+        <div class="cs-row">
            <<cs-momentum>>
         </div>
 		<div class="cs-row">
