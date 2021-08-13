@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20210813182452297
+modified: 20210813222528830
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -213,9 +213,12 @@ type: text/vnd.tiddlywiki
 \end
 
 \define cs-momentum()
-''[[Momentum|momentum]]:'' &nbsp;
-<$range tiddler="$:/$(currentTiddler)$/data" field="momentum" min="0" max="3" default="0" increment="1"/>&nbsp;
-<div style="margin-right:25px;">''{{$:/$(currentTiddler)$/data!!momentum}}''</div>
+<div class="cs-quadcolumn">
+<$range tiddler="$:/$(currentTiddler)$/data" field="momentum" min="0" max="3" default="0" increment="1"/></div>
+<div class="cs-column" style="align-items:center; margin-bottom:10px;">
+<$vars momentum={{{ [{$:/$(currentTiddler)$/data!!momentum}else[0]] }}}>
+<p class="cs-attr-act"><<momentum>></p></$vars>
+</div>
 \end
 
 \define cs-progressclock(index)
