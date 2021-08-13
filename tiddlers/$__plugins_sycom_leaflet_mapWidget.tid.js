@@ -419,6 +419,50 @@ A widget for displaying leaflet map in TiddlyWiki
         // case 3 : data in tiddlers following a filter
         if (plcs.filter) {
             mapFilter(obj, plcs.filter, feature, clust, pop, col, mark, style);
+
+            function saveBounds() {
+                var bounds = feat.getBounds();
+                var centerLat = bounds.getCenter().lat;
+                var centerLng = bounds.getCenter().lng;
+                var cLatString = String(Math.round(centerLat*100)/100);
+                var cLngString = String(Math.round(centerLng*100)/100);
+
+                var west = String(Math.round(bounds.getWest()*100)/100);
+                var south = String(Math.round(bounds.getSouth()*100)/100);
+                var east = String(Math.round(bounds.getEast()*100)/100);
+                var north = String(Math.round(bounds.getNorth()*100)/100);
+
+                var originLng = String(Math.round((bounds.getWest()+centerLng)*100/2)/100);
+                var originLat = String(Math.round((bounds.getSouth()+centerLat)*100/2)/100);
+                var destLng = String(Math.round((bounds.getEast()+centerLng)*100/2)/100);
+                var destLat = String(Math.round((bounds.getNorth()+centerLat)*100/2)/100);
+
+                var boundsString = west+","+south+","+east+","+north+","+originLng+","+originLat+","+destLng+","+destLat+","+cLngString+","+cLatString;
+                obj.wiki.setText("$:/MapBounds", "text", undefined, boundsString);
+            }
+
+            var saveBoundsTimer;
+
+            feat.on('zoomend', function() {
+                var cutoffKhorvaire = obj.wiki.getTiddlerData("$:/mapCutoffKhorvaire",[]);
+                var cutoffNotKhorvaire = obj.wiki.getTiddlerData("$:/mapCutoffNotKhorvaire",[]);
+                var zoomIndex = feat.getZoom() || 10;
+                var cutoffFilter = "[has[points]!minrelevance["+cutoffNotKhorvaire[zoomIndex]+"]] [tag[Khorvaire]tagging[]has[points]!minrelevance["+cutoffKhorvaire[zoomIndex]+"]]";
+                var cutoffTids = obj.wiki.filterTiddlers(cutoffFilter);
+                clust.clearLayers();
+                for (var marker of allMarkers){
+                    if (!cutoffTids.includes(marker.linkto)){
+                        clust.addLayer(marker);
+                    }
+                }
+
+                clearTimeout(saveBoundsTimer);
+                saveBoundsTimer = setTimeout(saveBounds, 750);
+            });
+            feat.on('dragend', function() {
+                clearTimeout(saveBoundsTimer);
+                saveBoundsTimer = setTimeout(saveBounds, 750);
+            });
         }
         // case 4 : data are directly listed in places (point(s) - polygon - polyline - geojson)
         // for each we will
@@ -484,49 +528,6 @@ A widget for displaying leaflet map in TiddlyWiki
 
         extBounds(feature);
 
-        function saveBounds() {
-            var bounds = feat.getBounds();
-            var centerLat = bounds.getCenter().lat;
-            var centerLng = bounds.getCenter().lng;
-            var cLatString = String(Math.round(centerLat*100)/100);
-            var cLngString = String(Math.round(centerLng*100)/100);
-
-            var west = String(Math.round(bounds.getWest()*100)/100);
-            var south = String(Math.round(bounds.getSouth()*100)/100);
-            var east = String(Math.round(bounds.getEast()*100)/100);
-            var north = String(Math.round(bounds.getNorth()*100)/100);
-
-            var originLng = String(Math.round((bounds.getWest()+centerLng)*100/2)/100);
-            var originLat = String(Math.round((bounds.getSouth()+centerLat)*100/2)/100);
-            var destLng = String(Math.round((bounds.getEast()+centerLng)*100/2)/100);
-            var destLat = String(Math.round((bounds.getNorth()+centerLat)*100/2)/100);
-
-            var boundsString = west+","+south+","+east+","+north+","+originLng+","+originLat+","+destLng+","+destLat+","+cLngString+","+cLatString;
-            obj.wiki.setText("$:/MapBounds", "text", undefined, boundsString);
-        }
-
-        var saveBoundsTimer;
-
-        feat.on('zoomend', function() {
-            var cutoffKhorvaire = obj.wiki.getTiddlerData("$:/mapCutoffKhorvaire",[]);
-            var cutoffNotKhorvaire = obj.wiki.getTiddlerData("$:/mapCutoffNotKhorvaire",[]);
-            var zoomIndex = feat.getZoom() || 10;
-            var cutoffFilter = "[has[points]!minrelevance["+cutoffNotKhorvaire[zoomIndex]+"]] [tag[Khorvaire]tagging[]has[points]!minrelevance["+cutoffKhorvaire[zoomIndex]+"]]";
-            var cutoffTids = obj.wiki.filterTiddlers(cutoffFilter);
-            clust.clearLayers();
-            for (var marker of allMarkers){
-                if (!cutoffTids.includes(marker.linkto)){
-                    clust.addLayer(marker);
-                }
-            }
-
-            clearTimeout(saveBoundsTimer);
-            saveBoundsTimer = setTimeout(saveBounds, 750);
-        });
-        feat.on('dragend', function() {
-            clearTimeout(saveBoundsTimer);
-            saveBoundsTimer = setTimeout(saveBounds, 750);
-        });
     }
 
     function isTouchDevice() {

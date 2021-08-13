@@ -1,7 +1,7 @@
 category: character sheet
 created: 20210802012325047
 mode: view
-modified: 20210811172242737
+modified: 20210813183308366
 title: character sheet template
 type: text/vnd.tiddlywiki
 
@@ -83,7 +83,7 @@ type: text/vnd.tiddlywiki
      </div>
   </div>
 
-<div class="cs-row">
+  <div class="cs-row">
 	<div class="cs-column" style="align-self: flex-start;">
         <<cs-checkboxes>>
 		<div class="cs-row">
@@ -163,7 +163,18 @@ type: text/vnd.tiddlywiki
 			<<cs-spell-list 5>>
 		</div>
 	</div>
-</div>
+  </div>
+  <div class="cs-row">
+    <div class="cs-column">
+      <p class="cs-heading">[[Progress Clocks|progress clock]]</p>
+    </div>
+    <div class="cs-column" style="align-items:flex-end;">
+      (double click to advance a clock)
+    </div>
+  </div>
+  <div class = "cs-row">
+    <<cs-progressclocks>>
+  </div>
 <p class="cs-heading">Notes</p>
 <<cs-notes>>
 </div>

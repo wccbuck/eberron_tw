@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20210811035532630
+modified: 20210813183532533
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -256,8 +256,18 @@ input.progressclock {
   background-color: <<color alert-background>>;
 }
 
-input.progressclock:focus {
+input.progressclock:focus{
   background-color: #fff;
+}
+
+input.cs-progressclock:focus{
+  background-color: #fff;
+}
+
+input.cs-progressclock {
+  height: 2.2em;
+  width: calc(100% - 60px - 3em);
+  background-color: <<color select-tag-background>>;
 }
 
 input.newsegments {
@@ -271,10 +281,22 @@ input.newsegments:focus {
   background-color: #fff;
 }
 
+input.cs-newsegments:focus {
+  background-color: #fff;
+}
+
+input.cs-newsegments {
+  height: 2.2em;
+  width: 3em;
+  margin-left: 5px;
+  background-color: <<color select-tag-background>>;
+}
+
 .clocklabel {
     font-family: 'masoch-dirach'; font-variant: small-caps; font-weight:500;
 	font-size: 2em;
     margin: 0px;
+    text-align: center;
 }
 
 .cs-notes {

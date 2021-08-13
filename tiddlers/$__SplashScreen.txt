@@ -1,0 +1,3 @@
+<div class="tc-remove-when-wiki-loaded">
+Loading the Eberron Tiddlywiki...
+</div>

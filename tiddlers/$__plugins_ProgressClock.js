@@ -33,6 +33,7 @@ ProgressClock.prototype.render = function(parent,nextSibling) {
 	this.execute();
     this.segments = this.getAttribute("segments","2");
     this.tiddler = this.getAttribute("tiddler");
+    this.color = this.getAttribute("color", "dimgray");
     if(!this.segments) {this.segments="2"};
     var filledSegments = parseInt(this.getAttribute("filled", "0"));
     if(this.tiddler) {
@@ -49,7 +50,7 @@ ProgressClock.prototype.render = function(parent,nextSibling) {
     piechart.setAttribute('cy','35');
     piechart.setAttribute('r','15.9155');
     piechart.setAttribute('fill','transparent');
-    piechart.setAttribute('stroke','#D65618');
+    piechart.setAttribute('stroke',this.color);
     piechart.setAttribute('stroke-width','30');
     var percentage = Math.round(1000*(100.0*filledSegments/this.segments))/1000.0;
     piechart.setAttribute('stroke-dasharray',percentage.toString()+' '+(100-percentage).toString());
