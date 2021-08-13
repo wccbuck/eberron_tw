@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20210811172224852
+modified: 20210813182452297
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -216,4 +216,27 @@ type: text/vnd.tiddlywiki
 ''[[Momentum|momentum]]:'' &nbsp;
 <$range tiddler="$:/$(currentTiddler)$/data" field="momentum" min="0" max="3" default="0" increment="1"/>&nbsp;
 <div style="margin-right:25px;">''{{$:/$(currentTiddler)$/data!!momentum}}''</div>
+\end
+
+\define cs-progressclock(index)
+<div class="cs-row-centered">
+<div class="clocklabel">{{$:/$(currentTiddler)$/progressclock$index$!!label}}</div>
+</div>
+<div class="cs-row-centered">
+<$progressclock segments={{$:/$(currentTiddler)$/progressclock$index$!!segments}} tiddler="$:/$(currentTiddler)$/progressclock$index$" filled={{$:/$(currentTiddler)$/progressclock$index$}}/>
+</div>
+<div class="cs-row">
+<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-setfield $tiddler="$:/$(currentTiddler)$/progressclock$index$" $value="0"/>{{$:/core/images/refresh-button}}</$button></p><$edit-text tag=input tiddler="$:/$(currentTiddler)$/progressclock$index$" field="label" class="cs-progressclock" placeholder="Clock Name" default=""/><$edit-text tiddler="$:/$(currentTiddler)$/progressclock$index$" field="segments" tag=input type="number" class="cs-newsegments" size=2 default="2" min="2" max="16"/></div>
+\end
+
+\define cs-progressclocks()
+<div class="cs-column">
+  <<cs-progressclock 1>>
+</div>
+<div class="cs-column">
+  <<cs-progressclock 2>>
+</div>
+<div class="cs-column">
+  <<cs-progressclock 3>>
+</div>
 \end
