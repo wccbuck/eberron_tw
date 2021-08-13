@@ -1,0 +1,22 @@
+category: spell
+color: #B7A1E0
+created: 20210813213752831
+modified: 20210813214253490
+tags: [[primal magic]]
+tier: 3
+title: guardian of nature
+type: text/vnd.tiddlywiki
+
+A [[primal spirit|fey]] answers your call and transforms you into a powerful guardian. The transformation lasts for up to 1 minute. You choose one of the following forms to assume: //Primal Beast// or //Great Tree//.
+
+//''Primal Beast.''// Bestial fur covers your body, your facial features become feral, and you gain the following benefits:
+
+* You have [[advantage]] when attempting to move quickly or perform a feat of strength.
+* Your melee attacks deal extra force damage (added [[impact]]).
+* You gain [[darkvision]] with a range of 120 feet.
+
+//''Great Tree.''// Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:
+
+* You gain an additional temporary [[harm]] box.
+* You have [[advantage]] when resisting poisons, disease, and forced movement.
+* While you are on the ground, the ground within 15 feet of you is difficult for your enemies to traverse.

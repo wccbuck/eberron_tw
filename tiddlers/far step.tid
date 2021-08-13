@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20210813213514181
+modified: 20210813213625840
+tags: conjuration
+tier: 3
+title: far step
+type: text/vnd.tiddlywiki
+
+You teleport up to 60 feet to an unoccupied space you can see. Every few seconds until the spell ends a minute later, you can teleport in this way again.

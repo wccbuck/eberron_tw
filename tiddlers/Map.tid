@@ -2,7 +2,7 @@ caption: Map
 created: 20210112213904741
 cutoff: 0
 list-before: $:/core/ui/SideBar/Open
-modified: 20210813090904697
+modified: 20210813210450855
 showcontrols: hide
 tags: $:/tags/SideBar
 title: Map
@@ -16,7 +16,7 @@ type: text/vnd.tiddlywiki
 \define backgeocheck() <$action-sendmessage $message="tm-add-tag" $param="[all[]list[geography]tagging[]!tag[continent]!has[points]var[back]]"/>
 \define backgeouncheck() <$action-sendmessage $message="tm-remove-tag" $param="[all[]list[geography]tagging[]!tag[continent]!has[points]var[back]]"/>
 
-<div id="map-scroll-position"></div>
+<div id="map-scroll-position" style="scroll-margin: 70px;"></div>
 
 <$reveal type="nomatch" state="Map!!showcontrols" text="show">
 <$button class="tc-btn-invisible tc-tiddlylink" set="Map!!showcontrols" setTo="show">Show Map Options</$button>

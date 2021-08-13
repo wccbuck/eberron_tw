@@ -37,7 +37,7 @@ MapScrollIntoView.prototype.render = function(parent,nextSibling) {
 Compute the internal state of the widget
 */
 MapScrollIntoView.prototype.execute = function() {
-
+console.log("mapscrollintoview");
 };
 
 /*
@@ -51,11 +51,9 @@ MapScrollIntoView.prototype.refresh = function(changedTiddlers) {
 Invoke the action associated with this widget
 */
 MapScrollIntoView.prototype.invokeAction = function(triggeringWidget,event) {
-
 	try {
 		setTimeout(function(){
 			var mapElement = this.document.getElementById('map-scroll-position');
-			console.log(mapElement);
 			if(mapElement){
 				mapElement.scrollIntoView({behavior: "smooth"});
 			}
