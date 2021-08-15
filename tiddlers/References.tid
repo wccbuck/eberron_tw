@@ -1,5 +1,5 @@
 created: 20210716184529564
-modified: 20210809012601395
+modified: 20210815101909493
 tags: Readme
 title: References
 type: text/vnd.tiddlywiki
@@ -106,3 +106,7 @@ In no particular order
 * [[Table Fables II|https://www.amazon.com/Table-Fables-II-World-Builders-Handbook/dp/1983428000/]] (Madeline Hale)
 * [[Arcane Artifacts and Curious Curios|https://www.amazon.com/Arcane-Artifacts-Curious-Curios-Magical/dp/B07Y4NDYH1/]] (Madeline Hale)
 * [[Spouting Lore Blog|https://spoutinglore.blogspot.com/]]
+
+!! Miscellaneous
+
+* Thank you to Sylvain Comte and his work on the [[leaflet tiddlywiki plugin|http://sycom.github.io/TiddlyWiki-Plugins/#Leaflet%20maps%20plugin]]; it was a big help in my development of my own map widget.

@@ -1,0 +1,13 @@
+caption: marker
+created: 20210815101135736
+marker_dim: 28 42 14 42
+modified: 20210815101151663
+tags: $:/tags/Image
+title: $:/plugins/wccbuck/FMW/star.svg
+type: text/vnd.tiddlywiki
+
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 42" width="28" height="42">
+    <g>
+	    <path class="leaflet-marker-colored" fill-rule="evenodd" fill="$primary$" fill-opacity=".8" stroke="#fff" stroke-linecap="round" stroke-width=2 d="M11 30.5C11 30.5 12.5 29 14 29C15.5 29 17 30.5 17 30.5L14 41L11 30.5ZM13.75 1.25L19.41 7.46L27.06 10.92L22.91 18.23L21.98 26.58L13.75 24.88L5.52 26.58L4.59 18.23L0.44 10.92L8.09 7.46L13.75 1.25ZM11.45 11.7L8 13.2L9.87 16.37L10.29 20L14 19.26L17.71 20L18.13 16.37L20 13.2L16.55 11.7L14 9L11.45 11.7Z" />
+	</g>
+</svg>
