@@ -1,5 +1,5 @@
 created: 20210302070815292
-modified: 20210813051050753
+modified: 20210815094710417
 tags: 
 title: Find Places
 type: text/vnd.tiddlywiki
@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 \define results-count() $(count)$ results
 \define loc-type() [tag:strict{$:/config/Manager/LocationType}!is[system]] [list{$:/config/Manager/LocationType}tagging[]category[location]!is[system]]
 
-See also <$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tiddler="$:/state/tab/sidebar--595412856" text="Map"/><$mapscrollintoview/>Map</$button>.
+See also <$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tiddler="$:/state/tab/sidebar--595412856" text="$:/Map"/><$mapscrollintoview/>Map</$button>.
 
 <div class="tc-manager-wrapper">
 	<div class="tc-manager-controls">

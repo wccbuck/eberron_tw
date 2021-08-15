@@ -37,7 +37,6 @@ MapScrollIntoView.prototype.render = function(parent,nextSibling) {
 Compute the internal state of the widget
 */
 MapScrollIntoView.prototype.execute = function() {
-console.log("mapscrollintoview");
 };
 
 /*

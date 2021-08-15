@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20210813183532533
+modified: 20210815080209745
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -318,3 +318,5 @@ input.cs-newsegments {
 .draggable-subtitle a{
   color: <<colour tiddler-subtitle-foreground>>;
 }
+
+.leaflet-zoom-animated {max-width: initial !important}

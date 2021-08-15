@@ -1,5 +1,5 @@
 created: 20210715234357438
-modified: 20210813045043157
+modified: 20210815101755309
 tags: 
 title: Readme
 type: text/vnd.tiddlywiki
@@ -30,7 +30,7 @@ This document is not a complete database of all things Eberron. I have deliberat
 
 Using Tiddlywiki might take some getting used to; reading this [[short tutorial|https://opensource.com/article/19/2/tiddlywiki]] might help you find your footing. Note that while the site works fine on mobile, it was designed for desktop. 
 
-As for checking out the tons and tons of Eberron content in this database, I'd start with the <$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tiddler="$:/state/tab/sidebar--595412856" text="Map"/><$mapscrollintoview/>Map</$button> in the sidebar if you haven't already! I made it using a heavily altered version of Sylvain Comte's [[leaflet tiddlywiki plugin|http://sycom.github.io/TiddlyWiki-Plugins/#Leaflet%20maps%20plugin]].
+As for checking out the tons and tons of Eberron content in this database, I'd start with the <$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tiddler="$:/state/tab/sidebar--595412856" text="$:/Map"/><$mapscrollintoview/>Map</$button> in the sidebar if you haven't already! 
 
 [[Find Things]] is a great way to locate specific pages based on category, or even open a random page based on your search terms. If you don't find what you're looking for, you can try the search bar at the top of the page or in the sidebar.
 
