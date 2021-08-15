@@ -157,7 +157,7 @@ FantasyMapWidget.prototype.execute = function() {
 		var R, lat1, lat2, lng1, lng2;
 
 		try {
-			R = parseFloat(wk.getTiddlerText("$:/WorldRadius"));
+			R = parseFloat(self.wiki.getTiddlerText("$:/WorldRadius"));
 		} catch (e) {
 			R = 3960;
 		}
