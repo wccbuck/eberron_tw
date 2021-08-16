@@ -1,6 +1,6 @@
 category: talent
 created: 20210725173949205
-modified: 20210801185208273
+modified: 20210816190633117
 tags: Storyloom
 title: Spellcaster (talent)
 type: text/vnd.tiddlywiki
@@ -16,9 +16,11 @@ The Spellcaster [[talent]] allows you to cast [[spell]]s. You can take this tale
 
 Instead of gaining a new spell, a player may choose to upgrade ''two'' existing spells to gain the ability to cast it at one tier higher, if possible. If the new or upgraded spells chosen are highly specialized or niche, additional spells can be taken (at the GM's discretion).
 
+!! Examples
+
 Example combinations of spells for different character archetypes/occupations are shown below. Spells marked with * are given for free due to their niche utility. Other unique versions of the Spellcaster talent can be found as individually named pages.
 
-!! Enchanter
+!!! Enchanter
 
 [[Wizard|wizard]]s who are masters of [[enchantment]] might take the following spells. 
 
@@ -30,7 +32,7 @@ Example combinations of spells for different character archetypes/occupations ar
 | 5 |[[power word stun]], [[power word pain]] |
 | 6 |[[power word kill]] |
 
-!! Eldritch Knight
+!!! Eldritch Knight
 
 [[Eldritch knight|eldritch knight]]s might take the following spells.
 
@@ -40,7 +42,7 @@ Example combinations of spells for different character archetypes/occupations ar
 | 3 |[[stoneskin]], upgrade [[sword burst]] and [[lightning lure]] |
 | 4 |[[globe of invulnerability]] |
 
-!! Child of Winter
+!!! Child of Winter
 
 A [[druid]] of the [[Children of Winter]] might take the following spells.
 
@@ -50,7 +52,7 @@ A [[druid]] of the [[Children of Winter]] might take the following spells.
 | 3 |[[giant insect]], [[blight]] |
 | 4 |[[control weather]] |
 
-!! Paladin
+!!! Paladin
 
 A [[paladin]] of [[Dol Arrah]] might take the following spells.
 
@@ -60,3 +62,9 @@ A [[paladin]] of [[Dol Arrah]] might take the following spells.
 | 3 |[[divine favor]], [[banishing smite]] |
 | 4 |[[crusader's mantle]], upgrade [[cure wounds]] and [[restoration]] |
 | 5 |[[conjure celestial]], [[sunbeam]] |
+
+!!! Ardent
+
+An enlightened [[ardent]] under the Mantle of Clarity might choose from the following spells: [[healing word]], [[calm emotions]], [[beacon of hope]], [[guidance]], or [[shield]].
+
+A euphoric [[ardent]] under the Mantle of Elation might choose from the following spells:  [[healing word]], [[friends]], [[heroism]], [[wrathful smite]], or [[vicious mockery]].
