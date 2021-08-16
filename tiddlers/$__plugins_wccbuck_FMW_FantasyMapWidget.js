@@ -67,6 +67,7 @@ FantasyMapWidget.prototype.initMap = function() {
 		maxZoom: parseInt(maxZoom),
 		renderer: L.svg({ padding: parseFloat(clipPadding) })
 	});
+	this.additionalStyle = this.getAttribute("additionalStyle");
 
 	// empty tile layer. This isn't Earth
 	var tiles = L.tileLayer('').addTo(this.map);
@@ -298,143 +299,156 @@ FantasyMapWidget.prototype.execute = function() {
 };
 
 function mapTiddler(self, place){
-	var fields = self.wiki.getTiddler(place).fields;
-
-	var color = self.defaultColor;
-	var style = {};
-
 	try {
-		if (fields.style) style = JSON.parse(fields.style);
-	} catch(e) {
-		console.log("Failed to parse style field for "+place, e);
-	}
+		var fields = self.wiki.getTiddler(place).fields;
 
-	// we don't always want the display title to be the linked tiddler
-	// but if we've defined a "linkto" field, always point to that
-	var linkto = fields.title;
-	var objTitle = fields.title;
-	if (fields.title){
-		objTitle = fields.title.split(" (")[0];
-		if (fields.article) {
-			objTitle = fields.article + objTitle;
+		var color = self.defaultColor;
+		var style = {};
+		var additionalStyle = {};
+
+		try {
+			if (fields.style) style = JSON.parse(fields.style);
+		} catch(e) {
+			console.log("Failed to parse style field for "+place, e);
 		}
-		if (objTitle.startsWith("$:/")){
-			objTitle = "";
-			linkto = "";
+
+		// we don't always want the display title to be the linked tiddler
+		// but if we've defined a "linkto" field, always point to that
+		var linkto = fields.title;
+		var objTitle = fields.title;
+		if (fields.title){
+			objTitle = fields.title.split(" (")[0];
+			if (fields.article) {
+				objTitle = fields.article + objTitle;
+			}
+			if (objTitle.startsWith("$:/")){
+				objTitle = "";
+				linkto = "";
+			}
 		}
-	}
-	if (fields.linkto) {
-		linkto = fields.linkto;
-		objTitle = fields.linkto;
-	}
+		if (fields.linkto) {
+			linkto = fields.linkto;
+			objTitle = fields.linkto;
+		}
 
-	function isTouchDevice() {
-	  return (('ontouchstart' in window)
-		   || (navigator.MaxTouchPoints > 0)
-		   || (navigator.msMaxTouchPoints > 0));
-	}
+		function isTouchDevice() {
+		  return (('ontouchstart' in window)
+			   || (navigator.MaxTouchPoints > 0)
+			   || (navigator.msMaxTouchPoints > 0));
+		}
 
-	function clickAndHoverBehavior(element){
+		function clickAndHoverBehavior(element){
 
-		if (linkto) {
-			element.bindTooltip(objTitle, {sticky: true});
-			if (isTouchDevice()){
-				element.on('click', function() {
-					if (objTitle == self.focus) {
+			if (linkto) {
+				element.bindTooltip(objTitle, {sticky: true});
+				if (isTouchDevice()){
+					element.on('click', function() {
+						if (objTitle == self.focus) {
+							var story = new $tw.Story();
+							story.navigateTiddler(linkto);
+						} else {
+							self.focus = objTitle;
+						}
+					});
+				} else {
+					element.on('click', function() {
 						var story = new $tw.Story();
 						story.navigateTiddler(linkto);
-					} else {
-						self.focus = objTitle;
-					}
-				});
-			} else {
-				element.on('click', function() {
-					var story = new $tw.Story();
-					story.navigateTiddler(linkto);
-				});
-			}
-		}
-	}
-
-
-	if (fields.points){
-		var pointSplit = fields.points.split(" ");
-		for (var pt of pointSplit) {
-            var location = pt.split(",");
-			try {
-				if (style.color) color = style.color;
-				var marker = L.marker(location, {
-					icon: fmwIcon(color, "marker2")
-				});
-				marker.linkto = linkto;
-				clickAndHoverBehavior(marker);
-				self.markerLayer.addLayer(marker);
-				self.allMarkers.push(marker);
-			} catch (e) {
-				console.log("Failed to add point "+place, pt, e);
-			}
-		}
-	} else {
-		var feature = L.featureGroup();
-
-		if (fields.polylines) {
-			var lines = fields.polylines.split("|");
-			for (var ln of lines){
-				var lineSplit = ln.split(" ");
-				var polylinePoints = [];
-				try{
-					if (style.color) color = style.color;
-					for (var pt of lineSplit){
-						var location = pt.split(",");
-						polylinePoints.push(location);
-					}
-
-					var polyline = L.polyline(polylinePoints, {
-						color: color
 					});
-
-					polyline.setStyle(style);
-					polyline.setStyle({"fill": false});
-					clickAndHoverBehavior(polyline);
-					polyline.addTo(feature);
-
-				} catch(e) {
-					console.log("Failed to add line "+place, ln, e);
 				}
 			}
 		}
-		if (fields.polygons) {
-			var polygons = fields.polygons.split("|");
-			for (var pg of polygons){
-				var polygonSegmentSplit = pg.split("#");
-				var polygonsList = [];
+
+
+		if (fields.points){
+			var pointSplit = fields.points.split(" ");
+			for (var pt of pointSplit) {
+	            var location = pt.split(",");
 				try {
 					if (style.color) color = style.color;
-
-					for (var shape of polygonSegmentSplit){
-	                    var pgSplit = shape.split(" ");
-	                    var polygonPoints = [];
-	                    for (var pt of pgSplit) {
-	                            var location = pt.split(",");
-	                            polygonPoints.push(location);
-	                    }
-	                    polygonsList.push(polygonPoints);
-		            }
-
-					var polygon = L.polygon(polygonsList, {
-						color: color
+					var marker = L.marker(location, {
+						icon: fmwIcon(color, "marker2")
 					});
-
-					polygon.setStyle(style);
-					clickAndHoverBehavior(polygon);
-					polygon.addTo(feature);
-
-				} catch(e) {
-					console.log("Failed to add polygon "+place, pg, e);
+					marker.linkto = linkto;
+					clickAndHoverBehavior(marker);
+					self.markerLayer.addLayer(marker);
+					self.allMarkers.push(marker);
+				} catch (e) {
+					console.log("Failed to add point "+place, pt, e);
 				}
 			}
+		} else {
+			var feature = L.featureGroup();
+
+			if (fields.polylines) {
+				var lines = fields.polylines.split("|");
+				for (var ln of lines){
+					var lineSplit = ln.split(" ");
+					var polylinePoints = [];
+					try{
+						if (style.color) color = style.color;
+						for (var pt of lineSplit){
+							var location = pt.split(",");
+							polylinePoints.push(location);
+						}
+
+						var polyline = L.polyline(polylinePoints, {
+							color: color
+						});
+
+						polyline.setStyle(style);
+						try {
+							if (self.additionalStyle) additionalStyle = JSON.parse(fields[self.additionalStyle]);
+							polyline.setStyle(additionalStyle);
+						} catch(e) {}
+						polyline.setStyle({"fill": false});
+						clickAndHoverBehavior(polyline);
+						polyline.addTo(feature);
+
+					} catch(e) {
+						console.log("Failed to add line "+place, ln, e);
+					}
+				}
+			}
+			if (fields.polygons) {
+				var polygons = fields.polygons.split("|");
+				for (var pg of polygons){
+					var polygonSegmentSplit = pg.split("#");
+					var polygonsList = [];
+					try {
+						if (style.color) color = style.color;
+
+						for (var shape of polygonSegmentSplit){
+		                    var pgSplit = shape.split(" ");
+		                    var polygonPoints = [];
+		                    for (var pt of pgSplit) {
+		                            var location = pt.split(",");
+		                            polygonPoints.push(location);
+		                    }
+		                    polygonsList.push(polygonPoints);
+			            }
+
+						var polygon = L.polygon(polygonsList, {
+							color: color
+						});
+
+						polygon.setStyle(style);
+						try {
+							if (self.additionalStyle) additionalStyle = JSON.parse(fields[self.additionalStyle]);
+							polygon.setStyle(additionalStyle);
+						} catch(e) {}
+						clickAndHoverBehavior(polygon);
+						polygon.addTo(feature);
+
+					} catch(e) {
+						console.log("Failed to add polygon "+place, pg, e);
+					}
+				}
+			}
+			feature.addTo(self.shapeLayer);
 		}
-		feature.addTo(self.shapeLayer);
+	} catch (e) {
+		console.log("Failed to map "+place, e);
 	}
 
 }
