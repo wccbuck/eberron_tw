@@ -1,0 +1,10 @@
+created: 20210815231847609
+list: nation region
+modified: 20210815231922505
+tags: 
+title: territory
+type: text/vnd.tiddlywiki
+
+<$list filter="[list{!!title}sort[title]]">
+<$macrocall $name="tag" text={{!!title}}/>
+</$list>

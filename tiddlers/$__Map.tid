@@ -1,8 +1,9 @@
+additionalstyle: 
 caption: Map
 created: 20210112213904741
 cutoff: 0
 list-before: $:/core/ui/SideBar/Open
-modified: 20210815102433539
+modified: 20210816004641761
 tags: $:/tags/SideBar
 title: $:/Map
 type: text/vnd.tiddlywiki
@@ -14,6 +15,9 @@ type: text/vnd.tiddlywiki
 \define posactions() <$set name="first" filter="[{$:/MapBounds}split[,]nth[10]]"> <$set name="second" filter="[{$:/MapBounds}split[,]nth[9]]"> <$action-setfield $tiddler="$:/PartyPosition" text=<<coords>>/> </$set> </$set><$action-setfield $tiddler="$:/Map" $field="refresh"/>
 \define backgeocheck() <$action-sendmessage $message="tm-add-tag" $param="[all[]list[geography]tagging[]!tag[continent]!has[points]var[back]]"/>
 \define backgeouncheck() <$action-sendmessage $message="tm-remove-tag" $param="[all[]list[geography]tagging[]!tag[continent]!has[points]var[back]]"/>
+\define nationsAboveActions() <$action-sendmessage $message="tm-remove-tag" $param="[all[]has[title]list[territory]tagging[]has[polygons]]"/><$action-setfield $tiddler="$:/Map" additionalstyle="nationstyle"/>
+\define nationsBelowUncheck() <$action-setfield $tiddler="$:/Map" additionalstyle=""/>
+\define nationsBelowActions() <$action-sendmessage $message="tm-remove-tag" $param="[all[]all[]all[]all[]has[title]list[territory]tagging[]has[polygons]]"/><$action-setfield $tiddler="$:/Map" additionalstyle=""/>
 
 <div id="map-scroll-position" style="scroll-margin: 70px;"></div>
 
@@ -25,18 +29,59 @@ type: text/vnd.tiddlywiki
 <$button class="tc-btn-invisible tc-tiddlylink" set="$:/MapShowControls" setTo="hide">Hide Map Options</$button><br/>
 
 <$fieldmangler tiddler="$:/MapTags">
-<$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]has[polylines]tag[latitude]]"> ''Lines of Latitude''&nbsp;&nbsp;</$checkbox><$checkbox tiddler="$:/MapTags" tag="[has[polygons]tag[continent]]"> ''Continents''</$checkbox><br/><$checkbox tiddler="$:/MapTags" tag="[has[polygons]tag[sea]]"> ''Seas''&nbsp;&nbsp;</$checkbox><$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]list[geography]tagging[]!tag[continent]!has[points]!var[back]]" checkactions=<<backgeocheck>> uncheckactions=<<backgeouncheck>>> ''Geography''</$checkbox><br/>
-<$checkbox tiddler="$:/MapTags" tag="[all[]has[polygons]!tag[continent]!tag[desert]!tag[forest]!tag[geography]!tag[island]!tag[lake]!tag[mountains]!tag[river]!tag[swamp]!tag[sea]!tag[lava]!tag[province]!tag[quarter]!tag[ward]!tag[$:/Background]]"> ''Nations and Regions''&nbsp;&nbsp;</$checkbox><$checkbox tiddler="$:/MapTags" tag="[all[]all[]has[polygons]tag[province]]"> ''Provinces''</$checkbox><br/>
-<$checkbox tiddler="$:/MapTags" tag="[has[points]]"> ''Cities and Sites''&nbsp;&nbsp;</$checkbox><br/>
-<$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]all[]var[orientraderoad]]"> ''Roads''&nbsp;&nbsp;</$checkbox>
-<$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]all[]var[lightningrail]]"> ''Lightning Rail Lines''</$checkbox><br/>
+<div class="cs-wrapper" style="max-width:600px;">
+  <div class="cs-row">
+    <div class="cs-column">
+<$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]has[polylines]tag[latitude]]"> ''Lines of Latitude''</$checkbox>
+    </div>
+    <div class="cs-column">
+<$checkbox tiddler="$:/MapTags" tag="[has[polygons]tag[continent]]"> ''Continents''</$checkbox>
+    </div>
+  </div>
+  <div class="cs-row">
+    <div class="cs-column">
+<$checkbox tiddler="$:/MapTags" tag="[has[polygons]tag[sea]]"> ''Seas''</$checkbox>
+    </div>
+    <div class="cs-column">
+<$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]list[geography]tagging[]!tag[continent]!has[points]!var[back]]" checkactions=<<backgeocheck>> uncheckactions=<<backgeouncheck>>> ''Geography''</$checkbox>
+    </div>
+  </div>
+  <div class="cs-row">
+    <div class="cs-column">
+<$checkbox tiddler="$:/MapTags" tag="[all[]has[title]list[territory]tagging[]has[polygons]]" checkactions=<<nationsBelowActions>>> ''Nations and Regions (below)''</$checkbox>
+    </div>
+    <div class="cs-column">
+<$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]all[]has[title]list[territory]tagging[]has[polygons]]" checkactions=<<nationsAboveActions>> uncheckactions=<<nationsBelowUncheck>>> ''Nations and Regions (above)''</$checkbox>
+    </div>
+  </div>
+  <div class="cs-row">
+    <div class="cs-column">
+<$checkbox tiddler="$:/MapTags" tag="[has[points]]"> ''Cities and Sites''</$checkbox>
+    </div>
+    <div class="cs-column">
+<$checkbox tiddler="$:/MapTags" tag="[all[]all[]has[polygons]tag[province]]"> ''Provinces''</$checkbox>
+    </div>
+  </div>
+  <div class="cs-row">
+    <div class="cs-column">
+<$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]all[]var[orientraderoad]]"> ''Roads''</$checkbox>
+    </div>
+    <div class="cs-column">
+<$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]all[]var[lightningrail]]"> ''Lightning Rail Lines''</$checkbox>
+    </div>
+  </div>
+  <div class="cs-row">
+    <div class="cs-doublecolumn">
 <$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]all[]tag[quarter]]"> ''[[Sharn]] Plateaus''</$checkbox>
+    </div>
+  </div>
+</div>
 </$fieldmangler>
 </$reveal>
 
 <$set name=filters filter="[[$:/MapTags]tags[]sort[]reverse[]]">
 <div style="padding:7px;border-style: double;max-width:600px;">
-<$fantasymap width="100%" filter=<<filters>> clipPadding="2.0"/>
+<$fantasymap width="100%" filter=<<filters>> clipPadding="2.0" additionalStyle={{$:/Map!!additionalstyle}}/>
 </div>
 </$set>
 
