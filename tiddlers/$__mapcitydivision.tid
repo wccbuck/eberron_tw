@@ -1,0 +1,12 @@
+color: #092F1E
+created: 20210816045222493
+list: district quarter ward
+modified: 20210816045249527
+tags: [[location type]]
+title: $:/mapcitydivision
+type: text/vnd.tiddlywiki
+
+<$list filter="[list{!!title}sort[title]]">
+<$macrocall $name="tag" text={{!!title}}/>
+</$list>
+

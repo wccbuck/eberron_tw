@@ -1,5 +1,5 @@
 created: 20210117185710989
-modified: 20210816004642672
-tags: [tag[$:/Background]search:title[Land]sort[title]] [has[title]tag[$:/Background]search:title[Sea]sort[title]] [all[]all[]all[]has[polylines]tag[latitude]] [all[]all[]all[]all[]tag[quarter]] [all[]all[]has[polygons]tag[province]] [all[]all[]all[]list[geography]tagging[]!tag[continent]!has[points]!var[back]] [all[]list[geography]tagging[]!tag[continent]!has[points]var[back]] [has[polygons]tag[sea]] [has[polygons]tag[continent]] [all[]all[]all[]all[]var[lightningrail]] [all[]all[]all[]all[]var[orientraderoad]] [has[points]] [all[]has[title]list[territory]tagging[]has[polygons]]
+modified: 20210816081444429
+tags: [tag[$:/Background]search:title[Land]sort[title]] [has[title]tag[$:/Background]search:title[Sea]sort[title]] [all[]all[]all[]has[polylines]tag[latitude]] [all[]all[]has[polygons]tag[province]] [has[polygons]tag[sea]] [has[polygons]tag[continent]] [all[]all[]all[]all[]var[lightningrail]] [all[]all[]all[]all[]var[orientraderoad]] [has[points]] [all[]all[]all[]list[geography]tagging[]!tag[continent]!has[points]!var[back]] [all[]list[geography]tagging[]!tag[continent]!has[points]var[back]] [all[]has[title]list[territory]tagging[]has[polygons]] [all[]all[]all[]all[]list[$:/mapcitydivision]tagging[]has[polygons]]
 title: $:/MapTags
 type: text/vnd.tiddlywiki
