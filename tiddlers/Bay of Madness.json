@@ -1,15 +1,15 @@
 [
     {
         "created": "20210119190801884",
-        "title": "Bay of Madness",
-        "text": "The Bay of Madness lies off the coast of the [[Shadow Marches]], near the [[Crawling Swamp]].",
-        "modified": "20210727191957265",
-        "tags": "sea [[Barren Sea]]",
+        "text": "The Bay of Madness lies off the coast of the [[Shadow Marches]], near the [[Crawling Swamp]]. At night, the crazed fishfolk known as [[kuo-toa]] rise from these waters to hunt and dance in the moonlight.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
+        "title": "Bay of Madness",
+        "tags": "sea [[Barren Sea]]",
+        "modified": "20210819163843013",
+        "style": "{\"fillOpacity\":0,\"weight\":0}",
         "polygons": "38.1,-50.5 38.35,-50.32 38.5,-50.06 38.6,-49.78 38.57,-49.57 38.65,-49.39 38.61,-49.09 38.76,-49.11 38.99,-48.98 39.15,-48.88 39.38,-48.95 39.49,-49.06 39.74,-49.1 39.74,-49.31 39.81,-49.48 39.83,-49.75 39.78,-50.03 39.65,-50.18 39.74,-50.44 39.78,-50.67 40.1,-50.89 40.18,-51.15 40.17,-51.15 39.63,-51.23 38.69,-51.01 38.21,-50.55",
-        "style": "{\"fillOpacity\":0,\"weight\":0}"
+        "color": "#3B5C0A",
+        "category": "location",
+        "article": "the "
     }
 ]
