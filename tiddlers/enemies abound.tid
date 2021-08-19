@@ -1,0 +1,13 @@
+category: spell
+color: #B7A1E0
+created: 20210817050655034
+modified: 20210817051322742
+tags: enchantment
+tier: 3
+title: enemies abound
+type: text/vnd.tiddlywiki
+
+You reach into the mind of one creature you can see within 120 feet and attempt to force them to see enemies on all sides. If the target cannot resist your enchantment, it loses the ability to distinguish friend from foe, regarding all creatures it can see as hostile enemies for the next minute.
+
+Instead of targeting one creature, you may instead target a group of creatures you choose within a 10-foot-diameter sphere within 120 feet. If you choose this targeting option, you cast the spell with a [[disadvantage]].
+
