@@ -1,8 +1,9 @@
 category: location
 color: #4C8201
 created: 20210127215807893
-modified: 20210727192003412
+modified: 20210820063908795
 points: 18.62,207.6
+population: 97000
 style: {"color": "#8E0024"}
 tags: Corvagura city Riedra
 title: Dar Myan
@@ -11,7 +12,7 @@ type: text/vnd.tiddlywiki
 ''Country:'' [[Riedra]]<br/>
 ''Government:'' The [[Unity]]; Eidolon [[Surasek]]<br/>
 ''Local Ruler:'' Lord [[Baalnakosh]]<br/>
-''Population:'' 97,000
+''Population:'' <<ntls>>
 
 Dar Myan is a bastion in [[Corvagura]]. Built on the
 floodplain of the [[Koralanda River]], it is a center of distribution and agriculture, as well as the home of important

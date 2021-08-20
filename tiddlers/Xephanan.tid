@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210127194040284
-modified: 20210727192043231
+modified: 20210820063727587
 points: 0.71,194.53
+population: 77200
 style: {"color": "#CA5700"}
 tags: town Adar
 title: Xephanan
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Deep in the awe-inspiring canyons where the
 impassable [[Xaryai River]] in [[Adar]] flows, a forest occupies the

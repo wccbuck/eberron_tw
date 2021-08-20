@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210322034941064
-modified: 20210727192043170
+modified: 20210820073205721
 points: 42.25,-21.89
+population: 64000
 style: {"color": "#8E0024"}
 tags: Breland city
 title: Xandrar
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 The modern city of Xandrar, built on the eastern bank
 of the [[Silver River]] where the waters of [[Silver Lake]] pour

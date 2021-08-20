@@ -1,12 +1,17 @@
 category: location
 color: #4C8201
 created: 20200416205019131
-modified: 20210727192017514
+modified: 20210820062929329
 points: 52.73,3.92
+population: 427500
 style: {"color": "#8E0024"}
 tags: fortress city Karrnath
 title: Korth
 type: text/vnd.tiddlywiki
+
+''Country:'' [[Karrnath]]<br/>
+''Rulers:'' Civic Minister Hyran ir'Tennet; King [[Kaius III|Kaius ir'Wynarn III]]<br/> 
+''Population:'' <<ntls>>
 
 The city-fortress of Korth has served as [[Karrnath]]’s capital since before the days of
 the kingdom of [[Galifar]]. Some of its buildings date back

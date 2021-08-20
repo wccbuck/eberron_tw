@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210206231649660
-modified: 20210727192017546
+modified: 20210820072142013
 points: 59.68,22.06
+population: 97500
 style: {"color": "#8E0024"}
 tags: city [[Mror Holds]] enclave Kundarak
 title: Korunda Gate
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Korunda Gate was once the center of Kundarakhold, the lands belonging to [[Clan|Mror clan]] [[Kundarak]]. With the rise of House Kundarak, it has become the first
 and greatest [[enclave]] of the house, and its deep vaults

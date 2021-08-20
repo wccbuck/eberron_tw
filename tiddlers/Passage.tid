@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200415195816731
-modified: 20210727192024496
+modified: 20210820065833799
 points: 47.22,-14.69
+population: 80000
 style: {"color": "#8E0024"}
 tags: Aundair city
 title: Passage
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 [[Aundair]]’s population has always been more heavily concentrated in the east, but Passage is a notable
 exception. Situated on [[Lake Galifar]]’s shores, it is the

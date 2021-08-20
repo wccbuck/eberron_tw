@@ -1,15 +1,19 @@
 category: location
 color: #4C8201
 created: 20200416220934324
-modified: 20210727192043668
+modified: 20210820062247604
 points: 37.13,-45.25
+population: 29800
 style: {"color": "#8E0024"}
 tags: city [[Shadow Marches]]
 title: Zarash'ak
 tooltip: largest (only) city in the Shadow Marches
 type: text/vnd.tiddlywiki
 
-Zarash’ak is the only city of any size in the [[Shadow Marches]] (population 29,800), and its existence is a recent development. Because overland travel through [[Droaam]] or the [[Eldeen Reaches]] can be extremely dangerous, most people who
+''Rulers:'' the [[Tharashk triumvirate]]<br/>
+''Population:'' <<ntls>>
+
+Zarash’ak is the only city of any size in the [[Shadow Marches]], and its existence is a recent development. Because overland travel through [[Droaam]] or the [[Eldeen Reaches]] can be extremely dangerous, most people who
 need to do business in the [[Marches|Shadow Marches]] travel by ship to the
 port city of Zarash'ak. Built on stilts and known for its
 cuisine and music, Zarash'ak offers the rare exports of

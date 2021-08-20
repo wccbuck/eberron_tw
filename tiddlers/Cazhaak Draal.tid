@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200415204623774
-modified: 20210727192000250
+modified: 20210820071604545
 points: 42.76,-35.47
+population: 16500
 style: {"color": "#8E0024"}
 tags: city Droaam ruin
 title: Cazhaak Draal
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Also known as the Stonelands, this is
 a rocky region surrounding the ruins of an [[ancient|Dhakaan]] [[hobgoblin]] metropolis. The city was abandoned after the [[daelkyr]]

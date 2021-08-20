@@ -1,12 +1,16 @@
 category: location
 color: #4C8201
 created: 20200417001429458
-modified: 20210727192035939
+modified: 20210820062507670
 points: 32.45,21.92
+population: 95300
 style: {"color": "#8E0024"}
 tags: city Valenar fortress
 title: Taer Valaestas
 type: text/vnd.tiddlywiki
+
+''Ruler:'' High King [[Shaeras Vadallia]]<br/>
+''Population:'' <<ntls>>
 
 The [[elves|elf]] of [[Valenar]] have little love for cities, but
 they recognize that their nation and their king require

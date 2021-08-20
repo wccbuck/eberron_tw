@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210127190517981
-modified: 20210727192010199
+modified: 20210820063141065
 points: 7.52,187.43
+population: 16250
 style: {"color": "#CA5700"}
 tags: fortress Adar town
 title: Ghoza
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 South of a wide point in the waterway [[Adarans]] call
 [[Jathara Sound]]—the wide area known as Kasshta's Belly—

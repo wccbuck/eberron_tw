@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200417002628576
-modified: 20210727192039114
+modified: 20210820072532916
 points: 21.72,-12.63
+population: 137500
 style: {"color": "#8E0024"}
 tags: Zilargo city
 title: Trolanport
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 With its crisscrossing canals and flooded streets, the
 capital of [[Zilargo]] serves as the center of the [[gnome]] shipbuilding industry and a nexus for trade. Scores of ships

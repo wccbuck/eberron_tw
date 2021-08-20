@@ -1,13 +1,16 @@
 category: location
 color: #4C8201
 created: 20200417002710585
-modified: 20210727192043937
+modified: 20210820072559671
 points: 26.23,-3.83
+population: 56000
 style: {"color": "#8E0024"}
 tags: Zilargo city
 title: Zolanberg
 tooltip: small Zilargo mining city
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Hidden high in the [[Seawall Mountains]], Zolanberg lies
 at the heart of a network of jewel mines. These mines

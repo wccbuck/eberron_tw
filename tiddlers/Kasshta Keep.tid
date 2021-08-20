@@ -1,12 +1,16 @@
 category: location
 color: #4C8201
 created: 20200417014513848
-modified: 20210727192016261
+modified: 20210820063409385
 points: 12.34,189.02
+population: 88450
 style: {"color": "#8E0024"}
 tags: city fortress Adar
 title: Kasshta Keep
 type: text/vnd.tiddlywiki
+
+''Ruler:'' Speaker of the Word [[Chanaakar]]<br/>
+''Population:'' <<ntls>>
 
 This fabled fortress, known even in [[Riedra]] and
 [[Khorvaire]] as the home of the mysterious [[Keepers of the Word]], lies in northwestern [[Adar]]. All Adarans know it as the place where the [[kalashtar]] [[Taratai]] passed

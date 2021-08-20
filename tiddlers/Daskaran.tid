@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210208050703819
-modified: 20210728213805001
+modified: 20210820070726866
 points: 53.08,-4.04
+population: 22500
 style: {"color": "#CA5700"}
 tags: town Thrane
 title: Daskaran
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 On the southern slopes of the [[Starpeaks]], east of
 the [[Trumpet Mountains]], stands the once mighty community of Daskaran. Long ago, during the pre-[[Galifar]] kingdom of [[Daskara]], Daskaran was a vital trade center, but a disastrous fire swept through the city, reducing most of it to rubble. With few supplies left to enable them to survive the winter, the locals descended the foothills to winter in the south. They never returned.

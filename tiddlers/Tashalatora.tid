@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210127192835940
-modified: 20210727192036372
+modified: 20210820063650281
 points: 9.64,201.69
+population: 51750
 style: {"color": "#8E0024"}
 tags: city fortress Adar
 title: Tashalatora
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 One of three temple-fortresses that guards passage into [[Adar]] directly from [[Riedra]], Tashalatora is home to [[monk]]s renowned even in [[Khorvaire]]. A few
 Khorvairians even seek this monastery as a place to perfect their training. Tashalatora's fighters are among the most powerful in Adar, blending [[psionic|psionics]] or [[magical|arcane magic]] skill with fighting prowess in unorthodox ways. 

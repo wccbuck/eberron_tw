@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200415201320611
-modified: 20210727191958327
+modified: 20210820071237246
 points: 45.9,-46.75
+population: 200
 style: {"color": "#CA5700"}
 tags: town [[Demon Wastes]]
 title: Blood Crescent
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 House [[Tharashk]] established this tiny port at the end
 of the [[Last War]]. Built on the shores of [[Crescent Bay]] and regularly supplied by ships from [[Yrlag]], a large town across

@@ -1,12 +1,16 @@
 category: location
 color: #4C8201
 created: 20210126234120923
-modified: 20210727192003461
+modified: 20210820064212415
 points: 30.96,155.46
+population: 565500
 style: {"color": "#8E0024"}
 tags: city Riedra Rhiavhaar
 title: Dar Ulatesh
 type: text/vnd.tiddlywiki
+
+''Ruler:'' Lord Ulatorn<br/>
+''Population:'' <<ntls>>
 
 The western gate of [[Riedra]] is the seat of trade across the
 [[Sea of Rage]]. A foreign quarter has recently been established, although it is smaller than its [[counterpart|Jhodra]] in [[Dar Jin]]. Dar Ulatesh is a stronghold for the [[Harmonious Sail]],

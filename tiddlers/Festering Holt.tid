@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210201214146391
-modified: 20210727192008137
+modified: 20210820071354615
 points: 58.91,-24.34
+population: 600
 style: {"color": "#CA5700"}
 tags: town [[Demon Wastes]]
 title: Festering Holt
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Festering Holt lies approximately fifty miles
 southwest of Ashtakala, the nearest [[humanoid]] habitation to the demon city, a charnel pit of ramshackle structures and ill will. It is a way station of sorts for groups

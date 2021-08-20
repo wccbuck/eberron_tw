@@ -1,8 +1,9 @@
 category: location
 color: #4C8201
 created: 20200417014301689
-modified: 20210727192003381
+modified: 20210820062611555
 points: 26.04,215.65
+population: 1960000
 style: {"color": "#8E0024"}
 tags: Corvagura city Riedra
 title: Dar Jin
@@ -11,7 +12,7 @@ type: text/vnd.tiddlywiki
 ''Country:'' [[Riedra]]<br/>
 ''Government:'' The [[Unity]]<br/>
 ''Local Ruler:'' Eidolon [[Tureya]]<br/>
-''Population:'' 1,960,000
+''Population:'' <<ntls>>
 
 Dar Jin rises up from the waters of the [[Barren Sea]],
 and stretches along the coast. The city's massive walls

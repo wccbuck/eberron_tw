@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210127202046967
-modified: 20210727192038198
+modified: 20210820064616898
 points: 45.86,194.56
+population: 72050
 style: {"color": "#8E0024"}
 tags: city Riedra Nulakesh
 title: Tol Deth
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 This [[Nulakesh]] bastion city of [[Riedra]] lies close to a [[wild zone]] linked to
 [[Shavarath]]; the [[Inspired]] are studying the zone to find a

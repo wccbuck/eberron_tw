@@ -1,13 +1,18 @@
 category: location
 color: #4C8201
 created: 20200415195739228
-modified: 20210727192007772
+modified: 20210820062342397
 points: 51.7,-9.87
+population: 462500
 style: {"color": "#8E0024"}
 tags: Aundair city
 title: Fairhaven
 tooltip: capital of Aundair, the City of Lights
 type: text/vnd.tiddlywiki
+
+''Country:'' [[Aundair]]<br/>
+''Rulers:'' Governor of Capital Affairs, Prince [[Aurad ir'Wynarn]]; Queen [[Aurala ir'Wynarn]]<br/> 
+''Population:'' <<ntls>>
 
 The capital of [[Aundair]] is one of the most beautiful
 cities in [[Eberron]]. Stunning displays of magical light

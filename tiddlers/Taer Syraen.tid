@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20201222234251423
-modified: 20210727192035927
+modified: 20210820070546118
 points: 57.27,0.64
+population: 17500
 style: {"color": "#732873"}
 tags: feyspire Karrnath
 title: Taer Syraen
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Near the western edge of the [[Karrnwood]], the Winter Citadel rises through gray pines, the blue-white stone of its slender towers and delicate minarets sparkling in the light. Fragile bridges span the gaps between, giving the place the appearance of a crystalline web formed from ice. A steep ice wall surrounds the [[feyspire]]. Helmeted guards, their faces hidden behind grim visors, stand guard, watching for enemies and intruders alike.
 

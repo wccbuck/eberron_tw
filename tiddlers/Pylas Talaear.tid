@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200417003906806
-modified: 20210727192026362
+modified: 20210820065434703
 points: 0.18,19.84
+population: 50000
 style: {"color": "#8E0024"}
 tags: city Aerenal
 title: Pylas Talaear
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 The gateway to [[Aerenal]], this port city is the primary
 point of contact between Aerenal and the outside world. Most foreigners never go any deeper into the land of the elves. In this city driven by commerce, almost all the [[dragonmarked house]]s have outposts here, and it includes vast

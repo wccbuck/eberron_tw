@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210127185911223
-modified: 20210727192006375
+modified: 20210820063101888
 points: -9.4,195.18
+population: 33650
 style: {"color": "#8E0024"}
 tags: city fortress Adar
 title: Dvaarnava
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 The southernmost of [[Adar]]'s temple-keeps, Dvaarnava
 is the only place in Adar where ships can still actually land.

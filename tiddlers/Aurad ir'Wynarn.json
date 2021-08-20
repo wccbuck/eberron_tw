@@ -1,13 +1,13 @@
 [
     {
         "created": "20210322212241718",
-        "title": "Aurad ir'Wynarn",
-        "text": "Prince Aurad ir'Wynarn, [[Aundair]]'s Queen [[Aurala|Aurala ir'Wynarn]]'s youngest brother, serves as Aurala’s chief advisor, leader of her diplomatic corps, and governor of [[Fairhaven]]. Aurad’s morals place him above intrigue and outside the grasp of corruption. The queen can rely upon him to render advice that holds at its foundation the best interests of Aundair and its ruler. Aurad prefers peace, however, and this colors his counsel. He counts himself and [[Aundair]] lucky that his sister believes that the crown of [[Galifar]] must be acquired through strategies better than outright warfare.",
-        "modified": "20210727191956484",
-        "tags": "government Aundair [[Wynarn family]] human humanoid Fairhaven",
+        "text": "Prince Aurad ir'Wynarn, [[Aundair]]'s Queen [[Aurala|Aurala ir'Wynarn]]'s youngest brother, serves as Aurala’s chief advisor, leader of her diplomatic corps, and governor for Capital Affairs of [[Fairhaven]]. Aurad’s morals place him above intrigue and outside the grasp of corruption. The queen can rely upon him to render advice that holds at its foundation the best interests of Aundair and its ruler. Aurad prefers peace, however, and this colors his counsel. He counts himself and [[Aundair]] lucky that his sister believes that the crown of [[Galifar]] must be acquired through strategies better than outright warfare.",
         "type": "text/vnd.tiddlywiki",
-        "article": "Prince ",
+        "title": "Aurad ir'Wynarn",
+        "tags": "government Aundair [[Wynarn family]] human humanoid Fairhaven",
+        "modified": "20210820032902002",
+        "color": "#FEA627",
         "category": "person",
-        "color": "#FEA627"
+        "article": "Prince "
     }
 ]

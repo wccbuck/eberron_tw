@@ -1,13 +1,16 @@
 category: location
 color: #4C8201
 created: 20200415192402808
-modified: 20210727192043158
+modified: 20210820071207421
 points: 22.82,2.61
+population: 5500
 style: {"color": "#CA5700"}
 tags: Darguun town
 title: Wyvernskull
 tooltip: small seaport in Darguun
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 A port town
 at the mouth of the [[Torlaac River]], Wyvernskull sits on

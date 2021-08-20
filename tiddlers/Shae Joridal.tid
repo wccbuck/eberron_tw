@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20201222232016739
-modified: 20210727192030887
+modified: 20210820071024990
 points: 25.84,2.37
+population: 13000
 style: {"color": "#8E0024"}
 tags: feyspire city Darguun
 title: Shae Joridal
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 This otherworldly [[eladrin]] citadel stands as a vision of [[fey]] beauty in the harsh land of [[Darguun]]. Gleaming green orbs drift lazily around its high towers, giving it the name of the Spire of Emerald Lights. Its iridescent, whorled walls are reminiscent of a vast seashell. 
 

@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200415192154640
-modified: 20210727192028229
+modified: 20210820073120760
 points: 29.35,0.12
+population: 140400
 style: {"color": "#8E0024"}
 tags: city Darguun
 title: Rhukaan Draal
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 The largest city in [[Darguun]] serves as the seat of Lhesh
 [[Haruuc Shaarat'kor]]. As the hub for trade, travel, and

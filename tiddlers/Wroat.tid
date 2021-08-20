@@ -1,13 +1,18 @@
 category: location
 color: #4C8201
 created: 20200415195631343
-modified: 20210727192042984
+modified: 20210820062056714
 points: 29.14,-19.59
+population: 404350
 style: {"color": "#8E0024"}
 tags: Breland city
 title: Wroat
 tooltip: capital of Breland
 type: text/vnd.tiddlywiki
+
+''Country:'' [[Breland]]<br/>
+''Rulers:'' Lord Konner ir'Starn (city administration); King [[Boranel ir'Wynarn]]<br/> 
+''Population:''  <<ntls>>
 
 Built on both sides of the [[Howling River]] at a point
 where the river widens, the ancestral seat of the rulers
@@ -26,7 +31,7 @@ here, and newcomers who aim to misbehave tend to disappear quickly and without s
 
 !! The Shape of Wroat
 
-The second largest city in [[Breland]] (population 404,350), Wroat serves as the Brelish capital and a center of trade and commerce. Not as densely populated
+The second largest city in [[Breland]], Wroat serves as the Brelish capital and a center of trade and commerce. Not as densely populated
 or as overwhelming as [[Sharn]], Wroat nevertheless holds
 its own as one of the great cities of [[Khorvaire]]. A steep wall encircles the city,
 wrapping around and crossing over the slow-moving

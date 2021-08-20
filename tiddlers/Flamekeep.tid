@@ -1,12 +1,17 @@
 category: location
 color: #4C8201
 created: 20200416235139556
-modified: 20210727192008668
+modified: 20210820062548617
 points: 50.48,-1.53
+population: 750000
 style: {"color": "#8E0024"}
 tags: city Thrane fortress
 title: Flamekeep
 type: text/vnd.tiddlywiki
+
+''Country:'' [[Thrane]]<br/>
+''Rulers:'' The [[Council of Cardinals]]<br/> 
+''Population:'' <<ntls>>
 
 Built where the divine battle between the [[paladin]]
 [[Tira Miron]] and the abomination of darkness and

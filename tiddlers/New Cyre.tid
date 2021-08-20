@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200415195509971
-modified: 20210727192022911
+modified: 20210820070124237
 points: 35.08,-1.41
+population: 20000
 style: {"color": "#CA5700"}
 tags: town Breland
 title: New Cyre
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 After the [[Mourning]], King [[Boranel|Boranel ir'Wynarn]] welcomed
 refugees from [[Cyre]], permitting them to set up encampments within [[Breland]]’s borders. Most settlements were

@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200416204415062
-modified: 20210727191956355
+modified: 20210820065159866
 points: 54.02,7.76
+population: 63000
 style: {"color": "#8E0024"}
 tags: city Karrnath
 title: Atur
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Known as the City of Night, Atur stands in the shadow of the
 [[Ashen Spires]], cloaked in mist from the [[Karrn Falls|Karrn River]]. For all but a few hours each day, Atur lies shrouded in gloom, a nearly perpetual twilight that gives the

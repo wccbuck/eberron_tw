@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210208051656708
-modified: 20210727192031887
+modified: 20210820070802561
 points: 45.72,-3.38
+population: 60000
 style: {"color": "#8E0024"}
 tags: city Thrane
 title: Sigilstar
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Positioned along the [[Thrane River]] near its source,
 Sigilstar marks the convergence of three caravan

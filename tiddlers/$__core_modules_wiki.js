@@ -373,6 +373,20 @@ exports.sortTiddlers = function(titles,sortField,isDescending,isCaseSensitive,is
             } else {
                 b = "";
             }
+            if(sortField == "population"){
+                isNumeric = true;
+                if(tiddlerA) {
+                    a = -parseInt(tiddlerA.fields[sortField]) || 0;
+                } else {
+                    a = 0;
+                }
+                if(tiddlerB) {
+                    b = -parseInt(tiddlerB.fields[sortField]) || 0;
+                } else {
+                    b = 0;
+                }
+
+            }
             if(sortField == "relevance") {
                 isNumeric = true;
                 if(tiddlerA) {

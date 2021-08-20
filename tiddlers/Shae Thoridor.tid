@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210220001827603
-modified: 20210727192030945
+modified: 20210820065512565
 points: 10.46,22.01
+population: 115000
 style: {"color": "#8E0024"}
 tags: city Aerenal fortress
 title: Shae Thoridor
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 [[Tairnadal]] elves control this fortress in the [[northern region|North Aerenal]] of [[Aerenal]], which is also a secondary port for the island nation. Foreigners come here
 to trade, to learn, and to gain a reputation among the

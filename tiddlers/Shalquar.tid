@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210127192752105
-modified: 20210727192031014
+modified: 20210820063606474
 points: 15.43,196.45
+population: 17500
 style: {"color": "#CA5700"}
 tags: town fortress Adar
 title: Shalquar
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Only 22 miles from the nearest [[Riedra]]n settlement
 in the foothills of the [[Ahnadiv Mountains]], Shalquar is

@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210127192621959
-modified: 20210727192029212
+modified: 20210820063534595
 points: 2.9,187.33
+population: 23900
 style: {"color": "#CA5700"}
 tags: town fortress Adar
 title: Ruukosi
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Ruukosi, one of eight monastery-fortresses of [[Adar]], guards the mouth of the [[Ruukosi River]] where that waterway spills under a natural arch and into
 the wide [[Jathara Sound]] below. The stronghold occupies

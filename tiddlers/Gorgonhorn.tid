@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200415192329757
-modified: 20210727192011084
+modified: 20210820071100520
 points: 35.11,5.25
+population: 3250
 style: {"color": "#CA5700"}
 tags: town Darguun
 title: Gorgonhorn
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 This fortified village lies close to the [[Mournland]]. Once it
 maintained the front line against [[Cyre]]. Now, the [[hobgoblin]]s stationed here protect their people from the horrors

@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210204045122156
-modified: 20210727192043914
+modified: 20210820071633407
 points: 34.88,-33.46
+population: 3000
 style: {"color": "#CA5700"}
 tags: town Droaam
 title: Znir
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Along with [[Stonejaw Keep]], Znir is the heart of the
 [[gnoll]] territories in [[Droaam]]. Although the permanent

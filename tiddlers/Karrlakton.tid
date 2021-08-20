@@ -1,14 +1,17 @@
 category: location
 color: #4C8201
 created: 20200416204648640
-modified: 20210727192016103
+modified: 20210820070430563
 points: 49.92,8.01
+population: 300000
 style: {"color": "#8E0024"}
 tags: city Karrnath
 title: Karrlakton
 type: text/vnd.tiddlywiki
 
-The sprawling city of Karrlakton, the second largest city in [[Karrnath]] (population: 300,000), is the birthplace of kings (both [[Karrn the Conqueror]] and [[Galifar I|Galifar Wynarn]] were born
+''Population:'' <<ntls>>
+
+The sprawling city of Karrlakton, the second largest city in [[Karrnath]], is the birthplace of kings (both [[Karrn the Conqueror]] and [[Galifar I|Galifar Wynarn]] were born
 here) and is the center of power for House [[Deneith]]. The
 house's headquarters, [[Sentinel Tower]], dominates the
 city's skyline. Surrounding

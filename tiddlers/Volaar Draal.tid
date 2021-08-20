@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210131045524559
-modified: 20210727192041029
+modified: 20210820071131529
 points: 28.35,-2.12
+population: 36500
 style: {"color": "#8E0024"}
 tags: city Darguun fortress
 title: Volaar Draal
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Volaar Draal, the stronghold of the [[Kech Volaar]] clan, is hidden deep
 beneath the peaks and crags of the [[Seawall Mountains]]. The Kech Volaar include the best masons and combat engineers in [[Khorvaire]]. Blunt and functional where it stands carved into the mountainside, this [[Dhakaani|Heirs of Dhakaan]] fortress is said to be impregnable—a claim that has been put to the test on numerous

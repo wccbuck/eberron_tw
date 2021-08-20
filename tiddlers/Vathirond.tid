@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200415195550678
-modified: 20210727192040588
+modified: 20210820070304596
 points: 41.53,2.74
+population: 15500
 style: {"color": "#CA5700"}
 tags: Breland town
 title: Vathirond
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 The town of
 Vathirond, situated on the southern banks of the [[Brey River]], serves as a watch-post and trading center. It sits

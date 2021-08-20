@@ -1,8 +1,9 @@
 category: location
 color: #4C8201
 created: 20200417021808268
-modified: 20210816082226228
+modified: 20210820061811637
 points: 1.296,-42.627
+population: 67650
 style: {"color": "#8E0024"}
 tags: city Xen'drik
 title: Stormreach
@@ -17,9 +18,9 @@ type: text/vnd.tiddlywiki
 
 //In a harbor alley, a merchant spits blood and teeth onto the ground. As the [[eneko]] ruffian draws back for another blow, the wounded man sees a guard standing in the mouth of the alley, and for an instant hope surges through him. But the guard just laughs, and the merchant realizes... the guard is waiting for his cut.//
 
-''Population:'' 67,650<br/>
 ''Rulers:'' The [[Storm Lords]]<br/>
-''Motto:'' “Rising on the edge of the world.”
+''Motto:'' “Rising on the edge of the world.”<br/>
+''Population:'' <<ntls>>
 
 Stormreach is humanity’s greatest outpost on the continent of [[Xen'drik]]. Established by pirates and smugglers, it has become a vital resource for those who wish to explore or exploit the shattered land. Although the [[culture of Stormreach|Culture of Stormreach]] has its roots in [[Khorvaire]], it is a free city with no allegiance to any of the [[Five Nations]]. As such, Stormreach is a haven for explorers and exiles, for adventurers and criminals, for soldiers disillusioned with their former kingdoms and those who wish to continue the war. It is a beacon for dissidents and romantics, for fugitives on the run and those who need to escape their own memories. Far smaller than [[Sharn]], it is a city where a few bold adventurers can make a difference—a place where the major players quickly come to know each other.
 

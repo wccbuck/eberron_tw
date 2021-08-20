@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200416213537594
-modified: 20210727192017653
+modified: 20210820072111941
 points: 56.92,24.59
+population: 121000
 style: {"color": "#8E0024"}
 tags: city [[Mror Holds]] Mroranon
 title: Krona Peak
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 In the dwarven realm of [[Mroranon]]hold, under the gaze of the [[Great Stone Face of Mror]], Krona Peak serves as the seat of the [[Iron Council]] and thus is the [[Mror Holds]]' equivalent of a capital. This center of commerce provides a major connection to the western nations. [[Kol Korran's Throne]], [[Khorvaire]]'s largest temple to the [[Sovereign|Sovereign Host]] [[Lord of World and Wealth|Kol Korran]], dominates the cityscape. The [[Iron Council]] meets in the [[Ferrous House]].
 

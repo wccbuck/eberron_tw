@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210203200515253
-modified: 20210727192027791
+modified: 20210820070501775
 points: 53.65,0.48
+population: 75000
 style: {"color": "#8E0024"}
 tags: city Karrnath
 title: Rekkenmark
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 The westernmost city in Karrnath is Rekkenmark,
 a community known for its [[military academy|Rekkenmark Academy]], and headquarters of the Order of the [[Inviolate Way]]. Once

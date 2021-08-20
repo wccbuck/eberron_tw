@@ -1,13 +1,16 @@
 category: location
 color: #4C8201
 created: 20200414045523446
-modified: 20210727191955601
+modified: 20210820065800760
 points: 44.19,-15.54
+population: 4500
 style: {"color": "#CA5700"}
 tags: university town Aundair library
 title: Arcanix
 tooltip: village in Aundair, home of the Arcane Congress
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 This farming village on [[Lake Galifar]] provides food for
 the nearby floating towers of wizardry that serve as

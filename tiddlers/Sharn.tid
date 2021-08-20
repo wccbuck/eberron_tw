@@ -1,8 +1,9 @@
 category: location
 color: #4C8201
 created: 20200410005743410
-modified: 20210813085111122
+modified: 20210820061423874
 points: 21.87,-24.47
+population: 1059250
 style: {"color": "#8E0024"}
 tags: Breland city
 title: Sharn
@@ -32,7 +33,7 @@ stole my purse.//
 ''Country:'' [[Breland]]<br/>
 ''Government:'' The [[Council of Sharn|Sharn Council]]<br/>
 ''Local Ruler:'' The [[Lord Mayor Cathan ir'Demell|Lord Mayor of Sharn]]<br/>
-''Population:'' 1,059,250
+''Population:'' <<ntls>>
 
 All the major themes of [[Eberron]] are manifest in the
 great city of Sharn. It's a place of magic, with [[skycoach]]es circling mile-high towers and mystic forges toiling endlessly in the bowels. It's a place of adventure and

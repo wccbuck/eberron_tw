@@ -1,15 +1,17 @@
 category: location
 color: #4C8201
 created: 20200415005419499
-modified: 20210727192037646
+modified: 20210820064911947
 points: 51.35,0.0
+population: 50000
 style: {"color": "#8E0024"}
 tags: fortress Khorvaire Galifar city
 title: Thronehold
 tooltip: former capital city of Galifar
 type: text/vnd.tiddlywiki
 
-''Hallmarks:'' Entertainers, international intrigue, spies
+''Hallmarks:'' Entertainers, international intrigue, spies<br/>
+''Population:'' <<ntls>> (including [[Throneport]])
 
 After forging a united kingdom, [[Galifar I|Galifar Wynarn]] realized early
 on that the crown could not rule from one of the existing

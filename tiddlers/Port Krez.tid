@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210205191318871
-modified: 20210727192025504
+modified: 20210820072044298
 points: 50.01,52.86
+population: 4500
 style: {"color": "#CA5700"}
 tags: [[Lhazaar Principalities]] town Krag
 title: Port Krez
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Port Krez is the easternmost town in the [[Lhazaar Principalities]], situated on the island of [[Krag]] and looking out on endless miles of empty [[sea|Lhazaar Sea]]. Home to
 Prince [[Mika|Mika Rockface]] and her [[Cloudreavers]], Port Krez is the

@@ -1,11 +1,14 @@
 category: location
 color: #4C8201
 created: 20210207062921415
-modified: 20210727191953515
+modified: 20210820073526076
 points: 39.39,31.34
+population: 18500
 style: {"color": "#8E0024"}
 tags: city [[New Galifar]] Q'barra
 title: Adderport
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Adderport is a small but growing fortified city in [[New Galifar]], located on the [[Adder Bay]]. It was the first [[human]] settlement in [[Q'barra]], founded by Duke [[Ven ir'Kesslan]] and his fleet of like-minded [[Galifar]]an pioneers in 928 YK.

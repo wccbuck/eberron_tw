@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210207063511520
-modified: 20210727192015859
+modified: 20210820072218713
 points: 44.43,32.71
+population: 45000
 style: {"color": "#8E0024"}
 tags: city Q'barra
 title: Ka'rhashan
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Where the [[Crimson River]] marks the frontier
 between the [[dragonborn clanhold]]s in the southern

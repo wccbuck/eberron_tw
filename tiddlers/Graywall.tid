@@ -1,8 +1,9 @@
 category: location
 color: #4C8201
 created: 20200415203428235
-modified: 20210817054855538
+modified: 20210820061951533
 points: 36.31,-28.88
+population: 34800
 style: {"color": "#8E0024"}
 tags: city Droaam
 title: Graywall
@@ -16,8 +17,9 @@ type: text/vnd.tiddlywiki
 
 //"Are you hungry, little one?" the [[manticore]] rumbled. Blood dripped onto the stones as he spoke. "You're welcome to a leg. I assume you don't want an arm."//
 
-''Population:'' 34,800; an additional 2,500 laborers camped in the [[Stone Pits]]<br/>
-''Ruler:'' [[Xorchylic]]
+''Nation'': [[Droaam]]<br/>
+''Ruler:'' [[Xorchylic]]<br/>
+''Population:'' <<ntls>>; an additional 2,500 laborers camped in the [[Stone Pits]]
 
 [[Droaam]], one of the strangest places on
 [[Khorvaire]], is a land of monsters that serves as

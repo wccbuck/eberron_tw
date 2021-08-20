@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200416211815109
-modified: 20210727192027726
+modified: 20210820071944722
 points: 63.77,46.87
+population: 16500
 style: {"color": "#8E0024"}
 tags: [[Lhazaar Principalities]] city Greentarn
 title: Regalport
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 The seat of the High Prince [[Ryger|Ryger ir'Wynarn]] and the [[Seadragon|Seadragons]] Principality, Regalport is the grandest city in the principalities. The [[patriarch|Elar d'Thuranni]] of House [[Thuranni]] resides in the [[Regalport Enclave]], and House [[Ghallanda]] has a significant outpost here. 
 

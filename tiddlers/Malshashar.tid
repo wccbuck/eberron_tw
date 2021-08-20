@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210127191131026
-modified: 20210727192020258
+modified: 20210820063505235
 points: 13.56,199.84
+population: 32500
 style: {"color": "#8E0024"}
 tags: city fortress Adar
 title: Malshashar
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Set among the tallest peaks of the [[Ahnadiv Mountains]], Malshashar guards a major point in [[Adar]]'s defenses. Malshashar isn't as close to the foothills as
 [[Shalquar]], but the fortress is named after a monastery that

@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200415213143227
-modified: 20210727192040541
+modified: 20210820071835443
 points: 49.15,-16.88
+population: 40000
 style: {"color": "#8E0024"}
 tags: [[Eldeen Reaches]] city
 title: Varna
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 By far the largest city in the [[Eldeen Reaches]] (population: 40,000), Varna serves as the gateway for commerce with the world beyond. Reacher merchants come from far and wide to sell their goods in the markets of Varna. All the [[dragonmarked house]]s have
 outposts in Varna, but as the ancestral seat of House

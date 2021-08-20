@@ -1,13 +1,16 @@
 category: location
 color: #4C8201
 created: 20200415195859015
-modified: 20210727192034777
+modified: 20210820065903401
 points: 59.58,-3.0
+population: 70000
 style: {"color": "#8E0024"}
 tags: Aundair city enclave
 title: Stormhome
 tooltip: seat of House Lyrandar
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 This island city at the mouth of [[Scions Sound]] has been the seat of House [[Lyrandar]] for 600 years, and Queen [[Aurala|Aurala ir'Wynarn]] allows the house a free rein in governing the isle. It is Lyrandar's largest [[enclave]], as well as the finest resort and vacation spot in [[Khorvaire]]. [[Lyrandar]] [[wizard]]s use magic to continuously alter
 Stormhome's weather, turning the otherwise bleak and storm-blasted location into a temperate island getaway. 

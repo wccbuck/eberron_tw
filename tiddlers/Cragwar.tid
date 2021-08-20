@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210201191717699
-modified: 20210727192002346
+modified: 20210820070053426
 points: 41.02,-11.84
+population: 17500
 style: {"color": "#CA5700"}
 tags: Breland town
 title: Cragwar
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Cragwar sits in the foothills of the [[Blackcaps|Blackcap Mountains]] along
 the border between [[Aundair]] and [[Breland]]. During the

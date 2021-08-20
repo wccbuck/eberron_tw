@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20200416211722235
-modified: 20210727192025516
+modified: 20210820072013755
 points: 66.14,37.62
+population: 10500
 style: {"color": "#8E0024"}
 tags: [[Lhazaar Principalities]] city Questor
 title: Port Verge
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Port Verge is the royal port of the [[Diresharks]] Principality. Prince [[Kolberkon]] yearns to expand Verge and
 overshadow [[Regalport]], and he is always looking for
