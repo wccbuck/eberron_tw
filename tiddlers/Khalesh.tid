@@ -1,12 +1,15 @@
 category: location
 color: #3B5C0A
 created: 20210127050031315
-modified: 20210727192016822
+modified: 20210821193806418
 polygons: 34.88,174.69 34.56,174.28 34.03,174.36 33.63,174.25 33.37,173.65 33.36,173.06 33.04,172.64 32.88,171.45 32.18,170.69 31.96,170.35 31.8,169.77 31.49,169.37 31.09,169.48 30.96,168.9 30.91,168.13 30.69,167.75 30.32,167.82 29.85,167.78 29.35,167.9 28.95,168.06 28.44,167.99 27.98,167.81 27.45,167.54 27.09,167.41 27.04,167.2 26.85,167.55 26.72,167.98 26.72,168.51 26.67,169.27 26.7,169.77 26.67,170.4 26.92,170.92 27.23,171.39 27.22,171.72 27.35,172.08 27.53,172.25 27.59,172.64 27.81,172.87 28.02,173.28 28.2,173.7 28.53,173.9 28.64,174.3 28.71,174.8 28.72,175.42 28.9,175.93 29.0,176.39 28.95,176.86 28.77,177.49 28.58,177.99 28.57,178.41 28.59,178.8 28.44,179.14 28.13,179.6 27.68,179.98 27.39,180.27 27.17,180.7 26.77,180.86 26.32,180.98 25.99,181.2 25.59,181.55 25.38,181.9 25.73,182.15 26.26,182.35 26.92,182.36 27.63,182.38 28.34,182.39 29.24,182.35 30.02,182.39 30.58,182.39 31.07,182.59 31.36,182.42 31.69,182.39 31.88,182.62 32.23,182.95 32.6,183.21 33.08,183.53 33.52,183.57 33.82,183.46 34.17,183.19 34.42,182.87 34.79,182.89 34.9,182.88 34.9,174.94
+population: 1300000
 style: {"fillOpacity":"0","opacity":"0"}
 tags: Riedra province
 title: Khalesh
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Khalesh is a land of temperate plains and desert—green grassland fading into sun-baked plains and mesas. While it's more hospitable than neighboring [[Borunan]], at a glance it's rather barren—endless and empty. And yet, if you wander these plains, you may find yourself enveloped by a sense of well-being, a deep-rooted optimism and the knowledge that all will be well... with an underlying conviction that you'll fight to keep it that way. 
 
@@ -29,6 +32,14 @@ The people of Khalesh know that "demons" (the [[shulassakar]]) once ruled their 
 that great faith is required to resist the temptations of the
 //altavars//. They shun the ancient ruins and don't assist those
 who want to explore them. 
+
+!!! Notable Settlements
+
+<<list-links-article "[list[settlement]tagging[]tag{!!title}category[location]sort[title]]">>
+
+!!! Other Sites
+
+<<list-links-article "[tag{!!title}category[location]!tag[province]!tag[city]!tag[town]minrelevance[1000]sort[title]]">>
 
 !! The Old Kingdom
 

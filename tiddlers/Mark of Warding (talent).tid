@@ -1,7 +1,7 @@
 category: talent
 created: 20210731232504034
 list: alarm sequester [[planar binding]] [[magic circle]] [[mage armor]] [[arcane seal]] [[arcane lock]] [[armor of winter]] knock [[glyph of warding]] [[secret chest]] [[faithful hound]] [[antilife shell]] [[guards and wards]] [[antimagic field]]
-modified: 20210801185208063
+modified: 20210820223721667
 tags: Storyloom [[Mark of Warding]] dwarf
 title: Mark of Warding (talent)
 type: text/vnd.tiddlywiki
@@ -17,7 +17,7 @@ If you take this talent multiple times, you may choose additional spells from th
 	<$list filter="[list[]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>
-			<$transclude tiddler="SpellTierNames" index={{!!tier}}/>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
 		</td>
 		<td>
 			<$list filter="[is[current]tags[]sort[]butlast[]]">

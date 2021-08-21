@@ -1,17 +1,17 @@
 category: object
 color: #41D5E1
 created: 20200425004840183
-modified: 20210727191956770
+modified: 20210820223120567
 rarity: 3
 tags: tool
 title: bag of surprises
 type: text/vnd.tiddlywiki
-var: [[wand of colors]]###axe###small makeup kit###
+var: 10 matches wrapped in wax paper###bag full of door hinges###oil lamp###
 
 When you reach into this bag, you pull out a random object as determined by the button below. An object lasts for <<dr 1d4>> half-hours after you remove it from the bag, or until it is destroyed by force, after which point it disappears into smoke. You can pull out three objects per day.
 
 <$button>
-<$action-chooserandom $dataTiddler="BagOfSurprisesTable" $field="var" $unique="true" $number="3" $opt="hashes"/>
+<$action-chooserandom $dataTiddler="$:/BagOfSurprisesTable" $field="var" $unique="true" $number="3" $opt="hashes"/>
 3 Random Objects
 </$button>
 

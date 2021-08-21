@@ -1,7 +1,7 @@
 category: talent
 created: 20210731201343751
 list: [[know direction]] [[locate object]] [[hunter's mark]] [[faerie fire]] longstrider [[locate animals or plants]] [[locate creature]] clairvoyance [[speak with plants]] [[commune with nature]] [[find the path]] scrying
-modified: 20210801192904674
+modified: 20210820223721523
 tags: half-orc Storyloom [[Mark of Finding]]
 title: Mark of Finding (talent)
 type: text/vnd.tiddlywiki
@@ -17,7 +17,7 @@ If you take this talent multiple times, you may choose additional spells from th
 	<$list filter="[list[]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>
-			<$transclude tiddler="SpellTierNames" index={{!!tier}}/>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
 		</td>
 		<td>
 			<$list filter="[is[current]tags[]sort[]butlast[]]">

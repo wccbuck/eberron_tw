@@ -1,0 +1,28 @@
+category: object
+color: #41D5E1
+created: 20210820224045403
+modified: 20210820225113286
+rarity: 2
+tags: tool
+title: bag of gricks
+type: text/vnd.tiddlywiki
+var: [[grick]] (green)
+
+This ordinary bag, made from black cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, wet object. The bag weighs 1/2 pound.
+
+You can pull the wet lump from the bag and throw it up to 20 feet. When the object lands, it transforms into a randomly-determined [[aberration]] or [[monstrosity]]. The creature melts into stinking goo and evaporates at the next dawn or when it is incapacitated.
+
+The creature is ''not'' under your control, and acts on its own accord. It may be hostile to you or your companions.
+
+Once three objects have been pulled from the bag, the bag can't be used again until the next dawn.
+
+<$button>
+<$action-chooserandom $dataTiddler="$:/BagOfGricksTable" $field="var"/>
+Random Aberration
+</$button>
+
+<<<
+''{{!!var}}''
+<<<
+
+(This item is a pun on [[bag of tricks]].)

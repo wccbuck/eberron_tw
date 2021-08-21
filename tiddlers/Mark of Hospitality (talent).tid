@@ -1,7 +1,7 @@
 category: talent
 created: 20210731221545921
 list: prestidigitation [[purify food and drink]] [[unseen servant]] friends goodberry sleep aid [[calm emotions]] [[create food and water]] [[tiny hut]] [[aura of purity]] [[private sanctum]] hallow [[magnificent mansion]] [[heroes' feast]]
-modified: 20210801185207977
+modified: 20210820223721563
 tags: Storyloom halfling [[Mark of Hospitality]]
 title: Mark of Hospitality (talent)
 type: text/vnd.tiddlywiki
@@ -17,7 +17,7 @@ If you take this talent multiple times, you may choose additional spells from th
 	<$list filter="[list[]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>
-			<$transclude tiddler="SpellTierNames" index={{!!tier}}/>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
 		</td>
 		<td>
 			<$list filter="[is[current]tags[]sort[]butlast[]]">

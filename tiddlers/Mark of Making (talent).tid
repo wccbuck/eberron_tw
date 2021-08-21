@@ -1,7 +1,7 @@
 category: talent
 created: 20210731222302265
 list: [[magical tinkering]] [[conjure barrage]] [[mental tools]] [[tiny servant]] [[heat metal]] [[create homunculus]] [[animate objects]] [[control flames]] mending identify [[floating disk]] [[continual flame]] [[magic weapon]] [[elemental weapon]] fabricate [[stone shape]] creation simulacrum
-modified: 20210808003325178
+modified: 20210820223721576
 tags: Storyloom human [[Mark of Making]]
 title: Mark of Making (talent)
 type: text/vnd.tiddlywiki
@@ -17,7 +17,7 @@ If you take this talent multiple times, you may choose additional spells from th
 	<$list filter="[list[]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>
-			<$transclude tiddler="SpellTierNames" index={{!!tier}}/>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
 		</td>
 		<td>
 			<$list filter="[is[current]tags[]sort[]butlast[]]">

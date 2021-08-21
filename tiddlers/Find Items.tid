@@ -1,6 +1,6 @@
 created: 20201208004157407
 limit50: [limit[50]]
-modified: 20210727192008289
+modified: 20210820223456033
 tags: 
 title: Find Items
 type: text/vnd.tiddlywiki
@@ -25,7 +25,7 @@ See also the [[magic item]] and [[trinket]] pages.
 			</$select>
 			<$select tiddler=<<tid>> field=<<fld>>>
 				<$list filter="[range[0,5]]" variable="st">
-					<option value=<<st>>><$transclude tiddler="RarityNames" index=<<st>>/></option>
+					<option value=<<st>>><$transclude tiddler="$:/RarityNames" index=<<st>>/></option>
 				</$list>
 			</$select>
 			</$vars>
@@ -77,7 +77,7 @@ See also the [[magic item]] and [[trinket]] pages.
 		<$list filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/ObjectTag}!tag{$:/config/Manager/ExcludeObjectTag}subfilter{$:/config/Manager/Rarity}subfilter{$:/config/Manager/Rarity0}category[object]sort[title]order{$:/config/Manager/ObjectSortOrder}sort{$:/config/Manager/ObjectSort}order{$:/config/Manager/ObjectSortOrder}subfilter{$:/config/Manager/LimitObject!!limit50}]">
 		<tr><td><$link/></td>
 		<td>
-			<$transclude tiddler="RarityNames" index={{!!rarity}}/>
+			<$transclude tiddler="$:/RarityNames" index={{!!rarity}}/>
 		</td>
 		<td>
 			<$list filter="[is[current]tags[]sort[]butlast[]]">

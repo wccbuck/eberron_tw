@@ -1,18 +1,18 @@
 [
     {
         "created": "20201220234303412",
-        "title": "Shifting Islands",
-        "text": "There are countless islands on the edge of the [[Sea of Chaos]],\nvarying dramatically in size, each with its own environment.\nThese are constantly changing, but they change slowly; it can\ntake anywhere from a day to a week for an island to shift from\na barren desert to a verdant jungle. Weather is generally more\ndynamic, and often at odds with the environment; a vast desert\ncan suddenly face a dramatic blizzard. Use the buttons below to generate random weather effects, monuments, or \"weird locales\" for ideas for what adventurers might find on one of these chaotic islands.\n\n<$button>\n<$action-chooserandom $dataTiddler=\"RandomTemp\" $field=\"w1\"/>\n<$action-chooserandom $dataTiddler=\"RandomPrecip\" $field=\"w2\"/>\n<$action-chooserandom $dataTiddler=\"RandomWind\" $field=\"w3\"/>\nWeather\n</$button>\n\n<<<\n{{!!w1}}, {{!!w2}}, {{!!w3}}\n<<<\n\n<$button>\n<$action-chooserandom $dataTiddler=\"RandomMonument\" $field=\"monument\"/>\nMonument\n</$button>\n\n<<<\n{{!!monument}}\n<<<\n\n<$button>\n<$action-chooserandom $dataTiddler=\"RandomLocale\" $field=\"locale\"/>\nWeird Locale\n</$button>\n\n<<<\n{{!!locale}}\n<<<\n\nKeep in mind that Kythri is home to [[mimic]]s of all\nsizes; an unusual monument might be a colossal mimic!\n\nThe primary denizens of the Shifting Islands are\nmonstrosities and beasts that blend the features of multiple\ncreatures. Populations expand and contract, and don't have to\nbe sustainable, so adventurers could find a plateau filled with\n[[griffon]]s, or a realm of [[chimera]]s where each one has a different\narrangement of heads. The intelligent inhabitants of the island\nare almost entirely [[slaad]]i, but they aren't necessarily hostile. One might even stumble across a slaad village where adventurers are worshiped as gods!",
-        "modified": "20210727192031429",
-        "tags": "layer Kythri",
+        "text": "There are countless islands on the edge of the [[Sea of Chaos]],\nvarying dramatically in size, each with its own environment.\nThese are constantly changing, but they change slowly; it can\ntake anywhere from a day to a week for an island to shift from\na barren desert to a verdant jungle. Weather is generally more\ndynamic, and often at odds with the environment; a vast desert\ncan suddenly face a dramatic blizzard. Use the buttons below to generate random weather effects, monuments, or \"weird locales\" for ideas for what adventurers might find on one of these chaotic islands.\n\n<$button>\n<$action-chooserandom $dataTiddler=\"$:/RandomTemp\" $field=\"w1\"/>\n<$action-chooserandom $dataTiddler=\"$:/RandomPrecip\" $field=\"w2\"/>\n<$action-chooserandom $dataTiddler=\"$:/RandomWind\" $field=\"w3\"/>\nWeather\n</$button>\n\n<<<\n{{!!w1}}, {{!!w2}}, {{!!w3}}\n<<<\n\n<$button>\n<$action-chooserandom $dataTiddler=\"$:/RandomMonument\" $field=\"monument\"/>\nMonument\n</$button>\n\n<<<\n{{!!monument}}\n<<<\n\n<$button>\n<$action-chooserandom $dataTiddler=\"$:/RandomLocale\" $field=\"locale\"/>\nWeird Locale\n</$button>\n\n<<<\n{{!!locale}}\n<<<\n\nKeep in mind that Kythri is home to [[mimic]]s of all\nsizes; an unusual monument might be a colossal mimic!\n\nThe primary denizens of the Shifting Islands are\nmonstrosities and beasts that blend the features of multiple\ncreatures. Populations expand and contract, and don't have to\nbe sustainable, so adventurers could find a plateau filled with\n[[griffon]]s, or a realm of [[chimera]]s where each one has a different\narrangement of heads. The intelligent inhabitants of the island\nare almost entirely [[slaad]]i, but they aren't necessarily hostile. One might even stumble across a slaad village where adventurers are worshiped as gods!",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "locale": "Ancient tree containing a trapped spirit",
-        "monument": "Ruined or toppled circle of standing stones",
-        "w1": "40°F hotter than normal",
+        "title": "Shifting Islands",
+        "tags": "layer Kythri",
+        "modified": "20210820223406075",
+        "w3": "light wind",
         "w2": "no precipitation",
-        "w3": "light wind"
+        "w1": "40°F hotter than normal",
+        "monument": "Ruined or toppled circle of standing stones",
+        "locale": "Ancient tree containing a trapped spirit",
+        "color": "#3B5C0A",
+        "category": "location",
+        "article": "the "
     }
 ]

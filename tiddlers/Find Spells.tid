@@ -1,6 +1,6 @@
 created: 20201210225929044
 limit50: [limit[50]]
-modified: 20210727192008342
+modified: 20210820223828599
 tags: 
 title: Find Spells
 type: text/vnd.tiddlywiki
@@ -25,7 +25,7 @@ See also the main [[spell]] page.
 			</$select>
 			<$select tiddler=<<tid>> field=<<fld>>>
 				<$list filter="[range[5]]" variable="st">
-					<option value=<<st>>><$transclude tiddler="SpellTierNames" index=<<st>>/></option>
+					<option value=<<st>>><$transclude tiddler="$:/SpellTierNames" index=<<st>>/></option>
 				</$list>
 			</$select>
 			</$vars>
@@ -68,7 +68,7 @@ See also the main [[spell]] page.
 		<$list filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/SpellTag}subfilter{$:/config/Manager/SpellTier}category[spell]sort[title]order{$:/config/Manager/SpellSortOrder}sort{$:/config/Manager/SpellSort}order{$:/config/Manager/SpellSortOrder}subfilter{$:/config/Manager/LimitSpells!!limit50}]">
 		<tr><td><$link/></td>
 		<td>
-			<$transclude tiddler="SpellTierNames" index={{!!tier}}/>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
 		</td>
 		<td>
 			<$list filter="[is[current]tags[]sort[]butlast[]]">

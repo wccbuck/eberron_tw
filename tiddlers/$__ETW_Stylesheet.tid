@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20210815080209745
+modified: 20210821220929220
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -296,6 +296,7 @@ input.cs-newsegments {
     font-family: 'masoch-dirach'; font-variant: small-caps; font-weight:500;
 	font-size: 2em;
     margin: 0px;
+    padding-top: 0.7em;
     text-align: center;
 }
 

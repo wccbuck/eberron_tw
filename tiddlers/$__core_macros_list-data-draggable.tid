@@ -1,5 +1,5 @@
 created: 20210804170916757
-modified: 20210811171907199
+modified: 20210821222026709
 tags: $:/tags/Macro
 title: $:/core/macros/list-data-draggable
 type: text/vnd.tiddlywiki
@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 <$action-datainsertbefore $tiddler=<<targetTiddler>> $targetIndex=<<item-index>> $actionIndex=<<actionTiddler>>/>
 \end
 
-\define list-data-draggable(tiddler,type:"ul",subtype:"li",class:"",itemTemplate,subtitlewidth:"200px",filter:"[is[tiddler]]")
+\define list-data-draggable(tiddler,type:"ul",subtype:"li",class:"",itemTemplate,subtitlewidth:"200px",filter:"[all[]]")
 \whitespace trim
 <span class="tc-data-draggable-list">
 <$vars targetTiddler="""$tiddler$""">
@@ -20,7 +20,7 @@ type: text/vnd.tiddlywiki
 <div class="tc-droppable-placeholder"/>
 <div>
 <$link to=<<item-value>>>{{||$itemTemplate$}}</$link>
-<$vars dragsub={{{ [<item-value>get[text]trim<item-value>substring[200]] }}}>
+<$vars dragsub={{{ [<item-value>get[text]trim<item-value>substring[200]else[—]] }}}>
 <div class="draggable-subtitle" style="width:$subtitlewidth$;">&nbsp;<<dragsub>></div>
 </$vars>
 </div>

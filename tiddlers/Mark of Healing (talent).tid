@@ -1,7 +1,7 @@
 category: talent
 created: 20210731220727273
 list: [[cure wounds]] [[healing word]] [[gentle repose]] restoration [[prayer of healing]] [[aura of vitality]] [[aura of purity]] [[aura of life]] heal regeneration [[life transference]] [[spare the dying]] [[raise dead]] resurrection
-modified: 20210801185207963
+modified: 20210820223721549
 tags: Storyloom [[Mark of Healing]] halfling
 title: Mark of Healing (talent)
 type: text/vnd.tiddlywiki
@@ -19,7 +19,7 @@ If you take this talent multiple times, you may choose additional spells from th
 	<$list filter="[list[]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>
-			<$transclude tiddler="SpellTierNames" index={{!!tier}}/>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
 		</td>
 		<td>
 			<$list filter="[is[current]tags[]sort[]butlast[]]">

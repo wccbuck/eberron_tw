@@ -1,0 +1,93 @@
+category: character sheet
+created: 20210821212955139
+mode: view
+modified: 20210821222137036
+tags: 
+title: group character sheet
+type: text/vnd.tiddlywiki
+
+<div class="cs-wrapper">
+  <div class="cs-row">
+    <div class="cs-column"><p class="cs-gamename">Eberron Storyloom</p>
+   </div>
+    <div class="cs-column">
+        <<cs-field "name" "Name" "Group Name">>
+    </div>
+  </div>
+<h2></h2>
+  <div class="cs-row">
+    <div class="cs-column" style="align-self: flex-start;">
+      <div class="cs-row">
+        <div class="cs-doublecolumn">
+			<p class="cs-heading">''Assets''</p>
+        </div>
+        <div class="cs-column">
+			''Supply:'' 
+        </div>
+        <div class="cs-column">
+            <<cs-money>>
+        </div>
+      </div>
+      <div class="cs-row">
+			<div class="cs-column"><div style="align-self: flex-end;margin-right:25px;">''Asset In Use''</div></div>
+        </div>
+		<div class="cs-row" style="align-items: flex-start;">
+        <div class="cs-quadcolumn">
+			<<cs-item-list>>
+        </div>
+        <div class="cs-column">
+			<<cs-item-eqps>>
+        </div>
+      </div>
+    </div>
+    <div class="cs-column" style="align-self: flex-start;">
+      <p class="cs-heading">[[Aspects|aspect]]</p>
+      <<cs-field "desc" "Description" "Description Aspect">>
+      <<cs-field "ideal" "Ideal" "Ideal Aspect">>
+      <<cs-field "flaw" "Flaw" "Flaw Aspect">> 
+      <<cs-field "bond1" "Bond 1" "Bond Aspect">> 
+      <<cs-field "bond2" "Bond 2" "Bond Aspect">> 
+      <<cs-field "bond3" "Bond 3" "Bond Aspect">> 
+      <<cs-field "bond4" "Bond 4" "Bond Aspect">> 
+      <<cs-field "bond5" "Bond 5" "Bond Aspect">> 
+      <<cs-field "bond6" "Bond 6" "Bond Aspect">> 
+      <<cs-field "bond7" "Bond 7" "Bond Aspect">> 
+    </div>
+  </div>
+  <div class="cs-row">
+    <div class="cs-column">
+      <p class="cs-heading">[[Progress Clocks|progress clock]]</p>
+    </div>
+    <div class="cs-column" style="align-items:flex-end;">
+      (double click to advance a clock)
+    </div>
+  </div>
+  <div class = "cs-row">
+    <div class="cs-column">
+      <<cs-progressclock 1>>
+    </div>
+    <div class="cs-column">
+      <<cs-progressclock 2>>
+    </div>
+    <div class="cs-column">
+      <<cs-progressclock 3>>
+    </div>
+  </div>
+  <div class = "cs-row">
+    <div class="cs-column">
+      <<cs-progressclock 4>>
+    </div>
+    <div class="cs-column">
+      <<cs-progressclock 5>>
+    </div>
+    <div class="cs-column">
+      <<cs-progressclock 6>>
+    </div>
+  </div>
+<p class="cs-heading">Notes</p>
+<<cs-notes>>
+</div>
+
+!
+
+[[Character Creation]]

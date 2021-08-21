@@ -1,7 +1,7 @@
 category: talent
 created: 20210731223911705
 list: [[misty step]] [[far step]] [[thunder step]] longstrider haste [[benign transposition]] [[expeditious retreat]] jump [[pass without trace]] blink [[phantom steed]] [[dimension door]] [[freedom of movement]] etherealness teleport [[arcane gate]] scatter
-modified: 20210813213507466
+modified: 20210820223721589
 tags: Storyloom human [[Mark of Passage]]
 title: Mark of Passage (talent)
 type: text/vnd.tiddlywiki
@@ -17,7 +17,7 @@ If you take this talent multiple times, you may choose additional spells from th
 	<$list filter="[list[]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>
-			<$transclude tiddler="SpellTierNames" index={{!!tier}}/>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
 		</td>
 		<td>
 			<$list filter="[is[current]tags[]sort[]butlast[]]">

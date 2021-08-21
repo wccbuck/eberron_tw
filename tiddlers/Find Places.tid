@@ -1,5 +1,5 @@
 created: 20210302070815292
-modified: 20210820075558114
+modified: 20210821201121391
 tags: 
 title: Find Places
 type: text/vnd.tiddlywiki
@@ -57,7 +57,7 @@ See also <$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tidd
 				<<lingo Controls/Order/Prompt>>
 			</$checkbox>
 		</div>
-<div>(Note: sorting by population only works with cities.)</div>
+<div>(Note: sorting by population only works with settlements and nations.)</div>
 		<div class="tc-manager-control">
 		<$button><<resetplaces>>Reset All Fields</$button> <$button>
 <$action-chooserandom $filter="[all{$:/config/Manager/Show}subfilter<loc-type>category[location]!is[system]regexp<capitalized>!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/LocationTag}tag:strict{$:/config/Manager/LocationTag2}!tag{$:/config/Manager/ExcludeLocationTag}]" $nav="true"/>Open Random</$button>
@@ -73,7 +73,7 @@ See also <$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tidd
 	</div>
 	<div class="tc-manager-list">
 		<table class="manager-table">
-		<tr><th align="left" class="th-sticky">Location</th><th align="left" width="50%" class="th-sticky">Tags</th><th align="left" width="100px" class="th-sticky">Population</th></tr>
+		<tr><th align="left" width="30%" class="th-sticky">Location</th><th align="left" class="th-sticky">Tags</th><th align="left" width="100px" class="th-sticky">Population</th></tr>
 		<$list filter="[all{$:/config/Manager/Show}subfilter<loc-type>category[location]!is[system]regexp<capitalized>!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/LocationTag}tag:strict{$:/config/Manager/LocationTag2}!tag{$:/config/Manager/ExcludeLocationTag}sort{$:/config/Manager/LocationSort}order{$:/config/Manager/LocationSortOrder}subfilter{$:/config/Manager/LimitLocations!!limit50}]">
 		<tr><td>{{!!article}}<$link/></td>
 		<td>

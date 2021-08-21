@@ -1,7 +1,8 @@
 category: location
 color: #3B5C0A
 created: 20200414204903370
-modified: 20210727192002964
+modified: 20210821191144622
+population: 8000000
 style: {"fillOpacity":"0","opacity":"0"}
 tags: nation Khorvaire
 title: Cyre
@@ -10,7 +11,8 @@ type: text/vnd.tiddlywiki
 
 ''Capital:'' [[Metrol]] (destroyed) <br/>
 ''Previous Hallmarks:'' Art, artifice, jewelry, music, oratory, philosophy <br/>
-''Current Hallmarks:'' Destruction, ruins
+''Current Hallmarks:'' Destruction, ruins<br/>
+''Former Population:'' <<ntls>>
 
 Destroyed at the end of the [[Last War]], Cyre now exists
 only in the hearts of the refugees scattered across

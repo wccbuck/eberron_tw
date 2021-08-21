@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210322031145799
-modified: 20210727192031289
+modified: 20210821185315777
 points: 38.5,-24.43
+population: 4100
 style: {"color": "#CA5700"}
 tags: Breland town
 title: Shavalant
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 The center of Shavalant may be a single cobbled roadway and seven dusty cross-streets, but its wealth is scattered across the surrounding 150 miles of gently rolling grasslands. Springing up around Tenneth Ford, the only easy crossing point along Shavalant Creek as it flows from the [[Ranruunwood|Whitehorn Wood]] to
 [[Silver Lake]], Shavalant was the logical stopping point

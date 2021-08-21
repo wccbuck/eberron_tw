@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210322025815433
-modified: 20210727192009495
+modified: 20210821185157836
 points: 29.99,-22.6
+population: 19500
 style: {"color": "#CA5700"}
 tags: Breland town
 title: Galethspyre
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 With buildings surrounding the Galethspyre, a narrow
 sliver of blue stone jutting up over 600 feet from the bank

@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20210813222528830
+modified: 20210820223852577
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -62,14 +62,14 @@ type: text/vnd.tiddlywiki
 <p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-datainsertnew $tiddler="$:/$(currentTiddler)$/spells_$tier$" $newIndex=<<newIndex>> $newValue={{$tid$}}/>{{$:/core/images/done-button}}</$button></p>
 <$select tiddler="$tid$" default="">
 <option value="">None</option>
-<$wikify name="this-tier" text="""<$transclude tiddler="SpellTierNames" index="$tier$"/>""">
+<$wikify name="this-tier" text="""<$transclude tiddler="$:/SpellTierNames" index="$tier$"/>""">
 <optgroup label=<<this-tier>>>
 <$list filter="[category[spell]tier[$tier$]sort[title]]">
 <option><<currentTiddler>></option>
 </$list>
 </optgroup>
 <$wikify name="low-tier-number" text="""{{{ [[$tier$]subtract[1]] }}}""">
-<$wikify name="low-tier" text="""<$transclude tiddler="SpellTierNames" index=<<low-tier-number>>/>""">
+<$wikify name="low-tier" text="""<$transclude tiddler="$:/SpellTierNames" index=<<low-tier-number>>/>""">
 <optgroup label=<<low-tier>>>
 <$list filter="[category[spell]tier<low-tier-number>sort[title]]">
 <option><<currentTiddler>></option>

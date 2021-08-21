@@ -11,17 +11,17 @@ d7: 3
 duration: 20 minutes
 effect: All cloth within 50 yards is scrubbed clean.
 l_duration: 6 hours
-modified: 20210728183938863
+modified: 20210820223204975
 s_duration: 5 seconds
 tags: 
 title: random magical effect
 type: text/vnd.tiddlywiki
 
 <$button>
-<$action-chooserandom $dataTiddler="RandomMagicEffect" $field="effect"/>
-<$action-chooserandom $dataTiddler="RandomShortDuration" $field="s_duration"/>
-<$action-chooserandom $dataTiddler="RandomDuration" $field="duration"/>
-<$action-chooserandom $dataTiddler="RandomLongDuration" $field="l_duration"/>
+<$action-chooserandom $dataTiddler="$:/RandomMagicEffect" $field="effect"/>
+<$action-chooserandom $dataTiddler="$:/RandomShortDuration" $field="s_duration"/>
+<$action-chooserandom $dataTiddler="$:/RandomDuration" $field="duration"/>
+<$action-chooserandom $dataTiddler="$:/RandomLongDuration" $field="l_duration"/>
 <$action-chooserandom $filter="[range[4]]" $field="d4"/>
 <$action-chooserandom $filter="[range[7]]" $field="d7"/>
 <$action-chooserandom $filter="[range[10]]" $field="d10"/>

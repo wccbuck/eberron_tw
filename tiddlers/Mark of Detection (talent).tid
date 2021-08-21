@@ -1,7 +1,7 @@
 category: talent
 created: 20210731190725358
 list: light [[Medani foresight]] [[detect magic]] [[detect immortal]] [[detect poison and disease]] [[detect thoughts]] [[detect traps]] clairvoyance nondetection [[arcane eye]] [[legend lore]] [[see invisibility]] [[true seeing]] [[true strike]] [[trace teleport]]
-modified: 20210801185207924
+modified: 20210820223721511
 tags: half-elf Storyloom [[Mark of Detection]]
 title: Mark of Detection (talent)
 type: text/vnd.tiddlywiki
@@ -17,7 +17,7 @@ If you take this talent multiple times, you may choose additional spells from th
 	<$list filter="[list[]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>
-			<$transclude tiddler="SpellTierNames" index={{!!tier}}/>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
 		</td>
 		<td>
 			<$list filter="[is[current]tags[]sort[]butlast[]]">
