@@ -4,8 +4,10 @@
         "text": "[[Graywall]] is a city in progress. To the east, the scars of quarries run deep into the stony ground, while the west holds the rough foundations of new buildings—additional [[Hydra Halls]] and new fortifications. Although most of the members of the labor force have bunks within the town, some are awaiting the construction of these barracks. In addition,\nnew monsters are coming to Graywall every week in\nsearch of opportunities. [[Droaam]] is still an emerging nation. Many of its people still chafe under the rule of their tyrannical [[warlord]]s, and they hope to achieve\ngreater things by serving the [[Daughters|Daughters of Sora Kell]] directly—or\nat least by serving the [[Lord of Graywall|Xorchylic]]. As such, the\nStone Pits are surrounded by a tent town made up of\nboth temporary workers and those refugees who hope\nto join their ranks.\n\nIn the quarries and labor yards, [[ogre]]s cut and shift stone, [[kobold]]s and [[goblin]]s delve in the [[byeshk]] mines and toil in the workhouses, and teams of [[gnoll]]s lead militia drills. Every work crew has two overseers, a [[minotaur]] and a [[harpy]]. The minotaur serves as the iron fist when brute force is employed. The harpy calls the team to work and\nentertains them with her song whenever they are\ngranted a period of rest. A laborer typically serves an\n11-hour work shift and engages in an hour of militia\ntraining. Given the choice, most of the inhabitants of\nthe town are nocturnal; however, the work yards and\nmines run 24 hours a day.",
         "type": "text/vnd.tiddlywiki",
         "title": "Stone Pits",
-        "tags": "Graywall mine residence",
-        "modified": "20210817060247795",
+        "tags": "district Graywall mine",
+        "modified": "20210822064256845",
+        "style": "{\"color\":\"#6B001B\",\"fillColor\":\"#8E0024\",\"fillOpacity\":0.25}",
+        "polygons": "36.364,-28.28 36.388,-28.299 36.403,-28.264 36.42,-28.217 36.407,-28.163 36.366,-28.147 36.349,-28.187 36.351,-28.238|36.611,-28.011 36.557,-28.028 36.469,-28.001 36.412,-27.956 36.444,-27.913 36.484,-27.901 36.541,-27.935 36.574,-27.966|36.014,-27.905 35.991,-27.939 35.961,-27.946 35.923,-27.934 35.913,-27.876 35.943,-27.82 35.986,-27.832",
         "color": "#A3DB62",
         "category": "location",
         "article": "the "

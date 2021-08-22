@@ -1,9 +1,9 @@
 category: location
 color: #96CC39
 created: 20200414013358569
-modified: 20210727192000323
+modified: 20210822064256626
 polygons: 21.9,-24.57 21.92,-24.57 21.93,-24.56 21.95,-24.55 21.97,-24.55 21.98,-24.54 21.99,-24.53 22.0,-24.52 22.02,-24.52 22.04,-24.52 22.05,-24.51 22.07,-24.5 22.08,-24.49 22.09,-24.48 22.09,-24.47 22.08,-24.45 22.07,-24.44 22.07,-24.43 22.06,-24.41 22.04,-24.41 22.03,-24.4 22.01,-24.4 21.98,-24.41 21.96,-24.42 21.95,-24.43 21.94,-24.45 21.92,-24.46 21.9,-24.47 21.89,-24.49 21.89,-24.51 21.89,-24.54 21.9,-24.55
-style: {"color":"#902532","fillColor":"#8E0024","fillOpacity":"0.1"}
+style: {"color":"#6B001B","fillColor":"#8E0024","fillOpacity":0.25}
 tags: Sharn quarter
 title: Central Plateau
 tooltip: quarter of Sharn that holds the seat of the city’s government, along with embassies, dragonmarked enclaves, temples, and banks

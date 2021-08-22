@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210207032641612
-modified: 20210727192034206
+modified: 20210821230942053
 points: 38.14,-2.56
+population: 120000
 style: {"color": "#8E0024"}
 tags: Breland city
 title: Starilaskur
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 Starilaskur is a large city in [[Breland]], located near the shores of [[Lake Brey]] and the [[Brey River]]. The city's population has a higher percentage of devout Vassals of the [[Sovereign Host]] than most other Brelish cities. It is home to the Martial Temple of [[Dol Arrah]], an academy of war that specializes in honing the talents of Vassal [[cleric]]s and [[paladin]]s. It is also the seat of a large [[Cannith]] [[enclave]], which has led by Viceroy [[Haldon d'Cannith]] for the last sixty years.
 
