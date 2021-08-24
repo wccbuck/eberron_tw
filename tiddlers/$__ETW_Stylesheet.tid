@@ -1,12 +1,8 @@
 created: 20200212174048601
-modified: 20210821220929220
+modified: 20210822214408317
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
-
-\define datauri(title)
-<$macrocall $name="makedatauri" type={{$title$!!type}} text={{$title$}}/>
-\end
 
 table.manager-table
 {

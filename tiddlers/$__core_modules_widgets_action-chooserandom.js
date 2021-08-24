@@ -65,7 +65,7 @@ ChooseRandomWidget.prototype.execute = function() {
 	var unique = this.getAttribute("$unique","false");
 
 	var tiddlers = [];
-	var data = this.wiki.getTiddlerData(dataTiddler,[]);
+	var data = this.wiki.getTiddlerData(dataTiddler,{});
 	if(dataTiddler !="false"){
 		this.actionFilter = "[["+dataTiddler+"]indexes[]]";
 	}
@@ -100,15 +100,15 @@ ChooseRandomWidget.prototype.execute = function() {
 			tid = data[pick];
 		}
 		switch(opt){
-		case "link-br": 
+		case "link-br":
 			this.actionValue += "[["+tid+"]]<br>\n"; break;
-		case "br": 
+		case "br":
 			this.actionValue += tid +"<br>\n"; break;
-		case "hashes": 
+		case "hashes":
 		case "comma":
 			this.actionValue += tid +"###"; break;
 		case "none":
-		default: 
+		default:
 			this.actionValue += tid +" "; break;
 		}
 	})
@@ -139,7 +139,7 @@ ChooseRandomWidget.prototype.invokeAction = function(triggeringWidget,event) {
             var story = new $tw.Story();
             story.navigateTiddler(this.actionValue);
         } else {
-	    	this.wiki.setText(this.actionTiddler,this.actionField,this.actionIndex,this.actionValue);		
+	    	this.wiki.setText(this.actionTiddler,this.actionField,this.actionIndex,this.actionValue);
         }
     }
 	return true; // Action was invoked
