@@ -84,7 +84,7 @@ FantasyMapWidget.prototype.initMap = function() {
     var clipPadding = this.getAttribute("clipPadding", "0.5");
 
 	this.map = L.map('fantasy-map-'+mapNumber, {
-        worldCopyJump: true,
+        //worldCopyJump: true,
 		minZoom: parseInt(minZoom),
 		maxZoom: parseInt(maxZoom),
         // preferCanvas: true
@@ -121,6 +121,7 @@ FantasyMapWidget.prototype.initMap = function() {
 	this.defaultColor = "#5077BE";
 	this.defaultBoundsString = "-55.37,13.07,46.58,65.29,-29.88,26.12,21.09,52.24,-4.39,39.18";
 	this.allMarkers = [];
+    this.allTopMarkers = [];
 	this.focus;
 }
 
@@ -198,15 +199,34 @@ FantasyMapWidget.prototype.execute = function() {
 			}
 		}
 
+        // this is to trigger worldCopyJump on zoom
+        // self.map.panTo(self.map.wrapLatLng(self.map.getCenter()), {animate: false})
+
 		clearTimeout(saveBoundsTimer);
 		saveBoundsTimer = setTimeout(saveBounds, 750);
 	});
 	self.map.on('dragend', function() {
 		clearTimeout(saveBoundsTimer);
+        for (var topMarker of self.allTopMarkers){
+            topMarker.fire('dragend');
+        }
 		saveBoundsTimer = setTimeout(saveBounds, 750);
 	});
 
 	self.map.fire('zoomend') //trigger filtering
+
+    self.map.on('move zoom', function() {
+        var bounds = self.map.getBounds();
+        var center = bounds.getCenter();
+        var west = bounds.getWest();
+        var east = bounds.getEast();
+        if (center.lng < -130 && west < -360){
+            self.map.panTo(L.latLng([center.lat, center.lng + 360]), {animate: false, noMoveStart: true})
+        }
+        if (center.lng > 230 && east > 360){
+            self.map.panTo(L.latLng([center.lat, center.lng - 360]), {animate: false, noMoveStart: true})
+        }
+    })
 
     self.map.on(L.Draw.Event.DRAWSTART, function(event) {
         self.drawnItems.clearLayers();
@@ -313,6 +333,8 @@ function updateMarkerString(self, lat, lng, color){
 }
 
 function addTopMarkers(self){
+    self.allTopMarkers = [];
+
     var topMarkerData = self.wiki.getTiddlerData("$:/Markers",{});
     self.topMarkerLayer.clearLayers();
 
@@ -361,7 +383,7 @@ function addTopMarkers(self){
                 setTimeout(function() {topMarker.fire('dragend')}, 10);
     		});
 		});
-
+        self.allTopMarkers.push(topMarker);
 		topMarker.fire('dragend');
 		return topMarker;
 	}
