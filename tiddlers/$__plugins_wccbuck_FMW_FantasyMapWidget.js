@@ -185,6 +185,9 @@ FantasyMapWidget.prototype.execute = function() {
 	var saveBoundsTimer;
 
 	self.map.on('zoomend', function() {
+        clearTimeout(saveBoundsTimer);
+        saveBoundsTimer = setTimeout(saveBounds, 750);
+
 		// This stuff is eberron tiddlywiki specific. Needs to be generalized.
 		// This hides markers based on "relevance" and zoom layer.
 		var cutoffKhorvaire = self.wiki.getTiddlerData("$:/mapCutoffKhorvaire",[]);
@@ -199,23 +202,6 @@ FantasyMapWidget.prototype.execute = function() {
 			}
 		}
 
-        // this is to trigger worldCopyJump on zoom
-        // self.map.panTo(self.map.wrapLatLng(self.map.getCenter()), {animate: false})
-
-		clearTimeout(saveBoundsTimer);
-		saveBoundsTimer = setTimeout(saveBounds, 750);
-	});
-	self.map.on('dragend', function() {
-		clearTimeout(saveBoundsTimer);
-        for (var topMarker of self.allTopMarkers){
-            topMarker.fire('dragend');
-        }
-		saveBoundsTimer = setTimeout(saveBounds, 750);
-	});
-
-	self.map.fire('zoomend') //trigger filtering
-
-    self.map.on('move zoom', function() {
         var bounds = self.map.getBounds();
         var center = bounds.getCenter();
         var west = bounds.getWest();
@@ -226,7 +212,28 @@ FantasyMapWidget.prototype.execute = function() {
         if (center.lng > 230 && east > 360){
             self.map.panTo(L.latLng([center.lat, center.lng - 360]), {animate: false, noMoveStart: true})
         }
-    })
+	});
+	self.map.on('dragend', function() {
+        clearTimeout(saveBoundsTimer);
+        saveBoundsTimer = setTimeout(saveBounds, 750);
+
+        for (var topMarker of self.allTopMarkers){
+            topMarker.fire('dragend');
+        }
+
+        var bounds = self.map.getBounds();
+        var center = bounds.getCenter();
+        var west = bounds.getWest();
+        var east = bounds.getEast();
+        if (center.lng < -130 && west < -360){
+            self.map.panTo(L.latLng([center.lat, center.lng + 360]), {animate: false, noMoveStart: true})
+        }
+        if (center.lng > 230 && east > 360){
+            self.map.panTo(L.latLng([center.lat, center.lng - 360]), {animate: false, noMoveStart: true})
+        }
+	});
+
+	self.map.fire('zoomend') //trigger filtering
 
     self.map.on(L.Draw.Event.DRAWSTART, function(event) {
         self.drawnItems.clearLayers();
