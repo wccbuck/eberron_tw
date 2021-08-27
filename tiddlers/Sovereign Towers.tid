@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200418183036580
-modified: 20210727192033386
+fmwvar: fmw-middle
+modified: 20210827225817336
+polygons: 22.061,-24.422 22.055,-24.414 22.038,-24.407 22.027,-24.397 22.005,-24.398 21.983,-24.407 21.958,-24.417 21.945,-24.432 21.942,-24.44 21.951,-24.444 21.982,-24.475 21.982,-24.475 22.019,-24.46 22.019,-24.46 22.044,-24.437 22.061,-24.422
+style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: [[Middle Central]] district Sharn
 title: Sovereign Towers
 tooltip: temple district in Middle Central

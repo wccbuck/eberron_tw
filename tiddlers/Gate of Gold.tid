@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419043638848
-modified: 20210727192009711
+fmwvar: fmw-lower
+modified: 20210827225824790
+polygons: 22.048,-24.562 22.076,-24.555 22.097,-24.541 22.133,-24.538 22.164,-24.525 22.188,-24.498 22.195,-24.546 22.201,-24.579 22.201,-24.579 22.161,-24.593 22.107,-24.61 22.107,-24.61 22.085,-24.589 22.048,-24.562
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Dura]] Sharn
 title: Gate of Gold
 tooltip: tenement district in Lower Dura

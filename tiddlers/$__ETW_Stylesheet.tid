@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20210822214408317
+modified: 20210827162434170
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -317,3 +317,42 @@ input.cs-newsegments {
 }
 
 .leaflet-zoom-animated {max-width: initial !important}
+
+.fmw-active {
+    background-color: #CCC !important;
+}
+
+.fmw-skyway {
+    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/plugins/wccbuck/FMW/skyway.svg">>');
+	background-repeat: no-repeat;
+	background-size: 25px 25px;
+	background-clip: padding-box;
+}
+
+.fmw-upper {
+    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/plugins/wccbuck/FMW/upper-wards.svg">>');
+	background-repeat: no-repeat;
+	background-size: 25px 25px;
+	background-clip: padding-box;
+}
+
+.fmw-middle {
+    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/plugins/wccbuck/FMW/middle-wards.svg">>');
+	background-repeat: no-repeat;
+	background-size: 25px 25px;
+	background-clip: padding-box;
+}
+
+.fmw-lower {
+    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/plugins/wccbuck/FMW/lower-wards.svg">>');
+	background-repeat: no-repeat;
+	background-size: 25px 25px;
+	background-clip: padding-box;
+}
+
+.fmw-cogs {
+    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/plugins/wccbuck/FMW/cogs.svg">>');
+	background-repeat: no-repeat;
+	background-size: 25px 25px;
+	background-clip: padding-box;
+}

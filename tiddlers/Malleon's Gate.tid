@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419043738419
-modified: 20210727192020248
+fmwvar: fmw-lower
+modified: 20210827225824868
+polygons: 22.188,-24.498 22.207,-24.475 22.233,-24.461 22.256,-24.444 22.277,-24.425 22.285,-24.452 22.288,-24.48 22.281,-24.51 22.277,-24.541 22.275,-24.569 22.286,-24.594 22.294,-24.621 22.294,-24.621 22.258,-24.607 22.226,-24.591 22.201,-24.579 22.195,-24.546 22.188,-24.498
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Dura]] Sharn
 title: Malleon's Gate
 tooltip: goblinoid slum district in Lower Dura

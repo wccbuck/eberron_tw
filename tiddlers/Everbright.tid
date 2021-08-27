@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419185017379
-modified: 20210727192007516
+fmwvar: fmw-middle
+modified: 20210827225817070
+polygons: 21.736,-24.473 21.742,-24.495 21.767,-24.497 21.783,-24.502 21.783,-24.502 21.807,-24.508 21.825,-24.509 21.825,-24.509 21.828,-24.506 21.829,-24.496 21.828,-24.485 21.833,-24.48 21.836,-24.472 21.836,-24.472 21.817,-24.464 21.794,-24.449 21.768,-24.465 21.736,-24.473
+style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: district [[Middle Menthis]] Sharn
 title: Everbright
 tooltip: magic commercial district in Middle Menthis

@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200420000823313
-modified: 20210727192023150
+fmwvar: fmw-lower
+modified: 20210827225824923
+polygons: 22.142,-24.309 22.139,-24.307 22.128,-24.296 22.107,-24.291 22.083,-24.285 22.075,-24.302 22.069,-24.322 22.072,-24.34 22.074,-24.36 22.08,-24.372 22.088,-24.38 22.088,-24.38 22.103,-24.358 22.12,-24.338 22.142,-24.309
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Northedge]] market Sharn
 title: North Market
 tooltip: marketplace district in Lower Northedge

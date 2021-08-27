@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200420031251440
-modified: 20210727192003921
+fmwvar: fmw-middle
+modified: 20210827225817036
+polygons: 21.772,-24.347 21.76,-24.35 21.746,-24.356 21.733,-24.365 21.719,-24.375 21.709,-24.387 21.709,-24.387 21.692,-24.365 21.664,-24.354 21.664,-24.354 21.687,-24.313 21.697,-24.305 21.712,-24.297 21.731,-24.286 21.747,-24.276 21.765,-24.319 21.772,-24.347
+style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: district [[Middle Tavick's Landing]] Sharn
 title: Deathsgate
 tooltip: adventurer's district in Middle Tavick's Landing

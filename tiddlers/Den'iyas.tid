@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419065117159
-modified: 20210727192004250
+fmwvar: fmw-upper
+modified: 20210827225806214
+polygons: 21.794,-24.449 21.817,-24.464 21.836,-24.472 21.836,-24.472 21.837,-24.468 21.841,-24.459 21.852,-24.453 21.862,-24.447 21.867,-24.438 21.868,-24.427 21.861,-24.419 21.856,-24.407 21.847,-24.4 21.837,-24.401 21.826,-24.405 21.811,-24.408 21.806,-24.406 21.799,-24.425 21.794,-24.449
+style: {"color":"#6B001B","fillColor":"#B45545","fillOpacity":0.4}
 tags: district [[Upper Menthis]] Sharn
 title: Den'iyas
 tooltip: gnome residential district in Upper Menthis

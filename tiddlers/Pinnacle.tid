@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200420023634621
-modified: 20210727192024958
+fmwvar: fmw-upper
+modified: 20210827225806430
+polygons: 21.899,-24.282 21.903,-24.248 21.917,-24.246 21.942,-24.24 21.964,-24.237 21.984,-24.24 22.0,-24.249 22.021,-24.257 22.034,-24.267 22.024,-24.28 22.018,-24.289 22.013,-24.302 21.99,-24.299 21.941,-24.295 21.937,-24.277 21.91,-24.285 21.899,-24.282
+style: {"color":"#6B001B","fillColor":"#B45545","fillOpacity":0.4}
 tags: district [[Upper Tavick's Landing]] Sharn
 title: Pinnacle
 tooltip: temple district in Upper Tavick's Landing

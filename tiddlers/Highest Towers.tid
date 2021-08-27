@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200418024827131
-modified: 20210727192013449
+fmwvar: fmw-upper
+modified: 20210827225806233
+polygons: 21.902,-24.473 21.891,-24.49 21.887,-24.513 21.892,-24.536 21.898,-24.553 21.904,-24.566 21.918,-24.566 21.934,-24.559 21.946,-24.552 21.946,-24.552 21.946,-24.536 21.937,-24.498 21.902,-24.473
+style: {"color":"#6B001B","fillColor":"#B45545","fillOpacity":0.4}
 tags: [[Upper Central]] district Sharn
 title: Highest Towers
 tooltip: civic district in Upper Central

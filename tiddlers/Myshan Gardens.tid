@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200414025531407
-modified: 20210727192022571
+fmwvar: fmw-lower
+modified: 20210827231836927
+polygons: 21.982,-24.475 21.986,-24.486 21.994,-24.501 22.001,-24.512 22.003,-24.523 22.02,-24.517 22.037,-24.516 22.049,-24.512 22.065,-24.503 22.062,-24.499 22.025,-24.492 22.019,-24.484 22.019,-24.46 21.982,-24.475
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: [[Lower Central]] district Sharn
 title: Myshan Gardens
 tooltip: residential district in Lower Central
@@ -14,6 +17,6 @@ type: text/vnd.tiddlywiki
 ring the towers of this quiet district. Children play
 in the streets, couples stroll arm in arm.<br/>
 ''Social Class:'' Middle class<br/>
-''Neighbors:'' [[North Towers]] (northeast); [[Vallia Towers]] (southwest); [[Boldrei's Hearth]] (east); [[Ashblack]] (below); [[Ambassador Towers]] (above)
+''Neighbors:'' [[North Towers]] (northeast); [[Vallia Towers]] (southwest); [[Boldrei's Hearth]] (east); [[Ambassador Towers]] (above)
 
 Myshan Gardens is an unremarkable residential district. Its downtown location in [[Lower Central]] makes it particularly attractive to younger residents, particularly those with an artistic bent, radical political ideas, or untraditional lifestyles.

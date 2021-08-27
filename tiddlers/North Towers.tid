@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200418195431700
-modified: 20210727192023161
+fmwvar: fmw-lower
+modified: 20210827231828175
+polygons: 22.019,-24.46 22.019,-24.484 22.025,-24.492 22.062,-24.499 22.065,-24.503 22.078,-24.493 22.087,-24.48 22.089,-24.467 22.077,-24.454 22.068,-24.44 22.066,-24.428 22.061,-24.422 22.044,-24.437
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: [[Lower Central]] district Sharn
 title: North Towers
 tooltip: shopping district in Lower Central
@@ -17,7 +20,7 @@ trades (40), upscale services (10), average services
 bookstores stand out among a host of more
 mundane shops.<br/>
 ''Social Class:'' Middle class<br/>
-''Neighbors:'' [[Myshan Gardens]] (southwest); [[Boldrei's Hearth]] (southeast); [[Stoneyard]] (bridge, northeast); [[Ashblack]] (below); [[Tradefair]] (above)
+''Neighbors:'' [[Myshan Gardens]] (southwest); [[Boldrei's Hearth]] (southeast); [[Stoneyard]] (bridge, northeast); [[Tradefair]] (above)
 
 North Towers is one of [[Lower Central]]'s two mercantile districts. It has a higher concentration of
 bookstores than any other district in [[Sharn]] except

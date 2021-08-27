@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419235718573
-modified: 20210727192013606
+fmwvar: fmw-middle
+modified: 20210827225817183
+polygons: 22.142,-24.309 22.139,-24.307 22.128,-24.296 22.107,-24.291 22.083,-24.285 22.075,-24.302 22.069,-24.322 22.072,-24.34 22.074,-24.36 22.08,-24.372 22.088,-24.38 22.088,-24.38 22.103,-24.358 22.12,-24.338 22.142,-24.309
+style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: district [[Middle Northedge]] Sharn
 title: Holdfast
 tooltip: dwarf residential neighborhood in Middle Northedge

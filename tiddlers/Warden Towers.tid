@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419200211863
-modified: 20210727192041695
+fmwvar: fmw-middle
+modified: 20210827225817503
+polygons: 21.783,-24.56 21.797,-24.564 21.817,-24.561 21.823,-24.546 21.83,-24.535 21.824,-24.526 21.82,-24.516 21.825,-24.509 21.825,-24.509 21.807,-24.508 21.783,-24.502 21.784,-24.529 21.783,-24.56
+style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: garrison district [[Middle Menthis]] Sharn
 title: Warden Towers
 tooltip: garrison district in Middle Menthis

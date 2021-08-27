@@ -116,13 +116,119 @@ FantasyMapWidget.prototype.initMap = function() {
     });
     this.map.addControl(drawControl);
 
+    //eberron-specific
 
-	//initialize lists and set up defaults
+    L.Control.SharnLevels = L.Control.extend({
+        options: {
+            position: 'topright',
+        },
+        onAdd: function(map){
+            var container = L.DomUtil.create('div', 'leaflet-draw');
+            var section = L.DomUtil.create('div', 'leaflet-draw-section', container);
+            var toolbar = L.DomUtil.create('div', 'leaflet-bar leaflet-draw-toolbar-top', section);
+            var levels = [
+                {
+                    title: "Skyway",
+                    class: 'fmw-skyway',
+                    filter: "[title[Skyway]]"
+                },
+                {
+                    title: "Upper Wards",
+                    class: 'fmw-upper',
+                    filter: "[tag[upper ward]tagging[]tag[district]]"
+                },
+                {
+                    title: "Middle Wards",
+                    class: 'fmw-middle',
+                    filter: "[tag[middle ward]tagging[]tag[district]]"
+                },
+                {
+                    title: "Lower Wards",
+                    class: 'fmw-lower',
+                    filter: "[tag[lower ward]tagging[]tag[district]]"
+                },
+                {
+                    title: "Cogs + Cliffside",
+                    class: 'fmw-cogs',
+                    filter: "[tag[district]tag[Cogs]] [tag[district]tag[Cliffside]]"
+                }
+            ]
+
+            // var buttonEvent = (/iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream) ? 'touchstart' : 'click';
+            var buttonEvent = 'click';
+
+            for (var level of levels) {
+                // todo: change this icon
+                var button = L.DomUtil.create('a', level.class, toolbar);
+                button.filter = level.filter;
+
+                L.DomEvent
+        			.on(button, 'click', L.DomEvent.stopPropagation)
+        			.on(button, 'mousedown', L.DomEvent.stopPropagation)
+        			.on(button, 'dblclick', L.DomEvent.stopPropagation)
+        			.on(button, 'touchstart', L.DomEvent.stopPropagation)
+        			.on(button, 'click', L.DomEvent.preventDefault)
+        			.on(button, buttonEvent, function(){
+                        if (this.classList.contains("fmw-active")) {
+                            for (let b of Array.from(toolbar.children)){
+                                b.classList.remove("fmw-active");
+                            }
+                            showSharnLevel(self, null);
+                        } else {
+                            for (let b of Array.from(toolbar.children)){
+                                b.classList.remove("fmw-active");
+                            }
+                            this.classList.add("fmw-active");
+                            showSharnLevel(self, this.filter);
+                        }
+                    });
+
+                button.title = level.title;
+                button.href = "#";
+            }
+
+            return container;
+        }
+    });
+
+    this.sharnLevels = new L.Control.SharnLevels();
+    this.map.addControl(this.sharnLevels);
+
+    var sharnShapesList = [
+        [22.303,-24.64], [22.13,-24.73], [21.869,-24.769], [21.66,-24.648],
+        [21.639,-24.478], [21.716,-24.296], [21.976,-24.241], [22.301,-24.269]
+    ];
+
+    var polygon = L.polygon(sharnShapesList);
+    this.sharnBounds = polygon.getBounds();
+
+    this.sharnQuarters = [];
+
 	this.defaultColor = "#5077BE";
 	this.defaultBoundsString = "-55.37,13.07,46.58,65.29,-29.88,26.12,21.09,52.24,-4.39,39.18";
 	this.allMarkers = [];
     this.allTopMarkers = [];
 	this.focus;
+}
+
+function showSharnLevel(self, filter){
+    self.sharnDistrictLayer.clearLayers();
+
+    if (filter) {
+        for (var quarter of self.sharnQuarters){
+            quarter.setStyle({"color":"#814A3C", "fillOpacity":0.125});
+        }
+        var districts = self.wiki.filterTiddlers(filter);
+        for (var district of districts){
+            mapTiddler(self, district, self.sharnDistrictLayer);
+        }
+    } else {
+        for (var quarter of self.sharnQuarters){
+            quarter.setStyle({"color":"#6B001B", "fillOpacity":0.25});
+        }
+    }
+    //    self.sharnDistrictLayer = L.featureGroup().addTo(self.map);
+
 }
 
 /*
@@ -137,6 +243,7 @@ FantasyMapWidget.prototype.execute = function() {
 	// self.shapeLayer = L.featureGroup({renderer: L.canvas({ padding: parseFloat(clipPadding) })}).addTo(self.map);
 	// self.markerLayer = L.featureGroup({renderer: L.canvas()}).addTo(self.map);
     self.shapeLayer = L.featureGroup().addTo(self.map);
+    self.sharnDistrictLayer = L.featureGroup().addTo(self.map);
 	self.markerLayer = L.featureGroup().addTo(self.map);
     self.topMarkerLayer = L.featureGroup().addTo(self.map);
 
@@ -147,6 +254,7 @@ FantasyMapWidget.prototype.execute = function() {
 	}
 
 	self.allMarkers = [];
+    self.sharnQuarters = [];
 	for (var place of places){
 		mapTiddler(self, place);
 	}
@@ -202,6 +310,23 @@ FantasyMapWidget.prototype.execute = function() {
 			}
 		}
 
+        if (self.map.getZoom() > 6 && self.map.getBounds().intersects(self.sharnBounds)) {
+            if(!self.sharnLevels._map){
+                self.map.addControl(self.sharnLevels);
+            }
+            if (self.fmwvar){
+                var button = self.document.getElementsByClassName(self.fmwvar)[0];
+                if (button && !button.classList.contains("fmw-active")) {
+                    button.click();
+                }
+                self.fmwvar = null;
+            }
+        } else {
+            self.map.removeControl(self.sharnLevels);
+            showSharnLevel(self,null);
+            self.fmwvar = null;
+        }
+
         var bounds = self.map.getBounds();
         var center = bounds.getCenter();
         var west = bounds.getWest();
@@ -219,6 +344,20 @@ FantasyMapWidget.prototype.execute = function() {
 
         for (var topMarker of self.allTopMarkers){
             topMarker.fire('dragend');
+        }
+
+        if (self.map.getZoom() > 6 && self.map.getBounds().intersects(self.sharnBounds)) {
+            if(!self.sharnLevels._map){
+                self.map.addControl(self.sharnLevels);
+            }
+            if (self.fmwvar){
+                var button = self.document.getElementsByClassName(self.fmwvar)[0];
+                button.click();
+                self.fmwvar = null;
+            }
+        } else {
+            self.map.removeControl(self.sharnLevels);
+            showSharnLevel(self,null);
         }
 
         var bounds = self.map.getBounds();
@@ -282,6 +421,8 @@ FantasyMapWidget.prototype.execute = function() {
 function fly(self){
     try {
         var flyString = self.wiki.getTiddlerText("$:/FlyLocation").trim();
+        var fields = self.wiki.getTiddler("$:/FlyLocation").fields;
+        self.fmwvar = fields.fmwvar;
 
         if (flyString) {
             var flySplit = flyString.split(/[\#\|\s]+/);
@@ -397,9 +538,14 @@ function addTopMarkers(self){
     self.wiki.setText("$:/Markers", "refresh", null, "");
 }
 
-function mapTiddler(self, place){
+function mapTiddler(self, place, layer=null){
 	try {
 		var fields = self.wiki.getTiddler(place).fields;
+
+        if (fields.tags.includes("Sharn") && fields.tags.includes("district") && !layer){
+            return;
+            // save this for SharnLevels
+        }
 
 		var color = self.defaultColor;
 		var style = {};
@@ -440,26 +586,6 @@ function mapTiddler(self, place){
 
 			if (linkto) {
 				element.bindTooltip(objTitle, {sticky: true});
-
-                // canvas render is much faster than svg, but it breaks tooltips
-                // when hovering over markers. "mouseout" event on non-markers
-                // is bugged. This is a hacky way to fix it.
-
-                // if(isMarker){
-                //     element.on('mousemove', function() {
-                //         try{
-                //             self.previousElement.closeTooltip();
-                //         }catch{}
-                //     });
-                // }else{
-                //     element.on('mousemove', function() {
-                //         self.previousElement = this;
-                //         if (!element.isTooltipOpen()){
-                //             element.unbindTooltip();
-                //             element.bindTooltip(objTitle, {sticky: true}).openTooltip();
-                //         }
-                //     });
-                // }
 
 				if (isTouchDevice()){
 					element.on('click', function() {
@@ -570,6 +696,9 @@ function mapTiddler(self, place){
     							polygon.setStyle(additionalStyle);
     						} catch(e) {}
     						clickAndHoverBehavior(polygon);
+                            if (fields.tags.includes("Sharn") && fields.tags.includes("quarter")){
+                                self.sharnQuarters.push(polygon);
+                            }
     						polygon.addTo(feature);
 
     					} catch(e) {
@@ -578,7 +707,11 @@ function mapTiddler(self, place){
     				}
                 }
 			}
-			feature.addTo(self.shapeLayer);
+			if(layer){
+                feature.addTo(layer);
+            }else{
+                feature.addTo(self.shapeLayer);
+            }
 		}
 	} catch (e) {
 		console.log("Failed to map "+place, e);

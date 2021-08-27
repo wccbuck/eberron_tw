@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419214120445
-modified: 20210727192000312
+fmwvar: fmw-lower
+modified: 20210827225824637
+polygons: 21.736,-24.473 21.742,-24.495 21.767,-24.497 21.783,-24.502 21.783,-24.502 21.807,-24.508 21.825,-24.509 21.825,-24.509 21.828,-24.506 21.829,-24.496 21.828,-24.485 21.833,-24.48 21.836,-24.472 21.836,-24.472 21.817,-24.464 21.794,-24.449 21.768,-24.465 21.736,-24.473
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Menthis]] Sharn
 title: Center Bridge
 tooltip: residential district in Lower Menthis

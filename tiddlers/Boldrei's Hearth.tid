@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200418194426500
-modified: 20210727191958661
+fmwvar: fmw-lower
+modified: 20210827231818783
+polygons: 22.061,-24.422 22.055,-24.414 22.038,-24.407 22.027,-24.397 22.005,-24.398 21.983,-24.407 21.958,-24.417 21.945,-24.432 21.942,-24.44 21.951,-24.444 21.982,-24.475 21.982,-24.475 22.019,-24.46 22.019,-24.46 22.044,-24.437 22.061,-24.422
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: [[Lower Central]] district Sharn
 title: Boldrei's Hearth
 tooltip: tavern district in Lower Central
@@ -14,7 +17,7 @@ type: text/vnd.tiddlywiki
 ''First Impression:''  Hotels, inns, and rooms for rent
 seem to be everywhere in this district.<br/>
 ''Social Class:'' Lower middle class<br/>
-''Neighbors:'' [[North Towers]] (northwest); [[Olladra's Kitchen]] (southwest); [[Myshan Gardens]] (west); [[Stoneyard]] (bridge, north); [[North Market]] (bridge, northeast); [[Blackbones]] (below); [[Sovereign Towers]] (above)
+''Neighbors:'' [[North Towers]] (northwest); [[Olladra's Kitchen]] (southwest); [[Myshan Gardens]] (west); [[Stoneyard]] (bridge, north); [[North Market]] (bridge, northeast); [[Sovereign Towers]] (above)
 
 Boldrei's Hearth holds the [[Central Plateau]]'s largest concentration of hotels, inns, and other forms of lodging. It doesn't offer the elite hotels that are
 found in [[Highest Towers]], [[Platinum Heights]], and

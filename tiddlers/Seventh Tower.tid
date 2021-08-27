@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419072507651
-modified: 20210727192030484
+fmwvar: fmw-upper
+modified: 20210827225806528
+polygons: 21.742,-24.495 21.736,-24.505 21.742,-24.516 21.744,-24.533 21.737,-24.541 21.741,-24.549 21.75,-24.553 21.757,-24.561 21.763,-24.565 21.774,-24.562 21.783,-24.56 21.784,-24.529 21.783,-24.502 21.783,-24.502 21.767,-24.497 21.742,-24.495
+style: {"color":"#6B001B","fillColor":"#B45545","fillOpacity":0.4}
 tags: district [[Upper Menthis]] Sharn
 title: Seventh Tower
 tooltip: fine shopping district in Upper Menthis

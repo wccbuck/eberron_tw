@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419041832806
-modified: 20210727191959858
+fmwvar: fmw-lower
+modified: 20210827225824624
+polygons: 21.937,-24.622 21.967,-24.616 21.993,-24.597 22.016,-24.579 22.048,-24.562 22.085,-24.589 22.107,-24.61 22.107,-24.61 22.092,-24.619 22.06,-24.636 22.022,-24.652 22.006,-24.658 21.984,-24.659 21.931,-24.659 21.931,-24.659 21.927,-24.622
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Dura]] Sharn
 title: Callestan
 tooltip: tavern district in Lower Dura, crossroads for the four major criminal organizations in Sharn

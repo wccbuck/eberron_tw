@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419050446578
-modified: 20210727192025921
+fmwvar: fmw-lower
+modified: 20210827225825021
+polygons: 22.107,-24.61 22.159,-24.658 22.16,-24.658 22.131,-24.667 22.098,-24.68 22.075,-24.69 22.052,-24.692 22.021,-24.694 21.991,-24.703 21.958,-24.713 21.933,-24.714 21.932,-24.7 21.931,-24.659 21.984,-24.659 22.006,-24.658 22.022,-24.652 22.06,-24.636 22.092,-24.619 22.107,-24.61
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Dura]] Sharn
 title: Precarious
 tooltip: warehouse district in Lower Dura

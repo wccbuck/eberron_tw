@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200420053124683
-modified: 20210727192001642
+fmwvar: fmw-lower
+modified: 20210827225824657
+polygons: 21.895,-24.381 21.883,-24.375 21.872,-24.369 21.863,-24.368 21.849,-24.366 21.836,-24.361 21.826,-24.356 21.826,-24.356 21.83,-24.334 21.827,-24.285 21.833,-24.245 21.844,-24.248 21.868,-24.25 21.894,-24.249 21.903,-24.248 21.899,-24.282 21.878,-24.278 21.872,-24.323 21.9,-24.326 21.9,-24.334 21.892,-24.342 21.893,-24.354 21.905,-24.361 21.895,-24.381
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Tavick's Landing]] Sharn
 title: Cogsgate
 tooltip: warehouse district in Lower Tavick's Landing

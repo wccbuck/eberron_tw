@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200414025805862
-modified: 20210727192040424
+fmwvar: fmw-lower
+modified: 20210827231922134
+polygons: 21.982,-24.475 21.937,-24.498 21.937,-24.498 21.946,-24.536 21.946,-24.552 21.946,-24.552 21.966,-24.549 21.977,-24.542 21.99,-24.532 22.003,-24.523 22.001,-24.512 21.994,-24.501 21.986,-24.486 21.982,-24.475
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: [[Lower Central]] district Sharn
 title: Vallia Towers
 tooltip: residential district in Lower Central
@@ -12,6 +15,6 @@ type: text/vnd.tiddlywiki
 (280), poor residences (40)<br/>
 ''First Impression:'' Orderly collections of townhouses ring the towers of this quiet district. Children play in the streets, couples stroll arm in arm.<br/>
 ''Social Class:'' Middle class<br/>
-''Neighbors:'' [[Myshan Gardens]] (northeast); [[Granite Halls]] (south); [[Ashblack]] (below); [[Dava Gate]] (above)
+''Neighbors:'' [[Myshan Gardens]] (northeast); [[Olladra's Kitchen]] (west); [[Granite Halls]] (south); [[Dava Gate]] (above)
 
 Vallia Towers is very similar to [[Myshan Gardens]]. Its population includes an unusually high concentration of [[half-elves|half-elf]], but otherwise features the same hodgepodge of artists, revolutionaries, and nonconformists.

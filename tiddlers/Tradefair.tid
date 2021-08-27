@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200418192124465
-modified: 20210727192038724
+fmwvar: fmw-middle
+modified: 20210827225817433
+polygons: 22.019,-24.46 22.019,-24.484 22.025,-24.492 22.062,-24.499 22.065,-24.503 22.078,-24.493 22.087,-24.48 22.089,-24.467 22.077,-24.454 22.068,-24.44 22.066,-24.428 22.061,-24.422 22.044,-24.437
+style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: [[Middle Central]] district Sharn
 title: Tradefair
 tooltip: marketplace district in Middle Central

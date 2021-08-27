@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419072135857
-modified: 20210727192025229
+fmwvar: fmw-upper
+modified: 20210827225806459
+polygons: 21.806,-24.406 21.799,-24.403 21.789,-24.4 21.777,-24.397 21.763,-24.403 21.756,-24.414 21.747,-24.437 21.738,-24.459 21.736,-24.473 21.768,-24.465 21.794,-24.449 21.794,-24.449 21.799,-24.425 21.806,-24.406
+style: {"color":"#6B001B","fillColor":"#B45545","fillOpacity":0.4}
 tags: district [[Upper Menthis]] Sharn
 title: Platinate
 tooltip: wealthy residential district in Upper Menthis

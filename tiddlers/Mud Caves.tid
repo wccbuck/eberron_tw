@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200420064355037
-modified: 20210727192022448
+fmwvar: fmw-cogs
+modified: 20210827225839744
+polygons: 21.707,-24.667 21.693,-24.658 21.671,-24.642 21.655,-24.627 21.642,-24.597 21.631,-24.577 21.62,-24.56 21.631,-24.512 21.643,-24.517 21.649,-24.54 21.655,-24.569 21.668,-24.597 21.678,-24.616 21.681,-24.623 21.703,-24.641 21.724,-24.65
+style: {"color":"#6B001B","fillColor":"#5F0018","fillOpacity":0.25}
 tags: Cliffside district Sharn
 title: Mud Caves
 tooltip: shantytown district in Cliffside

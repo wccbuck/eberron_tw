@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200418061831261
-modified: 20210727192003723
+fmwvar: fmw-middle
+modified: 20210827225817002
+polygons: 21.982,-24.475 21.937,-24.498 21.937,-24.498 21.946,-24.536 21.946,-24.552 21.946,-24.552 21.966,-24.549 21.977,-24.542 21.99,-24.532 22.003,-24.523 22.001,-24.512 21.994,-24.501 21.986,-24.486 21.982,-24.475
+style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: [[Middle Central]] district Sharn
 title: Dava Gate
 tooltip: professional district in Middle Central

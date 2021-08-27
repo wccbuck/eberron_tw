@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419220644301
-modified: 20210727192038373
+fmwvar: fmw-lower
+modified: 20210827225825110
+polygons: 21.794,-24.449 21.817,-24.464 21.836,-24.472 21.836,-24.472 21.837,-24.468 21.841,-24.459 21.852,-24.453 21.862,-24.447 21.867,-24.438 21.868,-24.427 21.861,-24.419 21.856,-24.407 21.847,-24.4 21.837,-24.401 21.826,-24.405 21.811,-24.408 21.806,-24.406 21.799,-24.425 21.794,-24.449
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Menthis]] Sharn
 title: Torchfire
 tooltip: theater district in Lower Menthis

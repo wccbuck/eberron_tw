@@ -1,14 +1,17 @@
 [
     {
         "created": "20200419051829951",
-        "title": "Stores",
         "text": "''District Type:'' Warehouse district<br/>\n''Buildings:'' Warehouses (50), poor trades (25), poor\nservices (50), poor residences (400)<br/>\n''First Impression:'' Wide storage towers dominate\nthis district, surrounded by tenements and smaller\nwarehouses. The streets are full of wagons and\nlaborers hauling goods to and from the skydocks\nof [[Precarious]].<br/>\n''Social Class:'' Lower class<br/>\n''Neighbors:'' [[Callestan]] (northeast); [[Precarious]] (northwest); [[Fallen]] (south); [[Forgelight Towers]] (bridge, southeast); [[Ship's Towers]]/[[Sharn's Welcome]] (below and west); [[Stormhold]] (above); \n\nThe Stores district has much in common with [[Precarious]]. However, the Stores is not actually built on\nthe cliff side, and the [[Watch|Sharn Watch]] focuses its attention\nand resources on Precarious. The result is that the\nStores are slightly more dangerous than Precarious,\nand smugglers are more likely to hide their goods\nin these warehouses. The [[Boromar Clan]] has strong\ninterests in this district, and thus a considerable\n[[halfling]] population can be found here. ",
-        "modified": "20210727192034614",
-        "tags": "district [[Lower Dura]] Sharn",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
+        "title": "Stores",
+        "tags": "district [[Lower Dura]] Sharn",
+        "modified": "20210827225825071",
+        "tooltip": "warehouse district in Lower Dura",
+        "style": "{\"color\":\"#6B001B\",\"fillColor\":\"#76001E\",\"fillOpacity\":0.3}",
         "color": "#96CC39",
-        "tooltip": "warehouse district in Lower Dura"
+        "category": "location",
+        "article": "the ",
+        "polygons": "21.798,-24.624 21.824,-24.627 21.86,-24.63 21.897,-24.622 21.927,-24.622 21.931,-24.659 21.931,-24.659 21.932,-24.7 21.933,-24.714 21.89,-24.711 21.844,-24.706 21.819,-24.698 21.785,-24.687 21.765,-24.673 21.771,-24.677 21.792,-24.635 21.798,-24.624",
+        "fmwvar": "fmw-lower"
     }
 ]

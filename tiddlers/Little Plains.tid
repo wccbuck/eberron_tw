@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419185919877
-modified: 20210727192019025
+fmwvar: fmw-middle
+modified: 20210827225817249
+polygons: 21.806,-24.406 21.799,-24.403 21.789,-24.4 21.777,-24.397 21.763,-24.403 21.756,-24.414 21.747,-24.437 21.738,-24.459 21.736,-24.473 21.768,-24.465 21.794,-24.449 21.794,-24.449 21.799,-24.425 21.806,-24.406
+style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: district [[Middle Menthis]] Sharn
 title: Little Plains
 tooltip: halfling residential district in Middle Menthis

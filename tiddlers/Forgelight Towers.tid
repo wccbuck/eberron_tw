@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419220543847
-modified: 20210727192009028
+fmwvar: fmw-lower
+modified: 20210827225824752
+polygons: 21.783,-24.56 21.797,-24.564 21.817,-24.561 21.823,-24.546 21.83,-24.535 21.824,-24.526 21.82,-24.516 21.825,-24.509 21.825,-24.509 21.807,-24.508 21.783,-24.502 21.784,-24.529 21.783,-24.56
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Menthis]] Sharn
 title: Forgelight Towers
 tooltip: residential district in Lower Menthis

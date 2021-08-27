@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419034958069
-modified: 20210727192012632
+fmwvar: fmw-middle
+modified: 20210827225817120
+polygons: 22.048,-24.562 22.076,-24.555 22.097,-24.541 22.133,-24.538 22.164,-24.525 22.188,-24.498 22.195,-24.546 22.201,-24.579 22.201,-24.579 22.161,-24.593 22.107,-24.61 22.107,-24.61 22.085,-24.589 22.048,-24.562
+style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: district [[Middle Dura]] Sharn
 title: Hareth's Folly
 tooltip: tavern district in Middle Dura

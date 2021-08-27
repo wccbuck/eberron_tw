@@ -5,10 +5,13 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Bazaar",
         "tags": "district [[Middle Dura]] market Sharn",
-        "modified": "20210811005022745",
+        "modified": "20210827225816875",
         "tooltip": "marketplace district in Middle Dura",
+        "style": "{\"color\":\"#6B001B\",\"fillColor\":\"#A12B35\",\"fillOpacity\":0.4}",
         "color": "#96CC39",
         "category": "location",
-        "article": "the "
+        "article": "the ",
+        "polygons": "21.937,-24.622 21.967,-24.616 21.993,-24.597 22.016,-24.579 22.048,-24.562 22.085,-24.589 22.107,-24.61 22.107,-24.61 22.092,-24.619 22.06,-24.636 22.022,-24.652 22.006,-24.658 21.984,-24.659 21.931,-24.659 21.931,-24.659 21.927,-24.622",
+        "fmwvar": "fmw-middle"
     }
 ]

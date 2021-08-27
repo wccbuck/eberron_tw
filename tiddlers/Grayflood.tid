@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200414035710913
-modified: 20210727192011260
+fmwvar: fmw-cogs
+modified: 20210827225839713
+polygons: 22.23,-24.66 22.19,-24.68 22.14,-24.71 22.12,-24.73 22.06,-24.74 21.98,-24.76 21.925,-24.769 21.924,-24.73 21.958,-24.73 21.997,-24.728 22.031,-24.709 22.085,-24.695 22.127,-24.686 22.164,-24.672 22.19,-24.664 22.23,-24.66
+style: {"color":"#6B001B","fillColor":"#5F0018","fillOpacity":0.25}
 tags: Cliffside district Sharn
 title: Grayflood
 tooltip: waterfront district in Cliffside

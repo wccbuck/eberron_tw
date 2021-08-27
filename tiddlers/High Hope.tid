@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419233834624
-modified: 20210727192013427
+fmwvar: fmw-middle
+modified: 20210827225817153
+polygons: 22.156,-24.411 22.171,-24.415 22.181,-24.405 22.209,-24.402 22.218,-24.392 22.225,-24.379 22.213,-24.37 22.194,-24.361 22.183,-24.368 22.16,-24.391 22.136,-24.407
+style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: district [[Middle Northedge]] Sharn
 title: High Hope
 tooltip: temple district in Middle Northedge

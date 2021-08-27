@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200420003542861
-modified: 20210727192019294
+fmwvar: fmw-lower
+modified: 20210827225824849
+polygons: 22.156,-24.411 22.171,-24.415 22.181,-24.405 22.209,-24.402 22.218,-24.392 22.225,-24.379 22.213,-24.37 22.194,-24.361 22.183,-24.368 22.16,-24.391 22.136,-24.407
+style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Northedge]] Sharn
 title: Longstairs
 tooltip: residential district in Lower Northedge

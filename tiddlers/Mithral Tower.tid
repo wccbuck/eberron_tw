@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200418030701096
-modified: 20210727192021788
+fmwvar: fmw-upper
+modified: 20210827225806352
+polygons: 21.982,-24.475 21.937,-24.498 21.937,-24.498 21.946,-24.536 21.946,-24.552 21.946,-24.552 21.966,-24.549 21.977,-24.542 21.99,-24.532 22.003,-24.523 22.001,-24.512 21.994,-24.501 21.986,-24.486 21.982,-24.475
+style: {"color":"#6B001B","fillColor":"#B45545","fillOpacity":0.4}
 tags: [[Upper Central]] district Sharn
 title: Mithral Tower
 tooltip: wealthy residential district in Upper Central

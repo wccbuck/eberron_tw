@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200420031137499
-modified: 20210727192003258
+fmwvar: fmw-middle
+modified: 20210827225816975
+polygons: 21.826,-24.356 21.817,-24.347 21.806,-24.342 21.794,-24.343 21.786,-24.346 21.772,-24.347 21.772,-24.347 21.765,-24.319 21.747,-24.276 21.757,-24.268 21.771,-24.256 21.78,-24.247 21.797,-24.241 21.808,-24.239 21.828,-24.243 21.833,-24.245 21.827,-24.285 21.83,-24.334 21.826,-24.356
+style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: district [[Middle Tavick's Landing]] Sharn
 title: Dancing Shadows
 tooltip: tavern district in Middle Tavick's Landing

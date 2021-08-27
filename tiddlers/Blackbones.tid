@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200420062719233
-modified: 20210727191957921
+fmwvar: fmw-cogs
+modified: 20210827225839682
+polygons: 22.026,-24.264 22.031,-24.271 22.046,-24.281 22.039,-24.303 22.0,-24.349 21.944,-24.396 21.9,-24.44 21.866,-24.493 21.845,-24.542 21.823,-24.563 21.804,-24.574 21.747,-24.565 21.65,-24.555 21.65,-24.555 21.646,-24.468 21.652,-24.412 21.669,-24.345 21.692,-24.32 21.75,-24.278 21.776,-24.262 21.857,-24.244 21.952,-24.256 22.009,-24.266
+style: {"color":"#6B001B","fillColor":"#470012","fillOpacity":0.25}
 tags: district Cogs Sharn
 title: Blackbones
 tooltip: industry district in the Cogs
@@ -16,11 +19,10 @@ with soot, and the inhabitants are dour folk focused
 on their work.<br/>
 ''Social Class:'' Lower class
 
-Blackbones is located under [[Tavick's Landing]], and
-stretched west toward the center of [[Sharn]]. In most
+Blackbones is located under [[Tavick's Landing]] and [[Menthis Plateau]]. In most
 respects it is similar to [[Ashblack]]; it is slightly newer,
 and the corridors are a little wider and better lit. Like
-Ashblack, there are a considerable number of [[warforged]] laborers in this district, and a few businesses have sprung up around these constructs. 
+Ashblack, there are a considerable number of [[warforged]] laborers in this district, and a few businesses have sprung up around these [[construct]]s. 
 
 !! Noteworthy Locations
 

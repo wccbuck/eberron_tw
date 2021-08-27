@@ -1,7 +1,10 @@
 category: location
 color: #96CC39
 created: 20200419040225157
-modified: 20210727192034766
+fmwvar: fmw-middle
+modified: 20210827225817361
+polygons: 21.798,-24.624 21.824,-24.627 21.86,-24.63 21.897,-24.622 21.927,-24.622 21.931,-24.659 21.931,-24.659 21.932,-24.7 21.933,-24.714 21.89,-24.711 21.844,-24.706 21.819,-24.698 21.785,-24.687 21.765,-24.673 21.771,-24.677 21.792,-24.635 21.798,-24.624
+style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: district [[Middle Dura]] Sharn
 title: Stormhold
 tooltip: residential district in Middle Dura
