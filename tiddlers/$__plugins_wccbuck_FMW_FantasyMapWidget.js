@@ -135,17 +135,17 @@ FantasyMapWidget.prototype.initMap = function() {
                 {
                     title: "Upper Wards",
                     class: 'fmw-upper',
-                    filter: "[tag[upper ward]tagging[]tag[district]]"
+                    filter: "[tag[upper ward]tagging[]tag[district]] [title[$:/UpperWardBridges]]"
                 },
                 {
                     title: "Middle Wards",
                     class: 'fmw-middle',
-                    filter: "[tag[middle ward]tagging[]tag[district]]"
+                    filter: "[tag[middle ward]tagging[]tag[district]] [title[$:/MiddleWardBridges]]"
                 },
                 {
                     title: "Lower Wards",
                     class: 'fmw-lower',
-                    filter: "[tag[lower ward]tagging[]tag[district]]"
+                    filter: "[tag[lower ward]tagging[]tag[district]] [title[$:/LowerWardBridges]]"
                 },
                 {
                     title: "Cogs + Cliffside",
@@ -542,8 +542,9 @@ function mapTiddler(self, place, layer=null){
 	try {
 		var fields = self.wiki.getTiddler(place).fields;
 
-        if (fields.tags.includes("Sharn") && fields.tags.includes("district") && !layer){
-            return;
+        var tags = fields.tags || "";
+        if ((tags.includes("Sharn") && tags.includes("district"))||place.includes("WardBridges")){
+            if (!layer) return;
             // save this for SharnLevels
         }
 
