@@ -116,6 +116,44 @@ FantasyMapWidget.prototype.initMap = function() {
     });
     this.map.addControl(drawControl);
 
+
+    L.Control.TogglePolMap = L.Control.extend({
+        options: {
+            position: 'topright',
+        },
+        onAdd: function(map){
+            var container = L.DomUtil.create('div', 'leaflet-draw');
+            var section = L.DomUtil.create('div', 'leaflet-draw-section', container);
+            var toolbar = L.DomUtil.create('div', 'leaflet-bar leaflet-draw-toolbar-top', section);
+            var button = L.DomUtil.create('a', 'fmw-polmap', toolbar);
+            if (self.getAttribute("polmap", false) == "yes"){
+                button.classList.add("fmw-active")
+            }
+
+            L.DomEvent
+                .on(button, 'click', L.DomEvent.stopPropagation)
+                .on(button, 'mousedown', L.DomEvent.stopPropagation)
+                .on(button, 'dblclick', L.DomEvent.stopPropagation)
+                .on(button, 'touchstart', L.DomEvent.stopPropagation)
+                .on(button, 'click', L.DomEvent.preventDefault)
+                .on(button, 'click', function(){
+                    if (this.classList.contains("fmw-active")) {
+                        this.classList.remove("fmw-active")
+                        self.wiki.setText("$:/PolMap", "text", null, "no");
+                    } else {
+                        this.classList.add("fmw-active")
+                        self.wiki.setText("$:/PolMap", "text", null, "yes");
+                    }
+                });
+
+            button.title = "Toggle Political Map";
+            button.href = "#";
+            return container;
+        }
+    });
+    this.togglePolMapControl = new L.Control.TogglePolMap();
+    this.map.addControl(this.togglePolMapControl);
+
     //eberron-specific
 
     L.Control.SharnLevels = L.Control.extend({
@@ -154,9 +192,6 @@ FantasyMapWidget.prototype.initMap = function() {
                 }
             ]
 
-            // var buttonEvent = (/iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream) ? 'touchstart' : 'click';
-            var buttonEvent = 'click';
-
             for (var level of levels) {
                 // todo: change this icon
                 var button = L.DomUtil.create('a', level.class, toolbar);
@@ -168,7 +203,7 @@ FantasyMapWidget.prototype.initMap = function() {
         			.on(button, 'dblclick', L.DomEvent.stopPropagation)
         			.on(button, 'touchstart', L.DomEvent.stopPropagation)
         			.on(button, 'click', L.DomEvent.preventDefault)
-        			.on(button, buttonEvent, function(){
+        			.on(button, 'click', function(){
                         if (this.classList.contains("fmw-active")) {
                             for (let b of Array.from(toolbar.children)){
                                 b.classList.remove("fmw-active");
@@ -227,7 +262,6 @@ function showSharnLevel(self, filter){
             quarter.setStyle({"color":"#6B001B", "fillOpacity":0.25});
         }
     }
-    //    self.sharnDistrictLayer = L.featureGroup().addTo(self.map);
 
 }
 
@@ -244,6 +278,7 @@ FantasyMapWidget.prototype.execute = function() {
 	// self.markerLayer = L.featureGroup({renderer: L.canvas()}).addTo(self.map);
     self.shapeLayer = L.featureGroup().addTo(self.map);
     self.sharnDistrictLayer = L.featureGroup().addTo(self.map);
+    self.polMapLayer = L.featureGroup().addTo(self.map);
 	self.markerLayer = L.featureGroup().addTo(self.map);
     self.topMarkerLayer = L.featureGroup().addTo(self.map);
 
@@ -262,6 +297,9 @@ FantasyMapWidget.prototype.execute = function() {
     // add draggable markers
     addTopMarkers(self);
 
+    // show political map if enabled
+    showPolMap(this);
+    
 	// fit bounds
 	var boundsString = self.wiki.getTiddlerText("$:/MapBounds");
 	if (!boundsString){
@@ -538,13 +576,31 @@ function addTopMarkers(self){
     self.wiki.setText("$:/Markers", "refresh", null, "");
 }
 
-function mapTiddler(self, place, layer=null){
+function showPolMap(self){
+    if (self.getAttribute("polmap", false) == "yes"){
+        var additionalStyleField = "nationstyle";
+        var territories = self.wiki.filterTiddlers("[list[territory]tagging[]has[polygons]!has[polylines]]");
+        for (var territory of territories){
+            mapTiddler(self, territory, self.polMapLayer, additionalStyleField);
+        }
+        var lines = self.wiki.filterTiddlers("[list[territory]tagging[]has[polylines]]");
+        for (var line of lines){
+            mapTiddler(self, line, self.polMapLayer, additionalStyleField);
+        }
+    } else {
+        try{
+            self.polMapLayer.clearLayers();
+        }catch {}
+    }
+}
+
+function mapTiddler(self, place, layer=null, additionalStyleField=null){
 	try {
 		var fields = self.wiki.getTiddler(place).fields;
 
         var tags = fields.tags || "";
         if ((tags.includes("Sharn") && tags.includes("district"))||place.includes("WardBridges")){
-            if (!layer) return;
+            if (layer!=self.sharnDistrictLayer) return;
             // save this for SharnLevels
         }
 
@@ -565,7 +621,7 @@ function mapTiddler(self, place, layer=null){
 		if (fields.title){
 			objTitle = fields.title.split(" (")[0];
 			if (fields.article) {
-				objTitle = fields.article + objTitle;
+				objTitle = fields.article.charAt(0).toUpperCase() + fields.article.slice(1) + objTitle;
 			}
 			if (objTitle.startsWith("$:/")){
 				objTitle = "";
@@ -654,7 +710,7 @@ function mapTiddler(self, place, layer=null){
 
     						polyline.setStyle(style);
     						try {
-    							if (self.additionalStyle) additionalStyle = JSON.parse(fields[self.additionalStyle]);
+    							if (additionalStyleField) additionalStyle = JSON.parse(fields[additionalStyleField]);
     							polyline.setStyle(additionalStyle);
     						} catch(e) {}
     						polyline.setStyle({"fill": false});
@@ -693,7 +749,7 @@ function mapTiddler(self, place, layer=null){
 
     						polygon.setStyle(style);
     						try {
-    							if (self.additionalStyle) additionalStyle = JSON.parse(fields[self.additionalStyle]);
+    							if (additionalStyleField) additionalStyle = JSON.parse(fields[additionalStyleField]);
     							polygon.setStyle(additionalStyle);
     						} catch(e) {}
     						clickAndHoverBehavior(polygon);
@@ -764,6 +820,9 @@ FantasyMapWidget.prototype.refresh = function(changedTiddlers) {
         if (this.getAttribute("markerRefresh", false)=="yes"){
             addTopMarkers(this);
         }
+    }
+    if (changedAttributes["polmap"]){
+        showPolMap(this);
     }
     if(changedAttributes["filter"] || changedAttributes["width"] || changedAttributes["height"]) {
         this.refreshSelf();
