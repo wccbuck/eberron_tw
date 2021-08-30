@@ -74,7 +74,6 @@ FantasyMapWidget.prototype.initMap = function() {
 
     var self = this;
 
-    self.wiki.deleteTiddler("$:/FlyLocation");
     self.wiki.deleteTiddler("$:/DrawMeasurement");
     self.wiki.deleteTiddler("$:/DrawMeasurementLabel");
     self.wiki.deleteTiddler("$:/DrawPoints");
@@ -300,10 +299,6 @@ FantasyMapWidget.prototype.execute = function() {
     // show political map if enabled
     showPolMap(this);
 
-    // fly to location if set
-    if (this.getAttribute("fly", false)=="yes"){
-        fly(this);
-    }
 	// fit bounds
 	var boundsString = self.wiki.getTiddlerText("$:/MapBounds");
 	if (!boundsString){
@@ -416,6 +411,11 @@ FantasyMapWidget.prototype.execute = function() {
 
 	self.map.fire('zoomend') //trigger filtering
 
+    // fly to location if set
+    if (self.getAttribute("fly", false)=="yes"){
+        fly(self);
+    }
+
     self.map.on(L.Draw.Event.DRAWSTART, function(event) {
         self.drawnItems.clearLayers();
         self.wiki.deleteTiddler("$:/DrawMeasurement");
@@ -462,11 +462,12 @@ FantasyMapWidget.prototype.execute = function() {
 
 function fly(self){
     try {
-        var flyString = self.wiki.getTiddlerText("$:/FlyLocation").trim();
+        var flyString = self.wiki.getTiddlerText("$:/FlyLocation");
         var fields = self.wiki.getTiddler("$:/FlyLocation").fields;
         self.fmwvar = fields.fmwvar;
 
         if (flyString) {
+            flyString = flyString.trim();
             var flySplit = flyString.split(/[\#\|\s]+/);
             if (flySplit.length>1){
                 var shapes = flyString.split(/[\#\|]+/);
