@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20210829225140100
+modified: 20210830023300791
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -362,4 +362,20 @@ input.cs-newsegments {
 	background-repeat: no-repeat;
 	background-size: 25px 25px;
 	background-clip: padding-box;
+}
+
+.masoch-white {
+    font-family: 'masoch-dirach'; font-variant: small-caps; font-weight:500;
+	font-size: 1.2em;
+    color: white;
+    fill: white;
+    text-shadow:
+    -1px -1px 0 #000,
+     0   -1px 0 #000,
+     1px -1px 0 #000,
+     1px  0   0 #000,
+     1px  1px 0 #000,
+     0    1px 0 #000,
+    -1px  1px 0 #000,
+    -1px  0   0 #000;
 }

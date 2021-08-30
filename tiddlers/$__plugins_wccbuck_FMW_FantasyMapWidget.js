@@ -299,7 +299,11 @@ FantasyMapWidget.prototype.execute = function() {
 
     // show political map if enabled
     showPolMap(this);
-    
+
+    // fly to location if set
+    if (this.getAttribute("fly", false)=="yes"){
+        fly(this);
+    }
 	// fit bounds
 	var boundsString = self.wiki.getTiddlerText("$:/MapBounds");
 	if (!boundsString){

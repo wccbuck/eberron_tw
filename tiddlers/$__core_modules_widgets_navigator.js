@@ -95,7 +95,7 @@ NavigatorWidget.prototype.saveStoryList = function(storyList) {
 			{title: this.storyTitle},
 			storyTiddler,
 			{list: storyList}
-		));		
+		));
 	}
 };
 
@@ -105,7 +105,7 @@ NavigatorWidget.prototype.removeTitleFromStory = function(storyList,title) {
 		while(p !== -1) {
 			storyList.splice(p,1);
 			p = storyList.indexOf(title);
-		}		
+		}
 	}
 };
 
@@ -122,7 +122,7 @@ NavigatorWidget.prototype.replaceFirstTitleInStory = function(storyList,oldTitle
 			} while(pos !== -1);
 		} else {
 			storyList.splice(0,0,newTitle);
-		}		
+		}
 	}
 };
 
@@ -162,14 +162,18 @@ NavigatorWidget.prototype.handleNavigateEvent = function(event) {
 
 // Close a specified tiddler
 NavigatorWidget.prototype.handleCloseTiddlerEvent = function(event) {
+	var self = this;
 	var title = event.param || event.tiddlerTitle,
 		storyList = this.getStoryList();
 	// Look for tiddlers with this title to close
 	this.removeTitleFromStory(storyList,title);
 	this.saveStoryList(storyList);
     if (title == this.navigateTo && this.navigateFromNode){
+		var duration = parseInt(this.wiki.getTiddlerText("$:/config/AnimationDuration"))/2 || 200;
         try{
-		    this.navigateFromNode.domNodes[0].scrollIntoView({behavior: "smooth", block: "center"});
+		    setTimeout(function() {
+				self.navigateFromNode.domNodes[0].scrollIntoView({behavior: "smooth", block: "center"});
+			}, duration);
         } catch { }
 	}
 	return false;
@@ -543,7 +547,7 @@ NavigatorWidget.prototype.handleImportTiddlersEvent = function(event) {
 	newFields.text = JSON.stringify(importData,null,$tw.config.preferences.jsonSpaces);
 	this.wiki.addTiddler(new $tw.Tiddler(importTiddler,newFields));
 	// Update the story and history details
-	var autoOpenOnImport = event.autoOpenOnImport ? event.autoOpenOnImport : this.getVariable("tv-auto-open-on-import");  
+	var autoOpenOnImport = event.autoOpenOnImport ? event.autoOpenOnImport : this.getVariable("tv-auto-open-on-import");
 	if(autoOpenOnImport !== "no") {
 		var storyList = this.getStoryList(),
 			history = [];
