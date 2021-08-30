@@ -170,11 +170,11 @@ NavigatorWidget.prototype.handleCloseTiddlerEvent = function(event) {
 	this.saveStoryList(storyList);
     if (title == this.navigateTo && this.navigateFromNode){
 		var duration = parseInt(this.wiki.getTiddlerText("$:/config/AnimationDuration"))/2 || 200;
-        try{
-		    setTimeout(function() {
+	    setTimeout(function() {
+			try {
 				self.navigateFromNode.domNodes[0].scrollIntoView({behavior: "smooth", block: "center"});
-			}, duration);
-        } catch { }
+			} catch {}
+		}, duration);
 	}
 	return false;
 };
