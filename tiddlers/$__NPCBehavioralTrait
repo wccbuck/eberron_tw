@@ -57,9 +57,9 @@
 57: Scared of the sea
 58: Scared of being poisoned
 59: Scared of spiders
-60: Scared of elves and half-elves
-61: Scared of orcs and half-orcs
-62: Scared of goblinoids
+60: Scared of [[elves|elf]] and [[half-elves|half-elf]]
+61: Scared of [[orc]]s and [[half-orc]]s
+62: Scared of [[goblinoid]]s
 63: Scared of magic
 64: Scared of the government
 65: Germophobic
@@ -74,20 +74,20 @@
 74: Hates artists
 75: Loves high-society
 76: Hates snobs
-77: Loves psychoactive drugs
+77: Loves psychoactive [[drug]]s
 78: Loves violence
 79: Loves cleaning
 80: Disgusted by violence
 81: Loves dirty jokes
 82: Hates being touched
-83: Fascinated by goblinoids
-84: Fascinated by dragons
-85: Fascinated by orc history
-86: Fascinated by fiends
-87: Fascinated by celestials
-88: Fascinated by elementals
-89: Fascinated by giants
-90: Fascinated by another plane(s)
+83: Fascinated by [[goblinoid]]s
+84: Fascinated by [[dragon]]s
+85: Fascinated by [[orc]] history
+86: Fascinated by [[fiend]]s
+87: Fascinated by [[celestial]]s
+88: Fascinated by [[elemental]]s
+89: Fascinated by [[giant]]s
+90: Fascinated by another [[plane]](s)
 91: Wants to become an accountant
 92: Wants to become a street performer
 93: Wants to become an actor
@@ -103,7 +103,7 @@
 103: Wants to become a firefighter
 104: Wants to become a hermit
 105: Wants to become a politician
-106: Wants to become a wizard
+106: Wants to become a [[wizard]]
 107: Wants to become a noble
 108: Happy because they recently made a great deal
 109: Happy because they recently got a kiss
@@ -195,7 +195,7 @@
 195: Tends to be ignored
 196: Makes their own clothes
 197: Meditates daily
-198: Fascinated by the fey
+198: Fascinated by the [[fey]]
 199: Loves pearls
 200: Believes they are of celestial origin
 201: Always looking for a challenge
@@ -205,15 +205,15 @@
 205: Only drinks expensive wine
 206: Hates sunlight
 207: Always getting into fights
-208: Pretends to be knowledgable about the economy
-209: Pretends to be knowledgable about the arcane
+208: Pretends to be knowledgeable about the economy
+209: Pretends to be knowledgeable about the arcane
 210: Loves taxidermy
-211: Having a crisis of faith
+211: Having a crisis of [[faith|religion]]
 212: Gets stomachaches frequently
 213: Claims to be distant royalty
 214: Has multiple lovers
 215: Believes the end of the world is soon
-216: Doesn't believe dragons are real
+216: Doesn't believe [[dragon]]s are real
 217: Hates talking about the past
 218: Extremely defensive
 219: Panics when asked for any information
@@ -256,3 +256,4 @@
 256: Avoids eye contact
 257: Overly melodramatic
 258: Highly skeptical of everything
+259: Fascinated by [[warforged]]
