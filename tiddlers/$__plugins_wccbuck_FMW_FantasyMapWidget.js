@@ -647,21 +647,24 @@ function mapTiddler(self, place, layer=null, additionalStyleField=null){
 		function clickAndHoverBehavior(element, isMarker=false){
 
 			if (linkto) {
-				var tt = element.bindTooltip(objTitle, {sticky: true});
+				element.bindTooltip(objTitle, {sticky: true});
 
 				if (isTouchDevice()){
-                    var ttElement = tt.getElement();
-                    ttElement.style.pointerEvents = 'auto';
-                    ttElement.addEventListener('click', function() {
-                        var story = new $tw.Story();
-						story.navigateTiddler(linkto);
-                    });
+                    
 					element.on('click', function() {
 						if (objTitle == self.focus) {
 							var story = new $tw.Story();
 							story.navigateTiddler(linkto);
 						} else {
 							self.focus = objTitle;
+                            var tt = element.getTooltip().getElement();
+                            if(tt) {
+                                tt.style.pointerEvents = 'auto';
+                                tt.addEventListener('click', function() {
+                                    var story = new $tw.Story();
+	         		                story.navigateTiddler(linkto);
+                                });
+                            }
 						}
 					});
 				} else {
