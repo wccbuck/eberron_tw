@@ -1,5 +1,5 @@
 created: 20210715234357438
-modified: 20210821233454184
+modified: 20210901200508706
 tags: 
 title: Readme
 type: text/vnd.tiddlywiki
@@ -46,6 +46,7 @@ And check out the github: [[https://github.com/wccbuck/eberron_tw/]]
 
 I've made quite a few random generators for this tool. Here are a few of my favorites:
 
+* [[NPC appearance and personality generator]]
 * [[trinket]]
 * [[point-and-hope gauntlets]]
 * [[bag of surprises]]

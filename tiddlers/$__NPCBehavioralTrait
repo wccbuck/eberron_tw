@@ -1,0 +1,258 @@
+1: Hates humans
+2: Hates [[halfling]]s
+3: Hates [[elves|elf]]
+4: Hates [[dwarves|dwarf]]
+5: Hates [[warforged]]
+6: Hates [[shifter]]s
+7: Hates [[orc]]s / [[half-orc]]s
+8: Hates [[gnome]]s
+9: Hates [[changeling]]s
+10: Hates [[goblinoid]]s
+11: Hates non-humans
+12: Loves sports
+13: Loves fishing
+14: Loves food
+15: Loves drinking
+16: Loves smoking
+17: Loves reading smut
+18: Loves reading literature
+19: Loves philosophy
+20: Loves board games
+21: Loves gossip
+22: Loves children
+23: Loves old people
+24: Loves nature
+25: Loves big city life
+26: Loves fashion
+27: Loves hot weather
+28: Loves cold weather
+29: Hates local cuisine
+30: Hates crowds
+31: Loves solitude
+32: Hates those who take drugs
+33: Hates prostitutes
+34: Hates beggars
+35: Hates the guards
+36: Loves thunderstorms
+37: Hates religion
+38: Hates the government
+39: Loves chocolate
+40: Loves pastries
+41: Hates their neighbor
+42: Always seems angry
+43: Always seems happy
+44: Always seems sad
+45: Always seems bored
+46: Hates tourists
+47: Helps the poor
+48: Loves festivals
+49: Hates festivals
+50: Scared of dogs
+51: Scared of thunderstorms
+52: Scared of the dark
+53: Scared of the gods
+54: Scared of solitude
+55: Scared of knives
+56: Scared of birds
+57: Scared of the sea
+58: Scared of being poisoned
+59: Scared of spiders
+60: Scared of elves and half-elves
+61: Scared of orcs and half-orcs
+62: Scared of goblinoids
+63: Scared of magic
+64: Scared of the government
+65: Germophobic
+66: Loves singing
+67: Hates music
+68: Hates jokes
+69: Loves sleeping
+70: Loves gold
+71: Loves cheap jewelry
+72: Loves partying
+73: Loves art
+74: Hates artists
+75: Loves high-society
+76: Hates snobs
+77: Loves psychoactive drugs
+78: Loves violence
+79: Loves cleaning
+80: Disgusted by violence
+81: Loves dirty jokes
+82: Hates being touched
+83: Fascinated by goblinoids
+84: Fascinated by dragons
+85: Fascinated by orc history
+86: Fascinated by fiends
+87: Fascinated by celestials
+88: Fascinated by elementals
+89: Fascinated by giants
+90: Fascinated by another plane(s)
+91: Wants to become an accountant
+92: Wants to become a street performer
+93: Wants to become an actor
+94: Wants to become a famous musician
+95: Wants to become an artist
+96: Wants to become a professional fighter
+97: Wants to become an adventurer
+98: Wants to become a prostitute
+99: Wants to become a guard
+100: Wants to become a farmer
+101: Wants to become a monk or priest
+102: Wants to become a sailor
+103: Wants to become a firefighter
+104: Wants to become a hermit
+105: Wants to become a politician
+106: Wants to become a wizard
+107: Wants to become a noble
+108: Happy because they recently made a great deal
+109: Happy because they recently got a kiss
+110: Happy because they recently received a gift
+111: Happy because of the weather
+112: Happy because they won a game of chance
+113: Happy because of a recent dream
+114: Happy because their friend was successful
+115: Wants to go on a pilgrimage
+116: Sad because of a recent dream
+117: Sad because there is no food at home
+118: Sad because their parent recently died
+119: Sad because their favorite artist recently died
+120: Sad because their favorite tool recently broke
+121: Sad because their pet recently ran away
+122: Today is their birthday
+123: Cracks their neck constantly
+124: Cracks their fingers constantly
+125: Blinks a lot
+126: Sneezes a lot
+127: Burps a lot
+128: Has trouble sleeping
+129: Loves lying about trivial things
+130: Loves flexing or showing off their six pack
+131: Loves flirting
+132: Loves carrots
+133: Loves playing with dolls
+134: Boasts about romantic conquests
+135: Loves themself
+136: Faints at the sight of blood
+137: Wants to get some kind of permanent [[cosmetic transmutation]]
+138: Hates games
+139: Enjoys randomly touching people in crowds
+140: Has made a vow of silence
+141: Searches through the neighbors' trash
+142: Really needs to urinate, right now
+143: A little drunk
+144: Hates the color red
+145: Wants the war to start again
+146: Worships a barnyard animal
+147: Prays for infinite life
+148: Squints a lot
+149: Searching for a missing trinket
+150: Currently hungry
+151: Currently thirsty
+152: Clumsy
+153: Boring
+154: Moves and speaks slowly
+155: Moves and speaks rapidly
+156: Relaxed
+157: Graceful
+158: Always sees the worst in every situation
+159: Fiddles with their clothing
+160: Chews on licorice or gum
+161: Taps on the table or wall
+162: Bites their fingernails
+163: Wears a wig
+164: Wears fake facial hair
+165: Thinks they are very smart
+166: Thinks they are very attractive
+167: Wants everyone to like them
+168: Exploits their family
+169: Very ticklish
+170: Very sensitive
+171: Corrects any grammatical error
+172: Spits while talking
+173: Sniffles constantly
+174: Scratches themself constantly
+175: Picks their nose blatantly
+176: Has a headache
+177: Has a toothache
+178: Has a sore throat
+179: Walks into furniture frequently
+180: Lies about their age to an absurd degree
+181: Plays with their hair
+182: Very shy
+183: Touches their belly frequently
+184: Touches their face frequently
+185: Recently came into wealth
+186: Squeaks when laughing
+187: Randomly falls asleep mid-sentence
+188: Never changes their facial expression
+189: Very short-sighted
+190: Can't smell anything
+191: Sings about what's currently happening
+192: Loves to twirl
+193: Knows very little about culture
+194: Attracts flies
+195: Tends to be ignored
+196: Makes their own clothes
+197: Meditates daily
+198: Fascinated by the fey
+199: Loves pearls
+200: Believes they are of celestial origin
+201: Always looking for a challenge
+202: Never wears shoes
+203: Boasts about their family
+204: Wants to be friends with everyone
+205: Only drinks expensive wine
+206: Hates sunlight
+207: Always getting into fights
+208: Pretends to be knowledgable about the economy
+209: Pretends to be knowledgable about the arcane
+210: Loves taxidermy
+211: Having a crisis of faith
+212: Gets stomachaches frequently
+213: Claims to be distant royalty
+214: Has multiple lovers
+215: Believes the end of the world is soon
+216: Doesn't believe dragons are real
+217: Hates talking about the past
+218: Extremely defensive
+219: Panics when asked for any information
+220: Gives an opinion on everything
+221: Changes their opinion all the time
+222: Never remembers a face
+223: Doesn't know what they are doing here
+224: Chooses random syllables to accentuate
+225: Interrupts constantly
+226: Quietly counts down from ten
+227: Forgets what they are talking about frequently
+228: Counts all people in sight
+229: Mispronounces their own name
+230: Frequently spaces out
+231: Talks about their mother
+232: Thinks everyone is out to get them
+233: Tries, and fails, to whistle
+234: Thinks they are dreaming now
+235: Yawns frequently
+236: Never laughs
+237: Exaggerates everything
+238: Mispronounces words
+239: Misuses words
+240: Stutters
+241: Speaks about themself in 3rd person
+242: Ends all sentences with inflection?
+243: Uses unnecessarily big words
+244: Doesn't talk much
+245: Makes noises like "Pow!" or "Wham!"
+246: Randomly laughs to themself
+247: Laughs involuntarily before talking
+248: Mumbles
+249: Uses colorful swears and exclamations
+250: Protective of a valuable possession
+251: Protective of colleagues or compatriots
+252: Flips a coin
+253: Gullible
+254: Short temper
+255: Paces the room
+256: Avoids eye contact
+257: Overly melodramatic
+258: Highly skeptical of everything

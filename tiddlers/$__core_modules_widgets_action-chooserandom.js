@@ -54,6 +54,10 @@ Compute the internal state of the widget
 */
 ChooseRandomWidget.prototype.execute = function() {
 	this.actionFilter = this.getAttribute("$filter","[is[tiddler]]" );
+    var append = this.getAttribute("$append");
+    if(append){
+        this.actionFilter = this.actionFilter + " +[remove["+append+"]]";
+    }
 	this.actionTiddler = this.getAttribute("$tiddler",this.getVariable("currentTiddler"));
 	this.actionField = this.getAttribute("$field","text");
 	this.actionIndex = this.getAttribute("$index");
@@ -93,7 +97,19 @@ ChooseRandomWidget.prototype.execute = function() {
 			shuffleArray(tiddlers);
 		}
 		numpicks--;}
-	this.actionValue = "";
+	this.actionValue = append; //space-separated starting list
+    if(this.actionValue){
+        this.actionValue = this.actionValue+" ";
+    } else {
+        this.actionValue = "";
+    }
+    var remove = this.getAttribute("$remove");
+    var endString = "";
+    if(remove){
+        var avSplit = (" "+this.actionValue).split(" "+remove+" ");
+        this.actionValue = (avSplit[0]+" ").trimStart();
+        endString = avSplit[1];
+    }
 	picks.forEach((pick) => {
 		var tid = pick;
 		if(dataTiddler !="false"){
@@ -112,7 +128,7 @@ ChooseRandomWidget.prototype.execute = function() {
 			this.actionValue += tid +" "; break;
 		}
 	})
-	this.actionValue = this.actionValue.trim();
+	this.actionValue = (this.actionValue + endString).trim();
 	if(opt=="comma"){
 		this.actionValue = this.actionValue.replace(/###/g,", ").slice(0,-2);}
 

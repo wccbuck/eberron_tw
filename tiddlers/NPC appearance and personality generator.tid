@@ -1,0 +1,107 @@
+category: game mechanics
+created: 20210901153741376
+modified: 20210901202759215
+tags: 
+title: NPC appearance and personality generator
+type: text/vnd.tiddlywiki
+var1: 97 79
+var2: 239 77
+var3: 27
+var4: 30
+
+<$button><$action-chooserandom $field="var1" $filter="[[$:/NPCPhysicalTrait]indexes[]]" $number="2" $unique="true"/><$action-chooserandom $field="var2" $filter="[[$:/NPCBehavioralTrait]indexes[]]" $number="2" $unique="true"/><$action-chooserandom $field="var3" $filter="[[$:/NPCCalmTrait]indexes[]]"/><$action-chooserandom $field="var4" $filter="[[$:/NPCStressedTrait]indexes[]]"/>Generate All</$button>
+
+<div>
+<div class="cs-row">
+<div class="cs-column" style="justify-content: flex-start; margin: 0px 2px 0px 2px;">
+<table class="manager-table">
+  <tr><th>Notable Physical Traits</th></tr>
+  <$list filter="[list[!!var1]]" variable="traitindex">
+  <tr>
+    <td>
+<div style="display:inline-block;vertical-align:middle;width:100%;">
+<div style="float:left;"><$transclude tiddler="$:/NPCPhysicalTrait" index=<<traitindex>>/></div>
+<div style="float:right;">
+<$button class="tc-btn-invisible" tooltip="Refresh"><$action-chooserandom $field="var1" $filter="[[$:/NPCPhysicalTrait]indexes[]]" $append={{!!var1}} $remove=<<traitindex>>/>{{$:/core/images/refresh-button}}</$button>
+<$button class="tc-btn-invisible" tooltip="Remove"><$action-listops $field="var1" $subfilter="+[remove<traitindex>]"/>{{$:/core/images/delete-button}}</$button>
+</div>
+</div>
+    </td>
+  </tr>
+  </$list>
+  <tr>
+    <td align="center"><$button style="margin: 2px;"><$action-chooserandom $field="var1" $filter="[[$:/NPCPhysicalTrait]indexes[]]" $append={{!!var1}}/>Add Another</$button></td>
+  </tr>
+</table>
+</div>
+<div class="cs-column" style="justify-content: flex-start; margin: 0px 2px 0px 2px;">
+<table class="manager-table">
+  <tr><th>Notable Personality/Behavioral Traits</th></tr>
+   <$list filter="[list[!!var2]]" variable="traitindex">
+  <tr>
+    <td>
+<div style="display:inline-block;vertical-align:middle;width:100%;">
+<div style="float:left;"><$transclude tiddler="$:/NPCBehavioralTrait" index=<<traitindex>>/></div>
+<div style="float:right;">
+<$button class="tc-btn-invisible" tooltip="Refresh"><$action-chooserandom $field="var2" $filter="[[$:/NPCBehavioralTrait]indexes[]]" $append={{!!var2}} $remove=<<traitindex>>/>{{$:/core/images/refresh-button}}</$button>
+<$button class="tc-btn-invisible" tooltip="Remove"><$action-listops $field="var2" $subfilter="+[remove<traitindex>]"/>{{$:/core/images/delete-button}}</$button>
+</div>
+</div>
+    </td>
+  </tr>
+  </$list>
+  <tr>
+    <td align="center"><$button style="margin: 2px;"><$action-chooserandom $field="var2" $filter="[[$:/NPCBehavioralTrait]indexes[]]" $append={{!!var2}}/>Add Another</$button></td>
+  </tr>
+</table>
+</div>
+</div>
+<div class="cs-row">
+<div class="cs-column" style="justify-content: flex-start; margin: 0px 2px 0px 2px;">
+<table class="manager-table">
+  <tr><th>When calm, this person is...</th></tr>
+   <$list filter="[list[!!var3]]" variable="traitindex">
+  <tr>
+    <td>
+<div style="display:inline-block;vertical-align:middle;width:100%;">
+<div style="float:left;"><$transclude tiddler="$:/NPCCalmTrait" index=<<traitindex>>/></div>
+<div style="float:right;">
+<$button class="tc-btn-invisible" tooltip="Refresh"><$action-chooserandom $field="var3" $filter="[[$:/NPCCalmTrait]indexes[]]" $append={{!!var3}} $remove=<<traitindex>>/>{{$:/core/images/refresh-button}}</$button>
+<$button class="tc-btn-invisible" tooltip="Remove"><$action-listops $field="var3" $subfilter="+[remove<traitindex>]"/>{{$:/core/images/delete-button}}</$button>
+</div>
+</div>
+    </td>
+  </tr>
+  </$list>
+  <tr>
+    <td align="center"><$button style="margin: 2px;"><$action-chooserandom $field="var3" $filter="[[$:/NPCCalmTrait]indexes[]]" $append={{!!var3}}/>Add Another</$button></td>
+  </tr>
+</table>
+</div>
+<div class="cs-column" style="justify-content: flex-start; margin: 0px 2px 0px 2px;">
+<table class="manager-table">
+  <tr><th>When stressed, this person becomes...</th></tr>
+   <$list filter="[list[!!var4]]" variable="traitindex">
+  <tr>
+    <td>
+<div style="display:inline-block;vertical-align:middle;width:100%;">
+<div style="float:left;"><$transclude tiddler="$:/NPCStressedTrait" index=<<traitindex>>/></div>
+<div style="float:right;">
+<$button class="tc-btn-invisible" tooltip="Refresh"><$action-chooserandom $field="var4" $filter="[[$:/NPCStressedTrait]indexes[]]" $append={{!!var4}} $remove=<<traitindex>>/>{{$:/core/images/refresh-button}}</$button>
+<$button class="tc-btn-invisible" tooltip="Remove"><$action-listops $field="var4" $subfilter="+[remove<traitindex>]"/>{{$:/core/images/delete-button}}</$button>
+</div>
+</div>
+    </td>
+  </tr>
+  </$list>
+  <tr>
+    <td align="center"><$button style="margin: 2px;"><$action-chooserandom $field="var4" $filter="[[$:/NPCStressedTrait]indexes[]]" $append={{!!var4}}/>Add Another</$button></td>
+  </tr>
+</table>
+</div>
+</div>
+</div>
+
+
+
+Inspired by the [[BehindTheTable NPC Traits tables|https://drive.google.com/file/d/0B_vatXlRE-gvYVQ1RjRublI0c1k/view?resourcekey=0-QpUzLsGhgi5B9D39l6Pu6Q]] and [[DMHeroes|http://www.dmheroes.com/]].
