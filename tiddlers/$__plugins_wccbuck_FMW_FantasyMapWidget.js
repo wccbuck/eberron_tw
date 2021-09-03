@@ -657,14 +657,6 @@ function mapTiddler(self, place, layer=null, additionalStyleField=null){
 							story.navigateTiddler(linkto);
 						} else {
 							self.focus = objTitle;
-                            var tt = element.getTooltip().getElement();
-                            if(tt) {
-                                tt.style.pointerEvents = 'auto';
-                                tt.addEventListener('click', function() {
-                                    var story = new $tw.Story();
-	         		                story.navigateTiddler(linkto);
-                                });
-                            }
 						}
 					});
 				} else {

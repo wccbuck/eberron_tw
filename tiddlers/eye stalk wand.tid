@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20210903200251142
+modified: 20210903200907767
+rarity: 4
+tags: [[magical implement]]
+title: eye stalk wand
+type: text/vnd.tiddlywiki
+
+This wand, made from the eye stalk of a [[beholder]], has 5 charges. While holding this wand, you may shoot a magical ray of energy at a target within 120 feet of you. The type of ray depends on the type of beholder eye stalk that the wand was crafted from. The effect duplicates that of one of the following spells: [[confusion]], [[slow]], [[hold]] (rare tier), [[charm]] (rare tier), [[fear]], [[enervation]], [[sleep]], [[flesh to stone]] (target has advantage to resist), or [[disintegrate]].
+
+This wand recovers <<dr 1d4>> charges each dawn. When you use the last charge of the wand, there is a chance that it crumbles into ashes and is destroyed. 
+
+See also [[lesser eye stalk wand]].
