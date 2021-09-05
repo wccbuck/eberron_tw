@@ -2,7 +2,7 @@ category: location
 color: #3B5C0A
 created: 20210127194335191
 modified: 20210727191953720
-polygons: 5.98,194.02 6.11,194.43 5.94,194.81 5.87,195.17 5.49,195.56 5.3,195.86 5.04,195.89 5.19,196.14 5.35,196.73 5.56,197.61 5.4,198.08 5.29,198.56 5.07,198.79 4.72,198.54 4.41,198.33 3.99,198.0 3.6,198.14 3.25,198.37 2.93,198.27 2.61,197.88 2.43,197.61 2.61,197.29 2.87,197.02 3.42,196.65 3.94,196.57 4.06,196.24 3.89,195.79 3.94,195.4 4.29,195.19 4.94,195.06 5.28,194.51 5.67,194.21
+polygons: 5.52,194.02 5.64,194.43 5.483,194.81 5.418,195.17 5.068,195.56 4.892,195.86 4.652,195.89 4.791,196.14 4.938,196.73 5.132,197.61 4.985,198.08 4.883,198.56 4.68,198.79 4.357,198.54 4.071,198.33 3.683,198.0 3.323,198.14 3.0,198.37 2.705,198.27 2.409,197.88 2.243,197.61 2.409,197.29 2.649,197.02 3.157,196.65 3.637,196.57 3.748,196.24 3.591,195.79 3.637,195.4 3.96,195.19 4.56,195.06 4.874,194.51 5.234,194.21
 style: {"color":"#333C1A","fillColor":"#66883F","fillOpacity":"0.8"}
 tags: dungeon [[manifest zone]] Adar geography Sarlona
 title: Ahdryatmin
@@ -28,7 +28,7 @@ a [[spirit of the land]], is usually found only on Lamannia. The spirit Ahdryatm
 is as old as [[Adar]], and many believe it to be connected to the
 [[Draconic Prophecy]]. It often tests those who visit it, invisibly controlling the weather and the ground, and sending denizens of the [[manifest zone]] to meet and foil travelers.
 Those Haztaratains who leave Mountainsoul alive are
-seen as the chosen of Ahdryatmin. 
+seen as the chosen of Ahdryatmin.
 
 !! Encounters
 
@@ -41,4 +41,4 @@ Items that are scarce in the outside world can be found in
 relative abundance in Ahdryatmin by those who know where
 to look. Reward adventurous PCs with rare [[material]]s such exotic
 herbs, valuable ores, and unusual spell components. Many such objects
-might be valuable in the various keeps of [[Adar]]. 
+might be valuable in the various keeps of [[Adar]].

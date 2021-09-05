@@ -2,7 +2,7 @@ category: location
 color: #3B5C0A
 created: 20210222010408374
 modified: 20210727192036977
-polygons: 20.15,40.49 20.54,40.54 20.6,39.98 20.15,39.61 19.71,39.51 19.36,39.88 19.54,40.27 20.15,40.49
+polygons: 18.6,40.49 18.96,40.54 19.015,39.98 18.6,39.61 18.194,39.51 17.871,39.88 18.037,40.27 18.6,40.49
 style: {"fillOpacity":"0","opacity":"0"}
 tags: island Aerenal
 title: Thalann Gol

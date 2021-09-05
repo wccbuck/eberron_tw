@@ -103,11 +103,11 @@ L.drawLocal = {
 L.LatLng.prototype.distanceTo = function(otherLatLng){
 
 	lat1 = this.lat;
-	lat1 = Math.asin(lat1/78.0);
+	lat1 = Math.asin(lat1/72.0);
 	lng1 = this.lng;
 
 	lat2 = otherLatLng.lat;
-	lat2 = Math.asin(lat2/78.0);
+	lat2 = Math.asin(lat2/72.0);
 	lng2 = otherLatLng.lng;
 
 	const dLat = (lat2-lat1);
@@ -700,9 +700,9 @@ L.Draw.Tooltip = L.Class.extend({
 				for (var i = 0; i < pointsCount; i++) {
 					console.log(latLngs[i])
 					p1 = latLngs[i];
-					var p1lat = Math.asin(p1.lat/78.0);
+					var p1lat = Math.asin(p1.lat/72.0);
 					p2 = latLngs[(i + 1) % pointsCount];
-					var p2lat = Math.asin(p2.lat/78.0);
+					var p2lat = Math.asin(p2.lat/72.0);
 					area += ((p2.lng - p1.lng) * d2r) *
 						(2 + Math.sin(p1lat) + Math.sin(p2lat));
 				}

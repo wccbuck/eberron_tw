@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210201222114248",
-        "title": "Lake of Fire",
-        "text": "The [[Demon Wastes]] linger under a pall cast by\nthe numerous volcanoes rising from the heart of\nthis blighted realm. Spewing clouds of ash and toxic\nsmoke, the volcanoes of the Wastes cover the land in\nrivers of lava that consume everything in their path.\nThe Lake of Fire is an ancient peak southwest of the\n[[Labyrinth]], and the site of one of the largest of the\nWastes’ volcanoes. Some say that the vast expanse\nof lava within the bowl of the mountain imprisons\na terrible [[fiend]], perhaps one of the [[overlord]]s.\nOthers hold that ancient heroes once ventured here\nto cast dangerous artifacts into the furnace of molten\nrock. \n\nThe Lake of Fire attracts [[demon]]s, fiendish cults,\nand the deadlier [[Carrion Tribes]] to its shores—all\npaying homage here to their dreadful masters. Whether or not the stories of bound [[overlord]]s and sunken relics are true, a fiery magic permeates the crater, and [[sorcerer]]s and [[wizard]]s who travel to the lake\ncan draw on its power to perform astonishing feats of\n[[evocation]].",
-        "modified": "20210727192018132",
-        "tags": "[[Demon Wastes]] Khorvaire lava",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polygons": "51.5,-38.02 51.6,-38.09 51.74,-37.99 51.81,-37.76 51.75,-37.63 51.6,-37.62 51.51,-37.79",
-        "style": "{\"color\":\"#B82D14\",\"fillColor\":\"#B82D14\",\"fillOpacity\":\"0.5\"}"
-    }
-]
+{"created": "20210201222114248", "title": "Lake of Fire", "text": "The [[Demon Wastes]] linger under a pall cast by\nthe numerous volcanoes rising from the heart of\nthis blighted realm. Spewing clouds of ash and toxic\nsmoke, the volcanoes of the Wastes cover the land in\nrivers of lava that consume everything in their path.\nThe Lake of Fire is an ancient peak southwest of the\n[[Labyrinth]], and the site of one of the largest of the\nWastes\u2019 volcanoes. Some say that the vast expanse\nof lava within the bowl of the mountain imprisons\na terrible [[fiend]], perhaps one of the [[overlord]]s.\nOthers hold that ancient heroes once ventured here\nto cast dangerous artifacts into the furnace of molten\nrock. \n\nThe Lake of Fire attracts [[demon]]s, fiendish cults,\nand the deadlier [[Carrion Tribes]] to its shores\u2014all\npaying homage here to their dreadful masters. Whether or not the stories of bound [[overlord]]s and sunken relics are true, a fiery magic permeates the crater, and [[sorcerer]]s and [[wizard]]s who travel to the lake\ncan draw on its power to perform astonishing feats of\n[[evocation]].", "modified": "20210727192018132", "tags": "[[Demon Wastes]] Khorvaire lava", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "47.538,-38.02 47.631,-38.09 47.76,-37.99 47.825,-37.76 47.769,-37.63 47.631,-37.62 47.548,-37.79", "style": "{\"color\":\"#B82D14\",\"fillColor\":\"#B82D14\",\"fillOpacity\":\"0.5\"}"}

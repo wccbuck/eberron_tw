@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210130235826119",
-        "title": "Starpeaks",
-        "text": "The Starpeaks are a mountain chain in northern [[Aundair]], best known as the location of the Starpeaks Observatory. \n\n!! Starpeaks Observatory\n\nLocated high in the mountains, the Starpeaks Observatory was constructed in [[512 YK|Modern Age]] by King Daroon of [[Galifar]]. Daroon became fascinated with the practice of\ncharting the moons and stars, especially with the idea\nthat these charts could provide signs and portents for the\nfuture. He had the observatory built, but he died before\nconstruction was completed. \n\nThe [[Arcane Congress]] recently claimed the Starpeaks Observatory. The complex had\nbeen abandoned for centuries, and observers wonder about the Arcane Congress’s sudden interest in the ancient structure and its view of the heavens. The observatory is maintained by the [[Keepers of Aureon's Veil]].",
-        "modified": "20210727192034240",
-        "tags": "mountains Aundair Khorvaire",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polygons": "54.46,-6.67 54.63,-6.73 54.83,-6.68 54.99,-6.43 55.28,-6.27 55.4,-6.03 55.53,-5.72 55.44,-5.44 55.46,-5.12 55.5,-4.81 55.46,-4.44 55.45,-4.12 55.32,-3.87 55.2,-3.57 54.96,-3.61 54.77,-3.73 54.55,-3.98 54.37,-4.19 54.32,-4.4 54.4,-4.76 54.47,-5.12 54.54,-5.45 54.5,-5.8 54.42,-6.21",
-        "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}"
-    }
-]
+{"created": "20210130235826119", "title": "Starpeaks", "text": "The Starpeaks are a mountain chain in northern [[Aundair]], best known as the location of the Starpeaks Observatory. \n\n!! Starpeaks Observatory\n\nLocated high in the mountains, the Starpeaks Observatory was constructed in [[512 YK|Modern Age]] by King Daroon of [[Galifar]]. Daroon became fascinated with the practice of\ncharting the moons and stars, especially with the idea\nthat these charts could provide signs and portents for the\nfuture. He had the observatory built, but he died before\nconstruction was completed. \n\nThe [[Arcane Congress]] recently claimed the Starpeaks Observatory. The complex had\nbeen abandoned for centuries, and observers wonder about the Arcane Congress\u2019s sudden interest in the ancient structure and its view of the heavens. The observatory is maintained by the [[Keepers of Aureon's Veil]].", "modified": "20210727192034240", "tags": "mountains Aundair Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "50.271,-6.67 50.428,-6.73 50.612,-6.68 50.76,-6.43 51.028,-6.27 51.138,-6.03 51.258,-5.72 51.175,-5.44 51.194,-5.12 51.231,-4.81 51.194,-4.44 51.185,-4.12 51.065,-3.87 50.954,-3.57 50.732,-3.61 50.557,-3.73 50.354,-3.98 50.188,-4.19 50.142,-4.4 50.215,-4.76 50.28,-5.12 50.345,-5.45 50.308,-5.8 50.234,-6.21", "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}"}

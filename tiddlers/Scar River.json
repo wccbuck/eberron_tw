@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210203224523746",
-        "title": "Scar River",
-        "text": "The Scar River in [[Droaam]] flows past [[Znir]] and [[Vralkek]] into the [[Manta Bay]].",
-        "modified": "20210727192029685",
-        "tags": "Droaam river Khorvaire",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polylines": "31.39,-36.28 31.58,-36.19 31.78,-36.24 31.88,-36.15 32.15,-36.09 32.34,-35.97 32.57,-35.92 32.79,-35.82 32.97,-35.76 33.12,-35.91 33.27,-35.9 33.38,-35.8 33.54,-35.79 33.62,-35.68 33.68,-35.49 33.88,-35.27 34.0,-35.15 34.01,-34.92 34.11,-34.76 34.33,-34.58 34.51,-34.36 34.72,-34.24 35.04,-34.11 35.32,-34.06 35.61,-33.97",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
-    }
-]
+{"created": "20210203224523746", "title": "Scar River", "text": "The Scar River in [[Droaam]] flows past [[Znir]] and [[Vralkek]] into the [[Manta Bay]].", "modified": "20210727192029685", "tags": "Droaam river Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "28.975,-36.28 29.151,-36.19 29.335,-36.24 29.428,-36.15 29.677,-36.09 29.852,-35.97 30.065,-35.92 30.268,-35.82 30.434,-35.76 30.572,-35.91 30.711,-35.9 30.812,-35.8 30.96,-35.79 31.034,-35.68 31.089,-35.49 31.274,-35.27 31.385,-35.15 31.394,-34.92 31.486,-34.76 31.689,-34.58 31.855,-34.36 32.049,-34.24 32.345,-34.11 32.603,-34.06 32.871,-33.97", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}

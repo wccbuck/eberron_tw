@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210324233721235",
-        "title": "Great Stone Face of Mror",
-        "text": "High in the [[Ironroot Mountains]], near the source of the [[Iron River]], a gigantic monument in the likeness of [[dwarf]] Lord [[Mror|Mroranon]] overlooks the city of [[Krona Peak]]. Carved into the mountainside, this mile-high stone face is an incredible marvel of engineering that is at least as old as the city, and [[Korranberg|Library of Korranberg]] sages argue over how the dwarves of old could possibly have created this marvel. Some say that they must have sculpted down a larger image. For evidence, they point to obscure references to \"the [[Face of Eberron]]\" and other marvels of the [[dragon]]s that date back to the [[Age of Demons]].",
-        "modified": "20210727192011389",
-        "tags": "monument [[Mror Holds]]",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "points": "57.5,24.22",
-        "style": "{\"color\": \"#732873\"}"
-    }
-]
+{"created": "20210324233721235", "title": "Great Stone Face of Mror", "text": "High in the [[Ironroot Mountains]], near the source of the [[Iron River]], a gigantic monument in the likeness of [[dwarf]] Lord [[Mror|Mroranon]] overlooks the city of [[Krona Peak]]. Carved into the mountainside, this mile-high stone face is an incredible marvel of engineering that is at least as old as the city, and [[Korranberg|Library of Korranberg]] sages argue over how the dwarves of old could possibly have created this marvel. Some say that they must have sculpted down a larger image. For evidence, they point to obscure references to \"the [[Face of Eberron]]\" and other marvels of the [[dragon]]s that date back to the [[Age of Demons]].", "modified": "20210727192011389", "tags": "monument [[Mror Holds]]", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "points": "53.077,24.22", "style": "{\"color\": \"#732873\"}"}

@@ -3,7 +3,7 @@ color: #96CC39
 created: 20200420064355037
 fmwvar: fmw-cogs
 modified: 20210827225839744
-polygons: 21.707,-24.667 21.693,-24.658 21.671,-24.642 21.655,-24.627 21.642,-24.597 21.631,-24.577 21.62,-24.56 21.631,-24.512 21.643,-24.517 21.649,-24.54 21.655,-24.569 21.668,-24.597 21.678,-24.616 21.681,-24.623 21.703,-24.641 21.724,-24.65
+polygons: 20.037,-24.667 20.024,-24.658 20.004,-24.642 19.989,-24.627 19.977,-24.597 19.967,-24.577 19.957,-24.56 19.967,-24.512 19.978,-24.517 19.984,-24.54 19.989,-24.569 20.001,-24.597 20.01,-24.616 20.013,-24.623 20.034,-24.641 20.053,-24.65
 style: {"color":"#6B001B","fillColor":"#5F0018","fillOpacity":0.25}
 tags: Cliffside district Sharn
 title: Mud Caves
@@ -23,4 +23,4 @@ is dotted with small caves. Some of the poorest of
 and around these caves. The populace is a destitute
 mixture of [[human]]s, [[dwarves|dwarf]], [[gnome]]s, [[halfling]]s,
 [[shifter]]s, [[changeling]]s, [[goblin]]s, [[hobgoblin]]s, [[bugbear]]s,
-[[orc]]s, [[ogre]]s, and even a [[troll]] or two. 
+[[orc]]s, [[ogre]]s, and even a [[troll]] or two.

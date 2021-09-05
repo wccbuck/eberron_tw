@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210204055442775",
-        "title": "Ash Beacon",
-        "text": "The Ash Beacon is a massive active volcano in the northern portion of the [[Demon Wastes]]. The volcano and the surrounding area are rich with [[narstone]] deposits, but the northern Wastes are perhaps the most dangerous region in all of [[Khorvaire]]; even the [[Ghaash'kala]] avoid this land.",
-        "modified": "20210727191956132",
-        "tags": "mountains [[Demon Wastes]] Khorvaire",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polygons": "60.48,-24.02 60.57,-24.29 60.74,-24.49 60.8,-24.29 60.89,-23.83 60.93,-23.43 61.01,-23.28 61.1,-22.97 61.1,-22.36 61.03,-22.13 61.0,-21.71 60.96,-21.31 60.8,-21.04 60.61,-21.11 60.48,-21.4 60.37,-21.72 60.35,-22.09 60.41,-22.54 60.4,-22.88 60.35,-23.35 60.38,-23.61",
-        "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}"
-    }
-]
+{"created": "20210204055442775", "title": "Ash Beacon", "text": "The Ash Beacon is a massive active volcano in the northern portion of the [[Demon Wastes]]. The volcano and the surrounding area are rich with [[narstone]] deposits, but the northern Wastes are perhaps the most dangerous region in all of [[Khorvaire]]; even the [[Ghaash'kala]] avoid this land.", "modified": "20210727191956132", "tags": "mountains [[Demon Wastes]] Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "55.828,-24.02 55.911,-24.29 56.068,-24.49 56.123,-24.29 56.206,-23.83 56.243,-23.43 56.317,-23.28 56.4,-22.97 56.4,-22.36 56.335,-22.13 56.308,-21.71 56.271,-21.31 56.123,-21.04 55.948,-21.11 55.828,-21.4 55.726,-21.72 55.708,-22.09 55.763,-22.54 55.754,-22.88 55.708,-23.35 55.735,-23.61", "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}"}

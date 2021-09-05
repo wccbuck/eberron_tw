@@ -1,7 +1,7 @@
 category: location
 created: 20210319063606512
 modified: 20210727191952384
-polygons: 67.99,230 67.99,-130 66.2,-130 66.2,230|-67.99,230 -67.99,-130 -66.2,-130 -66.2,230
+polygons: 62.76,230 62.76,-130 61.108,-130 61.108,230|-62.76,230 -62.76,-130 -61.108,-130 -61.108,230
 style: {"fillColor":"#BEBD9F","fillOpacity":1,"weight":0}
 tags: $:/Background
 title: $:/Land3

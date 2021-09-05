@@ -4,7 +4,7 @@ created: 20200414172755767
 fmwvar: fmw-upper
 linkto: Menthis Plateau
 modified: 20210828041947277
-polygons: 21.783,-24.56 21.797,-24.564 21.817,-24.561 21.823,-24.546 21.83,-24.535 21.824,-24.526 21.82,-24.516 21.828,-24.506 21.829,-24.496 21.828,-24.485 21.833,-24.48 21.837,-24.468 21.841,-24.459 21.852,-24.453 21.862,-24.447 21.867,-24.438 21.868,-24.427 21.861,-24.419 21.856,-24.407 21.847,-24.4 21.837,-24.401 21.826,-24.405 21.811,-24.408 21.799,-24.403 21.789,-24.4 21.777,-24.397 21.763,-24.403 21.756,-24.414 21.747,-24.437 21.738,-24.459 21.736,-24.473 21.742,-24.495 21.736,-24.505 21.742,-24.516 21.744,-24.533 21.737,-24.541 21.741,-24.549 21.75,-24.553 21.757,-24.561 21.763,-24.565 21.774,-24.562
+polygons: 20.107,-24.56 20.12,-24.564 20.139,-24.561 20.144,-24.546 20.151,-24.535 20.145,-24.526 20.142,-24.516 20.149,-24.506 20.15,-24.496 20.149,-24.485 20.154,-24.48 20.157,-24.468 20.161,-24.459 20.171,-24.453 20.18,-24.447 20.185,-24.438 20.186,-24.427 20.179,-24.419 20.175,-24.407 20.166,-24.4 20.157,-24.401 20.147,-24.405 20.133,-24.408 20.122,-24.403 20.113,-24.4 20.102,-24.397 20.089,-24.403 20.082,-24.414 20.074,-24.437 20.066,-24.459 20.064,-24.473 20.07,-24.495 20.064,-24.505 20.07,-24.516 20.071,-24.533 20.065,-24.541 20.069,-24.549 20.077,-24.553 20.083,-24.561 20.089,-24.565 20.099,-24.562
 style: {"fillOpacity": 0, "opacity": 0}
 tags: [[Menthis Plateau]] [[upper ward]] ward Sharn
 title: Upper Menthis
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 
 Elegant and civilized, Upper Menthis is home to four of
 the finest theaters in [[Breland]]: the cutting-edge [[Art Temple]], the colorful [[Khavish Theater]], the traditional [[Grand Stage]], and the open-air [[Stargazer Theater]], as well as
-the [[Kavarrah Concert Hall]]. 
+the [[Kavarrah Concert Hall]].
 
 The shops in Upper Menthis deal mainly in fine food, fashion, and exotic goods. For instance, in the [[Seventh Tower]] district, [[Window on Yesterday]], [[Echoes of the Past]], the [[Mekdall Gallery]], and [[Cloud Antiquities]] all buy and sell interesting antiques and trinkets from distant lands (see [[Little Xen'drik]]).
 
@@ -23,23 +23,23 @@ that provides a glimpse into the culture of [[Zilargo]]. [[Davandi Fine Tailorin
 intricate schemes or feuds.
 
 Upper Menthis also contains the [[University District]],
-home to Breland's finest institutions of learning. 
+home to Breland's finest institutions of learning.
 
 !! Districts and Noteworthy Locations
 
-* [[Den'iyas]]. Founded by [[gnome]] immigrants from [[Zilargo]], Den'iyas is a haven for those interested in Zil culture. It's home to many sages and artisans, and a hotbed of schemes and intrigue. 
-** [[Davandi Fine Tailoring]]. In addition to being the city councilor representing Upper Menthis, the gnome [[Thurik Davandi]] is an accomplished tailor and [[magewright]] who produces the finest glamerweave clothing available in Sharn. 
-** [[Khavish Theater]]. Established by and for [[gnome]]s, the Khavish has ample seating for small creatures, and its shows make extensive use of illusions. 
-* [[Ivy Towers]]. This residential district includes comfortable homes and modest apartments. Many of the students and faculty of [[Morgrave University]] live in Ivy Towers. 
+* [[Den'iyas]]. Founded by [[gnome]] immigrants from [[Zilargo]], Den'iyas is a haven for those interested in Zil culture. It's home to many sages and artisans, and a hotbed of schemes and intrigue.
+** [[Davandi Fine Tailoring]]. In addition to being the city councilor representing Upper Menthis, the gnome [[Thurik Davandi]] is an accomplished tailor and [[magewright]] who produces the finest glamerweave clothing available in Sharn.
+** [[Khavish Theater]]. Established by and for [[gnome]]s, the Khavish has ample seating for small creatures, and its shows make extensive use of illusions.
+* [[Ivy Towers]]. This residential district includes comfortable homes and modest apartments. Many of the students and faculty of [[Morgrave University]] live in Ivy Towers.
 * [[Platinate]]. A high-end residential district, home to several retired explorers and adventurers.
-* [[Seventh Tower]]. A shopping district, with restaurants and goods of comfortable to wealthy quality. Seventh Tower is especially noteworthy for [[Little Xen'drik]], a collection of galleries whose owners buy and sell goods from [[Xen'drik]]. 
-** [[Little Xen'drik]]. This area of small shops deals in antiquities and relics recovered from [[Xen'drik]] and the ruins below Sharn. 
-* The [[University District]]. This district is dominated by [[Morgrave University]]. It's also a nexus for sophisticated entertainment, including the Art Temple, the Grand Stage, and the Great Hall of Aureon. 
-** [[Art Temple]]. This theater is renowned for its avant-garde techniques and subjects. 
-** [[Dezina Museum of Antiquities]]. Attached to Morgrave University, this building displays the relics recovered on the university's many expeditions. 
+* [[Seventh Tower]]. A shopping district, with restaurants and goods of comfortable to wealthy quality. Seventh Tower is especially noteworthy for [[Little Xen'drik]], a collection of galleries whose owners buy and sell goods from [[Xen'drik]].
+** [[Little Xen'drik]]. This area of small shops deals in antiquities and relics recovered from [[Xen'drik]] and the ruins below Sharn.
+* The [[University District]]. This district is dominated by [[Morgrave University]]. It's also a nexus for sophisticated entertainment, including the Art Temple, the Grand Stage, and the Great Hall of Aureon.
+** [[Art Temple]]. This theater is renowned for its avant-garde techniques and subjects.
+** [[Dezina Museum of Antiquities]]. Attached to Morgrave University, this building displays the relics recovered on the university's many expeditions.
 ** [[Golden Horn]]. This wealthy inn includes a library, a few large meeting rooms, and a small concert hall. Performing at the Horn is an excellent opportunity for aspiring [[bard]]s.
 ** [[Grand Stage]]. This stage hosts grand performances of the beloved classics of [[Galifar]], along with more modern works that follow classical traditions.
-** [[Great Hall of Aureon]]. Sharn's largest temple to the [[Sovereign|Sovereign Host]] [[Aureon]], the Great Hall celebrates knowledge and learning. The clergy are sages and savants in a wide variety of fields. 
-** [[Kavarrah Concert Hall]]. The grand auditorium near the University, Kavarrah Concert Hall hosts the finest musical performances in Sharn. 
-** [[Sharn Opera House]]. Performances at the Sharn Opera are one of the most highbrow forms of entertainment in the city. 
-** [[Stargazer Theater]]. This open-air theater focuses on popular entertainment with family appeal. 
+** [[Great Hall of Aureon]]. Sharn's largest temple to the [[Sovereign|Sovereign Host]] [[Aureon]], the Great Hall celebrates knowledge and learning. The clergy are sages and savants in a wide variety of fields.
+** [[Kavarrah Concert Hall]]. The grand auditorium near the University, Kavarrah Concert Hall hosts the finest musical performances in Sharn.
+** [[Sharn Opera House]]. Performances at the Sharn Opera are one of the most highbrow forms of entertainment in the city.
+** [[Stargazer Theater]]. This open-air theater focuses on popular entertainment with family appeal.

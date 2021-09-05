@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210115200126122",
-        "title": "Grithic River",
-        "text": "The Grithic River in [[Khorvaire]] flows from the [[Byeshk Mountains]] into [[Crescent Bay]]. It forms part of the border between the [[Eldeen Reaches]] and the [[Shadow Marches]]. Due to the river's proximity to the [[Twilight Demesne]], aquatic [[fey]] known as [[naiad|nymph]]s can be found frolicking in this river.",
-        "modified": "20210727192011640",
-        "tags": "Khorvaire river",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polylines": "45.8,-43.4 45.78,-43.14 45.81,-42.88 45.91,-42.68 45.98,-42.58 45.99,-42.37 46.07,-42.34 46.11,-42.16 46.1,-41.91 46.03,-41.66 45.96,-41.47 45.86,-41.48 45.74,-41.38 45.73,-41.08 45.71,-40.73 45.75,-40.57 45.89,-40.42 45.83,-40.29 45.84,-40.08 45.86,-39.92 45.71,-39.66",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
-    }
-]
+{"created": "20210115200126122", "title": "Grithic River", "text": "The Grithic River in [[Khorvaire]] flows from the [[Byeshk Mountains]] into [[Crescent Bay]]. It forms part of the border between the [[Eldeen Reaches]] and the [[Shadow Marches]]. Due to the river's proximity to the [[Twilight Demesne]], aquatic [[fey]] known as [[naiad|nymph]]s can be found frolicking in this river.", "modified": "20210727192011640", "tags": "Khorvaire river", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "42.277,-43.4 42.258,-43.14 42.286,-42.88 42.378,-42.68 42.443,-42.58 42.452,-42.37 42.526,-42.34 42.563,-42.16 42.554,-41.91 42.489,-41.66 42.425,-41.47 42.332,-41.48 42.222,-41.38 42.212,-41.08 42.194,-40.73 42.231,-40.57 42.36,-40.42 42.305,-40.29 42.314,-40.08 42.332,-39.92 42.194,-39.66", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}

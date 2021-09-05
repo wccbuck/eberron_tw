@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210203222336253",
-        "title": "Ashen Spires",
-        "text": "The Ashen Spires in [[Karrnath]] rise in the heart of [[Karrnath]] between the [[Karrnwood]] and the [[Nightwood]]. They form something of a natural boundary between the eastern countryside and the western metropolitan region of the nation. Mount Tharzil in the Ashen Spires is the point of highest elevation in [[Karrnath]].",
-        "modified": "20210727191956181",
-        "tags": "Karrnath mountains Khorvaire",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polygons": "54.08,8.7 53.89,8.98 53.82,9.3 53.68,9.26 53.6,9.33 53.56,9.6 53.54,9.96 53.4,10.01 53.26,9.9 53.13,9.78 53.02,9.53 52.94,9.62 52.8,9.94 52.72,10.23 52.74,10.52 52.82,10.6 52.81,10.83 52.85,11.19 52.8,11.49 52.88,11.8 52.96,12.06 53.05,12.24 53.16,12.44 53.25,12.42 53.31,12.62 53.47,12.87 53.59,13.11 53.74,12.83 53.86,12.58 53.94,12.73 54.12,12.5 54.28,12.36 54.38,12.26 54.54,11.97 54.63,11.61 54.6,11.31 54.64,10.95 54.63,10.61 54.67,10.3 54.76,9.93 54.74,9.69 54.71,9.5 54.61,9.49 54.53,9.37 54.45,9.38 54.4,9.19 54.22,8.88",
-        "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}"
-    }
-]
+{"created": "20210203222336253", "title": "Ashen Spires", "text": "The Ashen Spires in [[Karrnath]] rise in the heart of [[Karrnath]] between the [[Karrnwood]] and the [[Nightwood]]. They form something of a natural boundary between the eastern countryside and the western metropolitan region of the nation. Mount Tharzil in the Ashen Spires is the point of highest elevation in [[Karrnath]].", "modified": "20210727191956181", "tags": "Karrnath mountains Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "49.92,8.7 49.745,8.98 49.68,9.3 49.551,9.26 49.477,9.33 49.44,9.6 49.422,9.96 49.292,10.01 49.163,9.9 49.043,9.78 48.942,9.53 48.868,9.62 48.738,9.94 48.665,10.23 48.683,10.52 48.757,10.6 48.748,10.83 48.785,11.19 48.738,11.49 48.812,11.8 48.886,12.06 48.969,12.24 49.071,12.44 49.154,12.42 49.209,12.62 49.357,12.87 49.468,13.11 49.606,12.83 49.717,12.58 49.791,12.73 49.957,12.5 50.105,12.36 50.197,12.26 50.345,11.97 50.428,11.61 50.4,11.31 50.437,10.95 50.428,10.61 50.465,10.3 50.548,9.93 50.529,9.69 50.502,9.5 50.409,9.49 50.335,9.37 50.262,9.38 50.215,9.19 50.049,8.88", "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}"}

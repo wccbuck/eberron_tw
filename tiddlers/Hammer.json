@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210204184851886",
-        "title": "Hammer",
-        "text": "The Hammer is an island in the [[Lhazaar Principalities]]. Amazingly, this \"island\" isn't a natural island at all; it's actually a gigantic earth [[elemental]] from [[Lamannia]]! It never ventures far from its position off the coast of [[Lorghalan]] and [[Dreadwood Isle]], but it tends to swat at any sailing vessels that make their way into its bay.",
-        "modified": "20210727192012434",
-        "tags": "[[Lhazaar Principalities]] island",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polygons": "41.99,45.75 41.92,45.7 41.79,45.78 41.78,46.03 41.85,46.3 42.01,46.34 42.3,46.4 42.43,46.29 42.46,46.08 42.49,45.76 42.37,45.81 42.12,45.63",
-        "style": "{\"fillOpacity\":\"0\",\"opacity\":\"0\"}"
-    }
-]
+{"created": "20210204184851886", "title": "Hammer", "text": "The Hammer is an island in the [[Lhazaar Principalities]]. Amazingly, this \"island\" isn't a natural island at all; it's actually a gigantic earth [[elemental]] from [[Lamannia]]! It never ventures far from its position off the coast of [[Lorghalan]] and [[Dreadwood Isle]], but it tends to swat at any sailing vessels that make their way into its bay.", "modified": "20210727192012434", "tags": "[[Lhazaar Principalities]] island", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "38.76,45.75 38.695,45.7 38.575,45.78 38.566,46.03 38.631,46.3 38.778,46.34 39.046,46.4 39.166,46.29 39.194,46.08 39.222,45.76 39.111,45.81 38.88,45.63", "style": "{\"fillOpacity\":\"0\",\"opacity\":\"0\"}"}

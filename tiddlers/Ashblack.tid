@@ -3,7 +3,7 @@ color: #96CC39
 created: 20200420062012561
 fmwvar: fmw-cogs
 modified: 20210827225839612
-polygons: 22.276,-24.603 22.28,-24.554 22.284,-24.504 22.28,-24.444 22.27,-24.416 22.243,-24.444 22.206,-24.468 22.168,-24.485 22.132,-24.501 22.092,-24.521 22.044,-24.547 22.002,-24.571 21.97,-24.586 21.922,-24.594 21.859,-24.581 21.803,-24.574 21.747,-24.565 21.65,-24.555 21.688,-24.608 21.731,-24.643 21.78,-24.654 21.888,-24.676 21.998,-24.68 22.077,-24.667 22.171,-24.644 22.234,-24.625
+polygons: 20.562,-24.603 20.566,-24.554 20.57,-24.504 20.566,-24.444 20.557,-24.416 20.532,-24.444 20.498,-24.468 20.463,-24.485 20.43,-24.501 20.393,-24.521 20.348,-24.547 20.31,-24.571 20.28,-24.586 20.236,-24.594 20.178,-24.581 20.126,-24.574 20.074,-24.565 19.985,-24.555 20.02,-24.608 20.059,-24.643 20.105,-24.654 20.204,-24.676 20.306,-24.68 20.379,-24.667 20.466,-24.644 20.524,-24.625
 style: {"color":"#6B001B","fillColor":"#470012","fillOpacity":0.25}
 tags: district Cogs Sharn
 title: Ashblack
@@ -24,7 +24,7 @@ Ashblack stretches out from beneath [[Dura]] toward the center
 of the city. In general, the businesses all operate on
 a large scale, processing loads of ore and other
 raw materials, they will have little business here.
-However, there are a few points of interest. 
+However, there are a few points of interest.
 
 !! Noteworthy Locations
 

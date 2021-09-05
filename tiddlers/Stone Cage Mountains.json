@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210204053407976",
-        "title": "Stone Cage Mountains",
-        "text": "The Stone Cage Mountains in the western reaches of the [[Demon Wastes]] are named for their peculiar shape; the peaks are thin and narrow, and resemble worked iron.",
-        "modified": "20210727192034452",
-        "tags": "mountains [[Demon Wastes]] Khorvaire",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polygons": "48.55,-47.32 48.82,-46.97 49.18,-46.63 49.45,-46.17 49.71,-46.0 49.91,-45.64 50.06,-45.27 50.27,-45.01 50.41,-44.57 50.59,-44.29 50.73,-43.91 50.76,-43.53 50.58,-43.33 50.22,-43.16 49.99,-42.92 49.81,-42.63 49.62,-42.25 49.49,-42.21 49.43,-42.49 49.39,-42.93 49.31,-43.06 49.3,-43.36 49.45,-43.68 49.29,-43.89 49.21,-44.15 49.07,-44.45 48.95,-44.8 48.78,-45.15 48.52,-45.4 48.35,-45.72 48.31,-46.08 48.4,-46.22 48.54,-46.47 48.5,-46.71 48.4,-46.97 48.32,-47.28 48.38,-47.42",
-        "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}"
-    }
-]
+{"created": "20210204053407976", "title": "Stone Cage Mountains", "text": "The Stone Cage Mountains in the western reaches of the [[Demon Wastes]] are named for their peculiar shape; the peaks are thin and narrow, and resemble worked iron.", "modified": "20210727192034452", "tags": "mountains [[Demon Wastes]] Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "44.815,-47.32 45.065,-46.97 45.397,-46.63 45.646,-46.17 45.886,-46.0 46.071,-45.64 46.209,-45.27 46.403,-45.01 46.532,-44.57 46.698,-44.29 46.828,-43.91 46.855,-43.53 46.689,-43.33 46.357,-43.16 46.145,-42.92 45.978,-42.63 45.803,-42.25 45.683,-42.21 45.628,-42.49 45.591,-42.93 45.517,-43.06 45.508,-43.36 45.646,-43.68 45.498,-43.89 45.425,-44.15 45.295,-44.45 45.185,-44.8 45.028,-45.15 44.788,-45.4 44.631,-45.72 44.594,-46.08 44.677,-46.22 44.806,-46.47 44.769,-46.71 44.677,-46.97 44.603,-47.28 44.658,-47.42", "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}"}

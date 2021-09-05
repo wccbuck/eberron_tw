@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210210013005199",
-        "title": "Faded Forest",
-        "text": "The Faded Forest is a forest in central [[Breland]], home to rare trees of [[alchemical|alchemist]] interest such as dragonseye and ghost oak. Citizens of nearby [[Mistmarsh]] send an expedition to gather magical acorns from this forest once a year.",
-        "modified": "20210727192007730",
-        "tags": "Breland forest Khorvaire",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polygons": "32.54,-11.48 32.35,-11.26 32.28,-10.94 32.04,-10.5 31.9,-10.18 32.03,-9.94 32.11,-9.8 31.93,-9.67 31.77,-9.49 31.78,-9.25 31.96,-8.88 32.3,-8.3 32.57,-7.91 32.86,-7.67 33.13,-7.64 33.28,-7.85 33.41,-8.23 33.52,-8.75 33.55,-9.1 33.44,-9.62 33.41,-9.99 33.52,-10.35 33.41,-10.61 33.15,-10.83 33.09,-11.1 32.88,-11.44",
-        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}"
-    }
-]
+{"created": "20210210013005199", "title": "Faded Forest", "text": "The Faded Forest is a forest in central [[Breland]], home to rare trees of [[alchemical|alchemist]] interest such as dragonseye and ghost oak. Citizens of nearby [[Mistmarsh]] send an expedition to gather magical acorns from this forest once a year.", "modified": "20210727192007730", "tags": "Breland forest Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "30.037,-11.48 29.862,-11.26 29.797,-10.94 29.575,-10.5 29.446,-10.18 29.566,-9.94 29.64,-9.8 29.474,-9.67 29.326,-9.49 29.335,-9.25 29.502,-8.88 29.815,-8.3 30.065,-7.91 30.332,-7.67 30.582,-7.64 30.72,-7.85 30.84,-8.23 30.942,-8.75 30.969,-9.1 30.868,-9.62 30.84,-9.99 30.942,-10.35 30.84,-10.61 30.6,-10.83 30.545,-11.1 30.351,-11.44", "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}"}

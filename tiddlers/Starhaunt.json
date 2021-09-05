@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210325185624786",
-        "title": "Starhaunt",
-        "text": "The Starhaunt is a mysterious ruin in [[Valenar]]. Rumors claim that the structures glow with a phosphorescent moss, and haunting moans can be heard within.",
-        "modified": "20210727192034194",
-        "tags": "Valenar ruin",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#4C8201",
-        "points": "33.92,18.4",
-        "style": "{\"color\": \"#40262D\"}"
-    }
-]
+{"created": "20210325185624786", "title": "Starhaunt", "text": "The Starhaunt is a mysterious ruin in [[Valenar]]. Rumors claim that the structures glow with a phosphorescent moss, and haunting moans can be heard within.", "modified": "20210727192034194", "tags": "Valenar ruin", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#4C8201", "points": "31.311,18.4", "style": "{\"color\": \"#40262D\"}"}

@@ -3,7 +3,7 @@ color: #96CC39
 created: 20200420024135915
 fmwvar: fmw-upper
 modified: 20210827225806575
-polygons: 22.013,-24.302 22.006,-24.315 22.001,-24.323 22.004,-24.334 22.0,-24.345 21.996,-24.352 21.99,-24.36 21.978,-24.364 21.966,-24.367 21.958,-24.373 21.949,-24.376 21.938,-24.377 21.929,-24.381 21.908,-24.384 21.895,-24.381 21.895,-24.381 21.905,-24.361 21.893,-24.354 21.892,-24.342 21.9,-24.334 21.9,-24.326 21.872,-24.323 21.878,-24.278 21.899,-24.282 21.899,-24.282 21.91,-24.285 21.937,-24.277 21.941,-24.295 21.99,-24.299 22.013,-24.302
+polygons: 20.32,-24.302 20.313,-24.315 20.309,-24.323 20.311,-24.334 20.308,-24.345 20.304,-24.352 20.298,-24.36 20.287,-24.364 20.276,-24.367 20.269,-24.373 20.261,-24.376 20.25,-24.377 20.242,-24.381 20.223,-24.384 20.211,-24.381 20.211,-24.381 20.22,-24.361 20.209,-24.354 20.208,-24.342 20.215,-24.334 20.215,-24.326 20.19,-24.323 20.195,-24.278 20.214,-24.282 20.214,-24.282 20.225,-24.285 20.25,-24.277 20.253,-24.295 20.298,-24.299 20.32,-24.302
 style: {"color":"#6B001B","fillColor":"#B45545","fillOpacity":0.4}
 tags: district [[Upper Tavick's Landing]] Sharn
 title: Silvergate
@@ -30,4 +30,4 @@ contain a few truly luxurious inns, and a magic
 emporium—[[Crystals of Denion]]—that buys and sells
 magic items of considerable value. Items purchased in Silvergate are always of exceptional quality, but generally have a 5% markup on price.
 
-There are four different dining clubs in Silvergate, but they only accept members from wealthy families or [[dragonmarked house]]s. 
+There are four different dining clubs in Silvergate, but they only accept members from wealthy families or [[dragonmarked house]]s.

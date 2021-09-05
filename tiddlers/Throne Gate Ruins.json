@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210223005116717",
-        "title": "Throne Gate Ruins",
-        "text": "The ruins of Throne Gate once served as a temple and arcane laboratory at the height of the [[Cul'sir Dominion|Cul'sir]]. Answers to the question of [[warforged]] sentience may lie here—secrets that the Order of the [[Emerald Claw]] and the [[Lord of Blades]] have recently taken an interest in uncovering.",
-        "modified": "20210727192037635",
-        "tags": "city Xen'drik fortress",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#4C8201",
-        "points": "-1.94,-47.46",
-        "style": "{\"color\": \"#732873\"}"
-    }
-]
+{"created": "20210223005116717", "title": "Throne Gate Ruins", "text": "The ruins of Throne Gate once served as a temple and arcane laboratory at the height of the [[Cul'sir Dominion|Cul'sir]]. Answers to the question of [[warforged]] sentience may lie here\u2014secrets that the Order of the [[Emerald Claw]] and the [[Lord of Blades]] have recently taken an interest in uncovering.", "modified": "20210727192037635", "tags": "city Xen'drik fortress", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#4C8201", "points": "-1.791,-47.46", "style": "{\"color\": \"#732873\"}"}

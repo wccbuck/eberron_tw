@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210118042153568",
-        "title": "Thrane River",
-        "text": "The Thrane River in [[Khorvaire]] flows past the [[Thrane]] city of [[Sigilstar]] into [[Scions Sound]].",
-        "modified": "20210727192037454",
-        "tags": "river Khorvaire",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polylines": "44.53,-3.93 44.69,-3.85 44.82,-3.79 45.04,-3.81 45.23,-3.78 45.41,-3.56 45.52,-3.28 45.6,-3.16 45.76,-3.09 45.81,-2.91 45.91,-2.69 46.02,-2.58 46.19,-2.59 46.3,-2.56 46.49,-2.4 46.68,-2.24 46.97,-2.04 47.16,-1.99 47.43,-1.94 47.53,-1.93",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
-    }
-]
+{"created": "20210118042153568", "title": "Thrane River", "text": "The Thrane River in [[Khorvaire]] flows past the [[Thrane]] city of [[Sigilstar]] into [[Scions Sound]].", "modified": "20210727192037454", "tags": "river Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "41.105,-3.93 41.252,-3.85 41.372,-3.79 41.575,-3.81 41.751,-3.78 41.917,-3.56 42.018,-3.28 42.092,-3.16 42.24,-3.09 42.286,-2.91 42.378,-2.69 42.48,-2.58 42.637,-2.59 42.738,-2.56 42.914,-2.4 43.089,-2.24 43.357,-2.04 43.532,-1.99 43.782,-1.94 43.874,-1.93", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}

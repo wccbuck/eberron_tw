@@ -3,7 +3,7 @@ color: #96CC39
 created: 20200420000328978
 fmwvar: fmw-middle
 modified: 20210827225817269
-polygons: 22.088,-24.38 22.091,-24.384 22.108,-24.393 22.125,-24.398 22.136,-24.407 22.136,-24.407 22.16,-24.391 22.183,-24.368 22.194,-24.361 22.194,-24.361 22.181,-24.347 22.171,-24.33 22.157,-24.32 22.142,-24.309 22.12,-24.338 22.103,-24.358 22.088,-24.38
+polygons: 20.389,-24.38 20.392,-24.384 20.407,-24.393 20.423,-24.398 20.433,-24.407 20.433,-24.407 20.455,-24.391 20.477,-24.368 20.487,-24.361 20.487,-24.361 20.475,-24.347 20.466,-24.33 20.453,-24.32 20.439,-24.309 20.418,-24.338 20.403,-24.358 20.389,-24.38
 style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: district [[Middle Northedge]] Sharn
 title: Oakbridge
@@ -29,7 +29,7 @@ district is not ostentatious and an Oakbridge address
 conveys no status on its owner, but the buildings are
 large, well constructed, and very safe, and the inhabitants are friendly and always keep an eye out for one
 another. If someone purchases a home in Oakbridge,
-within a week he has dozens of new friends. 
+within a week he has dozens of new friends.
 
 !! Noteworthy Locations
 

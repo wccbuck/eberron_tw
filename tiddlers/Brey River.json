@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210116194041444",
-        "title": "Brey River",
-        "text": "The Brey River in [[Khorvaire]] flows from [[Lake Brey]] into [[Scions Sound]]. It forms part of the border between [[Breland]] and [[Thrane]].",
-        "modified": "20210727191959294",
-        "tags": "Khorvaire river",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polylines": "39.75,-2.92 39.97,-2.54 40.11,-2.27 40.27,-2.11 40.59,-1.57 40.8,-1.17 40.99,-0.74 41.24,-0.36 41.29,-0.16 41.5,0.15 41.56,0.45 41.74,0.83 41.84,0.96 41.96,1.35 42.08,1.86 42.22,2.09 42.2,2.42 42.17,2.99 42.39,3.23 42.6,3.29 42.77,3.23 42.99,3.08 43.2,3.1 43.41,3.15 43.56,3.08 43.81,2.96 44.01,2.75 44.11,2.47",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
-    }
-]
+{"created": "20210116194041444", "title": "Brey River", "text": "The Brey River in [[Khorvaire]] flows from [[Lake Brey]] into [[Scions Sound]]. It forms part of the border between [[Breland]] and [[Thrane]].", "modified": "20210727191959294", "tags": "Khorvaire river", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "36.692,-2.92 36.895,-2.54 37.025,-2.27 37.172,-2.11 37.468,-1.57 37.662,-1.17 37.837,-0.74 38.068,-0.36 38.114,-0.16 38.308,0.15 38.363,0.45 38.529,0.83 38.622,0.96 38.732,1.35 38.843,1.86 38.972,2.09 38.954,2.42 38.926,2.99 39.129,3.23 39.323,3.29 39.48,3.23 39.683,3.08 39.877,3.1 40.071,3.15 40.209,3.08 40.44,2.96 40.625,2.75 40.717,2.47", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}

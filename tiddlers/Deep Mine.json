@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210208082641025",
-        "title": "Deep Mine",
-        "text": "This mining operation in the\n[[Seawall Mountains]] of northern [[Zilargo]] is a collaboration\nbetween House [[Kundarak]], Clan [[Mroranon]] (possibly\nthe best miners and smelters in [[Khorvaire]]), House\n[[Tharashk]] (which found the site in the first place),\nand House [[Sivis]] (which handles relations with the\n[[Zilargo]] government). This mine extracts pure platinum from veins more than a mile below the surface.\nClan Mroranon’s smiths make ingots of the platinum\nbullion, which House Kundarak uses as internal currency when transferring wealth from a Kundarak bank to a national government or to another Kundarak\nbank. Security is omnipresent, both to prevent theft by\nsurface dwellers and because the miners sometimes\ndisturb monsters from the depths of [[Khyber]].",
-        "modified": "20210727192003981",
-        "tags": "Zilargo mine",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#A3DB62",
-        "points": "28.64,-4.53",
-        "style": "{\"color\": \"#732873\"}"
-    }
-]
+{"created": "20210208082641025", "title": "Deep Mine", "text": "This mining operation in the\n[[Seawall Mountains]] of northern [[Zilargo]] is a collaboration\nbetween House [[Kundarak]], Clan [[Mroranon]] (possibly\nthe best miners and smelters in [[Khorvaire]]), House\n[[Tharashk]] (which found the site in the first place),\nand House [[Sivis]] (which handles relations with the\n[[Zilargo]] government). This mine extracts pure platinum from veins more than a mile below the surface.\nClan Mroranon\u2019s smiths make ingots of the platinum\nbullion, which House Kundarak uses as internal currency when transferring wealth from a Kundarak bank to a national government or to another Kundarak\nbank. Security is omnipresent, both to prevent theft by\nsurface dwellers and because the miners sometimes\ndisturb monsters from the depths of [[Khyber]].", "modified": "20210727192003981", "tags": "Zilargo mine", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#A3DB62", "points": "26.437,-4.53", "style": "{\"color\": \"#732873\"}"}

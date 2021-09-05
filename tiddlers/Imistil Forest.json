@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210208050032697",
-        "title": "Imistil Forest",
-        "text": "The Imistil Forest is a small forest in [[Thrane]], located near the nation's borders with [[Aundair]] and [[Breland]]. It was named after [[Keeper of the Flame]] Jareen Imistil (698–768 [[YK|Modern Age]]).",
-        "modified": "20210727192014527",
-        "tags": "Thrane forest Khorvaire",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polygons": "43.03,-8.35 42.93,-8.07 42.68,-7.89 42.37,-7.66 42.06,-7.65 41.7,-7.75 41.39,-7.96 41.32,-8.31 41.48,-8.57 41.55,-8.85 41.84,-9.0 42.12,-9.16 42.5,-9.16 42.85,-8.95 43.01,-8.66",
-        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}"
-    }
-]
+{"created": "20210208050032697", "title": "Imistil Forest", "text": "The Imistil Forest is a small forest in [[Thrane]], located near the nation's borders with [[Aundair]] and [[Breland]]. It was named after [[Keeper of the Flame]] Jareen Imistil (698\u2013768 [[YK|Modern Age]]).", "modified": "20210727192014527", "tags": "Thrane forest Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "39.72,-8.35 39.628,-8.07 39.397,-7.89 39.111,-7.66 38.825,-7.65 38.492,-7.75 38.206,-7.96 38.142,-8.31 38.289,-8.57 38.354,-8.85 38.622,-9.0 38.88,-9.16 39.231,-9.16 39.554,-8.95 39.702,-8.66", "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}"}

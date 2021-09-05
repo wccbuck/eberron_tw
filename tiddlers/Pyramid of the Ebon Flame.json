@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210223044356920",
-        "title": "Pyramid of the Ebon Flame",
-        "text": "This mysterious ziggurat looms over a stretch of the floodplain of the [[Hydra River]]. Surrounding the pyramid are statues of humanoids with crocodile-like features and feathered wings in place of arms. Large granite blocks form the exterior of the ziggurat, and its stepped construction allows adventurers to climb to the top. ",
-        "modified": "20210727192026387",
-        "tags": "ruin Xen'drik monument",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#4C8201",
-        "points": "-25.49,-31.87",
-        "style": "{\"color\": \"#40262D\"}"
-    }
-]
+{"created": "20210223044356920", "title": "Pyramid of the Ebon Flame", "text": "This mysterious ziggurat looms over a stretch of the floodplain of the [[Hydra River]]. Surrounding the pyramid are statues of humanoids with crocodile-like features and feathered wings in place of arms. Large granite blocks form the exterior of the ziggurat, and its stepped construction allows adventurers to climb to the top. ", "modified": "20210727192026387", "tags": "ruin Xen'drik monument", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#4C8201", "points": "-23.529,-31.87", "style": "{\"color\": \"#40262D\"}"}

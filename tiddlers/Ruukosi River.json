@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210121075100934",
-        "title": "Ruukosi River",
-        "text": "The Ruukosi River in [[Adar]] flows into the [[Jathara Sound]] near [[Ruukosi]].",
-        "modified": "20210727192029224",
-        "tags": "river Adar Sarlona",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polylines": "1.96,187.05 2.12,187.81 2.27,188.38 2.45,189.12 2.32,189.71 1.82,190.29 1.79,190.57",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
-    }
-]
+{"created": "20210121075100934", "title": "Ruukosi River", "text": "The Ruukosi River in [[Adar]] flows into the [[Jathara Sound]] near [[Ruukosi]].", "modified": "20210727192029224", "tags": "river Adar Sarlona", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "1.809,187.05 1.957,187.81 2.095,188.38 2.262,189.12 2.142,189.71 1.68,190.29 1.652,190.57", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}

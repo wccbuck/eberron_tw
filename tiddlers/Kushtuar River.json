@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210121233505377",
-        "title": "Kushtuar River",
-        "text": "The Kushtuar River in [[Syrkarn]] flows from the [[Kushtuar Hills]] into the [[Whitewater]]. It forms most of the border between the provinces of [[Sunyagir]] and [[Khunan]].",
-        "modified": "20210727192017860",
-        "tags": "river Syrkarn Sarlona",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polylines": "19.36,175.07 19.06,175.41 18.6,175.65 18.6,176.19 18.66,176.67 18.56,177.4 18.49,177.75 18.02,178.09 17.6,178.32 17.55,178.63 17.34,179.32 17.27,179.8 16.98,180.17",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
-    }
-]
+{"created": "20210121233505377", "title": "Kushtuar River", "text": "The Kushtuar River in [[Syrkarn]] flows from the [[Kushtuar Hills]] into the [[Whitewater]]. It forms most of the border between the provinces of [[Sunyagir]] and [[Khunan]].", "modified": "20210727192017860", "tags": "river Syrkarn Sarlona", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "17.871,175.07 17.594,175.41 17.169,175.65 17.169,176.19 17.225,176.67 17.132,177.4 17.068,177.75 16.634,178.09 16.246,178.32 16.2,178.63 16.006,179.32 15.942,179.8 15.674,180.17", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}

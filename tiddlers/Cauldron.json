@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210402165829353",
-        "title": "Cauldron",
-        "text": "The Cauldron is a [[wild zone]] tied to [[Fernia]], located in the [[Kelshak Mountains]] in [[Borunan]], [[Riedra]]. In the pre-[[Sundering]] nation of Borunan, the Cauldron was the seat of the [[oni]] spell-smiths, where these master [[magewright]]s channeled the energies of [[Shavarath]] and [[Fernia]] to forge powerful weapons imbued with planar magic. While most of these weapons were destroyed long ago, legendary items might still remain in the ancient ruins of the Cauldron.",
-        "modified": "20210727192000221",
-        "tags": "Sarlona Riedra Borunan [[manifest zone]] [[Kelshak Mountains]] ruin",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "points": "32.62,185.61",
-        "style": "{\"color\": \"#40262D\"}"
-    }
-]
+{"created": "20210402165829353", "title": "Cauldron", "text": "The Cauldron is a [[wild zone]] tied to [[Fernia]], located in the [[Kelshak Mountains]] in [[Borunan]], [[Riedra]]. In the pre-[[Sundering]] nation of Borunan, the Cauldron was the seat of the [[oni]] spell-smiths, where these master [[magewright]]s channeled the energies of [[Shavarath]] and [[Fernia]] to forge powerful weapons imbued with planar magic. While most of these weapons were destroyed long ago, legendary items might still remain in the ancient ruins of the Cauldron.", "modified": "20210727192000221", "tags": "Sarlona Riedra Borunan [[manifest zone]] [[Kelshak Mountains]] ruin", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "points": "30.111,185.61", "style": "{\"color\": \"#40262D\"}"}

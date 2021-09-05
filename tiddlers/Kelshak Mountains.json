@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210209002318959",
-        "title": "Kelshak Mountains",
-        "text": "The Kelshak (\"Broken Blade\") Mountains in [[Borunan]], [[Riedra]], take their name from the same [[Sovereign Host]] myth that inspired the monastic Order of the [[Broken Blade]]. These mountains hold the [[wild zone]] to [[Fernia]] known as the [[Cauldron]], where the [[oni]] spell-smiths of the ancient kingdom of [[Borunan]] forged powerful weapons.",
-        "modified": "20210727192016605",
-        "tags": "Borunan mountains Riedra Sarlona",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polygons": "27.66,183.62 28.1,183.29 28.71,182.74 29.17,181.89 29.7,181.88 30.29,181.93 31.16,181.58 31.96,181.0 32.5,181.41 32.9,181.83 33.77,181.8 33.99,182.42 34.71,182.73 35.37,182.56 36.29,182.79 36.51,183.83 36.96,184.35 36.85,185.11 36.42,185.99 36.12,186.76 35.7,187.36 34.96,187.28 34.09,187.35 34.12,187.99 34.66,188.99 34.38,189.53 33.82,189.78 33.34,189.76 33.06,190.34 32.46,190.58 32.04,190.51 31.37,190.84 30.85,190.93 30.31,190.78 30.47,190.4 30.67,190.01 30.53,189.61 30.42,189.1 30.1,188.55 30.05,188.1 30.47,187.64 30.23,187.26 29.73,187.21 29.35,187.38 29.04,187.3 28.76,186.86 28.5,186.35 28.13,185.78 28.24,185.26 28.61,184.74 28.47,184.24 27.95,184.06",
-        "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}"
-    }
-]
+{"created": "20210209002318959", "title": "Kelshak Mountains", "text": "The Kelshak (\"Broken Blade\") Mountains in [[Borunan]], [[Riedra]], take their name from the same [[Sovereign Host]] myth that inspired the monastic Order of the [[Broken Blade]]. These mountains hold the [[wild zone]] to [[Fernia]] known as the [[Cauldron]], where the [[oni]] spell-smiths of the ancient kingdom of [[Borunan]] forged powerful weapons.", "modified": "20210727192016605", "tags": "Borunan mountains Riedra Sarlona", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "25.532,183.62 25.938,183.29 26.502,182.74 26.926,181.89 27.415,181.88 27.96,181.93 28.763,181.58 29.502,181.0 30.0,181.41 30.369,181.83 31.172,181.8 31.375,182.42 32.04,182.73 32.649,182.56 33.498,182.79 33.702,183.83 34.117,184.35 34.015,185.11 33.618,185.99 33.342,186.76 32.954,187.36 32.271,187.28 31.468,187.35 31.495,187.99 31.994,188.99 31.735,189.53 31.218,189.78 30.775,189.76 30.517,190.34 29.963,190.58 29.575,190.51 28.957,190.84 28.477,190.93 27.978,190.78 28.126,190.4 28.311,190.01 28.182,189.61 28.08,189.1 27.785,188.55 27.738,188.1 28.126,187.64 27.905,187.26 27.443,187.21 27.092,187.38 26.806,187.3 26.548,186.86 26.308,186.35 25.966,185.78 26.068,185.26 26.409,184.74 26.28,184.24 25.8,184.06", "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}"}

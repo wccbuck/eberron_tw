@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210118044346434",
-        "title": "Adder River",
-        "text": "The Adder River (also called the Whitecliff River) in [[Q'barra]] flows from the [[Endworld Mountains]], past the settlements of [[Whitecliff]] and [[Newthrone]], into [[Adder Bay]].",
-        "modified": "20210727191953508",
-        "tags": "Q'barra river Khorvaire",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polylines": "43.62,29.66 43.42,29.83 43.26,29.88 43.19,29.99 43.11,30.13 42.98,30.11 42.84,30.26 42.58,30.38 42.34,30.42 42.07,30.39 41.87,30.43 41.67,30.53 41.58,30.52 41.46,30.46 41.33,30.48 41.24,30.41 41.09,30.38 40.93,30.38 40.69,30.51 40.6,30.48",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
-    }
-]
+{"created": "20210118044346434", "title": "Adder River", "text": "The Adder River (also called the Whitecliff River) in [[Q'barra]] flows from the [[Endworld Mountains]], past the settlements of [[Whitecliff]] and [[Newthrone]], into [[Adder Bay]].", "modified": "20210727191953508", "tags": "Q'barra river Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "40.265,29.66 40.08,29.83 39.932,29.88 39.868,29.99 39.794,30.13 39.674,30.11 39.545,30.26 39.305,30.38 39.083,30.42 38.834,30.39 38.649,30.43 38.465,30.53 38.382,30.52 38.271,30.46 38.151,30.48 38.068,30.41 37.929,30.38 37.782,30.38 37.56,30.51 37.477,30.48", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}

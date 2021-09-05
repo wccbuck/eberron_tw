@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210118043743109",
-        "title": "Torva River",
-        "text": "The Torva River in [[Khorvaire]] flows from the [[Endworld Mountains]] into [[Stormwreck Bay]]. The river flows through [[Q'barra]] and bifurcates near the [[dragonborn]] settlement of [[Ka'rhashan]], forming the distributary [[Crimson River]].",
-        "modified": "20210727192038472",
-        "tags": "river Q'barra Khorvaire",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polylines": "45.12,30.58 45.0,31.04 44.94,31.27 44.88,31.46 44.78,31.63 44.64,31.67 44.54,31.84 44.53,32.01 44.64,32.34 44.82,32.58 44.98,32.85 45.02,33.16 44.93,33.4 44.77,33.59 44.71,33.78 44.77,34.03 44.78,34.38 44.83,34.62 45.0,34.72 45.23,34.66 45.59,34.52",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
-    }
-]
+{"created": "20210118043743109", "title": "Torva River", "text": "The Torva River in [[Khorvaire]] flows from the [[Endworld Mountains]] into [[Stormwreck Bay]]. The river flows through [[Q'barra]] and bifurcates near the [[dragonborn]] settlement of [[Ka'rhashan]], forming the distributary [[Crimson River]].", "modified": "20210727192038472", "tags": "river Q'barra Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "41.649,30.58 41.538,31.04 41.483,31.27 41.428,31.46 41.335,31.63 41.206,31.67 41.114,31.84 41.105,32.01 41.206,32.34 41.372,32.58 41.52,32.85 41.557,33.16 41.474,33.4 41.326,33.59 41.271,33.78 41.326,34.03 41.335,34.38 41.382,34.62 41.538,34.72 41.751,34.66 42.083,34.52", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}

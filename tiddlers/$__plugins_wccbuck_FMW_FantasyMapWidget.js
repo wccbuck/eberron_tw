@@ -5,7 +5,7 @@ module-type: widget
 
 A widget for displaying a fantasy map using leaflet in Tiddlywiki
 
-The projection is cylindrical with y = 78*sin(latitude).
+The projection is cylindrical with y = 72*sin(latitude).
 Weird, yes, but it made the Eberron map look better than
 any other "real" projection.
 
@@ -229,8 +229,8 @@ FantasyMapWidget.prototype.initMap = function() {
     this.map.addControl(this.sharnLevels);
 
     var sharnShapesList = [
-        [22.303,-24.64], [22.13,-24.73], [21.869,-24.769], [21.66,-24.648],
-        [21.639,-24.478], [21.716,-24.296], [21.976,-24.241], [22.301,-24.269]
+        [20.59,-24.64], [20.43,-24.73], [20.19,-24.769], [20.0,-24.648],
+        [19.97,-24.478], [20.05,-24.296], [20.29,-24.241], [20.59,-24.269]
     ];
 
     var polygon = L.polygon(sharnShapesList);
@@ -239,7 +239,7 @@ FantasyMapWidget.prototype.initMap = function() {
     this.sharnQuarters = [];
 
 	this.defaultColor = "#5077BE";
-	this.defaultBoundsString = "-55.37,13.07,46.58,65.29,-29.88,26.12,21.09,52.24,-4.39,39.18";
+	this.defaultBoundsString = "-25.29,19.72,-23.7,20.8,20.26,-24.49";
 	this.allMarkers = [];
     this.allTopMarkers = [];
 	this.focus;
@@ -501,7 +501,7 @@ function updateMarkerString(self, lat, lng, color){
     var coordString = String(Math.round(lat*1000)/1000)+","+String(Math.round(lng*1000)/1000);
 
     //actual lat/lng. Remove this if not altering projection
-    var latPrime = Math.asin(lat/78.0)*180/Math.PI;
+    var latPrime = Math.asin(lat/72.0)*180/Math.PI;
     var lngPrime = lng;
     if(lngPrime < -180) {lngPrime += 360;}
     if(lngPrime > 180) {lngPrime -= 360;}

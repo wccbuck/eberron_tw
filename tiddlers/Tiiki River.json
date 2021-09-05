@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210123005640304",
-        "title": "Tiiki River",
-        "text": "The Tiiki River in the [[Tashana Tundra]] flows past the village of [[Whitetooth]] into the [[Winter Bay]]. ",
-        "modified": "20210727192037980",
-        "tags": "[[Tashana Tundra]] river Sarlona",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polylines": "57.24,138.91 57.4,139.26 57.63,139.52 57.85,139.67 58.09,139.65 58.31,139.87 58.5,140.03 58.69,139.93 58.89,139.84 59.1,140.05 59.27,140.22 59.43,140.1",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
-    }
-]
+{"created": "20210123005640304", "title": "Tiiki River", "text": "The Tiiki River in the [[Tashana Tundra]] flows past the village of [[Whitetooth]] into the [[Winter Bay]]. ", "modified": "20210727192037980", "tags": "[[Tashana Tundra]] river Sarlona", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "52.837,138.91 52.985,139.26 53.197,139.52 53.4,139.67 53.622,139.65 53.825,139.87 54.0,140.03 54.175,139.93 54.36,139.84 54.554,140.05 54.711,140.22 54.858,140.1", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}

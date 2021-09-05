@@ -3,7 +3,7 @@ color: #3B5C0A
 created: 20200414070100772
 modified: 20210821194556646
 nationstyle: {"fillOpacity":0.5,"fillColor":"#EC086F"}
-polygons: 39.05,-27.0 39.07,-27.27 39.16,-27.58 39.28,-27.96 39.36,-28.23 39.68,-28.73 39.82,-29.02 39.74,-29.68 39.75,-29.98 40.06,-30.24 40.34,-30.5 40.55,-30.81 40.87,-31.06 41.28,-31.36 41.56,-31.66 41.83,-31.85 42.14,-32.13 42.28,-32.37 42.52,-32.53 42.85,-32.77 43.1,-33.01 43.36,-33.32 43.57,-33.64 43.73,-33.9 43.89,-33.96 44.1,-33.99 44.31,-34.22 44.47,-34.55 44.63,-34.88 44.84,-35.4 44.94,-35.7 45.03,-36.06 45.06,-36.47 45.08,-36.95 45.07,-37.32 45.13,-37.71 45.22,-38.13 45.29,-38.48 45.41,-38.75 45.55,-39.0 45.65,-39.35 45.71,-39.65 45.86,-39.92 45.84,-40.08 45.83,-40.29 45.89,-40.42 45.75,-40.57 45.71,-40.73 45.69,-41.07 45.43,-41.03 45.12,-40.91 44.79,-40.82 44.45,-40.65 44.19,-40.42 43.88,-40.17 43.53,-39.94 43.2,-39.8 43.03,-39.63 42.79,-39.45 42.36,-39.33 42.0,-39.23 41.6,-39.14 41.24,-39.14 40.89,-39.13 40.53,-39.07 40.16,-39.09 39.89,-39.18 39.74,-39.29 39.73,-39.31 39.62,-39.19 39.54,-39.0 39.52,-38.87 39.39,-38.8 39.22,-38.68 39.02,-38.82 38.81,-38.98 38.67,-39.1 38.56,-39.08 38.44,-39.22 38.49,-39.35 38.46,-39.45 38.31,-39.52 38.11,-39.79 38.16,-39.97 38.14,-40.16 38.05,-40.43 37.93,-40.63 37.86,-40.68 37.7,-40.69 37.65,-40.89 37.52,-41.09 37.29,-41.27 37.19,-41.5 37.04,-41.5 36.89,-41.67 36.71,-41.74 36.53,-41.89 36.39,-41.87 36.31,-41.78 36.2,-41.74 36.02,-41.7 35.87,-41.64 35.79,-41.71 35.8,-41.86 35.53,-42.06 35.31,-42.13 35.07,-42.19 34.88,-42.27 34.64,-42.13 34.47,-42.01 34.36,-41.85 34.12,-41.61 33.96,-41.45 33.84,-41.3 33.75,-41.12 33.65,-41.0 33.52,-41.04 33.36,-40.92 33.17,-40.97 32.95,-41.01 32.61,-40.83 32.45,-40.86 32.27,-40.68 31.91,-40.69 31.76,-40.5 31.5,-40.29 31.46,-40.07 31.43,-39.88 31.45,-39.75 31.35,-39.59 31.36,-39.42 31.5,-39.31 31.45,-39.12 31.21,-39.13 31.03,-38.97 30.88,-38.95 30.7,-38.81 30.65,-38.68 30.48,-38.67 30.29,-38.48 30.33,-38.17 30.39,-38.01 30.34,-37.82 30.38,-37.63 30.49,-37.62 30.45,-37.36 30.53,-37.15 30.56,-36.94 30.79,-36.83 30.87,-36.69 31.02,-36.76 31.13,-36.59 31.29,-36.37 31.51,-36.3 31.4,-36.24 31.25,-36.05 31.13,-35.97 30.77,-35.75 30.66,-35.64 30.49,-35.55 30.54,-35.34 30.63,-35.23 30.49,-35.07 30.53,-34.81 30.56,-34.68 30.46,-34.46 30.4,-34.27 30.4,-34.1 30.41,-33.94 30.55,-33.83 30.38,-33.69 30.28,-33.53 30.21,-33.17 30.14,-33.05 30.11,-32.88 30.21,-32.75 30.43,-32.65 30.39,-32.43 30.31,-32.26 30.13,-32.15 29.92,-31.91 29.89,-32.05 29.79,-32.29 29.53,-32.35 29.37,-32.46 29.19,-32.37 28.98,-32.31 28.84,-32.15 28.69,-31.95 28.52,-31.84 28.46,-31.72 28.6,-31.45 28.98,-30.92 29.41,-30.48 30.14,-29.96 30.54,-29.63 31.29,-29.16 31.95,-28.67 32.51,-28.35 33.04,-28.21 33.64,-27.95 34.17,-27.81 34.78,-27.58 35.28,-27.3 35.61,-27.19 35.87,-27.16 36.26,-27.14 36.5,-27.07 36.83,-26.89 37.12,-26.81 37.51,-26.9 37.72,-26.91 38.08,-26.85 38.39,-26.81 38.62,-26.72 38.89,-26.49 39.01,-26.62
+polygons: 36.046,-27.0 36.065,-27.27 36.148,-27.58 36.258,-27.96 36.332,-28.23 36.628,-28.73 36.757,-29.02 36.683,-29.68 36.692,-29.98 36.978,-30.24 37.237,-30.5 37.431,-30.81 37.726,-31.06 38.105,-31.36 38.363,-31.66 38.612,-31.85 38.898,-32.13 39.028,-32.37 39.249,-32.53 39.554,-32.77 39.785,-33.01 40.025,-33.32 40.218,-33.64 40.366,-33.9 40.514,-33.96 40.708,-33.99 40.902,-34.22 41.049,-34.55 41.197,-34.88 41.391,-35.4 41.483,-35.7 41.566,-36.06 41.594,-36.47 41.612,-36.95 41.603,-37.32 41.658,-37.71 41.742,-38.13 41.806,-38.48 41.917,-38.75 42.046,-39.0 42.138,-39.35 42.194,-39.65 42.332,-39.92 42.314,-40.08 42.305,-40.29 42.36,-40.42 42.231,-40.57 42.194,-40.73 42.175,-41.07 41.935,-41.03 41.649,-40.91 41.345,-40.82 41.031,-40.65 40.791,-40.42 40.505,-40.17 40.182,-39.94 39.877,-39.8 39.72,-39.63 39.498,-39.45 39.102,-39.33 38.769,-39.23 38.4,-39.14 38.068,-39.14 37.745,-39.13 37.412,-39.07 37.071,-39.09 36.822,-39.18 36.683,-39.29 36.674,-39.31 36.572,-39.19 36.498,-39.0 36.48,-38.87 36.36,-38.8 36.203,-38.68 36.018,-38.82 35.825,-38.98 35.695,-39.1 35.594,-39.08 35.483,-39.22 35.529,-39.35 35.502,-39.45 35.363,-39.52 35.178,-39.79 35.225,-39.97 35.206,-40.16 35.123,-40.43 35.012,-40.63 34.948,-40.68 34.8,-40.69 34.754,-40.89 34.634,-41.09 34.422,-41.27 34.329,-41.5 34.191,-41.5 34.052,-41.67 33.886,-41.74 33.72,-41.89 33.591,-41.87 33.517,-41.78 33.415,-41.74 33.249,-41.7 33.111,-41.64 33.037,-41.71 33.046,-41.86 32.797,-42.06 32.594,-42.13 32.372,-42.19 32.197,-42.27 31.975,-42.13 31.818,-42.01 31.717,-41.85 31.495,-41.61 31.348,-41.45 31.237,-41.3 31.154,-41.12 31.062,-41.0 30.942,-41.04 30.794,-40.92 30.618,-40.97 30.415,-41.01 30.102,-40.83 29.954,-40.86 29.788,-40.68 29.455,-40.69 29.317,-40.5 29.077,-40.29 29.04,-40.07 29.012,-39.88 29.031,-39.75 28.938,-39.59 28.948,-39.42 29.077,-39.31 29.031,-39.12 28.809,-39.13 28.643,-38.97 28.505,-38.95 28.338,-38.81 28.292,-38.68 28.135,-38.67 27.96,-38.48 27.997,-38.17 28.052,-38.01 28.006,-37.82 28.043,-37.63 28.145,-37.62 28.108,-37.36 28.182,-37.15 28.209,-36.94 28.422,-36.83 28.495,-36.69 28.634,-36.76 28.735,-36.59 28.883,-36.37 29.086,-36.3 28.985,-36.24 28.846,-36.05 28.735,-35.97 28.403,-35.75 28.302,-35.64 28.145,-35.55 28.191,-35.34 28.274,-35.23 28.145,-35.07 28.182,-34.81 28.209,-34.68 28.117,-34.46 28.062,-34.27 28.062,-34.1 28.071,-33.94 28.2,-33.83 28.043,-33.69 27.951,-33.53 27.886,-33.17 27.822,-33.05 27.794,-32.88 27.886,-32.75 28.089,-32.65 28.052,-32.43 27.978,-32.26 27.812,-32.15 27.618,-31.91 27.591,-32.05 27.498,-32.29 27.258,-32.35 27.111,-32.46 26.945,-32.37 26.751,-32.31 26.622,-32.15 26.483,-31.95 26.326,-31.84 26.271,-31.72 26.4,-31.45 26.751,-30.92 27.148,-30.48 27.822,-29.96 28.191,-29.63 28.883,-29.16 29.492,-28.67 30.009,-28.35 30.498,-28.21 31.052,-27.95 31.542,-27.81 32.105,-27.58 32.566,-27.3 32.871,-27.19 33.111,-27.16 33.471,-27.14 33.692,-27.07 33.997,-26.89 34.265,-26.81 34.625,-26.9 34.818,-26.91 35.151,-26.85 35.437,-26.81 35.649,-26.72 35.898,-26.49 36.009,-26.62
 population: 2500000
 style: {"fillOpacity":"0","opacity":"0"}
 tags: nation Khorvaire
@@ -47,12 +47,12 @@ with the potential power of a fully realized Droaam.
 The monsters that inhabit Droaam retain their racial
 subcultures. Most worship the [[Dark Six]], but other religious traditions flourish as well.
 
-See also [[Culture of Droaam]]. 
+See also [[Culture of Droaam]].
 
 !! Interesting Things About {{!!title}}
 
 * Droaam uses the supernatural abilities of its citizens as tools, just as other nations of [[Khorvaire]] use magic. The [[Daughters of Sora Kell]] keep their people fed with [[troll sausage|grist]] and use [[harpy]]'s song to quell brawls. When dealing with monsters in Droaam, consider the practical applications of their abilities.
-* When the Church of the [[Silver Flame]] purged therianthropy from the [[Five Nations]], a number of [[therianthrope]]s escaped into the region that later become Droaam. The [[Dark Pack]] alliance of werewolves, [[worg]]s, and other supernatural predators hunts southern Droaam. 
+* When the Church of the [[Silver Flame]] purged therianthropy from the [[Five Nations]], a number of [[therianthrope]]s escaped into the region that later become Droaam. The [[Dark Pack]] alliance of werewolves, [[worg]]s, and other supernatural predators hunts southern Droaam.
 
 !! Droaamite Characters
 
@@ -60,15 +60,15 @@ See also [[Culture of Droaam]].
 monstrous species all have a place in Droaam. Consider
 these questions when making a Droaamite character:
 
-* ''What Makes You Different?'' The people of Droaam aren't just [[human]]s with horns or green skin. Think about the unique aspects of your people and what makes you different from humanity, both physically and culturally. 
+* ''What Makes You Different?'' The people of Droaam aren't just [[human]]s with horns or green skin. Think about the unique aspects of your people and what makes you different from humanity, both physically and culturally.
 * ''What Are Your Ambitions?'' Citizens of Droaam are proud of their nation. You know that the rest of Khorvaire considers you a monster. Do you intend to prove that you and your kind are capable of deeds humanity can't imagine? Or are you driven solely by your personal desires, or the goals of your family or warlord?
-* ''How Does Your Background Shape You?'' The diverse creatures of Droaam could include a [[kobold]] city-savvy rogue urchin, an [[orc]] outlander barbarian with little knowledge of the outside world, or a [[tiefling]] [[warlock]] sage versed in Arcana and History. 
+* ''How Does Your Background Shape You?'' The diverse creatures of Droaam could include a [[kobold]] city-savvy rogue urchin, an [[orc]] outlander barbarian with little knowledge of the outside world, or a [[tiefling]] [[warlock]] sage versed in Arcana and History.
 
 !! Cities and Sites
 
 In the past, particular creatures dominated the communities of Droaam. The [[harpy]] flights lived in mountain
 peaks, while the [[medusa]]s remained isolated in the citadel of [[Cazhaak Draal]]. Under the rule of the [[Daughters of Sora Kell]], the Droaamites are creating cities where all
-manner of creatures live and work together. 
+manner of creatures live and work together.
 
 !!! Cities
 
@@ -100,7 +100,7 @@ with [[goblin]]s and [[ogre]]s laboring through the night. Warlords drill their 
 to work together. A predatory aspect permeates life in
 Droaam but also a sense of excitement, the belief that
 the Daughters will lead Droaam to greatness. For centuries the people of Droaam have hidden in the shadows;
-now they stand in the light, and they are proud. 
+now they stand in the light, and they are proud.
 
 !! Political Structure of Droaam
 
@@ -142,7 +142,7 @@ In any given lheshat, the warlord governs their domain and
 the chibs beneath them lead each community. But there are
 three forces that operate outside this system, working directly
 for the Daughters and wielding authority throughout the land: [[Katra's Voice]], [[Maenya's Fist]], and [[Teraza's Eye]]. These names are the titles both of the organization and its officers; an agent acting on official business simply says, “I am
-Teraza's Eye, and you will tell me what transpired here.” 
+Teraza's Eye, and you will tell me what transpired here.”
 
 Droaam isn't bound by the [[Code of Galifar]], and there is no
 uniform code of justice. Justice is thus entirely in the hands of

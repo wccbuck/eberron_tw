@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210121075641754",
-        "title": "Meer River",
-        "text": "The Meer River in [[Adar]] flows into the [[Sea of Lost Souls]]. ",
-        "modified": "20210727192021038",
-        "tags": "Adar river Sarlona",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polylines": "1.54,201.06 0.93,200.95 0.68,201.25 0.14,201.69 -0.47,201.89 -1.52,201.77",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
-    }
-]
+{"created": "20210121075641754", "title": "Meer River", "text": "The Meer River in [[Adar]] flows into the [[Sea of Lost Souls]]. ", "modified": "20210727192021038", "tags": "Adar river Sarlona", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "1.422,201.06 0.858,200.95 0.628,201.25 0.129,201.69 -0.434,201.89 -1.403,201.77", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}

@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210120013645235",
-        "title": "Gates of Sorrow",
-        "text": "The Gates of Sorrow is a bay off the southwest coast of [[Aerenal]].",
-        "modified": "20210727192009764",
-        "tags": "[[Valraean Protectorate]] sea",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polygons": "-4.6,19.99 -4.25,19.96 -4.08,19.73 -3.46,19.74 -2.87,19.91 -2.5,20.24 -2.4,20.68 -2.0,20.79 -2.03,21.03 -1.66,21.42 -1.02,21.48 -0.53,21.38 -0.08,21.86 -0.22,21.54 -0.34,21.18 -0.61,20.87 -0.68,20.31 -0.6,19.87 -1.31,20.31 -1.77,19.99 -1.95,18.85 -1.82,17.52 -1.54,17.01 -1.66,17.0 -2.64,17.36 -3.86,18.13 -4.45,19.01",
-        "style": "{\"fillOpacity\":0,\"weight\":0}"
-    }
-]
+{"created": "20210120013645235", "title": "Gates of Sorrow", "text": "The Gates of Sorrow is a bay off the southwest coast of [[Aerenal]].", "modified": "20210727192009764", "tags": "[[Valraean Protectorate]] sea", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "-4.246,19.99 -3.923,19.96 -3.766,19.73 -3.194,19.74 -2.649,19.91 -2.308,20.24 -2.215,20.68 -1.846,20.79 -1.874,21.03 -1.532,21.42 -0.942,21.48 -0.489,21.38 -0.074,21.86 -0.203,21.54 -0.314,21.18 -0.563,20.87 -0.628,20.31 -0.554,19.87 -1.209,20.31 -1.634,19.99 -1.8,18.85 -1.68,17.52 -1.422,17.01 -1.532,17.0 -2.437,17.36 -3.563,18.13 -4.108,19.01", "style": "{\"fillOpacity\":0,\"weight\":0}"}

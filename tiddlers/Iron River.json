@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210203221417670",
-        "title": "Iron River",
-        "text": "The Iron River in [[Karrnath]], also known as the Mror River, flows from the [[Ironroot Mountains]] into [[Lake Dark]].",
-        "modified": "20210727192015162",
-        "tags": "Karrnath river Khorvaire",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polylines": "57.5,23.93 57.44,23.78 57.34,23.71 57.19,23.7 57.1,23.66 57.06,23.54 57.06,23.4 56.96,23.25 56.92,23.14 56.84,23.07 56.76,22.97 56.74,22.84 56.71,22.73 56.61,22.62 56.54,22.53",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
-    }
-]
+{"created": "20210203221417670", "title": "Iron River", "text": "The Iron River in [[Karrnath]], also known as the Mror River, flows from the [[Ironroot Mountains]] into [[Lake Dark]].", "modified": "20210727192015162", "tags": "Karrnath river Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "53.077,23.93 53.022,23.78 52.929,23.71 52.791,23.7 52.708,23.66 52.671,23.54 52.671,23.4 52.578,23.25 52.542,23.14 52.468,23.07 52.394,22.97 52.375,22.84 52.348,22.73 52.255,22.62 52.191,22.53", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}

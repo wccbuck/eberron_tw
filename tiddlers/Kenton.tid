@@ -3,7 +3,7 @@ color: #96CC39
 created: 20200420040912049
 fmwvar: fmw-middle
 modified: 20210827225817209
-polygons: 21.685,-24.485 21.685,-24.532 21.686,-24.544 21.693,-24.559 21.699,-24.571 21.707,-24.578 21.713,-24.584 21.715,-24.589 21.715,-24.589 21.679,-24.616 21.678,-24.616 21.668,-24.597 21.655,-24.569 21.649,-24.54 21.643,-24.517 21.631,-24.512 21.636,-24.477 21.642,-24.478 21.666,-24.482 21.685,-24.485
+polygons: 20.017,-24.485 20.017,-24.532 20.018,-24.544 20.024,-24.559 20.03,-24.571 20.037,-24.578 20.043,-24.584 20.045,-24.589 20.045,-24.589 20.011,-24.616 20.01,-24.616 20.001,-24.597 19.989,-24.569 19.984,-24.54 19.978,-24.517 19.967,-24.512 19.972,-24.477 19.977,-24.478 19.999,-24.482 20.017,-24.485
 style: {"color":"#6B001B","fillColor":"#A12B35","fillOpacity":0.4}
 tags: district [[Middle Tavick's Landing]] Sharn
 title: Kenton
@@ -27,4 +27,4 @@ and it's not a bad place to live. The architecture is
 functional and bland, and there are few comforts
 to be found in a Kenton apartment besides four
 walls and a roof. One notable feature of Kenton is its relatively high [[shifter]] population; Caine Spire and Helas Keep are two residential towers that are
-almost entirely populated by shifters. 
+almost entirely populated by shifters.

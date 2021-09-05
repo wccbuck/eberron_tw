@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210208231007058",
-        "title": "Krertok Peninsula",
-        "text": "The Krertok Peninsula in the [[Tashana Tundra]] of [[Sarlona]] is the apparent origin of the bloodthirsty [[Kalaak]] barbarians. Few are aware that in this region, a strange and terrible relic from the [[Age of Demons]] can be found—a gargantuan statue of an ancient [[overlord]], the physical remains of a [[demon]] long ago dispatched and bound. The [[Kalaak]] worship this ancient evil, whose vague stirrings of malevolent consciousness power their terrible savagery.",
-        "modified": "20210727192017631",
-        "tags": "[[Tashana Tundra]] geography Sarlona",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polygons": "62.25,150.39 62.56,150.53 62.66,150.76 62.75,151.12 62.78,151.62 62.86,151.89 63.11,151.99 63.33,152.29 63.54,152.42 63.68,152.28 63.67,151.95 63.85,151.84 64.09,152.18 64.29,152.5 64.49,152.68 64.8,152.44 65.02,152.36 65.17,152.42 65.35,152.25 65.55,151.64 65.77,151.32 65.98,151.37 66.18,150.82 66.42,150.05 66.41,149.11 66.45,148.29 66.25,147.82 66.07,147.71 65.98,147.41 65.92,146.99 65.7,146.83 65.44,146.82 65.23,146.33 65.04,146.01 65.0,145.68 64.83,145.56 64.74,145.13 64.49,145.06 64.22,145.55 63.99,146.89 63.0,148.5 62.43,150.24",
-        "style": "{\"color\":\"#482714\",\"fillOpacity\":\"0\",\"weight\":2,\"dashArray\":\"4, 9\",\"opacity\":\"0.5\"}"
-    }
-]
+{"created": "20210208231007058", "title": "Krertok Peninsula", "text": "The Krertok Peninsula in the [[Tashana Tundra]] of [[Sarlona]] is the apparent origin of the bloodthirsty [[Kalaak]] barbarians. Few are aware that in this region, a strange and terrible relic from the [[Age of Demons]] can be found\u2014a gargantuan statue of an ancient [[overlord]], the physical remains of a [[demon]] long ago dispatched and bound. The [[Kalaak]] worship this ancient evil, whose vague stirrings of malevolent consciousness power their terrible savagery.", "modified": "20210727192017631", "tags": "[[Tashana Tundra]] geography Sarlona", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "57.462,150.39 57.748,150.53 57.84,150.76 57.923,151.12 57.951,151.62 58.025,151.89 58.255,151.99 58.458,152.29 58.652,152.42 58.782,152.28 58.772,151.95 58.938,151.84 59.16,152.18 59.345,152.5 59.529,152.68 59.815,152.44 60.018,152.36 60.157,152.42 60.323,152.25 60.508,151.64 60.711,151.32 60.905,151.37 61.089,150.82 61.311,150.05 61.302,149.11 61.338,148.29 61.154,147.82 60.988,147.71 60.905,147.41 60.849,146.99 60.646,146.83 60.406,146.82 60.212,146.33 60.037,146.01 60.0,145.68 59.843,145.56 59.76,145.13 59.529,145.06 59.28,145.55 59.068,146.89 58.154,148.5 57.628,150.24", "style": "{\"color\":\"#482714\",\"fillOpacity\":\"0\",\"weight\":2,\"dashArray\":\"4, 9\",\"opacity\":\"0.5\"}"}

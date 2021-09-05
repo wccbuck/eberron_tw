@@ -3,7 +3,7 @@ color: #96CC39
 created: 20200420060419117
 fmwvar: fmw-lower
 modified: 20210827225825097
-polygons: 22.013,-24.302 22.006,-24.315 22.001,-24.323 22.004,-24.334 22.0,-24.345 21.996,-24.352 21.99,-24.36 21.978,-24.364 21.966,-24.367 21.958,-24.373 21.949,-24.376 21.938,-24.377 21.929,-24.381 21.908,-24.384 21.895,-24.381 21.895,-24.381 21.905,-24.361 21.893,-24.354 21.892,-24.342 21.9,-24.334 21.9,-24.326 21.872,-24.323 21.878,-24.278 21.899,-24.282 21.899,-24.282 21.91,-24.285 21.937,-24.277 21.941,-24.295 21.99,-24.299 22.013,-24.302
+polygons: 20.32,-24.302 20.313,-24.315 20.309,-24.323 20.311,-24.334 20.308,-24.345 20.304,-24.352 20.298,-24.36 20.287,-24.364 20.276,-24.367 20.269,-24.373 20.261,-24.376 20.25,-24.377 20.242,-24.381 20.223,-24.384 20.211,-24.381 20.211,-24.381 20.22,-24.361 20.209,-24.354 20.208,-24.342 20.215,-24.334 20.215,-24.326 20.19,-24.323 20.195,-24.278 20.214,-24.282 20.214,-24.282 20.225,-24.285 20.25,-24.277 20.253,-24.295 20.298,-24.299 20.32,-24.302
 style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Tavick's Landing]] Sharn
 title: Terminus
@@ -40,4 +40,4 @@ none of these services are notable for quality or value.
 House [[Sivis]] maintains a message station in Terminus, and there is a small [[Deneith]] outpost where visitors can arrange for bodyguards or laborers.
 There is a larger House [[Lyrandar]] enclave; primarily this is used for negotiations between Lyrandar and [[Orien]], but this outpost also allows merchants to
 arrange to have the goods brought in by coach transported elsewhere by air or sea. House [[Vadalis]] operates a large stable and hostelry, allowing visitors to secure
-their mounts while wandering through the city. 
+their mounts while wandering through the city.

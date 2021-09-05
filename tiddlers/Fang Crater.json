@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210317204740257",
-        "title": "Fang Crater",
-        "text": "This pit in the [[Great Barrier Mountains]] is hundreds of miles across and punches deep into the earth. The stone rim is blackened and smooth, and volcanic gases rise from cracks and vents in the walls. The crater was caused by a planar incursion from [[Fernia]], when forces from the [[Sea of Fire]] flooded into [[Argonnessen]]. The [[Light of Siberys]] repelled the assault, and the [[loredrake]]s sealed the rift. Still, a [[manifest zone]] to Fernia remains at the very center of the crater—a pit of lava more than a mile wide.\n\nAn ancient, ruined [[planar observatory]] called the Orrery of Vortuum is set into the rim of the crater.",
-        "modified": "20210727192007875",
-        "tags": "[[manifest zone]] dungeon Argonnessen Vast geography",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polygons": "-0.99,100.36 -1.57,100.96 -1.51,101.85 -1.42,102.89 -0.78,103.53 -0.15,104.29 0.71,104.34 1.55,103.82 1.98,102.98 2.2,101.76 1.85,100.84 1.1,100.15 -0.03,99.94",
-        "style": "{\"color\":\"#482714\",\"fillColor\":\"#482714\",\"fillOpacity\":\"0.7\"}"
-    }
-]
+{"created": "20210317204740257", "title": "Fang Crater", "text": "This pit in the [[Great Barrier Mountains]] is hundreds of miles across and punches deep into the earth. The stone rim is blackened and smooth, and volcanic gases rise from cracks and vents in the walls. The crater was caused by a planar incursion from [[Fernia]], when forces from the [[Sea of Fire]] flooded into [[Argonnessen]]. The [[Light of Siberys]] repelled the assault, and the [[loredrake]]s sealed the rift. Still, a [[manifest zone]] to Fernia remains at the very center of the crater\u2014a pit of lava more than a mile wide.\n\nAn ancient, ruined [[planar observatory]] called the Orrery of Vortuum is set into the rim of the crater.", "modified": "20210727192007875", "tags": "[[manifest zone]] dungeon Argonnessen Vast geography", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "-0.914,100.36 -1.449,100.96 -1.394,101.85 -1.311,102.89 -0.72,103.53 -0.138,104.29 0.655,104.34 1.431,103.82 1.828,102.98 2.031,101.76 1.708,100.84 1.015,100.15 -0.028,99.94", "style": "{\"color\":\"#482714\",\"fillColor\":\"#482714\",\"fillOpacity\":\"0.7\"}"}

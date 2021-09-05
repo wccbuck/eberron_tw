@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210206190734988",
-        "title": "Glowing Chasm",
-        "text": "Cold violet light illuminates the air and sky for miles around this gash in the northern [[Mournland]]. The glow emanates from deep within the chasm, its source indiscernible from the canyon’s rim. Horrid monsters, some mutated beyond recognition, congregate about the supernatural rift. The bruised luminance continues to warp them if they stay for long.\n\nThe [[warforged colossus]] WX-11, \"Arkus\", lies prone at the bottom of the Glowing Chasm, with one of its arms torn off.",
-        "modified": "20210727192010760",
-        "tags": "Mournland geography Khorvaire",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polygons": "47.15,5.76 47.01,5.9 46.83,5.99 46.64,6.12 46.5,6.14 46.38,6.07 46.27,6.17 46.11,6.31 45.95,6.37 45.76,6.42 45.67,6.41 45.56,6.53 45.42,6.61 45.24,6.67 45.08,6.7 45.07,6.86 44.87,6.98 44.65,7.13 44.35,7.26 44.64,7.24 44.82,7.17 44.97,7.05 45.16,6.94 45.29,6.86 45.31,6.78 45.45,6.68 45.63,6.6 45.76,6.53 45.91,6.51 46.04,6.46 46.19,6.38 46.28,6.31 46.45,6.31 46.61,6.28 46.76,6.21 46.91,6.08 47.02,5.98",
-        "style": "{\"color\":\"#C997F5\",\"fillColor\":\"#F0EEFF\",\"fillOpacity\":\"1\",\"weight\":2}"
-    }
-]
+{"created": "20210206190734988", "title": "Glowing Chasm", "text": "Cold violet light illuminates the air and sky for miles around this gash in the northern [[Mournland]]. The glow emanates from deep within the chasm, its source indiscernible from the canyon\u2019s rim. Horrid monsters, some mutated beyond recognition, congregate about the supernatural rift. The bruised luminance continues to warp them if they stay for long.\n\nThe [[warforged colossus]] WX-11, \"Arkus\", lies prone at the bottom of the Glowing Chasm, with one of its arms torn off.", "modified": "20210727192010760", "tags": "Mournland geography Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "43.523,5.76 43.394,5.9 43.228,5.99 43.052,6.12 42.923,6.14 42.812,6.07 42.711,6.17 42.563,6.31 42.415,6.37 42.24,6.42 42.157,6.41 42.055,6.53 41.926,6.61 41.76,6.67 41.612,6.7 41.603,6.86 41.418,6.98 41.215,7.13 40.938,7.26 41.206,7.24 41.372,7.17 41.511,7.05 41.686,6.94 41.806,6.86 41.825,6.78 41.954,6.68 42.12,6.6 42.24,6.53 42.378,6.51 42.498,6.46 42.637,6.38 42.72,6.31 42.877,6.31 43.025,6.28 43.163,6.21 43.302,6.08 43.403,5.98", "style": "{\"color\":\"#C997F5\",\"fillColor\":\"#F0EEFF\",\"fillOpacity\":\"1\",\"weight\":2}"}

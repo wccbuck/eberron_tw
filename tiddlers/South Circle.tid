@@ -2,7 +2,7 @@ category: location
 color: #3B5C0A
 created: 20210204225756942
 modified: 20210728212909997
-polylines: -71.57,-130 -71.57,230
+polylines: -66.065,-130 -66.065,230
 style: {"opacity":"0.5","color": "#FFCC00"}
 tags: latitude
 title: South Circle

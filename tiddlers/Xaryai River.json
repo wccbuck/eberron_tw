@@ -1,15 +1,1 @@
-[
-    {
-        "created": "20210121075201719",
-        "title": "Xaryai River",
-        "text": "The Xaryai River in [[Adar]] flows into the [[Jathara Bay]]. Upstream is the hidden settlement of [[Xephanan]].",
-        "modified": "20210727192043194",
-        "tags": "Adar river Sarlona",
-        "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "location",
-        "color": "#3B5C0A",
-        "polylines": "0.52,194.07 0.09,194.13 -0.16,194.08 -0.29,193.9 -0.6,193.84 -0.75,193.24 -0.98,193.04 -0.95,192.5 -1.08,191.87 -1.71,191.48 -2.42,191.29",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
-    }
-]
+{"created": "20210121075201719", "title": "Xaryai River", "text": "The Xaryai River in [[Adar]] flows into the [[Jathara Bay]]. Upstream is the hidden settlement of [[Xephanan]].", "modified": "20210727192043194", "tags": "Adar river Sarlona", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "0.48,194.07 0.083,194.13 -0.148,194.08 -0.268,193.9 -0.554,193.84 -0.692,193.24 -0.905,193.04 -0.877,192.5 -0.997,191.87 -1.578,191.48 -2.234,191.29", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}

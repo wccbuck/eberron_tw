@@ -4,7 +4,7 @@ created: 20200414042203759
 fmwvar: fmw-middle
 linkto: Dura
 modified: 20210828041938287
-polygons: 22.31,-24.63 22.28,-24.64 22.23,-24.66 22.214,-24.656 22.185,-24.655 22.16,-24.658 22.131,-24.667 22.098,-24.68 22.075,-24.69 22.052,-24.692 22.021,-24.694 21.991,-24.703 21.958,-24.713 21.933,-24.714 21.89,-24.711 21.844,-24.706 21.819,-24.698 21.785,-24.687 21.765,-24.673 21.755,-24.661 21.731,-24.653 21.703,-24.641 21.681,-24.623 21.679,-24.616 21.715,-24.589 21.734,-24.606 21.768,-24.614 21.783,-24.621 21.824,-24.627 21.86,-24.63 21.897,-24.622 21.937,-24.622 21.967,-24.616 21.993,-24.597 22.016,-24.579 22.048,-24.562 22.076,-24.555 22.097,-24.541 22.133,-24.538 22.164,-24.525 22.188,-24.498 22.207,-24.475 22.233,-24.461 22.256,-24.444 22.277,-24.425 22.285,-24.452 22.288,-24.48 22.281,-24.51 22.277,-24.541 22.275,-24.569 22.286,-24.594 22.294,-24.621
+polygons: 20.594,-24.63 20.566,-24.64 20.52,-24.66 20.505,-24.656 20.478,-24.655 20.455,-24.658 20.429,-24.667 20.398,-24.68 20.377,-24.69 20.356,-24.692 20.327,-24.694 20.299,-24.703 20.269,-24.713 20.246,-24.714 20.206,-24.711 20.164,-24.706 20.141,-24.698 20.109,-24.687 20.091,-24.673 20.082,-24.661 20.059,-24.653 20.034,-24.641 20.013,-24.623 20.011,-24.616 20.045,-24.589 20.062,-24.606 20.094,-24.614 20.107,-24.621 20.145,-24.627 20.178,-24.63 20.213,-24.622 20.25,-24.622 20.277,-24.616 20.301,-24.597 20.322,-24.579 20.352,-24.562 20.378,-24.555 20.397,-24.541 20.43,-24.538 20.459,-24.525 20.481,-24.498 20.499,-24.475 20.523,-24.461 20.544,-24.444 20.563,-24.425 20.571,-24.452 20.574,-24.48 20.567,-24.51 20.563,-24.541 20.562,-24.569 20.572,-24.594 20.579,-24.621
 style: {"fillOpacity": 0, "opacity": 0}
 tags: Dura [[middle ward]] ward Sharn
 title: Middle Dura
@@ -19,7 +19,7 @@ can find anything here, if you're not too worried about
 where it came from and if you're prepared to contend
 with the cutpurses that prey on the crowds.
 
-A small selection of merchants that regularly do business at the bazaar is given on the table below; roll a <<dr d10>>, or choose a location of interest. 
+A small selection of merchants that regularly do business at the bazaar is given on the table below; roll a <<dr d10>>, or choose a location of interest.
 
 | !<<dr d10>> |!Merchant |
 | 1 |''Secondhand Strings.'' A must-stop shop for the [[bard]] on a budget, with a variety of gently used instruments. |
@@ -39,17 +39,17 @@ arena that features aerial jousting and racing. The [[King of Fire]] is a grand 
 Many people make their homes in Middle Dura, even if their jobs take them elsewhere. [[Rattlestone]] and [[Tumbledown]] are mostly poor tenements. [[Stormhold]]
 contains crumbling manors still occupied by some of
 Sharn's oldest families, while many that have prospered
-have moved on to more prestigious districts. 
+have moved on to more prestigious districts.
 
 !! Districts and Noteworthy Locations
 
 * The [[Bazaar]]. The largest commercial district in Sharn, an excellent place to buy or sell used—and possibly stolen—goods.
-* [[Broken Arch]]. Once a proud residential district, Broken Arch has fallen into disrepair. Its housing is poor to modest in quality, though the shells of wealthy manors can still be seen. 
-* [[Hareth's Folly]]. A jumble of architectural styles, Hareth's Folly is a place to gamble and enjoy modest food and drink. Hareth's Folly is where the [[Race of Eight Winds]] begins and ends. 
-** The [[Hollow Tower]]. A vertically oriented arena used for aerial jousting and other unusual sporting events. 
-** The [[King of Fire]]. A comfortable tavern and gambling hall, known as one of the safest places to bet on the Race of Eight Winds and the events at the Hollow Tower. 
-* [[Rattlestone]]. Rattlestone is a tenement district. Its people have little but their pride, but there's a strong camaraderie between them. 
-* [[Stormhold]]. A comfortable residential district, Stormhold is home to the few powerful families that have  remained in Dura. It's in better condition than most of Middle Dura, and [[Deneith]] mercenaries protect the streets. 
-* [[Tumbledown]]. A poor residential district, Tumbledown has experienced recent incursions from [[Daask]]. 
-* [[Underlook]]. The center of Sharn's nightlife before [[Menthis Plateau]] was built, Underlook is a collection of poor taverns and inns. 
-** [[Ghallanda Hall]]. This proud [[Ghallanda]] [[enclave]] continues to operate amid the fading squalor of Middle Dura, and has become a tourist attraction. It offers a range of services, with food and lodging of poor to comfortable quality. 
+* [[Broken Arch]]. Once a proud residential district, Broken Arch has fallen into disrepair. Its housing is poor to modest in quality, though the shells of wealthy manors can still be seen.
+* [[Hareth's Folly]]. A jumble of architectural styles, Hareth's Folly is a place to gamble and enjoy modest food and drink. Hareth's Folly is where the [[Race of Eight Winds]] begins and ends.
+** The [[Hollow Tower]]. A vertically oriented arena used for aerial jousting and other unusual sporting events.
+** The [[King of Fire]]. A comfortable tavern and gambling hall, known as one of the safest places to bet on the Race of Eight Winds and the events at the Hollow Tower.
+* [[Rattlestone]]. Rattlestone is a tenement district. Its people have little but their pride, but there's a strong camaraderie between them.
+* [[Stormhold]]. A comfortable residential district, Stormhold is home to the few powerful families that have  remained in Dura. It's in better condition than most of Middle Dura, and [[Deneith]] mercenaries protect the streets.
+* [[Tumbledown]]. A poor residential district, Tumbledown has experienced recent incursions from [[Daask]].
+* [[Underlook]]. The center of Sharn's nightlife before [[Menthis Plateau]] was built, Underlook is a collection of poor taverns and inns.
+** [[Ghallanda Hall]]. This proud [[Ghallanda]] [[enclave]] continues to operate amid the fading squalor of Middle Dura, and has become a tourist attraction. It offers a range of services, with food and lodging of poor to comfortable quality.
