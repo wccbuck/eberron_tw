@@ -1,13 +1,13 @@
 [
     {
         "created": "20210503170610685",
-        "title": "Five Voices",
-        "text": "Over the last decade, a number\nof new [[chronicles|newspaper]] have risen up across [[Khorvaire]].\nNone of them match the [[Korranberg Chronicle]] in terms\nof the scope or the quality of their journalism, but\neach is tailored to the people of a particular nation,\nwith a tone carefully chosen to stir up the pain and\nresentment of the war.\n\nFor instance, those who turn to the Voice of [[Karrnath]] for their news are told that the [[Cyrans|Cyre]] caused the [[Mourning]] as an excuse to worm their way into\nevery other nation as so-called “refugees” and that\nthey are preparing treachery, while [[Kaius|Kaius ir'Wynarn III]] is ready\nto sell their country to [[Breland]] and the [[Mror Holds]]\nin the name of peace. Meanwhile, the Voice of [[Cyre]]\nwarns the refugees of the contempt that others hold\nfor them and the plans that are in the works to exterminate them all.\n\nOn the surface most of the stories seem ridiculous,\nbut each new issue of the Voice excels at telling people\nexactly what they want to hear... and in the process\ndriving up tension between the nations, exacerbating\nbigotry and short-sighted nationalism. The audience\nfor each Voice is growing rapidly, and those dedicated to these new chronicles often dismiss all other sources of information. A thorough investigation\nwould support the conclusion that all five Voices are\nowned by the same person, a member of the [[Aurum]] who is himself just one of many identities maintained by [[Mordakhesh]]. Even if this truth gets out, it sounds\nexactly like the sort of ludicrous theory that a follower\nof one of the Voices will dismiss out of hand.",
-        "modified": "20210727192008596",
-        "tags": "Khorvaire newspaper",
+        "text": "Over the last decade, a number\nof new [[chronicles|newspaper]] have risen up across [[Khorvaire]].\nNone of them match the [[Korranberg Chronicle]] in terms\nof the scope or the quality of their journalism, but\neach is tailored to the people of a particular nation,\nwith a tone carefully chosen to stir up the pain and\nresentment of the war.\n\nFor instance, those who turn to the Voice of [[Karrnath]] for their news are told that the [[Cyrans|Cyre]] caused the [[Mourning]] as an excuse to worm their way into\nevery other nation as so-called “refugees” and that\nthey are preparing treachery, while [[Kaius|Kaius ir'Wynarn III]] is ready\nto sell their country to [[Breland]] and the [[Mror Holds]]\nin the name of peace. Meanwhile, the Voice of [[Cyre]]\nwarns the refugees of the contempt that others hold\nfor them and the plans that are in the works to exterminate them all.\n\nOn the surface most of the stories seem ridiculous,\nbut each new issue of the Voice excels at telling people\nexactly what they want to hear... and in the process\ndriving up tension between the nations, exacerbating\nbigotry and short-sighted nationalism. The audience\nfor each Voice is growing rapidly, and those dedicated to these new chronicles often dismiss all other sources of information. A thorough investigation\nwould support the conclusion that all five Voices are\nowned by the same person, a member of the [[Aurum]] who is himself just one of many identities maintained by [[Mordakhesh]]. Even if this truth gets out, it sounds\nexactly like the sort of ludicrous theory that a follower\nof one of the Voices will dismiss out of hand.\n\n!! Example Five Voices Issues\n\n<<list-links-article \"[tag{!!title}category[document]sort[title]]\">>",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Five Voices",
+        "tags": "Khorvaire newspaper",
+        "modified": "20210906073856540",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

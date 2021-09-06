@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20210208051656708
-modified: 20210820070802561
+modified: 20210906073041173
 points: 42.203,-3.38
 population: 60000
 style: {"color": "#8E0024"}
@@ -9,7 +9,8 @@ tags: city Thrane
 title: Sigilstar
 type: text/vnd.tiddlywiki
 
-''Population:'' <<ntls>>
+''Population:'' <<ntls>><br/>
+''Ruler:'' Lord Mayor Lahira ir’Vanaisho
 
 Positioned along the [[Thrane River]] near its source,
 Sigilstar marks the convergence of three caravan
@@ -20,4 +21,8 @@ Part of Sigilstar’s appeal stems from its cosmopolitan atmosphere. It is home 
 a broader view of religion’s place in society. Sigilstar takes its name from a fixed star in the heavens around which all other stars seem to wheel—much
 the same way the residents of the city see themselves.
 
+The city is home to the architectural wonder known as the Bridge of Stars, which passes over the [[Thrane River]]. The bridge is wide enough for eight wagons to travel abreast, and tall enough to enable barges to reach towns upriver from Sigilstar. But what draws attention is the surface of the bridge itself, rendered magically transparent so that travelers can gaze downward into the river. Also noteworthy are clusters of magical flames on the superstructure, arranged into familiar constellations, which give the bridge its name.
+
 Sigilstar has been a major hub of the [[Black Highway]] smuggling network for almost 80 years. Its local operations are coordinated by the [[White Hand Guild]].
+
+Sigilstar is also home to Harrowgard Prison; most inmates were sentenced to long terms during the [[Last War]], often by courts martial for crimes including desertion and gross insubordination.

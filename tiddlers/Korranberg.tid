@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200417002453151
-modified: 20210820072453416
+modified: 20210906080605475
 points: 19.412,-2.71
 population: 87500
 style: {"color": "#8E0024"}
@@ -9,7 +9,8 @@ tags: Zilargo city
 title: Korranberg
 type: text/vnd.tiddlywiki
 
-''Population:'' <<ntls>>
+''Population:'' <<ntls>><br/>
+''Rulers:'' The Council of Nine
 
 The ancestral home and [[headquarters|Labyrinth (enclave)]] of House [[Sivis]] and the oldest city in [[Zilargo]], Korranberg has long been a seat of learning and a haven for folk who love the written word. Countless aristocrats of other nations come to study in the famous [[Library of Korranberg]]. The offices of the [[Korranberg Chronicle]] are located in the Bookbinder’s Quarter, along with a diverse range of scribes, printers, and the finest cartographers in [[Khorvaire]]. Old scrolls, maps, and weathered tomes can be bought
 and sold in the quarter’s Paper Market, and explorers and adventurers make up a sizable portion of the clientele here. The [[Street of a Hundred Temples]] showcases almost every pantheon on Eberron, and includes the Codex Vault, [[Khorvaire]]'s largest

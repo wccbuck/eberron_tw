@@ -1,10 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20210801190811996
-modified: 20210801190844438
+modified: 20210905190747711
 tags: 
 title: tremorsense
-tooltip: able to perceive surroundings without relying on sight
+tooltip: able to perceive one's surroundings by detecting vibrations
 type: text/vnd.tiddlywiki
 
 A creature with tremorsense can detect and pinpoint the origin of vibrations within a specific radius, provided that the creature and the source of the vibrations are in contact with the same ground or substance. Tremorsense can’t be used to detect flying or incorporeal creatures. Many burrowing creatures, such as [[ankheg]]s and [[umber hulk]]s, have this special sense.

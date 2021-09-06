@@ -2,7 +2,7 @@ category: document
 color: #052c65
 created: 20201231174949771
 list-before: 
-modified: 20210727192022945
+modified: 20210906092430603
 tags: business
 title: newspaper
 type: text/vnd.tiddlywiki
@@ -32,3 +32,13 @@ Or you might be investigative reporters dedicated to
 shining the light of truth into the darkness of criminal,
 political, and religious corruption. You might have an
 unflinching commitment to the truth, or be more inter­ested in selling papers—or you might be in conflict with the chronicle's management over priorities.
+
+!! Example Newspapers
+
+!!! Sharn Inquisitive
+
+<<list-links-article "[tag[Sharn Inquisitive]category[document]sort[date]]">>
+
+!!! Others
+
+<<list-links-article "[tag[newspaper]!tag[Sharn Inquisitive]category[document]sort[title]]">>
