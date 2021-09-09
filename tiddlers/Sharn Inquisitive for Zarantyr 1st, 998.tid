@@ -1,7 +1,7 @@
 category: document
 created: 20210906042432303
 date: 0101
-modified: 20210906043601007
+modified: 20210908195013729
 tags: [[Sharn Inquisitive]] newspaper
 title: Sharn Inquisitive for Zarantyr 1st, 998
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 
 !! Flamewind Issues Annual Riddle of the Three Stars
 
-[[SHARN|Sharn]]—For the third year in a row, the [[Morgrave University]] [[sphinx]] known as [[Flamewind]] plans to tell her "riddle of the three stars" to anyone with [[5 crowns|money]]. The sphinx will begin granting private audiences at noon tomorrow to deliver the riddle. As this issue of [[Sharn Inquisitive]] went to press, dozens of people were already in line in front of [[Lareth Hall]], awaiting their turn to hear the puzzle.
+[[MENTHIS|Menthis Plateau]], [[SHARN|Sharn]]—For the third year in a row, the [[Morgrave University]] [[sphinx]] known as [[Flamewind]] plans to tell her "riddle of the three stars" to anyone with [[5 crowns|money]]. The sphinx will begin granting private audiences at noon tomorrow to deliver the riddle. As this issue of [[Sharn Inquisitive]] went to press, dozens of people were already in line in front of [[Lareth Hall]], awaiting their turn to hear the puzzle.
 
 [[Flamewind]]'s riddles are generally multipart puzzles that take treasure-seekers throughout [[Sharn]] in search of a chest full of coins and gems that she's hidden somewhere in the city. Two years ago, her riddle sent the city into an uproar for three weeks while Sharn residents pored over the clues and scoured every nook and cranny of the city for the treasure. The inaugural winner, a mendicant monk named Guptra One-Eye, parleyed her fortune into a glittering spire in [[Mithral Tower]] and marriage into the ir'Callandu family.
 
@@ -54,18 +54,21 @@ Because many members of the 39th Regiment were recruited from [[Sharn]], a homec
 
 The [[Daggerwood]] and the entire Tilorn region is a known home of many dangers, including flesh-eating [[satyr]]s and strange [[fey]] tricksters. While it contains thousands of acres of theoretically arable farmlands, past efforts to settle it have fallen victim to strange mishaps, unusual weather—and perhaps the superstitious fears of the settlers.
 
-!! Bitter Sea Shipwreck Survivors Launched Distress Call
+!! Beggar Dane's Practical Wisdom
 
-[[REKKENMARK|Rekkenmark]]—[[Thrane]]'s ambassador to [[Karrnath]] has informed the Crown that a magic distress signal has been received from the //Perfect Chicane//—now three weeks overdue from a whaling expedition in the [[Bitter Sea]]. According to Ambassador Tellek ir'Uther, a [[Silver Flame]] templar stationed in southern [[Thrane]] received a [[sending]] spell from his estranged brother, who had left home last year to seek his fortune at sea.
+<div style="float: left; width: 100px; margin-right: 10px;">{{$:/plugins/wccbuck/beggar-dane.svg}}</div> Welcome once again, dear reader, to the pitch of Beggar Dane! May this old busker share with thee scraps from the table of wisdom, that will if well digested, yield strong nourishment to thy mind! But always take heed, and partake with serious reflection, as the most exquisite //folly// is made of //wisdom// spun too fine.
 
-The message allegedly went as follows: "Brother, aid me. We struck iceberg northwest of Gurrney's Point. Ship and most crew are lost. We cling to iceberg. So huge... so cold. Help..."
+!!! Never borrow, never lend, and you'll have peace to your life's end.
 
-This report lifts the hopes of the sailors' families and focuses the rescue efforts of the [[Karrnath]] Navy and House [[Lyrandar]], which volunteered several [[wind galleons|elemental galleon]] for the search.
+!!! [[Kuryeva|kuryeva]] drowns not //Care//, but waters it, and makes it grow faster.
 
-Admiral Vurth Harranacht said the message from the //Perfect Chicane//'s crew was good fortune indeed. "Even as I speak," he said, "ships are sailing from Gurrney's Point, and we're making every effort to get spellcasters aboard those ships to aid in the search. The fact that the whole sea is fogged in right now makes the search a lot more difficult—not to mention dangerous for the searchers.
+!!! One [[Wroann|Wroann ir'Wynarn]] is worth ten [[Brillik|Alvos Brillik]]s.
 
-But Harranacht cautioned against unrealistic expectations as well. "Two things still worry me," he said. "The first is the weather. It's foggy and cold out there, and we don't have any idea what kind of condition the survivors were in when they sent the message.
+<div align="right">Reader, farewell, all happiness attend thee: <br/>
+May each New Year better and richer find thee!</div>
 
-"The second issue is the timing," he continued. "That distress call is almost 48 hours old, and it'll take time to move our ships closer to Gurrney's Point. A major eastward current runs out there too, and an iceberg caught in it could be leagues away by now."
+<div align="right">Thy obliged friend,</div>
+
+<div align="right">//"Beggar" Dane//</div>
 
 </div>

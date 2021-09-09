@@ -1,7 +1,7 @@
 category: document
 created: 20210906043920922
 date: 0115
-modified: 20210906045546813
+modified: 20210909192536432
 tags: [[Sharn Inquisitive]] newspaper
 title: Sharn Inquisitive for Zarantyr 15th, 998
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 
 !! Arranash Execution Set for Midnight
 
-[[SHARN|Sharn]]—Sesko Arranash, who was convicted of treason last month for attempting to sell information about [[Argonth]]'s magical defenses, will be executed by hanging tonight at midnight. "Arranash will pay the ultimate price for his traitorous scheme," said Knight-Marshal [[Banarak Tithon]]. "And the nation of [[Breland]] will sleep better tonight knowing that no one can escape its justice."
+[[CENTRAL|Central Plateau]], [[SHARN|Sharn]]—Sesko Arranash, who was convicted of treason last month for attempting to sell information about [[Argonth]]'s magical defenses, will be executed by hanging tonight at midnight. "Arranash will pay the ultimate price for his traitorous scheme," said Knight-Marshal [[Banarak Tithon]]. "And the nation of [[Breland]] will sleep better tonight knowing that no one can escape its justice."
 
 Scaffolding for the Arranash execution is being erected today in front of Andith Tower in the [[Ambassador Towers]] district. The public is invited to witness the execution. Knights of the [[King's Citadel]] said that because Arranash is a powerful spellcaster, he will be bound, gagged, and blindfolded prior to the hanging.
 
@@ -24,7 +24,7 @@ Arranash allegedly knew how to enter [[Argonth]] undetected and how to force it 
 
 !! Sharn Watch Breaks Mysterious Cult; 18 Dead
 
-[[SHARN|Sharn]]—Four members of the [[Sharn Watch]] and fourteen suspected members of a cult are dead after a pitched battle in the [[Northedge]] district of [[Longstairs]] on Far.
+[[NORTHEDGE|Northedge]], [[SHARN|Sharn]]—Four members of the [[Sharn Watch]] and fourteen suspected members of a cult are dead after a pitched battle in the [[Northedge]] district of [[Longstairs]] on Far.
 
 A lead in an ongoing kidnapping investigation led authorities to an apartment tower on Ten Drums Street on Far morning, said watch sergeant Urdren Vannti. Upon entering the tower, the Watch was beset by [[human]] and [[dwarf]] cultists shouting nonsensical slogans and brandishing spears and daggers.
 
@@ -52,32 +52,21 @@ Also among the missing are noted [[diviner|divination]] Alliqua Brashen, retired
 
 Aejar, [[Boranel|Boranel ir'Wynarn]]’s fourth son, is sometimes referred to as “the scarred” due to the claw marks on his face and neck—the result of a childhood mishap with a palace bodyguard animal. He lost an arm in the same incident, but the loss didn’t deter his zest for adventure.
 
-!! Freak Windstorm Wreaks Havoc With Scions Sound Shipping
+!! Beggar Dane's Practical Wisdom
 
-[[KORTH|Korth]]—A massive windstorm on Zor left eight ships aground on the [[Karrnath]]i coast and more than two dozen vessels severely damaged.
+<div style="float: left; width: 100px; margin-right: 10px;">{{$:/plugins/wccbuck/beggar-dane.svg}}</div> Welcome once again, dear reader, to the pitch of Beggar Dane! May this old busker share with thee scraps from the table of wisdom, that will if well digested, yield strong nourishment to thy mind! But always take heed, and partake with serious reflection, as the most exquisite //folly// is made of //wisdom// spun too fine.
 
-The storm, which began shortly after nightfall, also caused extensive damage to light structures in coastal communities on both sides of [[Scions Sound]]. Gale-force western winds and high seas pushed most shipping traffic dangerously near the cliffs of [[Karrnath]], although a few vessels were able to find a measure of safety in natural harbors on the [[Aundair]]ian side of the sound.
+!!! The sage understands from half a word.
 
-Two vessels, the //Gleam in Her Eye// and //Saber’s Point//, were abandoned by their crews and suffered heavy damage against the cliffs. More than forty sailors from the //Saber’s Point// are missing and believed drowned, and observers say it’s unlikely the ships will be salvageable.
+!!! [[Boldrei]] heals, and [[Jorasco]] takes the fees.
 
-A trio of Karrnathi war galleys—the //Indefatigable//, the //Dauntless//, and the //Righteous Retribution//—suffered extensive hull and rigging damage. They remain anchored just east of [[Rekkenmark]], awaiting available docks for repair in [[Korth]].
+!!! I have never seen the [[alchemist]] turn lead to gold, but I have known the pursuit of it turn gold into lead.
 
-[[Karrnath]]i ambassador Randarr ir’Hothelech said the crown was summoning House [[Lyrandar]] leaders to the palace to “get some answers” about the house’s ongoing weather control efforts. Due to the presence of the House [[Lyrandar]] [[enclave]] of [[Stormhome]] at the mouth of the [[Scions Sound]], storms of any kind are rare in the stretch of sound between the ocean and [[Thronehold]].
+<div align="right">Reader, farewell, all happiness attend thee: <br/>
+May each new week better and richer find thee!</div>
 
-No House [[Lyrandar]] vessels were damaged in the windstorm, but Lyrandar [[wind galleons|elemental galleon]] were instrumental in rescue and recovery efforts in the storm’s aftermath.
+<div align="right">Thy obliged friend,</div>
 
-!! Q’barran Settlements Under Siege from Lizardfolk
-
-[[NEWTHRONE|Newthrone]]—The town of [[Whitecliff]] and surrounding villages are on the verge of being overrun by [[lizardfolk]], said Whitecliff’s mayor in an urgent missive seeking aid from King [[Sebastes ir'Kesslan]].
-
-“We are a proud, hardy people, but make no mistake: We may not survive the month,” said a letter from Mayor Karala Thautram delivered by courier on Zol. “Hundreds, if not thousands, of [[lizardfolk]] are encamped among our communities, attacking on a nightly basis.”
-
-Travel in the north has been rendered impossible, Thautram’s letter said. Outlying settlements have been destroyed or evacuated, with all able-bodied soldiers resisting the siege at Whitecliff or in a handful of villages that remain standing.
-
-The lizardfolk belong to the [[Cold Sun Federation]], a tribe known for their attacks on caravans and [[dragonshard]] mining operations, Thautram’s letter said. According to the letter, the tribe often clashes with settlers in the north, but large-scale raids are “unprecedented and puzzlingly uncharacteristic.”
-
-Courtiers speaking on condition of anonymity said King [[Sebastes|Sebastes ir'Kesslan]] would issue a decree of support tomorrow morning and send a column of soldiers northward to break the siege of [[Whitecliff]] and force the [[lizardfolk]] back into the jungle.
-
-Among the troops marching north will be a contingent of [[Riedra]]n infantry, sent to [[Q'barra]] last year as a goodwill gesture from the [[Inspired]] leaders of that nation across the sea.
+<div align="right">//"Beggar" Dane//</div>
 
 </div>

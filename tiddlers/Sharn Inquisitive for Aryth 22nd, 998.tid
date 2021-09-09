@@ -1,7 +1,7 @@
 category: document
 created: 20210906004805731
 date: 1122
-modified: 20210906011239902
+modified: 20210909200527279
 tags: [[Sharn Inquisitive]] newspaper
 title: Sharn Inquisitive for Aryth 22nd, 998
 type: text/vnd.tiddlywiki
@@ -10,9 +10,19 @@ type: text/vnd.tiddlywiki
 
 <div style="text-align:justify; text-justify: inter-word;">
 
+!! "Lilygatherer" Corruption Trial Opens
+
+[[CENTRAL|Central Plateau]], [[SHARN|Sharn]]—On Wir, five [[city council|Sharn Council]] staffers, including the chief of staff to Councillor [[Borian Haldorak]], went on trial for corruption, bribery, and narcotic trafficking. Central to the case is the charge that the staffers used their political influence to run a [[dreamlily]] smuggling and distribution network that stretched into some of [[Sharn]]'s toniest neighborhoods.
+
+"Over the coming weeks, we'll be presenting incontrovertible evidence that these officials used their positions to bribe members of the [[City Watch|Sharn Watch]], forge customs manifests, and cover up their own involvement in a massive [[dreamlily]] ring," Crown Barrister Ulrich Thomossak promised. "And based on the testimony delivered, we may uncover other conspirators as well. If we do, I can guarantee additional arrests, trials, and convictions."
+
+Three of the five staffers currently report to [[Borian Haldorak]] of [[Upper Dura]]. Since the investigation became public two weeks ago, Haldorak has steadfastly maintained that he had no knowledge of any illegal activities performed by his subordinates. "With two hundred years of practice under my belt, I accounted myself a good judge of character," Haldorak said. "That's why I grieve to learn of the charges against some of the colleagues I trusted to handle the affairs of this great city."
+
+Haldorak refused to speculate on the guilt or innocence of his staffers. "I will continue to cooperate with the Thomossak investigation in any way I can throughout the trial," he said. "I would caution everyone involved, however, to let the wheel of justice turn as it may, and not to assign guilt or innocence until the trial's conclusion."
+
 !! Rumored Creation Forge a Hoax
 
-[[SHARN|Sharn]]—[[Morgrave University]] Professor Casterran Juliax apologized to fellow scholars and the district of [[Cogsgate]] for the chaos that ensued on Far when he led a fact-finding expedition to reveal a working [[creation forge]] for [[warforged]]—a forge that didn’t exist.
+[[TAVICK'S LANDING|Tavick's Landing]], [[SHARN|Sharn]]—[[Morgrave University]] Professor Casterran Juliax apologized to fellow scholars and the district of [[Cogsgate]] for the chaos that ensued on Far when he led a fact-finding expedition to reveal a working [[creation forge]] for [[warforged]]—a forge that didn’t exist.
 
 Accompanied by several researchers, a detachment of city [[Watch|Sharn Watch]], and several dozen curious district residents, Juliax entered an abandoned vault along Chimney Street. A reporter from the [[Sharn Inquisitive]] was among those in attendance.
 
@@ -40,40 +50,21 @@ Retired General Avask Orakanoll, who advocated strongly for the Heroes of Brelan
 
 “It’s not really an anti-[[warforged]] issue—at least not to the degree that Hectran says it is,” Orakanoll said. “The land grants aren’t happening for anyone—the whole system is corrupt. Local lords are doing everything they can to get their hands on fallow or vacant land themselves.”
 
-!! Banditry Delays Airship’s Maiden Voyage
+!! Beggar Dane's Practical Wisdom
 
-[[DRAGONROOST|Dragonroost]]—An attack by marauders from the [[Howling Peaks]] will result in a three-week delay for House [[Lyrandar]]’s newest high-speed [[airship]], the [[Power of Purity]] announced on Zor.
+<div style="float: left; width: 100px; margin-right: 10px;">{{$:/plugins/wccbuck/beggar-dane.svg}}</div> Welcome once again, dear reader, to the pitch of Beggar Dane! May this old busker share with thee scraps from the table of wisdom, that will if well digested, yield strong nourishment to thy mind! But always take heed, and partake with serious reflection, as the most exquisite //folly// is made of //wisdom// spun too fine.
 
-A force of more than three dozen bandits, mostly [[human]]s and [[goblinoid]]s, attacked the Power of Purity’s Swiftwind facility in northwest [[Zilargo]]. The bandits were eventually turned away by Purity’s [[wizard]]s and the [[elemental]] creatures that roam the site of their own volition.
+!!! They that won't be counselled, can't be helped.
 
-But before retreating into the mountains, the bandits were able to set fire to a hangar that contained a nearly complete [[airship]]. The as-yet-unnamed airship is the first of a new high-speed design and was destined to be christened by House [[Lyrandar]] next month.
+!!! The [[augury]]'s weal to one is woe to another.
 
-[[Power of Purity]] founder Harkra Loivaerl Lonadar called on [[Zilargo]] to increase patrols in the foothills of the [[Howling Peaks]] to end the bandit menace.
+!!! The [[Traveler]] sweetens poison with honey.
 
-“This sort of thing is bad for research, bad for business, and bad for Zilargo,” she said.
+<div align="right">Reader, farewell, all happiness attend thee: <br/>
+May each new week better and richer find thee!</div>
 
-The Power of Purity, known for its esoteric approach to [[elemental binding]] techniques, is among the most sought-after construction yards for airships.
+<div align="right">Thy obliged friend,</div>
 
-House [[Lyrandar]] has ongoing but sporadic talks with the [[Power of Purity]] to become an exclusive supplier to the House, but those talks haven’t come to fruition. It’s unknown what effect the most recent delay would have on those talks.
-
-!! Thrane Archbishop: Poisoned Cider Intended for Soldiers
-
-[[THALIOST|Thaliost]]—Archbishop of [[Thaliost]] [[Solgar Dariznu]] said on Wir that the casks of poisoned cider that killed twelve and sickened more than thirty last week were originally intended for knights at the city’s main garrison.
-
-“Cowardly poisoning is crime enough, but to intend such perfidy against knights of the Flame will draw the sternest possible punishment—from both the law and the [[Silver Flame]] itself,” he said.
-
-Dariznu said inquisitors were working around the clock to apprehend those responsible for the poisoning. He urged anyone with information about cider shipments or “subversive forces” to inform a church inquisitor or knight of [[Thrane]].
-
-Investigators have so far traced the poisoning to a shipment of apple cider that arrived last week by wagon. It was stored in a southern warehouse attached to the [[Thrane]] barracks. A supply sergeant noticed the extra casks, marked them surplus, and sold them in the Vintner’s Bazaar on Kelwian Street.
-
-“It’s clear that the forces of evil wanted to strike at the very heart of [[Thaliost]]—those brave knights willing to die for the good-hearted citizens of Thrane,” Dariznu said.
-
-Victims of the poisoned cider began falling ill a week ago, complaining of listlessness and headache. Many died in their sleep or linger there, unable to awaken.
-
-As word of the poisonings spread through Thaliost, knights had to restore order following panic at several marketplaces. Several hundred fled the city following rumors that other foodstuffs were likewise tainted, but the next morning the city’s gates were closed “to entrap the perpetrators of this vile crime,” according to the posted order.
-
-Dariznu said the Church of the [[Silver Flame]] was using magic to ensure that the city’s food supply was safe—a process that should be complete in two or three days.
-
-In the meantime, no one can enter or leave the city without a writ from the Church. Writs are available at the North Chapel, the Embershrine of Saviors, and the central Cathedral, a church official said.
+<div align="right">//"Beggar" Dane//</div>
 
 </div>

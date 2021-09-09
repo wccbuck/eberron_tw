@@ -1,7 +1,7 @@
 category: document
 created: 20210906015737855
 date: 1215
-modified: 20210906021906445
+modified: 20210909194140647
 tags: [[Sharn Inquisitive]] newspaper
 title: Sharn Inquisitive for Vult 15th, 998
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 
 !! Watch Promises Extra Patrols for Long Shadows
 
-[[SHARN|Sharn]]—The city will be well protected against criminals during the upcoming nights of the [[Long Shadows]] (Vult 26th through 28th), according to Lord Commander [[Iyan ir'Talan]]. "The [[Sharn Watch]] remains vigilant throughout the year, and Long Shadows is no exception," asserted ir'Talan on Sar. "City residents can take comfort in knowing that they're safe in their homes with the Watch on guard."
+[[DURA|Dura]], [[SHARN|Sharn]]—The city will be well protected against criminals during the upcoming nights of the [[Long Shadows]] (Vult 26th through 28th), according to Lord Commander [[Iyan ir'Talan]]. "The [[Sharn Watch]] remains vigilant throughout the year, and Long Shadows is no exception," asserted ir'Talan on Sar. "City residents can take comfort in knowing that they're safe in their homes with the Watch on guard."
 
 Commander ir'Talan said patrols would be increased by one-quarter during [[Long Shadows]] nights. Furthermore, the [[Daggerwatch Garrison]] plans to augment patrols in the [[Dura]] quarter by one-half.
 
@@ -25,6 +25,22 @@ Kharisa also pointed out that some of the high-profile crimes from last year's L
 Commander [[ir'Talan|Iyan ir'Talan]] said that while agents of the [[Blackened Book]] would doubtless be active throughout [[Long Shadows]], few arrests have historically been made for crimes involving the supernatural. "Long Shadows carries with it a lot of superstition, and events such as the Bluebrick Spire case feed on that kind of hysteria," he said. "But garden-variety criminals are using Long Shadows as an excuse for their own nefarious activities—it's not a case of monsters running amok."
 
 The [[Sharn Inquisitive]] plans a special report on Long Shadows unrest in a later issue.
+
+!! Ghost Ship Sighted South of Sharn
+
+[[CLIFFSIDE|Cliffside]], [[SHARN|Sharn]]—A glowing ship moving “arrestingly fast” against the wind was sighted near dawn on Far, traveling without benefit of sail or oars, said reports from two nearby vessels.
+
+The inbound cargo galley //Sarah, Green With Envy// and the [[Lhazaar|Lhazaar Principalities]] fishing vessel //Frostfeather// both reported the ship to the [[Sharn]] harbormaster upon landing later that day.
+
+No crew was visible aboard the ship, which passed within “a few hundred feet” of the Lhazaar ship, according to a copy of the ship’s log obtained by the [[Sharn Inquisitive]]. Present throughout the encounter was a “maddening gurgling and howling, as if the drowned were trying to escape their watery graves.” The glowing ship ran parallel to the //Frostfeather// for several minutes, then cut across her bow and made for the horizon. Wave action and light fog obscured it about ten minutes later.
+
+The //Sarah, Green With Envy// galley saw the glowing ship at a greater distance, reporting it heading southwest at great speed.
+
+Breland Navy Commandant Janoi ir’Nauphtula said that routine patrols saw no unusual activity yesterday nor so far today. If the ship was neither hostile nor in distress, then it’s likely any outbound vessel wouldn’t report seeing it until it reached its next port. Thus more information may become available in coming days or weeks, she said.
+
+One possibility is that the glowing ship is another sighting of //Lightning on Water//, a House [[Lyrandar]] [[wind galleon|elemental galleon]] reported missing in Rhaan and rumored to hold a great treasure. Reports from sailors last month indicated that the ship may be traveling along [[Khorvaire]]’s southern coast with only its bound [[elemental]] controlling it.
+
+Untharr Queetan, captain of the //Frostfeather//, was unavailable for comment. Officials of House [[Lyrandar]] were unavailable at press time, but they have refused to discuss the //Lightning on Water// incident since the ship’s disappearance this fall.
 
 !! Prince Oargev Slams Slow Pace of Cyran Rebuilding
 
@@ -40,7 +56,7 @@ The population influx has strained eastern [[Breland]]’s resources, ir’Wynar
 
 A levy of additional soldiers for the Eastern Command languishes in committee, ir’Wynarn said. Road improvements slated for this past summer were delayed by minister’s order and won’t be reconsidered until spring.
 
-But Laruna ir’Panalric, who represents the Brey Crossing region in Parliament, said that [[New Cyre]]’s growing pains are competing with other priorities for Parliament, including a general postwar rebuilding effort and continuing efforts to secure the [[Breland]]’s western border. She accused [[Oargev ir'Wynarn]] of exploiting sympathy for the plight of the refugees for political gain.
+But Laruna ir’Panalric, who represents the Brey Crossing region in Parliament, said that [[New Cyre]]’s growing pains are competing with other priorities for Parliament, including a general postwar rebuilding effort and continuing efforts to secure [[Breland]]’s western border. She accused [[Oargev ir'Wynarn]] of exploiting sympathy for the plight of the refugees for political gain.
 
 “The Day of [[Mourning]] was a tragedy for all of [[Khorvaire]], and I’m proud of how [[Breland]] has opened its arms to former citizens of [[Cyre]]. I wish other nations shared Breland’s generous spirit,” she said.
 
@@ -50,26 +66,21 @@ Laruna ir’Panalric is a sponsor of proposed legislation that would limit the n
 
 “Sadly, there are a few, in Parliament and elsewhere, who can’t accept that the Last War is over and still want to do battle with [[Cyre]]. To them I say: Do your worst—we survived the Day of [[Mourning]], and we’ll survive your petty prejudice."
 
-!! Countess ir’Hilyark Flees Wedding; Whereabouts Unknown
+!! Beggar Dane's Practical Wisdom
 
-[[FAIRHAVEN|Fairhaven]]—The Hilyark family is searching for Countess Kehrlique ir’Hilyark, who disappeared from the family compound in [[Fairhaven]] on Zol, the eve of her wedding.
+<div style="float: left; width: 100px; margin-right: 10px;">{{$:/plugins/wccbuck/beggar-dane.svg}}</div> Welcome once again, dear reader, to the pitch of Beggar Dane! May this old busker share with thee scraps from the table of wisdom, that will if well digested, yield strong nourishment to thy mind! But always take heed, and partake with serious reflection, as the most exquisite //folly// is made of //wisdom// spun too fine.
 
-The bride’s father, Jarran ir’Hilyark, pleaded for information about his daughter’s whereabouts.
+!!! Sell not virtue to purchase wealth, nor liberty to purchase power.
 
-“I know everyone thinks this is a case of ‘cold feet,’ but my daughter has been looking forward to this day for years,” he said. “Tongues are wagging about this, but I ask you to remember that this girl has a mother worried sick about her. She has a six-year-old brother who wants to search every house in [[Fairhaven]], tears in his eyes.”
+!!! A mob's a [[troll]]; heads enough, but no brains.
 
-“Please, if you know where my daughter is, tell us. We only want to know that she’s safe,” he said.
+!!! When [[Dolurrh]] puts out our flame, the snuff will tell, if we were wax, or tallow by the smell.
 
-Because Kehrlique attended [[Morgrave University]] in [[Sharn]] and has many friends in the city, she may have traveled to [[Breland]], Jarran ir’Hilyark said.
+<div align="right">Reader, farewell, all happiness attend thee: <br/>
+May each new week better and richer find thee!</div>
 
-Vandrich d’Orien, ir’Hilyark’s fiancé, has promised House [[Orien]]’s assistance in making sure his bride is found safe.
+<div align="right">Thy obliged friend,</div>
 
-House Orien agents are interviewing everyone involved with the wedding but keeping a low profile, guests said.
-
-“It’s a bit awkward to have the groom’s family hunting for the bride,” one prominent wedding guest said on condition of anonymity. “On the one hand, of course they should help. On the other hand, maybe the bride doesn’t want to be found by the groom.”
-
-The postponed wedding marks another blow to the fortunes of the Hilyark family. Last month, the Hilyarks lost a land dispute covering thousands of acres of prime vineyards between [[Passage]] and [[Bluevine]]. Kehrlique ir’Hilyark’s maternal uncle, Corso ir’Hilyark, was among the passengers on the //Blue Malia//, sunk this summer in [[Scions Sound]]. And a Hilyark-financed bridge over the [[Aundair River]] northeast of [[Fairhaven]], intended as a gift to the crown, has had work halted several times due to cost overruns.
-
-Also missing from the Hilyark compound are Nendra Bachain, a Hilyark family servant, and Macham Turrisaud, Kerlique ir’Hilyark’s bodyguard.
+<div align="right">//"Beggar" Dane//</div>
 
 </div>

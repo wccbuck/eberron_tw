@@ -1,7 +1,7 @@
 category: document
 created: 20210906055916525
 date: 0515
-modified: 20210906082313126
+modified: 20210909194602096
 tags: [[Sharn Inquisitive]] newspaper
 title: Sharn Inquisitive for Dravago 15th, 998
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 
 !! Winter Palace Besieged by Swords of Liberty
 
-[[SHARN|Sharn]]—Although untouched by a century of war, the Winter
+[[CENTRAL|Central Plateau]], [[SHARN|Sharn]]—Although untouched by a century of war, the Winter
 Palace in [[Highest Towers]] suffered an attack from an unexpected quarter: the
 people of [[Breland]]. 
 
@@ -29,6 +29,22 @@ Brelish fight Brelish," he said in [[Wroat]]. "But I hope King
 help us navigate a peaceful transition of power before any
 more innocents are hurt."
 
+!! Sharn Watch Ties Murders to Key of Saranach Pamphlets
+
+[[MENTHIS|Menthis Plateau]], [[SHARN|Sharn]]—On Far, a [[Sharn Watch]] official revealed that the murder of Lady Kria ir'Tandrika, which occurred in her chambers on Zol, is related to the mysterious pamphlet known as the Key of Saranach. Ir'Tandrika's death is the seventh in the last two months that has been linked to the rare manuscript, which is said to be cursed with ill fortune.
+
+[[Daggerwatch Garrison]] Commander [[Lian Halamar]] said he would be doubling the number of [[inquisitive]]s working on the case by the end of the day. Thus far, the investigation has focused on several "citizens of interest," but no suspects have been identified as yet.
+
+Halamar issued two writs of detention on Zol. Though the writs don't accuse the named individuals of crimes, they do give the [[Sharn Watch]] the authority to detain those persons for questioning regarding the pamphlet.
+
+The first writ names the author of the Key of Saranach—a man called Valtreaux the Sage. The City Watch has no description of Valtreaux, nor are his recent whereabouts known.
+
+The second writ names a woman known only as Providence, a frequent speaker in the [[Commons]] at [[Morgrave University]]. The writ states that Providence was handing out Key of Saranach pamphlets several weeks ago, though she hasn't been seen since. According to [[Halamar|Lian Halamar]], at least some of the murder victims received the pamphlet from Providence.
+
+A public appeal to turn in copies of the Key of Saranach pamphlet to the [[City Watch|Sharn Watch]] has thus far achieved no results. Ir'Tandrika's copy—the first acquired so far—has been turned over to the [[Blackened Book]], the magical investigation unit of the Watch. Halamar revealed that the pamphlet purports to be a self-guided study of esoteric mystical techniques.
+
+"It's likely that the connection between the pamphlet and the murders is completely mundane—the rumors of a curse are probably hyperbole," Halamar said. "We don't know how many of these Providence handed out, however, and we'd like to have them all accounted for."
+
 !! Court-Martial Convicts Tardalis on Twenty-Four Counts
 
 [[WROAT|Wroat]]—Colonel Reyva Tardalis drew a sentence of forty years in [[Dreadhold]] after a military jury returned convictions on twenty-four of the twenty-six charges levied against him by the crown. The jury found Tardalis guilty of dereliction of duty, inhumane treatment of subordinates, and conduct unbecoming an officer. The jury deadlocked on the two treason charges, either of which would have resulted in public execution of the prisoner.
@@ -43,64 +59,21 @@ When the [[Treaty of Thronehold]] negotiations began in 995, Brelish commandos s
 
 Upon taking control of the fortress, the commandos found not the orderly encampment depicted in pro-reconquest leaflets, but a community held captive by Tardalis and his soldiers. Detailed reports of the conditions in the Harrkall Valley fortress remain under crown seal, but testimony offered during the court-martial trial alluded to slavery, sadistic punishments, and "unwholesome magical practices."
 
-!! Repairs Interrupt Starilaskur-Sterngate Lightning Rail
+!! Beggar Dane's Practical Wisdom
 
-[[STARILASKUR|Starilaskur]]—House [[Orien]] said on Wir that avalanche-clearing operations north of [[Sterngate]] would prevent [[lightning rail]]s from traveling south into [[Zilargo]] for at least another week.
+<div style="float: left; width: 100px; margin-right: 10px;">{{$:/plugins/wccbuck/beggar-dane.svg}}</div> Welcome once again, dear reader, to the pitch of Beggar Dane! May this old busker share with thee scraps from the table of wisdom, that will if well digested, yield strong nourishment to thy mind! But always take heed, and partake with serious reflection, as the most exquisite //folly// is made of //wisdom// spun too fine.
 
-Station master Laara d’Orien said that the House had teams of excavators working around the clock to clear rockfalls that buried the lightning rail path at several points in the foothills of the northern [[Seawall Mountains]].
+!!! A [[magewright]] in the town is worth an army in the wilderness.
 
-“We expect some rail maintenance delays every spring, but the extent of the avalanches is unprecedented,” she said. “The [[Starilaskur]]-[[Korranberg]] route is important to us, and we want to restore service as soon as possible.”
+!!! If you would persuade, speak to interest, not to reason.
 
-The House is compensating ticket holders unable to travel as planned, she said. And House [[Orien]] is using the opportunity to unveil a new service: “Splendor Caravans.” The caravans feature comfortable horse-drawn passenger coaches and many of the amenities that [[lightning rail]] passengers expect.
+!!! Take this remark from poor Beggar Dane; whate'er's done with the [[Fury]] ends in shame.
 
-“The roads along the [[Seawall Mountains]] are in fine shape, and we know that for a lot of our passengers, the journey is as important as the destination. The Splendor Caravans are slower than the lightning rail, true, but they’re a luxurious experience,” d’Orien said.
+<div align="right">Reader, farewell, all happiness attend thee: <br/>
+May each new week better and richer find thee!</div>
 
-The Splendor Caravans run between [[Starilaskur]] and [[Sterngate]], where [[lightning rail]] cars trapped on the far side of the avalanches take passengers to [[Zolanberg]] and [[Korranberg]]. The journey takes 10 days.
+<div align="right">Thy obliged friend,</div>
 
-House [[Orien]] may eventually add scheduled Spendor Caravans to other routes that don’t currently get lightning rail service, d’Orien said.
-
-The cause of the avalanches is unknown and remains under investigation, d’Orien said.
-
-!! Dozens of Fugitives at Large After Harrowgard Prison Break
-
-[[SIGILSTAR|Sigilstar]]—A violent escape attempt from Harrowgard Prison on Zor left 18 guards dead and scores of criminals dead or fleeing into the wilds of southern [[Thrane]].
-
-Thrane army units from nearby Harrowgard Fortress have cordoned off the prison and are investigating the circumstances of the prison break, the first escape since the prison’s construction in the mid 940s.
-
-Cardinal Yannick, expected to visit the site on Zol two days, issued a public prayer that commended the sacrifice of the slain guards and condemned the criminals for their “cowardice in the face of a justly applied sentence.”
-
-“We have no doubt that none can escape the [[Silver Flame]]’s ultimate justice, no matter how far they may flee,” she said. “The wise prisoner has an attitude of penance, hoping to have a soul forged anew in flames of silver. But the craven fugitive is a creature of instinct, willing to do evil to satisfy a base urge for freedom.”
-
-Yannick also urged residents of southern [[Thrane]] to be vigilant and report any suspicious travelers.
-
-“Let those who would flee proper judgment know that justice is more than a knight’s lance. Justice is also the eyes of the innkeeper, the ears of the woodcutter in the forest, and the stout heart of every Thrane that names a criminal on the run,” she said.
-
-Details on the prison break remain sketchy. Sometime after midnight, a fire broke out along the prison ramparts. A confused battle broke out between rioting prisoners, guards, and possibly mercenaries or bandits attacking the prison from outside its walls. By dawn, one wing of the prison’s main building had collapsed—hours after most prisoners escaped or died in the clashes with guards.
-
-Most of Harrowgard Prison’s inmates were sentenced to long terms during the [[Last War]], often by courts martial for crimes including desertion and gross insubordination. Starting last year, the church of the [[Silver Flame]] has taken a more active role in the rehabilitation of prisoners there, offering guidance in religious matters and apprentice-level instruction in several trades.
-
-Brelish Army commanders along [[Breland]]’s border with [[Thrane]] have stepped up patrols in response to the Harrowgard prison break.
-
-“I figure that if you just broke out of prison, the most natural thing in the world is to try to get across a border,” said Major Ganndo Annatail, “And even a fugitive isn’t going to head into the [[Mournland]]—although some of these guys might have been imprisoned so long that they think it’s still [[Cyre]].”
-
-Any fugitives from Harrowgard caught in [[Breland]] will be remanded back to [[Thrane]]’s custody, Annatail said.
-
-!! Low Tides May Reveal Wreckage of Karrn ‘Tribute Fleet’
-
-[[REKKENMARK|Rekkenmark]]—Unusually low tides next month might expose the sunken ships that once carried [[Khorvaire]]’s greatest treasures to [[Karrn the Conqueror]], an academy scholar said on Zor.
-
-Jarragan ir’Krannau, a “historical astronomer” affiliated with [[Rekkenmark Academy]]’s Karrn Studies program, said the northern shore of [[Karrnath]] could briefly experience minus tides of 10 feet to 20 feet. And along the eastern shore of [[Karrn Bay]], known for its tidal surges, the waters might recede even further.
-
-The minus tide might reveal more than a dozen galleys that sunk in a sudden storm in –980 YK. The ships were part of the “Tribute Fleet” that brought gold, jewels and [[dragonshard]]s from various regional warlords to [[Karrn the Conqueror]], ir’Krannau said.
-
-The minus tide may attract some fortune hunters, ir’Krannau said, but the remote, dangerous terrain near the wreckage site would make a treasure-seeking expedition difficult.
-
-“There’s also no guarantee—someone may have already plundered the ships,” he said. “And the records from the time aren’t clear on whether the fleet was inbound or outbound when it sank.”
-
-Regardless of what’s in the hold, careful study of the tribute fleet represents a treasure-trove of historical lore for scholars, ir’Krannau said. Shipwrecks in northern waters tend to be well-preserved, so scholars will get a glimpse at life aboard [[Karrn|Karrn the Conqueror]]’s navy two millennia ago.
-
-“At the academy, we glory in every detail about Karrn’s land campaigns, but his naval efforts have always been in the background,” he said.
-
-A team of [[Rekkenmark Academy]] scholars leaves next week for the [[Karrn Bay]] coastline, ir’Krannau said. When the tidal outflow reveals the ships, the scholars will learn as much as they can before the waters reclaim the tribute fleet.
+<div align="right">//"Beggar" Dane//</div>
 
 </div>

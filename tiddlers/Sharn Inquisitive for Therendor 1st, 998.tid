@@ -1,7 +1,7 @@
 category: document
 created: 20210905182918649
 date: 0301
-modified: 20210906002707075
+modified: 20210909193518233
 tags: [[Sharn Inquisitive]] newspaper
 title: Sharn Inquisitive for Therendor 1st, 998
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 
 !! POW Protests Rock Sharn Towers
 
-[[SHARN|Sharn]]—An estimated 5,000 protesters marched through [[Sharn]]'s [[Bazaar]] and [[Hareth's Folly]] districts on Mol, blocking key intersections and clashing with city guards throughout the late afternoon and evening. [[Sharn Watch]] troopers were dispatched from the [[Daggerwatch Garrison]] at 6 p.m. to deal with the disturbances. By 10 p.m., nearby precincts surveyed by the [[Sharn Inquisitive]] reported more than 450 arrests.
+[[DURA|Dura]], [[SHARN|Sharn]]—An estimated 5,000 protesters marched through [[Sharn]]'s [[Bazaar]] and [[Hareth's Folly]] districts on Mol, blocking key intersections and clashing with city guards throughout the late afternoon and evening. [[Sharn Watch]] troopers were dispatched from the [[Daggerwatch Garrison]] at 6 p.m. to deal with the disturbances. By 10 p.m., nearby precincts surveyed by the [[Sharn Inquisitive]] reported more than 450 arrests.
 
 Blood of the Disappeared, a group founded by the parents and spouses of missing [[Brelish|Breland]] soldiers, organized the rally to protest what they called "foot-dragging" on the part of [[Breland]]'s War Ministry and diplomatic corps. "We've been at peace for two years now, everyone says. But for us, there is no peace," said Blood Councilor Maruena Tokaunt in a speech to a crowd at Markenny Plaza. "Our government, from the crown on down, needs to take responsibility for negotiating an exchange of soldier remains and any living prisoners. Furthermore, the national armies must open their records so we can find out what happened to the thousands of missing and captured troops."
 
@@ -28,7 +28,7 @@ Tokaunt echoed that call. "The war is over—doesn't everyone realize that? What
 
 !! Mysterious Monoliths under Construction
 
-[[SHARN|Sharn]]—On Zol, [[Morgrave University]] anthropologist Guthra Maranech displayed astonishing drawings depicting thousand-foot-tall ovoid structures under construction deep in the [[Sarlona]]n wilderness.
+[[MENTHIS|Menthis Plateau]], [[SHARN|Sharn]]—On Zol, [[Morgrave University]] anthropologist Guthra Maranech displayed astonishing drawings depicting thousand-foot-tall ovoid structures under construction deep in the [[Sarlona]]n wilderness.
 
 Maranech told a packed lecture hall that while he was uncertain as to the monoliths' purpose, the "[[psionic|psionics]]" energy that provides the [[Inspired]] with their mental powers seemed to fluctuate wildly in the area around these structures. "When we discuss purpose, we enter the realm of conjecture," Maranech said. "But based on the energy readings, I would have to speculate that these monoliths are some sort of psionic batteries or amplifiers."
 
@@ -58,18 +58,21 @@ Critics of the crown's Droaam policy decried the Graywall defense plans even as 
 
 In a strongly worded speech before [[Parliament|Breland Parliament]], Avarulao advocated the launching of a "cleansing crusade" to wipe out the [[Daughters of Sora Kell]] and reclaim western [[Breland]]. Provisions of the Unity Act of 988 prevent the Sharn Inquisitive from reprinting her statement in detail.
 
-!! Prince Halix Enrolls at Rekkenmark Academy
+!! Beggar Dane's Practical Wisdom
 
-[[REKKENMARK|Rekkenmark]], [[KARRNATH|Karrnath]]—Prince Halix ir'Wynarn, youngest of King [[Boranel|Boranel ir'Wynarn]]'s sons, enrolled on Wir at [[Karrnath]]'s prestigious [[Rekkenmark Military Academy|Rekkenmark Academy]]. Halix, who has resided in the Karrnath capital of [[Korth]] since 997, will take a historical course on the military campaigns of [[Karrn the Conqueror]] (-2049 to -1992). The reason for the prince's choice is clear—[[Rekkenmark]] possesses one of only four surviving originals of Karrn's [[Analects of War]], considered by most military commanders to be the seminal text on military strategy.
+<div style="float: left; width: 100px; margin-right: 10px;">{{$:/plugins/wccbuck/beggar-dane.svg}}</div> Welcome once again, dear reader, to the pitch of Beggar Dane! May this old busker share with thee scraps from the table of wisdom, that will if well digested, yield strong nourishment to thy mind! But always take heed, and partake with serious reflection, as the most exquisite //folly// is made of //wisdom// spun too fine.
 
-By virtue of his noble title, Halix also holds the rank of colonel in the Army of [[Breland]]. He is thus the highest-ranking Brelish officer to attend Rekkenmark since the start of the [[Last War]].
+!!! Today is Yesterday's pupil.
 
-The prince's course of study was announced on Sul by [[Syra ir'Tarrn]], [[Karrnath]]'s ambassador in [[Sharn]]. "We're delighted to have someone so capable at [[Rekkenmark|Rekkenmark Academy]]," ir'Tarrn said. "But beyond that, Prince Halix's decision to study at the academy shows how far we've come since the [[Treaty of Thronehold]]. Just a few years ago, a Brelish prince studying war at a Karrnathi academy would have been unthinkable."
+!!! Even [[Balinor]] doesn't hunt two hares with one dog.
 
-Breland military commanders, speaking on condition of anonymity, had mixed views on the prince's decision.
+!!! When truth betrays, lie one must; but ne'er when in [[Jorasco]]'s or [[Sivis]]'s trust.
 
-"Make no mistake, I'd lay down my life for the crown," said one high-ranking general. "But it's a shame that our prince can't learn Brelish tactics from Brelish veterans, rather than seeking some kind of Karrnathi pedigree. Those Rekkenmark blades killed a lot of fine Brelish soldiers."
+<div align="right">Reader, farewell, all happiness attend thee: <br/>
+May each new week better and richer find thee!</div>
 
-Another army general, however, was more sanguine about the situation. "As long as he brings back some understanding of Karrnathi integrated polearm tactics, I'm in favor of his decision. That sort of knowledge might become quite useful someday, if you take my meaning," she said.
+<div align="right">Thy obliged friend,</div>
+
+<div align="right">//"Beggar" Dane//</div>
 
 </div>
