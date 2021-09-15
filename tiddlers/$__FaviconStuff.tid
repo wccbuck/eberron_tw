@@ -1,0 +1,11 @@
+created: 20210914234408107
+modified: 20210915045301131
+tags: $:/tags/RawMarkup
+title: $:/FaviconStuff
+type: text/vnd.tiddlywiki
+
+<link rel="apple-touch-icon" id="ati-180" sizes="180x180">
+<link rel="icon" type="image/png" id="favicon32" sizes="32x32">
+<link rel="icon" type="image/png" id="favicon16" sizes="16x16">
+<link rel="mask-icon" color="#5bbad5" id="safari-pinned-tab">
+<meta name="theme-color" content="#ffffff">
