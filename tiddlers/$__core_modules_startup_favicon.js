@@ -39,7 +39,7 @@ function setFavicon() {
 		faviconLink.setAttribute("href",$tw.utils.makeDataUri(tiddler.fields.text,tiddler.fields.type,tiddler.fields._canonical_uri));
 
        faviconLink = document.getElementById("safari-pinned-tab");
-		link.setAttribute("href",$tw.utils.makeDataUri(tiddler.fields.text,tiddler.fields.type,tiddler.fields._canonical_uri));
+		faviconLink.setAttribute("href",$tw.utils.makeDataUri(tiddler.fields.text,tiddler.fields.type,tiddler.fields._canonical_uri));
 	}
 
     tiddler = $tw.wiki.getTiddler("$:/apple-touch-icon.png");
