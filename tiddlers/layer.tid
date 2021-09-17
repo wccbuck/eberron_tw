@@ -1,7 +1,7 @@
 category: location
 color: #092F1E
 created: 20201217032922177
-modified: 20210727192018487
+modified: 20210917000437211
 tags: 
 title: layer
 type: text/vnd.tiddlywiki
@@ -43,16 +43,27 @@ when you turn around, the ocean is no longer behind you. A
 portal doesn't have to be physical at all; in [[Thelanis]], you can
 travel to a new layer by acting out the elements of a new story.
 
-This chapter provides examples of notable layers for each
-plane, but these are only a sampling. Just as ideas have no
+The layers listed below are notable, but are only a sampling. Just as ideas have no
 limits, there are no limits on the number of layers a plane can
 contain. In developing or describing a layer to fit your story,
 keep the core concept of the plane in mind. What differentiates
-the vast fortress citadel of Irian's Amaranthine City from a
-fortress in Shavarath? A fortress in Shavarath is about war; the
+the vast fortress citadel of [[Irian]]'s [[Amaranthine City]] from a
+fortress in [[Shavarath]]? A fortress in Shavarath is about war; the
 stones are worn, and there's a scent of blood and smoke in the
 air. In Irian, the fortress is a symbol of hope, of an empire on
 the rise; it's bright, clean, and may have never seen an actual
-battle. So while the layers of two planes might initially sound
+battle. So while the layers of two [[plane]]s might initially sound
 similar, look back to the core concept and consider how that's
 reflected in each layer.
+
+!! Planar Layers by Plane
+
+<ul>
+<$list filter="[tag[plane]sort[title]]">
+<li>{{!!article}}<$link overrideClass="graylink"/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[layer]] [tag<currentTiddler>tag[barony]] +[sort[title]]">
+<li>{{!!article}}<$link/></li></$list>
+</ul>
+</$list>
+</ul>

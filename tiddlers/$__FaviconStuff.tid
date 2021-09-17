@@ -1,5 +1,5 @@
 created: 20210914234408107
-modified: 20210915045301131
+modified: 20210915183843153
 tags: $:/tags/RawMarkup
 title: $:/FaviconStuff
 type: text/vnd.tiddlywiki
@@ -9,3 +9,5 @@ type: text/vnd.tiddlywiki
 <link rel="icon" type="image/png" id="favicon16" sizes="16x16">
 <link rel="mask-icon" color="#5bbad5" id="safari-pinned-tab">
 <meta name="theme-color" content="#ffffff">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
