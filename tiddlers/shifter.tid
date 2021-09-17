@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200420185105830
-modified: 20210801034217945
+modified: 20210917023133416
 tags: humanoid
 tier: 1
 title: shifter
@@ -15,7 +15,7 @@ var: common
 
 Shifters are sometimes called the weretouched, as
 many believe they are the descendants of [[human]]s and
-[[werecreatures|therianthrope]]s. Whatever their origins, shifters have
+[[werecreature|therianthrope]]s. Whatever their origins, shifters have
 evolved into a unique race. They are humanoids with a
 bestial aspect; while they can't fully change shape, they
 can temporarily enhance their animalistic features—a
