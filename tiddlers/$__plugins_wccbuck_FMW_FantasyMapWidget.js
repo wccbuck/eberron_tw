@@ -229,8 +229,8 @@ FantasyMapWidget.prototype.initMap = function() {
     this.map.addControl(this.sharnLevels);
 
     var sharnShapesList = [
-        [20.59,-24.64], [20.43,-24.73], [20.19,-24.769], [20.0,-24.648],
-        [19.97,-24.478], [20.05,-24.296], [20.29,-24.241], [20.59,-24.269]
+        [20.46,-24.66], [20.36,-24.73], [20.16,-24.75], [20.01,-24.66],
+        [19.99,-24.54], [20.05,-24.4], [20.23,-24.36], [20.46,-24.38]
     ];
 
     var polygon = L.polygon(sharnShapesList);

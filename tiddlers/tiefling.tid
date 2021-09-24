@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200420202337369
-modified: 20210811020851610
+modified: 20210922232601163
 tags: humanoid
 tier: 1
 title: tiefling
@@ -20,7 +20,7 @@ var: uncommon
 
 <div align="right">—James Wyatt, //Dragon Forge//</div>
 
-Tieflings are [[humanoid]]s touched by [[fiend]]ish powers. This influence has left a clear imprint on their appearance and capabilities. Most have natural darkvision and resistance to fire, as well as an innate [[sorcerous|sorcerer]] magical ability.
+Tieflings are [[humanoid]]s touched by [[fiend]]ish powers. This influence has left a clear imprint on their appearance and capabilities. Most have natural [[darkvision]] and resistance to fire, as well as an innate [[sorcerous|sorcerer]] magical ability.
 
 !! Appearance and Longevity
 

@@ -1,8 +1,30 @@
 category: location
 color: #092F1E
 created: 20210302031500845
-modified: 20210727192022733
+modified: 20210922234643701
 title: nation
 type: text/vnd.tiddlywiki
 
-<<list-links-article "[tag{!!title}sort[title]]">>
+<ul>
+<$list filter="[tag[nation]tags[]tag[continent]] [tag[nation]tags[]tag[sea]] +[sort[title]]">
+<li>{{!!article}}<$link overrideClass="graylink"/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[nation]] [tag<currentTiddler>tagging[]tag[nation]tags[]tag<currentTiddler>category[location]] +[sort[title]]">
+<$list filter="[<currentTiddler>tag[nation]]" emptyMessage="""<li>{{!!article}}<$link overrideClass="graylink"/></li>""" variable="noop">
+<li>{{!!article}}<$link/></li></$list>
+<ul>
+<$list filter="[tag<currentTiddler>tag[nation]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+<ul>
+<$list filter="[tag<currentTiddler>tag[nation]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+</$list>
+</ul>
+
+!!! <<showplace-type>>

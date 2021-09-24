@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201210062648653
-modified: 20210727192008267
+modified: 20210922232434122
 rarity: 2
 tags: accessory [[warforged item]]
 title: final messenger
@@ -34,4 +34,4 @@ attached to you, it immediately detaches and seeks out its target.
 It retains its stored message, but replaces its stored image with
 the last thing you saw before losing consciousness.
 
-A final messenger is a tiny [[construct]] with darkvision and a flying speed of 15 mph. A messenger can only remain active for 8 hours after it detaches from a warforged body, after which time its energy dissipates and it falls unconscious. An unconscious messenger must spend at least an hour or two attached to a warforged, after which it regains its energy, as well as repairs any minor damages.
+A final messenger is a tiny [[construct]] with [[darkvision]] and a flying speed of 15 mph. A messenger can only remain active for 8 hours after it detaches from a warforged body, after which time its energy dissipates and it falls unconscious. An unconscious messenger must spend at least an hour or two attached to a warforged, after which it regains its energy, as well as repairs any minor damages.
