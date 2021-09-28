@@ -1,13 +1,13 @@
 [
     {
         "created": "20201222053418618",
-        "title": "Argentum",
-        "text": "The Argentum is a ministry within the\nChurch of the [[Silver Flame]]. Originally dedicated to\nthe acquisition, study, and redistribution of [[magic item]]s and artifacts, it was repurposed during the [[Last War]] to serve as [[Thrane]]'s espionage agency. ",
-        "modified": "20210727191955700",
-        "tags": "[[Silver Flame]] Thrane [[intelligence agency]]",
+        "text": "The Argentum is a ministry within the\nChurch of the [[Silver Flame]]. Originally dedicated to\nthe acquisition, study, and redistribution of [[magic item]]s and artifacts, it was repurposed during the [[Last War]] to serve as [[Thrane]]'s espionage agency. Where the [[Royal Eyes]] of [[Aundair]] specialize in information gathering, the Argentum excels at theft and extraction, and has access to the warehouse of dangerous artifacts it has gathered over centuries.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Argentum",
+        "tags": "[[Silver Flame]] Thrane [[intelligence agency]]",
+        "modified": "20210928192443711",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "created": "20210321234722218",
-        "title": "Twilight Brigade",
-        "text": "The people of [[Karrnath]] value military discipline and courage, and have\nno love for those who skulk in the shadows and fear a fair fight. However, over the course of the [[Last War]], Karrnath established the Twilight Brigade as a counterintelligence agency. The agents of the Brigade mission were to identify\nand eliminate enemy spies. The Twilight Brigade has always been a small but\ndeeply devoted agency. ",
-        "modified": "20210727192039477",
-        "tags": "Karrnath [[intelligence agency]]",
+        "text": "The people of [[Karrnath]] value military discipline and courage, and have\nno love for those who skulk in the shadows and fear a fair fight. However, over the course of the [[Last War]], Karrnath established the Twilight Brigade as a special division of the [[White Lions]] police force, a counterintelligence agency dedicated to identifying and eliminating enemy spies. The \"Dark Lions\", as they are sometimes called, also serve as “secret police”, gathering information on Karrns on behalf of the king. Karrnath thus has a limited reach when it comes to gathering intelligence in foreign nations, often relying on [[Phiarlan]] and [[Thuranni]] for such purposes; its philosophy is to deny intelligence to the enemy and then rely on its own martial strength. \n\nWith that said, during the war it made use of the ''Raven Corps'', an organization formed from [[Blood of Vol]] mystics who specialized in gathering intelligence through the use of [[necromancy]]—interrogating corpses, using [[shadow]]s as spies, and so on. The Raven Corps was a volunteer force, and was disavowed and disbanded at the same time as the [[Emerald Claw]] and other Seeker orders.\n\nThe Twilight Brigade reports directly to Lady [[Moranna ir'Wynarn]].",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Twilight Brigade",
+        "tags": "Karrnath [[intelligence agency]]",
+        "modified": "20210928193434763",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]
