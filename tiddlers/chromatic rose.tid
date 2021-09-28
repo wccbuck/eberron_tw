@@ -1,0 +1,24 @@
+category: object
+color: #41D5E1
+created: 20210927195524013
+modified: 20210927195824973
+rarity: 3
+tags: tool
+title: chromatic rose
+type: text/vnd.tiddlywiki
+
+This magic rose comes in one of five colors, as noted in the table below. While a rose is held, it gains a harmless visual effect as indicated
+on the table.
+
+While holding the rose by its stem, you gain resistance to damage of the type associated with the rose’s color. If you would suffer more than 2 [[harm]] of this type from a single source (after applying the resistance), the rose disintegrates, and you suffer no harm instead.
+
+You can choose to blow the petals from the rose to produce a 20-foot cone of acid, lightning, poisonous gas, fire, or cold, as dictated by the rose’s damage type. Each creature in the cone must resist the magic or else suffer damage of the appropriate type. Using this property destroys the rose.
+
+!!! Chromatic Roses
+
+|!Color |!Visual Effect |!Damage Type|
+|Black |Drips acid |Acid |
+|Blue |Crackles with lightning |Lightning |
+|Green |Issues green gas |Poison |
+|Red |Wreathed in fire |Fire |
+|White |Covered with frost |Cold |

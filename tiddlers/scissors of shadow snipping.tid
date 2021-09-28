@@ -1,0 +1,20 @@
+category: object
+color: #41D5E1
+created: 20210927210444937
+modified: 20210927212929376
+rarity: 3
+tags: tool
+title: scissors of shadow snipping
+type: text/vnd.tiddlywiki
+
+Only a [[fey]] or a spellcaster able to use fey magic can use this item.
+
+With a few snips with these iron shears, you can cause the shadow of a [[humanoid]] creature you can see within 5 feet of you to detach from its source. If the creature is unwilling to give up its shadow, it can attempt to resist the effect.
+Whether or not the shadow is snipped, this property of the scissors can’t be used again until the next dawn.
+
+The detached shadow is rooted to the spot where it was snipped until you choose to cause it to behave in one of the following ways, either of which is possible only if you can see the shadow:
+
+* You control the shadow’s movements and can make the shadow move across a solid or liquid surface, in any direction you choose (including along vertical surfaces), provided it remains within your sight at all times. The shadow is harmless and unable to be harmed, and it is invisible in darkness. It can’t speak, and it doesn’t require air, sleep, or nourishment.
+* You can relinquish control of the shadow, at which point it becomes autonomous and behaves as the GM wishes. It has similar power and behavior as a [[Mabar]]an [[shadow]], but its creature type is [[fey]] instead of [[undead]]. 
+
+A creature whose shadow has detached from it is considered cursed. If a shadowless creature is subjected to any spell that ends a curse, or if its detached shadow is destroyed, the detached shadow disappears, and the creature regains its normal shadow instantly.

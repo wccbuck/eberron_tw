@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210401184153820
-modified: 20210809004449910
+modified: 20210927202945363
 tags: [[Taking Action]] Storyloom
 title: harm
 type: text/vnd.tiddlywiki
@@ -11,6 +11,6 @@ Each of your harm boxes typically requires some kind of medical or therapeutic a
 
 Note that the GM may use the amount of harm you have suffered to determine [[risk]] or [[impact]] of your moves; don’t be surprised if your 3-harm hero suffers reduced impact in combat!
 
-Some [[talent]]s and [[item|magic item]]s (particularly armor) may grant you additional ''special'' harm boxes. If these harm boxes are marked, they might indicate a damaged piece of armor that needs to be repaired before the box can be cleared.
+Some [[talent]]s and [[item|magic item]]s (particularly armor) may grant you additional ''special'' harm boxes. If these harm boxes are marked, they might indicate a damaged piece of armor that needs to be repaired before the box can be cleared. Other effects may grant you ''temporary'' harm. These boxes are filled first whenever you next suffer harm, and vanish after they are filled.
 
 If you do not have sufficient [[stress]] boxes, harm boxes, or other resources to absorb a blow, you suffer ''severe harm''. This could be a broken bone, a terrible burn, debilitating mental anguish, or some other severe injury that effectively takes you out of the scene. Write a short description of the injury in the “Severe Harm” box on your character sheet. As long as something is written there, all of your actions have greatly reduced [[impact]]. Severe harm takes longer to heal; perhaps several weeks. If your recovery is rushed, you can reenter the action before you are fully healed; mechanically, this means you can clear your severe harm but mark all boxes of normal harm.

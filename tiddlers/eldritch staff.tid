@@ -1,0 +1,16 @@
+category: object
+color: #41D5E1
+created: 20210927200259917
+modified: 20210927200846211
+rarity: 4
+tags: [[magical implement]] weapon
+title: eldritch staff
+type: text/vnd.tiddlywiki
+
+This gnarled staff is made from [[eldritch whorlwood]] and is imbued with [[fey magic|Thelanis]]. It has ten "charges" of magical energy, and as charges are expended, the staff partially untwists. It regains 5-10 charges every 24 hours, but recharges more rapidly while within [[Thelanis]] or a [[manifest zone]] of that [[plane]]. If you expend the last charge, the staff becomes completely straight and loses its magical properties.
+
+You can expend the staff's charges in the following ways:
+
+''//Eldritch Attack.//'' When you hit a target with a melee attack using this staff, you can expend up to 3 of its charges, dealing additional lightning damage for each charge expended.
+
+''//Eldritch Escape.//'' If you suffer [[harm]] while holding this staff, you may immediately expend 3 of the staff's charges to become invisible and teleport yourself, along with any equipment you are wearing or carrying, up to 60 feet to an unoccupied space that you can see. You remain invisible for ten seconds or until you attack, cast a spell, or deal damage.
