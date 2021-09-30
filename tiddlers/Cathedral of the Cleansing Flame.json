@@ -1,13 +1,13 @@
 [
     {
         "created": "20200418183356073",
-        "title": "Cathedral of the Cleansing Flame",
         "text": "[[Sharn]]'s most important temple to the [[Silver Flame]], named in honor of the church's role in cleansing [[Khorvaire]]\nof the stain of evil, ironically may also be its most\ncorrupt holy institution. The Archierophant of\nthe region, [[Ythana Morr]], helps foster this corruption, while many of the\nclergy and other staff simply covet privilege, power,\nand material wealth. The Archierophant, however,\nactively cooperates with the [[rakshasa]] [[Zathara]], who\nlives in the [[Cogs]] district of [[Khyber's Gate]].",
-        "modified": "20210727192000172",
-        "tags": "[[Sovereign Towers]] temple Sharn",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Cathedral of the Cleansing Flame",
+        "tags": "[[Silver Flame]] [[Sovereign Towers]] temple Sharn",
+        "modified": "20210930221837829",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

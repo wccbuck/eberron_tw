@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210601053410030
-modified: 20210727192004568
+modified: 20210930181038883
 rarity: 3
 tags: tool
 title: dimensional shackles
@@ -10,3 +10,5 @@ type: text/vnd.tiddlywiki
 In addition to serving as mundane manacles, these shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different [[plane]] of existence. They don't prevent the creature from passing through an interdimensional portal.
 
 You and any creature you designate when you use the shackles can remove them at will.
+
+For the lower rarity version of this item that requires a [[Mark of Warding]] to use, see [[Kundar chains]].

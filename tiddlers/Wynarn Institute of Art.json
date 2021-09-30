@@ -1,13 +1,13 @@
 [
     {
         "created": "20210206215910903",
-        "title": "Wynarn Institute of Art",
         "text": "The Wynarn Institute, located in [[Metrol]], [[Cyre]], was both one of the foremost academies of magic in [[Khorvaire]] and one of its most amazing museums,\nexploring the artistic potential of the [[arcane|arcane magic]]. Treasures of the\npre-[[Galifar]] kingdoms were displayed here along with modern\nworks of art. In addition to purely artistic exhibits, the Hall of Kings allowed visitors to converse with illusory replicas of the past rulers of Galifar. Though some cultures preserve their rulers so they can advise successors—such as the [[Aereni]] [[elves|elf]] and the [[medusa]]s of [[Cazhaak Draal]]—the [[illusion]]s of the Hall of Kings were merely a tourist attraction.",
-        "modified": "20210727192043042",
-        "tags": "university museum Metrol ruin",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Wynarn Institute of Art",
+        "tags": "university museum Metrol ruin Lycaeum",
+        "modified": "20210930213741699",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

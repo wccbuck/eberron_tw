@@ -1,13 +1,13 @@
 [
     {
         "created": "20200418221029953",
-        "title": "Citadel of the Sun",
         "text": "The tallest tower in\n[[Hope's Peak]] is the Citadel of the Sun, a temple dedicated to [[Dol Arrah]], the [[Sovereign|Sovereign Host]] lady of Sun and\nSword. The stone of the tower has been enchanted to\nshine like gold, but it is still stone—something that\nhas proven to be a grave disappointment to many a\nbeggar who has sought to scrape a shaving from the\nwall. Aerela Tal, a\ndevoted priest who served with distinction in the war\nbefore retiring, maintains the temple. Aerela may provide assistance\nin exchange for services; she is distressed by the\ndarkness in [[Sharn]], and would like to see light shed\non the shadows of the city.\n\nThis large and beautiful temple's tower rises far above the other districts of [[Upper Dura]]. At the top lies a garden, where three golden [[griffon]]s—half-[[celestial]] creatures said to have been touched by the lady of the sun—reside. The griffons rarely stray from the tower, but an oracle has said that they will rise and fight at the time of Sharn's greatest peril. Killing one of these creatures would be a heinous crime that would outrage the devotees of the goddess.",
-        "modified": "20210727192000947",
-        "tags": "[[Hope's Peak]] temple Sharn",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Citadel of the Sun",
+        "tags": "[[Hope's Peak]] temple Sharn [[Dol Arrah]]",
+        "modified": "20210930221902024",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "created": "20210323205426622",
-        "title": "Street of Shadows",
         "text": "Shrines to [[demon]]s and various faces of the [[Dark Six]] are scattered\nacross [[Graywall]], but the Street of Shadows is lined\nwith them. From the cairns of the [[Znir|Znir Pact]] [[gnoll]]s to the\nhorned idols of the [[minotaur]]s, there are dozens of\nicons and altars. The street ends at the Eye of the\n[[Shadow]], a small windowless temple formed from\nblack stone. The [[medusa]] priestess [[Zerasha]] holds court\nhere. ",
-        "modified": "20210727192034990",
-        "tags": "Bloodstone Graywall temple shrine",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Street of Shadows",
+        "tags": "Bloodstone Graywall temple shrine [[Dark Six]]",
+        "modified": "20210930222343460",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

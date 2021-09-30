@@ -1,13 +1,13 @@
 [
     {
         "created": "20200420071934069",
-        "title": "Temple of the Six",
         "text": "Before the rise of the [[Silver Flame]], it was not uncommon to find people\nwho openly worshipped the [[Dark Six]], either hungry\nfor power or making sacrifices to placate the dark\ngods. Temples to the Six were usually built in hidden\nplaces, and when [[Sharn]] was created, an enormous\ntemple to the Dark Six was constructed beneath the\ncity. In 484 YK, [[Flamekeeper|Keeper of the Flame]] Jalus Baine led a force\nof the faithful and exterminated the followers of\nthe Six, and the temple was quickly ransacked. But\nit was not completely destroyed. Currently, it serves\nas the headquarters of [[Daask]] and the home of the\n[[oni]] [[Cavallah]]. Cavallah respects the [[Mockery]] and the [[Shadow]]\nand has restored their altars, but for the most part\nthe temple was simply a convenient base of operations. She has established a range of defenses in the temple, and brought a variety of unpleasant beasts\nfrom [[Droaam]]: [[grick]]s, [[displacer beast]]s, [[basilisk]]s,\nand an assortment of other deadly creatures. The\nwealth gathered by Droaam lies in the vaults of this\ntemple—but seizing it would be a dangerous task.\n\nMany of the [[Dark Six]] have other worshippers\nin [[Khyber's Gate]], who have established hidden\ntemples; these folk generally practice their faith in\nprivate and have little contact with [[Cavallah]]. \n\nThe head priest of the Temple of the Six is [[Ash]].",
-        "modified": "20210727192036722",
-        "tags": "dungeon [[Khyber's Gate]] temple residence Sharn",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Temple of the Six",
+        "tags": "[[Dark Six]] dungeon [[Khyber's Gate]] temple residence Sharn",
+        "modified": "20210930222314020",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "created": "20200418183249377",
-        "title": "Pavilion of the Host",
         "text": "The largest temple complex devoted to the [[Sovereign Host]] in [[Sharn]], the\nPavilion of the Host consists of a grand open tower\nringed by temples dedicated to each of the nine deities in the pantheon. In the central pavilion, sacrifices offered in major festivals and on important holy\ndays honor the pantheon as a whole. The ranking\npriest in Sharn, High Priest [[Phthaso Mogan]], leads most of these rituals and\nsacrifices. Homes for the many clergy working here\noccupy several tower levels below the Pavilion. ",
-        "modified": "20210727192024597",
-        "tags": "[[Sovereign Towers]] temple Sharn",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Pavilion of the Host",
+        "tags": "[[Sovereign Host]] [[Sovereign Towers]] temple Sharn",
+        "modified": "20210930222404453",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

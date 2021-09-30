@@ -1,13 +1,13 @@
 [
     {
         "created": "20210206215602780",
-        "title": "Cathedral on the Hill",
-        "text": "Following the spread of the Church of the [[Silver Flame]] in\n[[Thrane]], the Cathedral on the Hill (also called the Cathedral of the [[Sovereign Host]], located in [[Metrol]], [[Cyre]]) became the primary seat of Vassal devotion in [[Galifar]]. Many of the rulers of Galifar would build an addition to the Cathedral as a way of\nshowing their piety. By the reign of King [[Jarot|Jarot ir'Wynarn]], it was a wonder\nindeed. Nine colossal statues encircled the temple, illusory displays within depicted scenes from the faith, and it held a vast collection of relics and artifacts. Since the [[Mourning]], the fate of the Cathedral and\nits treasures remains unknown.",
-        "modified": "20210727192000192",
-        "tags": "temple Metrol ruin",
+        "text": "Following the spread of the Church of the [[Silver Flame]] in\n[[Thrane]], the Cathedral on the Hill (also called the Cathedral of the [[Sovereign Host]], located in [[Metrol]], [[Cyre]]) became the primary seat of Vassal devotion in [[Galifar]]. Many of the rulers of Galifar would build an addition to the Cathedral as a way of\nshowing their piety. By the reign of King [[Jarot|Jarot ir'Wynarn]], it was a wonder\nindeed. Nine colossal statues encircled the temple, illusory displays within depicted scenes from the faith, and it held a vast collection of relics and artifacts. It was truly the grandest temple to the [[Sovereigns|Sovereign Host]] in [[Khorvaire]]. Since the [[Mourning]], the fate of the Cathedral and\nits treasures remains unknown.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Cathedral on the Hill",
+        "tags": "temple Metrol ruin Southshore [[Sovereign Host]]",
+        "modified": "20210930221553677",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

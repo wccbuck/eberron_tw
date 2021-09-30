@@ -1,13 +1,13 @@
 [
     {
         "created": "20210220001008964",
-        "title": "Ascended Plaza",
         "text": "Within [[Shae Mordai]] is a vast\nplaza enclosed by ancient, sculpted walls. Tremendous monoliths that display the names of departed\n[[elves|elf]] flank its single ornate gate, and the greatest\nstep-pyramid temple in all of [[Aerenal]] rises from its\ncenter. Members of the [[Undying Court]] live within\nhalls built into the outer walls that allow access to the\ninner plaza, which they use as their private garden\nand reserve.\n\n[[Dragon|dragon]] bones incorporated into the walls and\nancient magic as old as the exodus from [[Xen'drik]]\nprotect the plaza and attest to the fact that no enemy\nor thief has ever breached it. Widespread tales even\nclaim that its interior defies the laws of space and\ntime.\n\nThe only living beings allowed within the plaza are Priests of the\nTransition and the [[Sibling Kings]] of [[Aerenal]]. The\nrulers of the land come to speak with long-dead monarchs and others among the court. Priests petition the court for intercession and take its pronouncements to lesser clergy members. They also maintain the temple, which serves as the quarters for the most\ndevout and influential priests in Aerenal, as well as\nfor those who have come to the [[City of the Dead|Shae Mordai]] on\npilgrimage.",
-        "modified": "20210727191956103",
-        "tags": "[[Shae Mordai]] temple park residence",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Ascended Plaza",
+        "tags": "[[Shae Mordai]] temple park residence [[Undying Court]]",
+        "modified": "20210930221343143",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

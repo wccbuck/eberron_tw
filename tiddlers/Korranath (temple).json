@@ -1,13 +1,13 @@
 [
     {
         "created": "20200418031508339",
-        "title": "Korranath (temple)",
         "text": "The grand temple of [[Kol Korran]] is one of the most incredibly ostentatious\nand elaborate structures in [[Sharn]]. Surrounded by\na grand colonnade, the interior of the temple rises\nin a grand dome a hundred feet across covered with\ngold leaf and studded with precious gems. The tiles\nin the mosaic floor are made of precious stones as\nwell, and all the sacral objects inside the temple are\nsolid gold. Sightseers and pilgrims regularly crowd\nthe Korranath, milling under the watchful eye of\nthe temple soldiers employed to protect the fabulous\nwealth inside.\n\nThe high priest of the Korranath, appointed by\nthe mayor on an annual basis, is rarely a [[cleric]] though\nhe carries out rote ceremonial functions. The current\nhigh priest, [[Kalphan Riak]], is a leader of the [[Aurum]].",
-        "modified": "20210727192017431",
-        "tags": "Korranath temple Sharn",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Korranath (temple)",
+        "tags": "Korranath temple Sharn [[Kol Korran]]",
+        "modified": "20210930222414936",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]
