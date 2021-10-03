@@ -503,8 +503,8 @@ function updateMarkerString(self, lat, lng, color){
     //actual lat/lng. Remove this if not altering projection
     var latPrime = Math.asin(lat/72.0)*180/Math.PI;
     var lngPrime = lng;
-    if(lngPrime < -180) {lngPrime += 360;}
-    if(lngPrime > 180) {lngPrime -= 360;}
+    if(lngPrime < -130) {lngPrime += 360;}
+    if(lngPrime > 230) {lngPrime -= 360;}
 
     var NS1 = "N";
     var EW1 = "E";

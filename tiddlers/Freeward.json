@@ -1,13 +1,15 @@
 [
     {
         "created": "20210318220440686",
-        "title": "Freeward",
         "text": "[[Io'lokar]]’s lowest ward seems misnamed to many first-time visitors, since the people here are no freer than anywhere else in the city. However, the original translation from [[Draconic]] involves the concept of “freedom” from authority and power. The people of this ward are thus the lower castes—the mundane servants, laborers,\nsmiths, crafters, and clerks who keep the city going. Most visitors need this fact explained to them, however, because the Freeward bears more resemblance to\na noble’s enclave than any [[Khorvairian|Khorvaire]] working-class\nborough. Buildings here are a riot of color and architectural styles, and the nighttime streets are alive with music and light.\n\nVisitors to the city are initially welcome in the Freeward and nowhere else, but because the city sees few travelers, inns are nonexistent here. Most taverns feature\nprivate dining rooms easily converted to short-term residences for the right barter price. Alternatively, PCs can seek lodging in private homes.\n\nThe wall gates that lead to the [[Terrace]] and higher wards are unguarded, and [[citizens|Io'lokari]] of [[Io'lokar]] move through the city at will. However, strangers are easily recognized, and will be stopped and questioned as to their business. Those not in the upper wards at the invitation of a resident are politely directed back to the Freeward. A second warning often finds characters deposited by force outside the city gate.\n\n!! Noteworthy Locations\n\n<<list-links-article \"[tag{!!title}category[location]sort[title]]\">>",
-        "modified": "20210727192009234",
-        "tags": "ward Io'lokar",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Freeward",
+        "tags": "district Io'lokar",
+        "modified": "20211003222348040",
+        "color": "#96CC39",
         "category": "location",
-        "color": "#96CC39"
+        "article": "the ",
+        "polygons": "-19.062,97.572 -19.062,97.575 -19.067,97.576 -19.07,97.578 -19.073,97.577 -19.076,97.581 -19.078,97.581 -19.079,97.584 -19.085,97.586 -19.084,97.589 -19.089,97.59 -19.091,97.593 -19.091,97.598 -19.092,97.6 -19.096,97.601 -19.097,97.605 -19.096,97.606 -19.098,97.608 -19.103,97.612 -19.101,97.614 -19.108,97.617 -19.109,97.618 -19.107,97.622 -19.107,97.625 -19.109,97.626 -19.109,97.629 -19.107,97.63 -19.104,97.63 -19.104,97.631 -19.107,97.634 -19.107,97.636 -19.101,97.634 -19.1,97.635 -19.096,97.641 -19.094,97.641 -19.091,97.641 -19.091,97.642 -19.089,97.644 -19.09,97.647 -19.088,97.648 -19.086,97.648 -19.084,97.647 -19.083,97.648 -19.084,97.65 -19.083,97.655 -19.084,97.658 -19.085,97.664 -19.088,97.668 -19.086,97.67 -19.088,97.672 -19.088,97.674 -19.084,97.677 -19.08,97.678 -19.082,97.682 -19.084,97.683 -19.084,97.685 -19.082,97.685 -19.08,97.685 -19.08,97.688 -19.078,97.689 -19.08,97.691 -19.083,97.691 -19.085,97.69 -19.088,97.692 -19.09,97.692 -19.094,97.691 -19.096,97.691 -19.098,97.694 -19.102,97.697 -19.103,97.697 -19.106,97.695 -19.108,97.696 -19.113,97.698 -19.115,97.695 -19.118,97.696 -19.122,97.694 -19.126,97.691 -19.127,97.689 -19.13,97.689 -19.132,97.69 -19.133,97.689 -19.132,97.686 -19.132,97.683 -19.134,97.68 -19.134,97.676 -19.136,97.673 -19.139,97.672 -19.137,97.667 -19.136,97.662 -19.137,97.659 -19.136,97.656 -19.134,97.653 -19.136,97.65 -19.137,97.649 -19.137,97.647 -19.134,97.646 -19.137,97.644 -19.138,97.642 -19.134,97.64 -19.134,97.638 -19.131,97.637 -19.133,97.635 -19.134,97.632 -19.133,97.631 -19.131,97.629 -19.127,97.625 -19.127,97.62 -19.126,97.616 -19.127,97.612 -19.125,97.611 -19.122,97.611 -19.124,97.607 -19.122,97.605 -19.119,97.602 -19.118,97.599 -19.116,97.595 -19.114,97.592 -19.109,97.588 -19.11,97.584 -19.108,97.583 -19.106,97.584 -19.103,97.581 -19.101,97.578 -19.098,97.577 -19.098,97.575 -19.094,97.571 -19.089,97.571 -19.086,97.569 -19.083,97.568 -19.082,97.57 -19.079,97.569 -19.077,97.566 -19.076,97.565 -19.071,97.566 -19.068,97.568 -19.066,97.57",
+        "style": "{\"color\":\"#6B001B\",\"fillColor\":\"#8E0024\",\"fillOpacity\":0.3}"
     }
 ]

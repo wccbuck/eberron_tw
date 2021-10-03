@@ -1,13 +1,15 @@
 [
     {
         "created": "20210318221146979",
-        "title": "Bastion",
         "text": "At the apex of the mountain, the walls of the Bastion protect the chambers and residences of [[Io'lokar]]’s powerful residents. These are the sages and scholars who direct the work of the [[colleges|Colleges of Io'lokar]], plan the city’s sanctioned expeditions to sites across [[Argonnessen]], and magically monitor the actions and intrigues of the [[dragon]]s of the [[Vast]]. Unlike in the lower wards, the Bastion’s wall gate is guarded by four of the [[Arnaaracaex]] and powerful magic wards.\n\n!! Noteworthy Locations\n\n<<list-links-article \"[tag{!!title}category[location]sort[title]]\">>",
-        "modified": "20210727191957175",
-        "tags": "ward Io'lokar",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Bastion",
+        "tags": "district Io'lokar",
+        "modified": "20211003222253690",
+        "color": "#96CC39",
         "category": "location",
-        "color": "#96CC39"
+        "article": "the ",
+        "polygons": "-18.993,97.632 -18.995,97.632 -19.002,97.63 -19.006,97.63 -19.01,97.632 -19.013,97.635 -19.012,97.641 -19.011,97.643 -19.008,97.648 -19.007,97.653 -19.011,97.658 -19.011,97.659 -19.012,97.661 -19.013,97.666 -19.013,97.671 -19.011,97.676 -19.007,97.679 -19.005,97.682 -19.0,97.683 -18.996,97.683 -18.992,97.68 -18.988,97.679 -18.987,97.677 -18.984,97.668 -18.982,97.665 -18.977,97.662 -18.975,97.659 -18.975,97.656 -18.977,97.653 -18.982,97.649 -18.987,97.647 -18.989,97.646 -18.992,97.643 -18.99,97.641 -18.992,97.638 -18.992,97.636",
+        "style": "{\"color\":\"#6B001B\",\"fillColor\":\"#8E0024\",\"fillOpacity\":0.3}"
     }
 ]
