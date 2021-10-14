@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210903192301454
-modified: 20210905190714360
+modified: 20211014231846838
 rarity: 4
 tags: armor
 title: stone swim armor
@@ -11,4 +11,4 @@ This set of armor is crafted from the hide of a [[xorn]] or a [[bulette]]. While
 
 * You have [[tremorsense]] out to 60 feet.
 * You can burrow through nonmagical earth and stone as quickly as you can walk. You do not disturb the material you move through.
-* You have [[advantage]] to hide in rocky terrain.
+* You have +2 [[impact]] or -2 [[risk]] to hide in rocky terrain.

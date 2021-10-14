@@ -1,9 +1,11 @@
 category: game mechanics
 created: 20210409161906895
-modified: 20210727191953535
+modified: 20211014225929012
 tags: Storyloom [[Taking Action]]
 title: advantage
 tooltip: +1d6
 type: text/vnd.tiddlywiki
 
 "Advantage" is a term sometimes used to mean "add one d6 to your dice pool for this [[attempt|Taking Action]]". This is done before the roll. Advantages cancel out [[disadvantage]]s.
+
+Sometimes, advantage is referenced in a defensive context, such as "gain an advantage to defend against magical enchantments". If the player is taking action to resist such an effect, they add one d6 to their dice pool as normal. But if the effect would occur as the result of a [[consequence]] to a different roll, such as an evil wizard attempting to charm a player character as they make an attempt to shatter a crystal, the character's attempt would simply be made with lowered [[risk]].

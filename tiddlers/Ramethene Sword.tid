@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210330152651412
-modified: 20210727192027101
+modified: 20211014230534302
 rarity: 5
 tags: weapon
 title: Ramethene Sword
@@ -30,7 +30,7 @@ During the [[Age of Giants]], the blade was sealed in a shrine in [[Mel-Aqat]] i
 Three rituals are required to unlock the full magical potential of the Ramethene Sword. 
 
 * ''//Spirit of the Fleshrender.//'' You must sever the sword's connection to the [[Fleshrender|Shudra]] and bind it to yourself by consecrating the blade in a location that is sacred to your beliefs. Then, you must anoint it with a special balm created from exotic oils and powdered gemstones. This ritual allows the wielder of the blade to:
-** Gain an [[advantage]] when attacking creatures of the [[dragon]] type. If the target is an adult dragon, gain two advantages; if an ancient dragon, three advantages.
+** Gain +1 [[impact]] when attacking creatures of the [[dragon]] type. If the target is an adult dragon, gain +2 impact; if an ancient dragon, +3.
 ** Cast the [[cloudkill]] spell at will.
 * ''//The Blade Drinks The Blood.//'' You must use the sword to deliver the killing blow to a true [[dragon]]. You must then bathe the blade in an alchemical mixture including the dragon's blood and powdered precious metals. This ritual allows the wielder of the blade to:
 ** Resist the breath weapon of all dragons.

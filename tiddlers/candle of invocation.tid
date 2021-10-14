@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210315040122177
-modified: 20210727191959897
+modified: 20211014225443878
 rarity: 4
 tags: tool
 title: candle of invocation
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 This slender taper is dedicated to a deity and is imbued with the essence of that deity's domains and moral alignment.
 
-The candle's magic is activated when the candle is lit. After burning for a total of 4 hours, the candle is destroyed. While lit, the candle sheds dim light in a 30-foot radius. Any creature within that light whose moral alignment matches that of the candle or is performing an action associated with that deity (e.g. [[Dol Dorn]] and fighting, [[Onatar]] and crafting) gains [[advantage]] on that action. In addition, a wielder of [[divine magic]] who is dedicated to that deity can cast their spells as if they were one [[tier|spell tier]] lower.
+The candle's magic is activated when the candle is lit. After burning for a total of 4 hours, the candle is destroyed. While lit, the candle sheds dim light in a 30-foot radius. Any creature within that light whose moral alignment matches that of the candle or is performing an action associated with that deity (e.g. [[Dol Dorn]] and fighting, [[Onatar]] and crafting) gains +1 [[impact]] on that action. In addition, a wielder of [[divine magic]] who is dedicated to that deity can cast their spells as if they were one [[tier|spell tier]] lower.
 
 Alternatively, when you light the candle for the first time, you can cast the [[gate]] spell with it. Doing so destroys the candle.

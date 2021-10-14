@@ -1,0 +1,13 @@
+category: location
+created: 20211012163455976
+linkto: Tempest Isle
+list-before: Adder River
+modified: 20211012163741701
+polygons: 46.464,40.177 46.509,40.551 46.365,40.627 46.099,40.671 45.878,40.935 45.61,41.517 45.371,41.517 45.054,41.616 44.813,41.44 44.469,41.199 44.476,40.891 44.28,40.715 44.359,40.496 44.727,40.254 45.054,40.342 45.286,40.265 45.64,40.386 45.84,40.089 46.206,39.968
+style: {"color":"#333C1A","fillColor":"#66883F","fillOpacity":"0.8"}
+tags: geography
+title: $:/ForestOfTempestIsle
+type: text/vnd.tiddlywiki
+var: back
+
+Unnamed forest on Tempest Isle.

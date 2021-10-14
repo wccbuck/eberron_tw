@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201210035109136
-modified: 20210801030809655
+modified: 20211014231636446
 rarity: 1
 tags: [[Mark of Detection]] accessory [[dragonmark focus item]]
 title: Medi spectacles
@@ -10,4 +10,4 @@ type: text/vnd.tiddlywiki
 
 In order to use this magic item, you must possess the [[Mark of Detection]].
 
-These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 foot. You have [[advantage]] to investigate while searching an area or studying an object within that range.
+These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 foot. You have +1 [[impact]] to investigate while searching an area or studying an object within that range.

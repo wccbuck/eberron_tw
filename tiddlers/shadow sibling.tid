@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201224222719456
-modified: 20210727192030735
+modified: 20211014232308271
 rarity: 3
 tags: accessory symbiont
 title: shadow sibling
@@ -12,4 +12,4 @@ fuses to the center of your forehead when you attune to it.
 
 You can cause the shadow sibling to
 exude or retract an ectoplasmic shadow that surrounds your
-body and conceals you from prying eyes. While the shadow is active, you aren't quite invisible, but you have a large [[advantage]] to hiding and moving stealthily. 
+body and conceals you from prying eyes. While the shadow is active, you aren't quite invisible, but you have +2 [[impact]] or -2 [[risk]] when hiding and moving stealthily. 

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210109074455464
-modified: 20210727192021511
+modified: 20211014231458384
 rarity: 3
 tags: weapon
 title: mimaxe
@@ -17,7 +17,7 @@ The process of consuming a corpse is loud, obvious, and messy. Once consumed, th
 
 If the mimaxe goes 24 consecutive hours without eating a corpse, it loses 1 charge. If it goes 24 hours at 0 charges, it will search for the nearest source of food on its own... which may be the owner.
 
-''//Roar.//'' You may expend one charge to cause the mimaxe to roar menacingly, striking fear into the hearts of your foes, and granting [[advantage]] on attempts to intimidate.
+''//Roar.//'' You may expend one charge to cause the mimaxe to roar menacingly, striking fear into the hearts of your foes, and granting improved [[impact]] on attempts to intimidate.
 
 ''//Teeth.//'' When you hit a creature with this weapon, you may expend a charge to deal extra damage.
 

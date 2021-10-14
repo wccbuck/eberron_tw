@@ -1,0 +1,60 @@
+category: game mechanics
+created: 20211014223812475
+modified: 20211014225244419
+title: random artifact properties
+type: text/vnd.tiddlywiki
+var1: 1 9
+var2: 8 28
+
+When creating a unique [[magic item]] of tremendous power, you may want to add beneficial or detrimental properties the artifact bestows on the person who uses it. Use this tool to generate random properties as inspiration. Feel free to add additional conditions to any of these properties, such as "while in sunlight", "for three days after killing a gnome", or "after pledging loyalty to a specific [[immortal]]".
+
+See also [[random magical effect]] for more ideas.
+
+<$button><$action-chooserandom $field="var1" $filter="[[$:/ArtifactPropertyBeneficial]indexes[]]" $number="2" $unique="true"/><$action-chooserandom $field="var2" $filter="[[$:/ArtifactPropertyDetrimental]indexes[]]" $number="2" $unique="true"/>Generate All</$button>
+
+<div>
+<div class="cs-row">
+<div class="cs-column" style="justify-content: flex-start; margin: 0px 2px 0px 2px;">
+<table class="manager-table">
+  <tr><th>Beneficial Properties</th></tr>
+  <$list filter="[list[!!var1]]" variable="traitindex">
+  <tr>
+    <td>
+<div style="display:inline-block;vertical-align:middle;width:100%;">
+<div style="float:left;"><$transclude tiddler="$:/ArtifactPropertyBeneficial" index=<<traitindex>>/></div>
+<div style="float:right;">
+<$button class="tc-btn-invisible" tooltip="Refresh"><$action-chooserandom $field="var1" $filter="[[$:/ArtifactPropertyBeneficial]indexes[]]" $append={{!!var1}} $remove=<<traitindex>>/>{{$:/core/images/refresh-button}}</$button>
+<$button class="tc-btn-invisible" tooltip="Remove"><$action-listops $field="var1" $subfilter="+[remove<traitindex>]"/>{{$:/core/images/delete-button}}</$button>
+</div>
+</div>
+    </td>
+  </tr>
+  </$list>
+  <tr>
+    <td align="center"><$button style="margin: 2px;"><$action-chooserandom $field="var1" $filter="[[$:/ArtifactPropertyBeneficial]indexes[]]" $append={{!!var1}}/>Add Another</$button></td>
+  </tr>
+</table>
+</div>
+<div class="cs-column" style="justify-content: flex-start; margin: 0px 2px 0px 2px;">
+<table class="manager-table">
+  <tr><th>Detrimental Properties</th></tr>
+   <$list filter="[list[!!var2]]" variable="traitindex">
+  <tr>
+    <td>
+<div style="display:inline-block;vertical-align:middle;width:100%;">
+<div style="float:left;"><$transclude tiddler="$:/ArtifactPropertyDetrimental" index=<<traitindex>>/></div>
+<div style="float:right;">
+<$button class="tc-btn-invisible" tooltip="Refresh"><$action-chooserandom $field="var2" $filter="[[$:/ArtifactPropertyDetrimental]indexes[]]" $append={{!!var2}} $remove=<<traitindex>>/>{{$:/core/images/refresh-button}}</$button>
+<$button class="tc-btn-invisible" tooltip="Remove"><$action-listops $field="var2" $subfilter="+[remove<traitindex>]"/>{{$:/core/images/delete-button}}</$button>
+</div>
+</div>
+    </td>
+  </tr>
+  </$list>
+  <tr>
+    <td align="center"><$button style="margin: 2px;"><$action-chooserandom $field="var2" $filter="[[$:/ArtifactPropertyDetrimental]indexes[]]" $append={{!!var2}}/>Add Another</$button></td>
+  </tr>
+</table>
+</div>
+</div>
+</div>

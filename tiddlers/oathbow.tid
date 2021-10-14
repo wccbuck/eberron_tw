@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201228044036339
-modified: 20210727192023379
+modified: 20211014232025159
 rarity: 4
 tags: weapon
 title: oathbow
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 When you nock an arrow on this longbow and choose a target you can see, you can speak the bow's command phrase. The target of your attack becomes your sworn enemy until it dies or until dawn seven days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.
 
-You have a large [[advantage]] when attacking your target, and have greater [[impact]] on a hit. You can also curve your arrows to strike your target hiding behind cover. 
+You have +2 [[impact]] when attacking your target. You can also curve your arrows to strike your target hiding behind cover. 
 
-While your sworn enemy lives, you have [[disadvantage]] on attack rolls with all other weapons.
+While your sworn enemy lives, you have [[disadvantage]] on attempts to attack with any other weapon.

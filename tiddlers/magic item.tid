@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20200417064035970
-modified: 20210809033936823
+modified: 20211014232650161
 rarity: 0
 title: magic item
 type: text/vnd.tiddlywiki
@@ -9,6 +9,10 @@ type: text/vnd.tiddlywiki
 The world of [[Eberron]] thrums with the power of magic. [[Artificer|artificer]]s, [[magewright]]s, [[wizard]]s, and other spellcasters produce an abundance of magic items, particularly those with the "common" [[rarity]]. 
 
 See also <<showitems "Find Items">>.
+
+!! Rarity
+
+{{rarity}}
 
 !! Crafting Complications
 

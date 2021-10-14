@@ -1,11 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201227040753679
-modified: 20210727192010750
+modified: 20211014231237720
 rarity: 2
 tags: accessory
 title: gloves of thievery
 type: text/vnd.tiddlywiki
 
-These gloves are invisible while worn. While wearing them, you gain [[advantage]] to sleight of hand and lockpicking attempts.
+These gloves are invisible while worn. While wearing them, you gain +1 [[impact]] or -1 [[risk]] to sleight of hand and lockpicking attempts.
 

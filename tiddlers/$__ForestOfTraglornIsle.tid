@@ -1,0 +1,13 @@
+category: location
+created: 20211012163832006
+linkto: Traglorn Isle
+list-before: Adder River
+modified: 20211012164239921
+polygons: 48.48,42.67 48.35,42.84 48.07,43.11 47.92,43.41 47.8,43.77 47.86,44.03 48.13,44.14 48.36,44.27 48.51,44.2 48.69,44.37 48.9,44.4 48.93,44.07 48.7,43.58 48.67,42.99 48.67,42.67
+style: {"color":"#333C1A","fillColor":"#66883F","fillOpacity":"0.8"}
+tags: geography
+title: $:/ForestOfTraglornIsle
+type: text/vnd.tiddlywiki
+var: back
+
+Unnamed forest on Traglorn Isle.
