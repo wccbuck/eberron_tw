@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20211027185147188
+modified: 20211027185328376
+tags: evocation
+tier: 2
+title: binding ice
+type: text/vnd.tiddlywiki
+
+A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must resist or dodge the burst or else suffer cold damage and become hindered by ice formations for 1 minute, or until it or another creature within reach of it breaks away the ice.

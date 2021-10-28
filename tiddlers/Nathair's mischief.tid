@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20211027180751141
+modified: 20211027181510667
+tags: illusion
+tier: 2
+title: Nathair's mischief
+type: text/vnd.tiddlywiki
+
+You fill a 20-foot-diameter sphere you can see within 60 feet with [[faerie dragon]] magic. Roll on the "Mischievous Surge" table below to determine the magical effect produced, and roll again every 10 or so seconds until the spell ends (1 minute, or until your concentration breaks). You can slowly move the area of effect as well (about 3 mph).
+
+|!<<dr d4>> |!Mischievous Surge |
+| 1 |The smell of apple pie fills the air, and each creature in the sphere must resist your magic or be [[charm]]ed by you for the next 10 seconds. |
+| 2 |Bouquets of flowers appear all around spray water in the face of every creature within the sphere for the next 10 seconds. |
+| 3 |Each creature in the sphere must resist your magic or begin giggling uncontrollably for the next 10 seconds. While giggling, the creature is effectively incapacitated, and moves in random directions. |
+| 4 |Drops of molasses hover in the sphere, making it difficult to move through for the next 10 seconds. |
+
+This spell is named after the [[archfey]] [[Nathair Sgiathach]].

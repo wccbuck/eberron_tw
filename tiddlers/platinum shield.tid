@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20211027183228955
+modified: 20211027184246195
+tags: abjuration
+tier: 4
+title: platinum shield
+type: text/vnd.tiddlywiki
+
+You create a field of silvery light that surrounds a creature of your choice within 60 feet (you can choose yourself). The field sheds dim light out to 5 feet, and persists for up to 10 minutes. While surrounded by the field, a creature gains [[advantage]] to defend against projectiles, as well as any acid, cold, fire, lightning, and poison damage. The creature gains an additional [[advantage]] to defend against effects that cause damage in an area, such as an explosion, a [[fireball]], or a [[dragon]]'s breath weapon.
+
+Until the spell ends, you can freely move the field to any creature within 60 feet of yourself.

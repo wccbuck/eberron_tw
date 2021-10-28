@@ -1,0 +1,16 @@
+category: spell
+color: #B7A1E0
+created: 20211027185345219
+modified: 20211027191326348
+tags: [[divine magic]] conjuration
+tier: 3
+title: summon draconic spirit
+type: text/vnd.tiddlywiki
+
+You call forth a semi-corporeal [[draconic|dragon]] spirit ([[creature tier]] ''2''). It manifests in an unoccupied space that you can see within 60 feet.  When you cast this spell, choose a color of [[dragon]]. The creature resembles a dragon of the chosen color, which determines its resistances and the nature of its breath weapon. The creature disappears when it becomes incapacitated or when the spell ends after up to 1 hour (or your concentration breaks).
+
+The creature is an ally to you and your companions. It obeys your verbal commands. If you don’t issue any, it simply attempts to avoid danger.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, the [[creature tier]] of the summoned draconic spirit is ''3''.
