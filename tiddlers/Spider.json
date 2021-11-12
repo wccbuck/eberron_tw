@@ -1,13 +1,13 @@
 [
     {
         "created": "20210326002359657",
-        "title": "Spider",
-        "text": "The Spider is a [[changeling]] information broker who owns a cosmetics store called Honest Faces in the [[Dragoneyes]] district. This location is a common destination for people who want to purchase secrets from the [[Tyrants]]. Though the Spider often sells secrets for gold, sometimes they will trade their knowledge only for services or other secrets. ",
-        "modified": "20210727192033793",
-        "tags": "changeling humanoid Tyrants Sharn",
+        "text": "The Spider is a [[changeling]] information broker who owns a cosmetics store called ''Honest Faces'' in the [[Dragoneyes]] district. This location is a common destination for people who want to purchase secrets from the [[Tyrants]]. Though the Spider often sells secrets for gold, sometimes they will trade their knowledge only for services or other secrets. ",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Spider",
+        "tags": "changeling humanoid Tyrants Sharn",
+        "modified": "20211112190622755",
+        "color": "#FEA627",
         "category": "person",
-        "color": "#FEA627"
+        "article": "the "
     }
 ]

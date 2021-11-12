@@ -1,13 +1,15 @@
 category: event
 color: #A3CFBB
 created: 20210303032429386
-modified: 20210727192030544
+day: 1
+modified: 20211107003846162
+month: 11
 tags: holiday Stormreach
 title: Shacklebreak
 tooltip: Stormreach holiday of lawlessness and chaos
 type: text/vnd.tiddlywiki
 
-''Date: '' [[1 Aryth|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 The [[Storm Lords]] of [[Stormreach]] are descended from pirates, and the
 city was once a lawless haven for the scum of the seas. In

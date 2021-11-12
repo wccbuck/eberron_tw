@@ -1,7 +1,7 @@
 category: occupation
 color: #A3CFBB
 created: 20200422164821759
-modified: 20210727192014842
+modified: 20211108184658023
 title: inquisitive
 type: text/vnd.tiddlywiki
 
@@ -12,4 +12,6 @@ House [[Tharashk]]'s [[Finders Guild]], House [[Medani]]'s [[Warning Guild]], an
 
 !! People and Places Tagged "inquisitive"
 
-<<list-links-article "[tag{!!title}sort[title]]">>
+!!! <<showpplent-type>>
+
+!!! <<showplace-type>>

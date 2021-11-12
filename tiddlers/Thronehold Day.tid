@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20200410025801563
-modified: 20210727192037657
-tags: holiday
+day: 11
+modified: 20211107005548839
+month: 11
+tags: holiday [[Five Nations]]
 title: Thronehold Day
 type: text/vnd.tiddlywiki
 
-''Date: '' [[11 Aryth|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 This observance marks the day that the [[Treaty of Thronehold]] was signed, officially ending the [[Last War]]. This year (998 YK) is only the second time the event has
 been commemorated, and the [[Lord Mayor|Lord Mayor of Sharn]] of [[Sharn]] has

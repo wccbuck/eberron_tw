@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20200410025234668
-modified: 20210727192026936
+day: 23
+modified: 20211107003613556
+month: 7
 tags: sport Sharn
 title: Race of Eight Winds
 type: text/vnd.tiddlywiki
 
-''Date: '' [[23 Lharvion|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 [[Dura]], one of the oldest and poorest quarters of [[Sharn]],
 contains inhabitants swept in from all corners of

@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20200410025405118
-modified: 20210727192008003
+day: 25
+modified: 20211107003420376
+month: 8
 tags: [[Silver Flame]] holiday Sharn
 title: Fathen's Fall
 type: text/vnd.tiddlywiki
 
-''Date: '' [[25 Barrakas|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 This celebration commemorates a priest of the [[Silver Flame]] who was martyred while exposing [[therianthrope]]s in [[Sharn]]. The day's activities often cause tension with
 the [[shifter]] community. 

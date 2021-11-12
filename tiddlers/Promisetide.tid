@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20210924212138430
-modified: 20210924212208154
+day: 28
+modified: 20211107003438550
+month: 5
 tags: [[Silver Flame]] holiday
 title: Promisetide
 type: text/vnd.tiddlywiki
 
-''Date: '' [[28 Dravago|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 As nature’s beauty
 reaches its height in late spring, the Purified honor

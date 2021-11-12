@@ -1,13 +1,13 @@
 [
     {
         "created": "20200419215912885",
-        "title": "Burning Ring",
         "text": "The Burning Ring is not\na specific location in [[Firelight]]. It moves frequently\nas the [[Sharn Watch]] keeps trying to shut it down, but\nit seems to find a place to operate every night. It\noffers blood sport, gladiator-style combat conducted\nby amateur and professional warriors. The combat\nis real—the combatants use a variety of weapons but\nwear no armor—and sometimes matches end in\ndeath. Ideally, the healer on hand for every fight\nreaches a fallen combatant before he dies, but sometimes the fallen are beyond help. Death only seems\nto make the crowds cheer louder.\n\nThe ringmaster is Hoas Junter ([[shifter]]), who has extensive connections to the [[Daask]]\ngang. Sometimes his connections help him bring in a\nmonster as a combatant to the crowd's utter delight.\nThe monster usually wins.\n\nFinding the Burning Ring on any given night requires gathering information from the locals in [[Firelight]] or [[Torchfire]]. ",
-        "modified": "20210727191959672",
-        "tags": "[[secret society]] Firelight",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Burning Ring",
+        "tags": "[[secret society]] Firelight Sharn",
+        "modified": "20211112215350661",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

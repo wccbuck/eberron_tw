@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20210924212851540
-modified: 20210924212918877
+day: 24
+modified: 20211107003637974
+month: 11
 tags: [[Silver Flame]] holiday
 title: Rampartide
 type: text/vnd.tiddlywiki
 
-''Date: '' [[24 Aryth|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 As nights grow longer
 and the world turns toward winter, the Purified of the [[Silver Flame]] steel

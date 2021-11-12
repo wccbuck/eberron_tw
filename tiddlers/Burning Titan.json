@@ -1,13 +1,15 @@
 [
     {
         "created": "20210303031800049",
-        "title": "Burning Titan",
-        "text": "''Date: '' [[1 Therendor|Khorvaire calendar]]\n\nOnce a year in the week leading up to Therendor 1, to emerge from winter’s cold embrace and hasten into spring, [[Stormreach]]’s residents construct a titan of wood, wicker, and oil atop the cliffs east of the [[House Lyrandar Shipyard]]. The titan represents the [[ancient|Age of Giants]] kings of [[Xen'drik]], who were burned away in [[dragon]]fire. The building of the titan takes six days and is itself a time of great revelry. Most of [[Forgelight]]’s workers get the entire week off to help, House [[Phiarlan]] supplies entertainment around the clock, and\ndozens of casks of gin are consumed by the builders.\nThe titan is set aflame at sundown on Therendor 1, and\nan all-night celebration of wild dancing and drinking\nensues, with many revelers wearing dragon masks. The\n[[giants of Rushemé|Guardians of Rushemé]] find the festival a distasteful display\nbut shoulder the unintentional insult graciously.",
-        "modified": "20210727191959691",
-        "tags": "holiday Stormreach",
+        "text": "''Date: '' <$link to=\"Khorvaire calendar\">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable=\"noop\">-{{!!day2}}</$list> <$transclude tiddler=\"$:/MonthNames\" index={{!!month}}/></$link>\n\nOnce a year in the week leading up to Therendor 1, to emerge from winter’s cold embrace and hasten into spring, [[Stormreach]]’s residents construct a titan of wood, wicker, and oil atop the cliffs east of the [[House Lyrandar Shipyard]]. The titan represents the [[ancient|Age of Giants]] kings of [[Xen'drik]], who were burned away in [[dragon]]fire. The building of the titan takes six days and is itself a time of great revelry. Most of [[Forgelight]]’s workers get the entire week off to help, House [[Phiarlan]] supplies entertainment around the clock, and\ndozens of casks of gin are consumed by the builders.\nThe titan is set aflame at sundown on Therendor 1, and\nan all-night celebration of wild dancing and drinking\nensues, with many revelers wearing dragon masks. The\n[[giants of Rushemé|Guardians of Rushemé]] find the festival a distasteful display\nbut shoulder the unintentional insult graciously.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Burning Titan",
+        "tags": "holiday Stormreach",
+        "modified": "20211107002953823",
+        "color": "#A3CFBB",
         "category": "event",
-        "color": "#A3CFBB"
+        "article": "the ",
+        "month": "3",
+        "day": "1"
     }
 ]

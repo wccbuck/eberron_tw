@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20211104181707801
+modified: 20211104182300356
+rarity: 3
+tags: tool
+title: mesmerizing puzzle
+type: text/vnd.tiddlywiki
+
+Mesmerizing puzzles appear as small wood or metal puzzles made up of 3 dimensional interlocking blocks. When placed in a location and activated by a command word, they become a trap. Creatures within 30 feet of the puzzle when it is activated are not subject to the puzzle's effects.
+
+Once every few seconds, the puzzle will silently cast [[suggestion]] on a creature within 30 feet of it. If that creature fails to resist the enchantment and is not in immediate threat or danger, it will feel compelled to investigate the puzzle, disassemble it, and begin reassembly.
+
+Once a creature has become fixated on the puzzle, it captures their attention for up to 30 minutes. A creature can follow along with their friends/allies, but is capable of only brief responses to questions, and will not engage in combat, spellcasting, or other activities requiring focus. Successfully completing the puzzle, or suffering any [[harm]], increases the chances of a creature shaking off the effect early. If the puzzle is taken away by force, the creature may react violently and attempt to regain the puzzle by any means.

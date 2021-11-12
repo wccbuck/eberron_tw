@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20210924213414744
-modified: 20210924213531085
+day: 13
+modified: 20211107003819835
+month: 1
 tags: [[Blood of Vol]] holiday
 title: Revelation Day
 type: text/vnd.tiddlywiki
 
-''Date: '' [[13 Zarantyr|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 Also called Ascension Day, this ceremony allows [[Seekers of the Divinity Within|Blood of Vol]] to meditate on their spiritual progress. Seekers gather
 for a Sacrament of Blood; once the chalice is filled,

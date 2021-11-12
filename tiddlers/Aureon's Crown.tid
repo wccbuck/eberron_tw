@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20200410025037767
-modified: 20210727191956515
+day: 26
+modified: 20211107002815314
+month: 5
 tags: [[Sovereign Host]] holiday Aureon
 title: Aureon's Crown
 type: text/vnd.tiddlywiki
 
-''Date: '' [[26 Dravago|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 The [[Five Nations]] observe this festival of [[Aureon]]. It is a celebration of knowledge, when the elders of the community share their wisdom with the young at evening
 feasts. Throughout the day, priests of Aureon in [[Sharn]] gather

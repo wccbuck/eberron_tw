@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20200410024558101
-modified: 20210727192002780
+day: 9
+modified: 20211107003013223
+month: 2
 tags: holiday Sharn
 title: Crystalfall
 type: text/vnd.tiddlywiki
 
-''Date: '' [[9 Olarune|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 During the [[Last War]], saboteurs caused a [[floating tower|Glass Tower]]
 to fall into [[Lower Dura]]. This devastation can still be

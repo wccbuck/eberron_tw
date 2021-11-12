@@ -1,13 +1,15 @@
 [
     {
         "created": "20200410025528221",
-        "title": "Ascension",
-        "text": "''Date: '' [[1 Sypheros|Khorvaire calendar]]\n\nThe Church of the [[Silver Flame]] was born from the sacrifice of [[Tira Miron]], who gave her life to serve as the Voice of the Silver Flame. On 1 Sypheros, members of the church\ngather to reaffirm their faith and to give thanks to\nTira for her holy gift. Over the course of the day,\nfollowers of the Flame attend a blessing ceremony;\nthe grandest ceremony in [[Sharn]] occurs at the [[Cathedral of the Cleansing Flame]] (in the [[Sovereign Towers]] district of [[Middle Central]]), but the faithful pray at all of the\ncity's temples. In addition to attending the ceremony and sermon, the faithful seek ways to contribute to their community on Ascension Day.",
-        "modified": "20210727191956112",
-        "tags": "[[Silver Flame]] holiday",
+        "text": "''Date: '' <$link to=\"Khorvaire calendar\">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable=\"noop\">-{{!!day2}}</$list> <$transclude tiddler=\"$:/MonthNames\" index={{!!month}}/></$link>\n\nThe Church of the [[Silver Flame]] was born from the sacrifice of [[Tira Miron]], who gave her life to serve as the Voice of the Silver Flame. On 1 Sypheros, members of the church\ngather to reaffirm their faith and to give thanks to\nTira for her holy gift. Over the course of the day,\nfollowers of the Flame attend a blessing ceremony;\nthe grandest ceremony in [[Sharn]] occurs at the [[Cathedral of the Cleansing Flame]] (in the [[Sovereign Towers]] district of [[Middle Central]]), but the faithful pray at all of the\ncity's temples. In addition to attending the ceremony and sermon, the faithful seek ways to contribute to their community on Ascension Day.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Ascension",
+        "tags": "[[Silver Flame]] holiday",
+        "modified": "20211107002749865",
+        "color": "#A3CFBB",
         "category": "event",
-        "color": "#A3CFBB"
+        "article": "the ",
+        "month": "10",
+        "day": "1"
     }
 ]

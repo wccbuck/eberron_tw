@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20210303032127067
-modified: 20210727192025002
+day: 20
+modified: 20211107003505265
+month: 5
 tags: holiday Stormreach
 title: Pirate's Moon
 type: text/vnd.tiddlywiki
 
-''Date: '' [[20 Dravago|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 This spring festival in [[Stormreach]] commemorates
 the death of pirate lord Jaldrin Arekarn, whose

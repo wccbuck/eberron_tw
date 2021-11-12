@@ -1,12 +1,15 @@
 category: event
 color: #A3CFBB
 created: 20200410025848856
-modified: 20210727192019262
+day: 26
+day2: 28
+modified: 20211107003334400
+month: 12
 tags: holiday Shadow
 title: Long Shadows
 tooltip: sinister holiday, people stay indoors
 type: text/vnd.tiddlywiki
 
-''Date: '' [[26-28 Vult|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 It's said that the power of the [[Shadow]], the sinister deity of the [[Dark Six]], is at its height during these three nights. Careful people spend this time indoors with friends, but those who relish the darkness might decide to take to the streets to prey on the weak and foolish.

@@ -1,0 +1,323 @@
+created: 20211110214827026
+modified: 20211112230248072
+tags: Readme
+title: Changelog
+type: text/vnd.tiddlywiki
+
+!!! 1.10.0 <span style="font-weight:normal">(Nov 10, 2021)</span>
+
+* Added this Changelog page.
+* Added some items from [[Varsil's Low-Powered Magic Items|https://www.gmbinder.com/share/-Mm0qFjS6b9TslU1WpH-]]
+** [[doubled sack]]
+** [[fire blind]]
+** [[Gordion rope]]
+** [[illusory bait]]
+** [[loyal caltrops]]
+** [[memory locket]]
+** [[mesmerizing puzzle]]
+** [[portable bath]]
+** [[silent spikes]]
+** [[talking lock]]
+* Added some content from "Fragments of the Prophecy" Dragon article
+** [[Sulerred Monastery]]
+** [[Tohled'arux]] ("Ant valley"; this didn't have a name in the article but I gave it one)
+** Added a section to [[Glass Plateau]]
+* Added the magical [[silence]] detail to [[Tronish]] from "Echoes of the Mourning" Dragon article
+* Added a calendar of [[holiday]]s to the [[Khorvaire calendar]] page
+* Added content from the three Viktor Saint-Demain adventures:
+** people:
+*** [[Viktor Saint-Demain]]
+*** [[Durok the Masher]]
+*** [[Grimgraj]]
+*** [[Harvester]] (changed from "Spider")
+*** [[Julian Gevard II]]
+*** Dr. [[Lucard Karvasi]]
+*** [[Mako]]
+*** [[Mange]]
+*** [[Rrregla the Gasper]]
+*** [[Saal Grabaal]]
+*** [[Scorn]]
+*** [[Scrimshaw]]
+*** [[Vrinn]]
+*** [[Zelina d'Medani]]
+** places:
+*** the [[Glitterdust]]
+*** the [[Karvasi Asylum for the Criminally Insane]]
+*** the [[Old City Archive]]
+*** [[Orien's Graveyard]]
+** items:
+*** [[dust of silent passage]]
+** misc:
+*** [[Graveyard Sentinels]]
+*** [[Zilargo Darts]]
+* Added creatures:
+** [[cyclops]]
+** [[forgewraith]]
+
+!!! 1.9.1 <span style="font-weight:normal">(Oct 28, 2021)</span>
+
+* Added some Fizban's content.
+** spells:
+*** [[Ashardalon's stride]]
+*** [[Nathair's mischief]]
+*** [[binding ice]]
+*** [[draconic transformation]]
+*** [[platinum shield]]
+*** [[psychic lance]]
+*** [[summon draconic spirit]]
+** items:
+*** [[amethyst lodestone]]
+*** [[crystal blade]]
+*** [[dragon wing bow]]
+*** [[dragonlance]]
+*** [[emerald pen]]
+*** [[flail of Tiamat]]
+*** [[platinum scarf]]
+*** [[ruby weave gem]]
+** creatures:
+*** [[animated breath]]
+*** [[dragonnel]]
+*** [[eyedrake]]
+*** [[greatwyrm]]
+*** [[hoard mimic]]
+*** [[hoard scarab]]
+*** [[liondrake]]
+* Misc tweaks
+
+!!! 1.9.0 <span style="font-weight:normal">(Oct 14, 2021)</span>
+
+* Tweaked lots of items. Specifically, replaced the "[[advantage]]"s granted by items with improved [[impact]] or [[risk]]. 
+* Added [[random artifact properties]]
+* Tweaked some things on the map, added some forests to [[Tempest Isle]] and [[Traglorn Isle]]
+* Added creatures:
+** [[bone whelk]]
+** [[brain borer]]
+** [[lluora]]
+
+!!! 1.8.4 <span style="font-weight:normal">(Oct 4, 2021)</span>
+
+* Fixed mistake in [[Mark of Hospitality (talent)]]
+
+!!! 1.8.3 <span style="font-weight:normal">(Oct 3, 2021)</span>
+
+* Added area map for [[Io'lokar]]
+* Fixed map bug
+
+!!! 1.8.2 <span style="font-weight:normal">(Sep 30, 2021)</span>
+
+* Added [[Metrol]] area map and details from Dread Metrol
+* Added [[Lady Dusk]]
+* Added [[Dreadhold]] content from [[Dragon 344 web supplement|https://paizo.com/dragonissues/344/DR344_Supplement.pdf]]:
+** [[Castal d'Cannith]]
+** [[Kotharel the Harvester]]
+** [[heavy hand manacles]]
+
+!!! 1.8.1 <span style="font-weight:normal">(Sep 28, 2021)</span>
+
+* Added some content inspired by Wild Beyond the Witchlight:
+** [[Hourglass Coven]]
+** creatures:
+*** [[brigganock]]
+*** [[campestri]]
+*** [[darkling]]
+*** [[jabberwock]]
+*** [[living doll]]
+** items:
+*** [[Snicker-Snack]]
+*** [[Witch Queen's Cauldron]]
+*** [[bobbing lily pad]]
+*** [[chromatic rose]]
+*** [[dust of corrosion]]
+*** [[pixie dust]]
+*** [[scissors of shadow snipping]]
+* Added some [[shulassakar]] content based on a recent blog post
+* Added some content on [[Korth]] from Five Nations book
+** [[Alinda Roerith]]
+** [[Cathedral to the Sovereign Host]]
+** the [[Midwife]]
+** the [[White Lions]]
+* [[Yorin Thauram]]
+* Made minor tweaks to some [[intelligence agencies|intelligence agency]]
+
+!!! 1.8.0 <span style="font-weight:normal">(Sep 24, 2021)</span>
+
+* Shrank [[Sharn]] by 25%. It took up just a bit too much area on the map based on existing art. Adjusted the shoreline to match
+* Added creatures:
+** [[bebilith]]
+** [[thoqqua]]
+* Added [[holiday]]s pertaining to the [[Silver Flame]]
+* Added and tweaked pages pertaining to [[couatl]] based on recent blog post
+* Fixed typos and missing links
+
+!!! 1.7.4 <span style="font-weight:normal">(Sep 17, 2021)</span>
+
+* Fixed some typos, tweaked some phrasing 
+
+!!! 1.7.3 <span style="font-weight:normal">(Sep 14, 2021)</span>
+
+* Added area maps for [[Dar Jin]], [[Thaliost]], [[Rekkenmark]], and [[Korth]].
+
+!!! 1.7.2 <span style="font-weight:normal">(Sep 10, 2021)</span>
+
+* Added content on [[night hag]]s and [[nightmare]]s based on recent blog post
+
+!!! 1.7.1 <span style="font-weight:normal">(Sep 9, 2021)</span>
+
+* Rearranged [[Sharn Inquisitive]] stories in to [[Korranberg Chronicle]] stories (namely, the articles that didn't have anything to do with Sharn or the surrounding area)
+* Added the wisdom of [[Beggar Dane]] to each remaining Sharn Inquisitive article
+
+!!! 1.7.0 <span style="font-weight:normal">(Sep 6, 2021)</span>
+
+* Added all [[Sharn Inquisitive]] articles from [[Wizards archive|http://archive.wizards.com/default.asp?x=dnd/archeb/si]]
+* Added most villages/sites mentioned in those articles. Though I avoided placing western [[Breland]] towns and forts, since Threshold might flesh out that area more whenever that book comes out.
+
+!!! 1.6.6 <span style="font-weight:normal">(Sep 4, 2021)</span>
+
+* Added [[Wroat]] area map
+* Tweaked map projection
+
+!!! 1.6.5 <span style="font-weight:normal">(Sep 3, 2021)</span>
+
+* Added some items from [[Hamund's Harvesting Handbook|https://www.dmsguild.com/product/276213/Hamunds-Harvesting-Handbook-A-Complete-Guide-to-Harvesting-and-Crafting-in-DD-5e]]
+** [[basilisk oil]]
+** [[debilitating whip]]
+** [[demon needle]]
+** [[eye stalk wand]]
+** [[glutton cutlery]]
+** [[lens of aberrant insight]]
+** [[lesser eye stalk wand]]
+** [[mezzoloth mail]]
+** [[petrifying dagger]]
+** [[potion of detect thoughts]]
+** [[root stem wand]]
+** [[shambling vine tunic]]
+** [[stinger whip]]
+** [[stone swim armor]]
+** [[treasure compass]]
+** [[unicorn glue]]
+** [[wand of confusion]]
+* Added [[naga]] creature
+
+!!! 1.6.4 <span style="font-weight:normal">(Sep 1, 2021)</span>
+
+* Added an [[NPC appearance and personality generator]]
+* Made improvements to the gradient divider under titles when the page is resized
+
+!!! 1.6.3 <span style="font-weight:normal">(Aug 30, 2021)</span>
+
+* Fixed "Find On Map" bug
+* Fixed animation scroll bug when closing tiddler
+* Made a "Galifar in 500YK" map and put it on the [[Five Nations]] and [[Galifar]] pages
+
+!!! 1.6.2 <span style="font-weight:normal">(Aug 29, 2021)</span>
+
+* Map tweaks. Moved the political map button to be more visible rather than buried in the map options
+* Capitalized articles ("The") on the map
+* Added a missing [[Orien trade roads]] that should have led to [[Sharn]]
+
+!!! 1.6.1 <span style="font-weight:normal">(Aug 28, 2021)</span>
+
+* Added some more [[medusa]] content based on blog post
+* Added bridges to [[Sharn]] map
+
+!!! 1.6.0 <span style="font-weight:normal">(Aug 27, 2021)</span>
+
+* Added a district map of [[Sharn]]. Zoom in on Sharn to see the controls pop up to switch between levels ([[upper ward]]s, [[middle ward]]s etc.). 
+* Clicking on "Find On Map" on a Sharn district should fly to that district and select the appropriate layer.
+
+!!! 1.5.1 <span style="font-weight:normal">(Aug 25, 2021)</span>
+
+* Fixed map flicker when moving over the antimeridian.
+
+!!! 1.5.0 <span style="font-weight:normal">(Aug 24, 2021)</span>
+
+Lots of map improvements! 
+
+* Added line/polygon draw feature: measure arbitrary distances and areas.
+* Replaced previous 'marker' distance system with the ability to add and remove markers at will
+* Made the map loop infinitely left/right. This required some improvements to map performance, so now redraws only happen if you click the 'refresh map' button or change tabs.
+
+!!! 1.4.4 <span style="font-weight:normal">(Aug 22, 2021)</span>
+
+* Added [[Graywall]], [[Fairhaven]], and [[Flamekeep]] area maps
+* Tweaked populations. [[Sharn]] should have over 2 million people with those mile high towers.
+
+!!! 1.4.3 <span style="font-weight:normal">(Aug 20, 2021)</span>
+
+* Added population to cities and nations, and the ability to sort by population
+* Added a couple of missing bastion cities in [[Riedra]]
+* Added a [[group character sheet]]
+* Added item: [[bag of gricks]]
+
+!!! 1.4.2 <span style="font-weight:normal">(Aug 19, 2021)</span>
+
+* Updated [[Barren Sea]] and [[kuo-toa]] based on recent blog post; added [[Sa'arlaath]]
+* Added [[talent]]s:
+** [[Counterstyle (talent)]]
+** [[Historian (talent)]]
+** [[Razor Tongue (talent)]]
+** [[Underhanded (talent)]]
+
+!!! 1.4.1 <span style="font-weight:normal">(Aug 16, 2021)</span>
+
+* Added [[Stormreach]] districts to the map
+* Made "political map" mode on map
+
+!!! 1.4.0 <span style="font-weight:normal">(Aug 15, 2021)</span>
+
+* Rewrote entire map plugin and removed leafmap
+
+!!! 1.3.1 <span style="font-weight:normal">(Aug 13, 2021)</span>
+
+* Added [[progress clock]]s to the [[character sheet template]]
+* Automatically scroll back to last point on page when clicking "X" button on tiddler
+* Create "MapScrollIntoView" macro for smoother mobile experience
+* Misc style tweaks
+
+!!! 1.3.0 <span style="font-weight:normal">(Aug 11, 2021)</span>
+
+* Added the [[Dice Roller]] and interactive [[progress clock]]s
+* Added [[language]]s and [[momentum]] to the [[character sheet template]]
+* Added some missing [[Demesnes]] info
+* Added [[talent]]s:
+** [[Hobgoblin (talent)]]
+** [[Tiefling (talent)]]
+* Added the spell [[primal savagery]], as well as the creatures [[spindlespitter]] and [[drake turtle]], and the weapon [[tangat]]
+* Misc phrasing tweaks
+
+!!! 1.2.1 <span style="font-weight:normal">(Aug 9, 2021)</span>
+
+* Added more [[equipment pack]]s
+* Added some Tasha's content (mostly items)
+* Added some denizens of [[Shavarath]]
+
+!!! 1.2.0 <span style="font-weight:normal">(Aug 8, 2021)</span>
+
+* Added [[character sheets|character sheet template]]! And various macros and plugins to do cool things with them.
+* Added more [[talent]]s, items (mainly [[equipment pack]]s), spells.
+
+!!! 1.1.0 <span style="font-weight:normal">(Aug 1, 2021)</span>
+
+* Added a bunch of [[talent]]s, characters, items, spells, and some other miscellaneous pages.
+
+!!! 1.0.3 <span style="font-weight:normal">(Jul 30, 2021)</span>
+
+* Updated [[Krozen]] and [[Zerasha]] based on recent Keith Baker blog post
+
+!!! 1.0.2 <span style="font-weight:normal">(Jul 29, 2021)</span>
+
+* Added a bit on [[Golden Sargasso|Menechtarun Desert]]
+
+!!! 1.0.1 <span style="font-weight:normal">(Jul 28, 2021)</span>
+
+* Added favicon and a couple of [[talent]]s
+* Removed some maintenance tiddlers
+* Fixed typos, fixed a map bug, made some style tweaks
+
+!!! 1.0.0 <span style="font-weight:normal">(Jul 27, 2021)</span>
+
+* Initial commit after switching to node.js
+
+! 
+
+See the [[github|https://github.com/wccbuck/eberron_tw/commits/]] for more detailed commit history

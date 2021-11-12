@@ -1,13 +1,15 @@
 category: event
 color: #A3CFBB
 created: 20210708190323839
-modified: 20210727191956830
+day: 6
+modified: 20211107002710033
+month: 5
 tags: [[Silver Flame]] holiday
 title: Baker's Night
 tooltip: Silver Flame holiday focusing on baked goods
 type: text/vnd.tiddlywiki
 
-''Date: '' [[6 Dravago|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 On this night, families
 and friends gather to share magniﬁcent pastries and similar treats, prepared by bakers and confectioners faithful

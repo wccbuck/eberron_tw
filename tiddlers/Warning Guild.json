@@ -1,13 +1,13 @@
 [
     {
         "created": "20210212062352825",
-        "title": "Warning Guild",
-        "text": "Bodyguards, [[inquisitive]]s, and\nsentries across Khorvaire either are members of\nthe [[Warning Guild]] or pay dues to obtain certification from House [[Medani]]. There’s some conflict with House [[Deneith]] over the market in bodyguards, but\nHouse Medani is small and subtle enough that it\nhasn’t caused a major rift yet. In general, people hire\na House Deneith bodyguard when they expect to be\nattacked, and they hire a House Medani bodyguard\nwhen they suspect someone might be plotting against\nthem, but they aren’t sure who.\n\nThe Warning Guild also provides some intelligence\nfunctions to the House [[Medani]] leadership (and, by\nextension, to [[Breland]]). But the members of this guild\naren’t spies—they’re the people who catch spies. Their\ninformation is often better at explaining the motives\nbehind another nation’s actions than it is at predicting and countering what that nation will do. After all, when Medani learns what a captured spy was trying\nto find out, that knowledge reveals a lot about what\nthe spy’s masters don’t know yet but would like to.",
-        "modified": "20210727192041909",
-        "tags": "[[mercenary troop]] [[intelligence agency]] [[trade guild]] Medani inquisitive",
+        "text": "Bodyguards, [[inquisitive]]s, and\nsentries across Khorvaire either are members of\nthe [[Warning Guild]] or pay dues to obtain certification from House [[Medani]]. There’s some conflict with House [[Deneith]] over the market in bodyguards, but\nHouse Medani is small and subtle enough that it\nhasn’t caused a major rift yet. In general, people hire\na House Deneith bodyguard when they expect to be\nattacked, and they hire a House Medani bodyguard\nwhen they suspect someone might be plotting against\nthem, but they aren’t sure who.\n\nThe Warning Guild also provides some intelligence\nfunctions to the House [[Medani]] leadership (and, by\nextension, to [[Breland]]). But the members of this guild\naren’t spies—they’re the people who catch spies. Their\ninformation is often better at explaining the motives\nbehind another nation’s actions than it is at predicting and countering what that nation will do. After all, when Medani learns what a captured spy was trying\nto find out, that knowledge reveals a lot about what\nthe spy’s masters don’t know yet but would like to.\n\nThe head of the Warning Guild [[Sharn]] chapter is [[Zelina d'Medani]], Baron [[Trelib|Trelib d'Medani]]'s daughter.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Warning Guild",
+        "tags": "[[mercenary troop]] [[intelligence agency]] [[trade guild]] Medani inquisitive",
+        "modified": "20211111002245995",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

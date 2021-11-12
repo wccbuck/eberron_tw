@@ -1,14 +1,15 @@
 category: event
 color: #A3CFBB
 created: 20210924211827082
-modified: 20210924212101929
+day: 18
+modified: 20211107002909220
+month: 2
 tags: [[Silver Flame]] holiday
 title: Bright Soul's Day
 type: text/vnd.tiddlywiki
 
-''Date: '' [[18 Olarune|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
-As the dark
-days of winter draw to a close, the Purified of the [[Silver Flame]] celebrate
+As the dark days of winter draw to a close, the Purified of the [[Silver Flame]] celebrate
 the lives and the sacrifice of those who gave their
 lives to fight evil and protect the faithful.

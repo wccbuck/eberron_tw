@@ -1,14 +1,17 @@
 [
     {
         "created": "20210303032316255",
-        "title": "Annual Games",
-        "text": "''Date: '' [[1-14 Nymm|Khorvaire calendar]]\n\nEvery summer during the first two weeks of Nymm in [[Stormreach]], the [[Red Ring]] holds\nan open tournament in which anyone—zealous fans, adventurers, layabouts—can enter the arena to prove their mettle. These championships are the only chance a non-[[Bloodbound]] has to enter the arena and feel the thundering roar of the crowd. Many entrants are adventurers seeking the glory of the ring or more\nexperience in heated battle. Others are hopefuls looking for entrance to a stable. A large number of them are nothing more than deluded spectators tired of being\non the outside looking in. Competing in the games is also a chance to settle a score with an enemy who might be otherwise untouchable outside the arena.\n\nThe games go on for two weeks, and champions\nearn their weight in gold, as well as bragging rights, and\nthe chance to join a stable as a [[Bloodbound]].\n\n!! Feast of Blood\n\nAt the outset of the Annual Games and its preceding\nspecial championship matches, the [[Blood Council]]\nhosts a giant feast in the arena. Hundreds of stable workers, masters, [[Bloodbound]], and the invited elite\nof [[Stormreach]] gorge themselves on delicacies and\nwine on the sandy floor of the ring. These feasts are\ngala affairs with no expense spared. Singers, acrobats,\nand displays of strength and martial skill by Bloodbound delight the guests. These feasts are important to anyone connected to the [[Red Ring]]. One of these\nevents provides the perfect opportunity to bend the\nBlood Council’s ear and beseech its members’ aid in\narranging bouts. A feast of blood is also an ideal occasion to make allies and enemies in arena politics, not to mention a chance to slip poison into a Bloodbound’s\ngoblet. Interested parties can also garner blackmail\nevidence for a philandering stablemaster, [[Storm Lord|Storm Lords]],\nor other highly placed dignitary who lets his scruples\nfall by the wayside.",
-        "modified": "20210727191954352",
-        "tags": "holiday Stormreach",
+        "text": "''Date: '' <$link to=\"Khorvaire calendar\">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable=\"noop\">-{{!!day2}}</$list> <$transclude tiddler=\"$:/MonthNames\" index={{!!month}}/></$link>\n\nEvery summer during the first two weeks of Nymm in [[Stormreach]], the [[Red Ring]] holds\nan open tournament in which anyone—zealous fans, adventurers, layabouts—can enter the arena to prove their mettle. These championships are the only chance a non-[[Bloodbound]] has to enter the arena and feel the thundering roar of the crowd. Many entrants are adventurers seeking the glory of the ring or more\nexperience in heated battle. Others are hopefuls looking for entrance to a stable. A large number of them are nothing more than deluded spectators tired of being\non the outside looking in. Competing in the games is also a chance to settle a score with an enemy who might be otherwise untouchable outside the arena.\n\nThe games go on for two weeks, and champions\nearn their weight in gold, as well as bragging rights, and\nthe chance to join a stable as a [[Bloodbound]].\n\n!! Feast of Blood\n\nAt the outset of the Annual Games and its preceding\nspecial championship matches, the [[Blood Council]]\nhosts a giant feast in the arena. Hundreds of stable workers, masters, [[Bloodbound]], and the invited elite\nof [[Stormreach]] gorge themselves on delicacies and\nwine on the sandy floor of the ring. These feasts are\ngala affairs with no expense spared. Singers, acrobats,\nand displays of strength and martial skill by Bloodbound delight the guests. These feasts are important to anyone connected to the [[Red Ring]]. One of these\nevents provides the perfect opportunity to bend the\nBlood Council’s ear and beseech its members’ aid in\narranging bouts. A feast of blood is also an ideal occasion to make allies and enemies in arena politics, not to mention a chance to slip poison into a Bloodbound’s\ngoblet. Interested parties can also garner blackmail\nevidence for a philandering stablemaster, [[Storm Lord|Storm Lords]],\nor other highly placed dignitary who lets his scruples\nfall by the wayside.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "event",
+        "title": "Annual Games",
+        "tags": "holiday Stormreach",
+        "modified": "20211107002720636",
+        "tooltip": "open arena tournament at the Red Ring of Stormreach",
         "color": "#A3CFBB",
-        "tooltip": "open arena tournament at the Red Ring of Stormreach"
+        "category": "event",
+        "article": "the ",
+        "month": "6",
+        "day": "1",
+        "day2": "14"
     }
 ]

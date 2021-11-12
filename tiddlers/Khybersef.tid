@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20210924212923465
-modified: 20210924213000257
+day: 21
+modified: 20211107003357625
+month: 12
 tags: [[Silver Flame]] holiday
 title: Khybersef
 type: text/vnd.tiddlywiki
 
-''Date: '' [[21 Vult|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 On the longest night of the
 year, when light and goodness seem to be at their

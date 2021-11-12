@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20200410025444172
-modified: 20210727191958651
+day: 9
+modified: 20211107002840765
+month: 9
 tags: [[Sovereign Host]] holiday Boldrei
 title: Boldrei's Feast
 type: text/vnd.tiddlywiki
 
-''Date: '' [[9 Rhaan|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 Gatherings across the [[Five Nations]] mark this celebration of
 community. The wealthy compete to throw the grandest

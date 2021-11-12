@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20210924212211605
-modified: 20210924212255111
+day: 21
+modified: 20211107003552858
+month: 6
 tags: [[Silver Flame]] holiday
 title: First Dawn
 type: text/vnd.tiddlywiki
 
-''Date: '' [[21 Nymm|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 This observance commemorates the day in 914 YK when the Church of the
 [[Silver Flame]] assumed control of [[Thrane]]’s government. It is not commonly celebrated outside of Thrane.

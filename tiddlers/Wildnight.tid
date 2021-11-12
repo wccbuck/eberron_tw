@@ -1,11 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20200410025624342
-modified: 20210727192042579
+day: 18
+day2: 19
+modified: 20211107003041008
+month: 10
 tags: holiday Fury
 title: Wildnight
 type: text/vnd.tiddlywiki
 
-''Date: '' [[18-19 Sypheros|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 Supposedly the [[Fury]], the god of Passion and Revenge, reaches the height of her power on this night. Emotions run high, and impulse control runs low. Shy and superstitious folk stay indoors, while others see it as a time to cast aside inhibitions. The streets fill with revelry that lasts well into the night.

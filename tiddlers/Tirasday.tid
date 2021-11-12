@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20210924212110026
-modified: 20210924212136011
+day: 5
+modified: 20211107003201016
+month: 3
 tags: [[Silver Flame]] holiday
 title: Tirasday
 type: text/vnd.tiddlywiki
 
-''Date: '' [[5 Therendor|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 This [[Silver Flame]] holiday celebrates
 the birth of [[Tira Miron]], the Voice of the Flame.

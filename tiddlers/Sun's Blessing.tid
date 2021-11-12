@@ -1,12 +1,14 @@
 category: event
 color: #A3CFBB
 created: 20200410024852152
-modified: 20210727192035261
+day: 15
+modified: 20211107003236547
+month: 3
 tags: holiday [[Sovereign Host]] [[Dol Arrah]]
 title: Sun's Blessing
 type: text/vnd.tiddlywiki
 
-''Date: '' [[15 Therendor|Khorvaire calendar]]
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 The festival of [[Dol Arrah]], the Sovereign of Honor and Light, is a day of peace, a time for enemies to set aside their differences and commune. This tradition continued throughout the [[Last War]], when most
 armies kept the peace on Sun's Blessing. However, in
