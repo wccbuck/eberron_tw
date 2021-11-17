@@ -1,13 +1,13 @@
 [
     {
         "created": "20210324003000087",
-        "title": "Skinners",
-        "text": "The [[Mockery]] is the Sovereign of murder and treachery, and the Skinners believe that he guides their hands. This gang of monsters in [[Graywall]] actively preys on the\npeople of the east, killing foreigners foolish enough to leave the safety of the [[Calabas]]—and occasionally venturing within its walls to target an outspoken follower of the [[Silver Flame]] or [[paladin]] of [[Dol Arrah]]. When possible, the Skinners take victims alive so they can be tortured slowly. The leader of this gang is the [[oni]] ''Zurin Souldrinker''; his touch can magically strip the skin from a victim. His strong second is ''Gray Garrak'', a vicious [[bugbear]] with a remarkable gift for slaughter.",
-        "modified": "20210727192032423",
-        "tags": "Graywall gang",
+        "text": "The [[Mockery]] is the Sovereign of murder and treachery, and the Skinners believe that he guides their hands. This gang of monsters in [[Graywall]] actively preys on the\npeople of the east, killing foreigners foolish enough to leave the safety of the [[Calabas]]—and occasionally venturing within its walls to target an outspoken follower of the [[Silver Flame]] or [[paladin]] of [[Dol Arrah]]. They often wear the tanned hides of their victims as grisly trophies. When possible, the Skinners take victims alive so they can be tortured slowly. \n\nThe leader of this gang is the [[oni]] ''Zurin Souldrinker''; his touch can magically strip the skin from a victim. His strong second is ''Gray Garrak'', a vicious [[bugbear]] with a remarkable gift for slaughter.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Skinners",
+        "tags": "Graywall gang",
+        "modified": "20211116233211580",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

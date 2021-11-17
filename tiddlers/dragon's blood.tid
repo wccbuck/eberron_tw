@@ -1,12 +1,23 @@
+2d4: 8
 category: object
 color: #41D5E1
 created: 20200422064813915
-modified: 20210727192005307
+d10: 5
+d20: 5
+d35: 20
+d4: 3
+d50: 25
+d7: 1
+duration: 45 seconds
+effect: Target's head appears as a photo-negative for the next {{!!duration}}.
+l_duration: 5 hours
+modified: 20211116213930872
 rarity: 0
+s_duration: 7 seconds
 tags: drug
 title: dragon's blood
 type: text/vnd.tiddlywiki
 
 Introduced into [[Sharn]] by [[Daask]], dragon's blood is a potent and highly addictive stimulant. In addition to inducing euphoria, it can enhance spellcasting ability or even temporarily imbue a user with the ability to cast arcane spells, as a [[sorcerer]]. The drug's effects are potentially dangerous and always unpredictable. This isn't something a player character should want to use; adventurers are more likely to interfere with Daask smugglers or deal with an addict who accidentally casts a [[fireball]] in a crowded street. 
 
-{{random magical effect}}
+{{||random magical effect}}

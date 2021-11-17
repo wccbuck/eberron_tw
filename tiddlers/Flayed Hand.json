@@ -1,13 +1,13 @@
 [
     {
         "created": "20210129023952476",
-        "title": "Flayed Hand",
-        "text": "The [[Mockery]] is the lord of pain and vengeance, the deceiver who destroys. His [[monk]]s embrace suffering; through ritual torture, they overcome weakness of body and mind. As part of this training, a monk flays strips of their skin, treating the muscle below with an alchemical substance that toughens it. Once an initiate has learned to endure pain, they are taught to inflict it. The monks of the Flayed Hand are master torturers and deadly warriors. A monk of the Mockery seeks communion with her god through violence and treachery. Many members of the order sell their services as mercenaries and assassins. Others cause pain in more subtle ways by destroying hopes and dreams instead of spilling blood.",
-        "modified": "20210727192008720",
-        "tags": "[[mercenary troop]] monk",
+        "text": "The [[Mockery]] is the lord of pain and vengeance, the deceiver who destroys. His [[monk]]s embrace suffering; through ritual torture, they overcome weakness of body and mind. As part of this training, a monk flays strips of their skin, treating the muscle below with an alchemical substance that toughens it. This torment permanently marks the monk as a devotee of the Sovereign of Bloodshed and Betrayal.\n\nOnce an initiate has learned to endure pain, they are taught to inflict it. The monks of the Flayed Hand are master torturers and deadly warriors. A monk of the [[Mockery]] seeks communion with her god through violence and treachery. Many members of the order sell their services as mercenaries and assassins. Others cause pain in more subtle ways by destroying hopes and dreams instead of spilling blood.\n\nThe Flayed Hand is a secretive order, and a student of the Flayed Hand usually conceals their devotional scars. A monk dressed for battle is a grisly sight; the members of the order keep scraps of their victims' skin and craft their battle-robes from the flesh of the fallen. Some say that the masters of the order know how to capture a victim's knowledge in their skin, or to craft leather masks that allow a monk to adopt the appearance of their victim. \n\n!! Flayed Hand Monasteries\n\nThe primary monasteries of the Flayed Hand are located in the [[Great Crag]] ([[Droaam]]) and [[Rhukaan Draal]] ([[Darguun]]), while smaller cloisters can be found in [[Zilargo]] and the [[Lhazaar Principalities]]. In the [[Five Nations]], the monasteries of the Mockery are small and carefully disguised, perhaps as isolated [[Vassal|Sovereign Host]] monasteries, and the archimandrites are always prepared to evacuate on a moment's notice.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Flayed Hand",
+        "tags": "[[mercenary troop]] monk",
+        "modified": "20211116215520977",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]
