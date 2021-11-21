@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20211120192541120
+modified: 20211120192853451
+tags: abjuration illusion
+tier: 3
+title: hide from dragons
+type: text/vnd.tiddlywiki
+
+You ward up to three willing creatures you can see within 30 feet from the detection of [[dragon]]s for up to 10 minutes. Dragons cannot see, hear, or smell the warded creature, even with [[blindsight]]. Dragons act as if the warded creature is not there. Particularly perceptive dragons may be able to detect the presence of this spell effect.
+
+If a warded creature touches a dragon, makes an attack, or casts a spell, the spell ends for all recipients.

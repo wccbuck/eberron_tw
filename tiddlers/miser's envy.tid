@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20211121022754340
+modified: 20211121023036892
+tags: enchantment
+tier: 2
+title: miser's envy
+type: text/vnd.tiddlywiki
+
+Choose a creature and an object you can see within 30 feet. The creature must resist your [[enchantment]] or be overcome with passionate desire to obtain the object for up to 1 minute (or until your concentration breaks). It must attempt to get the object with every passing moment, even attempting acts that are dangerous to itself (but not suicidal). The creature cannot willingly move farther away from the object.

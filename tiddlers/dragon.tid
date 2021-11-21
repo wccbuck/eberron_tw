@@ -1,7 +1,7 @@
 category: creature
 color: #58151c
 created: 20200419053402840
-modified: 20211028173803914
+modified: 20211121042237144
 title: dragon
 tooltip: legendary winged serpentine creature with innate magical power
 type: text/vnd.tiddlywiki
@@ -13,6 +13,8 @@ lair in search of its treasure horde. Dragons in the world
 are either aloof and unapproachable, or they are curious
 and manipulative, pulling strings behind the scenes or
 trying to influence the world in arcane ways.
+
+In addition to deadly tooth and claw and tail, dragons wield the ability to exhale jets of raw elemental energy. These breath weapons are fearsome, but take up to a minute to recharge after use. See the //Colors and Breath Weapons// section below for more information. Dragons also possess [[darkvision]] as well as short-range [[blindsight]], and many can innately cast [[arcane|arcane magic]] spells.
 
 Most dragons live on the mystery-shrouded continent
 of [[Argonnessen]] and avoid contact with those they see as

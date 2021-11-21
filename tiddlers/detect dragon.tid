@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20211120184231569
+modified: 20211120184344404
+tags: divination
+tier: 2
+title: detect dragon
+type: text/vnd.tiddlywiki
+
+In a burst of magical detection, you determine whether there are any [[dragon]]s within 120 feet of you. You detect the quantity and kind of every dragon within range, even dragons shapeshifted as other creatures, but not the location. You do not detect dragons under the effects of a [[nondetection]] spell or similar magic.

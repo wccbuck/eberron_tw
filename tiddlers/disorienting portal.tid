@@ -1,0 +1,16 @@
+category: spell
+color: #B7A1E0
+created: 20211120184458183
+modified: 20211120185057475
+tags: conjuration
+tier: 4
+title: disorienting portal
+type: text/vnd.tiddlywiki
+
+You create a portal within a doorway or other opening up to 10 feet on a side within 30 feet to a [[teleportation circle]] with a sigil sequence that you know. The portal persists for 1 hour. A creature or object that passes through this portal must resist your magic or be teleported to the teleportation circle and arrived dazed and disoriented for 10-30 seconds. Within 1 minute after passing through the portal, the teleported creature can attempt to instantly return.
+
+When you cast the spell, you can choose to make it hidden or obvious. If you choose obvious, any creature who looks at the opening can see a hazy image of the destination and can tell it is a magical portal. If you choose hidden, it appears as a normal doorway or opening except under a perceptive eye.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, the portal persists for 30 days.

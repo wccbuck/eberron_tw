@@ -1,0 +1,18 @@
+category: spell
+color: #B7A1E0
+created: 20211120173210513
+modified: 20211120181044078
+tags: evocation
+tier: 3
+title: animate breath
+type: text/vnd.tiddlywiki
+
+This spell requires the spellcaster to possess a breath weapon, such as that of a [[dragon]].
+
+You breathe out a [[living blast of elemental energy|animated breath]] ([[creature tier]] ''2'') in an unoccupied space you can see within 15 feet. The creature disappears when it is incapacitated, when your concentration breaks, or after 10 minutes. 
+
+The [[animated breath]] is friendly to you and your companions for the full duration, and obeys any verbal commands that you issue to it. If you don't issue any commands to the fey creature, it defends itself from hostile creatures but otherwise takes no actions.
+
+!! Legendary-Tier
+
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, the [[animated breath]] persists for up to 8 hours and does not require concentration to maintain.

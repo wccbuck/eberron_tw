@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20211119211039900
+modified: 20211119211756383
+tags: abjuration
+tier: 3
+title: antimagic ray
+type: text/vnd.tiddlywiki
+
+You shoot a beam of silvery light at a creature or object you can see within 30 feet. If the target cannot resist your abjuration, it is cursed with antimagic for up to 1 minute. If the target is a creature, the spell also affects all objects it is wearing or carrying while they are being worn or carried by that creature.
+
+A creature cursed in this way cannot activate or be affected by any [[magic item]] it is carrying or wearing. It also cannot cast [[spell]]s or make other magical effects, but it can be unwillingly subjected to spells and other magical effects.
+
+An object cursed in this way cannot produce any magical effects while the spell persists.

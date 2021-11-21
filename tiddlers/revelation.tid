@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20211121023858282
+modified: 20211121024455103
+tags: divination [[divine magic]]
+tier: 4
+title: revelation
+type: text/vnd.tiddlywiki
+
+You imbue an area with truth and banish deception. This spell requires and consumes [[5c|money]] worth of material components to cast. Choose a 20-foot-radius sphere centered on a point you can see within 100 feet. For 1 hour, creatures perceive everything in the area as if with [[truesight]], and automatically detect any [[illusion]]s in the area (not just visual). In addition, the area acts as a powerful [[zone of truth]].

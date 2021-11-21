@@ -1,0 +1,19 @@
+category: object
+color: #41D5E1
+created: 20211121034848275
+modified: 20211121040233524
+rarity: 2
+tags: potion
+title: potion of metallic dragon breath
+type: text/vnd.tiddlywiki
+
+There are five types of this potion, each based on a different metallic [[dragon]]. The sluggish liquid glimmers like a polished slab of the corresponding metal.
+
+After drinking this potion, you can exhale a 30-foot-cone of metallic dragon breath; each creature in the area must resist the effects of the breath weapon or be subject to an effect determined by the associated dragon (see the table below). The effect ends after you exhale the fire three times or when 1 hour has passed.
+
+|!<<dr d5>> |!Dragon&nbsp;type |!Effect |
+| 1 |[[brass|brass dragon]] |''//Sleep Breath.//'' Creatures in the area fall unconscious for up to 10 minutes. The effect ends for a creature if it takes damage or it is otherwise shaken awake. |
+| 2 |[[bronze|bronze dragon]] |''//Repulsion Breath.//'' Creatures in the area are pushed up to 30 feet away from you. |
+| 3 |[[copper|copper dragon]] |''//Slowing Breath.//'' Creatures in the area move and react at half their normal speed for up to 1 minute. |
+| 4 |[[gold|gold dragon]] |''//Weakening Breath.//'' The effective physical strength of creatures in the area is cut in half for up to 1 minute. |
+| 5 |[[silver|silver dragon]] |''//Paralyzing Breath.//'' Creatures in the area are completely paralyzed and incapacitated for up to 15 seconds. |

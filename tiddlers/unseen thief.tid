@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20211121022224365
+modified: 20211121022707159
+tags: conjuration
+tier: 2
+title: unseen thief
+type: text/vnd.tiddlywiki
+
+This spell creates an invisible, mindless, shapeless, human-sized force that can pilfer items at your command until the spell ends up to 1 minute after casting. The servant springs into existence in an unoccupied space on the ground within 60 feet.
+
+You can mentally command the thief to move around and interact with objects. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command. If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
+
+When this thief grabs an object that isn't being worn or carried by another creature, that object turns invisible. It can attempt to wrestle an object out of a creature's grasp. It struggles to pick up anything heavier than 30 lbs, and it can't attack. If it ever suffers harm, the spell ends, and the thief drops anything it's carrying.

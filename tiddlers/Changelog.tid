@@ -1,8 +1,37 @@
 created: 20211110214827026
-modified: 20211117024431705
+modified: 20211121054530292
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.10.2 <span style="font-weight:normal">(Nov 20, 2021)</span>
+
+* Added a bunch of new spells and magic items from (or inspired by) the [[Draconomicon|https://www.dmsguild.com/product/367945/The-Draconomicon]] by QL Games
+** spells:
+*** [[animate breath]]
+*** [[antimagic ray]]
+*** [[burning blood]]
+*** [[compel breath]]
+*** [[detect dragon]]
+*** [[disorienting portal]]
+*** [[dragonsight]]
+*** [[frenzy]] (altered from "dracorage")
+*** [[hide from dragons]]
+*** [[miser's envy]]
+*** [[revelation]]
+*** [[unseen thief]]
+*** [[voice of the dragon]]
+** items:
+*** [[black luminary]]
+*** [[potion of metallic dragon breath]]
+*** [[monocle of Bagthalos]]
+*** [[ring of dragonshape]]
+*** [[stone of aerial alarm]]
+* Added some items from [[/u/Frank_Isaacs' magic items lists|https://www.reddit.com/r/DnDBehindTheScreen/comments/46rvbk/magic_items/]]
+** [[beacon bow]]
+** [[boulder seed]]
+** [[dueling sword]]
+** [[hammer of the farseer]]
 
 !!! 1.10.1 <span style="font-weight:normal">(Nov 16, 2021)</span>
 
