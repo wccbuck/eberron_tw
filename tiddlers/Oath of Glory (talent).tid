@@ -1,0 +1,46 @@
+category: talent
+created: 20211123222536285
+list: heroism [[guiding bolt]] [[enhance ability]] [[magic weapon]] haste [[protection from energy]] compulsion [[freedom of movement]] commune [[flame strike]] [[banishing smite]] [[wrathful smite]] [[staggering smite]] [[branding smite]] [[thunderous smite]] [[blinding smite]] [[searing smite]] [[shield of faith]] [[compelled duel]] [[holy weapon]] [[holy aura]]
+modified: 20211123223102364
+tags: Storyloom [[Spellcaster (talent)]] paladin
+title: Oath of Glory (talent)
+type: text/vnd.tiddlywiki
+
+This talent counts as a level of [[Spellcaster|Spellcaster (talent)]]. 
+
+[[Paladin|paladin]]s who take an Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions so they're all ready when destiny calls.
+
+!! Tenets of Glory
+
+The tenets of the Oath of Glory drive a [[paladin]] to attempt heroics that might one day shine in legend.
+
+* //''Actions over Words.''// Strive to be known by glorious deeds, not words.
+* //''Challenges Are but Tests.''// Face hardships with courage, and encourage your allies to face them with you.
+* //''Hone the Body.''// Like raw stone, your body must be worked so its potential can be realized.
+* //''Discipline the Soul.''// You must marshal the discipline to overcome failings within yourself that threaten to dim the glory of you and your friends.
+
+<$vars splittitle={{{[<currentTiddler>split[(]first[]]}}}>
+
+!! <<splittitle>> Spell List
+
+A [[paladin]] under the Oath of Glory might choose from the following spells.
+
+</$vars>
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

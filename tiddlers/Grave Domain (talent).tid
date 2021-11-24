@@ -1,0 +1,37 @@
+category: talent
+created: 20211123211123144
+list: [[spare the dying]] bane [[false life]] [[gentle repose]] [[ray of enfeeblement]] revivify [[vampiric touch]] blight [[death ward]] [[antilife shell]] [[raise dead]]
+modified: 20211123211409913
+tags: Storyloom [[Spellcaster (talent)]] cleric
+title: Grave Domain (talent)
+type: text/vnd.tiddlywiki
+
+This talent counts as a level of [[Spellcaster|Spellcaster (talent)]]. 
+
+[[Cleric|cleric]]s of the Grave watch over the line between life and death. They believe death and the passage into [[Dolurrh]] are a foundational part of the multiverse’s workings. To resist death, or to desecrate the dead’s rest, is an abomination. These clerics seek to put restless spirits to rest, destroy the [[undead]] wherever they find them, and ease the suffering of dying creatures. Their magic also allows them to stave off a creature’s death, though they refuse to use such magic to extend a creature’s lifespan beyond its mortal limits.
+
+Choose two spells as per the Spellcaster talent rules. A [[cleric]] of the Grave domain might choose from the following spells.
+
+<$vars splittitle={{{[<currentTiddler>split[(]first[]]}}}>
+
+!! <<splittitle>> Spell List
+
+</$vars>
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

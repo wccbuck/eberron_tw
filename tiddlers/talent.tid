@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210402021419698
-modified: 20210807231658368
+modified: 20211123203721603
 tags: Storyloom
 title: talent
 type: text/vnd.tiddlywiki
@@ -19,18 +19,27 @@ When you [[make a character|Character Creation]], you may choose two talents (or
 
 !!! Occupation-Based Talents
 <ul>
-<$list filter="[category[occupation]tagging[]category[talent]sort[title]]">
+<$list filter="[category[talent]tags[]category[occupation]sort[title]]">
+<li>{{!!article}}<$link overrideClass="graylink"/></li>
+<ul>
+<$list filter="[<currentTiddler>tagging[]category[talent]sort[title]]">
 <li>
 <$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 </$wikify>
 </li>
+</$list>
+</ul>
 </$list>
 </ul>
 
 !!! Species-Based Talents
+
 <ul>
-<$list filter="[category[creature]tagging[]category[talent]] -[tag[dragonmark]tagging[]category[talent]] +[sort[title]]">
+<$list filter="[category[talent]tags[]category[creature]sort[title]]">
+<li>{{!!article}}<$link overrideClass="graylink"/></li>
+<ul>
+<$list filter="[<currentTiddler>tagging[]category[talent]sort[title]]">
 <li>
 <$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
@@ -38,21 +47,12 @@ When you [[make a character|Character Creation]], you may choose two talents (or
 </li>
 </$list>
 </ul>
-
-!!! Dragonmark-Based Talents
-<ul>
-<$list filter="[tag[dragonmark]tagging[]category[talent]sort[title]]">
-<li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
-<$link to=<<currentTiddler>>><<splittitle>></$link>
-</$wikify>
-</li>
 </$list>
 </ul>
 
 !!! Other Talents
 <ul>
-<$list filter="[category[talent]] -[tag[dragonmark]tagging[]tag[talent]] -[category[creature]tagging[]category[talent]] -[category[occupation]tagging[]category[talent]] +[sort[title]]">
+<$list filter="[category[talent]] -[category[creature]tagging[]category[talent]] -[category[occupation]tagging[]category[talent]] +[sort[title]]">
 <li>
 <$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>

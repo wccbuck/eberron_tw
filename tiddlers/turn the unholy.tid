@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20211123214908610
+modified: 20211123215037058
+tags: [[divine magic]]
+tier: 2
+title: turn the unholy
+type: text/vnd.tiddlywiki
+
+You raise a holy symbol and speak a prayer censuring all entities of wickedness. Each [[fiend]] that can see or hear you within 30 feet feels a strong compulsion to move as far away from you as it can, as fast as it can. The effect lasts for up to 1 minute or until the turned creature takes any damage.
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, affected [[fiend]]s with [[creature tier]] less than 2 may be instantly destroyed.

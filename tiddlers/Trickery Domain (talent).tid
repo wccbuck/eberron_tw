@@ -1,0 +1,37 @@
+category: talent
+created: 20211123205348224
+list: [[Nathair's mischief]] charm [[disguise self]] [[mirror image]] [[pass without trace]] blink [[dispel magic]] [[dimension door]] polymorph dominate [[modify memory]] [[irresistible dance]]
+modified: 20211123205904936
+tags: Storyloom [[Spellcaster (talent)]] cleric
+title: Trickery Domain (talent)
+type: text/vnd.tiddlywiki
+
+This talent counts as a level of [[Spellcaster|Spellcaster (talent)]]. 
+
+Entities who embody the domain of trickery, such as the [[Traveler]], are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their [[cleric]]s are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.
+
+Choose two spells as per the Spellcaster talent rules. A [[cleric]] of the Trickery domain might choose from the following spells.
+
+<$vars splittitle={{{[<currentTiddler>split[(]first[]]}}}>
+
+!! <<splittitle>> Spell List
+
+</$vars>
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

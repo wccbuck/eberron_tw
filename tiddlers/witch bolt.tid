@@ -1,0 +1,11 @@
+category: spell
+color: #B7A1E0
+created: 20211123231352101
+modified: 20211123231548644
+tags: evocation
+tier: 2
+title: witch bolt
+type: text/vnd.tiddlywiki
+var: acid, force
+
+A beam of crackling blue energy lances out toward a creature within 30 feet, forming a sustained arc of lightning between you and the target. If the bolt strikes the target, the creature continually suffers lightning damage for as long as you are able to sustain the arc—up to 1 minute, or until your concentration breaks, or the creature moves out of range or behind cover.

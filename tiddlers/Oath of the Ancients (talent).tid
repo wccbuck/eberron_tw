@@ -1,0 +1,46 @@
+category: talent
+created: 20211123225202753
+list: [[turn the unholy]] [[ensnaring strike]] [[speak with animals]] moonbeam [[misty step]] [[plant growth]] [[protection from energy]] [[ice storm]] stoneskin [[commune with nature]] [[tree stride]] [[banishing smite]] [[wrathful smite]] [[staggering smite]] [[branding smite]] [[thunderous smite]] [[blinding smite]] [[searing smite]] [[shield of faith]] [[compelled duel]] [[holy weapon]] [[holy aura]]
+modified: 20211123230120342
+tags: Storyloom [[Spellcaster (talent)]] paladin
+title: Oath of the Ancients (talent)
+type: text/vnd.tiddlywiki
+
+This talent counts as a level of [[Spellcaster|Spellcaster (talent)]]. 
+
+The Oath of the Ancients is as old as the race of [[elves|elf]] and the rituals of the [[druid]]s. Sometimes called [[fey]] knights, green knights, or horned knights, [[paladin]]s who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.
+
+!! Tenets of the Ancients
+
+The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.
+
+* //''Kindle the Light.''// Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.
+* //''Shelter the Light.''// Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.
+* //''Preserve Your Own Light.''// Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.
+* //''Be the Light.''// Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.
+
+<$vars splittitle={{{[<currentTiddler>split[(]first[]]}}}>
+
+!! <<splittitle>> Spell List
+
+A [[paladin]] under the Oath of the Ancients might choose from the following spells.
+
+</$vars>
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

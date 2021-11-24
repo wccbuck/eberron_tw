@@ -1,7 +1,7 @@
 category: occupation
 color: #A3CFBB
 created: 20200422061728282
-modified: 20210727192024319
+modified: 20211123235334666
 title: paladin
 tooltip: holy knight, champion of faith
 type: text/vnd.tiddlywiki
@@ -11,3 +11,15 @@ Paladins are holy warriors and casters of [[divine magic]] who are called to uph
 Paladins wield the power to heal the sick and injured, to smite
 the wicked and the [[undead]], and to protect the innocent
 and those who join them in the fight for justice. 
+
+!! Paladin Oaths
+
+<ul>
+<$list filter="[tag[paladin]category[talent]search:title[Oath]search[title]]">
+<li>
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$link to=<<currentTiddler>>><<splittitle>></$link>
+</$wikify>
+</li>
+</$list>
+</ul>

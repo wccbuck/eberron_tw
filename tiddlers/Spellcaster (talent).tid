@@ -1,6 +1,6 @@
 category: talent
 created: 20210725173949205
-modified: 20210817051623917
+modified: 20211123200445248
 tags: Storyloom
 title: Spellcaster (talent)
 type: text/vnd.tiddlywiki
@@ -63,8 +63,6 @@ A [[paladin]] of [[Dol Arrah]] might take the following spells.
 | 4 |[[crusader's mantle]], upgrade [[cure wounds]] and [[restoration]] |
 | 5 |[[conjure celestial]], [[sunbeam]] |
 
-!!! Ardent
+!!! Talents tagged as "Spellcaster"
 
-An enlightened [[ardent]] under the Mantle of Clarity might choose from the following spells: [[healing word]], [[calm emotions]], [[beacon of hope]], [[guidance]], [[intellect fortress]], or [[shield]].
-
-A euphoric [[ardent]] under the Mantle of Elation might choose from the following spells:  [[healing word]], [[friends]], [[heroism]], [[enemies abound]], [[wrathful smite]], or [[vicious mockery]].
+<<list-links-article "[tag{!!title}category[talent]sort[title]]">>

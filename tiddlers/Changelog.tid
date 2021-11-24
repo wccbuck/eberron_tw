@@ -1,8 +1,20 @@
 created: 20211110214827026
-modified: 20211121054530292
+modified: 20211124002730647
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.10.3 <span style="font-weight:normal">(Nov 23, 2021)</span>
+
+* Added several new traits to the [[NPC appearance and personality generator]]
+* Added spells:
+** [[abjure enemy]]
+** [[rebuke the violent]]
+** [[turn the unholy]]
+** [[wild cunning]]
+** [[witch bolt]]
+* Restructured the [[talent]] page so that talents are broken up by specific occupation/race
+* Added several [[cleric]] domains and [[paladin]] oaths as [[talent]]s, essentially reskinned [[Spellcaster (talent)]]. Also added a few talents for [[warlock]]s and [[ardent]]s
 
 !!! 1.10.2 <span style="font-weight:normal">(Nov 20, 2021)</span>
 
