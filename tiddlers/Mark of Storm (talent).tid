@@ -1,20 +1,21 @@
 category: talent
 created: 20210731231748466
 list: gust [[planar binding]] gale whirlwind [[wind's favor]] [[feather fall]] [[fog cloud]] levitate [[ice storm]] [[wind wall]] [[control water]] [[conjure minor elementals]] [[conjure elemental]] [[control winds]] [[control weather]]
-modified: 20210820223721650
-tags: half-elf Storyloom [[Mark of Storm]]
+modified: 20211128070032063
+tags: half-elf [[Mark of Storm]]
 title: Mark of Storm (talent)
 type: text/vnd.tiddlywiki
+xpcost: 1
 
 You possess the [[Mark of Storm]], a [[dragonmark]] that only manifests on [[half-elves|half-elf]] with ties to House [[Lyrandar]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (cantrip or common [[spell tier]]) from the below list. //Recommended Spell: [[gust]].//
 
-If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster (talent)]].
+If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]].
 
 !! Mark of Storm Spell List
 
 <table class="manager-table">
 	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
-	<$list filter="[list[]sort[tier]]">
+	<$list filter="[list[]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>
 			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>

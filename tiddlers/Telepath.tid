@@ -1,0 +1,36 @@
+category: talent
+created: 20210801035909451
+list: [[encode thoughts]] [[intellect fortress]] [[mind sliver]] compulsion sleep [[mind spike]] [[calm emotions]] enthrall [[detect thoughts]] [[mind whip]] confusion hold charm suggestion dominate [[telepathic bond]] feeblemind [[psychic chirurgery]] [[mind blank]] [[psychic scream]] [[psychic lance]]
+modified: 20211130024808638
+tags: psion
+title: Telepath
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+You awaken the ability to [[psionically|psionics]] connect with others. Gain the following benefits:
+
+* You can speak telepathically to any creature you can see within 60 feet of you. Your telepathic utterances are in a [[language]] you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.
+* You can cast the [[detect thoughts]] spell.
+
+!! {{!!title}} Spell List
+
+If you take the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]] talent as a telepath, you might consider the following spells.
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

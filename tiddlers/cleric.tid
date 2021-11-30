@@ -1,7 +1,7 @@
 category: occupation
 color: #A3CFBB
 created: 20200422032150707
-modified: 20211123235417964
+modified: 20211126225040288
 title: cleric
 type: text/vnd.tiddlywiki
 
@@ -11,12 +11,4 @@ Most clerics are priests of a [[religion]] with the devotion required to perform
 
 !! Cleric Domains
 
-<ul>
-<$list filter="[tag[cleric]category[talent]search:title[Domain]search[title]]">
-<li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
-<$link to=<<currentTiddler>>><<splittitle>></$link>
-</$wikify>
-</li>
-</$list>
-</ul>
+<<list-links-article "[tag{!!title}category[talent]search:title[Domain]sort[title]]">>

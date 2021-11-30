@@ -1,20 +1,21 @@
 category: talent
 created: 20210731223911705
 list: [[misty step]] [[far step]] [[thunder step]] longstrider haste [[benign transposition]] [[expeditious retreat]] jump [[pass without trace]] blink [[phantom steed]] [[dimension door]] [[freedom of movement]] etherealness teleport [[arcane gate]] scatter
-modified: 20210820223721589
-tags: Storyloom human [[Mark of Passage]]
+modified: 20211128070032009
+tags: human [[Mark of Passage]]
 title: Mark of Passage (talent)
 type: text/vnd.tiddlywiki
+xpcost: 1
 
 You possess the [[Mark of Passage]], a [[dragonmark]] that only manifests on [[human]]s with ties to House [[Orien]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (cantrip or common [[spell tier]]) from the below list. //Recommended Spell: [[misty step]].//
 
-If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster (talent)]]. 
+If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]]. 
 
 !! Mark of Passage Spell List
 
 <table class="manager-table">
 	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
-	<$list filter="[list[]sort[tier]]">
+	<$list filter="[list[]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>
 			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>

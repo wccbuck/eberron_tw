@@ -1,0 +1,13 @@
+category: game mechanics
+created: 20211126225549226
+modified: 20211126231018044
+tags: Storyloom
+title: experience point
+type: text/vnd.tiddlywiki
+
+Experience points (shortened to "XP") are a representation of a [[player character|Character Creation]]'s power potential. Players can spend experience points on two things:
+
+* [[Talent|talent]]s. Most talents cost 1 point, but some cost 2 or even 3 XP.
+* [[Action or attribute points|Actions and Attributes]]. The first time you spend XP to increase one of your [[action]]s or [[attribute]]s by 1 costs 2 XP. The XP cost increases by 1 each time you do this.
+
+By default, new characters start with two experience points. Typically player characters will gain 1 XP at the end of an adventure (1-3 sessions), and 1 additional XP at the end of each story arc (3-5 adventures).

@@ -1,20 +1,21 @@
 category: talent
 created: 20210731201343751
 list: [[know direction]] [[locate object]] [[hunter's mark]] [[faerie fire]] longstrider [[locate animals or plants]] [[locate creature]] clairvoyance [[speak with plants]] [[commune with nature]] [[find the path]] scrying
-modified: 20210820223721523
-tags: half-orc Storyloom [[Mark of Finding]]
+modified: 20211128070031940
+tags: half-orc [[Mark of Finding]]
 title: Mark of Finding (talent)
 type: text/vnd.tiddlywiki
+xpcost: 1
 
 You possess the [[Mark of Finding]], a [[dragonmark]] that only manifests on [[half-orc]]s with ties to House [[Tharashk]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (cantrip or common [[spell tier]]) from the below list. //Recommended Spell: [[locate object]].//
 
-If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster (talent)]].
+If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]].
 
 !! Mark of Finding Spell List
 
 <table class="manager-table">
 	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
-	<$list filter="[list[]sort[tier]]">
+	<$list filter="[list[]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>
 			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>

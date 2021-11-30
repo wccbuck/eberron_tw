@@ -1,6 +1,6 @@
-caption: Find Misc
+caption: Misc
 created: 20210302181952900
-modified: 20210727192008300
+modified: 20211126205521032
 tags: 
 title: Find Miscellaneous
 type: text/vnd.tiddlywiki
@@ -16,8 +16,8 @@ type: text/vnd.tiddlywiki
 		</div>
 		<div class="tc-manager-control">
 			Category: <$select tiddler="$:/config/Manager/MiscCat" default="">
-				<option value="[has[category]!category[location]!category[object]!category[spell]!category[creature]!category[person]!category[entity]!category[organization]]">---</option>
-				<$list filter="[!category[location]!category[object]!category[spell]!category[creature]!category[person]!category[entity]!category[organization]each[category]get[category]sort[title]]" variable="cat">
+				<option value="[has[category]!category[location]!category[object]!category[spell]!category[creature]!category[person]!category[entity]!category[organization]!category[talent]]">---</option>
+				<$list filter="[!category[location]!category[object]!category[spell]!category[creature]!category[person]!category[entity]!category[organization]!category[talent]each[category]get[category]sort[title]]" variable="cat">
 					<option value=<<misc-cat>>><$text text=<<cat>>/></option>
 				</$list>
 			</$select>

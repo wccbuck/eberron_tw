@@ -1,0 +1,21 @@
+category: talent
+created: 20211130062754966
+modified: 20211130063124906
+tags: [[arcane trickster]]
+title: Spell Thief
+type: text/vnd.tiddlywiki
+xpcost: 3
+
+''Requirement:'' [[Arcane Trickster (talent)]]
+
+You gain the ability to magically
+steal the knowledge of how to cast a spell from
+another spellcaster.
+
+Immediately after a creature casts a spell that targets
+you or includes you in its area of effect, you can attempt to negate the
+spell's effect against you and steal the knowledge
+of the spell. If you are successful, for the next 8 hours, you know the spell and can cast it as normal. The original spellcaster can't cast that spell until the
+8 hours have passed.
+
+Once you use this feature, you can't use it again until you rest for at least six hours.

@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201216172239039
-modified: 20210727192004670
+modified: 20211125000000205
 tags: illusion
 tier: 2
 title: disguise self
@@ -13,4 +13,4 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 !! Rare-Tier
 
-When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target every creature you can see within 30 feet. This version of the spell is called "''seeming''". You give each target you choose a new, illusory appearance. Unwilling targets can attempt to resist the spell.
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target every creature you can see within 30 feet. This version of the spell is sometimes called "''seeming''". You give each target you choose a new, illusory appearance. Unwilling targets can attempt to resist the spell.

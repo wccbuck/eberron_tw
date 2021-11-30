@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20210726212315756
-modified: 20210727192025353
+modified: 20211129223815508
 rarity: 1
 tags: tool
 title: poisoner's flask
 type: text/vnd.tiddlywiki
 
-Anything placed inside this silver hip flask becomes poisonous after five minutes.
+Anything placed inside this silver hip flask becomes poisonous (as a [[basic poison]]) after five minutes.

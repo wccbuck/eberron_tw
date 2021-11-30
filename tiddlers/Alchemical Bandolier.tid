@@ -1,0 +1,30 @@
+category: talent
+created: 20210726021011258
+list: [[bramble seeds]] [[candle of the deep]] [[inferno oil]] [[noxious smokestick]] smokestick [[perfume of bewitching]] [[sculpting putty]] [[seedling stones]] [[sleep-tight bathing salts]] tindertwig sunrod [[fire blind]] [[feather token]] [[chameleon candy]] tethercord [[whisper powder]] [[vial of confidential ink]]
+modified: 20211129224529615
+tags: artificer
+title: Alchemical Bandolier
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+You are always prepared for any situation in which an [[alchemical|alchemist]] item might be useful. Twice per day, when appropriate to the narrative, you may reach into your bandolier (or belt, or satchel) and pull out a single-use, common [[rarity]] item from the below list. You can pull out other items at the GM's discretion. You do not have to spend any [[money]] to pull out an item or restock your bandolier.
+
+!! Alchemical Item List
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Item</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]] [tag[poison]rarity[1]] [tag[potion]rarity[1]] [tag[alchemical explosive]rarity[1]] +[sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>
+
+!!! <<showitems "Find Items">>

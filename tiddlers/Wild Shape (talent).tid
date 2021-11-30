@@ -1,11 +1,12 @@
 category: talent
 created: 20210726060340405
-modified: 20210809033632674
-tags: Storyloom druid
+modified: 20211128070032167
+tags: druid
 title: Wild Shape (talent)
 type: text/vnd.tiddlywiki
+xpcost: 1
 
-Three times per day, you can assume the shape of any [[beast]] of [[creature tier]] 1 or less that you have seen before. If the chosen beast can fly, it must be creature tier 0. The transformation lasts for up to an hour, or earlier if you are knocked unconscious.
+Three times per day, you can assume the shape of any [[beast]] of [[creature tier]] ''1'' or less that you have seen before. If the chosen beast can fly, it must be creature tier 0. The transformation lasts for up to an hour, or earlier if you are knocked unconscious.
 
 <<<
 ''Alternative Version''<br/>
@@ -14,6 +15,4 @@ As an alternative, you may choose ''one'' [[beast]] of [[creature tier]] 1 or le
 
 While in beast form, you can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your form.
 
-!! Enhanced Wild Shape
-
-If you take this talent a second time, you can transform into a [[beast]] or [[elemental]] of [[creature tier]] 2 or less.
+See also [[Enhanced Wild Shape]].

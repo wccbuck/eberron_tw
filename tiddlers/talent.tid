@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210402021419698
-modified: 20211123203721603
+modified: 20211129194800640
 tags: Storyloom
 title: talent
 type: text/vnd.tiddlywiki
@@ -13,7 +13,9 @@ Typically a talent will allow your character to do one of the following:
 * Get +1d6 in your dice pool (an [[advantage]]) on a specific type of attempt under a narrow circumstance
 * Gain a new benefit to [[push yourself]], or gain an added bonus to push yourself in a specific circumstance
 
-When you [[make a character|Character Creation]], you may choose two talents (or one, or three, depending on the game's power level, determined by the GM). As your character advances, you may slowly add more talents. 
+When you [[make a character|Character Creation]], you have two [[experience point]]s you may spend on talents (or one, or three, depending on the game's power level, determined by the GM). Most talents cost one experience point, though several cost two, and a few very powerful talents cost three. As your character advances, you slowly gain [[experience point]]s, which you can use to gain more talents. 
+
+!!! <<showtalents "Find Talents">>
 
 !! Talent List
 
@@ -36,7 +38,7 @@ When you [[make a character|Character Creation]], you may choose two talents (or
 !!! Species-Based Talents
 
 <ul>
-<$list filter="[category[talent]tags[]category[creature]sort[title]]">
+<$list filter="[category[talent]tags[]category[creature]!tag[subrace]sort[title]]">
 <li>{{!!article}}<$link overrideClass="graylink"/></li>
 <ul>
 <$list filter="[<currentTiddler>tagging[]category[talent]sort[title]]">
@@ -50,13 +52,4 @@ When you [[make a character|Character Creation]], you may choose two talents (or
 </$list>
 </ul>
 
-!!! Other Talents
-<ul>
-<$list filter="[category[talent]] -[category[creature]tagging[]category[talent]] -[category[occupation]tagging[]category[talent]] +[sort[title]]">
-<li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
-<$link to=<<currentTiddler>>><<splittitle>></$link>
-</$wikify>
-</li>
-</$list>
-</ul>
+!!! <<showtalents "Full Talent List">>

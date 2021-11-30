@@ -1,0 +1,31 @@
+category: talent
+created: 20211129234626016
+list: [[dancing lights]] thaumaturgy [[thunder step]] frenzy haste [[miser's envy]] friends light message [[lesser illusion]] prestidigitation thunderclap [[vicious mockery]] [[animal friendship]] charm command [[comprehend languages]] [[dissonant whispers]] [[faerie fire]] [[feather fall]] [[healing word]] heroism identify longstrider [[silent image]] sleep [[speak with animals]] [[hideous laughter]] thunderwave [[unseen servant]] bane aid blindness/deafness [[animal messenger]] [[calm emotions]] enthrall hold invisibility restoration [[magic mouth]] [[Nathair's mischief]] phantasm pyrotechnics skywrite suggestion [[zone of truth]] [[dispel magic]] [[enemies abound]] fear [[hypnotic pattern]] [[color spray]] [[greater illusion]] [[plant growth]] sending slow [[speak with dead]] [[speak with plants]] tongues compulsion confusion [[dimension door]] [[freedom of movement]] [[hallucinatory terrain]] [[phantasmal killer]] polymorph [[psychic lance]] [[animate objects]] awaken dominate dream geas mislead [[legend lore]] [[modify memory]] [[planar binding]] empowerment [[telepathic bond]] [[synaptic static]] [[irresistible dance]] [[true seeing]] [[find the path]] etherealness forcecage [[mirage arcane]] [[project image]] regeneration [[raise dead]] resurrection teleport antipathy/sympathy feeblemind glibness [[mind blank]] [[power word: stun]] [[power word: pain]] [[power word: kill]] [[psychic scream]]
+modified: 20211130071432944
+tags: bard Spellcaster
+title: Bardic Magic
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]] talent rules. A [[bard]] might choose from the following spells, which they cast with the aid of a musical instrument.
+
+!! {{!!title}} Spell List
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

@@ -1,0 +1,35 @@
+category: talent
+created: 20211128073014384
+list: message [[burning blood]] [[mind whip]] [[psychic lance]] [[arms of Dyrrn]] [[hunger of Dyrrn]] [[dissonant whispers]] [[mind sliver]] [[calm emotions]] [[detect thoughts]] sending [[black tentacles]] [[telepathic bond]] telekinesis [[acid splash]] [[caustic brew]] [[chromatic orb]] [[psychic scream]] [[color spray]]
+modified: 20211130031203119
+tags: Spellcaster sorcerer
+title: Aberrant Mind
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+An alien influence has wrapped its tendrils around your mind, giving you power that blurs the line between [[arcane magic]] and [[psionics]]. You can now touch other minds with that power and alter the world around you by using it to control the magical energy of the universe.
+
+One of the [[language]]s you know should be [[Deep Speech]].
+
+Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]] talent rules. An aberrant [[sorcerer]] might choose from the following spells.
+
+!! {{!!title}} Spell List
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

@@ -1,0 +1,9 @@
+comparison: ≥
+created: 20211126211457175
+modified: 20211130075126019
+tier: 2
+title: $:/config/Manager/XPCost
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+[has[xpcost]!lessthan:xpcost{$:/config/Manager/XPCost!!xpcost}]

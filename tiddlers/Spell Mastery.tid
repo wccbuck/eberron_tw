@@ -1,0 +1,12 @@
+category: talent
+created: 20211130073939375
+modified: 20211130074348555
+tags: wizard
+title: Spell Mastery
+type: text/vnd.tiddlywiki
+xpcost: 3
+
+You have achieved such mastery over certain "signature" spells that you can cast them with little effort.
+
+* Choose two [[common-tier|spell tier]] spells that you know. You can cast these spells for free at will.
+* Choose two [[rare-tier|spell tier]] spells that you know. You only need to expend 1 [[stress]] to cast these spells rather than 2.

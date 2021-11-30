@@ -1,5 +1,5 @@
 created: 20201208005116699
-modified: 20210727191951904
+modified: 20211126214334803
 tags: $:/tags/Macro
 title: $:/core/macros/managermacros
 type: text/vnd.tiddlywiki
@@ -91,9 +91,15 @@ type: text/vnd.tiddlywiki
 <$action-setfield $tiddler="$:/config/Manager/ExcludePplEntTag" text=""/>
 \end
 
+\define resettalents()
+<$action-setfield $tiddler="$:/config/Manager/Filter" text=""/>
+<$action-setfield $tiddler="$:/config/Manager/XPCost" xpcost="1" comparison="≥" text="[has[xpcost]!lessthan:xpcost{$:/config/Manager/XPCost!!xpcost}]"/>
+<$action-setfield $tiddler="$:/config/Manager/TalentTag" text=""/>
+\end
+
 \define resetmisc()
 <$action-setfield $tiddler="$:/config/Manager/Filter" text=""/>
-<$action-setfield $tiddler="$:/config/Manager/MiscCat" text="[has[category]!category[location]!category[object]!category[spell]!category[creature]!category[person]!category[entity]!category[organization]]"/>
+<$action-setfield $tiddler="$:/config/Manager/MiscCat" text="[has[category]!category[location]!category[object]!category[spell]!category[creature]!category[person]!category[entity]!category[organization]!category[talent]]"/>
 <$action-setfield $tiddler="$:/config/Manager/MiscTag" text=""/>
 <$action-setfield $tiddler="$:/config/Manager/ExcludeMiscTag" text=""/>
 \end

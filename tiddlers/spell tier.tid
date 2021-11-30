@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210105213051245
-modified: 20210811014552013
+modified: 20211128043454069
 spellname: [[spell]]
 tags: Storyloom
 title: spell tier
@@ -20,9 +20,9 @@ If situational factors grant the spellcaster added [[impact]] for their spellcas
 
 These tiers roughly correspond to D&D 5e's spell levels: Common = 1st and 2nd level; Rare = 3-5th level (some 6th); Legendary = 6-8th level; Mythical = 9th level. 
 
-Player characters who are able to cast spells (usually by taking the [[Spellcaster|Spellcaster (talent)]] [[talent]]) generally start with only the capability to cast cantrips and common-tier spells. With increasing skill, they can learn how to cast rare, legendary, and perhaps even mythical-tier spells. They may also obtain extra [[stress]] boxes that can only be used for spellcasting.
+Player characters who are able to cast spells (usually by taking the [[Spellcaster]] [[talent]]) generally start with only the capability to cast cantrips and common-tier spells. With increasing skill, they can learn how to cast rare, legendary, and perhaps even mythical-tier spells. They may also obtain extra [[stress]] boxes that can only be used for spellcasting.
 
-Some spell descriptions indicate how that spell can be cast at a higher tier. This is only permitted if your character has a [[talent]] (e.g. [[Spellcaster|Spellcaster (talent)]] or [[Arcane Tradition|Arcane Tradition (talent)]]), or some other boon that allows them to do so. Most spells can also be "upgraded" in this way, even if they don't have explicit instructions on what the upgraded spell looks like; when it doubt, just increase [[impact]].
+Some spell descriptions indicate how that spell can be cast at a higher tier. This is only permitted if your character has a [[talent]] (e.g. [[Spellcaster]] or [[Arcane Tradition]]), or some other boon that allows them to do so. Most spells can also be "upgraded" in this way, even if they don't have explicit instructions on what the upgraded spell looks like; when it doubt, just increase [[impact]].
 
 Keep in mind that [[Storyloom]] is a fiction-first game. The rules work best when the spells' descriptions are used as a guideline for their effects, not as restrictions. Generally each spell tier should create an effect that's roughly +1d or +1 [[impact]] above that of the tier below it, but spell effects vary widely.
 

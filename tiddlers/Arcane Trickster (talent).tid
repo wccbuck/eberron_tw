@@ -1,0 +1,33 @@
+category: talent
+created: 20211130062716181
+list: [[floating disk]] [[faithful hound]] [[dimensional pocket]] [[speedy courier]] [[secret chest]] [[instant summons]] [[far step]] [[unseen thief]] [[summon familiar]] web blink grease [[lesser illusion]] [[Aundair's silent sanctum]] blur [[miser's envy]] suggestion [[calm emotions]] charm invisibility [[disguise self]] [[mirror image]] [[Nathair's mischief]] silence phantasm [[shadow blade]] [[silent image]] fear [[greater illusion]] mislead [[phantasmal killer]] [[project image]] [[programmed illusion]] hex [[hideous laughter]] hold compulsion [[enemies abound]] sleep antipathy/sympathy glibness [[misty step]] message [[dimension door]] [[arcane hand]]
+modified: 20211130072308981
+tags: Spellcaster [[arcane trickster]]
+title: Arcane Trickster (talent)
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+Gain the spell [[mage hand]]. You can turn the hand invisible at will. Gain an [[advantage]] when using the mage hand for sleight of hand, including picking pockets or using [[thieves' tools]].
+
+!! Arcane Trickster Spell List
+
+If you take the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]] talent as an [[arcane trickster]], you might consider the following spells.
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

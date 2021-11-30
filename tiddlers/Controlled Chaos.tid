@@ -1,0 +1,24 @@
+2d4: 7
+category: talent
+created: 20211130061453397
+d10: 7
+d20: 20
+d35: 10
+d4: 1
+d50: 50
+d7: 2
+duration: 1 hour
+effect: A terrible din fills the air like the clanging of pots and pans for the next {{!!duration}}.
+l_duration: 10 hours
+modified: 20211130061614066
+s_duration: 30 seconds
+tags: sorcerer
+title: Controlled Chaos
+type: text/vnd.tiddlywiki
+xpcost: 2
+
+''Requirement:'' [[Wild Magic]]
+
+Any time you trigger a [[random magical effect]], you may generate two and choose which one occurs.
+
+{{||random magical effect}}

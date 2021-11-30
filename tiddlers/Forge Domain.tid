@@ -1,0 +1,33 @@
+category: talent
+created: 20211128082831387
+list: identify mending [[searing smite]] [[heat metal]] [[magic weapon]] [[elemental weapon]] [[protection from energy]] fabricate [[wall of fire]] [[animate objects]] creation
+modified: 20211128083229592
+tags: Spellcaster cleric
+title: Forge Domain
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+[[Cleric|cleric]]s of the Forge are artisans who commune with their deity through the sound of hammer on metal. [[Onatar]] teaches that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. 
+
+Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]] talent rules. A [[cleric]] of the Forge domain might choose from the following spells.
+
+!! {{!!title}} Spell List
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]] [list[$:/ClericSpells]] +[sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

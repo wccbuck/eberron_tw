@@ -1,11 +1,11 @@
 category: game mechanics
 created: 20210401202519601
-modified: 20210728165407910
+modified: 20211127222311900
 tags: [[Taking Action]] Storyloom
 title: momentum
 type: text/vnd.tiddlywiki
 
-Momentum is a resource that represents the advantages a group of player characters has accumulated over the course of a scene. It can be represented by a pool of dice (ideally a different color than the dice used by the players) that can be pulled from when a player wants to improve one of their [[overcome]] rolls. The pool of momentum is shared between all players who can reasonably contribute to it or benefit from it in a scene, and can't be higher than three.
+Momentum is a resource that represents the advantages a group of player characters has accumulated over the course of a scene. It can be represented by a pool of dice (ideally a different color than the dice used by the players) that can be pulled from when a player wants to improve one of their [[overcome]] rolls. The pool of momentum is ''shared between all players'' who can reasonably contribute to it or benefit from it in a scene, and ''can't be higher than five''.
 
 You typically add momentum to the pool by using the [[boost]] action. Other ways of gaining momentum include "overfilling" a [[progress clock]] (gain 1 momentum if an overcome fills more segments of the clock than needed to complete it), as an additional benefit for a [[critical success|full success]], or other ways as determined by the GM. 
 

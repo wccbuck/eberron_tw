@@ -1,0 +1,39 @@
+category: talent
+created: 20210725173949205
+modified: 20211130052303356
+title: Spellcaster
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+The Spellcaster [[talent]] allows you to cast [[spell]]s. Choose ''any two'' of the following options:
+
+* Gain one [[cantrip or common-tier|spell tier]] spell.
+* Gain the ability to cast two spells you already know (cantrip or common only) at one [[tier|spell tier]] higher. Some spells, like [[guidance]] or [[charm]], have specific instructions on what a higher-tier version of that spell can do. Others, such as [[scorching ray]], are simply more powerful and destructive at higher tiers.
+* Gain two highly niche cantrips or common-tier spells, or one highly niche rare-tier spell; this is highly dependent on your campaign and subject to GM approval. Examples include [[blessed birth]] or [[hide from dragons]]—spells that might only be useful in very specific and unlikely circumstances. A spell that is very mechanically similar to another spell you already have might also be considered for this option.
+
+So you could choose to gain two new cantrips, or "upgrade" four common-tier spells you already had, or gain one new spell and upgrade two you already had, or some other combination of the above.
+
+Alternatively, instead of choosing two of the above options, you may choose the following option:
+
+* Gain one [[rare-tier|spell tier]] spell.
+
+You can take this talent multiple times to gain access to more spells. Gain access to higher-tier spells by taking the [[Spellcaster 2]] or [[Spellcaster 3]] talents.
+
+!! Specific Archetypes
+
+Different character archetypes/occupations have access to different sets of available spells. The following [[talent]]s are tagged as "Spellcaster" and follow the same rules listed above, but with a suggested list of spells relevant to that archetype. Treat these as lists of suggestions, not restrictions.
+
+<ul>
+<$list filter="[category[talent]tag[Spellcaster]tags[]category[occupation]sort[title]]">
+<li>{{!!article}}<$link overrideClass="graylink"/></li>
+<ul>
+<$list filter="[<currentTiddler>tagging[]category[talent]tag[Spellcaster]sort[title]]">
+<li>
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$link to=<<currentTiddler>>><<splittitle>></$link>
+</$wikify>
+</li>
+</$list>
+</ul>
+</$list>
+</ul>

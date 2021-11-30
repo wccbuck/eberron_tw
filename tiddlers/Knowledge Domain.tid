@@ -1,0 +1,33 @@
+category: talent
+created: 20211123211521733
+list: guidance [[true seeing]] [[detect magic]] [[detect poison and disease]] command identify augury suggestion nondetection [[speak with dead]] [[arcane eye]] confusion [[legend lore]] scrying
+modified: 20211128070032489
+tags: Spellcaster cleric
+title: Knowledge Domain
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+Followers of the divine domain of Knowledge study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Deities of knowledge value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse.
+
+Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]] talent rules. A [[cleric]] of the Knowledge domain might choose from the following spells.
+
+!! {{!!title}} Spell List
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]] [list[$:/ClericSpells]] +[sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

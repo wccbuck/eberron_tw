@@ -1,0 +1,33 @@
+category: talent
+created: 20211130052516594
+list: [[conjure astral construct]] [[mental tools]] [[spiritual weapon]] [[object projection]] [[dimensional pocket]] [[sword burst]] grease [[conjure barrage]] [[instant summons]] creation fabricate [[shadow blade]] [[cloud of daggers]] [[blade of disaster]] shield
+modified: 20211130054028969
+tags: Spellcaster psion
+title: Shaper
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+Shapers are [[psion]]s who are masters of metacreativity, the ability to form solid and semisolid objects such as tools, weapons, and even [[construct]]s out of psionic ectoplasm. These objects only last a limited time, but the creative possibilities are limitless. Shapers are often also experts at extradimensional manipulation.
+
+Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]] talent rules.
+
+!! {{!!title}} Spell List
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

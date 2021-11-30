@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20210820223852577
+modified: 20211127222355370
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -214,7 +214,7 @@ type: text/vnd.tiddlywiki
 
 \define cs-momentum()
 <div class="cs-quadcolumn">
-<$range tiddler="$:/$(currentTiddler)$/data" field="momentum" min="0" max="3" default="0" increment="1"/></div>
+<$range tiddler="$:/$(currentTiddler)$/data" field="momentum" min="0" max="5" default="0" increment="1"/></div>
 <div class="cs-column" style="align-items:center; margin-bottom:10px;">
 <$vars momentum={{{ [{$:/$(currentTiddler)$/data!!momentum}else[0]] }}}>
 <p class="cs-attr-act"><<momentum>></p></$vars>

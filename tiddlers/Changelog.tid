@@ -1,8 +1,74 @@
 created: 20211110214827026
-modified: 20211124002730647
+modified: 20211130074946906
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.11.0 <span style="font-weight:normal">(Nov 30, 2021)</span>
+
+* Big [[Storyloom]] character progression change. Made a much more streamlined way to handle adding [[talent]]s and [[spell]]s to a character: [[experience point]]s. 
+* Made a "Talents" tab on [[Find Things]]
+* Added new talents:
+** [[Aberrant Mind]]
+** [[Arcane Trickster (talent)]]
+** [[Anthropologist]]
+** [[Archaeologist]] (renamed and redesigned Historian)
+** [[Armor of Shadows]]
+** [[Aura of Courage]]
+** [[Aura of Devotion]]
+** [[Aura of Warding]]
+** [[Bardic Magic]]
+** [[Child of Winter (talent)]]
+** [[Controlled Chaos]]
+** [[Disciple of the Elements]]
+** [[Distinguished Veteran]]
+** [[Divine Health]]
+** [[Eldritch Knight (talent)]]
+** [[Entertainer]]
+** [[Enhanced Wild Shape]]
+** [[Fiendish Vigor]]
+** [[Forge Domain]]
+** [[Gloom Stalker (talent)]]
+** [[House Agent]]
+** [[Kineticist]]
+** [[Metamagic]]
+** [[Mindless Rage]]
+** [[Mystic Arcanum]]
+** [[Noble]]
+** [[Purity of Spirit]]
+** [[Ranger]]
+** [[Retainers]]
+** [[Revelation in Flesh]]
+** [[Ritual Casting]]
+** [[Shadow Arts]]
+** [[Shaper]]
+** [[Shrewd Inquisitive]]
+** [[Soul of Deceit]]
+** [[Spell Mastery]]
+** [[Spell Thief]]
+** [[Tongue of the Sun and Moon]]
+** [[Weapon Bond]]
+** [[Whispers of the Grave]]
+* Added spells:
+** [[conjure astral construct]]
+** [[conquering presence]]
+** [[fangs of the fire snake]]
+* Added items:
+** [[arcane signet ring]]
+** [[basic poison]]
+** [[clear-path mist]]
+** [[clockwork bomb]]
+** [[gaming set]]
+** [[ghost blossom extract]]
+** [[grayflower perfume]]
+** [[hunter's kit]]
+** [[inferno oil]]
+** [[lodret leaf]]
+** [[navigator's tools]]
+** [[tethercord]]
+
+* Increased maximum [[momentum]] pool size to 5; 3 max momentum for a whole party just isn't enough
+* Clarified phrasing on a few pages, fixed some wrong tags, etc
 
 !!! 1.10.3 <span style="font-weight:normal">(Nov 23, 2021)</span>
 
@@ -14,7 +80,7 @@ type: text/vnd.tiddlywiki
 ** [[wild cunning]]
 ** [[witch bolt]]
 * Restructured the [[talent]] page so that talents are broken up by specific occupation/race
-* Added several [[cleric]] domains and [[paladin]] oaths as [[talent]]s, essentially reskinned [[Spellcaster (talent)]]. Also added a few talents for [[warlock]]s and [[ardent]]s
+* Added several [[cleric]] domains and [[paladin]] oaths as [[talent]]s, essentially reskinned [[Spellcaster]]. Also added a few talents for [[warlock]]s and [[ardent]]s
 
 !!! 1.10.2 <span style="font-weight:normal">(Nov 20, 2021)</span>
 
@@ -298,10 +364,10 @@ Lots of map improvements!
 
 * Updated [[Barren Sea]] and [[kuo-toa]] based on recent blog post; added [[Sa'arlaath]]
 * Added [[talent]]s:
-** [[Counterstyle (talent)]]
-** [[Historian (talent)]]
-** [[Razor Tongue (talent)]]
-** [[Underhanded (talent)]]
+** [[Counterstyle]]
+** [[Historian]]
+** [[Razor Tongue]]
+** [[Underhanded]]
 
 !!! 1.4.1 <span style="font-weight:normal">(Aug 16, 2021)</span>
 

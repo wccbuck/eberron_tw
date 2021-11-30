@@ -1,0 +1,8 @@
+created: 20211126210336072
+limit50: [has[title]]
+modified: 20211128070105677
+tags: 
+title: $:/config/Manager/LimitTalents
+type: text/vnd.tiddlywiki
+
+[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/TalentTag}subfilter{$:/config/Manager/XPCost}field:category[talent]count[]]

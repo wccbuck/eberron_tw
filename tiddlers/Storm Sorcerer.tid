@@ -1,0 +1,35 @@
+category: talent
+created: 20211128075133410
+list: gust gale [[conjure elemental]] [[conjure minor elementals]] [[control weather]] [[fog cloud]] [[ice storm]] whirlwind [[shocking grasp]] [[chaos bolt]] [[witch bolt]] [[call lightning]] [[lightning bolt]] [[storm sphere]] thunderclap thunderwave
+modified: 20211128075953232
+tags: Spellcaster sorcerer
+title: Storm Sorcerer
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+Your innate magic comes from the elemental power of the [[First Storm]] of [[Lamannia]], or perhaps you possess a particularly powerful [[Mark of Storm]]. The magic of wind and thunder permeates your being.
+
+One of the [[language]]s you know should be [[Primordial]].
+
+Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]] talent rules. A storm [[sorcerer]] might choose from the following spells.
+
+!! {{!!title}} Spell List
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

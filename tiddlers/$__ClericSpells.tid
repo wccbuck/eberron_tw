@@ -1,0 +1,8 @@
+created: 20211128033027507
+list: [[cure wounds]] thaumaturgy bless [[healing word]] [[word of recall]] [[holy aura]] [[astral projection]] gate [[conjure celestial]] [[divine word]] hallow guidance ceremony [[remove curse]] commune [[guardian of faith]] [[spirit guardians]] [[detect immortal]] [[shield of faith]]
+modified: 20211128035350221
+tags: 
+title: $:/ClericSpells
+type: text/vnd.tiddlywiki
+
+<<list-links "[list[]sort[title]]">>

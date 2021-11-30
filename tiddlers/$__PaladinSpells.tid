@@ -1,0 +1,8 @@
+created: 20211128030456872
+list: [[banishing smite]] [[cure wounds]] [[wrathful smite]] [[staggering smite]] [[branding smite]] [[thunderous smite]] [[blinding smite]] [[searing smite]] [[shield of faith]] [[compelled duel]] [[holy weapon]] [[holy aura]] [[divine favor]] [[crusader's mantle]]
+modified: 20211128031621829
+tags: 
+title: $:/PaladinSpells
+type: text/vnd.tiddlywiki
+
+<<list-links "[list[]sort[title]]">>

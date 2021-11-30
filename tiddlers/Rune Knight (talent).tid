@@ -1,9 +1,10 @@
 category: talent
 created: 20210809025058540
-modified: 20210809034949442
-tags: Storyloom [[rune knight]]
+modified: 20211128070032121
+tags: [[rune knight]]
 title: Rune Knight (talent)
 type: text/vnd.tiddlywiki
+xpcost: 1
 
 As a [[rune knight]], you gain the ability to cast the "Enlarge" half of the [[enlarge/reduce]] spell on yourself only. It still counts as a [[common-tier|spell tier]] spell and costs one [[stress]] to cast.
 
