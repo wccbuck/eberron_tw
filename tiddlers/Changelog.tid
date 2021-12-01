@@ -1,8 +1,16 @@
 created: 20211110214827026
-modified: 20211130074946906
+modified: 20211130235442382
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.11.1 <span style="font-weight:normal">(Nov 30, 2021)</span>
+
+* Added the [[Library of Hidden Knowledge]]
+* Added [[flame arrows]] spell
+* Added [[Artificer (talent)]]
+* Updated [[Yrlag]]
+* Fixed a typo, made some small tweaks
 
 !!! 1.11.0 <span style="font-weight:normal">(Nov 30, 2021)</span>
 
@@ -10,8 +18,8 @@ type: text/vnd.tiddlywiki
 * Made a "Talents" tab on [[Find Things]]
 * Added new talents:
 ** [[Aberrant Mind]]
-** [[Arcane Trickster (talent)]]
 ** [[Anthropologist]]
+** [[Arcane Trickster (talent)]]
 ** [[Archaeologist]] (renamed and redesigned Historian)
 ** [[Armor of Shadows]]
 ** [[Aura of Courage]]

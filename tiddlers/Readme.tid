@@ -1,5 +1,5 @@
 created: 20210715234357438
-modified: 20211130075000563
+modified: 20211130175801811
 tags: 
 title: Readme
 type: text/vnd.tiddlywiki
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 <$vars numobjects={{{[category[object]!is[system]count[]]}}} numcreatures={{{[category[creature]!is[system]count[]]}}} numplaces={{{[category[location]!is[system]count[]]}}} numorgs={{{[category[organization]!is[system]count[]]}}} numspells={{{[category[spell]!is[system]count[]]}}} numpplent= {{{[subfilter<ppl-ent>!is[system]count[]]}}}><<numobjects>> items, <<numcreatures>> creatures, <<numplaces>> places, <<numpplent>> characters, <<numorgs>> organizations, <<numspells>> spells, and much more!
 </$vars>
 
-Current version ''1.11.0'' ([[Changelog]])
+Current version ''1.11.1'' ([[Changelog]])
 
 !! What is this?
 

@@ -1,6 +1,6 @@
 category: miscellaneous
 created: 20210302014454113
-modified: 20210727192035047
+modified: 20211130175225348
 title: subrace
 type: text/vnd.tiddlywiki
 
@@ -9,7 +9,7 @@ Some [[humanoid]] races have "subraces". These are different phenotypes within a
 !! Subraces
 
 <ul>
-<$list filter="[tag[subrace]tags[]category[creature]!title[humanoid]sort[title]]">
+<$list filter="[tag[subrace]tags[]category[creature]tag[humanoid]sort[title]]">
 <li><$link overrideClass="graylink"/></li>
 <ul>
 <$list filter="[tag[subrace]tag<currentTiddler>]">
