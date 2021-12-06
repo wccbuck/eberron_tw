@@ -1,10 +1,20 @@
 category: object
 color: #41D5E1
 created: 20210808192416194
-modified: 20210808192531054
+modified: 20211205010334091
 rarity: 1
-tags: [[equipment pack]]
+tags: toolset
 title: alchemist's supplies
 type: text/vnd.tiddlywiki
 
 This satchel of [[alchemist]]'s supplies includes two glass beakers, a metal frame to hold a beaker in place over an open flame, a glass stirring rod, a small mortar and pestle, and a pouch of common alchemical ingredients, including salt, powdered iron, and purified water.
+
+!! Uses for {{!!title}}
+
+You might use {{!!title}} in order to:
+
+* Create a puff of thick smoke.
+* Identify a poison, chemical, or other substance.
+* Start a fire.
+* Neutralize acid.
+* Create a bar of soap, a bottle of perfume, or an [[alchemical explosive]].

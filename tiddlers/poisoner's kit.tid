@@ -1,12 +1,20 @@
 category: object
 color: #41D5E1
 created: 20210808193411739
-modified: 20211129201043523
+modified: 20211205010513036
 rarity: 1
-tags: [[equipment pack]]
+tags: toolset
 title: poisoner's kit
 type: text/vnd.tiddlywiki
 
 A poisoner's kit is a favored resource for thieves, assassins, and others who engage in skulduggery. It allows you to apply poisons and create them from various
 materials (see [[basic poison]]). The kit includes glass vials, a
 mortar and pestle, chemicals, and a glass stirring rod.
+
+!! Uses for {{!!title}}
+
+You might use {{!!title}} in order to:
+
+* Create a [[poison]].
+* Spot a poisoned object.
+* Determine the effects of a poison.

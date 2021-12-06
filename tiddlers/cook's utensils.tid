@@ -1,12 +1,21 @@
 category: object
 color: #41D5E1
 created: 20210808193100498
-modified: 20210808193151161
+modified: 20211205010512733
 rarity: 1
-tags: [[equipment pack]]
+tags: toolset
 title: cook's utensils
 type: text/vnd.tiddlywiki
 
 Adventuring is a hard life. With a cook along on the journey, your meals will be much better than the typical mix
 of hardtack and dried fruit. A satchel of cook's utensils includes a metal pot,
 knives, forks, a stirring spoon, and a ladle.
+
+!! Uses for {{!!title}}
+
+You might use {{!!title}} in order to:
+
+* Create a filling meal, or duplicate a meal.
+* Spot poison or impurities in food.
+* When foraging for food, make do with scavenged ingredients.
+* Transform medicine that is bitter or sour into a pleasing concoction.

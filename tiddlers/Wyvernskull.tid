@@ -1,19 +1,18 @@
 category: location
 color: #4C8201
 created: 20200415192402808
-modified: 20210820071207421
+modified: 20211202182156867
 points: 21.065,2.61
 population: 5500
-style: {"color": "#CA5700"}
-tags: Darguun town
+style: {"color": "#8E0024"}
+tags: city Darguun
 title: Wyvernskull
 tooltip: small seaport in Darguun
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>
 
-A port town
-at the mouth of the [[Torlaac River]], Wyvernskull sits on
+A small port city at the mouth of the [[Torlaac River]], Wyvernskull sits on
 the edge of the [[Khraal]] rainforest. This haven in the
 midst of the wilderness provides an important entryway
 into the kingdom for the few traders that approach [[Darguun]] from the southern seas. If trade ever increases,

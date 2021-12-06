@@ -1,12 +1,22 @@
 category: object
 color: #41D5E1
 created: 20210808005014562
-modified: 20210808005623774
+modified: 20211205010512776
 rarity: 1
-tags: [[equipment pack]]
+tags: toolset
 title: disguise kit
 type: text/vnd.tiddlywiki
 
 This pouch of cosmetics, hair dye, and
 small props lets you create disguises that change your
 physical appearance. 
+
+!! Uses for {{!!title}}
+
+You might use {{!!title}} in order to:
+
+* Copy a humanoid's appearance.
+* Cover injuries or distinguishing marks.
+* Spot a disguise being used by someone else.
+* Make yourself appear more fearsome.
+* Enhance a performance.

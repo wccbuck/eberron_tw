@@ -1,8 +1,34 @@
 created: 20211110214827026
-modified: 20211201062359671
+modified: 20211206061651263
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.11.3 <span style="font-weight:normal">(Dec 6, 2021)</span>
+
+* Added [[talent]]s:
+** [[Aasimar (talent)]]
+** [[Bugbear (talent)]]
+** [[Envoy Specialist]]
+** [[Genasi of Air]]
+** [[Genasi of Earth]]
+** [[Genasi of Fire]]
+** [[Genasi of Water]]
+** [[Gith (talent)]]
+** [[Implement Expertise]]
+** [[Juggernaut Upgrade]]
+** [[Medusa (talent)]]
+** [[Sea Elf (talent)]]
+* Tweaked some other talents
+* Added items:
+** [[carpenter's tools]]
+** [[cartographer's tools]]
+** [[double-bladed scimitar]] (formerly part of [[Tairnadal]] page)
+** [[mason's tools]]
+** [[tailor's tools]]
+* Added a bit to [[Blood Crescent]], and a bit more to [[Yrlag]]. Increased Yrlag's population.
+* Added plot hooks to various [[daelkyr]] and [[overlord]]s from Exploring Eberron
+* Added [[Court of Shadows]] and [[Blackroot]]
 
 !!! 1.11.2 <span style="font-weight:normal">(Dec 1, 2021)</span>
 

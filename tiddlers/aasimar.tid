@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20201216201008656
-modified: 20210727191953194
+modified: 20211202182841328
 tags: humanoid
 tier: 2
 title: aasimar
@@ -86,7 +86,7 @@ converse with it directly. Is your guide primarily concerned with
 your own ascension? Or is it driven by the Seeker principles of
 protecting your community and opposing death?
 
-!! The Silver Flame
+!!! The Silver Flame
 
 The [[Silver Flame]] is the most common source of aasimar in
 Eberron. Some believe that [[Tira Miron]] was an aasimar of the
@@ -110,7 +110,7 @@ Flame is to protect the innocent from supernatural threats. Is
 this what your guide encourages you to do? Or do you have a
 greater purpose?
 
-!! The Sovereign Host
+!!! The Sovereign Host
 
 [[Host|Sovereign Host]] aasimar are chosen by a particular Sovereign, or at least, by a [[celestial]] devoted to that Sovereign. As a Host aasimar,
 you are encouraged to act as an avatar of that Sovereign,
@@ -132,7 +132,7 @@ Sovereign as you—typically an [[angel]] of [[Irian]] or [[Syrania]]. They
 will encourage you to embody the virtues of the Sovereign you
 represent. Do they have any deeper purpose for you?
 
-!! The Undying Court
+!!! The Undying Court
 
 You have been chosen by one of the ascendant councilors of
 the [[Undying Court]]—one of your [[deathless]] elven ancestors—and
@@ -147,8 +147,8 @@ health. However, you could have a desiccated appearance,
 similar to a [[mummy]]—even though you are still fully alive and
 healthy. Your energy manifestations are typically blue or violet.
 
-//''Spiritual Guide.''// Your spirit guide is one of the deathless councilors
-of the Undying Court, quite possibly one of your own distant
+//''Spiritual Guide.''// Your spirit guide is one of the [[deathless]] councilors
+of the [[Undying Court]], quite possibly one of your own distant
 ancestors. Do they want you to serve the general interests of
 Aerenal and the Undying Court, or have they recruited you as
 their personal agent? Do they want you to help in a struggle with
@@ -232,9 +232,7 @@ colors are dull, as if the light is being leached away from you,
 and your eyes are pure darkness. Your guide still inspires you
 to follow the principles of its plane of origin, but it's fighting
 against Mabar's overwhelming despair and a hunger to drain
-the light and life from mortal creatures; when you use your
-//consuming touch//, you're channeling this energy to your guide.
-Your guide might hope you can someday release it from Mabar,
+the light and life from mortal creatures; when you inflict necrotic damage to enemies, you're channeling this energy to your guide. Your guide might hope you can someday release it from Mabar,
 though no immortal has ever escaped its corruption before. Or
 it could simply encourage you to follow the general principles
 of its plane of origin—balanced against its growing hunger and

@@ -1,13 +1,13 @@
 [
     {
         "created": "20210616182255416",
-        "title": "jaeldira",
-        "text": "The [[Valaes Tairn]] take great pride in their skill with the scimitar and [[double scimitar|Tairnadal]]. Foremost among their swordsmen is an order of blade specialists known as the //jaeldira//, or \"blade dancers.\" These are monks who whirl their blades in a bewildering and graceful dance, performed according to their own rhythm. ",
-        "modified": "20210727192015384",
-        "tags": "monk [[Valaes Tairn]]",
+        "text": "The [[Valaes Tairn]] take great pride in their skill with the scimitar and [[double scimitar|double-bladed scimitar]]. Foremost among their swordsmen is an order of blade specialists known as the //jaeldira//, or \"blade dancers.\" These are monks who whirl their blades in a bewildering and graceful dance, performed according to their own rhythm. ",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "jaeldira",
+        "tags": "monk [[Valaes Tairn]]",
+        "modified": "20211203010900153",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

@@ -1,12 +1,20 @@
 category: object
 color: #41D5E1
 created: 20210808004802487
-modified: 20210808005551969
+modified: 20211205010513144
 rarity: 1
-tags: [[equipment pack]]
+tags: toolset
 title: tinker's tools
 type: text/vnd.tiddlywiki
 
 A set of tinker's tools allows the user to repair many mundane objects. Though you can't manufacture much with tinker's tools, you can mend torn clothes, sharpen a worn sword, and patch a tattered suit of chain mail.
 
 Tinker's tools include a variety of hand tools, thread, needles, a whetstone, scraps of cloth and leather, and a small pot of glue.
+
+!! Uses for {{!!title}}
+
+You might use {{!!title}} in order to:
+
+* Temporarily repair a disabled device.
+* Repair a damaged [[construct]].
+* Improvise a temporary item using scraps.

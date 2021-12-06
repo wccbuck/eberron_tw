@@ -1,0 +1,21 @@
+category: object
+color: #41D5E1
+created: 20211203001407114
+modified: 20211205010513159
+rarity: 1
+tags: toolset
+title: cartographer's tools
+type: text/vnd.tiddlywiki
+
+This satchel of tools consist of a quill, ink, parchment, a pair of compasses, calipers, and a ruler. 
+
+Using cartographer's tools, you can create accurate maps to make travel easier for yourself and those who come after you. These maps can range from large-scale depictions of mountain ranges to diagrams that show the layout of a dungeon level.
+
+!! Uses for {{!!title}}
+
+You might use {{!!title}} in order to:
+
+* Determine a map's age and origin.
+* Estimate direction and distance to a landmark.
+* Discern that a map is fake.
+* Fill in a missing part of a map.

@@ -1,6 +1,6 @@
 created: 20210302071921236
-limit50: [limit[50]]
-modified: 20210821201241346
+limit50: [has[title]]
+modified: 20211202181802641
 tags: 
 title: $:/config/Manager/LimitLocations
 type: text/vnd.tiddlywiki
