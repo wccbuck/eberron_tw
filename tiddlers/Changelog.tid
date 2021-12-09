@@ -1,8 +1,18 @@
 created: 20211110214827026
-modified: 20211206061651263
+modified: 20211209070252870
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.11.4 <span style="font-weight:normal">(Dec 9, 2021)</span>
+
+* Added creatures:
+** [[mantrap]]
+** [[obyrith]]
+** [[will-o'-wisp]]
+* Added [[delver's light]] and [[Aberrant Dragonmark (talent)]]
+* Tweaked some of the genasi talents I added last update, and tweaked [[Shifter (talent)]] (gave [[blindsight]] to [[wildhunt]] shifters)
+* Renamed the leader of the [[Graveyard Sentinels]] "[[Opilion]]" (previously Harvester, previously Spider).
 
 !!! 1.11.3 <span style="font-weight:normal">(Dec 6, 2021)</span>
 
@@ -180,7 +190,7 @@ type: text/vnd.tiddlywiki
 *** [[Viktor Saint-Demain]]
 *** [[Durok the Masher]]
 *** [[Grimgraj]]
-*** [[Harvester]] (changed from "Spider")
+*** [[Opilion]] (changed from "Spider")
 *** [[Julian Gevard II]]
 *** Dr. [[Lucard Karvasi]]
 *** [[Mako]]
