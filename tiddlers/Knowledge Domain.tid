@@ -1,7 +1,9 @@
 category: talent
 created: 20211123211521733
-list: guidance [[true seeing]] [[detect magic]] [[detect poison and disease]] command identify augury suggestion nondetection [[speak with dead]] [[arcane eye]] confusion [[legend lore]] scrying
-modified: 20211128070032489
+creator: ziphion
+list: guidance [[borrowed knowledge]] [[true seeing]] [[detect magic]] [[detect poison and disease]] command identify augury suggestion nondetection [[speak with dead]] [[arcane eye]] confusion [[legend lore]] scrying
+modified: 20211212055251575
+modifier: ziphion
 tags: Spellcaster cleric
 title: Knowledge Domain
 type: text/vnd.tiddlywiki

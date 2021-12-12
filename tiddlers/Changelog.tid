@@ -1,8 +1,24 @@
 created: 20211110214827026
-modified: 20211211001910235
+creator: ziphion
+modified: 20211212095910685
+modifier: ziphion
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.11.6 <span style="font-weight:normal">(Dec 12, 2021)</span>
+
+* Added [[Untold History]], a random generator for historical events in [[Khorvaire]].
+* Added [[talent]]s:
+** [[Spell Sniper]]
+** [[Tough]]
+* Added two spells from [[Strixhaven|https://dnd.wizards.com/products/strixhaven-curriculum-chaos]] (not much else useful from the book):
+** [[borrowed knowledge]]
+** [[vortex warp]]
+* Added some creatures from the 3.5e Monster Manual:
+** [[digester]]
+** [[krenshar]]
+** [[yrthak]]
 
 !!! 1.11.5 <span style="font-weight:normal">(Dec 10, 2021)</span>
 

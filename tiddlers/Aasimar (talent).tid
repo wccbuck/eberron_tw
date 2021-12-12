@@ -1,6 +1,8 @@
 category: talent
 created: 20211201202534625
-modified: 20211202002945845
+creator: ziphion
+modified: 20211212055251613
+modifier: ziphion
 tags: aasimar
 title: Aasimar (talent)
 type: text/vnd.tiddlywiki
@@ -33,7 +35,7 @@ As an [[aasimar]], you gain mystical [[celestial]] benefits depending on the ori
 * You are resistant to necrotic and radiant damage.
 * You can cast [[light]] as well as one [[cantrip or common tier|spell tier]] spell from the spell lists for [[Grave Domain]] or [[Knowledge Domain]].
 * You can speak [[Aereni]] (or another [[language]] of your choice if you already know Aereni).
-* Once per day, you can draw on your connection to your ancestors. Misty tendrils flow around you, whispering advice only you can hear. For 1 minute, gain [[advantage]] when you take heed of your ancestors' wisdom.
+* Once per day, you can draw on your connection to your ancestors. Misty tendrils flow around you, whispering advice only you can hear. Choose one [[action]] or [[attribute]]. For up to 10 minutes, the score of your chosen action or attribute is no lower than 2. 
 
 !!! 
 

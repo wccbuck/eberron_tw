@@ -1,0 +1,37 @@
+category: event
+color: #A3CFBB
+created: 20211212082058694
+modified: 20211212084633713
+title: Untold History
+type: text/vnd.tiddlywiki
+var1: A religious schism or heresy
+var2: a [[Wynarn|Wynarn family]] heir or ruler
+var3: the cause of many deaths
+
+[[Galifar]] stood for almost a thousand years before collapsing
+into the [[Last War]]. Both in this document and in the wider canon
+of Eberron lore, there are vast stretches of time that remain
+largely undeveloped.
+
+Within your campaign—whether as player or GM—feel free to develop and explore additional moments of history if they enhance the stories you want to tell. The
+Untold History button below provides a starting point for ideas. As
+a GM, this can be a way to add depth to a story. Have the players arrived at a currently unremarkable inn? Perhaps two hundred years ago, that inn was the headquarters
+of an alliance of peasants that rose up against the monarchy,
+only to be brutally suppressed—and they still don’t think much
+of characters with noble blood! Or in developing a character, perhaps one of your ancestors was a [[wizard]] who made an important arcane breakthrough, only to have it
+covered up by the [[dragonmarked house]]s.
+
+<$button>
+<$action-chooserandom $dataTiddler="$:/UHTriggeringEvent" $field="var1"/>
+<$action-chooserandom $dataTiddler="$:/UHConnectedTo" $field="var2"/>
+<$action-chooserandom $dataTiddler="$:/UHWhichWas" $field="var3"/>
+Untold History
+</$button>
+
+<<<
+''Historical Event:''
+
+{{!!var1}} connected to {{!!var2}}, which was {{!!var3}}.
+<<<
+
+//Adapted from the Untold History table in [[Exploring Eberron|https://www.dmsguild.com/product/315887/Exploring-Eberron]].//

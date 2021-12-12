@@ -1,5 +1,7 @@
 created: 20210715234357438
-modified: 20211210203828578
+creator: ziphion
+modified: 20211212081842716
+modifier: ziphion
 tags: 
 title: Readme
 type: text/vnd.tiddlywiki
@@ -9,7 +11,7 @@ type: text/vnd.tiddlywiki
 <$vars numobjects={{{[category[object]!is[system]count[]]}}} numcreatures={{{[category[creature]!is[system]count[]]}}} numplaces={{{[category[location]!is[system]count[]]}}} numorgs={{{[category[organization]!is[system]count[]]}}} numspells={{{[category[spell]!is[system]count[]]}}} numpplent= {{{[subfilter<ppl-ent>!is[system]count[]]}}}><<numobjects>> items, <<numcreatures>> creatures, <<numplaces>> places, <<numpplent>> characters, <<numorgs>> organizations, <<numspells>> spells, and much more!
 </$vars>
 
-Current version ''1.11.5'' ([[Changelog]])
+Current version ''1.11.6'' ([[Changelog]])
 
 !! What is this?
 
@@ -55,6 +57,7 @@ I've made quite a few random generators for this tool. Here are a few of my favo
 * [[beholder]]
 * [[yuan-ti malison]]
 * the [[Shifting Islands]]
+* [[Untold History]]
 
 !! Disclaimer
 
