@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20211127222355370
+modified: 20211213234543813
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -138,7 +138,11 @@ type: text/vnd.tiddlywiki
 \end
 
 \define cs-storypoints()
-<div align="right"><$edit-text tiddler="$:/$(currentTiddler)$/data" field="sp" tag=input type="number" class="cs-a" size=2/></div>
+<$edit-text tiddler="$:/$(currentTiddler)$/data" field="sp" tag=input type="number" class="cs-a" size=2/>
+\end
+
+\define cs-xp()
+<div align="right"><$edit-text tiddler="$:/$(currentTiddler)$/data" field="xp" tag=input type="number" class="cs-a" size=2/></div>
 \end
 
 \define cs-money()

@@ -1,0 +1,22 @@
+category: event
+color: #A3CFBB
+created: 20211214222527055
+day: 1
+day2: 3
+modified: 20211214222755602
+month: 3
+tags: [[Eldeen Reaches]] holiday
+title: Brightfest
+tooltip: celebration of spring, shifter holiday
+type: text/vnd.tiddlywiki
+
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
+
+A unique holiday that celebrates the coming of spring,
+Brightfest lasts for the first three days of Therendor.
+During Brightfest, [[shifter]]s of [[Khorvaire]] celebrate late into the night,
+usually with song, dance, and athletic competitions. In
+agricultural communities of the [[Eldeen Reaches]], the shifters use Brightfest
+to blow off steam, celebrate the end of the winter
+season, and ready themselves for the hard work of the
+planting season.

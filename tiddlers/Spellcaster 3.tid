@@ -1,9 +1,11 @@
 category: talent
 created: 20211127002130508
-modified: 20211128070033225
+modified: 20211215040305009
 title: Spellcaster 3
 type: text/vnd.tiddlywiki
 xpcost: 3
+
+''Prerequisite:'' Another [[talent]] which grants you access to at least one [[spell]].
 
 The Spellcaster [[talent]] allows you to cast [[spell]]s. Choose ''any two'' of the following options:
 

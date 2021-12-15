@@ -10,14 +10,14 @@ d7: 2
 duration: 1 hour
 effect: A terrible din fills the air like the clanging of pots and pans for the next {{!!duration}}.
 l_duration: 10 hours
-modified: 20211130061614066
+modified: 20211215040304877
 s_duration: 30 seconds
 tags: sorcerer
 title: Controlled Chaos
 type: text/vnd.tiddlywiki
 xpcost: 2
 
-''Requirement:'' [[Wild Magic]]
+''Prerequisite:'' [[Wild Magic]]
 
 Any time you trigger a [[random magical effect]], you may generate two and choose which one occurs.
 

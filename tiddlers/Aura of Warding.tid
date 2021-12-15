@@ -1,11 +1,11 @@
 category: talent
 created: 20211128054503352
-modified: 20211128070033424
+modified: 20211215040304845
 tags: paladin
 title: Aura of Warding
 type: text/vnd.tiddlywiki
 xpcost: 2
 
-''Requirement:'' [[Oath of the Ancients]].
+''Prerequisite:'' [[Oath of the Ancients]].
 
 Ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you suffer less [[harm]] from damaging spells.

@@ -1,7 +1,7 @@
 category: character sheet
 created: 20210802012325047
 mode: view
-modified: 20211126230230931
+modified: 20211213235245299
 title: character sheet template
 type: text/vnd.tiddlywiki
 
@@ -77,9 +77,10 @@ type: text/vnd.tiddlywiki
 <p class="cs-heading">[[Talents|talent]]</p>
     </div>
     <div class="cs-column">
-''[[Story Pts|story point]]:''</div>
+<div align="right">''[[XP|experience point]]:''</div>
+</div>
 <div class="cs-column">
-    <<cs-storypoints>>
+    <<cs-xp>>
      </div>
   </div>
 
@@ -94,7 +95,15 @@ type: text/vnd.tiddlywiki
 		    </div>
 		</div>
 		<div class="cs-row">
-<p class="cs-heading">[[Momentum|momentum]]</p>
+        <div class="cs-doublecolumn">
+			<p class="cs-heading">[[Momentum|momentum]]</p>
+        </div>
+        <div class="cs-column">
+			<div align="right" style="margin-right:15px;">''[[SP|story point]]:'' </div>
+        </div>
+        <div class="cs-column">
+            <<cs-storypoints>>
+        </div>
         </div>
         <div class="cs-row">
            <<cs-momentum>>
@@ -104,7 +113,7 @@ type: text/vnd.tiddlywiki
 			<p class="cs-heading">[[Items|magic item]]</p>
         </div>
         <div class="cs-column">
-			''[[Money|money]]:'' 
+			<div align="right" style="margin-right:15px;">''[[Money|money]]:'' </div>
         </div>
         <div class="cs-column">
             <<cs-money>>

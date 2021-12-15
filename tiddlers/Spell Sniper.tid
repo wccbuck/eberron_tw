@@ -1,13 +1,13 @@
 category: talent
 created: 20211211223006013
 creator: ziphion
-modified: 20211212055251630
+modified: 20211215040305077
 modifier: ziphion
 title: Spell Sniper
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-''Requirement:'' The ability to cast at least one [[spell]] that causes damage and targets a single creature.
+''Prerequisite:'' The ability to cast at least one [[spell]] that causes damage and targets a single creature.
 
 You may double the range of your spells that cause damage and target a single creature. If a spell requires you to touch the target, the new range is 30 feet.
 

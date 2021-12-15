@@ -1,10 +1,28 @@
 created: 20211110214827026
 creator: ziphion
-modified: 20211212095910685
+modified: 20211215052045587
 modifier: ziphion
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.11.7 <span style="font-weight:normal">(Dec 14, 2021)</span>
+
+* Added creatures:
+** [[mohrg]]
+** [[rutterkin]]
+** [[vaath]]
+** [[vitreous drinker]]
+* Added prereqs to [[Spellcaster 2]] and [[Spellcaster 3]] (must have a talent that lets you cast a spell first)
+* Increased suggested [[new character|Character Creation]] starting [[experience point]]s to 3.
+* Decreased the [[experience point]] cost of increasing [[Actions and Attributes]] scores.
+* Added experience points to the [[character sheet|character sheet template]], and moved the [[story point]]s section over by [[momentum]]
+* Added [[Bonal Geldem]]
+* Added some Races of Eberron stuff:
+** [[Brightfest]]
+** [[Bulwark]]
+** [[Karmos Render]]
+** [[Mutable Body]]
 
 !!! 1.11.6 <span style="font-weight:normal">(Dec 12, 2021)</span>
 
