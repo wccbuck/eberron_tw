@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20200429033029159
-modified: 20210727192030303
+modified: 20220104214246460
 tags: divination
 tier: 3
 title: sending
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. 
 
-You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a small chance that the message doesn't arrive, or becomes garbled.
+You can send the message across any distance and even to other [[plane]]s of existence, but if the target is on a different plane than you, there is a small chance that the message doesn't arrive, or becomes garbled.

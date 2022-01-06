@@ -1,0 +1,17 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220105085753698
+modified: 20220105090531059
+rarity: 3
+tags: tool
+title: zafu of the wandering mind
+type: text/vnd.tiddlywiki
+
+This soft, elaborately stitched pillow set focuses the intensity of a [[monk]]'s meditation. After meditating perfectly still for over 1 minute while sitting on these pillows, you can levitate yourself, including the pillows, up to 5 feet in the air. You meditate in this way until you decide to end it, until you suffer [[harm]], or until you are no longer on the pillows.
+
+While you are within 100 feet of at least one of the pillows, you can speak their command word to cause them to be shunted into a special pocket dimension. Speaking their command word again returns them softly to an empty space within 5 feet of you.
+
+In addition, this pillow has 3 charges and regains <<dr 1d3>> expended charges daily at dawn. While meditating on the pillows, you can expend 1 charge to cast the [[arcane eye]] spell, without breaking your meditation. The spell ends early when cast in this way if you end your meditation.
+
+<<itemcharges 3>>

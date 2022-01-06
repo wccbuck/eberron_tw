@@ -1,14 +1,17 @@
 category: object
+charges: 5
 color: #41D5E1
 created: 20210903195854590
-modified: 20210903200248896
+modified: 20220105085653910
 rarity: 2
 tags: [[magical implement]]
 title: lesser eye stalk wand
 type: text/vnd.tiddlywiki
 
-This wand, made from the eye stalk of a [[spectator]], has 5 charges. While holding this wand, you may shoot a magical ray of energy at a target within 90 feet of you. The type of ray depends on the type of spectator eye stalk that the wand was crafted from. The effect duplicates that of one of the following spells: [[inflict wounds]], [[hold]], [[cause fear]], or [[crown of madness]].
+This wand, made from the eye stalk of a [[spectator]], has 5 charges. While holding this wand, you may expend 1 charge to shoot a magical ray of energy at a target within 90 feet of you. The type of ray depends on the type of spectator eye stalk that the wand was crafted from. The effect duplicates that of one of the following spells: [[inflict wounds]], [[hold]], [[cause fear]], or [[crown of madness]].
 
 When the last charge of this wand is used, it crumbles into dust and is destroyed.
 
 See also [[eye stalk wand]].
+
+<<itemcharges 5>>

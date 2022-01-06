@@ -1,7 +1,8 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20201227054427943
-modified: 20210727192028819
+modified: 20220105082651073
 rarity: 2
 tags: weapon [[magical implement]]
 title: rod of retribution
@@ -10,3 +11,5 @@ type: text/vnd.tiddlywiki
 This [[adamantine]] rod is tipped with a glowing crystalline eye. The rod has 3 charges and regains all its expended charges daily at dawn.
 
 When a creature you can see within 60 feet of you damages you while you are holding this rod, you can instantly expend 1 of the rod's charges to zap that creature with lightning.
+
+<<itemcharges 3>>

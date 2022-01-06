@@ -1,0 +1,13 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220103180227320
+modified: 20220105082905273
+rarity: 3
+tags: accessory
+title: signet rings of blindness, deafness, and muteness
+type: text/vnd.tiddlywiki
+
+Each of these three signets is adorned with the form of a skull and a pair of skeletal hands that cover either its eyes (blindness), ears (deafness), or mouth (muteness). Each ring has 1 charge, which it regains each day at dawn. If you are wearing the corresponding signet when you are blinded, deafened, or in an area of magical silence, you can expend the ring's charge to be cured of the condition, or speak a word or phrase (such as the verbal component of a spell) that can be heard through the magical silence. Wearing the rings together as a set combines their collective charges, potentially allowing you to use one ring's properties multiple times.
+
+<<itemcharges 3>>

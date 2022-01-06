@@ -1,0 +1,26 @@
+category: object
+color: #41D5E1
+created: 20220105092858007
+modified: 20220105094513552
+rarity: 5
+tags: weapon
+title: Ionbreaker
+type: text/vnd.tiddlywiki
+
+This bow, also known as the Tempest's Reach, is infused with the mighty power of the [[First Storm]] of [[Lamannia]]. 
+
+While holding this bow, you can fly as fast as you can run, and can hover up to 20 feet off the ground.
+
+You can fire arrows from this bow twice as fast as you could with an ordinary bow. Arrows fired from this bow deal additional lightning damage. In addition, when you hit a target with an arrow fired from this bow, that target becomes a conduit for electricity for 1 minute. You can speak the bow's command word to cause all conduits within 60 feet of you to electrify. When you do, 5-foot-wide lines of electricity arc between all electrified conduits that are between 30 feet of each other. Each conduit suffers lightning damage, as do any other creatures within the lines of electricity that aren't able to dodge. Once a conduit is electrified in this way, it is no longer a conduit. You can electrify conduits no more than once every five minutes.
+
+While you're attuned to this bow, you're subjected to the chaotic magic of the [[First Storm]] whenever you suffer lightning damage. When you do, use the table below to determine the resulting effect.
+
+|!<<dr d8>> |!Result |
+| 1 |You are extra vulnerable to lightning damage for the next 10 seconds. |
+| 2 |You are thrown 20 feet in a random direction. |
+| 3 |You are deafened for 1 hour. |
+| 4 |You have severely hampered reaction times for 1 minute. |
+| 5 |You emit a 20-foot-radius sphere of fog that obscures vision that remains for up to 1 minute. |
+| 6 |Up to three random creatures within 10 feet of you also suffer lightning damage. |
+| 7 |You can move twice as fast for the next 10 seconds. |
+| 8 |You are immune to lightning damage for the next 10 seconds. |

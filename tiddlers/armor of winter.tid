@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210427232307238
-modified: 20210727191955916
+modified: 20211231071425840
 tags: abjuration
 tier: 2
 title: armor of winter
 type: text/vnd.tiddlywiki
 
-A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain an extra temporary [[harm]] box, which is prioritized whenever you suffer harm, that lasts for 1 hour. If a creature hits you at close range while you have this extra harm box, the creature suffers cold damage.
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain an extra temporary [[harm]] box that lasts for 1 hour. If a creature hits you at close range while you have this extra harm box, the creature suffers cold damage.

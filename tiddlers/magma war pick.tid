@@ -1,0 +1,15 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20211230201009202
+modified: 20220105085713497
+rarity: 3
+tags: weapon
+title: magma war pick
+type: text/vnd.tiddlywiki
+
+This war pick deals additional fire damage to any target it hits. 
+
+This weapon has 3 charges and regains <<dr 1d3>> expended charges daily at dawn. When you hit a target that is either made of metal or wearing metal armor, you can expend 1 charge to inflict a great deal of additional fire damage to the target.
+
+<<itemcharges 3>>

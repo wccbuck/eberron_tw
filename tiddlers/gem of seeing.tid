@@ -1,7 +1,8 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20201227185838108
-modified: 20210727192009941
+modified: 20220105084653127
 rarity: 3
 tags: tool
 title: gem of seeing
@@ -9,4 +10,6 @@ type: text/vnd.tiddlywiki
 
 When you activate this gem, you have [[truesight]] out to 120 feet when you peer through it. The gem has 30 minutes of charge, and each time you activate it, it stays activated for minimum of 10 minutes.
 
-The gem recharges 15 minutes of use every 24 hours.
+The gem recharges 10 minutes of use every 12 hours.
+
+<<itemcharges 3>>

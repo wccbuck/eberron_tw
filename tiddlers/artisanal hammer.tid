@@ -1,7 +1,8 @@
 category: object
+charges: 2
 color: #41D5E1
 created: 20210102164126232
-modified: 20210727191956055
+modified: 20220105085719035
 rarity: 1
 tags: tool
 title: artisanal hammer
@@ -9,3 +10,5 @@ type: text/vnd.tiddlywiki
 
 This hammer has 2 charges. While holding it, you can expend a charge and cast the [[mending]] spell from it. The hammer regains all expended charges daily at
 dawn. 
+
+<<itemcharges 2>>

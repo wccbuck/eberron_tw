@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20201231191403499
-modified: 20210727192028025
+modified: 20211228174735832
 tags: [[divine magic]] necromancy
 tier: 4
 title: resurrection
 type: text/vnd.tiddlywiki
 
-This spell requires a one-hour ritual and [[100c|money]] worth of ritual components, which are expended.
+This spell requires a one-hour ritual and [[100c|money]] worth of ritual components, including [[holy water]], which are expended.
 
 You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't [[undead]]. If its soul is free and willing, the target returns to life.
 

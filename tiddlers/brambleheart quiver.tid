@@ -1,0 +1,12 @@
+category: object
+color: #41D5E1
+created: 20211221055958504
+modified: 20211221062613941
+rarity: 4
+tags: tool
+title: brambleheart quiver
+type: text/vnd.tiddlywiki
+
+This wooden quiver can carry your arrows as well as provide some of its own. The quiver grows <<dr 1d3+1>> arrows each day, up to a maximum of four. The grown arrows are thorned, and remain attached to the quiver until picked for use. These magic arrows are powerful and strike true. A grown arrow is no longer magical after 1 minute has passed since it was first picked from the quiver.
+
+When you fire one of these magic arrows, you may speak the quiver's command word to transform the arrow into a thick field of thorns, as the effects of the [[spike growth]] spell, centered on the location the arrow strikes. If the arrow was lodged in a target when you use this ability, that target suffers devastating damage as the spikes emerge from the point of impact.

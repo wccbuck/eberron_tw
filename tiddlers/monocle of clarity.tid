@@ -1,0 +1,19 @@
+category: object
+charges: 4
+color: #41D5E1
+created: 20220105083503846
+modified: 20220105085706988
+rarity: 3
+tags: accessory
+title: monocle of clarity
+type: text/vnd.tiddlywiki
+
+This single lens has three filters that you can peer through. You can change the monocle's filter by rotating its outer ring. A small arrow along the edge of the frame indicates the monocle's selected filter. The monocle has 4 charges and regains <<dr 1d3+1>> expended charges daily at dawn. While wearing the monocle, you can expend 1 of its charges to activate one of the following filters and gain its benefits. The effects last for 1 hour while you continue to wear the monocle or until you change its filter.
+
+''//Filter of Comprehend Languages.//'' When you peer through this filter, you can read and comprehend any written language, as per the written language portion of the [[comprehend languages]] spell.
+
+''//Filter of Darkvision.//'' While looking through this filter, you have [[darkvision]] out to a range of 60 feet.
+
+''//Filter of See Invisibility.//'' When gazing through this filter, you can see invisible creatures and objects as if they were visible.
+
+<<itemcharges 4>>

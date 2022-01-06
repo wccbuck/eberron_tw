@@ -1,0 +1,13 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220103054654502
+modified: 20220105082939372
+rarity: 4
+tags: accessory
+title: shadow ward
+type: text/vnd.tiddlywiki
+
+This eerily still cloak seems to absorb some of the light that touches it. Gain [[advantage]] on attempts to hide or move stealthily. In addition, the cloak has 3 charges and regains <<dr 1d3>> charges daily at dusk. When you would suffer [[harm]] from an attack, you may expend 1 charge and 1 [[stress]] to teleport in a plume of black smoke to an unoccupied space you can see within 30 feet of you.
+
+<<itemcharges 3>>

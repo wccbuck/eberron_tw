@@ -1,0 +1,31 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220104062919719
+modified: 20220105082810519
+rarity: 2
+tags: [[magical implement]]
+title: Talyard the Great's wand of power
+type: text/vnd.tiddlywiki
+
+//"Behold! I am Talyard, the Great!" shouted the drunk man.//
+
+//Talyard stood up slowly and climbed on top of the table. He held the stick in one hand and a tankard in this other. His beard was stained and disheveled, and his clothes were questionably repaired.//
+
+//He held the stick up to the air. He shouted. They weren't words, but they might have seemed like them to the drunkard.//
+
+//Nothing happened.//
+
+//He tried again, saying similar words but with more saliva. Again, nothing happened. Frustrated, he stared at the stick before turning his attention back to the cup in his other hand. He took a deep swig to empty it. Some of the drink dribbled down his mouth and into his beard.//
+
+//"Gthinkra shtenickken!" he shouted once more, and this time made a wild flourish with the stick.  The ground suddenly began to buckle and swell. Spoons and other silverware fell to the ground began to clatter against the floorboards. The poured drinks at the bar jostled and rippled, knocking against the polished surface and splattering their contents from side to side.//
+
+//The carousers in the bar watched in disbelief as the man known as Talyard calmly stepped down from the table looking satisfied.//
+
+!
+
+This normal-looking spruce stick is actually the wand of a famous drunkard [[wizard]]. A heavily intoxicated creature that sees the stick perceives it as a magnificent, colorful wand that radiates with an awesome power.
+
+This wand has 3 charges and regains <<dr 1d3>> expended charges daily at dusk. While you're drunk and are holding the wand, you can cast [[thaumaturgy]] at will, and can spend 1 charge to cast either [[heroism]] or [[restoration]], even if you don't normally have any spellcasting ability.
+
+<<itemcharges 3>>

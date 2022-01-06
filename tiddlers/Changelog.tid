@@ -1,10 +1,62 @@
 created: 20211110214827026
 creator: ziphion
-modified: 20211215052045587
+currentversion: 1.12.0
+modified: 20220106005143896
 modifier: ziphion
+showmore: hide
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.12.0 <span style="font-weight:normal">(Jan 5, 2022)</span>
+
+Added ''260'' (!!) new items adapted from or inspired by [[The Griffon's Saddlebag Book One|https://hitpointpress.com/the-griffons-saddlebag-book-one-pdf/]]:
+
+* Common:
+** [[bands of the found and lost]], [[bath potion]], [[container of heat and frost]], [[doodle ring]], [[fanfare ammunition]], [[firecracker crystals]], [[gravity goblet]], [[heart of the sleeveless]], [[immovable button]], [[joyous wand of color]], [[nepeta amulet]], [[permanent parchment]], [[pomade of ten thousand styles]], [[profane mask]], [[quicksilver clay]], [[ring of gestures]], [[ring of roses]], [[ring of the fowl sentinel]], [[shapeshifter's circlet]], [[singing stein]], [[steps of the trickster]], [[torpedo arrow]], [[vox helm]], [[weapon of showmanship]], [[webgrip rucksack]]
+* Uncommon:
+** [[abalone quiver]], [[abjurer's guilder]], [[aegis glove]], [[axe beak tomahawk]], [[bag of sundrops]], [[barricade shield]], [[baton of many sizes]], [[battlechef buckler]], [[battlement bow]], [[braided quarterstaff]], [[bug smashers]], [[cactus mace]], [[candle of anti-light]], [[clockwork faefly]], [[clockwork inkbeetle]], [[cloud jumper boots]], [[coil crook]], [[couatl herald's mantle]], [[devil's detail eyepatch]], [[discordant thunderstave]], [[dragon's call]], [[dryadleaf]], [[ear cuff of the vampire bat]], [[eye of the bookwurm]], [[fireweaver gloves]], [[fortune's fivepence]], [[frost buckler]], [[galepierce weapon]], [[ghost phase weapon]], [[hand of the master]], [[hat trick]], [[healing arrow]], [[hexaxe]], [[inferno rope]], [[ironshod trotters]], [[jolly oozebeans]], [[knocking boots]], [[kraken whip]], [[levibubble gum]], [[liar's lyre]], [[locksmith's bane]], [[mammoth boots]], [[mask of the pact bearer]], [[mockingblade]], [[otyugh cloak]], [[overshield]], [[pendant of thieves' sight]], [[petal dancer ward]], [[plaguebane mask]], [[relentless bulwark]], [[ring of the sandskimmer]], [[rocborne robe]], [[sea serpent hairpin]], [[seafarer's jacket]], [[serpent dart]], [[shadow ink]], [[silver lycan chime]], [[sirensong silencer]], [[spellwoven robes]], [[squasher]], [[sundersludge net]], [[Talyard the Great's wand of power]], [[telescoping bladelance]], [[tethervine quiver]], [[thwackstaff]], [[toadstone]], [[tome of dreams]], [[trident of the dryad]], [[tub of churning and fermentation]], [[venombane armor]], [[void arrow]], [[weapon of spite]]
+* Rare:
+** [[acidlight arrow]], [[aegis of radiance]], [[avian circlet]], [[Basco's handy bangle]], [[battlebrew maul]], [[blizzard sphere]], [[boreal pendant]], [[bow of mind thievery]], [[breastplate of the morning light]], [[brooch of many sizes]], [[clockwork healerbee]], [[coldsnap]], [[couatl herald's fang]], [[couatl herald's guard]], [[couatl herald's lash]], [[couatl herald's radiance]], [[couatl herald's reach]], [[couatl herald's scales]], [[death knell]], [[dragonkin weapon]], [[druidic throwing club]], [[eaglereign]], [[eldritch scarf]], [[enchantment breaker]], [[festerwood masher]], [[fife of dragonsong]], [[fire dervish cloak]], [[force gauntlet]], [[galvanic steelsnare]], [[giantkiller sling]], [[gibberbox]], [[grass whistle blade]], [[halberd of the peacock]], [[helmsman's shelter]], [[knight's standard of valor]], [[knight's standard of vigor]], [[knight's standard of virtue]], [[leeching quarterstaff]], [[lightning pylons]], [[longbow of dread]], [[mageplate cap]], [[magma war pick]], [[maul of entanglement]], [[mirrorlight edge]], [[monocle of clarity]], [[moonswaddled armor]], [[Numat's trick tubes]], [[phase axe]], [[phoenix arrow]], [[potion of spell recovery]], [[prismatic javelin]], [[prototype bonecraft greaves]], [[reap and sew]], [[retaliating bloom shield]], [[ring of anchoring]], [[ring of eldritch ire]], [[rocborne rod]], [[runic ammunition]], [[screaming longbow]], [[secret scribe candles]], [[shadowshawl]], [[shadowsmoke dragon pipe]], [[shared burden]], [[sharkrazor mantle]], [[sheer cold]], [[signet rings of blindness, deafness, and muteness]], [[signet rings of the Moon Court]], [[spiderbite daggers]], [[spirit pike]], [[splintershot]], [[staff of the magpie]], [[staff of the mirage]], [[staff of the mustang]], [[staff of the reverent warrior]], [[starbreaker]], [[starmetal ring]], [[starmetal striker]], [[storm sickle]], [[stormstruck staff]], [[sword of resonance]], [[thunderous flail]], [[torrent taiaha]], [[vancian helm]], [[venomous rapier]], [[vigilus crossbow]], [[volcanic boots]], [[voltedge]], [[wand of primordial fire]], [[wand of whispers]], [[wavebender's leiomano]], [[weapon of mooring]], [[windswept wyvernplate]], [[wisplight lantern]], [[zafu of the wandering mind]]
+* Very rare:
+** [[battlechef's splendid saucepan]], [[bloodmage dagger]], [[bloodscryer oculus]], [[bottled abyss]], [[brambleheart quiver]], [[celestial circlet]], [[ceratopper]], [[circlet of the Huntsman's third eye]], [[cratering quarterstaff]], [[crosier of divine power]], [[crown of deep winter]], [[dark fathom armor]], [[dragon-kindled edge]], [[dream mantle]], [[dune dancer cloak]], [[edible book of recipes]], [[ether spear]], [[fable's end]], [[fragment of dawn]], [[fungal stave]], [[grip of blight]], [[harp of valor]], [[hellfire pitchfork]], [[hurricane lance]], [[infernal aegis]], [[ironleaf plate armor]], [[lance of the hungering dead]], [[mask of Ashalyn]], [[mirrorlight piercer]], [[monsterbane lasher]], [[nightstalker's kanabo]], [[null chalk]], [[omenbringer's mantle]], [[planar rapier]], [[protean switch]], [[purging dagger]], [[quagmire maul]], [[rocborne hand ballista]], [[rose basket]], [[scorching cleaver]], [[shadow drinker]], [[shadow ward]], [[shaedenstaff]], [[snufsithe]], [[staff of favorable winds]], [[staff of four seasons]], [[stalaga spear]], [[starmetal axe]], [[starmetal shield]], [[storm thrower harpoon]], [[tempest griffon feather cape]], [[timepiercer]], [[winter's embrace]]
+* Legendary:
+** [[Chillspike]], [[crypt keeper glaive]], [[forgemaster's might]], [[galea of the phoenix]], [[Ionbreaker]], [[pike of the forgotten legion]], [[Precepit, the Formless]], [[Red Claw's regalia]], [[seed of rebirth]], [[spear of purity]], [[spire seed]], [[sword of the spelldrinker]], [[tectonic gauntlets]], [[Thornpiercer]], [[Windrazor]]
+
+Also added some additional [[wizard]] "Arcane Tradition" talents and spells, as well as new [[warlock]] invocation talents.
+
+* spells:
+** [[control undead]]
+** [[minor conjuration]]
+* talents:
+** [[Ascendant Step]]
+** [[Beast Speech]]
+** [[Devil's Sight]]
+** [[Illusory Reality]]
+** [[Master of Myriad Forms]]
+** [[Master Transmuter]]
+** [[Minions of Chaos]]
+** [[Overchannel]]
+** [[Sign of Ill Omen]]
+** [[Thought Shield]]
+** [[Transmuter's Stone]]
+** [[Visions of Distant Realms]]
+
+Added some stuff from the 3.5e adventure [[Shadows of the Last War|https://www.dmsguild.com/product/3739/EBERRON-Shadows-of-the-Last-War-35]]:
+
+* Brother [[Garrow]]
+* [[undead eyes]]
+* [[Olladra's chalice]]
+* [[Talaen Kara]]
+
+Miscellaneous:
+
+* Added [[Astral Sea]] and related elements from recent KB blog post
+* Added [[holy water]], [[phoenix]]
+* Shrank [[Stone Pits]] a little, and moved them closer to [[Graywall]]
+* Tweaked certain wands and staves that give extra spellcasting [[stress]]; now that extra stress can only be spent to cast the spells granted by that item
+* Added a tracker for items that have charges
+* Added a few more [[random magical effect]]s to the table and fixed some typos there
 
 !!! 1.11.7 <span style="font-weight:normal">(Dec 14, 2021)</span>
 
@@ -157,6 +209,19 @@ type: text/vnd.tiddlywiki
 
 * Increased maximum [[momentum]] pool size to 5; 3 max momentum for a whole party just isn't enough
 * Clarified phrasing on a few pages, fixed some wrong tags, etc
+
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
 
 !!! 1.10.3 <span style="font-weight:normal">(Nov 23, 2021)</span>
 
@@ -335,7 +400,7 @@ type: text/vnd.tiddlywiki
 ** [[Cathedral to the Sovereign Host]]
 ** the [[Midwife]]
 ** the [[White Lions]]
-* [[Yorin Thauram]]
+** [[Yorin Thauram]]
 * Made minor tweaks to some [[intelligence agencies|intelligence agency]]
 
 !!! 1.8.0 <span style="font-weight:normal">(Sep 24, 2021)</span>
@@ -453,7 +518,7 @@ Lots of map improvements!
 * Updated [[Barren Sea]] and [[kuo-toa]] based on recent blog post; added [[Sa'arlaath]]
 * Added [[talent]]s:
 ** [[Counterstyle]]
-** [[Historian]]
+** Historian
 ** [[Razor Tongue]]
 ** [[Underhanded]]
 
@@ -516,6 +581,8 @@ Lots of map improvements!
 !!! 1.0.0 <span style="font-weight:normal">(Jul 27, 2021)</span>
 
 * Initial commit after switching to node.js
+
+</$reveal>
 
 ! 
 

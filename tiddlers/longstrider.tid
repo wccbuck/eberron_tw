@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20210428215902458
-modified: 20210727192019304
+modified: 20211215064850326
 tags: transmutation [[primal magic]]
 tier: 2
 title: longstrider
 type: text/vnd.tiddlywiki
 
-You touch a creature. The target's maximum movement speed increases by 2.5 mph (~1m/s) for 1 hour.
+You touch a creature. The target's maximum movement speed increases by 3 mph (~1.5 m/s) for 1 hour.
 
 !! Rare-Tier
 

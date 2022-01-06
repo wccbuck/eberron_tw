@@ -1,0 +1,12 @@
+category: object
+color: #41D5E1
+created: 20211217045900987
+modified: 20211217050557800
+rarity: 2
+tags: tool
+title: bag of sundrops
+type: text/vnd.tiddlywiki
+
+This small, colorful bag is filled with <<dr 1d6+4>> golden, marble-like orbs that glow softly when held. When you throw a sundrop, the orb explodes into a dazzling pillar of light that lasts for 5-10 seconds. The pillar is a 5-foot-radius, 40-foot-high cylinder of bright light centered on the point where the sundrop shattered, and the light is considered [[sunlight|Sun]].
+
+A [[dispel magic]] spell targeting the light ends the effect early.

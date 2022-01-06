@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20220102225207051
+modified: 20220102230011145
+rarity: 4
+tags: weapon
+title: quagmire maul
+type: text/vnd.tiddlywiki
+
+This old, withered hammer is always damp and smells of bog water. When you slam this hammer into the ground, you transform the area into swamp-like terrain that lasts for 1 minute. The thick muck spreads out in a shape approximately circular with a radius of 5 feet, though the shape is always slightly irregular. You can expend [[stress]] to increase the size of the temporary swamp; each point of stress you spend increases the radius by 5 feet. While you're holding the hammer, you can traverse the magical swamp as if it were normal terrain.

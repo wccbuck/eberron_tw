@@ -1,0 +1,13 @@
+category: object
+charges: 4
+color: #41D5E1
+created: 20220103055541418
+modified: 20220105082922061
+rarity: 3
+tags: tool
+title: shadowsmoke dragon pipe
+type: text/vnd.tiddlywiki
+
+This magic pipe leaves behind odorless smoke that dissipates quickly. Its head easily detaches, allowing you to refill it. The pipe has 4 charges and regains <<dr 1d3+1>> expended charges daily at dawn. You can expend a charge to blow a small, condensed smoke ring. A creature can touch this smoke ring and place it on their finger as if it were a physical ring. The ring persists for 1 minute, or until the creature choose to activate the ring and turn invisible. The invisibility persists for 5 seconds, or until the invisible creature performs a violent action or casts a spell. A creature can only have 1 smoke ring at any time.
+
+<<itemcharges 4>>

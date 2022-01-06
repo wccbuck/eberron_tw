@@ -1,0 +1,13 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20211226040106824
+modified: 20220105085713432
+rarity: 3
+tags: accessory
+title: fire dervish cloak
+type: text/vnd.tiddlywiki
+
+This breathable cloak sounds like a crackling fire as it billows behind you, and can create a small, fiery cyclone around you as you twirl in it. The cloak has 3 charges, and regains all expended charges daily at dawn. When you spin in place while wearing this cloak, you may expend a charge to cause fire to leap from the edges of your cloak, potentially burning any creatures within 5 feet of you. If a hostile creature suffers damage from the cloak's fire, you have a few seconds to slip past that creature without being attacked or restrained.
+
+<<itemcharges 3>>

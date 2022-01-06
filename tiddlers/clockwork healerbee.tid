@@ -1,0 +1,15 @@
+category: object
+charges: 5
+color: #41D5E1
+created: 20211221205526451
+modified: 20220105085653863
+rarity: 3
+tags: tool
+title: clockwork healerbee
+type: text/vnd.tiddlywiki
+
+This pill-shaped magical [[clockwork]] mechanism is 2 inches long and made of brass and glass. It has a pair of tiny wings that silently keep it aloft. It hovers up to 5 feet above the ground and does its best to stay within 5 feet of you.
+
+The bee has 5 charges, and regains <<dr d2+1>> expended charges daily at dawn. While the bee is within 5 feet of you, you can speak its command word and expend 1 charge to command the bee to heal a creature that you can see within 20 feet of you. The bee flies to the creature's space and touches its stinger to the creature, emitting a bright light and healing the creature as the spell [[cure wounds]]. The bee then returns to you.
+
+<<itemcharges 5>>

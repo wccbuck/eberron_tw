@@ -1,0 +1,15 @@
+category: object
+charges: 4
+color: #41D5E1
+created: 20211228183309367
+modified: 20220105085706844
+rarity: 3
+tags: weapon cursed
+title: halberd of the peacock
+type: text/vnd.tiddlywiki
+
+This halberd has been polished to a mirror finish, and is adorned with four ornate gemstones dangling beneath its blade that glow with arcane energy. This weapon contains 4 charges, each stored within one of the gems, and regains <<dr d2+1>> expended charges each day at dawn. You can expend 1 charge to cast [[disguise self]], [[alter self]], [[mirror image]], or [[shatter]]. The hanging gems lose their glow once their charge has been spent in this way.
+
+This halberd is [[cursed]], and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the halberd, keeping it within reach at all times. You also have [[disadvantage]] to wield weapons other than this one. Whenever you incapacitate or kill a creature with this weapon, you must resist the halberd's enchantment or be compelled to admire yourself in a mirror (such as the mirror polish of this weapon) for 5-10 seconds. 
+
+<<itemcharges 4>>

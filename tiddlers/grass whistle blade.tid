@@ -1,0 +1,15 @@
+category: object
+charges: 4
+color: #41D5E1
+created: 20211227222948070
+modified: 20220105085706828
+rarity: 3
+tags: weapon
+title: grass whistle blade
+type: text/vnd.tiddlywiki
+
+This dagger's blade is actually a large blade of grass, enchanted with [[fey]] magic. As wind passes over the blade, it creates a soft, sweet note. 
+
+This blade has 4 charges and regains <<dr 1d4>> charges daily at dawn. When you swing this blade in a special pattern within 5 feet of a creature, you can expend a charge to cast [[sleep]] on that creature as the whistling sound magically lulls them to slumber. 
+
+<<itemcharges 4>>

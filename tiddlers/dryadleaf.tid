@@ -1,0 +1,17 @@
+category: object
+charges: 4
+color: #41D5E1
+created: 20211225020023926
+modified: 20220105085706800
+rarity: 2
+tags: tool
+title: dryadleaf
+type: text/vnd.tiddlywiki
+
+This magic plant only grows at the base of trees bound to [[dryad]]s. Its leaves continuously shift as if by a breeze. Touching the plant, even gently, causes its leaves to stop their gentle swaying for a minute or two.
+
+Dryadleaf plants grow up to 4 leaves at a time. Leaves are fully matured once they have a thin yellow rim. When you eat a mature leaf, you can speak to beasts and plants for 1 minute as if you shared a language. Once it's been picked, a leaf retains this property for 7 days before it wilts.
+
+The plant can survive with surprisingly little air, and can even survive in extradimensional spaces such as a [[bag of holding]] or [[portable hole]]. So long as it's watered lightly each day and given a moderate amount of [[sunlight|Sun]], the plant regrows <<dr d4>> missing mature leaves every 7 days.
+
+<<itemcharges 4>>

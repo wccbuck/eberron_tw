@@ -1,7 +1,8 @@
 category: object
+charges: 4
 color: #41D5E1
 created: 20210908192116485
-modified: 20210908193425526
+modified: 20220105085706868
 rarity: 5
 tags: weapon
 title: Hillcrusher
@@ -20,6 +21,8 @@ along with an entire regiment near [[Metrol]] on the Day of
 [[Mourning]].
 
 In addition to being a powerful and massive flail that leaves craters wherever it makes impact, the Hillcrusher is imbued with powerful magic that grants its wielder power over earth and stone. The wielder can cast the spells [[mold earth]] and [[earth tremor]] for free at will. In addition, the Hillcrusher has three charges. The wielder can spend one charge to cast the spells [[erupting earth]] or [[move earth]], or three charges to cast [[bones of the earth]] or [[earthquake]]. The Hillcrusher regains 1 charge each dawn.
+
+<<itemcharges 4>>
 
 !! Appearance
 

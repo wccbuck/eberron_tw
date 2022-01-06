@@ -1,0 +1,20 @@
+category: object
+color: #41D5E1
+created: 20220104185341911
+modified: 20220104190355231
+rarity: 5
+tags: weapon
+title: Thornpiercer
+type: text/vnd.tiddlywiki
+
+This rose has a stem large enough to hold like the hilt of a weapon. You can focus on the rose for a couple of seconds to cause it to grow one of the following weapons from the flower's center: dagger, shortsword, rapier, or whip. If the hilt already has a weapon growing from its center, the existing weapon withers away and disintegrates, allowing the new one to take its place.
+
+Each weapon option has a unique property:
+
+''//Dagger.//'' When you throw the dagger, only the blade is thrown from the rose hilt. Hit or miss, when the blade reaches its target, it erupts into a burst of thorns, damaging creatures in a 10-foot radius.
+
+''//Rapier.//'' Attacking with the rapier and rolling a [[critical success|full success]] grants +2 additional [[impact]] as the blade's thorns eviscerate the target.
+
+''//Shortsword.//'' Attacking with the shortsword has a chance of dealing poison damage and causing the target to become disoriented for up to 10 seconds.
+
+''//Whip.//'' When you attack a creature with the thorn-covered whip, you can attempt to wrap the whip around it. If the target is human-sized or smaller, you can restrain a creature with the whip and detach it from the rose hilt, leaving you free to grow another weapon.

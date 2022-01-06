@@ -1,0 +1,13 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20211229000250861
+modified: 20220105085713512
+rarity: 3
+tags: weapon
+title: maul of entanglement
+type: text/vnd.tiddlywiki
+
+Despite the head of this maul being made of a jumbled mass of vines, it seems impossibly solid and carries with it a formidable heft. The maul has 3 charges and regains <<dr 1d3>> expended charges each day at dawn. When you hit a human-sized or smaller creature with this maul, you can expend a charge to cause the thorny vines to wrap around the target, painfully restraining them for up to 10 seconds.
+
+<<itemcharges 3>>

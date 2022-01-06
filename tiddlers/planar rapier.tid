@@ -1,0 +1,15 @@
+category: object
+charges: 5
+color: #41D5E1
+created: 20220102202134761
+modified: 20220105085653923
+rarity: 4
+tags: weapon
+title: planar rapier
+type: text/vnd.tiddlywiki
+
+This thin blade seems to toe the line between [[plane]]s of existence, occasionally allowing it to bend reality to extend its normal reach.
+
+The rapier has 5 charges and regains <<dr 1d4+1>> expended charges each day at dawn. You can expend 1 charge to extend the reach of a thrust with this rapier out to 10 feet. Whenever you expend a charge with this weapon, the space around the blade resists the reality-bending and causes creatures struck by the extended blade to suffer additional arcane force damage. After the attack, the blade snaps back to its normal size.
+
+<<itemcharges 5>>

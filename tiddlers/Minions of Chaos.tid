@@ -1,0 +1,14 @@
+category: talent
+created: 20211215080050669
+modified: 20211215080326075
+tags: warlock
+title: Minions of Chaos
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+You can cast one of the following spells (chosen when you take this [[talent]]) without expending stress. You must rest for at least six hours before you can do so again.
+
+* [[conjure elemental]]
+* [[conjure minor elementals]]
+* [[summon greater demon]]
+* [[summon lesser demons]]

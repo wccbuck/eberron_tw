@@ -1,0 +1,13 @@
+category: talent
+created: 20211215061934694
+modified: 20211215062427697
+tags: wizard
+title: Overchannel
+type: text/vnd.tiddlywiki
+xpcost: 2
+
+''Prerequisite:'' [[Arcane Tradition]] ([[evocation]]).
+
+As a master of [[evocation]], you have learned how to draw from your own life force to empower your spells. When you [[push yourself]] when casting an evocation spell that causes damage, you can increase [[impact]] by 2. 
+
+The first time you overchannel in a 24-hour period, you suffer no adverse effect. The second time, you suffer 1 [[harm]]. The third time, you suffer 2 harm, and so on.

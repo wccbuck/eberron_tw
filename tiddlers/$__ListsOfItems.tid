@@ -1,0 +1,39 @@
+created: 20220103061618774
+modified: 20220105102916902
+tags: 
+title: $:/ListsOfItems
+type: text/vnd.tiddlywiki
+
+\define itemstring() [[$(currentTiddler)$]]
+
+Total items added: <$count filter="[category[object]!title[Olladra's chalice]!title[Talaen Kara]]:filter[get[created]compare:integer:gt[20211215000000000]]"/>
+
+!!! Common
+
+<$list filter="[category[object]rarity[1]sort[title]]:filter[get[created]compare:integer:gt[20211215000000000]]">
+<$text text=<<itemstring>>/>, 
+</$list>
+
+!!! Uncommon
+
+<$list filter="[category[object]!title[Olladra's chalice]rarity[2]sort[title]]:filter[get[created]compare:integer:gt[20211215000000000]]">
+<$text text=<<itemstring>>/>, 
+</$list>
+
+!!! Rare
+
+<$list filter="[category[object]rarity[3]sort[title]]:filter[get[created]compare:integer:gt[20211215000000000]]">
+<$text text=<<itemstring>>/>, 
+</$list>
+
+!!! Very Rare
+
+<$list filter="[category[object]!title[Talaen Kara]rarity[4]sort[title]]:filter[get[created]compare:integer:gt[20211215000000000]]">
+<$text text=<<itemstring>>/>, 
+</$list>
+
+!!! Legendary
+
+<$list filter="[category[object]rarity[5]sort[title]]:filter[get[created]compare:integer:gt[20211215000000000]]">
+<$text text=<<itemstring>>/>, 
+</$list>

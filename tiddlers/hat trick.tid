@@ -1,0 +1,15 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20211228191646575
+modified: 20220105085713448
+rarity: 2
+tags: accessory
+title: hat trick
+type: text/vnd.tiddlywiki
+
+This gaudy purple hat allows the wearer to perform some minor magical feats. The hat has 3  charges and regains 1 expended charge daily at dawn. While holding the hat, you can expend one of its charges to cast the [[summon familiar]] spell from it, pulling the [[familiar]] from the hat. The summoned familiar must take the form of either a rabbit or a dove. When you cast [[summon familiar]] from this hat, it does not require the expenditure of material components and the casting time is only five seconds, but the familiar only remains for 1 minute and cannot be used to deliver spells.
+
+In addition, while wearing the hat, you can cast the [[prestidigitation]] spell from it. When cast in this way, the spell can only be used to create harmless illusory effects.
+
+<<itemcharges 3>>

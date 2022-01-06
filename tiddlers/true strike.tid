@@ -1,10 +1,14 @@
 category: spell
 color: #B7A1E0
 created: 20210410042857391
-modified: 20210727192039240
+modified: 20220103234218685
 tags: divination
 tier: 1
 title: true strike
 type: text/vnd.tiddlywiki
 
 You extend your hand and point a finger at a target within 30 feet. Your magic grants you a brief insight into the target's defenses, revealing specific weaknesses. Within the next 30 seconds, you gain an [[advantage]] on your first attempt to attack the target. The new information gained from this divination can be used to justify higher [[impact]] or lower [[risk]] for as long as the information is relevant.
+
+!! Common-Tier
+
+When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you do not suffer [[disadvantage]] or other penalty for striking your target behind partial cover, and you can choose another creature within 30 feet to receive this spell's benefits in addition to yourself.

@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20210830023300791
+modified: 20220105082329971
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -204,6 +204,11 @@ div.cs-input {
 input.cs-a {
   height: 1.5em;
   width: 3em;
+}
+
+input.cs-itemcharges {
+  height: 2em;
+  width: 2.5em;
 }
 
 label.cs-label {

@@ -1,0 +1,17 @@
+category: object
+charges: 4
+color: #41D5E1
+created: 20220105074611733
+modified: 20220105082207987
+rarity: 3
+tags: tool
+title: wisplight lantern
+type: text/vnd.tiddlywiki
+
+This dark hooded lantern glows with a [[will-o'-wisp]]'s flame that can reveal the final moments of a creature's life. The lantern sheds bright blue light in a 20-foot radius and dim light for an additional 20 feet. You can control the lantern's hood to reduce the light's reach or cover it completely.
+
+The lantern has 4 charges and regains <<dr 1d3+1>> expended charges each day at dusk. While holding the lantern, you can expend 1 of its charges and touch it to a corpse no larger than an [[ogre]]. When you do, a ghostly blue illusion of the fallen creature appears above its corpse and silently reenacts the last 6 seconds of its conscious life. The illusion only shows the creature's actions, such as reacting to an unseen monster, or trying to extinguish the flames of a fiery trap, but does not show the responsible monster or effect. This ability has no effect on [[undead]] creatures. Once a corpse's death has been shown, it cannot be shown again.
+
+Alternatively, while holding the lantern, you can expend one of its charges and speak its command word. If there are any [[undead]] creatures within 60 feet of you that aren't entirely behind cover, the lantern's light flashes red before returning to its normal blue glow.
+
+<<itemcharges 4>>

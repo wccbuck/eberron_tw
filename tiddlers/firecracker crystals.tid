@@ -1,0 +1,29 @@
+category: object
+color: #41D5E1
+created: 20211226041614605
+modified: 20211226043127177
+rarity: 1
+tags: tool
+title: firecracker crystals
+type: text/vnd.tiddlywiki
+var1: 3, 5, 8, 5, 4, 5, 6, 3, 4, 5
+
+These multicolored crystals are usually purchased in small bags at festivals and holiday events. You can throw one of these one-inch crystals against a solid surface to crack it apart. When a crystal breaks, it releases the illusory magic inside. The effect persists for about five seconds.
+
+Firecracker crystals typically come in bags of 10. Roll a number of d8's equal to the number of crystals in the bag, and record each number rolled; use these numbers to determine the kinds of crystals found in the bag using the table below:
+
+|!<<dr d8>> |!Color |!Effect |
+| 1 |Red |Releases a harmless 5-foot-tall flame. |
+| 2 |Orange |Releases a small flash of bright light in a 5-foot radius and dim light for another 5 feet, followed by the smell of spices and citrus. |
+| 3 |Yellow |Releases small spiraling motes of energy that fizz and fly about in a 5-foot radius. |
+| 4 |Green |Releases a cloud of bright, verdant smoke that fills a 5-foot sphere and smells sickly sweet. |
+| 5 |Blue |Releases a series of comically large bubbles that float outward from the point of impact in a 5-foot radius. |
+| 6 |Purple |Releases the sound of music. The song is random, and plays only enough to make it recognizable as music. |
+| 7 |White |Releases a dazzling display of sparkling glitter in a 5-foot radius from the point of impact. |
+| 8 |Black |Releases a mystery effect. Roll a <<dr d7>> and consult this table when using this crystal to determine its effect. |
+
+<<< 
+<$button><$action-chooserandom $field="var1" $filter="[range[8]]" $number="10" $opt="comma" $replace="true"/>Generate 10 Crystals</$button>
+
+''{{!!var1}}''
+<<<

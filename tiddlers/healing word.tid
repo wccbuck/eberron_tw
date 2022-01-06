@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210103190813626
-modified: 20210727192013140
+modified: 20220102223609851
 tags: [[divine magic]]
 tier: 2
 title: healing word
@@ -13,4 +13,4 @@ This spell is similar to [[cure wounds]]. That spell requires physical contact, 
 
 !! Rare-Tier
 
-When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you call out words of restoration that heal up to six creatures of your choice within 60 feet.
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you call out words of restoration that heal up to six creatures of your choice within 90 feet.

@@ -1,0 +1,13 @@
+category: object
+charges: 5
+color: #41D5E1
+created: 20211226044151805
+modified: 20220105085653894
+rarity: 3
+tags: accessory
+title: force gauntlet
+type: text/vnd.tiddlywiki
+
+This jeweled gauntlet has 5 charges, and regains <<dr 1d4+1>> expended charges daily at dawn. When you strike a creature with a hand that's wearing this gauntlet, you can choose to expend 1 of its charges and emit a powerful blast of arcane force. The creature suffers additional damage, and you and the target are pushed 10 feet apart. This could mean the target, you, or both could be forced to move to create that 10 feet of distance; the outcome depends on your relative size and strength.
+
+<<itemcharges 5>>

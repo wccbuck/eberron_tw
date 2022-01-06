@@ -1,13 +1,13 @@
 [
     {
         "created": "20201220234125138",
-        "title": "Sea of Chaos",
-        "text": "Space has little meaning in [[Kythri]]'s Sea of Chaos. Matter, distance,\nand gravity are in constant flux. Lands and creatures appear\nand dissolve within moments. There are waves of lightning,\nstreams of lava, and hurricane winds constantly shifting\ndirection. While the elements may be mundane—unlike the\nsurreal vistas of [[Xoriat]]—size has little meaning. A thousand-foot-long [[dragon turtle]] might appear, try to swallow travelers,\nthen become an island.\n\nTravel through the Sea of Chaos is driven by pure will.\nTravelers must impose the concept of motion and distance\non the environment using great mental focus, while also\nprotecting their vessel from both the destructive forces\nand from being transformed. The GM could reflect this\njourney with a series of ability checks, or simply require the\nadventurers to have a captain and vessel capable of making\nthe trip before they try to cross the sea. Regardless, to\nsuccessfully travel, the adventurers must know where they\nwant to go; without a destination to serve as a conceptual\nanchor, they'll quickly crash on a random [[Shifting Island|Shifting Islands]].",
-        "modified": "20210727192030040",
-        "tags": "layer Kythri",
+        "text": "Space has little meaning in [[Kythri]]'s Sea of Chaos. Matter, distance,\nand gravity are in constant flux. Lands and creatures appear\nand dissolve within moments. There are waves of lightning,\nstreams of lava, and hurricane winds constantly shifting\ndirection. While the elements may be mundane—unlike the\nsurreal vistas of [[Xoriat]]—size has little meaning. A thousand-foot-long [[dragon turtle]] might appear, try to swallow travelers,\nthen become an island.\n\nTravel through the Sea of Chaos is driven by pure will.\nTravelers must impose the concept of motion and distance\non the environment using great mental focus, while also\nprotecting their vessel from both the destructive forces\nand from being transformed. The GM could reflect this\njourney by having the adventurers make a series of attempts, or simply require the\nadventurers to have a captain and vessel capable of making\nthe trip before they try to cross the sea. Regardless, to\nsuccessfully travel, the adventurers must know where they\nwant to go; without a destination to serve as a conceptual\nanchor, they'll quickly crash on a random [[Shifting Island|Shifting Islands]].",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Sea of Chaos",
+        "tags": "layer Kythri",
+        "modified": "20220105094048173",
+        "color": "#3B5C0A",
         "category": "location",
-        "color": "#3B5C0A"
+        "article": "the "
     }
 ]

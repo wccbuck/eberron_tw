@@ -1,0 +1,17 @@
+category: object
+charges: 5
+color: #41D5E1
+created: 20220103035211940
+modified: 20220105083026393
+rarity: 3
+tags: tool
+title: rocborne rod
+type: text/vnd.tiddlywiki
+
+This wooden rod is carved in the representation of five ancient [[roc]]s. Motes of their spirits flow through it and allow you to channel some of their lingering power.
+
+This rod has 5 charges and regains <<dr 1d4+1>> expended charges daily at dawn. While holding this rod, you can expend 1 of its charges to cause two handles to extend from its top and bottom. While holding the handles, a pair of magical wings appears above the rod that allow you to glide while midair. You can fly freely, but slowly descend, unable to fly upwards without a significant updraft. When you land on the ground, the magical wings vanish.
+
+In addition, you can use the rod to summon a buffeting gust of wind around you. While holding the rod aloft, you can expend 1 of its charges to cause powerful winds to whip around you and blow everything within 20 feet of you skyward in a column of wind 60 feet high. Unsecured objects and creatures less than 200 pounds are launched upward. You can use this ability while you are using the magical glider to gain a boost of upward momentum.
+
+<<itemcharges 5>>

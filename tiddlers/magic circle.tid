@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20210425045942309
-modified: 20210727192019989
+modified: 20211228174355067
 tags: [[divine magic]] abjuration
 tier: 3
 title: magic circle
 type: text/vnd.tiddlywiki
 
-This spell requires a 1-minute ritual and material components worth at least [[10c|money]] (such as holy water or powdered silver and iron), which the spell consumes. 
+This spell requires a 1-minute ritual and material components worth at least [[10c|money]] (such as [[holy water]] or powdered silver and iron), which the spell consumes. 
 
 You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on a point on the ground that you can see within 10 feet. The circle persists for 1 hour. Glowing runes appear wherever the cylinder intersects with the floor or other surface.
 

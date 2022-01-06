@@ -1,0 +1,23 @@
+category: object
+charges: 6
+color: #41D5E1
+created: 20220102213240532
+modified: 20220105085701098
+rarity: 3
+tags: weapon
+title: prismatic javelin
+type: text/vnd.tiddlywiki
+
+This dark crystal javelin has a prismatic head that can refract light into beautiful displays of color. Immediately after you throw this javelin and it hits a target (or after you throw the javelin and it travels more than 120 feet from you), the javelin disappears in a small burst of light before reappearing in your open hand. 
+
+This javelin has three charges, and regains <<dr 1d3>> expended charges each day at dawn. When you throw the javelin and expend a charge, when the javelin makes impact with a surface, it erupts in a dazzling display of color and light, casting painful bright light in a 20-foot radius and dim light for another 20 feet. Creatures of your choice within the bright light that aren't completely blocked by an opaque obstacle must resist the prismatic magic or else suffer damage of a type randomly determined by the table below. 
+
+|!<<dr d6>> |!Color |!Damage Type |
+| 1 |Red |Fire |
+| 2 |Orange |Acid |
+| 3 |Yellow |Lightning |
+| 4 |Green |Poison |
+| 5 |Blue |Cold |
+| 6 |Special |The creature is struck by two beams of light.<br/>Roll twice more, rerolling any 6. |
+
+<<itemcharges 3>>

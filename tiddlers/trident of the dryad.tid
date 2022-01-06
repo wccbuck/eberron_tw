@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20220104220427556
+modified: 20220104230430467
+rarity: 2
+tags: weapon
+title: trident of the dryad
+type: text/vnd.tiddlywiki
+
+This magical wooden trident grants you a lesser version of the [[tree stride]] ability. While holding the trident, you can suffer 1 [[stress]] to step magically into one living tree within your reach and emerge from a second living tree within 60 feet of the first. Both trees must be at least 1 foot wider than you.
+
+When you plant the bottom of this trident in fertile ground and speak its command word, the trident transforms into a healthy tree. The tree is 60 feet tall with a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. You can suffer 1 [[stress]] to step into this tree and emerge from another point on its trunk or within its branches.
+
+The tree appears ordinary but radiates a faint aura of [[transmutation]] magic if targeted by [[detect magic]]. While touching the tree, you can speak its command word again to return the trident to its normal form. Any creature in the tree falls when it reverts to a trident. Once this property of the trident has been used, it can't be used again until the next dawn.

@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20220104000547308
+modified: 20220104000650751
+rarity: 3
+tags: weapon
+title: starbreaker
+type: text/vnd.tiddlywiki
+
+This glowing morningstar casts bright light in a 20-foot radius and dim light for additional 20 feet while you hold it. Targets hit by this weapon suffer additional radiant damage. In addition, you can cast the spell [[daylight]] from this weapon. Once the weapon has been used to cast this spell, it can't do so again until the following dawn.

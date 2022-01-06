@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210412000347844
-modified: 20210727192012839
+modified: 20220104203200899
 tags: transmutation
 tier: 3
 title: haste
 type: text/vnd.tiddlywiki
 
-Choose a willing creature that you can see within 30 feet. Until the spell ends, the target's mind and body can move twice as fast for one minute. When the spell ends, the target can't move for about ten seconds, as a wave of lethargy sweeps over it.
+Choose a willing creature that you can see within 30 feet. The target's mind and body can move twice as fast for up to one minute, or until your concentration breaks. When the spell ends, the target can't move for about ten seconds, as a wave of lethargy sweeps over them.

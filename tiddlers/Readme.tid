@@ -1,6 +1,6 @@
 created: 20210715234357438
 creator: ziphion
-modified: 20211212231300991
+modified: 20220105094155166
 modifier: ziphion
 tags: 
 title: Readme
@@ -8,10 +8,9 @@ type: text/vnd.tiddlywiki
 
 !!! Welcome to the Eberron Tiddlywiki!
 
-<$vars numobjects={{{[category[object]!is[system]count[]]}}} numcreatures={{{[category[creature]!is[system]count[]]}}} numplaces={{{[category[location]!is[system]count[]]}}} numorgs={{{[category[organization]!is[system]count[]]}}} numspells={{{[category[spell]!is[system]count[]]}}} numpplent= {{{[subfilter<ppl-ent>!is[system]count[]]}}}><<numobjects>> items, <<numcreatures>> creatures, <<numplaces>> places, <<numpplent>> characters, <<numorgs>> organizations, <<numspells>> spells, and much more!
-</$vars>
+<$count filter="[category[object]!is[system]]"/> items, <$count filter="[category[creature]!is[system]]"/> creatures, <$count filter="[category[location]!is[system]]"/> places, <$count filter="[subfilter<ppl-ent>!is[system]]"/> characters, <$count filter="[category[organization]!is[system]]"/> organizations, <$count filter="[category[spell]!is[system]]"/> spells, and much more!
 
-Current version ''1.11.7'' ([[Changelog]])
+Current version ''<$transclude tiddler="Changelog" field="currentversion"/>'' ([[Changelog]])
 
 !! What is this?
 
@@ -56,7 +55,6 @@ I've made quite a few random generators for this tool. Here are a few of my favo
 * [[bag of surprises]]
 * [[beholder]]
 * [[yuan-ti malison]]
-* the [[Shifting Islands]]
 * [[Untold History]]
 
 !! Disclaimer

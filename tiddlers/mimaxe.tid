@@ -1,7 +1,8 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20210109074455464
-modified: 20211014231458384
+modified: 20220105085713527
 rarity: 3
 tags: weapon
 title: mimaxe
@@ -21,3 +22,4 @@ If the mimaxe goes 24 consecutive hours without eating a corpse, it loses 1 char
 
 ''//Teeth.//'' When you hit a creature with this weapon, you may expend a charge to deal extra damage.
 
+<<itemcharges 3>>

@@ -1,7 +1,8 @@
 category: object
+charges: 5
 color: #41D5E1
 created: 20201227210817050
-modified: 20210727191959395
+modified: 20220105085653850
 rarity: 3
 tags: [[magical implement]] tool
 title: bristle wand
@@ -14,3 +15,5 @@ This wand is made from the bristles of a giant boar bound together with magical,
 * //''Truffle.''// You plant the bristle in the ground to conjure up a magical truffle. The mushroom can be consumed to rapidly heal from injuries.
 
 So long as the wand has 1 bristle remaining, it regrows a bristle daily at dawn. Using the last bristle destroys the object.
+
+<<itemcharges 5>>

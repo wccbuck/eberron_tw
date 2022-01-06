@@ -1,0 +1,12 @@
+category: object
+color: #41D5E1
+created: 20211222223617650
+modified: 20211222224941824
+rarity: 4
+tags: [[magical implement]] weapon
+title: crosier of divine power
+type: text/vnd.tiddlywiki
+
+This staff is infused with [[divine magic]] that manifests as radiant motes of power during times of need. Whenever you enter into conflict with a hostile creature, the staff creates two brilliant motes of light which appear above the head of the staff. In addition, each time you use the staff to attack a creature or channel [[divine magic]] and you roll a [[bad outcome]], roll a <<dr d6>>. On a 6, another mote appears above the head of the staff.
+
+Whenever you use the crosier to attack a creature or channel [[divine magic]], you may expend 1 of the motes floating above it to add +2 [[impact]] to your action. 

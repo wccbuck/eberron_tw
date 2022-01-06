@@ -1,7 +1,8 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20210102163614723
-modified: 20210727191953887
+modified: 20220105082456607
 rarity: 1
 tags: tool
 title: alchemist's loupe
@@ -9,3 +10,5 @@ type: text/vnd.tiddlywiki
 
 This small jeweler's eyepiece has 3 charges, which recharge daily at dawn. While looking
 through it, you can expend one of its charges and detect [[transmutation]] magic for 10 minutes. While this effect is active, objects affected by transmutation magic are outlined in a faint aura when viewed through the loupe.
+
+<<itemcharges 3>>

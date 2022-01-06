@@ -1,0 +1,16 @@
+category: object
+color: #41D5E1
+created: 20220103053821667
+modified: 20220103054322394
+rarity: 4
+tags: weapon cursed
+title: shadow drinker
+type: text/vnd.tiddlywiki
+
+This wicked dagger can absorb the shadows cast by your enemies. When you hit a hostile creature no smaller than a [[goblin]] with this dagger, you can choose to absorb that creature's shadow as part of the attack. When you do, that creature no longer casts a shadow, and the dagger becomes shrouded in a dark haze that extends to you while you hold the dagger. While this haze is also surrounding you, you are invisible in areas of dim light and darkness.
+
+The dark haze persists for 10 minutes, or earlier if you attack with it, cast a spell, or choose to end the effect early. If a creature is hit by the dagger while it's shrouded in this haze, the creature suffers additional psychic damage from the attack; this bonus effect increases if the creature hit by the dagger is missing its shadow. Once the haze ends, the shadow immediately returns to the creature from whom it was taken.
+
+You can only have one shadow absorbed in this way at a time. Once you steal a creature's shadow, you can't steal that same creature's shadow again until the following dusk.
+
+This dagger is [[cursed]]. While you are attuned to this weapon, you suffer additional [[harm]] from radiant damage.

@@ -120,7 +120,7 @@
 141: All of the caster's fingers are clear like glass for {{!!duration}}.
 142: All of the caster's fingers double in thickness for {{!!duration}}.
 143: All of the caster's fingers migrate to one hand for {{!!duration}}.
-147: All of thecaster's possessions are thrown {{!!duration}} into the future.
+147: All of the caster's possessions are thrown {{!!duration}} into the future.
 149: All trees within 100 yards form into a tight circle around the caster.
 151: All [[undead]] within {{!!2d4}} miles are compelled to race to the caster's current location.
 153: All vegetation within 100 yards is invisible to the caster for {{!!duration}}.
@@ -1224,7 +1224,7 @@
 2571: Each of the caster's big toes is now as wide as the rest of their foot for the next {{!!duration}}.
 2572: Each of the caster's teeth is now a different and contrasting color for the next {{!!duration}}.
 2573: Each of the caster's teeth screams each time they opens their mouth for the next {{!!duration}}.
-2575: Eerie moans fill the air when caster touches holy water for the next {{!!duration}}.
+2575: Eerie moans fill the air when caster touches [[holy water]] for the next {{!!duration}}.
 2576: Efforts to become invisible make the caster much more visible for the next {{!!duration}}.
 2578: [[Elementals|elemental]] summoned in the caster's presence are 20% larger for the next {{!!duration}}.
 2580: [[Elementals|elemental]] summoned in the caster's presence are completely silent for the next {{!!duration}}.
@@ -1806,11 +1806,11 @@ for the next {{!!duration}}.
 5000: Target asserts that they have a key that unlocks their skull. The delusion persists for the next {{!!duration}}.
 5002: Target asserts that they have only {{!!duration}} to live. The delusion persists until the end of that time.
 5003: Target asserts that they have the power to bestow godhood. The delusion persists for the next {{!!duration}}.
-5004: Target asserts that they has the power to create and destroy souls. The delusion persists for the next {{!!duration}}.
+5004: Target asserts that they have the power to create and destroy souls. The delusion persists for the next {{!!duration}}.
 5008: Target asserts that they are the caster's grandparent. The delusion persists for the next {{!!duration}}.
-5009: Target asserts that they knows exactly who is destined to kill them. The delusion persists for the next {{!!duration}}.
-5010: Target asserts that they knows the location of a secret holy book. The delusion persists for the next {{!!duration}}.
-5012: Target asserts that they knows when, where, and how they'll die. The delusion persists for the next {{!!duration}}.
+5009: Target asserts that they know exactly who is destined to kill them. The delusion persists for the next {{!!duration}}.
+5010: Target asserts that they know the location of a secret holy book. The delusion persists for the next {{!!duration}}.
+5012: Target asserts that they know when, where, and how they'll die. The delusion persists for the next {{!!duration}}.
 5013: Target asserts that they must choose which of their allies must die. The delusion persists for the next {{!!duration}}.
 5014: Target asserts that they were bitten by a werewolf one month ago. The delusion persists for the next {{!!duration}}.
 5015: Target asserts that they will become omnipotent upon death. The delusion persists for the next {{!!duration}}.
@@ -3526,3 +3526,22 @@ for the next {{!!duration}}.
 10003: An elephant appears a few feet away from the target. It vanishes after {{!!duration}}.
 10004: {{!!2d4}} rats appear a few feet away from the target. They vanish after {{!!duration}}.
 10005: A cloud of {{!!d7}}00 oversized butterflies fills a 30-foot radius centered on the target. The butterflies vanish after {{!!duration}}.
+10006: The caster's ears turn a different, vibrant color every 5 seconds for the next {{!!duration}}.
+10007: The target's ears turn a different, vibrant color every 5 seconds for the next {{!!duration}}.
+10008: The caster can magically sense if someone is possessed, and can see creatures that are invisible, for the next {{!!duration}}.
+10009: The target can magically sense if someone is possessed, and can see creatures that are invisible, for the next {{!!duration}}.
+10010: The caster casts [[resilient sphere]] on a random creature in range.
+10011: The caster casts [[beacon of hope]] on {{!!2d4}} random creatures in range.
+10012: The caster casts [[scorching ray]] on {{!!d4}} random creatures in range.
+10013: The caster casts [[ice storm]].
+10014: The caster casts [[concussive burst]] in a random direction.
+10015: The caster casts [[zephyr step]].
+10016: The caster instantly casts [[tiny hut]].
+10017: The caster casts [[storm sphere]] centered on themself.
+10018: The caster casts [[chaos bolt]] in a random direction.
+10019: The caster casts [[message]] on a random creature in range. The message itself is nonsense.
+10020: The caster casts [[sending]] on a random creature they know who is not present. The message itself is nonsense.
+10021: The caster instantly casts [[contact other plane]], targeting a random [[immortal]] on a random [[plane]].
+10022: The caster casts [[blessed birth]] on every creature within {{!!d4}}0 feet.
+10023: The caster casts [[slow]] on themself.
+10024: The caster casts [[Nathair's mischief]] centered on themself.

@@ -1,7 +1,8 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20201227023029027
-modified: 20210727192041511
+modified: 20220105085713575
 rarity: 1
 tags: [[magical implement]]
 title: wand of smiles
@@ -10,3 +11,5 @@ type: text/vnd.tiddlywiki
 This wand has 3 charges. While holding it, you can expend 1 of its charges and target a [[humanoid]] you can see within 30 feet of you. The target must resist the magic or be forced to smile for 1 minute.
 
 The wand regains all expended charges daily at dawn. If you expend the wand's last charge,  the [[consequence]] of a [[failed roll|bad outcome]] or [[partial success]] transforms the wand into a [[wand of scowls]].
+
+<<itemcharges 3>>

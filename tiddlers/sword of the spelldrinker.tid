@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20220104062042764
+modified: 20220104062715366
+rarity: 5
+tags: weapon
+title: sword of the spelldrinker
+type: text/vnd.tiddlywiki
+
+This sword seems to absorb any light that touches it, making it appear darker than the deepest midnight. While you hold this sword, you treat any magical light, darkness, or atmospheric effect within 30 feet of you as if it were nonmagical and breathable.
+
+In addition, you can use this sword to cast the spell [[counterspell]] using your own power. If you successfully interrupt a spell in this way, you can choose to absorb it into the sword instead of countering it. The absorbed spell must be [[rare tier|spell tier]] or lower, and must be one that has a casting time of no more than 5 seconds.
+
+While holding the sword, you can release and cast the absorbed spell. If you don't release it after 8 hours, the absorbed spell fades away. Absorbing a new spell replaces the one stored within the sword.

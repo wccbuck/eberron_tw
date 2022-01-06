@@ -1,0 +1,13 @@
+category: spell
+color: #B7A1E0
+created: 20211215061322623
+modified: 20211215061558791
+tags: necromancy
+tier: 4
+title: control undead
+type: text/vnd.tiddlywiki
+
+You can use your mastery of [[necromancy]] to bring [[undead]] under your control, even those created by other [[wizard]]s. You can target one undead that
+you can see within 60 feet of you; if it cannot resist your magic, the creature becomes friendly to you and obeys your commands until you cast this spell again.
+
+Intelligent [[undead]] are harder to control in this way. If the target has more than animal intelligence, you have [[disadvantage]] on the attempt. Particularly intelligent undead such as [[vampire]]s can continue to resist your magic, contesting your control every hour or so until it is able to break free.

@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20220104233932555
+modified: 20220104234311085
+rarity: 3
+tags: tool weapon
+title: vigilus crossbow
+type: text/vnd.tiddlywiki
+
+This hand crossbow has a small spring-loaded case of 6 bolts attached to its side that automatically reload the crossbow whenever it's fired. 
+
+You can unfurl the crossbow's three collapsible legs and plant it firmly on the ground to turn it into a small defensive [[construct]]. Once deployed, the crossbow magically draws itself and loads the next bolt in its case, if any. While you're within 30 feet of the crossbow, you can command it to attack targets you can see within 30 feet of it. When an invisible creature comes within 30 feet of the crossbow, the crossbow emits a small chirping sound audible out to 100 feet.
+
+If the crossbow is incapacitated, it falls over and can't be deployed again in this way for at least 1 minute.

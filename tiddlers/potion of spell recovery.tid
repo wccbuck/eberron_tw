@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20220102203401708
+modified: 20220102204549757
+rarity: 3
+tags: potion
+title: potion of spell recovery
+type: text/vnd.tiddlywiki
+
+When you drink this potion, you recover 4 [[stress]] that you recently expended on casting [[spell]]s.

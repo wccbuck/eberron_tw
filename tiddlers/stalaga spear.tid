@@ -1,0 +1,17 @@
+category: object
+charges: 4
+color: #41D5E1
+created: 20220103234755880
+modified: 20220105082715149
+rarity: 4
+tags: weapon
+title: stalaga spear
+type: text/vnd.tiddlywiki
+
+This magic spear is made of dark, polished granite and has a large ruby set in its head. While made of stone, it weighs no more than a normal spear and is enchanted to prevent it from shattering.
+
+The spear has 4 charges and regains <<dr 1d4>> expended charges daily at dawn. While holding this spear, you may expend 1 of its charges to plunge the spear into a surface made of unworked stone or earth. The spear vanishes into the surface and emerges as a sharp stone spike that is 1 foot wide and 10 feet long from another stone or earthen surface that you can see within 60 feet of you, such as the ground or a cave wall. The spike erupts from the surface and stabs at any creatures in its path that aren't able to dodge, pushing them away.
+
+While you're within 60 feet of the stone spike, and standing on or adjacent to a surface of unworked stone or earth, you can speak the spear's command word to recall the spear. The stone spike crumbles and the spear inside vanishes back into the surface it came from before reemerging from the surface next to you into your open hand. If you don't have an open hand, it falls to the ground at your feet.
+
+<<itemcharges 4>>

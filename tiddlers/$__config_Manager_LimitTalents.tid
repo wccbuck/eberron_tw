@@ -1,6 +1,6 @@
 created: 20211126210336072
-limit50: [has[title]]
-modified: 20211128070105677
+limit50: [limit[50]]
+modified: 20211231024758176
 tags: 
 title: $:/config/Manager/LimitTalents
 type: text/vnd.tiddlywiki

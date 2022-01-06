@@ -1,0 +1,22 @@
+category: object
+color: #41D5E1
+created: 20220104003823796
+modified: 20220104010405887
+rarity: 4
+tags: weapon
+title: starmetal axe
+type: text/vnd.tiddlywiki
+
+This magic weapon is forged using a mysterious metal gathered from the [[Astral Sea]]. While you're attuned to this weapon, you can call upon its latent energy to change its form. The weapon can be fused into a single greataxe, or fissioned into two separate battleaxes. The weapon has the following properties in each state:
+
+''//Fused State.//'' While wielding the fused greataxe, flames erupt from its edges and a small star burns in its center. These flames shed bright light in a 20-foot radius and dim light for an additional 20 feet. The light is considered [[sunlight|Sun]]. The greataxe deals extra fire and radiant damage to any target it hits.
+
+''//Fissioned State.//'' The two fissioned battleaxes are bitter cold to the touch and deal extra cold damage to any target they hit. The axes orbit you slowly while they aren't being held or stowed. You can retrieve a floating battleaxe as if it were sheathed. While holding one battleaxe, you can cause the second orbiting battleaxe to attack targets you can see up to 20 feet away from you.
+
+!!! State Change
+
+Changing between the weapon's two states works as follows:
+
+''//Fission.//'' While holding the fused greataxe, you can speak the weapon's command word to split it apart into its fissioned state. When you do, electrical energy is released, shooting bolts of lightning at all other creatures within 30 feet of you. This property can't be used again for 12 hours.
+
+''//Fusion.//'' While holding both fissioned battleaxes, you can speak the weapon's other command word to recombine the two battleaxes into its fused state. When you do, a wave of fire is released from the weapon, causing fire damage to all creatures other than you within 30 feet that aren't able to dodge. This property can't be used again for 12 hours.

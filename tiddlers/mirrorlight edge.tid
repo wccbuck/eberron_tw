@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20211231053616980
+modified: 20211231054422839
+rarity: 3
+tags: weapon
+title: mirrorlight edge
+type: text/vnd.tiddlywiki
+
+This roughly hewn crystal scimitar bends light in baffling ways. You can speak the scimitar's command word to cause it to emit up to 2 ghostly projections of itself. The projections last until you dismiss them; once they are dismissed, you can't create new projections until 1 minute has passed. When the sword is swung, the ghostly projections make the path of the blade difficult to predict. When you make an attack with the sword and get a [[bad outcome]] or [[partial success]] while it has at least 1 projection, you can dismiss one of its projections to roll an extra die and add it to your results pool.
+
+When you hit a target with this weapon while it has at least 1 projection, the ghostly projections become razor sharp; gain +1 [[impact]] on the attack.
+
+The sword emits dim light in a 10-foot radius while it has 1 projection, and 20 feet while it has 2. Sheathing the scimitar contains the projections and their light without dismissing them.

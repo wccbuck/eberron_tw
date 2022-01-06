@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210301200511942
-modified: 20210727192004050
+modified: 20211217040304782
 tags: 
 title: deity
 type: text/vnd.tiddlywiki
@@ -14,6 +14,10 @@ type: text/vnd.tiddlywiki
 
 <<list-links-article "[tag{!!title}tag[Dark Six]sort[title]]">>
 
+!! [[Dragon Gods]]
+
+<<list-links-article "[tag{!!title}tag[Dragon Gods]sort[title]]">>
+
 !! Other Deities
 
-<<list-links-article "[tag{!!title}!tag[Sovereign Host]!tag[Dark Six]sort[title]]">>
+<<list-links-article "[tag{!!title}!tag[Sovereign Host]!tag[Dark Six]!tag[Dragon Gods]sort[title]]">>
