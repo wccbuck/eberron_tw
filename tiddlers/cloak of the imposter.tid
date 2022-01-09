@@ -1,10 +1,13 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20210104201548876
-modified: 20210727192001350
+modified: 20220106203409192
 rarity: 3
 tags: accessory
 title: cloak of the imposter
 type: text/vnd.tiddlywiki
 
 This dark indigo cloak with a tattered, golden hem allows the wearer to create an illusory double of themselves up to three times per day. The double looks, sounds, and smells identical to themselves, and persists up to 1 hour, but the illusion is not solid, and will disappear if touched.
+
+<<itemcharges 3>>

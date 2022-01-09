@@ -1,15 +1,15 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20201227201750928
-modified: 20211221233801258
+modified: 20220106215311405
 rarity: 3
 tags: [[magical implement]]
 title: staff of swarming insects
 type: text/vnd.tiddlywiki
 
-While holding this staff, if you are a spellcaster, you can summon a cloud of swarming insects that you can control. This cloud persists for up to 10 minutes, and can have one of the following properties:
+While holding this staff, if you are a spellcaster, you can cast the spells [[insect cloud]], [[giant insect]], and [[insect plague]].
 
-* Fills a 20-foot radius sphere, and consists of biting insects that can rapidly chew through anything in the area.
-* Fills a 60-foot radius sphere, and consists of harmless but annoying flying insects that heavily obscure the area to all creatures except you.
+This staff has 3 charges, and regains <<dr d3>> charges daily at dawn. When you cast one of the above spells, you may expend one of these charges in place of spellcasting [[stress]]. However, spending the last charge of the staff and rolling a [[bad outcome]] may result in the staff being consumed by swarming insects, destroying it.
 
-You can use this staff twice per day before it needs to recharge. Overusing the staff may result in it being consumed by the summoned insects, destroying it.
+<<itemcharges 3>>

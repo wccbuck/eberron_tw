@@ -1,12 +1,13 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20201227195828142
-modified: 20210727192028602
+modified: 20220106215311387
 rarity: 3
 tags: accessory
 title: ring of the ram
 type: text/vnd.tiddlywiki
 
-While wearing the ring, you can expend some of its magic and punch in the direction of a target within 60 feet of you. The ring produces a spectral ram's head that flies towards the target; if it hits, the target is struck with magical force and pushed 5 feet away from you. You can also break objects in this way.
+This ring has 3 charges, and it regains <<dr 1d3>> expended charges daily at dawn. While wearing the ring, you can expend 1 charge and punch in the direction of a target within 60 feet of you. The ring produces a spectral ram's head that flies towards the target; if it hits, the target is struck with magical force and pushed 5 feet away from you. You can also break objects in this way.
 
-The ring can be used three times per day before needing to recharge.
+<<itemcharges 3>>

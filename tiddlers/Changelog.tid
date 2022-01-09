@@ -1,12 +1,81 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.12.0
-modified: 20220106005143896
+currentversion: 1.12.1
+modified: 20220109024534901
 modifier: ziphion
 showmore: hide
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.12.1 <span style="font-weight:normal">(Jan 8, 2022)</span>
+
+Added more content from the [[Player's Guide to Eberron|https://www.dmsguild.com/product/29550/Players-Guide-to-Eberron-35]].
+
+* People:
+** [[Alain Gourthan]]
+** [[Baerdren ir'Davik]]
+** [[Benith Ava Denithki]]
+** [[Cainan]]
+** [[Cial Jhaelian]]
+** [[Collas]]
+** [[Danid Vieran]]
+** [[Faena Graymorn]]
+** [[Feralyn Wolftail]]
+** [[Forlorn]]
+** [[Frost]]
+** [[Gharull]]
+** [[Ghash Duurkat]]
+** [[Ivellios Dulaen]] (formerly Caskal Dulaen)
+** [[Kaelyn Windsong]]
+** [[Kona Erran]]
+** [[Koruun]]
+** [[Marai Jhaelian]]
+** [[Moselin]]
+** [[Ofejjaia]]
+** [[Raven]]
+** [[Root]]
+** [[Saala Torrn]]
+** [[Sendor Reddick]]
+** [[Silvertongue]]
+** [[Stormclaw]]
+** [[Tasia]]
+** [[Thorn Dancer]]
+* Documents:
+** [[business license]]
+** [[identification papers]]
+** [[letter of credit]]
+** [[letter of dispensation]]
+** [[letter of marque]]
+** [[letter of proxy]]
+** [[pardon]]
+** [[royal decree]]
+** [[title deed]]
+** [[traveling papers]]
+** [[warrant]]
+* Items:
+** [[bloodstone blade]]
+** [[nightshard maul]]
+** [[Skai Shaarat]]
+* Places:
+** [[Hadrill Gardens]]
+** [[Nightbit]]
+** the [[Passage Institute for the Arcane Arts]]
+** the [[Valdain Museum of Natural History]]
+* Misc:
+** [[templar]]
+** [[unity wine]]
+
+Miscellaneous:
+
+* Added item charge tracker for more items with limited stored energy
+* Changed a few items that gave two extra spellcasting [[stress]] (lowered to 1)
+* Added [[insect cloud]] spell
+* Added spell scrolls. [[Tier 1|spell scroll, tier 1]], [[2|spell scroll, tier 2]], [[3|spell scroll, tier 3]], [[4|spell scroll, tier 4]], [[5|spell scroll, tier 5]]
+* Added "the change" to the [[elf]] page as per [[this KB blog post|http://keith-baker.com/ifaq-nonbinary-elves/]]. Changed pronouns to they/them for the following elf NPCs:
+** [[Daera Sorandal]]
+** Baron [[Elvinor Elorrenthi d'Phiarlan]]
+** [[Zaeran]]
 
 !!! 1.12.0 <span style="font-weight:normal">(Jan 5, 2022)</span>
 

@@ -1,10 +1,13 @@
 category: object
+charges: 2
 color: #41D5E1
 created: 20210726215640189
-modified: 20210727192024921
+modified: 20220106215321641
 rarity: 2
 tags: [[magical implement]]
 title: piercing violin
 type: text/vnd.tiddlywiki
 
 Twice per day, while playing this violin, the user can strike a piercing note that causes damage to everyone within earshot, possibly causing them to bleed from their ears.
+
+<<itemcharges 2>>

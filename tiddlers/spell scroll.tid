@@ -1,0 +1,17 @@
+category: object
+color: #41D5E1
+created: 20220107191523893
+modified: 20220107191921566
+rarity: 0
+tags: tool
+title: spell scroll
+type: text/vnd.tiddlywiki
+
+A spell scroll bears the words of a single [[arcane|arcane magic]] spell, written in a mystical cipher. If you are a [[wizard]] familiar with the [[spell school]], or another spellcaster with sufficient arcane knowledge, you can read the scroll and cast its spell without having to provide any of the spell's material components. Otherwise, the scroll is unintelligible.
+
+|!Spell Scroll |![[Rarity|rarity]] |![[Spell Tier|spell tier]] |
+|[[tier 1|spell scroll, tier 1]] |common |cantrip |
+|[[tier 2|spell scroll, tier 2]] |uncommon |common |
+|[[tier 3|spell scroll, tier 3]] |rare |rare |
+|[[tier 4|spell scroll, tier 4]] |very rare |legendary |
+|[[tier 5|spell scroll, tier 5]] |legendary |mythical |

@@ -1,5 +1,6 @@
 2d4: 2
 category: object
+charges: 3
 color: #41D5E1
 created: 20210105233100592
 d10: 3
@@ -11,7 +12,7 @@ d7: 3
 duration: 1 minute
 effect: Any part of target not covered by clothing appears to be skeletal for the next {{!!duration}}.
 l_duration: 5 days
-modified: 20211116213944590
+modified: 20220106215311327
 rarity: 3
 s_duration: 12 seconds
 spell: meld into stone
@@ -32,3 +33,5 @@ Three times per day, the wearer can cast a completely random spell (cantrip, com
 <<<
 
 {{||random magical effect}}
+
+<<itemcharges 3>>

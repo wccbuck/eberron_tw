@@ -1,10 +1,13 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20201227060859581
-modified: 20210727192039057
+modified: 20220106215311498
 rarity: 2
 tags: weapon
 title: trident of fish command
 type: text/vnd.tiddlywiki
 
-This trident is a magic weapon. While you carry it, you can cast [[dominate]] from it on an aquatic beast. You can use this magic up to three times per day.
+This trident has 3 charges, and regains <<dr 1d3>> expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [[dominate]] from it on an aquatic [[beast]].
+
+<<itemcharges 3>>

@@ -1,10 +1,13 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20210104003754715
-modified: 20210801030246845
+modified: 20220106215311166
 rarity: 1
 tags: accessory [[dragonmark focus item]] [[Mark of Warding]]
 title: gloves of the locksmith
 type: text/vnd.tiddlywiki
 
 These heavy leather gloves are studded with [[dragonshard]]s and bear the sign of House [[Kundarak]]. When worn by a person with the [[Mark of Warding]], they allow the wearer to cast [[arcane lock]] three times per day. In addition, the caster can attach up to 3 separate keys to the spell effect. As a general rule, the customer gets two keys and the third is kept in the House Kundarak [[enclave]]. The gloves can only be used three times per day, no matter who wears them. 
+
+<<itemcharges 3>>

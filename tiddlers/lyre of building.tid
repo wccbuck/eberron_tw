@@ -1,10 +1,13 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20210809050500302
-modified: 20210809050611668
+modified: 20220106215311209
 rarity: 3
 tags: [[magical implement]]
 title: lyre of building
 type: text/vnd.tiddlywiki
 
 While holding this lyre, you can cast [[mending]]. In addition, three times per day, you can play the lyre to cast one of the following: [[fabricate]], [[move earth]], or [[passwall]].
+
+<<itemcharges 3>>

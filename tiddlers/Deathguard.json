@@ -1,13 +1,13 @@
 [
     {
         "created": "20210219225442695",
-        "title": "Deathguard",
-        "text": "The Deathguard of [[Aerenal]] is an order of knights sworn to eradicate evil and [[Mabar]]an [[undead]], along with any who would deal with\nsuch vile creatures. The order was formed to destroy\nthe [[line|Aereni noble line]] of [[Vol]], and it built its headquarters in [[Shae Cairdal]] as its first base of operations. Most in the order follow the custom of appearing [[undead]] by having skull tattoos inscribed upon their faces.",
-        "modified": "20210727192003890",
-        "tags": "Aerenal military",
+        "text": "The Deathguard of [[Aerenal]] is an order of knights sworn to eradicate evil and [[Mabar]]an [[undead]], along with any who would deal with\nsuch vile creatures. The order was formed to destroy\nthe [[line|Aereni noble line]] of [[Vol]], and it built its headquarters in [[Shae Cairdal]] as its first base of operations. Most in the order follow the custom of appearing [[undead]] by having skull tattoos inscribed upon their faces.\n\nThe High Warden of the Deathguard is [[Cial Jhaelian]].",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Deathguard",
+        "tags": "Aerenal military",
+        "modified": "20220107031245744",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

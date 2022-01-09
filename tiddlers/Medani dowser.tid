@@ -1,7 +1,8 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20201210034906467
-modified: 20210801030848995
+modified: 20220106215311242
 rarity: 1
 tags: [[Mark of Detection]] tool [[dragonmark focus item]]
 title: Medani dowser
@@ -10,4 +11,6 @@ type: text/vnd.tiddlywiki
 
 In order to attune to this magic item, you must possess the [[Mark of Detection]].
 
-While holding this wand, you can expend some of its stored magical power, and if a secret door or trap is within 30 feet of you, the wand pulses and points at the one nearest to you. The wand can be used 2-5 times per day before its power is expended and must recharge overnight.
+While holding this wand, you can expend some of its stored magical power, and if a secret door or trap is within 30 feet of you, the wand pulses and points at the one nearest to you. The wand can be used 3 times per day before its power is expended, and it regains <<dr 1d3>> charges daily at dawn.
+
+<<itemcharges 3>>

@@ -1,11 +1,10 @@
 category: object
 color: #41D5E1
 created: 20211209060452331
-modified: 20211209060725721
+modified: 20220107034855882
 rarity: 1
 tags: accessory [[warforged item]]
 title: delver's light
-tooltip: warforged item, holds retractable wand
 type: text/vnd.tiddlywiki
 
 A delver's light is a magic gem that can be attached to a [[warforged]]'s forehead of chest. It can give off light powered by the life force of the warforged, who can control the brightness of the light at will.

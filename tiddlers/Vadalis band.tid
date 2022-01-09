@@ -1,7 +1,8 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20201210041028045
-modified: 20211014231612340
+modified: 20220106215311533
 rarity: 2
 tags: [[Mark of Handling]] accessory [[dragonmark focus item]]
 title: Vadalis band
@@ -10,4 +11,6 @@ type: text/vnd.tiddlywiki
 
 To use this ring's effect, you must have the [[Mark of Handling]].
 
-While wearing this ring, you can expend some of its stored magical power to comprehend and verbally communicate with beasts for 5-15 minutes. You can also expend a charge to gain [[advantage]] on an attempt to persuade a beast. The ring can be used 2-5 times per day before its power is expended and must recharge overnight.
+This ring has 3 charges, and it regains <<dr 1d3>> expended charges daily at dawn. While wearing this ring, you can expend 1 charge to cast one of the following spells: [[animal friendship]], [[speak with animals]], or [[fear]] (targeting only a [[beast]] without the ability to speak or understand language).
+
+<<itemcharges 3>>

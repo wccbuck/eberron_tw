@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20220106210703444
+modified: 20220106211418474
+tags: [[primal magic]]
+tier: 2
+title: insect cloud
+type: text/vnd.tiddlywiki
+
+You create a swarm of harmless flying insects to spread out in a 60-foot-radius sphere centered on you. The sphere spreads around corners, and its area is considered heavily obscured within 30 feet of you, and lightly obscured for an additional 30 feet, for all creatures other than you. The insects remain for 10 minutes or until a wind of moderate or greater speed (at least 10 miles per hour) disperses the cloud.

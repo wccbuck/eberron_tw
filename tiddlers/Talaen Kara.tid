@@ -1,7 +1,8 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20211228071330583
-modified: 20211228072041573
+modified: 20220106215311449
 rarity: 4
 tags: weapon
 title: Talaen Kara
@@ -14,4 +15,6 @@ Each of the scimitar's two blades is engraved. One bears the stylized image of a
 While this weapon is sentient, it has the mind of a horse and only communicates with strong, pure emotions—anger, joy, suspicion, and so on.
 
 When a wielder of this weapon has won its respect, they gain an additional [[impact]] when wielding it on horseback, and can cast the spell [[bless]] from it up to three times per day.
+
+<<itemcharges 3>>
 

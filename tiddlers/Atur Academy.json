@@ -1,13 +1,13 @@
 [
     {
         "created": "20210322004509378",
-        "title": "Atur Academy",
-        "text": "The [[Karrnath]]-based [[Atur]] Academy, within what\noutsiders call the “City of Night”, specializes in\nmystical studies shunned by other [[arcane|arcane magic]] institutions.\nAtur is a stronghold of the [[Blood of Vol]], and the Academy has no equal when it comes to the study of [[necromancy]]. While its coverage of other schools of magic is unremarkable, its researchers develop necromancy and [[transmutation]] spells that others would consider to be horrifying, and its vaults are said to contain tomes and scrolls of many spells forbidden during the reign of [[Galifar]]. ",
-        "modified": "20210727191956364",
-        "tags": "university Atur",
+        "text": "//\"Evil? Magic is a tool in the [[wizard]]'s hand, and the wizard must choose whether to use it for good purposes or ill. But magic is not evil in and of itself.\"//\n<div align=\"right\">—Orthik the Grim, master of the Atur Academy</div>\n\nThe [[Karrnath]]-based [[Atur]] Academy, within what\noutsiders call the “City of Night”, specializes in\nmystical studies shunned by other [[arcane|arcane magic]] institutions.\nAtur is a stronghold of the [[Blood of Vol]], and the Academy has no equal when it comes to the study of [[necromancy]]. While its coverage of other schools of magic is unremarkable, its researchers develop necromancy and [[transmutation]] spells that others would consider to be horrifying, and its vaults are said to contain tomes and scrolls of many spells forbidden during the reign of [[Galifar]]. ",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Atur Academy",
+        "tags": "university Atur",
+        "modified": "20220109013140272",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

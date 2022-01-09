@@ -1,16 +1,17 @@
 category: object
+charges: 6
 color: #41D5E1
 created: 20201227182910410
-modified: 20210727192002821
+modified: 20220106203822575
 rarity: 3
 tags: tool
 title: cube of force
 type: text/vnd.tiddlywiki
 
-This cube is about an inch across. Each face has a distinct marking on it that can be pressed. When you press one of the cube's faces, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you deactivate it or it is deactivated by a magical effect such as [[disintegrate]] or [[passwall]].
+This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube has 6 charges of stored energy, and regains <<dr 1d4>> expended charges daily at dawn. When you press one of the cube's faces and expend 1 charge, a barrier of invisible force springs into existence, forming a cube 15 feet on a side. The barrier is centered on you, moves with you, and lasts for 1 minute, until you deactivate it or it is deactivated by a magical effect such as [[disintegrate]] or [[passwall]].
 
 The barrier allows nothing to pass through. You can allow certain objects (such as walls, floors, and ceilings) to pass through, as well as certain categories of matter or phenomena (e.g. gases, nonliving matter, living matter, or [[spell]] effects).
 
 If your movement causes the barrier to come into contact with a solid object that can't pass through the cube, you can't move any closer to that object as long as the barrier remains.
 
-You can create this barrier five times per day before it must be magically recharged.
+<<itemcharges 6>>

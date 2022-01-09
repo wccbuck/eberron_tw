@@ -1,7 +1,8 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20201227044224226
-modified: 20210727192020953
+modified: 20220106215311224
 rarity: 2
 tags: accessory
 title: medallion of thoughts
@@ -12,3 +13,5 @@ While wearing this medallion, you can cast the [[detect thoughts]] spell from it
 <<<
 {{detect thoughts}}
 <<<
+
+<<itemcharges 3>>

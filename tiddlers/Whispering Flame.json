@@ -1,13 +1,13 @@
 [
     {
         "created": "20210112052834840",
-        "title": "Whispering Flame",
-        "text": "The Whispering Flame is a transactional [[cult|Cults of the Dragon Below]] hidden within the Church of the [[Silver Flame]]—a secret order of priests and templars who do [[Bel Shalor]]'s bidding in exchange for power and influence. The\ngreatest agents of the Whispering Flame rarely perform obvious\nacts of [[corruption|Silver Flame Heresy and Corruption]] themselves; instead, they subtly encourage others to compromise their principles or succumb to their fears. Cultists work to trick truly virtuous members of the church, convincing good templars to persecute innocent people in pursuit of imaginary threats. This situation—good people\nharming good people—delights Bel Shalor. \n\nImportant members of the Whispering Flame often\nreceive a [[ring of mind shielding]], and may use [[eyes of charming]]\nto influence others. Such items are typically made by the [[Lords of Dust]], though they can be ancient relics or items infused with the power of the Shadow in the Flame.",
-        "modified": "20210727192042313",
-        "tags": "[[Cults of the Dragon Below]]",
+        "text": "The Whispering Flame is a transactional [[cult|Cults of the Dragon Below]] hidden within the Church of the [[Silver Flame]]—a secret order of priests and [[templar]]s who do [[Bel Shalor]]'s bidding in exchange for power and influence. The\ngreatest agents of the Whispering Flame rarely perform obvious\nacts of [[corruption|Silver Flame Heresy and Corruption]] themselves; instead, they subtly encourage others to compromise their principles or succumb to their fears. Cultists work to trick truly virtuous members of the church, convincing good templars to persecute innocent people in pursuit of imaginary threats. This situation—good people\nharming good people—delights Bel Shalor. \n\nImportant members of the Whispering Flame often\nreceive a [[ring of mind shielding]], and may use [[eyes of charming]]\nto influence others. Such items are typically made by the [[Lords of Dust]], though they can be ancient relics or items infused with the power of the Shadow in the Flame.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Whispering Flame",
+        "tags": "[[Cults of the Dragon Below]]",
+        "modified": "20220107032822539",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

@@ -1,10 +1,13 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20210104211757281
-modified: 20210727192010667
+modified: 20220106215311151
 rarity: 3
 tags: accessory
 title: gloves of healing touch
 type: text/vnd.tiddlywiki
 
-This pair of soft, tan leather gloves has the symbol of [[Irian]] on the back of each glove in thick silver paint. Three times per day, the wearer can use the magic in the gloves to touch an injured person and heal their wounds.
+This pair of soft, tan leather gloves has the symbol of [[Irian]] on the back of each glove in thick silver paint. Three times per day, the wearer can use the magic in the gloves to touch an injured person and heal their wounds, as the spell [[cure wounds]].
+
+<<itemcharges 3>>

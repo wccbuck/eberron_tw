@@ -1,10 +1,13 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20201227011109923
-modified: 20210727192013798
+modified: 20220106203253435
 rarity: 1
 tags: tool
 title: horn of silent alarm
 type: text/vnd.tiddlywiki
 
 Three times per day, you can blow this horn, and one hearing creature of your choice within 600 ft can hear it (but no other creatures can).
+
+<<itemcharges 3>>

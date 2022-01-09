@@ -1,7 +1,8 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20200425004840183
-modified: 20210820223120567
+modified: 20220106215311098
 rarity: 3
 tags: tool
 title: bag of surprises
@@ -25,3 +26,5 @@ When you reach into this bag, you pull out a random object as determined by the 
 
 </$vars>
 <<<
+
+<<itemcharges 3>>

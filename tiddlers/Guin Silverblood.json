@@ -1,13 +1,13 @@
 [
     {
         "created": "20210311222116486",
-        "title": "Guin Silverblood",
-        "text": "Guin Silverblood is a templar of the [[Silver Flame]] and a priest of the [[Keep of the Silver Flame]] in [[Stormreach]]. He is a master archer who trains members of the congregation int the use of the longbow.\n\nHe only speaks of it to his most trusted parishioners, but Guin Silverblood practices the traditions of an ancient [[serpent cult|Serpent Cults]], passed down to Guin’s father\nby a \"feathered [[yuan-ti]]\" (a [[shulassakar]]). Although the values are similar\nto those of the modern church, this faith teaches that\nthe [[Silver Flame]] was kindled by the sacrifice of the\n[[couatl]]s in the [[Age of Demons]]; [[Tira Miron]] and the [[Keeper of the Flame]] are stewards who bring the light of the Flame to [[human]]s too limited to see the ancient force\non their own. Guin has served as an intermediary for the [[shulassakar]] in the past, and this could serve as the basis for an adventure.",
-        "modified": "20210727192011817",
-        "tags": "humanoid Stormreach paladin [[Silver Flame]] human [[Serpent Cults]]",
+        "text": "Guin Silverblood is a [[templar]] of the [[Silver Flame]] and a priest of the [[Keep of the Silver Flame]] in [[Stormreach]]. He is a master archer who trains members of the congregation in the use of the longbow.\n\nHe only speaks of it to his most trusted parishioners, but Guin Silverblood practices the traditions of an ancient [[serpent cult|Serpent Cults]], passed down to Guin’s father\nby a \"feathered prophet\" (a [[shulassakar]]). Although the values are similar\nto those of the modern church, this faith teaches that\nthe [[Silver Flame]] was kindled by the sacrifice of the\n[[couatl]]s in the [[Age of Demons]]; [[Tira Miron]] and the [[Keeper of the Flame]] are stewards who bring the light of the Flame to [[human]]s too limited to see the ancient force\non their own. Guin has served as an intermediary for the [[shulassakar]] in the past, and this could serve as the basis for an adventure.",
         "type": "text/vnd.tiddlywiki",
-        "article": "Templar ",
+        "title": "Guin Silverblood",
+        "tags": "humanoid Stormreach [[Silver Flame]] human [[Serpent Cults]] templar",
+        "modified": "20220107034044128",
+        "color": "#FEA627",
         "category": "person",
-        "color": "#FEA627"
+        "article": "Templar "
     }
 ]

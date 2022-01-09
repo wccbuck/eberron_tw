@@ -1,10 +1,13 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20210722173233182
-modified: 20210727192037770
+modified: 20220106215311464
 rarity: 3
 tags: weapon
 title: thundercrack whip
 type: text/vnd.tiddlywiki
 
 This rawhide whip is braided with silver wire. The whip is charged with electricity, and does additional lightning damage with its attacks. Three times per day, the user can crack the whip, letting out a deafening concussive blast of thunder.
+
+<<itemcharges 3>>

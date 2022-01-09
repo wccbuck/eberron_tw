@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201228042127532
-modified: 20220103215211048
+modified: 20220106211704061
 rarity: 4
 tags: [[magical implement]] weapon
 title: staff of power
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 When you physically attack with this staff, you can [[push yourself]] to deal extra arcane force damage to the target.
 
-If you are a spellcaster, this staff allows you to cast the following spells using your own power: [[cone of cold]], [[fireball]], [[globe of invulnerability]], [[hold]], [[levitate]], [[lightning bolt]], [[magic missile]], [[ray of enfeeblement]], and [[wall of force]]. You also gain two additional spellcasting [[stress]] boxes which you can only use to cast these spells.
+If you are a spellcaster, this staff allows you to cast the following spells using your own power: [[cone of cold]], [[fireball]], [[globe of invulnerability]], [[hold]], [[levitate]], [[lightning bolt]], [[magic missile]], [[ray of enfeeblement]], and [[wall of force]]. You also gain one additional spellcasting [[stress]] box which you can only use to cast these spells.
 
 You can choose to break the staff over your knee or against a solid surface. The staff is destroyed and releases its magic in an explosion that expands to fill a 30-foot-radius sphere centered on it. You have a chance of instantly teleporting to a random [[plane]] of existence, avoiding the explosion.
