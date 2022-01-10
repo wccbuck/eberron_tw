@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210503022119383
-modified: 20210727192002042
+modified: 20220110041552609
 tags: [[primal magic]] transmutation
 tier: 1
 title: control flames
@@ -16,9 +16,9 @@ You choose nonmagical flame that you can see within 60 feet and that fits within
 
 If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect at will.
 
-!! Common-Tier
+!! Uncommon-Tier
 
-When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you may have up to six non-instantaneous effects active at a time, and increase the area of effect to a 10-foot cylinder. In addition, you may affect flames in one of the following ways:
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may have up to six non-instantaneous effects active at a time, and increase the area of effect to a 10-foot cylinder. In addition, you may affect flames in one of the following ways:
 
 * You extinguish or change the intensity of all flames within 60 feet simultaneously.
 * You affect flame to produce no heat. This change lasts for 1 hour.

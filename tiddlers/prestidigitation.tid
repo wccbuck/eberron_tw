@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20200428222316448
-modified: 20210727192025946
+modified: 20220110042218346
 tags: transmutation
 tier: 1
 title: prestidigitation
@@ -18,9 +18,9 @@ This spell is a minor magical trick that novice [[wizard]]s and [[artificer]]s u
 
 You can have up to three of these effects active at one time.
 
-!! Common-Tier
+!! Uncommon-Tier
 
-When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, the range of the spell increases to 30 feet, and you may have up to five non-instantaneous effects active at a time. In addition, you may do any of the following: 
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, the range of the spell increases to 30 feet, and you may have up to five non-instantaneous effects active at a time. In addition, you may do any of the following: 
 
 * Dry any willing creature within range.
 * Clean/soil/flavor/chill/warm an object up to 5 cubic feet; the effect lasts for two hours.

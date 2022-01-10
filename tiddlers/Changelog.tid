@@ -1,12 +1,25 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.12.1
-modified: 20220109024534901
+currentversion: 1.12.2
+modified: 20220110045746376
 modifier: ziphion
 showmore: hide
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.12.2 <span style="font-weight:normal">(Jan 9, 2022)</span>
+
+Renamed [[spell tier]]s and [[rarity]] names. Spells and magic items both now follow the same naming convention (though tier 1 spells are still called "cantrips"):
+
+|!Tier |!Name |
+| 1 |Common |
+| 2 |Uncommon |
+| 3 |Rare |
+| 4 |Epic |
+| 5 |Legendary |
+
+I might have missed a few, so I'll correct them as I find them. Also, changed the naming scheme of a few node.js files so that it'll run on case-insensitive (non-Linux) systems. (This doesn't effect anyone except the people running their own tiddlywiki server using the github code.)
 
 !!! 1.12.1 <span style="font-weight:normal">(Jan 8, 2022)</span>
 

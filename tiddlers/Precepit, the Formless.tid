@@ -1,9 +1,9 @@
 category: object
 color: #41D5E1
 created: 20220105094533683
-modified: 20220105101542486
-rarity: 5
+modified: 20220110040620402
 tags: [[magical implement]]
+tier: 5
 title: Precepit, the Formless
 type: text/vnd.tiddlywiki
 
@@ -28,4 +28,4 @@ You can mentally command the staff's ever-present hovering bounty of water to ch
 * You suffer [[disadvantage]] when attempting to move quickly.
 * You have [[advantage]] to resist forced movement.
 * You gain two extra temporary [[harm]] boxes that persist until the staff changes state.
-* You can cast the following spells: [[cone of cold]], [[binding ice]], [[ice storm]], [[ray of frost]] (cantrip or common [[tier|spell tier]]), or [[wall of ice]]. 
+* You can cast the following spells: [[cone of cold]], [[binding ice]], [[ice storm]], [[ray of frost]] (common or uncommon [[tier|spell tier]]), or [[wall of ice]]. 

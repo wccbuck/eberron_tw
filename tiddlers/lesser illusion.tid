@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201210004030730
-modified: 20210801202419978
+modified: 20220110042218238
 tags: illusion
 tier: 1
 title: lesser illusion
@@ -15,9 +15,9 @@ If the caster creates an image of an object—such as a chair, muddy footprints,
 
 If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
-!! Common-Tier
+!! Uncommon-Tier
 
-When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you may do up to ''two'' of the following:
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may do up to ''two'' of the following:
 
 * Create a simultaneous sound AND an image.
 * Increase the range to 60 feet and the illusion's maximum size to a 10-foot cube.

@@ -1,9 +1,9 @@
 category: object
 color: #41D5E1
 created: 20201224221831754
-modified: 20210922232418696
-rarity: 2
+modified: 20220110034315660
 tags: accessory symbiont
+tier: 2
 title: coat of many eyes
 type: text/vnd.tiddlywiki
 
@@ -18,7 +18,7 @@ following benefits:
 * You have [[darkvision]] with a range of 120 feet.
 
 //''Gifts of the All-Seer.''// All coats of many eyes are linked to
-[[Belashyrra]], and while wearing one you may receive visions—flashes of things the Lord of Eyes wishes to see through you. If you follow through with these tasks, your armor can evolve, gaining additional powers and increasing its effective rarity.
+[[Belashyrra]], and while wearing one you may receive visions—flashes of things the Lord of Eyes wishes to see through you. If you follow through with these tasks, your armor can evolve, gaining additional powers and increasing its effective [[rarity]].
 
-* A rare coat also grants you an advantage to dodge physical threats, and allows you to see invisible creatures and objects within 120 feet.
-* A very rare coat also grants you the ability to cast [[arcane eye]] with it once per day.
+* A ''rare'' coat also grants you an advantage to dodge physical threats, and allows you to see invisible creatures and objects within 120 feet.
+* An ''epic'' coat also grants you the ability to cast [[arcane eye]] with it once per day.

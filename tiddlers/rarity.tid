@@ -1,11 +1,11 @@
 category: game mechanics
 created: 20210105213115836
-modified: 20211229225607578
+modified: 20220110033359036
 tags: Storyloom
 title: rarity
 type: text/vnd.tiddlywiki
 
-Each [[magic item]] (and some "mundane" items) has a rarity: ''common'', ''uncommon'', ''rare'', ''very rare'', or ''legendary''. Common magic items, such as a [[potion of healing]], are the most plentiful. Most legendary items, such as the [[breastplate of Kamvuul Norek]], are unique. The secrets of creating the most powerful items arose in past [[era]]s and then were gradually lost as a result of wars, cataclysms, and mishaps. (See also [[random artifact properties]])
+Each [[magic item]] (and some "mundane" items) has a rarity: ''common'', ''uncommon'', ''rare'', ''epic'', or ''legendary''. Common magic items, such as a [[potion of healing]], are the most plentiful. Most legendary items, such as the [[breastplate of Kamvuul Norek]], are unique. The secrets of creating the most powerful items arose in past [[era]]s and then were gradually lost as a result of wars, cataclysms, and mishaps. (See also [[random artifact properties]])
 
 Rarity provides a rough measure of an item's power relative to other items—a guideline for how [[impact]]ful it is when used, or how much [[risk]] is mitigated. If you've got an uncommon weapon and your opponent has common armor, you'll probably have improved impact, all else equal.
 
@@ -16,5 +16,5 @@ Approximate [[monetary values|money]] of different item rarities are as follows.
 * ''Common'': worth 1-10c
 * ''Uncommon'': worth 11-50c
 * ''Rare'': worth 51-500c
-* ''Very Rare'': worth 501-5000c
+* ''Epic'': worth 501-5000c
 * ''Legendary'': worth 5001+c

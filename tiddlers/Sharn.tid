@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200410005743410
-modified: 20220107184242892
+modified: 20220110041116687
 points: 20.188,-24.47
 population: 2542200
 style: {"color": "#8E0024"}
@@ -220,8 +220,8 @@ of Sharn, selling their services. Standard prices are
 summarized on the table.
 
 | ![[Spell Tier|spell tier]] | ![[Price|money]]|
-| cantrip | 1 c|
-| common | 2-5 c|
+| common | 1 c|
+| uncommon | 2-5 c|
 | rare | 10-20 c|
 
 These costs can vary depending on the spell and the

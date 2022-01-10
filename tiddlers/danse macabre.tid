@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210428030355714
-modified: 20210727192003310
+modified: 20220110043720233
 tags: necromancy
 tier: 3
 title: danse macabre
@@ -13,6 +13,6 @@ You can mentally command the [[undead]] creatures you make with this spell, issu
 
 The creatures are under your control until the spell ends (up to 1 hour, or until your concentration breaks), after which they become inanimate once more.
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may animate up to eight corpses.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may animate up to eight corpses.

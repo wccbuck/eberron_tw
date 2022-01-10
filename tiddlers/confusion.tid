@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210409234342276
-modified: 20210727192001894
+modified: 20220110043720089
 tags: psionics enchantment
 tier: 3
 title: confusion
@@ -11,6 +11,6 @@ This spell assaults and twists creatures' minds, spawning delusions and provokin
 
 An affected target might stand dazed, move in a random direction, attack an ally, or any number of other unpredictable actions. The effect lasts for up to 1 minute, or until your concentration is broken.
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may increase the radius of the sphere to 25 feet.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may increase the radius of the sphere to 25 feet.

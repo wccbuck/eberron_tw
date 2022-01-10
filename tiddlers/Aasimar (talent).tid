@@ -1,7 +1,7 @@
 category: talent
 created: 20211201202534625
 creator: ziphion
-modified: 20211212055251613
+modified: 20220110040819439
 modifier: ziphion
 tags: aasimar
 title: Aasimar (talent)
@@ -25,7 +25,7 @@ As an [[aasimar]], you gain mystical [[celestial]] benefits depending on the ori
 [[Seeker|Blood of Vol]] [[aasimar]] gain the following benefits.
 
 * You are resistant to necrotic and radiant damage.
-* You can cast [[light]] as well as one [[cantrip or common tier|spell tier]] spell with the [[necromancy]] tag, or from the spell list for [[Life Domain]].
+* You can cast [[light]] as well as one [[common or uncommon tier|spell tier]] spell with the [[necromancy]] tag, or from the spell list for [[Life Domain]].
 * Once per day, you can awaken the power in your blood, causing a nimbus of crimson energy to flow out from you. For up to 1 minute, you shed dim light in a 10-foot radius, and gradually sap the life force of any creatures you choose within 30 feet, continuously dealing necrotic damage. When the transformation ends (either at the end of one minute or when you end it early), you stabilize all allies on the verge of death within 30 feet, as the spell [[spare the dying]].
 
 !!! Undying Court
@@ -33,7 +33,7 @@ As an [[aasimar]], you gain mystical [[celestial]] benefits depending on the ori
 [[Aasimar|aasimar]] of the [[Undying Court]] gain the following benefits.
 
 * You are resistant to necrotic and radiant damage.
-* You can cast [[light]] as well as one [[cantrip or common tier|spell tier]] spell from the spell lists for [[Grave Domain]] or [[Knowledge Domain]].
+* You can cast [[light]] as well as one [[common or uncommon tier|spell tier]] spell from the spell lists for [[Grave Domain]] or [[Knowledge Domain]].
 * You can speak [[Aereni]] (or another [[language]] of your choice if you already know Aereni).
 * Once per day, you can draw on your connection to your ancestors. Misty tendrils flow around you, whispering advice only you can hear. Choose one [[action]] or [[attribute]]. For up to 10 minutes, the score of your chosen action or attribute is no lower than 2. 
 
@@ -46,7 +46,7 @@ As an [[aasimar]], you gain mystical [[celestial]] benefits depending on the ori
 [[Aasimar|aasimar]] who get their power from a connection with the [[plane]] of [[Fernia]] gain the following benefits.
 
 * You are resistant to fire and necrotic damage.
-* You can cast [[produce flame]] as well as one [[cantrip or common tier|spell tier]] spell from the Silver Flame aasimar list or [[Forge Domain]] list.
+* You can cast [[produce flame]] as well as one [[common or uncommon tier|spell tier]] spell from the Silver Flame aasimar list or [[Forge Domain]] list.
 * Once per day, you can unleash the fiery energy within yourself, causing a searing inferno to radiate from you. For up to 1 minute, you shed bright light in a 10-foot radius and dim light for an additional 10-feet, and you and each creature within 10 feet of you continuously suffer fire damage. Also, when you attack enemies with weapons or spells, they suffer additional fire damage.
 
 !!! Irian
@@ -54,7 +54,7 @@ As an [[aasimar]], you gain mystical [[celestial]] benefits depending on the ori
 [[Aasimar|aasimar]] who get their power from a connection with the [[plane]] of [[Irian]] gain the following benefits.
 
 * You are resistant to radiant and necrotic damage.
-* You can cast [[light]] as well as one [[cantrip or common tier|spell tier]] spell from the spell list of [[Light Domain]] or [[Life Domain]].
+* You can cast [[light]] as well as one [[common or uncommon tier|spell tier]] spell from the spell list of [[Light Domain]] or [[Life Domain]].
 * Gain the "once per day" ability from the Silver Flame or Fernia list, replacing all references to fire damage with radiant damage.
 
 !!! Mabar
@@ -62,5 +62,5 @@ As an [[aasimar]], you gain mystical [[celestial]] benefits depending on the ori
 [[Aasimar|aasimar]] who are connected to an [[angel]] that's trapped in [[Mabar]] and slowly being transformed by the plane's dark powers gain the following benefits.
 
 * You are resistant to necrotic and radiant damage.
-* You can cast [[darkness]] or [[arms of Dyrrn]] (renamed to something like "tendrils of darkness"), as well as one [[cantrip or common tier|spell tier]] spell with the [[necromancy]] tag.
+* You can cast [[darkness]] or [[arms of Dyrrn]] (renamed to something like "tendrils of darkness"), as well as one [[common or uncommon tier|spell tier]] spell with the [[necromancy]] tag.
 * Once per day, you can use your action to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you may lose their resolve and try to flee from you. For up to 1 minute, when you attack enemies with weapons or spells, they suffer additional necrotic damage. 

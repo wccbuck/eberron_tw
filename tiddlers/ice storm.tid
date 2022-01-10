@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201228020422423
-modified: 20210727192014246
+modified: 20220110043553257
 tags: evocation
 tier: 3
 title: ice storm
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high cylinder centered on a point within 200 feet. Each creature in the cylinder must dodge or be pummeled by the hailstones. The hail covers the ground in slick ice.
 
-This spell can be upgraded to legendary-tier for an even more destructive effect.
+This spell can be upgraded to epic-[[tier|spell tier]] for an even more destructive effect.

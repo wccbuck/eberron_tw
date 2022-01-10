@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210504055518725
-modified: 20210727192001952
+modified: 20220110043720167
 tags: [[primal magic]] conjuration
 tier: 3
 title: conjure woodland beings
@@ -11,6 +11,6 @@ You summon three to five [[fey]] creatures, or fey spirits that take the forms o
 
 The summoned creatures are friendly to you and your companions for the full duration. They obey any verbal commands that you issue to them, as long as they don't violate their moral code as defined by their story or core concept. If you don't issue any commands to the fey creatures, they defend themselves from hostile creatures but otherwise take no actions.
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may summon between six and ten [[fey]].
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may summon between six and ten [[fey]].

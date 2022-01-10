@@ -2,9 +2,9 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20201210034906467
-modified: 20220106215311242
-rarity: 1
+modified: 20220110034322424
 tags: [[Mark of Detection]] tool [[dragonmark focus item]]
+tier: 1
 title: Medani dowser
 tooltip: common dragonmark focus item, allows Detection mark wielder to locate hidden doors or traps
 type: text/vnd.tiddlywiki

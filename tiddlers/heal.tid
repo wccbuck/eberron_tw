@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210412193503044
-modified: 20210727192013098
+modified: 20220110043720347
 tags: [[primal magic]] [[divine magic]]
 tier: 3
 title: heal
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 Choose a creature that you can see within 60 feet. A surge of positive energy washes through the creature, causing it to rapidly recover from serious injury. This spell also ends blindness, deafness, and any diseases affecting the target. This spell works on [[warforged]] and [[deathless]] but has no effect on other [[construct]]s or [[undead]].
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, a flood of healing energy flows from you into injured creatures around you, divided as you choose among any number of creatures within 60 feet. As a rough guideline, the healing energy is sufficient to restore 60 [[harm]] total.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, a flood of healing energy flows from you into injured creatures around you, divided as you choose among any number of creatures within 60 feet. As a rough guideline, the healing energy is sufficient to restore 60 [[harm]] total.

@@ -1,9 +1,9 @@
 category: object
 color: #41D5E1
 created: 20211231072443265
-modified: 20211231073235325
-rarity: 4
+modified: 20220110044704979
 tags: tool
+tier: 4
 title: null chalk
 type: text/vnd.tiddlywiki
 
@@ -15,4 +15,4 @@ Magical effects can't cross this line. The line's effect extends 20 feet perpend
 
 When an [[immortal]] creature attempts to cross the line, it must overcome the line's magic or else it is shunted backward, suffering a bit of damage.
 
-This effect lasts for 8 hours or until a break of at least one foot is made in the line, which causes it to instantly lose all magical properties. A creature can spend a minute or two to smudge, smear, erase, or otherwise remove the line enough to disable its effects. The line can be targeted by the [[dispel magic]] spell at [[legendary tier|spell tier]], in which case its effects are disabled for 1 minute.
+This effect lasts for 8 hours or until a break of at least one foot is made in the line, which causes it to instantly lose all magical properties. A creature can spend a minute or two to smudge, smear, erase, or otherwise remove the line enough to disable its effects. The line can be targeted by the [[dispel magic]] spell at [[epic tier|spell tier]], in which case its effects are disabled for 1 minute.

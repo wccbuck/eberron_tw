@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201210003640687
-modified: 20210727192018812
+modified: 20220110042218261
 tags: [[divine magic]] evocation
 tier: 1
 title: light
@@ -9,9 +9,9 @@ type: text/vnd.tiddlywiki
 
 The spellcaster touches one object that is no larger than 10 feet in any dimension. For up to an hour, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be any color the spellcaster chooses. Completely covering the object with something opaque blocks the light. The spell ends if cast again or dismissed.
 
-!! Common-Tier
+!! Uncommon-Tier
 
-When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you may do any or all of the following: 
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may do any or all of the following: 
 
 * Limit the radius of bright and dim light shed by the object, down to a minimum of 5 feet. 
 * Change the color and brightness of the light if you can see it and it is within 300 feet of you.

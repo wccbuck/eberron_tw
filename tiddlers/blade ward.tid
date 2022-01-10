@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201210001247282
-modified: 20210727191958133
+modified: 20220110041537951
 tags: abjuration
 tier: 1
 title: blade ward
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 You extend your hand and trace a sigil of warding in the air, speaking a word of power. For the next 10-20 seconds, you or an ally within 30 feet gains magical resistance against physical attacks. You can only have one blade ward effect active at a time.
 
-!! Common-Tier
+!! Uncommon-Tier
 
-When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you can cast and maintain this spell for up to 30 seconds on up to 3 people. In addition, you can cast the spell silently, without speaking the word of power.
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you can cast and maintain this spell for up to 30 seconds on up to 3 people. In addition, you can cast the spell silently, without speaking the word of power.

@@ -11,10 +11,10 @@ d7: 1
 duration: 45 seconds
 effect: Target's head appears as a photo-negative for the next {{!!duration}}.
 l_duration: 5 hours
-modified: 20211116213930872
-rarity: 0
+modified: 20220110034317148
 s_duration: 7 seconds
 tags: drug
+tier: 0
 title: dragon's blood
 type: text/vnd.tiddlywiki
 

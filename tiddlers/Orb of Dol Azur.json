@@ -4,13 +4,13 @@
         "text": "//In the [[first age of the world|Age of Demons]], the three siblings of war challenged the Lord of Death. They rallied their forces, and vowed to meet Death on the battlefield at dawn. When Death came with his army of corpses, the eldest brother, [[Dol Azur|Mockery]], was nowhere to be seen, having broken his vow. The mortal soldiers quaked in fear. But the younger brother, [[Dol Dorn]], filled the soldiers with courage and inspired them with his strength, scattering the forces of the dead. The sister, [[Dol Arrah]], called on the light of the sun, blinding Death until her soldiers could safely retreat. The battle was lost due to the cowardice and treachery of Dol Azur, who used the battle as a distraction to steal a great treasure from the Citadel of the Dead. But a greater victory against the forces of darkness was close at hand.//\n<div align=\"right\">—The Scriptures of the [[Pyrinean Creed]]</div>\n\nSome scholars believe the great parables of the exploits of the [[Sovereigns|Sovereign Host]] during the first age of the world are rooted in true stories of [[draconic|dragon]] champions during the [[Age of Demons]]. For example, [[Ourelonastrix]], the [[dragon]] who discovered [[arcane magic]], may have served as the inspiration for the Sovereign [[Aureon]]. Indeed, the [[Thir]] faith holds that after death, Ourelonastrix literally //became// the entity known to the lower mortals as Aureon.\n\nSimilarly, the above myth of the three Sovereigns of War facing off against Death itself may be based on a true story. Myths of the [[Seren]]s recount the tale of three draconic champions known as Duldonak, Dularanahk, and Dulazurak who faced off against the demonic [[overlord]] known as [[Katashka]] the Gatekeeper. Dulazurak broke his oath to steal a powerful weapon from the citadel of the overlord, refusing to fight an overwhelming enemy directly, but later used the stolen artifact to turn the tides of the war.\n\nArcane manuscripts dating back to before the [[human]] migration to [[Khorvaire]] refer to a mysterious and powerful artifact known as the //Orb of Dol Azur//. Could this item be the \"great treasure from the Citadel of the Dead,\" stolen from [[Katashka]] and wielded by the [[dragon]] Dulazurak during the [[Age of Demons]]?\n\nThe properties and abilities of the Orb of Dol Azur are up to the GM, and it can be used as an end-game \"MacGuffin\" for any mysterious and dangerous artifact of ages past. Perhaps the Orb holds countless spirits of bound mortals and lesser [[fiend]]s trapped over the course of history. Perhaps the Orb is one of the eyes of [[Katashka]] itself, and the proper ritual could shrink it to a size of a [[humanoid]]'s eye, allowing for implantation into one's eye socket. \n\nA GM might also choose to generate [[random artifact properties]] for the Orb of Dol Azur:\n\n<<<\n{{||random artifact properties}}\n<<<",
         "type": "text/vnd.tiddlywiki",
         "title": "Orb of Dol Azur",
-        "modified": "20211116213820754",
         "tags": "tool",
-        "rarity": "5",
+        "modified": "20220110034323321",
+        "var2": "25 34",
+        "var1": "1 3",
         "color": "#41D5E1",
         "category": "object",
         "article": "the ",
-        "var1": "1 3",
-        "var2": "25 34"
+        "tier": "5"
     }
 ]

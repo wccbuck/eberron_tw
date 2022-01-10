@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210421012127649
-modified: 20210727192001931
+modified: 20220110043720135
 tags: [[primal magic]] conjuration
 tier: 3
 title: conjure fey
@@ -14,6 +14,6 @@ The fey creature is friendly to you and your companions for the full duration. I
 If your concentration is broken, the fey creature doesn't disappear. Instead, you lose control of the fey creature, it becomes hostile toward you and your companions, and it might attack. An uncontrolled fey creature can't be dismissed by you, and it disappears 1 hour after you summoned it.
 
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, the [[creature tier]] of the summoned [[fey]] is <<showcreature-lteq "3" 3 fey>>.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, the [[creature tier]] of the summoned [[fey]] is <<showcreature-lteq "3" 3 fey>>.

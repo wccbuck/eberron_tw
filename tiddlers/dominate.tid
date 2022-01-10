@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201216165441737
-modified: 20210727192004976
+modified: 20220110043720249
 tags: enchantment psionics
 tier: 3
 title: dominate
@@ -15,6 +15,6 @@ You can also choose to take total and precise control of the target. Until you e
 
 Each time the target takes damage, it has a chance of shaking off the dominate effect.
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may target a non-humanoid or non-beast creature. Alternatively, you can extend the duration of this spell up to 1 hour.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may target a non-humanoid or non-beast creature. Alternatively, you can extend the duration of this spell up to 1 hour.

@@ -1,14 +1,14 @@
 [
     {
         "created": "20201210020818502",
-        "title": "breastplate of Kamvuul Norek",
         "text": "This [[adamantine]] breastplate of ancient [[Dhakaan]] belonged to\na [[hobgoblin]] hero known as a mighty slayer of [[aberration]]s.\n\nThis breastplate is exceedingly well made, nearly impenetrable, and even provides protection against spells and magical effects. In addition, if the wearer successfully resists the \"mind blast\" ability of a [[mind flayer]] or other aberration, they are unaffected, and the effect is reflected back toward the aberration as if the cone originated from the wearer, including the aberration in its area of effect.",
-        "modified": "20210727191959197",
-        "tags": "Dhakaan armor",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "object",
+        "title": "breastplate of Kamvuul Norek",
+        "tags": "Dhakaan armor",
+        "modified": "20220110034314281",
         "color": "#41D5E1",
-        "rarity": "5"
+        "category": "object",
+        "article": "the ",
+        "tier": "5"
     }
 ]

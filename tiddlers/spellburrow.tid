@@ -1,9 +1,9 @@
 category: object
 color: #41D5E1
 created: 20201224222952973
-modified: 20210727192033720
-rarity: 2
+modified: 20220110044000852
 tags: accessory symbiont
+tier: 2
 title: spellburrow
 type: text/vnd.tiddlywiki
 
@@ -18,4 +18,4 @@ of rarer spellburrows that possess greater knowledge and
 sentience; such stories sometimes end with the spellburrow
 consuming the brain of the [[wizard]] who pushed it too far—but these are surely just fanciful stories!
 
-A spellburrow knows one cantrip and two common-tier [[spell]]s of the GM's choice, and you can cast these spells as if you know them.
+A spellburrow knows one cantrip and two uncommon-[[tier|spell tier]] [[spell]]s of the GM's choice, and you can cast these spells as if you know them.

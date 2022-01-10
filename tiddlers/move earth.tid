@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210420230153046
-modified: 20210727192022374
+modified: 20220110043720437
 tags: transmutation [[primal magic]]
 tier: 3
 title: move earth
@@ -17,6 +17,6 @@ This spell can't manipulate natural stone or stone construction. Rocks and struc
 
 Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you can choose an area of terrain up to 60 feet to a side. This means you can create 30-foot high pillars, or 30-foot trenches.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you can choose an area of terrain up to 60 feet to a side. This means you can create 30-foot high pillars, or 30-foot trenches.

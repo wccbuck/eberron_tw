@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210415195809807
-modified: 20210727192021852
+modified: 20220110043720421
 tags: psionics
 tier: 3
 title: modify memory
@@ -17,6 +17,6 @@ A modified memory doesn't necessarily affect how a creature behaves, particularl
 
 A [[remove curse]] or [[greater restoration|restoration]] spell cast on the target restores the creature's true memory.
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you can alter the target's memories of an event that took place up to 30 days ago.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you can alter the target's memories of an event that took place up to 30 days ago.

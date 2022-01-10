@@ -1,5 +1,5 @@
 created: 20210108195510721
-modified: 20210727191953027
+modified: 20220110035256343
 tags: 
 title: $:/ui/EditorToolbar/tier-dropdown
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ $value="$(snippetTitle)$"/>
 </$button>
 \end
 
-<$list filter="[range[6]]" variable="snippetTitle">
+<$list filter="[range[0:5]]" variable="snippetTitle">
 
 <<toolbar-button-tier-inner>>
 

@@ -526,7 +526,7 @@
 951: Caster flickers like a guttering candle for {{!!2d4}} seconds.
 953: Caster flies into a murderous rage and attacks their nearest ally for the next {{!!d4}}0 seconds.
 954: Caster forgets any fire that they lights
-955: Caster forgets any common-[[tier|spell tier]] spell they now have memorized. Their amnesia fades after {{!!duration}}.
+955: Caster forgets any uncommon-[[tier|spell tier]] spell they now have memorized. Their amnesia fades after {{!!duration}}.
 956: Caster forgets everyone's name for {{!!duration}}.
 961: Caster forgets how to walk for {{!!d10}} hours.
 967: Caster gains no benefit from wearing gloves or gauntlets for the next {{!!2d4}} days.

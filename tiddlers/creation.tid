@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210110063754099
-modified: 20211226221208212
+modified: 20220110043720218
 tags: conjuration illusion
 tier: 3
 title: creation
@@ -28,6 +28,6 @@ shortest duration.
 Using any material created by this spell as another
 spell's material component causes that spell to fail.
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may make objects up to a 15-foot cube in size.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may make objects up to a 15-foot cube in size.

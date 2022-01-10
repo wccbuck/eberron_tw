@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210425045942309
-modified: 20211228174355067
+modified: 20220110043720403
 tags: [[divine magic]] abjuration
 tier: 3
 title: magic circle
@@ -18,6 +18,6 @@ Choose one or more of the following types of creatures: [[celestial]]s, [[elemen
 * Targets within the cylinder can't be charmed, frightened, or possessed by the creature.
 * When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, the duration increases to 8 hours.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, the duration increases to 8 hours.

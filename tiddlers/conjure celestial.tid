@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210501020719606
-modified: 20210727192001911
+modified: 20220110040415175
 tags: conjuration [[divine magic]]
 tier: 4
 title: conjure celestial
@@ -11,6 +11,6 @@ After a one-minute ritual, you summon a [[celestial]] of <<showcreature-lteq "cr
 
 The [[celestial]] is friendly to you and your companions for the duration of the spell. It obeys any verbal commands that you issue to it, as long as they don't violate its ethics. If you don't issue any commands to the celestial, it defends itself from hostile creatures but otherwise takes no actions.
 
-!! Mythical-Tier
+!! Legendary-Tier
 
-When you cast //{{!!title}}// as a mythical-[[tier|spell tier]] spell, you may summon a [[celestial]] of <<showcreature-lteq "creature tier 4 or lower" 4 celestial>>, such as a [[planetar]].
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may summon a [[celestial]] of <<showcreature-lteq "creature tier 4 or lower" 4 celestial>>, such as a [[planetar]].

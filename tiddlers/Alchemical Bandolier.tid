@@ -1,7 +1,7 @@
 category: talent
 created: 20210726021011258
 list: [[bramble seeds]] [[candle of the deep]] [[inferno oil]] [[noxious smokestick]] smokestick [[perfume of bewitching]] [[sculpting putty]] [[seedling stones]] [[sleep-tight bathing salts]] tindertwig sunrod [[fire blind]] [[feather token]] [[chameleon candy]] tethercord [[whisper powder]] [[vial of confidential ink]]
-modified: 20211129224529615
+modified: 20220110034842388
 tags: artificer
 title: Alchemical Bandolier
 type: text/vnd.tiddlywiki
@@ -13,7 +13,7 @@ You are always prepared for any situation in which an [[alchemical|alchemist]] i
 
 <table class="manager-table">
 	<tr><th align="left" class="th-sticky">Item</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
-	<$list filter="[list[]] [tag[poison]rarity[1]] [tag[potion]rarity[1]] [tag[alchemical explosive]rarity[1]] +[sort[title]sort[tier]]">
+	<$list filter="[list[]] [tag[poison]tier[1]] [tag[potion]tier[1]] [tag[alchemical explosive]tier[1]] +[sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>
 			<$list filter="[is[current]tags[]sort[]butlast[]]">

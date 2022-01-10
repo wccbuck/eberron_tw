@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210505044114306
-modified: 20210727192025106
+modified: 20220110043720454
 tags: abjuration
 tier: 3
 title: planar binding
@@ -11,6 +11,6 @@ This spell requires a one-hour ritual which consumes material components worth a
 
 A bound creature must follow your instructions to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. The creature obeys the letter of your instructions, but if the creature is hostile to you, it strives to twist your words to achieve its own objectives. If the creature carries out your instructions completely before the spell ends, it travels to you to report this fact if you are on the same [[plane]] of existence. If you are on a different plane of existence, it returns to the place where you bound it and remains there until the spell ends.
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, the duration of the spell increases to 30 days.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, the duration of the spell increases to 30 days.

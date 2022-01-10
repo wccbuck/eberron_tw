@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20201210051114623
-modified: 20210727192011734
+modified: 20220110043353705
 tags: abjuration
 tier: 3
 title: guards and wards
 type: text/vnd.tiddlywiki
 
-If this spell is cast by someone without the [[Mark of Warding]], increase the tier to "legendary".
+If this spell is cast by someone without the [[Mark of Warding]], increase the [[spell tier]] to "epic", but the spell effect is the same.
 
 You create a ward that protects up to 2,500 square feet of floor space for 24 hours. The warded area can be up to 20 feet tall, and shaped as you desire. You can ward several stories of a stronghold by dividing the area among them, as long as you can walk into each contiguous area while you are casting the spell.
 

@@ -1,7 +1,7 @@
 category: character sheet
 created: 20210802012325047
 mode: view
-modified: 20220105080447315
+modified: 20220110040333864
 title: character sheet template
 type: text/vnd.tiddlywiki
 
@@ -145,13 +145,13 @@ type: text/vnd.tiddlywiki
 			<p class="cs-heading">[[Spells|spell]]</p>
         </div>
 		<div class="cs-row">
-   			''Cantrip''
+   			''Common''
         </div>
 		<div class="cs-row" style="align-items: flex-start;">
 			<<cs-spell-list 1>>
 		</div>
         <div class="cs-row">
-   			''Common''
+   			''Uncommon''
         </div>
 		<div class="cs-row" style="align-items: flex-start;">
 			<<cs-spell-list 2>>
@@ -163,13 +163,13 @@ type: text/vnd.tiddlywiki
 			<<cs-spell-list 3>>
 		</div>
         <div class="cs-row">
-   			''Legendary''
+   			''Epic''
         </div>
 		<div class="cs-row" style="align-items: flex-start;">
 			<<cs-spell-list 4>>
 		</div>
         <div class="cs-row">
-   			''Mythical''
+   			''Legendary''
         </div>
 		<div class="cs-row" style="align-items: flex-start;">
 			<<cs-spell-list 5>>

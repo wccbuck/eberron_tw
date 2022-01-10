@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210410004857760
-modified: 20210727192037127
+modified: 20220110042218395
 tags: [[divine magic]]
 tier: 1
 title: thaumaturgy
@@ -18,9 +18,9 @@ You manifest a minor wonder, a sign of supernatural power, within 30 feet. You c
 
 You can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
-!! Common-Tier
+!! Uncommon-Tier
 
-When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you may have up to five of its 1-minute effects active at a time, and may do any of the following:
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may have up to five of its 1-minute effects active at a time, and may do any of the following:
 
 * Change your voice to sound more angelic or more demonic for 1 minute. 
 * Amplify your voice up to four times as loud as normal for 1 minute.

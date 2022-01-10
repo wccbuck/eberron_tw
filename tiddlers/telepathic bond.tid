@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210428002946564
-modified: 20210801004318803
+modified: 20220110042525249
 tags: divination psionics
 tier: 3
 title: telepathic bond
@@ -15,6 +15,6 @@ Some [[eldritch machine]]s allow permanent telepathic bonds to be formed between
 
 A wielder of the [[Mark of Scribing]] who can cast this spell can form a telepathic bond to a [[magic mouth]] they have created.
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you can create a telepathic link to a single creature located anywhere on the same [[plane]] of existence as you. For 24 hours, you and the target can instantaneously share words, images, sounds, and other sensory messages with one another through the link, and the target recognizes you as the creature it is communicating with.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you can create a telepathic link to a single creature located anywhere on the same [[plane]] of existence as you. For 24 hours, you and the target can instantaneously share words, images, sounds, and other sensory messages with one another through the link, and the target recognizes you as the creature it is communicating with.

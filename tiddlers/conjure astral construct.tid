@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20211130031347636
-modified: 20220102200059448
+modified: 20220110043720102
 tags: psionics
 tier: 3
 title: conjure astral construct
@@ -19,9 +19,9 @@ An astral construct generally appears as an animate clump of translucent ectopla
 * The construct can cast the spells [[lightning lure]] and [[shocking grasp]].
 * The construct has [[blindsight]] out to 20 feet.
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may do any of the following:
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may do any of the following:
 
 * As above, but the astral construct can be as large as a horse or an [[ogre]], and you can increase the [[creature tier]] by 1.
 * Conjure three astral constructs as above.
@@ -29,7 +29,7 @@ When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may 
 ** The astral construct's land speed increases from roughly 15 mph to 50 mph.
 ** The construct has wings and can physically fly up to 30 mph.
 ** The construct is streamlined and shark-like, and can swim up to 40 mph.
-** The construct can cast two [[common-tier|spell tier]] spells for free. The chosen spells are subject to GM approval.
+** The construct can cast two [[uncommon-tier|spell tier]] spells for free. The chosen spells are subject to GM approval.
 ** The construct can turn invisible at will.
 ** The construct has [[blindsight]] out to 60 feet.
 ** Two properties from the rare-tier list.

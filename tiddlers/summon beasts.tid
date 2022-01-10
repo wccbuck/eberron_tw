@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210425035139640
-modified: 20210727192035168
+modified: 20220110043720521
 tags: [[primal magic]]
 tier: 3
 title: summon beasts
@@ -13,6 +13,6 @@ The GM chooses the beasts, and you choose the unoccupied spaces you can see with
 
 For up to 1 hour (or until your concentration breaks), the summoned creatures are friendly to you and your companions. They obey any verbal commands that you issue to them. If you don't issue any commands to them, they act according to their nature. If a majority of the beasts are incapacitated, the rest may flee.
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may summon between six and ten beasts.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may summon between six and ten beasts.

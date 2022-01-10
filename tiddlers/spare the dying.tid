@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201210005150634
-modified: 20210727192033414
+modified: 20220110042218377
 tags: [[divine magic]]
 tier: 1
 title: spare the dying
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 The spellcaster touches a living creature on the verge of death. That creature is stabilized. If that creature suffers no damage in the next hour, they regain consciousness.
 
-!! Common-Tier
+!! Uncommon-Tier
 
-When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you may apply its effects to all dying targets within a 15-foot radius.
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may apply its effects to all dying targets within a 15-foot radius.

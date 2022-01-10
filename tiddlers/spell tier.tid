@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210105213051245
-modified: 20211128043454069
+modified: 20220110035742712
 spellname: [[spell]]
 tags: Storyloom
 title: spell tier
@@ -8,19 +8,19 @@ type: text/vnd.tiddlywiki
 
 A {{!!spellname}}'s tier is a general indicator of how powerful and rare it is.
 
-# ''Cantrip.'' A cantrip is a quick and simple spell that can be performed without a significant expenditure of energy. Ex: [[prestidigitation]], [[fire bolt]], [[mage hand]], [[light]].
-# ''Common Spell.'' These spells require more effort or time to cast than cantrips. The people of Khorvaire are used to dealing with tools and services that mimic cantrips or common spells. Ex: [[knock]], [[alarm]], [[burning hands]], [[floating disk]], [[zone of truth]]. Common spells require the expenditure of 1 "spellcasting [[stress]]" to cast, and require filling a [[progress clock]] of size 2.
-# ''Rare Spell.'' These spells are exceptionally potent, but aren't part of everyday life, and the typical commoner doesn't expect to run into them. Ex: [[fireball]], [[sending]], [[conjure elemental]], [[raise dead]], [[cloudkill]]. Rare spells require the caster to expend 2 stress, and require filling a [[progress clock]] of size 2.
-# ''Legendary Spell''. These are magical incantations of mythical proportions, usually the product of more advanced civilizations—the [[dragon]]s of [[Argonnessen]], the [[elves|elf]] of [[Aerenal]], the ancient [[giant]]s of [[Xen'drik]]. Ex: [[resurrection]], [[plane shift]], [[simulacrum]], [[antimagic field]]. Legendary spells cost 2 stress to cast, require filling a [[progress clock]] of size 4, and usually can only be cast once or twice per day.
-# ''Mythical Spell.'' Spells of never-before-seen power over the fabric of reality. Ex: [[wish]], [[true resurrection]], [[imprisonment]]. Mythical spells cost 3 stress to cast, require filling a [[progress clock]] of size 4, and usually can only be cast once or twice per week.
+# ''Common.'' A common-tier spell, also known as a ''cantrip'', is a quick and simple spell that can be performed without a significant expenditure of energy. Ex: [[prestidigitation]], [[fire bolt]], [[mage hand]], [[light]].
+# ''Uncommon.'' These spells require more effort or time to cast than cantrips. The people of [[Khorvaire]] are used to dealing with tools and services that mimic cantrips or uncommon spells. Ex: [[knock]], [[alarm]], [[burning hands]], [[floating disk]], [[zone of truth]]. Uncommon spells require the expenditure of 1 "spellcasting [[stress]]" to cast, and require filling a [[progress clock]] of size 2.
+# ''Rare.'' These spells are exceptionally potent, but aren't part of everyday life, and the typical commoner doesn't expect to run into them. Ex: [[fireball]], [[sending]], [[conjure elemental]], [[raise dead]], [[cloudkill]]. Rare spells require the caster to expend 2 stress, and require filling a [[progress clock]] of size 2.
+# ''Epic.'' These are magical incantations of mythical proportions, usually the product of more advanced civilizations—the [[dragon]]s of [[Argonnessen]], the [[elves|elf]] of [[Aerenal]], the ancient [[giant]]s of [[Xen'drik]]. Ex: [[resurrection]], [[plane shift]], [[simulacrum]], [[antimagic field]]. Epic spells cost 2 stress to cast, require filling a [[progress clock]] of size 4, and usually can only be cast once or twice per day.
+# ''Legendary.'' Spells of never-before-seen power over the fabric of reality. Ex: [[wish]], [[true resurrection]], [[imprisonment]]. Legendary spells cost 3 stress to cast, require filling a [[progress clock]] of size 4, and usually can only be cast once or twice per week.
 
-The "spellcasting stress" to cast a spell triggers for //each attempt to fill the casting [[progress clock]]//. So two attempts to fill a legendary spell progress clock will cost 4 stress total. Also, all of the "spellcasting stress" requirements above are //in addition to// any [[consequence]]s suffered from attempting to cast the spell. So a cantrip still might end up costing 1 stress on a [[partial success]].
+The "spellcasting stress" to cast a spell triggers for //each attempt to fill the casting [[progress clock]]//. So two attempts to fill an epic spell progress clock will cost 4 stress total. Also, all of the "spellcasting stress" requirements above are //in addition to// any [[consequence]]s suffered from attempting to cast the spell. So a cantrip still might end up costing 1 stress on a [[partial success]].
 
 If situational factors grant the spellcaster added [[impact]] for their spellcasting, they can choose to either use it to fill their spellcasting [[progress clock]], or to add to the impact of their spell effect (or split between the two).
 
-These tiers roughly correspond to D&D 5e's spell levels: Common = 1st and 2nd level; Rare = 3-5th level (some 6th); Legendary = 6-8th level; Mythical = 9th level. 
+These tiers roughly correspond to D&D 5e's spell levels: Uncommon = 1st and 2nd level; Rare = 3-5th level (some 6th); Epic = 6-8th level; Legendary = 9th level. 
 
-Player characters who are able to cast spells (usually by taking the [[Spellcaster]] [[talent]]) generally start with only the capability to cast cantrips and common-tier spells. With increasing skill, they can learn how to cast rare, legendary, and perhaps even mythical-tier spells. They may also obtain extra [[stress]] boxes that can only be used for spellcasting.
+Player characters who are able to cast spells (usually by taking the [[Spellcaster]] [[talent]]) generally start with only the capability to cast common- and uncommon-tier spells. With increasing skill, they can learn how to cast rare, epic, and perhaps even legendary-tier spells. They may also obtain extra [[stress]] boxes that can only be used for spellcasting.
 
 Some spell descriptions indicate how that spell can be cast at a higher tier. This is only permitted if your character has a [[talent]] (e.g. [[Spellcaster]] or [[Arcane Tradition]]), or some other boon that allows them to do so. Most spells can also be "upgraded" in this way, even if they don't have explicit instructions on what the upgraded spell looks like; when it doubt, just increase [[impact]].
 

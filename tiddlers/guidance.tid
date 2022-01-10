@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210411204406675
-modified: 20210727192011744
+modified: 20220110042218178
 tags: [[divine magic]] [[primal magic]]
 tier: 1
 title: guidance
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 You touch one willing creature. Once before the spell ends (up to one minute later), the target gains an [[advantage]] on the next action of its choice. The spell then ends.
 
-!! Common-Tier
+!! Uncommon-Tier
 
-When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you may target two additional creatures.
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may target two additional creatures.

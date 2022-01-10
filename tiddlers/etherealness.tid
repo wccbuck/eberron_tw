@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210412010703786
-modified: 20220102201606911
+modified: 20220110040353258
 tags: conjuration
 tier: 4
 title: etherealness
@@ -17,6 +17,6 @@ When the spell ends, you immediately return to the plane you originated from in 
 
 This spell has no effect if you cast it while you are in the Border Ethereal or under an effect that inhibits planar travel.
 
-!! Mythical-Tier
+!! Legendary-Tier
 
-When you cast //{{!!title}}// as a mythical-[[tier|spell tier]] spell, you can target up to six willing creatures (including you). The creatures must be within 10 feet of you when you cast the spell.
+When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you can target up to six willing creatures (including you). The creatures must be within 10 feet of you when you cast the spell.

@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210412032728658
-modified: 20210727192005960
+modified: 20220110042217655
 tags: [[primal magic]]
 tier: 1
 title: druidcraft
@@ -14,9 +14,9 @@ Whispering to the spirits of nature, you create one of the following effects wit
 * You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
 * You instantly light or snuff out a candle, a torch, or a small campfire.
 
-!! Common-Tier
+!! Uncommon-Tier
 
-When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you can create one of the following effects:
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you can create one of the following effects:
 
 * A barrier against weather extends out from you in a 10-foot radius and moves with you, remaining centered on you and shielding the area from nonmagical snow, rain and wind. It also has a mild equalizing effect on temperature and humidity. The barrier lasts for 1 hour.
 * You dim the flame of a candle, a torch, or a small campfire.

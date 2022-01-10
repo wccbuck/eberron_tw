@@ -1,7 +1,7 @@
 caption: Items
 created: 20201208004157407
 limit50: [limit[50]]
-modified: 20211125061704693
+modified: 20220110034804796
 tags: 
 title: Find Items
 type: text/vnd.tiddlywiki
@@ -18,7 +18,7 @@ See also the [[magic item]] and [[trinket]] pages.
 		</div>
 		<div class="tc-manager-control">
 			[[Rarity|rarity]]:&nbsp;
-                <$vars tid="$:/config/Manager/Rarity", fld="rarity", list="range[0,5]">
+                <$vars tid="$:/config/Manager/Rarity", fld="tier", list="range[0,5]">
 			    <$select tiddler=<<tid>> field="comparison" actions=<<comp-actions>>>
 				<option>≤</option>
 				<option>=</option>
@@ -30,12 +30,12 @@ See also the [[magic item]] and [[trinket]] pages.
 				</$list>
 			</$select>
 			</$vars>
-            &nbsp;&nbsp;<$checkbox tiddler="$:/config/Manager/Rarity0" field="text" unchecked="[!rarity[0]]" checked="[is[tiddler]]">&nbsp;Include "—"</$checkbox>
+            &nbsp;&nbsp;<$checkbox tiddler="$:/config/Manager/Rarity0" field="text" unchecked="[!tier[0]]" checked="[is[tiddler]]">&nbsp;Include "—"</$checkbox>
 		</div>
 		<div class="tc-manager-control">
 			<<lingo Controls/FilterByTag/Prompt>> <$select tiddler="$:/config/Manager/ObjectTag" default="">
 				<option value="">---</option>
-				<$list filter="[category[object]has[rarity]tags[]sort[title]]" variable="tag">
+				<$list filter="[category[object]has[tier]tags[]sort[title]]" variable="tag">
 					<option value=<<tag>>><$text text=<<tag>>/></option>
 				</$list>
 			</$select>
@@ -43,14 +43,14 @@ See also the [[magic item]] and [[trinket]] pages.
 		<div class="tc-manager-control">
 			Exclude tag: <$select tiddler="$:/config/Manager/ExcludeObjectTag" default="">
 				<option value="">---</option>
-				<$list filter="[category[object]has[rarity]tags[]sort[title]]" variable="tag">
+				<$list filter="[category[object]has[tier]tags[]sort[title]]" variable="tag">
 					<option value=<<tag>>><$text text=<<tag>>/></option>
 				</$list>
 			</$select>
 		</div>
 		<div class="tc-manager-control">
 			<<lingo Controls/Sort/Prompt>> <$select tiddler="$:/config/Manager/ObjectSort" default="title">
-				<$list filter="title rarity relevance" variable="field">
+				<$list filter="title tier relevance" variable="field">
 					<option value=<<field>>><$text text=<<field>>/></option>
 				</$list>
 			</$select>
@@ -78,7 +78,7 @@ See also the [[magic item]] and [[trinket]] pages.
 		<$list filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/ObjectTag}!tag{$:/config/Manager/ExcludeObjectTag}subfilter{$:/config/Manager/Rarity}subfilter{$:/config/Manager/Rarity0}category[object]sort[title]order{$:/config/Manager/ObjectSortOrder}sort{$:/config/Manager/ObjectSort}order{$:/config/Manager/ObjectSortOrder}subfilter{$:/config/Manager/LimitObject!!limit50}]">
 		<tr><td><$link/></td>
 		<td>
-			<$transclude tiddler="$:/RarityNames" index={{!!rarity}}/>
+			<$transclude tiddler="$:/RarityNames" index={{!!tier}}/>
 		</td>
 		<td>
 			<$list filter="[is[current]tags[]sort[]butlast[]]">

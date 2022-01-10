@@ -1,14 +1,14 @@
 [
     {
         "created": "20210721231603816",
-        "title": "Orb of Kevrik the Crusader",
         "text": "This 6-inch sphere of purest crystal was forged for a hero of the [[Age of Demons]] who fought beside the [[dragon]]s and [[couatl]] against the [[overlord]]s. The sphere is encased in a filigree cage of polished [[mithral]] laurel leaves. A worthy wielder can cast [[turn undead]] for free at will. The orb can also be used to [[scry|scrying]] as a [[crystal ball]], with the added ability to [[detect thoughts]]. The orb also grants the wielder the ability to cast the spell [[heal]].\n\nThe wielder of the orb becomes increasingly\nunable to refuse pleas for help, no matter how desperate the cause. The last wielder of the Orb of Kevrik, who fancied herself a spiritual descendant of Kevrik himself, disappeared hundreds of years ago in the [[Demon Wastes]].",
-        "modified": "20210727192023928",
-        "tags": "tool",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
-        "category": "object",
+        "title": "Orb of Kevrik the Crusader",
+        "tags": "tool",
+        "modified": "20220110034323357",
         "color": "#41D5E1",
-        "rarity": "5"
+        "category": "object",
+        "article": "the ",
+        "tier": "5"
     }
 ]

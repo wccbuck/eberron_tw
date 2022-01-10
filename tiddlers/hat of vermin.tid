@@ -2,9 +2,9 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20201227010902125
-modified: 20220106215311195
-rarity: 1
+modified: 20220110034320269
 tags: accessory
+tier: 1
 title: hat of vermin
 tooltip: pull a vermin from the hat 3x per day
 type: text/vnd.tiddlywiki

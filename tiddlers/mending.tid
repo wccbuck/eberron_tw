@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20200428222434313
-modified: 20210727192021133
+modified: 20220110042218313
 tags: transmutation
 tier: 1
 title: mending
@@ -11,9 +11,9 @@ This spell, which takes about 1 minute to cast, repairs a single break or tear i
 
 This spell can physically repair a [[magic item]] or [[construct]], but the spell can't restore magic to such an object.
 
-!! Common-Tier
+!! Uncommon-Tier
 
-When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you may do any ''two'' of the following:
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may do any ''two'' of the following:
 
 * Reduce the casting time to 10 seconds.
 * Repair a single break or tear that is no larger than 10 feet in any dimension.

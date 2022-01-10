@@ -1,11 +1,11 @@
 category: talent
 created: 20210726032657686
-modified: 20211128070032747
+modified: 20220110042600907
 tags: artificer
 title: Spell-Storing Item
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-Using magical [[artifice|artificer]], you know how to store a [[spell]] in an object. Once per day, you can touch one mundane item and store a [[common-tier|spell tier]] spell that you know within it. While holding the object, a creature can choose to produce the spell's effect from it up to three times, or until you use this talent again.
+Using magical [[artifice|artificer]], you know how to store a [[spell]] in an object. Once per day, you can touch one mundane item and store an [[uncommon-tier|spell tier]] spell that you know within it. While holding the object, a creature can choose to produce the spell's effect from it up to three times, or until you use this talent again.
 
 !!! <<showspells "Find Spells">>

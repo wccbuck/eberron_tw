@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201210054030874
-modified: 20210727192004702
+modified: 20220110040029188
 tags: [[primal magic]] [[divine magic]] abjuration
 tier: 3
 title: dispel magic
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 Choose one creature, object, or magical effect within 120 feet. Any [[spell]] of "rare" [[tier|spell tier]] or lower on the target ends. 
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may dispel other legendary-tier spells.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may dispel other epic-tier spells.

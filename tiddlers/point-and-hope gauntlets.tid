@@ -12,11 +12,11 @@ d7: 3
 duration: 1 minute
 effect: Any part of target not covered by clothing appears to be skeletal for the next {{!!duration}}.
 l_duration: 5 days
-modified: 20220106215311327
-rarity: 3
+modified: 20220110034324042
 s_duration: 12 seconds
 spell: meld into stone
 tags: accessory
+tier: 3
 title: point-and-hope gauntlets
 type: text/vnd.tiddlywiki
 

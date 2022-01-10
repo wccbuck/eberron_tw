@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210503031641472
-modified: 20210727192020042
+modified: 20220110042218281
 tags: psionics transmutation [[primal magic]]
 tier: 1
 title: magic stone
@@ -13,6 +13,6 @@ Other than stones, you can cast this spell on any nonmagical items that fit in y
 
 If you cast this spell again, the spell ends on any objects still affected by your previous casting.
 
-!! Common-Tier
+!! Uncommon-Tier
 
-When you cast //{{!!title}}// as a common-[[tier|spell tier]] spell, you may cast this spell on up to 10 objects, and make them harmlessly float a few inches away from you in a circle. You can quickly draw a floating object to your hand when you are ready to cast it.
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may cast this spell on up to 10 objects, and make them harmlessly float a few inches away from you in a circle. You can quickly draw a floating object to your hand when you are ready to cast it.

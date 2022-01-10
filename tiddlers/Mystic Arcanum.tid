@@ -1,12 +1,12 @@
 category: talent
 created: 20211130072457547
-modified: 20211130072747304
+modified: 20220110044551249
 tags: warlock
 title: Mystic Arcanum
 type: text/vnd.tiddlywiki
 xpcost: 3
 
-Your [[warlock]] patron bestows upon you a magical secret called an arcanum. Choose one [[legendary-tier|spell tier]] spell as this arcanum.
+Your [[warlock]] patron bestows upon you a magical secret called an arcanum. Choose one [[epic-tier|spell tier]] spell as this arcanum.
 
 You can cast your arcanum spell once without
 expending any [[stress]] or completing a [[progress clock]]. You must rest for at least six hours before you can do so again.

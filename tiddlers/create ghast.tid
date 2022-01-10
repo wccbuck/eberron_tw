@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210412070846406
-modified: 20210727192002423
+modified: 20220110043720200
 tags: necromancy
 tier: 3
 title: create ghast
@@ -13,6 +13,6 @@ You can mentally command any creature you made with this spell if the creature i
 
 The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
 
-!! Legendary-Tier
+!! Epic-Tier
 
-When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, you may animate or reassert control over three ghasts, or one [[shadowghast]]. 
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may animate or reassert control over three ghasts, or one [[shadowghast]]. 

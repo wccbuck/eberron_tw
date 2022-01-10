@@ -1,9 +1,9 @@
 category: object
 color: #41D5E1
 created: 20210314053435493
-modified: 20210727192029767
-rarity: 0
+modified: 20220110044451215
 tags: tool
+tier: 0
 title: schema
 type: text/vnd.tiddlywiki
 
@@ -11,4 +11,4 @@ Schemas are form of recorded runic magic. Dating back to the [[Age of Giants]], 
 
 In most cases, an individual schema represents a specific magical building block. These blocks can be combined into magical patterns, storing power ranging from simple [[cantrips|spell tier]] to world-shaking destruction.
 
-A minor schema holding a single [[spell]] is usually a flat strip of some durable material (commonly metal or wood) approximately two inches wide and a foot or more long, with carved or etched runes covering its face. Schemas that store [[low-tier|spell tier]] spells might appear fairly simple, whereas a schema recording a legendary-tier spell might have hundreds of components incorporated within its mystical diagram.
+A minor schema holding a single [[spell]] is usually a flat strip of some durable material (commonly metal or wood) approximately two inches wide and a foot or more long, with carved or etched runes covering its face. Schemas that store [[low-tier|spell tier]] spells might appear fairly simple, whereas a schema recording an epic-tier spell might have hundreds of components incorporated within its mystical diagram.
