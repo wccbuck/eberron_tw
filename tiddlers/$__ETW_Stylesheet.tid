@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20220105082329971
+modified: 20220110193203122
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -83,7 +83,7 @@ div.sidebar-map a.tc-tiddlylink {
 
 .blacklink:hover { text-decoration: underline; }
 
-.subtitlelink { text-decoration: none; font-weight: 600; color: <<colour tiddler-subtitle-foreground>>; -webkit-user-select: inherit;  }
+.subtitlelink { text-decoration: none; font-weight: 500; color: <<colour tiddler-subtitle-foreground>>; -webkit-user-select: inherit;  }
 
 .subtitlelink:hover { text-decoration: underline; }
 

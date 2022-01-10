@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210406042047586
-modified: 20220110034328235
+modified: 20220110192431105
 tags: [[magical implement]] weapon
 tier: 3
 title: staff of the sorcery stealer
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 This long mahogany staff has little golden bells dangling from the grip. Dozens of fingerprints have been burned into the surface of the wood.
 
-Whenever this staff is used to strike someone who wields [[arcane magic]], the staff has a chance of absorbing a random spell (common-[[tier|spell tier]] or lower) that person is able to cast. The wielder of the staff can choose to cast that spell immediately, but the spell can be stored in the staff for an hour before the magic fades.
+Whenever this staff is used to strike someone who wields [[arcane magic]], the staff has a chance of absorbing a random spell (uncommon-[[tier|spell tier]] or lower) that person is able to cast. The wielder of the staff can choose to cast that spell immediately, but the spell can be stored in the staff for an hour before the magic fades.

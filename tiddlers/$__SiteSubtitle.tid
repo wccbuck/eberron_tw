@@ -1,6 +1,6 @@
 created: 20200410005529407
-modified: 20211227213124475
+modified: 20220110193127935
 title: $:/SiteSubtitle
 type: text/vnd.tiddlywiki
 
-<$link overrideClass="subtitlelink" to="Storyloom">Storyloom</$link> Edition, v.<$transclude tiddler="Changelog" field="currentversion"/>
+<$link overrideClass="subtitlelink" to="Storyloom">Storyloom</$link> Edition, <$link overrideClass="subtitlelink" to="Changelog">v.<$transclude tiddler="Changelog" field="currentversion"/></$link>

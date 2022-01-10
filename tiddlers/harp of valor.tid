@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211228190414380
-modified: 20220110034320091
+modified: 20220110190049322
 tags: [[magical implement]] weapon
 tier: 4
 title: harp of valor
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 This elegant bow has 10 strings and can be played as a harp, and can serve as a [[magical implement]] for a [[bard]]. Gain +2 [[impact]] whenever making a musical performance with this instrument. 
 
-While holding this bow, you can cast the [[heroism]], [[thunderwave]] and [[magic missile]] spells using your own power, at common or rare [[tier|spell tier]].
+While holding this bow, you can cast the [[heroism]], [[thunderwave]] and [[magic missile]] spells using your own power, at uncommon or rare [[tier|spell tier]].

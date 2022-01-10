@@ -1,7 +1,8 @@
 category: object
+charges: 4
 color: #41D5E1
 created: 20201210025900683
-modified: 20220110034317255
+modified: 20220110190920282
 tags: accessory [[dragonmark focus item]]
 tier: 2
 title: dragonmark reservoir
@@ -15,6 +16,8 @@ reservoir is tied to a specific [[dragonmark]], such as
 the [[Mark of Healing]] or the [[Mark of Making]], and you can only
 attune to it if you possess that dragonmark.
 
-While wearing a dragonmark reservoir, you can use its power rather than your own to perform one of your dragonmark abilities (equivalent to a "common" tier spell). After using the reservoir 5-10 times in this way, its power is depleted and must recharge overnight.
+This item has 4 charges, and regains <<dr 1d4>> expended charges daily at dawn. While wearing a dragonmark reservoir, you can use its power rather than your own to perform one of your dragonmark abilities. Whenever you cast one of the spells your [[dragonmark]] grants you, you can expend 1 charge of your dragonmark reservoir in place of spellcasting [[stress]].
 
 See also [[dragonmark channel]].
+
+<<itemcharges 4>>

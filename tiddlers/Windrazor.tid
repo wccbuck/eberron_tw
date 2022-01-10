@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220105073430161
-modified: 20220110034331237
+modified: 20220110190150174
 tags: weapon
 tier: 5
 title: Windrazor
@@ -11,4 +11,4 @@ This magic longsword can manipulate the air around it to generate blades of wind
 
 Gain an [[advantage]] to defend against incoming projectile weapons if you use this sword to attempt to slice the projectiles out of the air.
 
-In addition, while holding this blade, you can cast the following spells: [[heroism]] (common or rare [[tier|spell tier]]), [[wind wall]], or [[whirlwind]].
+In addition, while holding this blade, you can cast the following spells: [[heroism]] (uncommon or rare [[tier|spell tier]]), [[wind wall]], or [[whirlwind]].
