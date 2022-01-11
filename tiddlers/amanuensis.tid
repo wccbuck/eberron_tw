@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20220111100239055
+modified: 20220111101644887
+tags: transmutation
+tier: 1
+title: amanuensis
+type: text/vnd.tiddlywiki
+
+You point at an object with writing (such as a book) within 10 feet of you, and then move your hand as though holding a stylus or quill. As you intone the spell, the script appears on a sheet of parchment close at hand.
+
+This spell copies 250 words per minute and creates a perfect duplicate of the original. If the target has multiple pages, the spell automatically turns to the next blank page whenever necessary. The spell copies only nonmagical text, not illustrations or magical writings (such as the text of a spellbook or a [[spell scroll]]). If the target contains normal and magical writing (such as a letter with explosive runes), only the normal text is copied, leaving blank space in the copied text where the magical writing would be expected. Likewise, if the target contains text and illustration, only the text is copied.

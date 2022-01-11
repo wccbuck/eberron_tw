@@ -1,7 +1,7 @@
 category: talent
 created: 20210731220727273
 list: [[cure wounds]] [[healing word]] [[gentle repose]] restoration [[prayer of healing]] [[aura of vitality]] [[aura of purity]] [[aura of life]] heal regeneration [[life transference]] [[spare the dying]] [[raise dead]] resurrection
-modified: 20220110040620249
+modified: 20220111073055884
 tags: [[Mark of Healing]] halfling
 title: Mark of Healing (talent)
 type: text/vnd.tiddlywiki
@@ -12,6 +12,8 @@ You possess the [[Mark of Healing]], a [[dragonmark]] that only manifests on [[h
 If your character is following the path of the [[nosomatic chirurgeon]], you may add disease-based and harm-based spells to your dragonmark spell list, such as [[contagion]], [[inflict wounds]], and [[vampiric touch]].
 
 If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]].
+
+To gain the social benefits of being part of a [[dragonmarked house]], take the [[House Agent]] talent.
 
 !! Mark of Healing Spell List
 

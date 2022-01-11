@@ -1,7 +1,7 @@
 category: talent
 created: 20210731231109504
 list: [[lesser illusion]] clairvoyance [[shadow blade]] invisibility [[project image]] [[programmed illusion]] [[greater illusion]] darkness [[pass without trace]] [[disguise self]] [[silent image]] scrying [[hallucinatory terrain]] mislead [[mirage arcane]] [[maddening darkness]]
-modified: 20220110040620353
+modified: 20220111073105883
 tags: elf [[Mark of Shadow]]
 title: Mark of Shadow (talent)
 type: text/vnd.tiddlywiki
@@ -10,6 +10,8 @@ xpcost: 1
 You possess the [[Mark of Shadow]], a [[dragonmark]] that only manifests on [[elves|elf]] with ties to House [[Phiarlan]] or House [[Thuranni]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (common or uncommon [[spell tier]]) from the below list. //Recommended Spell: [[lesser illusion]].//
 
 If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]].
+
+To gain the social benefits of being part of a [[dragonmarked house]], take the [[House Agent]] talent.
 
 !! Mark of Shadow Spell List
 

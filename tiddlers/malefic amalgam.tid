@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20220111094231213
+modified: 20220111094741098
+tags: necromancy
+tier: 4
+title: malefic amalgam
+type: text/vnd.tiddlywiki
+
+This spell requires an eight-hour ritual, as well as the expenditure of ritual components worth [[50c|money]]. You fuse three [[humanoid]] corpses into a single powerful [[undead]] creature. The bodies must remain within 10 feet of you and each other throughout the entire casting time. When completed, the amalgam is raised.
+
+The amalgam is a [[tier|creature tier]] ''3'' creature and is considered both an [[undead]] and a [[construct]]. The creature possesses some of the skills and proficiencies the dead [[humanoid]]s had in life. The amalgam follows your instructions, but only when directly commanded. Otherwise it remains still and defends itself. 
+
+The amalgam lasts for 72 hours, after which it turns to dust.

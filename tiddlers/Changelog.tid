@@ -1,12 +1,38 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.12.3
-modified: 20220110193331200
+currentversion: 1.12.4
+modified: 20220111191444192
 modifier: ziphion
 showmore: hide
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.12.4 <span style="font-weight:normal">(Jan 11, 2022)</span>
+
+* Added a separate page for [[Jaela Daran]], as opposed to linking all her references to [[Keeper of the Flame]]
+* Added a bit on the [[Second Son]]
+* Specified that you need to take [[House Agent]] for the social benefits of being part of a [[dragonmarked house]], not just take a dragonmark [[talent]]
+* Added spells:
+** [[acid lash]]
+** [[amanuensis]]
+** [[arcane adhesion]]
+** [[augment undead]]
+** [[babble]]
+** [[blacksteel]]
+** [[breathsense]]
+** [[disable construct]]
+** [[duo-dimension]]
+** [[feather foot]]
+** [[flashburst]]
+** [[fool's speech]]
+** [[gloom]]
+** [[malefic amalgam]]
+** [[psychic ambush]]
+** [[repair damaged construct]]
+** [[rusting grasp]]
+** [[swift perusal]]
+** [[transmute to glass]]
 
 !!! 1.12.3 <span style="font-weight:normal">(Jan 10, 2022)</span>
 

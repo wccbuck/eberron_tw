@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20220111092254122
+modified: 20220111092716109
+tags: transmutation
+tier: 3
+title: transmute to glass
+type: text/vnd.tiddlywiki
+
+You touch a surface or non-magical non-living object, temporarily transmuting it into glass. The effect lasts for 10 minutes or until your concentration breaks, at which point it reverts to its original material. If the target item is so large that it cannot fit within a 3-foot radius sphere, a 3-foot-radius volume of the material is turned to glass. The material becomes transparent, and has the physical resilience and other properties of glass for the duration of the spell. 

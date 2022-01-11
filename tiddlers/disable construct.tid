@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20220111075123846
+modified: 20220111075322804
+tags: transmutation
+tier: 2
+title: disable construct
+type: text/vnd.tiddlywiki
+
+You attempt to touch a [[construct]] creature. If you succeed, you transmute and disrupt its structure, causing damage or rendering it inoperable for a few seconds.

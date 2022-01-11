@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20220111075733322
+modified: 20220111080102337
+tags: transmutation
+tier: 2
+title: repair damaged construct
+type: text/vnd.tiddlywiki
+
+You touch a wounded [[construct]] and transmute its structure to repair damage it has taken, similar to the spell [[cure wounds]]. This spell is much more restorative than the [[mending]] spell.

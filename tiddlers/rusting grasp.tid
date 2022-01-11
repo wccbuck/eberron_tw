@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20220111074539768
+modified: 20220111074920966
+tags: transmutation
+tier: 3
+title: rusting grasp
+type: text/vnd.tiddlywiki
+
+You touch an iron or iron alloy item and cause it to crumble into rust. You must keep your hand in contact with the item for at least three seconds to perform this spell. If the target item is so large that it cannot fit within a 3-foot radius sphere, a 3-foot-radius volume of the metal is rusted and destroyed. [[Magic item|magic item]]s made of metal are immune to this spell.

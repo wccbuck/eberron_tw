@@ -1,13 +1,13 @@
 [
     {
         "created": "20201223010117866",
-        "title": "Second Son",
-        "text": "The Second Son is [[archfey]] representing the jealous heir who stands just\nbeyond the claim to a title. He is always scheming to\nusurp power or steal the things that belong to others. In\nmost tales, his gambits ultimately end in failure, further\ndriving his bitterness. His formal title in the [[Moon Court]]\nis the Count of the Barren Marches, as his lands are\nalways inferior to those of his siblings.",
-        "modified": "20210727192030175",
-        "tags": "archfey fey immortal Thelanis",
+        "text": "The Second Son is an [[archfey]] representing the jealous heir who stands just\nbeyond the claim to a title. He is always scheming to\nusurp power or steal the things that belong to others. In\nmost tales, his gambits ultimately end in failure, further\ndriving his bitterness. His formal title in the [[Moon Court]]\nis the Count of the Barren Marches, as his lands are\nalways inferior to those of his siblings.\n\nMuch like the [[Lady in Shadow]], Second Son is a nebulous figure whose details are less important than his covetous and conniving nature. Exact details aren't important to his story. Every time one visits the Barren Marches, he could be lusting after something new; even within the [[Moon Court]], his older sibling might change from season to season. However, in each version of his story, he always has a widely-beloved elder sibling who has something the Second Son desires. The Second Son never ends up with what he desires for long... and even if he does, he'll soon realize it's not enough.  ",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Second Son",
+        "tags": "archfey fey immortal Thelanis",
+        "modified": "20220110202258250",
+        "color": "#8C4606",
         "category": "entity",
-        "color": "#8C4606"
+        "article": "the "
     }
 ]

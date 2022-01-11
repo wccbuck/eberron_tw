@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20220111085431389
+modified: 20220111085747516
+tags: necromancy
+tier: 2
+title: augment undead
+type: text/vnd.tiddlywiki
+
+Choose up to three mindless [[undead]] creatures of your choice within 90 feet. For the next hour, whenever any of those undead makes an attempt using a specific [[action]] or [[attribute]] (your choice), they have [[advantage]]. In addition, for the duration of the spell, those undead are resistant to being [[turned|turn undead]].

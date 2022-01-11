@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20220111090505223
+modified: 20220111090642154
+tags: enchantment
+tier: 2
+title: fool's speech
+type: text/vnd.tiddlywiki
+
+For up to 1 hour, up to 8 targets you choose within 30 feet of you gain the ability to speak a secret language. The language is incomprehensible to others and doesn't remotely sound like another [[language]]. Spells such as [[comprehend languages]] and [[tongues]] cannot decipher this language.

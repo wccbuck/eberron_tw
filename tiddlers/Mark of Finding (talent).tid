@@ -1,7 +1,7 @@
 category: talent
 created: 20210731201343751
 list: [[know direction]] [[locate object]] [[hunter's mark]] [[faerie fire]] longstrider [[locate animals or plants]] [[locate creature]] clairvoyance [[speak with plants]] [[commune with nature]] [[find the path]] scrying
-modified: 20220110040620202
+modified: 20220111073120080
 tags: half-orc [[Mark of Finding]]
 title: Mark of Finding (talent)
 type: text/vnd.tiddlywiki
@@ -10,6 +10,8 @@ xpcost: 1
 You possess the [[Mark of Finding]], a [[dragonmark]] that only manifests on [[half-orc]]s with ties to House [[Tharashk]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (common or uncommon [[spell tier]]) from the below list. //Recommended Spell: [[locate object]].//
 
 If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]].
+
+To gain the social benefits of being part of a [[dragonmarked house]], take the [[House Agent]] talent.
 
 !! Mark of Finding Spell List
 

@@ -1,7 +1,7 @@
 category: talent
 created: 20210731232504034
 list: alarm sequester [[planar binding]] [[magic circle]] [[mage armor]] [[arcane seal]] [[arcane lock]] [[armor of winter]] knock [[glyph of warding]] [[secret chest]] [[faithful hound]] [[antilife shell]] [[guards and wards]] [[antimagic field]]
-modified: 20220110040620388
+modified: 20220111073141559
 tags: [[Mark of Warding]] dwarf
 title: Mark of Warding (talent)
 type: text/vnd.tiddlywiki
@@ -10,6 +10,8 @@ xpcost: 1
 You possess the [[Mark of Warding]], a [[dragonmark]] that only manifests on [[dwarves|dwarf]] with ties to House [[Kundarak]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (common or uncommon [[spell tier]]) from the below list. //Recommended Spell: [[alarm]].//
 
 If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]].
+
+To gain the social benefits of being part of a [[dragonmarked house]], take the [[House Agent]] talent.
 
 !! Mark of Warding Spell List
 

@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20220111084752285
+modified: 20220111085423920
+tags: abjuration psionics
+tier: 3
+title: psychic ambush
+type: text/vnd.tiddlywiki
+
+You touch a creature and create a mental trap that springs whenever their mental faculties are tampered with. Whenever a creature attempts to use spells or magic effects to charm, frighten, or force a certain behavior out of your target, the target can attempt to cancel the effect and force that creature to suffer psychic damage. The spell lasts for 24 hours or until the trap is sprung.

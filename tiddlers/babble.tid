@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20220111085811822
+modified: 20220111085938202
+tags: enchantment
+tier: 2
+title: babble
+type: text/vnd.tiddlywiki
+
+Choose one creature within 60 feet. If that creature cannot resist your enchantment, it loses the ability to use any [[language]] for the next minute, rendering it incapable of speaking coherent sentences or using vocal components for spells.
