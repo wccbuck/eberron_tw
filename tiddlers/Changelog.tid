@@ -1,12 +1,21 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.12.4
-modified: 20220111191444192
+currentversion: 1.12.5
+modified: 20220114014114401
 modifier: ziphion
 showmore: hide
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.12.5 <span style="font-weight:normal">(Jan 13, 2022)</span>
+
+* Added several missing links in some older pages
+* Updated [[aspect]] page to say you start with 5 aspects, not 4
+* Added talent: "[[I Know A Guy]]"
+* Added a resistance to psychic damage to [[Mindless Rage]] talent
+* Added [[plant creature]] as an option for [[Enhanced Wild Shape]]
+* Added a little bit to [[Moonspeakers]]; I intend on making a Moonspeaker talent soon
 
 !!! 1.12.4 <span style="font-weight:normal">(Jan 11, 2022)</span>
 
