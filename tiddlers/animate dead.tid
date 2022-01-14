@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20201216174907225
-modified: 20210727191954293
+modified: 20220114013502269
 tags: necromancy
 tier: 2
 title: animate dead
 type: text/vnd.tiddlywiki
 
-This spell creates an [[undead]] servant. Choose a pile of bones or a corpse of a [[humanoid]] or beast within 10 feet. Your spell, which takes one minute to perform, imbues the target with a foul mimicry of life, raising it as a [[zombie]] or [[ghoul]]. 
+This spell creates an [[undead]] servant. Choose a pile of bones or a corpse of a [[humanoid]] or [[beast]] within 10 feet. Your spell, which takes one minute to perform, imbues the target with a foul mimicry of life, raising it as a [[zombie]] or [[ghoul]]. 
 
 You can mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 

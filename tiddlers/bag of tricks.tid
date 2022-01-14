@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227023212621
-modified: 20220110034312880
+modified: 20220114013502298
 tags: tool
 tier: 2
 title: bag of tricks
@@ -10,7 +10,7 @@ var: black bear
 
 This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.
 
-You can pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a randomly-determined beast. The creature vanishes at the next dawn or when it is incapacitated.
+You can pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a randomly-determined [[beast]]. The creature vanishes at the next dawn or when it is incapacitated.
 
 The creature is friendly to you and your companions. You can command how the creature moves and acts, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.
 
