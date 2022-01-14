@@ -1,0 +1,197 @@
+category: character sheet
+created: 20220112184916834
+mode: view
+modified: 20220113010119398
+tags: 
+title: Haskriskaa
+type: text/vnd.tiddlywiki
+
+<div class="cs-wrapper">
+  <div class="cs-row">
+    <div class="cs-column"><p class="cs-gamename">Eberron Storyloom</p>
+   </div>
+    <div class="cs-column">
+        <<cs-field "name" "Name" "Character Name">>
+    </div>
+  </div>
+<h2></h2>
+  <div class="cs-row">
+      <div class="cs-column">
+<p class="cs-heading">[[Actions|action]]</p>
+     </div>
+     <div class="cs-column">
+<p class="cs-heading">[[Attributes|attribute]]</p>
+      </div>
+    <div class="cs-doublecolumn">
+<p class="cs-heading">[[Aspects|aspect]]</p>
+    </div>
+  </div>
+
+  <div class="cs-row">
+      <<cs-attr-act "fight" "Fight:">>
+      <<cs-attr-act "focus" "Focus:">>
+      <div class="cs-quadcolumn">
+<<cs-field "desc" "Description" "Description Aspect">>
+     </div>
+  </div>
+
+  <div class="cs-row">
+      <<cs-attr-act "move" "Move:">>
+      <<cs-attr-act "guile" "Guile:">>
+    <div class="cs-quadcolumn">
+<<cs-field "ideal" "Ideal" "Ideal Aspect">>
+     </div>
+  </div>
+
+  <div class="cs-row">
+      <<cs-attr-act "operate" "Operate:">>
+      <<cs-attr-act "heart" "Heart:">>
+    <div class="cs-quadcolumn">
+<<cs-field "flaw" "Flaw" "Flaw Aspect">> 
+     </div>
+  </div>
+
+  <div class="cs-row">
+      <<cs-attr-act "study" "Study:">>
+      <<cs-attr-act "intellect" "Intellect:">>
+    <div class="cs-quadcolumn">
+<<cs-field "bond1" "Bond 1" "Bond Aspect">>  
+     </div>
+  </div>
+
+  <div class="cs-row">
+      <<cs-attr-act "sway" "Sway:">>
+      <<cs-attr-act "vigor" "Vigor:">>
+    <div class="cs-quadcolumn">
+<<cs-field "bond2" "Bond 2" "Bond Aspect">>
+     </div>
+  </div>
+
+ <div class="cs-row">
+      <div class="cs-doublecolumn">
+<p class="cs-heading">[[Stress|stress]]</p>
+     </div>
+     <div class="cs-doublecolumn">
+<p class="cs-heading">[[Harm|harm]]</p>
+      </div>
+    <div class="cs-doublecolumn">
+<p class="cs-heading">[[Talents|talent]]</p>
+    </div>
+    <div class="cs-column">
+<div align="right">''[[XP|experience point]]:''</div>
+</div>
+<div class="cs-column">
+    <<cs-xp>>
+     </div>
+  </div>
+
+  <div class="cs-row">
+	<div class="cs-column" style="align-self: flex-start;">
+        <<cs-checkboxes>>
+		<div class="cs-row">
+			<div class="cs-column" style="justify-content: flex-start;">
+				<div style="margin-right:25px;">
+					<<cs-field "severeharm" "Severe Harm" "Severe Harm">> 
+				</div>
+		    </div>
+		</div>
+		<div class="cs-row">
+        <div class="cs-doublecolumn">
+			<p class="cs-heading">[[Momentum|momentum]]</p>
+        </div>
+        <div class="cs-column">
+			<div align="right" style="margin-right:15px;">''[[SP|story point]]:'' </div>
+        </div>
+        <div class="cs-column">
+            <<cs-storypoints>>
+        </div>
+        </div>
+        <div class="cs-row">
+           <<cs-momentum>>
+        </div>
+		<div class="cs-row">
+        <div class="cs-doublecolumn">
+			<p class="cs-heading">[[Items|magic item]]</p>
+        </div>
+        <div class="cs-column">
+			<div align="right" style="margin-right:15px;">''[[Money|money]]:'' </div>
+        </div>
+        <div class="cs-column">
+            <<cs-money>>
+        </div>
+		</div>
+        <div class="cs-row">
+			<div class="cs-column"><div style="align-self: flex-end;margin-right:25px;">''Item Equipped''</div></div>
+        </div>
+		<div class="cs-row" style="align-items: flex-start;">
+        <div class="cs-quadcolumn">
+			<<cs-item-list>>
+        </div>
+        <div class="cs-column">
+			<<cs-item-eqps>>
+        </div>
+		</div>
+        <div class="cs-row">
+			<p class="cs-heading">[[Languages|language]]</p>
+        </div>
+		<div class="cs-row" style="align-items: flex-start;">
+			<<cs-language-list>>
+		</div>
+	</div>
+	<div class="cs-column" style="align-self: flex-start;">
+		<div class="cs-row" style="align-items: flex-start;">
+			<<cs-talent-list>>
+		</div>
+		<div class="cs-row">
+			<p class="cs-heading">[[Spells|spell]]</p>
+        </div>
+		<div class="cs-row">
+   			''Common''
+        </div>
+		<div class="cs-row" style="align-items: flex-start;">
+			<<cs-spell-list 1>>
+		</div>
+        <div class="cs-row">
+   			''Uncommon''
+        </div>
+		<div class="cs-row" style="align-items: flex-start;">
+			<<cs-spell-list 2>>
+		</div>
+        <div class="cs-row">
+   			''Rare''
+        </div>
+		<div class="cs-row" style="align-items: flex-start;">
+			<<cs-spell-list 3>>
+		</div>
+        <div class="cs-row">
+   			''Epic''
+        </div>
+		<div class="cs-row" style="align-items: flex-start;">
+			<<cs-spell-list 4>>
+		</div>
+        <div class="cs-row">
+   			''Legendary''
+        </div>
+		<div class="cs-row" style="align-items: flex-start;">
+			<<cs-spell-list 5>>
+		</div>
+	</div>
+  </div>
+  <div class="cs-row">
+    <div class="cs-column">
+      <p class="cs-heading">[[Progress Clocks|progress clock]]</p>
+    </div>
+    <div class="cs-column" style="align-items:flex-end;">
+      (double click to advance a clock)
+    </div>
+  </div>
+  <div class = "cs-row">
+    <<cs-progressclocks>>
+  </div>
+<p class="cs-heading">Notes</p>
+<<cs-notes>>
+</div>
+
+!
+
+[[Character Creation]]

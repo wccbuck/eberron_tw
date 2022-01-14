@@ -12,7 +12,7 @@ d7: 3
 duration: 1 minute
 effect: Any part of target not covered by clothing appears to be skeletal for the next {{!!duration}}.
 l_duration: 5 days
-modified: 20220110191343594
+modified: 20220114012049476
 s_duration: 12 seconds
 spell: meld into stone
 tags: accessory
@@ -22,7 +22,7 @@ type: text/vnd.tiddlywiki
 
 This pair of purple leather gauntlets are studded with colorful gems and strange runes. The [[artificer]] who designed them intended to create powerful, spell-enhancing gauntlets, but he didn't really know what he was doing and made these instead.
 
-Three times per day, the wearer can cast a completely random spell (common, uncommon, or rare [[tier|spell tier]]) on a chosen target. If the range of that spell is less than 30 feet, it becomes 30 feet. Any [[consequence]] also triggers a [[random magical effect]], as does any "dud" spell (such as casting [[awaken]] on a beast).
+Three times per day, the wearer can cast a completely random spell (common, uncommon, or rare [[tier|spell tier]]) on a chosen target. If the range of that spell is less than 30 feet, it becomes 30 feet. Any [[consequence]] also triggers a [[random magical effect]], as does any "dud" spell (such as casting [[awaken]] on a [[humanoid]]).
 
 <$button>
 <$action-chooserandom $filter="[category[spell]!tier[4]!tier[5]]" $field="spell"/>Random Spell

@@ -1,13 +1,13 @@
 [
     {
         "created": "20201225203938172",
-        "title": "Moonspeakers",
-        "text": "The Moonspeakers are a [[druid]]ic sect of the [[Eldeen Reaches]] tied specifically to [[shifter]] traditions. Moonspeaker druids respect the totems\nassociated with the beast within—Grandmother Wolf, Cousin\nBear—but they don't see these spirits as gods. These beasts\nguide shifters from within—they don't shape the world itself.\n\nThese totem spirits may share a connection with the totems of [[Lamannia]].",
-        "modified": "20210727192022088",
-        "tags": "druid",
+        "text": "The Moonspeakers are a [[druid]]ic sect of the [[Eldeen Reaches]] tied specifically to [[shifter]] traditions. Moonspeaker druids respect the totems\nassociated with the [[beast]] within—Grandmother Wolf, Cousin\nBear—but they don't see these spirits as gods. These beasts\nguide shifters from within—they don't shape the world itself. These totem spirits may share a connection with the totems of [[Lamannia]].\n\nThe Moonspeakers hold a valuable role among many [[Eldeen|Eldeen Reaches]] [[shifter]]s: Because they often travel from one shifter settlement to another, they maintain the bond between the distant and fragmented communities.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Moonspeakers",
+        "tags": "druid",
+        "modified": "20220114011316732",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]
