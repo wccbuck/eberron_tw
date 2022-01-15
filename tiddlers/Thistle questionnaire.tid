@@ -1,6 +1,6 @@
 category: note
 created: 20220113030012031
-modified: 20220114015846112
+modified: 20220115000110669
 tags: 
 title: Thistle questionnaire
 type: text/vnd.tiddlywiki
@@ -11,8 +11,7 @@ This is the [[Mission: Graywall]] [[questionnaire]] for [[Thistle]].
 
 [[Droaam]], land of monsters, has been an untamed frontier for centuries. But twelve years ago, the trio of [[hag]]s known as the [[Daughters of Sora Kell]] forged it into a nation. The [[warlord]]s who dominate different regions of Droaam owe fealty to the Daughters, and provide the hags with tribute—either material goods, or the services of troops, laborers, and otherwise skilled individuals. [[Thistle]] is one such individual.
 
-Thistle is a //''shifter druid''//. 
-
+Thistle is a //''[[shifter]] druid''//. She is a graceful and quick [[swiftstride]], able to channel the beast within her to gain short bursts of primal speed and finesse. Thistle respects the balance of nature, the cycles of birth, growth, and death, and holds great enmity for creatures who seek to break this cycle through unnatural means; for this reason, she believes that all //''undead must be exterminated''//. Though Thistle is mostly content to avoid the trappings of civilization and concern herself only with matters of nature, there is one invention that has fully captivated her mind: gambling. Something about the uncertainty in a riveting game of "Olladra’s Favor" or "Gifts Of The Traveler" reminds her of the divine randomness in weather patterns, the size of a litter of foxes, or the path of a buzzing fly. This fascination with games of chance has given Thistle a bit of a //''gambling problem''//.
 
 !! Character Questions
 
@@ -25,9 +24,9 @@ Who is your [[warlord]]?
 
 <table><tr>
 <td width="50%">
-[Taal'chib, taarka'va—wolf sister] Write "''[]''" as one of your “bond” [[aspect]]s.
+Your warlord is the [[oni]] [[Drul Kantar]], who rules over the fiefdom of [[Thrakelorn]] west of the [[Great Crag]]. As a [[druid]] and community leader, you acted as a respected emissary between the [[goblinoid]]s, [[ogre]]s and [[orc]]s of that domain. Your strongest bond was to the //gaa'ran// [[orc]]s, who called you //taarka'va//—"wolf sister". However, you have a way of finding common ground with any of the monstrous races you come across, fostering a spirit of cooperation towards advancing this great experiment called [[Droaam]]. Write "''Respected in monster communities''" as one of your “bond” [[aspect]]s.
 </td><td>
-[Zaeurl, Dark Pack, Ur'haakar—First Panthers] Write "''The Silver Flame will never burn here''" as one of your “bond” [[aspect]]s.
+You are part of the [[Dark Pack]], under the leadership of the [[elf]] [[werewolf|therianthrope]] [[Zaeurl]]. You yourself are not under the [[therianthrope]] curse, but you have found kinship with the werecreatures of the [[Watching Wood]]. In fact, 160 years ago, during the [[Lycanthropic Purge|Silver Crusade]], [[templar]]s of the [[Silver Flame]] hunted down and exterminated both werecreatures and [[shifter]]s alike. Your warlord Zaeurl was alive during the Purge, and you share her intense hostility towards the Church of the Silver Flame for their murderous crusade and for their periodic monster-hunting raids in the years since. Write "''The Silver Flame will never burn here''" as one of your “bond” [[aspect]]s.
 </td></tr></table>
 
 </li>
@@ -37,7 +36,7 @@ Which [[druid]]ic sect do you belong to?
 
 <table><tr>
 <td width="50%"> 
-[Moonspeakers] Write "''[]''" as your “ideal” [[aspect]].
+You are a [[Moonspeaker|Moonspeakers]], part of a sect of [[druid]]s closely tied to [[shifter]] traditions. In addition to honoring the totemic beasts that guide each shifter from within, Moonspeakers also seek to explore the primal connections between the twelve [[moon]]s and the creatures of Eberron. Each moon has an "ascendant phase"—a 28-day period during which it is unusually bright. The Moonspeakers believe that the ascendant moon determines the spirit of children born beneath it; a child of [[Zarantyr]] will be wild and mercurial, while a child of [[Therendor]] will be gentle and kind. Write "''Know the moon, know the person''" as your “ideal” [[aspect]].
 </td><td> 
 [Children of Winter] Write "''Only the strongest will survive''" as your “ideal” [[aspect]]. 
 </td></tr></table>
@@ -49,9 +48,9 @@ Which of these two [[talent]]s do you prefer? Add your choice to the Talents sec
 
 <table><tr>
 <td width="50%">
-[[Wild Shape|Wild Shape (talent)]]. You can assume the shape of one beast of [[creature tier]] 1 or less that you have seen before (chosen when you take this talent). If the chosen beast can fly, it must be creature tier 0. The transformation ends if you are knocked unconscious, but otherwise persists as long as you like.
+[[Wild Shape|Wild Shape (talent)]]. You can assume the shape of one [[beast]] of [[creature tier]] 1 or less that you have seen before (chosen when you take this talent). If the chosen beast can fly, it must be creature tier 0. You can switch between your beast form and shifter form at will.
 </td><td>
-[[Spellcaster]]. If you are part of the [[Moonspeakers]], add [[moonbeam]] and [[healing spirit]] to your spell list. If you are part of the [[Children of Winter]], add [[chill touch]] and [[insect cloud]] to your spell list.
+[[Spellcaster]]. Gain two spells which depend on your choice for question 2.<br/>If you are part of the [[Moonspeakers]], add [[moonbeam]] and [[healing spirit]] to your spell list.<br/>If you are part of the [[Children of Winter]], add [[chill touch]] and [[insect cloud]] to your spell list.
 </td></tr></table>
 
 </li>
