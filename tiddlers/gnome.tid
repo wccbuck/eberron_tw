@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414230807420
-modified: 20220114010933374
+modified: 20220114013502480
 tags: humanoid
 tier: 1
 title: gnome
@@ -13,7 +13,7 @@ var: common
 <div align="right">—Zil proverb</div>
 
 The average gnome has a love of knowledge that borders on obsession, a curiosity that admits no limits, and a vast collection of potentially useful information on every personal acquaintance. Most gnomes detest physical violence and prefer to solve their problems with words—whether that's a [[bard]]'s eloquent persuasion, a [[wizard]]'s
-words of power, or a rogue's careful threat. They give an initial impression as friendly busybodies, always ready to lend a hand or share a story, while asking questions that tend toward the slightly-too-personal. Often, though, a cheerful and amiable gnome is methodically adding to a mental storehouse of knowledge that might one day provide important leverage. 
+words of power, or a rogue's careful threat. They give an initial impression as friendly busybodies, always ready to lend a hand or share a story, while asking questions that tend toward the slightly-too-personal. Often, though, a cheerful and amiable gnome is methodically adding to a mental storehouse of knowledge that might one day provide important leverage.
 
 Gnomes are between 3 and 4 feet tall and average about 40 pounds. They mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
 
@@ -34,7 +34,7 @@ The gnomes' natural talent for [[illusion]] aids them in trickery and
 entertaining, and they often use small animals as messengers and guides.
 When you're making a Zil gnome character, consider
 what kinds of schemes you or your family might be
-involved in. The table below offers some suggestions, but you should feel free to elaborate on these schemes, even to absurd extremes. 
+involved in. The table below offers some suggestions, but you should feel free to elaborate on these schemes, even to absurd extremes.
 
 | !<<dr d10>> |!Scheme |
 | 1 |Your family is working on a new form of [[elemental binding]], but they need a lot of Khyber [[dragonshard]]s. |
@@ -62,7 +62,7 @@ agent—gathering information and allies until you're activated and you are put 
 
 //''Zil Names.''// Zil society is divided into major houses,
 each of which is composed of multiple families. Each
-gnome carries the name of a house and of a family in addition to a personal name. For example, [[Alina Lorridan Lyrris]] and Tallian Talius Lyrris are members of different families (Lorridan and Talius) within House Lyrris. Gnome names are long and lyrical; a Zil proverb claims "the sweetest song is the name of a friend." Personal and clan names are usually at least three syllables long, and there is a strong tradition of alliteration. 
+gnome carries the name of a house and of a family in addition to a personal name. For example, [[Alina Lorridan Lyrris]] and Tallian Talius Lyrris are members of different families (Lorridan and Talius) within House Lyrris. Gnome names are long and lyrical; a Zil proverb claims "the sweetest song is the name of a friend." Personal and clan names are usually at least three syllables long, and there is a strong tradition of alliteration.
 
 !! Gnomes of the Five Nations
 
@@ -75,7 +75,7 @@ they share the Zil emphasis on the importance of family.
 As a gnome character from the Five Nations, you
 might have a network of connections to the community
 your grew up in, likely built on the exchange of information. Alternatively, you might seek your own path in life,
-avoiding the intrigues your cousins adore. 
+avoiding the intrigues your cousins adore.
 
 See also [[Lorghalan]], if you're looking to play a [[bard]] or [[druid]] and want no connection to the schemes and secrets of the [[Zil|Zilargo]].
 
@@ -90,4 +90,4 @@ cultivated a reputation for impartiality and secrecy,
 since their services rely on trust.
 
 Today, House Sivis provides avenues of communication across [[Khorvaire]]. Translation, mediation, interpreting, and legal advocacy all fall within House Sivis's
-broad purview, and they maintain the network of [[message stations|speaking stone]] that allow cross-continent communication. 
+broad purview, and they maintain the network of [[message stations|speaking stone]] that allow cross-continent communication.

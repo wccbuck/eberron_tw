@@ -1,12 +1,18 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.12.5
-modified: 20220114014114401
+currentversion: 1.12.6
+modified: 20220116041604718
 modifier: ziphion
 showmore: hide
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.12.6 <span style="font-weight:normal">(Jan 15, 2022)</span>
+
+* Added [[moonstone dragon]]
+* Added more to [[Kaius ir'Wynarn I]] and [[III|Kaius ir'Wynarn III]]
+* Node.js: added getTextReferenceParserInfo to wiki.js
 
 !!! 1.12.5 <span style="font-weight:normal">(Jan 13, 2022)</span>
 
@@ -45,9 +51,9 @@ type: text/vnd.tiddlywiki
 
 !!! 1.12.3 <span style="font-weight:normal">(Jan 10, 2022)</span>
 
-* Fixed a few missed references to old spell tiers. 
+* Fixed a few missed references to old spell tiers.
 * Added link to Changelog in site subtitle ("Storyloom Edition, v.x.x.x")
-* For node.js users only: added "isVolatileTiddler" to wiki.js since the October update requires it to run. 
+* For node.js users only: added "isVolatileTiddler" to wiki.js since the October update requires it to run.
 
 !!! 1.12.2 <span style="font-weight:normal">(Jan 9, 2022)</span>
 
@@ -269,7 +275,7 @@ Miscellaneous:
 
 !!! 1.11.0 <span style="font-weight:normal">(Nov 30, 2021)</span>
 
-* Big [[Storyloom]] character progression change. Made a much more streamlined way to handle adding [[talent]]s and [[spell]]s to a character: [[experience point]]s. 
+* Big [[Storyloom]] character progression change. Made a much more streamlined way to handle adding [[talent]]s and [[spell]]s to a character: [[experience point]]s.
 * Made a "Talents" tab on [[Find Things]]
 * Added new talents:
 ** [[Aberrant Mind]]
@@ -473,7 +479,7 @@ Miscellaneous:
 
 !!! 1.9.0 <span style="font-weight:normal">(Oct 14, 2021)</span>
 
-* Tweaked lots of items. Specifically, replaced the "[[advantage]]"s granted by items with improved [[impact]] or [[risk]]. 
+* Tweaked lots of items. Specifically, replaced the "[[advantage]]"s granted by items with improved [[impact]] or [[risk]].
 * Added [[random artifact properties]]
 * Tweaked some things on the map, added some forests to [[Tempest Isle]] and [[Traglorn Isle]]
 * Added creatures:
@@ -538,7 +544,7 @@ Miscellaneous:
 
 !!! 1.7.4 <span style="font-weight:normal">(Sep 17, 2021)</span>
 
-* Fixed some typos, tweaked some phrasing 
+* Fixed some typos, tweaked some phrasing
 
 !!! 1.7.3 <span style="font-weight:normal">(Sep 14, 2021)</span>
 
@@ -609,7 +615,7 @@ Miscellaneous:
 
 !!! 1.6.0 <span style="font-weight:normal">(Aug 27, 2021)</span>
 
-* Added a district map of [[Sharn]]. Zoom in on Sharn to see the controls pop up to switch between levels ([[upper ward]]s, [[middle ward]]s etc.). 
+* Added a district map of [[Sharn]]. Zoom in on Sharn to see the controls pop up to switch between levels ([[upper ward]]s, [[middle ward]]s etc.).
 * Clicking on "Find On Map" on a Sharn district should fly to that district and select the appropriate layer.
 
 !!! 1.5.1 <span style="font-weight:normal">(Aug 25, 2021)</span>
@@ -618,7 +624,7 @@ Miscellaneous:
 
 !!! 1.5.0 <span style="font-weight:normal">(Aug 24, 2021)</span>
 
-Lots of map improvements! 
+Lots of map improvements!
 
 * Added line/polygon draw feature: measure arbitrary distances and areas.
 * Replaced previous 'marker' distance system with the ability to add and remove markers at will
@@ -707,6 +713,6 @@ Lots of map improvements!
 
 </$reveal>
 
-! 
+!
 
 See the [[github|https://github.com/wccbuck/eberron_tw/commits/]] for more detailed commit history

@@ -12,7 +12,7 @@ d7: 3
 duration: 1 minute
 effect: Any part of target not covered by clothing appears to be skeletal for the next {{!!duration}}.
 l_duration: 5 days
-modified: 20220114012049476
+modified: 20220114013502644
 s_duration: 12 seconds
 spell: meld into stone
 tags: accessory
