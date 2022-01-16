@@ -1,12 +1,18 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.12.5
-modified: 20220114013328190
+currentversion: 1.12.6
+modified: 20220116041604718
 modifier: ziphion
 showmore: hide
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.12.6 <span style="font-weight:normal">(Jan 15, 2022)</span>
+
+* Added [[moonstone dragon]]
+* Added more to [[Kaius ir'Wynarn I]] and [[III|Kaius ir'Wynarn III]]
+* Node.js: added getTextReferenceParserInfo to wiki.js
 
 !!! 1.12.5 <span style="font-weight:normal">(Jan 13, 2022)</span>
 
