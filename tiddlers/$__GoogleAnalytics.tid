@@ -1,0 +1,15 @@
+created: 20220119205701864
+modified: 20220119205720914
+tags: $:/tags/RawMarkup
+title: $:/GoogleAnalytics
+type: text/vnd.tiddlywiki
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G8SY9DRMF1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G8SY9DRMF1');
+</script>
