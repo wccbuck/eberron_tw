@@ -1,12 +1,18 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.12.6
-modified: 20220116041604718
+currentversion: 1.12.7
+modified: 20220119203807187
 modifier: ziphion
 showmore: hide
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.12.7 <span style="font-weight:normal">(Jan 19, 2022)</span>
+
+* Added missing links on the [[kobold]] page
+* Added [[Moonspeaker]] [[talent]]
+* Fixed links to [[Find Things]] that change the tab. I didn't realize the state variable for the tabs changed on tiddlyhost deployment, so none of those links have ever worked outside of my own local instance. Whoops lol
 
 !!! 1.12.6 <span style="font-weight:normal">(Jan 15, 2022)</span>
 

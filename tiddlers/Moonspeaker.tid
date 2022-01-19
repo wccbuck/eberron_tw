@@ -1,0 +1,57 @@
+category: talent
+created: 20220119185224975
+modified: 20220119203517010
+tags: druid shifter
+title: Moonspeaker
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+As a [[Moonspeaker|Moonspeakers]] [[druid]], a path of [[primal magic]] typically only accessible to [[shifter]]s, you have developed a strong connection to the magic of the world, guided by the twelve [[moon]]s of Eberron. When you take this [[talent]], choose one of the following benefits tied to a specific moon. You can take this talent multiple times, but you cannot choose a moon more than once.
+
+!!! <$checkbox field="var1" checked="yes" default="no" class="cs-check"/> [[Zarantyr]]
+
+You can cast the spells [[shape water]] and [[call lightning]].
+
+!!! <$checkbox field="var2" checked="yes" default="no" class="cs-check"/> [[Olarune]] 
+
+Take the [[Shifter|Shifter (talent)]] talent a second time, this time choosing an additional [[subrace]] ability. This doesn't change your actual [[shifter]] subrace.
+
+!!! <$checkbox field="var3" checked="yes" default="no" class="cs-check"/> [[Therendor]]
+
+You can cast the spells [[calm emotions]], [[comprehend languages]], and [[healing word]].
+
+!!! <$checkbox field="var4" checked="yes" default="no" class="cs-check"/> [[Eyre]]
+
+You can cast the spells [[mending]] and [[haste]].
+
+!!! <$checkbox field="var5" checked="yes" default="no" class="cs-check"/> [[Dravago]]
+
+You can cast the spells [[speak with animals]] and [[protection from energy]].
+
+!!! <$checkbox field="var6" checked="yes" default="no" class="cs-check"/> [[Nymm]]
+
+You can cast the spells [[friends]] (common or uncommon [[tier|spell tier]]). In addition, gain an [[advantage]] to see through magical [[illusion]]s.
+
+!!! <$checkbox field="var7" checked="yes" default="no" class="cs-check"/> [[Lharvion]]
+
+You can cast the spells [[augury]], [[bane]], and [[bestow darkvision]].
+
+!!! <$checkbox field="var8" checked="yes" default="no" class="cs-check"/> [[Barrakas]]
+
+You can cast the spell [[guiding bolt]] for free at will.
+
+!!! <$checkbox field="var9" checked="yes" default="no" class="cs-check"/> [[Rhaan]]
+
+You can cast the spells [[conjure woodland beings]] and [[enthrall]].
+
+!!! <$checkbox field="var10" checked="yes" default="no" class="cs-check"/> [[Sypheros]]
+
+You have [[darkvision]] within 60 feet. In addition, you are resistant to being frightened, and gain an [[advantage]] to determine if someone is lying.
+
+!!! <$checkbox field="var11" checked="yes" default="no" class="cs-check"/> [[Aryth]]
+
+Whenever you [[push yourself]] when casting a spell which summons creatures from another [[plane]] of existence, each creature gains +1 [[creature tier]].
+
+!!! <$checkbox field="var12" checked="yes" default="no" class="cs-check"/>  [[Vult]]
+
+You can cast the spells [[protection from immortals]], [[detect immortal]], and [[blade ward]].
