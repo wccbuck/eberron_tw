@@ -1,0 +1,20 @@
+caption: Sole Survivor
+created: 20220123000504225
+modified: 20220123000806062
+tags: 
+title: $:/SoleSurvivor
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+I served my nation in the [[Last War]]. In the
+final days of the war, I was sent on a dangerous mission, and I was the only member
+of my unit who survived. I’ve always blamed myself for failing my comrades, but I suspect we were betrayed by someone higher in the chain of command. If I ever learn the truth, I won’t rest until I’ve avenged my fallen friends.
+
+//What was my role in the war? Who was my closest friend in my unit?//
+
+<<<
+''GM Notes: ''The player can help determine what the adventurer’s last mission was, though the character’s instructions came on a need-to-know basis and they’ll likely learn more truths about their mission as the campaign unfolds. Who was responsible for the deaths of their friends? Is there a deeper secret about the mission that the adventurer never knew? Could the traitor want to kill them to bury it forever? The character could also face other reminders of the war and have to deal with former enemies.
+<<<

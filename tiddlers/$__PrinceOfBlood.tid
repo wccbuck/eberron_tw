@@ -1,0 +1,33 @@
+caption: Prince of Blood
+created: 20220123002011562
+modified: 20220123002214195
+tags: 
+title: $:/PrinceOfBlood
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+I’m [[Kaius ir'Wynarn III]], rightful king of
+[[Karrnath]]. Near the end of the war, the regent
+[[Moranna|Moranna ir'Wynarn]] took me deep below the castle
+and subjected me to a ritual that changed
+my appearance. She explained that for the
+good of the nation, a new king had to take
+my place; she swore that she would restore
+me to the throne when the time was right.
+She wanted me to remain in Karrnath, but
+I chose to make my own way into the world.
+
+//Do I believe Moranna that she’ll restore my throne? Do I support the imposter king, or do I hope to someday reclaim my throne by force?//
+
+<<<
+''GM Notes: ''Most likely, the imposter king is the [[vampire]]
+[[Kaius I|Kaius ir'Wynarn I]]. Will the character accept their exile, or
+will they try to unmask the imposter, even if they
+are fighting for [[Karrnath]]? If [[Lady Illmarrow]]
+learns of the character’s true identity, she may try
+to use them to undermine or destroy Kaius I, as
+he is actively fighting against the [[Emerald Claw]].
+<<<

@@ -1,0 +1,44 @@
+caption: Baron's Child
+created: 20220124172550002
+modified: 20220124180441840
+tags: 
+title: $:/BaronsChild
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' Any non-[[aberrant|aberrant dragonmark]] [[dragonmark]]
+
+I play the part of a lowly nobody in my [[dragonmarked house]], but that’s a lie. I’m actually a child of the baron of the house, and my parents expect great things from me.
+They’ve already planned my marriage, and
+starting next year, they expect me to start
+working in house administration full time;
+adventuring is my last chance for freedom.
+
+//What’s my real name? Do my parents know where I am?//
+
+<<<
+''GM Notes: ''The table below presents options for who the character’s parent
+is; feel free to develop them as you see fit. Regardless, the baron is allowing their child to adventure only because they are maintaining a low profile
+and false identity. If the characters reveal their
+true identity, they gain social benefits, but their parents will insist that
+they cease adventuring and take up their house
+responsibilities.
+
+|!House |!Baron |
+|[[Cannith]] |[[Jorlanna d'Cannith]] ([[Fairhaven]])<br/>[[Merrix d'Cannith]] ([[Sharn]])<br/>[[Zorlan d'Cannith]] ([[Korth]]) |
+|[[Deneith]] |[[Breven d'Deneith]] ([[Karrlakton]]) |
+|[[Ghallanda]] |[[Yoren d'Ghallanda]] ([[Gatherhold]]) |
+|[[Jorasco]] |[[Ulara d'Jorasco]] ([[Vedykar]]) |
+|[[Kundarak]] |[[Morrikan d'Kundarak]] ([[Korunda Gate]]) |
+|[[Lyrandar]] |[[Esravash d'Lyrandar]] ([[Stormhome]]) |
+|[[Medani]] |[[Trelib d'Medani]] ([[Wroat]]) |
+|[[Orien]] |[[Kwanti d'Orien]] ([[Passage]]) |
+|[[Phiarlan]] |[[Elvinor Elorrenthi d'Phiarlan]] ([[Sharn]]) |
+|[[Sivis]] |[[Lysse Lyrriman d'Sivis]] ([[Korranberg]]) |
+|[[Tharashk]] |[[Daric Velderan]] ([[Zarash'ak]])<br/>[[Khandar'Aashta]] ([[Zarash'ak]])<br/>[[Maagrim Torrn]] ([[Zarash'ak]]) |
+|[[Thuranni]] |[[Elar d'Thuranni]] ([[Regalport]]) |
+|[[Vadalis]] |[[Dalin d'Vadalis]] ([[Varna]]) |
+<<<

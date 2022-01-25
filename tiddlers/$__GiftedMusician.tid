@@ -1,0 +1,31 @@
+caption: Gifted Musician
+created: 20220123081752432
+modified: 20220123082027791
+tags: 
+title: $:/GiftedMusician
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+One night, I was walking on the old road
+when a lady in the shadows called out to me.
+She asked what I wanted most in the world.
+“To be the finest musician of the age,” I
+replied. She said it would come to pass, but
+that I must never refuse a request to perform—then she disappeared into the shadows. Since then, my skills have greatly improved… but
+what will happen if I ever refuse a request?
+
+//Did the lady give me the instrument I now carry? Does my talent bring me joy, or does it feel hollow?//
+
+<<<
+''GM Notes: ''The character has made a bargain with an [[archfey]]
+known as the [[Lady in Shadow]]. While the bargain
+won’t allow the character to refuse a request to
+perform, this must be a reasonable request made
+in good faith; a villain can’t demand a song in
+the middle of a fight. Should the character refuse
+a reasonable request, until they find a way to
+placate the [[Lady in Shadow]], they lose their skill with their instrument, suffering [[disadvantage]] on all attempts to perform with it.
+<<<

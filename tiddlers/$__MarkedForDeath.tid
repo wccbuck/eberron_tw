@@ -1,0 +1,32 @@
+caption: Marked for Death
+created: 20220124230214772
+modified: 20220124231832845
+tags: 
+title: $:/MarkedForDeath
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' [[Elf (talent)]], no [[Mark of Shadow]] or other [[dragonmark]], know the [[speak with dead]] spell
+
+There is a [[mark|Mark of Death]] on my skin, somewhere easily
+hidden from view. It’s like a [[dragonmark]],
+but unlike any I’ve ever seen. Ever since it
+appeared, I’ve begun hearing the voices of the
+dead. They’re always whispering at the back of
+my mind, but if I concentrate, I can hear them
+more clearly, and even communicate with them.
+I remember an old story about how [[elves|elf]] who
+dealt with the dead who were hunted down and
+slain, so I’ve kept the mark a secret for now.
+
+//Where is the mark on my body? What’s one thing I’ve learned from the dead?//
+
+<<<
+''GM Notes: ''The [[elven line|Aereni noble line]] of [[Vol]] carried the [[Dragonmark of Death|Mark of Death]], but Vol’s line was supposedly eradicated
+by the [[dragon]]s of [[Argonnessen]] and the [[Undying Court]]. Has the Mark of Death reappeared on this character? Or is this mark something else—a lesser form of the mark, or just an unusual [[aberrant dragonmark]]? Regardless of the truth, if [[Lady Illmarrow]] learns of it, the Order of the [[Emerald Claw]] will certainly pursue the character. Would
+the [[Undying Court]] try to destroy the mark’s
+bearer? Or have they come to regret their cruelty?
+<<<

@@ -1,0 +1,38 @@
+caption: One of a Kind
+created: 20220124182531750
+modified: 20220124182814398
+tags: 
+title: $:/OneOfAKind
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' [[Warforged (talent)]]
+
+Everything I’ve told my friends about my
+history as a [[warforged]] is a lie. I was created a mere week
+before I met my fellow adventurers. I have
+implanted memories and skills, but they’re
+artificial. I don’t know who my creator was—only that they weren’t part of House [[Cannith]], and that occasionally I just know things they
+want me to do. I have a specialized concealed [[armblade]] that is undetectable while retracted. Am I a spy? An assassin?
+
+//Do I feel loyalty to my creator, or am I afraid of them? Are my [[talent]]s part of my design and mission, or did I develop them on my own?//
+
+<<<
+''GM Notes: ''Work with the player to decide what sort of
+weapon their [[armblade]] is; while it’s retracted,
+it’s perfectly hidden. Rather than having this
+weapon become obsolete as the character levels
+up, you could have it develop additional magical
+properties as the character’s true purpose
+and potential are slowly revealed. As they go
+through their adventures, the character occasionally just knows things their creator wants
+them to do, but it’s always up to the character
+whether to act on these directives. This secret is
+intended to be a mystery for the character—who
+created them? Is their creator’s purpose noble
+or evil? Should the character oppose the plans of
+their creator, and at what risk?
+<<<

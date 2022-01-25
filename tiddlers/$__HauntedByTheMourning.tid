@@ -1,0 +1,62 @@
+caption: Haunted by the Mourning
+created: 20220124184918419
+modified: 20220124232623451
+tags: 
+title: $:/HauntedByTheMourning
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' Can cast the [[borrowed knowledge]] spell
+
+I was in [[Metrol]] on the Day of [[Mourning]]. Now
+I’m bound to the spirits of those who died.
+When I sleep, I dream their lost dreams. When I
+wake, a dead person’s memories accompany my
+own—along with the knowledge of something
+they want me to do. Sometimes it’s trivial: sing
+a song, eat their favorite meal. Other requests
+are more intense. If I ignore them, I’m wracked
+with restless nightmares, which persist until I
+do my best to fulfill the spirit’s desire.
+
+//Do I wish to be freed from this, or do I consider it a blessing?//
+
+<<<
+''GM Notes: ''The character is haunted by a different [[ghost]]s day after day. The spirit provides them with the [[borrowed knowledge]] spell (as well as other random tidbits of information from past lives; maybe one day, the character can speak [[Talentan]], but the fluency is gone the next day), but it also makes a particular
+request of them—the table below provides possibilities, but you can
+also make up requests that help drive the story
+of the adventure.
+
+If the character completely ignores a request,
+they could suffer nightmares and be denied
+the benefits of their next sleep, but as
+long as they at least try to fulfill the request,
+they should be fine. While this is primarily an
+opportunity for roleplaying, it could turn out
+that there’s much greater significance to this.
+Does the character hold the spirit of Queen [[Dannel|Dannel ir'Wynarn]] of [[Cyre]]? Are they keeping these spirits
+from dissolving in [[Dolurrh]]? Does this mean
+that the spirits could be raised from the dead,
+even though it would otherwise be too late for
+that? Could [[Lady Illmarrow]] use this trove of
+[[ghost]]s for some evil purpose? The full potential
+of this secret is up to you.
+
+|!<<dr d12>> |!Ghostly Request |
+| 1 |Consume the [[ghost]]'s favorite beverage or meal |
+| 2 |Rest in a specific location |
+| 3 |Convey an apology to someone they wronged |
+| 4 |Deliver an object or message |
+| 5 |Punish someone who wronged them |
+| 6 |Perform an artistic work (song, play, story) |
+| 7 |Solve a mystery |
+| 8 |Destroy an object or structure |
+| 9 |Expose a secret |
+| 10 |Fulfill a promise |
+| 11 |Share their story |
+| 12 |Perform a ritual or cast a spell |
+
+<<<

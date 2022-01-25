@@ -1,0 +1,16 @@
+caption: Birthrights
+created: 20220124172412748
+modified: 20220124183702744
+tags: 
+title: $:/Birthrights
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+These secrets are tied to a character’s heritage.
+They aren’t things the character chose; they are
+accidents of birth or part of their creation.
+
+<<tabs "$:/BaronsChild $:/DragonmarkedSecret $:/FalseChangeling $:/ForgedFromFlesh $:/Kheshdar $:/LabRat $:/LastOfMyLine $:/OneOfAKind $:/WarforgedSmuggler" "$:/BaronsChild">>

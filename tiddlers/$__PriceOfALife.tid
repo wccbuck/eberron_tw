@@ -1,0 +1,38 @@
+caption: Price of a Life
+created: 20220124231914963
+modified: 20220124232338968
+tags: 
+title: $:/PriceOfALife
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+I died a year ago. No one knows about it, not
+even my closest friends. I was in [[Dolurrh]],
+despair stripping away my essence, when I
+was drawn to the presence of the [[Queen of the Dead]]. She offered to restore my life and
+return me to [[Eberron]], but she told me that
+she would one day assign me a task, and if
+I failed that task, I would die again and be
+beyond redemption. I don’t yet know what I
+need to do, but I know my life depends on it.
+
+//How did I die? Do my loved ones know I’m alive?//
+
+<<<
+''GM Notes: ''It’s up to you to decide what price the [[Queen of the Dead]] demands of the character. It most likely involves taking a life, but who must the
+character kill? Ideally, this should be tied to the
+long-term story of the campaign: if the players
+are supposed to fight the [[Emerald Claw]], then
+the price could be the death of [[Lady Illmarrow]].
+If the [[Dreaming Dark]] is the enemy, perhaps
+the character needs to kill the vessel of the
+[[Devourer of Dreams]]. It could be that the task
+set by the Queen of the Dead involves more
+than one life; perhaps they have to destroy a
+particular bloodline of [[vampire]]s.
+
+In theory, the character will die if they refuse to perform the service demanded of them. In practice, this means they will start to waste away; every few days, removing one [[harm]] or one [[stress]] box, continuing this reduction until they return to the task. While the character should feel that there is a real consequence, instant death isn’t fun for anyone.
+<<<

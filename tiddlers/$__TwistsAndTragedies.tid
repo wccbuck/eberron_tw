@@ -1,0 +1,24 @@
+caption: Twists and Tragedies
+created: 20220123005217157
+modified: 20220124184201723
+tags: 
+title: $:/TwistsAndTragedies
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+In these secrets, the character’s life story has an
+unexpected twist. This could be in the past, or
+a debt that’s about to come due. Many of these
+aren’t traditional secrets, but they involve details
+that a character may not want to share; perhaps
+they’re embarrassed by their [[gnoll]] upbringing
+or simply don’t want to visit a particular bar ever
+again. These secrets also provide opportunities
+for you to introduce NPCs that have history with
+the character, whether it’s their drinking buddies
+or old gnoll littermates.
+
+<<tabs "$:/Barfly $:/Betrayer $:/CreepyDoll $:/CursedByForgottenPrince $:/DhakaaniOrphan $:/FamilyPressure $:/GiftedMusician $:/RaisedByGnolls $:/ChildEndlessWeald" "$:/Barfly">>

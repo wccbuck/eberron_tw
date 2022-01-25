@@ -1,0 +1,36 @@
+caption: Warforged Smuggler
+created: 20220124182834979
+modified: 20220124183012875
+tags: 
+title: $:/WarforgedSmuggler
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' [[Warforged (talent)]]
+
+I was built with a secondary purpose. I have
+a hidden compartment—where the [[human]]s
+carry their stomachs—that can hold a small
+item. Throughout the [[war|Last War]], a group of
+[[Cannith]] heirs used this to pass messages and
+seemingly useless objects. I don’t know who
+they were or what the messages meant, and
+I don’t know how to open the compartment.
+But I know something is in there.
+
+//Have I tried to open the compartment? What do I imagine my creators were up to?//
+
+<<<
+''GM Notes: ''The character’s smuggling compartment is sealed
+with a form of the [[arcane lock]] spell—it’s up to you
+to decide how it can be unlocked, but the character can’t open it themselves, and it’s unlikely that a simple [[knock]] or [[dispel magic]] spell will
+circumvent its wards. However, if they do find a
+way to open it, perhaps they can use it themselves
+moving forward. What’s in the compartment now
+and what were the humans using it up to? They
+were definitely heirs of House [[Cannith]]—but were
+they followers of the [[Traveler]]? Conducting forbidden research? Innocent lovers passing notes? Or something else?
+<<<

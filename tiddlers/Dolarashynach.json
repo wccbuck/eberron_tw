@@ -1,13 +1,13 @@
 [
     {
         "created": "20210319013156303",
-        "title": "Dolarashynach",
         "text": "Lightkeeper Dolarashynach is the Eternal Flame of the [[Light of Siberys]] in [[Argonnessen]]. She guides the Soldiers of the Light from [[Verthicha'vivex]],\nthe Mountain of Victory.",
-        "modified": "20210727192004870",
-        "tags": "[[silver dragon]] dragon [[Light of Siberys]] cleric Verthicha'vivex",
         "type": "text/vnd.tiddlywiki",
-        "article": "Lightkeeper ",
+        "title": "Dolarashynach",
+        "tags": "greatwyrm [[silver dragon]] dragon [[Light of Siberys]] cleric Verthicha'vivex",
+        "modified": "20220119231312153",
+        "color": "#8C4606",
         "category": "entity",
-        "color": "#8C4606"
+        "article": "Lightkeeper "
     }
 ]

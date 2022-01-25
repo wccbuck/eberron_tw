@@ -1,0 +1,30 @@
+caption: Khesh'dar Spy
+created: 20220124181603001
+modified: 20220124182053295
+tags: 
+title: $:/Kheshdar
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' [[goblinoid]] (either [[Goblin/Kobold (talent)]], [[Hobgoblin (talent)]], or [[Bugbear (talent)]])
+
+I’m a spy serving the [[Silent Folk|Khesh'dar]]. The
+[[Dhakaani clans|Heirs of Dhakaan]] have been in hiding for thousands of years, but now they’re preparing to return. The Khesh’dar sell their services to
+all the [[clans|kech]]. For now, what they want most
+is information about the surface world. I may
+receive missions from my controller, but I’m
+always watching for interesting information
+they could use.
+
+//Was I born into the [[Khesh'dar]] or recruited by them? How do I communicate with my controller?//
+
+<<<
+''GM Notes: ''The [[Khesh'dar]] are traditionally //golin’dar//
+(Dhakaani [[goblin]]s). If the character is a //ghaal’dar//
+(Dhakaani [[hobgoblin]]), //guul’dar// (Dhakaani
+[[bugbear]]), or even a non-Dhakaani [[goblinoid]],
+this would be very unusual, though that may make them a valued asset. In general, the Khesh’dar need information, but the character could be given missions that serve the goals of a particular [[Dhakaani clan|kech]]. Such missions should add a challenge to an adventure—kill a specific person, plant an object, learn a secret—but shouldn’t place the character in direct opposition to the goals of the other adventurers.
+<<<

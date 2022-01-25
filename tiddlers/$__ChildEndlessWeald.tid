@@ -1,0 +1,30 @@
+caption: Child of the Endless Weald
+created: 20220123083430803
+modified: 20220123084024847
+tags: 
+title: $:/ChildEndlessWeald
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' Know the [[speak with animals]] spell
+
+As a child, I went walking in the old woods
+and strayed from the path, wandering into
+the [[Endless Weald]] of [[Thelanis]]. I might have
+been lost forever if the [[Forest Queen]] hadn’t
+found me and raised me as her own. I grew
+up surrounded by wonders, but in time, I
+yearned to see the land of my birth. The
+Queen opened a path for me, but warned
+me never to slay a [[beast]].
+
+//How long was I in [[Thelanis]], and how much time passed on [[Eberron]] in my absence? What do I long to see in the Material Plane?//
+
+<<<
+''GM Notes: ''Any [[spell]]s the character knows could be presented as [[fey]] magic. The
+character can fight [[beast]]s without trouble,
+but if they ever land a killing blow, they lose their ability to cast [[speak with animals]] and have [[disadvantage]] on attempts to sway beasts until they find a way to atone.
+<<<

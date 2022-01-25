@@ -1,13 +1,13 @@
 [
     {
         "created": "20200419042323009",
-        "title": "Anvil",
-        "text": "This small tavern with a handful of rooms to rent is carved into a bend in\nthe wall of Mason's Tower. House [[Ghallanda]] operates the inn, and the host is a matronly [[halfling]]\nnamed Eranna. It's known to be under the protection of the [[Boromar Clan]], which makes it one of the safest establishments in [[Lower Dura]].",
-        "modified": "20210727191954404",
-        "tags": "Callestan tavern Sharn",
+        "text": "This small tavern with a handful of rooms to rent is carved into a bend in\nthe wall of Mason's Tower. It was once The Golden Anvil, House\n[[Ghallanda]]'s flagship inn in [[Sharn]]. Now it's\nfaded and forgotten, but it still has traces of its\nformer glory. There’s a few gaming tables and\na small stage; there’s a [[dwarf]] comedian who’s\nbeen doing the same act for sixty years. It's known to be under the protection of the [[Boromar Clan]], which makes it one of the safest establishments in [[Lower Dura]].\n\n''Eranna d’Ghallanda'' runs the inn; she’s kind, honest,\nand much beloved in the district. ",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Anvil",
+        "tags": "Callestan tavern Sharn",
+        "modified": "20220121031755037",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

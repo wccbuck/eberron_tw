@@ -1,0 +1,28 @@
+caption: Hidden Dragon
+created: 20220123001541724
+modified: 20220123003703108
+tags: 
+title: $:/HiddenDragon
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' No [[dragonmark]], know the [[Draconic]] language
+
+I’m a child of [[Argonnessen]], a [[dragon]] of the
+[[Tapestry]]. I sought knowledge forbidden by
+the [[Conclave]], and they said death was too
+quick a punishment. Instead, I was trapped in
+this pathetic form with much of my memories
+and magic stripped; I can’t even remember
+what secret knowledge I sought. They want
+me to drown in this [[humanoid]] form, to fully
+forget who I am—but I will not.
+
+//What sort of [[dragon]] was I? Do I remember my original name?//
+
+<<<
+''GM Notes: ''This [[dragon]] sought forbidden knowledge and was punished by being bound into [[humanoid]] form. They can’t remember what they once sought—so it’s up to you to decide what it was and whether that secret is still buried in their memory. Is there another reason the [[Conclave]] didn’t just kill them? Could agents of the [[Lords of Dust]] come after them, hoping to wrest the secret from their mind? And under the right circumstances, could the character temporarily regain their [[dragon]] form?
+<<<

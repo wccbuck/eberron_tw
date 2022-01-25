@@ -1,0 +1,32 @@
+caption: Creepy Doll
+created: 20220123010306643
+modified: 20220123010423715
+tags: 
+title: $:/CreepyDoll
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+A week ago, I discovered a small rag doll
+in my belongings. I threw it away—and the
+next day, I found it again in my pocket. I’ve
+burned it, buried it, and it still keeps coming
+back. I don’t know where it came from, and
+since it appeared, I’ve also noticed that I
+strangely //know// things I didn’t know before—secrets about magic and arcane things—and I have no idea how. I don’t know if this is a
+threat, but it’s definitely creepy.
+
+//What does the doll look like? Have I given it a name?//
+
+<<<
+''GM Notes: ''It’s up to you to decide exactly where this doll
+came from, why it’s bound to the character, and
+whether its effects grow with time. Is it some
+sort of [[fey]] creature or artifact? Is it a [[ghost]] or
+a manifestation of a curse? It could be entirely
+harmless, but there could be more to this story!
+This doll—or its creator—could even make for an
+intriguing [[warlock]] patron.
+<<<

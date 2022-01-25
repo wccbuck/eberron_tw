@@ -1,0 +1,35 @@
+caption: False Changeling
+created: 20220124180734962
+modified: 20220124180917419
+tags: 
+title: $:/FalseChangeling
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' [[Changeling (talent)]]
+
+During the last decade of the [[war|Last War]], a rogue
+branch of House [[Vadalis]] and the [[Royal Eyes]]
+of [[Aundair]] worked to [[magebreed|magebreeding]] [[human]]s
+who could change their shape. I was one of
+their few successes. At the end of the war, my
+fellow false changelings and I learned that
+our creators planned to kill us all, hiding their
+actions. I escaped into the world, posing as a
+true [[changeling]]; I don’t know if my creators
+are still looking for me.
+
+//What does my human form look like? When did I last contact another magebred human?//
+
+<<<
+''GM Notes: ''While the character may pretend to be a normal
+[[changeling]] and possess all that race’s powers,
+their true form is that of a [[human]]. It’s up to you
+to decide if the cabal that created the character
+is still searching for them—and if so, what other
+schemes they are involved in. How many other
+false changelings are out in the world?
+<<<

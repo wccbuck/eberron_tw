@@ -1,0 +1,24 @@
+caption: Poison Pen
+created: 20220124170306944
+modified: 20220124171519201
+tags: 
+title: $:/PoisonPen
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+You know //Poison Pen//, the incredibly popular
+gossip column in the [[Sharn Inquisitive]]? I
+write it. That’s right—I’m the Poison Pen. I
+have a network of contacts who provide me
+with tidbits, and I’m always searching for
+juicy secrets and exciting news in my adventures. Of course, it’s important to keep my
+identity secret—[[Aureon]] knows, I’ve embarrassed a lot of powerful people over the years!
+
+//How did I get into the gossip business? Why do I do it?//
+
+<<<
+''GM Notes: ''As the Poison Pen, the character writes an anonymous gossip column for the [[Sharn Inquisitive]]. They have a loose network of connections, and you can use this to pass them interesting rumors that could drive adventures. However, they embarrassed a lot of powerful people, and if their identity is exposed, they could be targeted by their enemies.
+<<<

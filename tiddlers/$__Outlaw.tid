@@ -1,0 +1,36 @@
+caption: Outlaw
+created: 20220122235901320
+modified: 20220123000439858
+tags: 
+title: $:/Outlaw
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+I had a troubled past. I was convicted of a
+crime, and I have the brand of an outlaw on
+my non-dominant hand. This means I have
+no rights under the laws of the [[Five Nations]].
+Most who see my brand feel that I can’t be
+trusted—though criminals often view it as a
+badge of honor.
+
+//What was my crime? Was I guilty, or was I framed? Am I trying to live a more virtuous life?//
+
+<<<
+''GM Notes: ''Work with the player to decide what crime the
+character committed that earned their brand.
+It’s easy enough to conceal the brand with a
+glove—but officers of the law will always check
+their hands if the character is arrested, and
+other institutions may do the same. The brand
+generally won’t cause anything worse than
+suspicion, but it means that the character isn’t
+protected by the law; if someone commits a
+crime against them, it’s not considered to be
+a crime. If it fits the character’s backstory, it’s
+possible they might have had a run-in with
+[[Daanvi]]an law and be branded with the //judgment tattoo// (discussed in the “Daanvian Judgment” section of the [[Daanvi]] page), though most mortals on [[Eberron]] aren’t terribly concerned with matters of the [[plane]]s and may view this as a mere curiosity.
+<<<

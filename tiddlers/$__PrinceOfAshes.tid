@@ -1,0 +1,28 @@
+caption: Prince of Ashes
+created: 20220123001747404
+modified: 20220123001951180
+tags: 
+title: $:/PrinceOfAshes
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+I’m [[Oargev ir'Wynarn]], last prince of [[Cyre]].
+Days before the [[Mourning]], I was kidnapped
+and held prisoner. A masked figure performed a ritual that transformed me into my
+current form, leaving me unrecognizable. By
+the time I escaped, [[Cyre]] was destroyed and
+an imposter had claimed my title. I don’t
+know who’s behind this, but they possess
+immense power. I’ll need to gain experience
+and strong allies before I can challenge this
+imposter prince, but someday I’ll reclaim my
+crown and rebuild my shattered kingdom.
+
+//Who do I believe is behind my kidnapping? Do I try to aid Cyrans, even though they don’t know me?//
+
+<<<
+''GM Notes: ''The false Prince Oargev is one of the [[Lords of Dust]], carrying out the plans of its [[overlord]]; it’s up to you to decide which overlord this is. The eldritch machine they’re using to foil [[divination]] magic requires them to keep the real Oargev alive, so they don’t want the player character to die. While both are alive, even the most powerful of magic identifies the imposter as the real [[Oargev|Oargev ir'Wynarn]], rather than the once-prince. What is the false Oargev’s plan? If the adventurer draws attention, will the imposter prince send agents to capture them and their companions?
+<<<

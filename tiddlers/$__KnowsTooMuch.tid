@@ -1,0 +1,34 @@
+caption: Knows Too Much
+created: 20220122234720963
+modified: 20220122235623623
+tags: 
+title: $:/KnowsTooMuch
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+I was working with one of the [[King's Dark Lanterns]], [[Breland]]’s most secret agents. I
+was just an informant, but I grew close—very
+close—to the shadow I worked with… until a
+mission went wrong and my love died. I know
+more about the mission than I should, and
+I’m certain the shadow was betrayed. If I’m
+smart, I’ll let this go; I don’t have the power
+or experience to do anything about it, and if I
+make too much noise, the Dark Lanterns will come
+after me. But one day I’ll have the power to
+avenge my lost love.
+
+//What was the shadow’s name? What did I love most about them?//
+
+<<<
+''GM Notes: ''What was the mission that went horribly wrong, and how much does the informant actually know about it? Did the shadow tell the player character
+something they don’t realize was important, or
+perhaps give them a [[trinket]] that has unexpected
+value? Do any of the shadow’s associates know
+the adventurer was an informant? This could just
+be a tragic loss, or it could pull the adventurers
+into a world of espionage and intrigue.
+<<<

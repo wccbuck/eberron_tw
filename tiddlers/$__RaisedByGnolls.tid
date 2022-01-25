@@ -1,0 +1,36 @@
+caption: Raised by Gnolls
+created: 20220123082926008
+modified: 20220123083335334
+tags: 
+title: $:/RaisedByGnolls
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' non-[[gnoll]], know the [[Gnoll]] language
+
+I was born in the western barrens of [[Breland]], known today as [[Droaam]].
+I imagine my family was killed by raiders,
+but I don’t remember them. I only know I
+was taken in by the [[Therendor]] clan of the
+[[Znir Pact]] and raised by these [[gnoll]]s. I’ve
+learned their ways and consider myself one
+of the Pact: I’m a fierce hunter, I stand by
+my word, and I bow neither to god or demon.
+However, my table manners may disturb my
+companions, and I’ll eat //anything//.
+
+//Why did I leave [[Droaam]]? What’s my //whoop// (my Znir name)?//
+
+<<<
+''GM Notes: ''The adventurer may encounter old friends
+among the [[gnoll]] mercenaries employed by
+House [[Tharashk]], and they could be troubled
+by savage gnolls that still serve [[fiend]]s. Znir do
+not kill other Znir; a gnoll wounded by another
+gnoll is expected to stand down from battle. Will
+the character ever learn about their original
+parents? Is their heritage important?
+<<<

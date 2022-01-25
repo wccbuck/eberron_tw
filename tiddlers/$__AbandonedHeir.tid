@@ -1,0 +1,31 @@
+caption: Abandoned Heir
+created: 20220123085219117
+modified: 20220123085455679
+tags: 
+title: $:/AbandonedHeir
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' [[human]] or [[half-elf]]
+
+Before my mother died, I learned that I’m an illegitimate child of Lord [[Dalian ir'Tain II]], one of the richest and most powerful nobles in [[Sharn]] and head of the [[ir'Tain family]]. A decade ago, Dalian promised to acknowledge me—but he disappeared on his
+next sea voyage and never returned. I’ve kept
+quiet, as I fear Lady [[Celyria ir'Tain]] might
+have me killed if she learned of my existence.
+But I still believe my father had plans for me,
+and that I’ll one day receive my birthright.
+
+//Who was my mother, and how did she pass away?//
+
+<<<
+''GM Notes: ''Work with the player to establish details about
+their mother and how she died. Could [[Dalian ir’Tain|Dalian ir'Tain II]]’s disappearance have been tied to his
+plans to acknowledge the adventurer? Perhaps
+the character could receive a mysterious letter or
+bequest from Lord Dalian. The character could
+also be targeted by assassins—are they working
+for [[Celyria ir'Tain]], or someone else?
+<<<

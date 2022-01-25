@@ -1,0 +1,22 @@
+caption: Trusted Agent
+created: 20220123003501069
+modified: 20220123004157930
+tags: 
+title: $:/TrustedAgent
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' non-[[gnome]], know the [[Zilasalza]] language
+
+I was born a [[gnome]] of [[Zilargo]]. I volunteered for an experimental program of the
+[[Trust]]—they mystically transformed me into my current form so I could serve as a deep-cover agent in the world beyond Zilargo. I want to protect my homeland and its people, and I’m always looking for information that could be important. Sometimes I receive telepathic directives from my superior, who I
+only know as “Book.”
+
+//What was my Zil name? Do I miss [[Zilargo]]? How long have I played this role?//
+
+<<<
+''GM Notes: ''Work with the player to develop details about their life in [[Zilargo]]. Did they have family? A lover? As they adventure, might they encounter [[gnome]]s that they knew in that life? How will they respond? After all, the agent isn’t supposed to have any contact with anyone from their old life!
+<<<

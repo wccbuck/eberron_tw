@@ -1,0 +1,41 @@
+caption: Chamber Operative
+created: 20220124184336209
+modified: 20220124184559058
+tags: 
+title: $:/ChamberOperative
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' Know the [[Draconic]] language
+
+Though [[humanoid]], I’m an agent of
+[[Argonnessen]], trained by the [[dragon]]
+Ashtaralyx and charged with an important
+task. I know that the adventurers I’m with
+have a critical role to play in the [[Draconic Prophecy]],
+and I must guide them on the proper path.
+I’ll receive more information as I need it—but
+I fear that the [[fiend]]s known as the [[Lords of Dust]] are searching for us, and they’ll also try
+to manipulate us.
+
+//How long have I been an agent of [[Argonnessen]]? What drives my allegiance to the [[Chamber]]?//
+
+<<<
+''GM Notes: ''The [[dragon]] Ashtaralyx is a powerful agent of
+the [[Chamber]]. It’s up to you to decide exactly
+what type of dragon they are. They need the
+adventurers to accomplish a specific piece of
+the [[Prophecy|Draconic Prophecy]], which could involve many steps;
+perhaps they must acquire a particular artifact,
+establish a stronghold in a location, and only then
+defeat a [[demon]]. Essentially, the character is your
+agent in driving the campaign down your desired
+path… but agents of the [[Lords of Dust]] may
+try to trick them or destroy them! A surprising
+twist would be if the character unknowingly is
+a [[dragon]], in which case they could regain their
+true form in the final battle of the campaign.
+<<<

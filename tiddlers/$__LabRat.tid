@@ -1,0 +1,34 @@
+caption: Lab Rat
+created: 20220124182058795
+modified: 20220124182238961
+tags: 
+title: $:/LabRat
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' [[Shifter (talent)]]
+
+While I appear to be a [[shifter]], I was born as
+a mundane [[beast]]. While experimenting on
+me, my creators somehow imbued me with
+consciousness and this [[humanoid]] form. I
+escaped while disoriented and overwhelmed
+by my new awareness—I don’t know who my
+creators are, whether they’re hunting for me,
+or where exactly I ran away from. Since then,
+I’ve tried to blend in with shifters and avoid
+revealing my true nature.
+
+//What kind of animal was I? What do I foggily remember from my last hours as an animal?//
+
+<<<
+''GM Notes: ''Work with the character to decide what kind of
+animal they were born as and what memories,
+if any, they retain from their animal life. Who
+created them? Was the experiment tied to
+House [[Vadalis]]? An independent cabal of [[alchemist]]s? Could they be the work of [[Mordain the Fleshweaver]]? Are there others like them out in
+the world, or are they the last of their kind?
+<<<

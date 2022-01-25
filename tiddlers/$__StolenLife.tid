@@ -1,0 +1,34 @@
+caption: Stolen Life
+created: 20220123002931764
+modified: 20220123003456488
+tags: 
+title: $:/StolenLife
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+I was born in [[Cyre]]. On the Day of [[Mourning]],
+I was caught in a pitched battle. The gray
+mists rolled over us, I blacked out… and when
+I awoke, I found myself in the body of one
+of my enemies. My memories are jumbled
+with theirs, but I remembered enough to
+escape into their life. My home and all that
+I loved has been destroyed, and all I have is
+this stolen life.
+
+//Who were you before? Do you regret stealing this life?//
+
+<<<
+''GM Notes: ''Though the character’s former associates would
+never recognize them, they could meet [[Cyran|Cyre]]
+refugees they knew or be confronted with other
+details about their secret past. Work with the
+player to decide who they were in their former
+life. And in their current life, the character is
+bound to encounter difficulty when they don’t
+know an important detail that the person whose
+life they stole would surely remember.
+<<<

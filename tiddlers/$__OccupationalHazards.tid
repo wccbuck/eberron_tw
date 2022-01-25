@@ -1,0 +1,19 @@
+caption: Occupational Hazards
+created: 20220121232704542
+modified: 20220124183759048
+title: $:/OccupationalHazards
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+Something went wrong with these characters’
+careers. Either they were robbed of opportunities, or they are concealing misdeeds. With any of these secrets, you’ll want to work with the player
+to develop more details about their former career.
+Keep in mind that you don’t need to establish all
+of these details before the first adventure; both
+you and the player can continue to add depth to
+the story as the campaign unfolds.
+
+<<tabs "$:/ArcanixDropout $:/CircusRunaway $:/Earworm $:/Heretic $:/InconvenientMark $:/KnowsTooMuch $:/Outlaw $:/SoleSurvivor $:/WarCriminal" "$:/ArcanixDropout">>

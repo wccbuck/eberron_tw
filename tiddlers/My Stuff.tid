@@ -1,7 +1,7 @@
 created: 20210409213500098
 mode: edit
-modified: 20210811171757941
+modified: 20220124184109652
 title: My Stuff
 type: text/vnd.tiddlywiki
 
-<<tabs "[[$:/MyStuff]] [[$:/MyItems]] [[$:/MySpells]] [[$:/MyCreatures]] [[$:/MyPeople]] [[$:/MyOrgs]] [[$:/MyPlaces]] [[$:/MyMisc]]" "[[$:/MyStuff]]">>
+<<tabs "$:/MyStuff $:/MyItems $:/MySpells $:/MyCreatures $:/MyPeople $:/MyOrgs $:/MyPlaces $:/MyMisc" "$:/MyStuff">>

@@ -1,13 +1,13 @@
 [
     {
         "created": "20210212080206569",
-        "title": "Entertainers and Artisans Guild",
-        "text": "This guild is House [[Phiarlan]]’s public face. It runs most of the\ntheaters, music halls, circuses (including the traveling\nCarnival of Shadows), and similar establishments in\n[[Khorvaire]], which employ only guild-licensed talent.\nPhiarlan heirs are among the finest performers in\nthe world, but anyone can be licensed who meets the\nguild’s standards and pays its annual fee.",
-        "modified": "20210727192007236",
-        "tags": "[[trade guild]] Phiarlan",
+        "text": "This guild is House [[Phiarlan]]’s public face. It runs most of the\ntheaters, music halls, circuses (including the traveling\n[[Carnival of Shadows]]), and similar establishments in\n[[Khorvaire]], which employ only guild-licensed talent.\nPhiarlan heirs are among the finest performers in\nthe world, but anyone can be licensed who meets the\nguild’s standards and pays its annual fee.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Entertainers and Artisans Guild",
+        "tags": "[[trade guild]] Phiarlan",
+        "modified": "20220121234404822",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

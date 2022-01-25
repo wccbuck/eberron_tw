@@ -1,0 +1,30 @@
+caption: Earworm
+created: 20220121235133341
+modified: 20220122000216826
+tags: 
+title: $:/Earworm
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+You know that song you hear all the time
+in [[Sharn]] and [[Fairhaven]]? I wrote it. I spent
+years getting it just right, then I made the
+mistake of performing it for Viceroy [[Kels d’Phiarlan|Demesne of Music]]. Now, as you know, it’s the latest
+hit by [[Phiarlan]]’s rising star, the Butterfly. No
+one believes that I wrote it, and every time
+I hear it, it hurts.
+
+//What’s the name of my song? What, or who, was my inspiration?//
+
+<<<
+''GM Notes: ''While this is an excellent secret for an aspiring
+[[bard]], any character could come up with one
+song. Work with the player to come up with a
+snippet of the song itself, then as the adventurers
+explore, highlight how they hear it //everywhere//.
+Everyone loves this song, and the Butterfly of
+[[Phiarlan]] is the greatest songwriter of the age!
+<<<

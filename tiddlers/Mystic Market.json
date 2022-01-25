@@ -1,13 +1,13 @@
 [
     {
         "created": "20200418211131666",
-        "title": "Mystic Market",
-        "text": "The white tower of the [[Esoteric Order of Aureon]] is surrounded by a host\nof lesser magic businesses. The Mystic Market consists mainly\nof [[magewright]]s and [[adept]]s. Businesses in the market\ninclude\n\n* The ''Mithral Blade,'' a smithy that produces steel and [[mithral]] weapons and armor with magical enhancement\n* ''Wise Wood'', a shop that buys and sells wands and staves\n* The ''Moonlit Loom'', which sells magic clothing\n* The ''Dragon's Hoard'', which sells a wide assortment of minor wondrous items and does a brisk business in feather fall talismans (not to be confused with the [[Dragon's Hoard]] in [[Skyway]])\n* ''Boldrei's Tears'' and ''Good Spirits'', which sell potions.",
-        "modified": "20210727192022593",
-        "tags": "market Clifftop Sharn",
+        "text": "The white tower of the [[Esoteric Order of Aureon]] is surrounded by a host\nof lesser magic businesses. The shops of the Mystic Market deal in\n[[magic item]]s, whether locally produced or bought from explorers. Businesses in the market include:\n\n* The ''Mithral Blade,'' a smithy that produces steel and [[mithral]] weapons and armor with magical enhancement\n* ''Wise Wood'', a shop that buys and sells [[wands and staves|magical implement]]\n* The ''Moonlit Loom'', which sells magic clothing\n* The ''Dragon's Hoard'', which sells a wide assortment of minor wondrous items and does a brisk business in [[feather token]]s (not to be confused with the [[Dragon's Hoard]] in [[Skyway]])\n* ''Boldrei's Tears'' and ''Good Spirits'', which sell potions.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Mystic Market",
+        "tags": "market Clifftop Sharn",
+        "modified": "20220121032152068",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

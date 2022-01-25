@@ -1,12 +1,25 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.12.7
-modified: 20220119203807187
+currentversion: 1.12.8
+modified: 20220125005658623
 modifier: ziphion
 showmore: hide
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
+
+!!! 1.12.8 <span style="font-weight:normal">(Jan xx, 2022)</span>
+
+* Added [[character secret]]s
+* Added a bit to [[doppelganger]] based on a recent KB blog post
+* Separated the [[Draconic Eidolon]] from [[Dal Quor]] into its own page
+* Added a little more to [[greatwyrm]] page, and added greatwyrm tag to [[Dolarashynach]] and [[Zenobaal]]
+* Added [[Detention]] and [[Honors]]
+* Added [[Carnival of Shadows]]
+* Added [[Valshar'ak Seal]]
+* Added [[Black Dogs]] and [[Moras Tann]]
+* Added "and resistant to poison" to [[Divine Health]]
+* Small tweaks and typo fixes
 
 !!! 1.12.7 <span style="font-weight:normal">(Jan 19, 2022)</span>
 

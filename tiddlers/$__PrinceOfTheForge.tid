@@ -1,0 +1,31 @@
+caption: Prince of the Forge
+created: 20220123002204010
+modified: 20220123002627333
+tags: 
+title: $:/PrinceOfTheForge
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisites:'' [[human]] (with [[Mark of Making (talent)]]) or [[warforged]] (with [[Warforged (talent)]]), [[Artificer (talent)]]
+
+I’m [[Aaren d'Cannith]], creator of the [[warforged]]. I cut ties with my house when they
+sold my creations as soldiers and slaves. To survive, I had to transfer my consciousness
+into this new body. It’s taking time for me to recover my skills and memories, but I was
+once the greatest [[artificer]] of the age, and I could be again.
+
+//Do I want to help the [[warforged]]? Do I support or oppose the [[Lord of Blades]]? How do I feel about House [[Cannith]]?//
+
+<<<
+''GM Notes: ''[[Aaren|Aaren d'Cannith]] lost most of their memories in the
+transfer, which is why they are a low-level
+character. As they gain experience, you could
+have them remember some of Aaren’s secrets;
+perhaps they know the location of a hidden
+forgehold or the existence of a malevolent
+cabal in House [[Cannith]]. The [[Lord of Blades]]
+or House Cannith may want to capture Aaren
+if their identity becomes known.
+<<<

@@ -1,0 +1,30 @@
+caption: Forged from Flesh
+created: 20220124180928779
+modified: 20220124181540474
+tags: 
+title: $:/ForgedFromFlesh
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' non-[[warforged]] [[humanoid]]
+
+I was made, not born, created by a rogue
+[[Cannith]] [[artificer]], forged from flesh and blood.
+Soon afterward, my creator’s hidden forgehold was attacked; they teleported me away,
+and when I returned, everything had been
+destroyed. I don’t know if my creator is still
+alive or what plans they had for me, so I’ve tried
+to live the life of the creature I appear to be.
+
+//How long have I been out in the world? Do I sympathize more with the [[warforged]] or the race I appear to be?//
+
+<<<
+''GM Notes: ''The character is an innovative form of artificial
+life. They’re virtually indistinguishable from
+the real thing, though they don’t go to [[Dal Quor]] when they dream; are there other subtle differences they don’t know about? Why was the
+character created? Who destroyed their creator’s
+workshop, and is the character still being hunted?
+<<<

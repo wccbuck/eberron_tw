@@ -1,0 +1,18 @@
+caption: Vigilant Eye
+created: 20220124233625858
+modified: 20220124235938612
+tags: 
+title: $:/TheVigilantEye
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+A few weeks ago, an eye appeared on my hand. It’s easily hidden, but when I expose and use it prominently, I have exceptional vision—and sometimes see things no one else can. Often, after I wake up in the morning, I //know// something it wants to see; this could be anything from “an [[elf]]” to a specific book or location. If I ignore these requests, I’m tormented by nightmares.
+
+//Do I want to be rid of the eye?//
+
+<<<
+''GM Notes: ''The character’s alien eye is tied to the [[daelkyr]] [[Belashyrra]]. The daelkyr are enigmatic and it may well be that this isn’t part of a grand malevolent scheme; rather, Belashyrra simply wants to see things. Whatever the truth, it should certainly feel strange and unsettling for the character. Occasionally, the eye could grant greater powers—unexpectedly manifesting a [[true seeing]] or [[see invisibility]] spell—but this should always come as a surprise, never something the player can rely on. And to get the benefits of the eye’s vision, it must be displayed prominently… and most people will be freaked out by the stranger with an eye on their hand! While the eye may forgive failure to accomplish a request, if the character completely ignores the eye, they could be troubled by nightmares (preventing rest) or false visions, imposing [[disadvantage]] on attempts to perceive or investigate.
+<<<

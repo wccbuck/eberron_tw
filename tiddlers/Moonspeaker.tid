@@ -1,12 +1,14 @@
 category: talent
 created: 20220119185224975
-modified: 20220119203517010
+modified: 20220119235911190
 tags: druid shifter
 title: Moonspeaker
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-As a [[Moonspeaker|Moonspeakers]] [[druid]], a path of [[primal magic]] typically only accessible to [[shifter]]s, you have developed a strong connection to the magic of the world, guided by the twelve [[moon]]s of Eberron. When you take this [[talent]], choose one of the following benefits tied to a specific moon. You can take this talent multiple times, but you cannot choose a moon more than once.
+''Prerequisite:'' [[Shifter (talent)]].
+
+As a [[Moonspeaker|Moonspeakers]] [[druid]], a path of [[primal magic]] typically only accessible to [[shifter]]s, you have developed a strong connection to the magic of the world, guided by the twelve [[moon]]s of Eberron. When you take this [[talent]], choose one of the following benefits tied to a specific moon. You can take this talent multiple times, but you cannot choose the same moon more than once.
 
 !!! <$checkbox field="var1" checked="yes" default="no" class="cs-check"/> [[Zarantyr]]
 
@@ -30,7 +32,7 @@ You can cast the spells [[speak with animals]] and [[protection from energy]].
 
 !!! <$checkbox field="var6" checked="yes" default="no" class="cs-check"/> [[Nymm]]
 
-You can cast the spells [[friends]] (common or uncommon [[tier|spell tier]]). In addition, gain an [[advantage]] to see through magical [[illusion]]s.
+You can cast the spell [[friends]] (common or uncommon [[tier|spell tier]]). In addition, gain an [[advantage]] to see through magical [[illusion]]s.
 
 !!! <$checkbox field="var7" checked="yes" default="no" class="cs-check"/> [[Lharvion]]
 

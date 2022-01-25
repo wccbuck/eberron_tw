@@ -1,0 +1,32 @@
+caption: Fallen Angel
+created: 20220123090519965
+modified: 20220123090700455
+tags: 
+title: $:/FallenAngel
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+I was born in the ruins of [[Fallen]], the district of [[Sharn]]
+abandoned almost a century ago when it was
+crushed beneath a falling tower. My parents
+have since passed, but their [[ghost]]s linger in
+its alleys, and the howling of the [[Ravers]] is a
+familiar tune. I rose from these depths, but
+I’ve never forgotten Fallen, and I still have
+allies among the ghosts and feral folk.
+
+//Do I still have family in [[Fallen]]? What’s one [[ghost]] I’ve encountered there?//
+
+<<<
+''GM Notes: ''[[Fallen]] is a dangerous and haunted district,
+where few people go without good reason. The
+[[ghost]]s and [[Ravers]] generally leave the character
+(and their allies) alone, so Fallen can serve as
+an unexpected safe haven. The ghosts haunting
+Fallen certainly have unfinished business in the
+wider world—might they ask the adventurer for
+help settling it?
+<<<

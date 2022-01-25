@@ -1,0 +1,37 @@
+caption: Stool Pigeon
+created: 20220124171525955
+modified: 20220124171726055
+tags: 
+title: $:/StoolPigeon
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+I’ve seen a lot of interesting things as an
+adventurer in [[Sharn]]. I’ve learned secrets about the
+[[Boromar Clan]] and the [[Deathsgate Guild]]. And
+like any good citizen should, I’ve reported
+those things to the [[Sharn Watch]]. My main
+contact is Commander [[Iyanna ir'Talan]], and
+I believe her to be an honorable and honest
+defender of the law. Now, certainly, I’ve
+gotten paid for my information—but that’s
+incidental to the fact that I was doing what
+was best for our city. Of course, the people
+I’ve informed on may not feel the same way,
+so I’d rather word didn’t get out about this.
+
+//What was one crime I reported to the [[Watch|Sharn Watch]]? What happened to its perpetrators?//
+
+<<<
+''GM Notes: ''Commander [[Iyanna ir'Talan]] is one of the few
+truly honest officers in [[Sharn]], trying to fight
+both crime and corruption. She may press the
+character to help her deal with criminals and
+enemies within the [[Sharn Watch]]. The adventurer
+has informed on a number of dangerous people
+over the years, and if their activities are revealed,
+the character could be in danger.
+<<<

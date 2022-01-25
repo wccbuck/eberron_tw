@@ -1,0 +1,30 @@
+caption: Last of my Line
+created: 20220124182248750
+modified: 20220124182510448
+tags: 
+title: $:/LastOfMyLine
+type: text/vnd.tiddlywiki
+
+<$tiddler tiddler=<<currentTab>>>
+<h3>{{!!caption}}</h3>
+</$tiddler>
+
+''Prerequisite:'' [[Kalashtar (talent)]]
+
+Originally, there were sixty-seven [[kalashtar]]
+lines, each bound to and supporting a different [[quori]] spirit. The [[Dreaming Dark]] has
+long targeted my line, and assassins killed my parents. In my dreams, my spirit has told
+me that I’m its last tie to the world. Perhaps
+I should remain hidden away, but I believe
+there’s a reason my line has been targeted
+so relentlessly—a reason the [[Dreaming Dark]]
+fears my spirit, a destiny only I can fulfill.
+
+//How were my parents killed? What [[quori]] is my lineage attached to and how does it impact my personality?//
+
+<<<
+''GM Notes: ''What kind of [[quori]] spirit is the character attached
+to, and why is the [[Dreaming Dark]] so determined
+to destroy it? It likely makes sense for the character to use a false name, so as not to advertise their role as the last anchor for the spirit—rather than going by Aidaveth, they might call themselves Aidashtai, or even just Aida. If their true nature is revealed, they will be targeted by the [[Dreaming Dark]]—but perhaps there is something
+they can do to help protect their spirit!
+<<<
