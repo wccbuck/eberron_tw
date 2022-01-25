@@ -1,14 +1,20 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.12.8
-modified: 20220125005658623
+currentversion: 1.12.9
+modified: 20220125225049458
 modifier: ziphion
 showmore: hide
 tags: Readme
 title: Changelog
 type: text/vnd.tiddlywiki
 
-!!! 1.12.8 <span style="font-weight:normal">(Jan xx, 2022)</span>
+Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.12.9 <span style="font-weight:normal">(Jan 25, 2022)</span>
+
+* Added the [[Eberron TW Updater]]
+
+!!! 1.12.8 <span style="font-weight:normal">(Jan 24, 2022)</span>
 
 * Added [[character secret]]s
 * Added a bit to [[doppelganger]] based on a recent KB blog post

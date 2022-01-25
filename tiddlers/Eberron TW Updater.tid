@@ -1,0 +1,38 @@
+created: 20220125184934578
+modified: 20220125231144792
+tags: 
+title: Eberron TW Updater
+type: text/vnd.tiddlywiki
+
+Use this tool to bring your own local copy of the Eberron Tiddlywiki up-to-date. To do this, select your local current version from the drop-down list (no earlier than 1.12.0), click the "export tiddlers" button, then save the file as whichever type you choose. Then, simply drag the file into your local copy of the Eberron TW, and follow the prompts to import the missing or changed tiddlers. Note that this update process will overwrite any local changes you may have made to the imported files.
+
+Current version: ''{{Changelog!!currentversion}}''
+
+Your version: <$select tiddler="$:/UserVersion"><$list filter="[[$:/VersionDates]indexes[]sort[title]order[reverse]]">
+<option><<currentTiddler>></option></$list></$select>
+
+<$vars version={{{ [[$:/UserVersion]get[text]trim[]] }}}>
+<$wikify name="vd" text="{{{ [[$:/VersionDates]getindex<version>] }}}">
+<$set name="exportFilter" filter="[is[tiddler]![$:/StoryList]![$:/HistoryList]![$:/Import]!search:title[$:/temp/]!search:title[$:/state/]sort[modified]] :filter[get[modified]compare:integer:gt<vd>]">
+<$vars numTids = {{{ [is[tiddler]![$:/StoryList]![$:/HistoryList]![$:/Import]!search:title[$:/temp/]!search:title[$:/state/]sort[modified]] :filter[get[modified]compare:integer:gt<vd>] +[count[]] }}} tv-config-toolbar-text="yes" tv-config-toolbar-class="tc-button tt-button">
+
+<$reveal type="match" text="0" default=<<numTids>> >
+No tiddlers selected for export
+</$reveal>
+
+<$reveal type="gt" text="0" default=<<numTids>> >
+
+Number of tiddlers selected for export: <<numTids>><br>
+
+<$macrocall $name="exportButton" exportFilter=<<exportFilter>> lingoBase="$:/language/Buttons/ExportTiddlers/" baseFilename="EberronTW-update"/>
+
+!! Full export list
+
+<<list-links "[is[tiddler]![$:/StoryList]![$:/HistoryList]![$:/Import]!search:title[$:/temp/]!search:title[$:/state/]sort[title]] :filter[get[modified]compare:integer:gt<vd>]">>
+
+</$reveal>
+
+</$vars>
+</$set>
+</$wikify>
+</$vars>

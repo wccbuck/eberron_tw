@@ -1,6 +1,6 @@
 created: 20210715234357438
 creator: ziphion
-modified: 20220105094155166
+modified: 20220125231231651
 modifier: ziphion
 tags: 
 title: Readme
@@ -41,7 +41,7 @@ As for checking out the tons and tons of Eberron content in this database, I'd s
 
 I also made a short [[video|https://youtu.be/BNXhAwjD4qw]] to demonstrate a few features of this database.
 
-Feel free to save a snapshot of this site ({{$:/core/ui/Buttons/save-wiki}}) at any time and edit absolutely anything you want to! When running a game, I actually give my players at the table a copy of this database to make [[character sheets|character sheet template]] (after deleting all pages with the "note" category, of course!). 
+Feel free to save a snapshot of this site ({{$:/core/ui/Buttons/save-wiki}}) at any time and edit absolutely anything you want to! If ever you want to update your local copy to the latest version, just use the [[Eberron TW Updater]]. When running a game, I actually give my players at the table a copy of this database to make [[character sheets|character sheet template]] (after deleting all pages with the "note" category, of course!). 
 
 And check out the github: [[https://github.com/wccbuck/eberron_tw/]]
 
