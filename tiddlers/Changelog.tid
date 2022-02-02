@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
 currentversion: 1.13.0
-modified: 20220202193217270
+modified: 20220202213039850
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 
-!!! 1.13.0 <span style="font-weight:normal">(Feb xx, 2022)</span>
+!!! 1.13.0 <span style="font-weight:normal">(Feb 2, 2022)</span>
 
 Lots of small changes that added up to a big change. The TW Updater addition in the last update probably justified a new version number! Speaking of which, I added support for the [[Eberron TW Updater]] back to version 1.10.0.
 
