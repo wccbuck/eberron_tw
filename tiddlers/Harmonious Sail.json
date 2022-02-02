@@ -1,13 +1,13 @@
 [
     {
         "created": "20210126021500421",
-        "title": "Harmonious Sail",
-        "text": "The [[Riedra]]n navy transports\nsoldiers and patrols the coasts in search of smugglers and\nwould-be infiltrators. ",
-        "modified": "20210727192012654",
-        "tags": "[[Harmonious Shield]] fleet military",
+        "text": "The [[Riedra]]n navy transports\nsoldiers and patrols the coasts in search of smugglers and\nwould-be infiltrators. It escorts each visitor to [[Dar Jin]] through the [[Harbor of Tranquility]] to customs inspection, and thus is the first branch of the [[Harmonious Shield]] most visitors see. They also maintain coastal forts such as [[Kintam Rhlash]].",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Harmonious Sail",
+        "tags": "[[Harmonious Shield]] fleet military",
+        "modified": "20220127211423835",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

@@ -2,9 +2,11 @@ category: organization
 color: #052c65
 created: 20201223005021862
 list-before: 
-modified: 20210727192002531
+modified: 20220127203712212
 tags: business gang
 title: crime syndicate
 type: text/vnd.tiddlywiki
 
-<<list-links-article "[tag{!!title}sort[title]]">>
+A crime syndicate is a criminal organization that acts as a centralized enterprise to engage in illegal activities. They are set apart from run-of-the-mill street gangs by their complexity and centralization. Prominent crime syndicates include the [[Boromar Clan]], [[Daask]], and the [[Tyrants]].
+
+!!! <<showorg-type>>

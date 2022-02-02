@@ -2,9 +2,11 @@ category: organization
 color: #052c65
 created: 20210225161736388
 list-before: 
-modified: 20210906051845314
+modified: 20220127203251319
 tags: gang
 title: fleet
 type: text/vnd.tiddlywiki
 
-<<list-links-article "[tag{!!title}sort[relevance]]">>
+A fleet is any organization characterized primarily by its operation of a large group of ships (naval or air). The individual principalities of [[Lhazaar|Lhazaar Principalities]] fall under this category.
+
+!!! <<showorg-type>>

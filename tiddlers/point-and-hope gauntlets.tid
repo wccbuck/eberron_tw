@@ -12,9 +12,9 @@ d7: 3
 duration: 1 minute
 effect: Any part of target not covered by clothing appears to be skeletal for the next {{!!duration}}.
 l_duration: 5 days
-modified: 20220114013502644
+modified: 20220202035351844
 s_duration: 12 seconds
-spell: meld into stone
+spell: control water
 tags: accessory
 tier: 3
 title: point-and-hope gauntlets
@@ -29,7 +29,11 @@ Three times per day, the wearer can cast a completely random spell (common, unco
 </$button>
 
 <<<
-<$link to={{!!spell}}/>
+
+!!! <$link to={{!!spell}}/>
+
+<$transclude tiddler={{!!spell}}/>
+
 <<<
 
 {{||random magical effect}}

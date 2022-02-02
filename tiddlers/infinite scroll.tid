@@ -1,0 +1,23 @@
+category: object
+color: #41D5E1
+created: 20220202033658057
+modified: 20220202035528469
+spell: burning hands
+tags: [[magical implement]]
+tier: 2
+title: infinite scroll
+type: text/vnd.tiddlywiki
+
+This scroll acts as a [[spell scroll, tier 2]]. Each day, a random [[uncommon-tier|spell tier]] [[arcane|arcane magic]] spell appears on the scroll, which you can use once as usual.
+
+<$button>
+<$action-chooserandom $filter="[[spell school]tagging[]tagging[]category[spell]tier[2]]" $field="spell"/>Random Arcane Spell
+</$button>
+
+<<<
+
+!!! <$link to={{!!spell}}/>
+
+<$transclude tiddler={{!!spell}}/>
+
+<<<

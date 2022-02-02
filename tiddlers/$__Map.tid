@@ -2,7 +2,7 @@ caption: Map
 created: 20210112213904741
 cutoff: 0
 list-before: $:/core/ui/SideBar/Open
-modified: 20211012163748064
+modified: 20220202011342227
 tags: $:/tags/SideBar
 title: $:/Map
 type: text/vnd.tiddlywiki
@@ -74,8 +74,8 @@ Refresh Map
 </$reveal>
 
 <$set name=filters filter="[[$:/MapTags]tags[]sort[]reverse[]]">
-<div style="padding:7px;border-style: double;max-width:600px;">
-<$fantasymap width="100%" filter=<<filters>> clipPadding="2.0" fly={{$:/FlyLocation!!fly}} markerRefresh={{$:/Markers!!refresh}} polmap={{$:/PolMap}}/>
+<div style="padding:7px;border-style: double; width:600px; height:420px;min-width:100px; min-height:100px; resize:both;overflow:auto;">
+<$fantasymap width="100%" height="100%" filter=<<filters>> clipPadding="2.0" fly={{$:/FlyLocation!!fly}} markerRefresh={{$:/Markers!!refresh}} polmap={{$:/PolMap}}/>
 </div>
 </$set>
 

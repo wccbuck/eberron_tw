@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20220126070022684
+modified: 20220126070217914
+tags: cursed weapon
+tier: 4
+title: corecut dagger
+type: text/vnd.tiddlywiki
+
+This dark metal blade bends in a wicked, hooked curve. When you hit a creature with this weapon, you can [[push yourself]] to deal a great deal of additional necrotic damage.
+
+This weapon is [[cursed]], a fact that is revealed only when an [[identify]] spell is cast on the
+weapon or you attune to it. Attuning to the dagger
+curses you until you are targeted by the [[remove curse]] spell or similar magic; disposing of the dagger fails to end the curse. While cursed, whenever you receive magical healing, you must suffer 1 [[stress]] to recover any [[harm]]. If at any point you fill all your [[stress]] boxes, you die.

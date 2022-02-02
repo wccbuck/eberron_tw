@@ -2,9 +2,11 @@ category: organization
 color: #052c65
 created: 20210225023037573
 list-before: 
-modified: 20210727192021208
+modified: 20220127195500980
 tags: business gang
 title: mercenary troop
 type: text/vnd.tiddlywiki
 
-<<list-links-article "[tag{!!title}sort[title]]">>
+A mercenary troop is any group of professional soldiers hired to serve in a foreign army, guerrilla organization, or similar military company. The most prominent organizations utilizing mercenary troops in [[Khorvaire]] are the [[dragonmarked house]]s [[Deneith]] and [[Tharashk]], though many independent troops exist.
+
+!!! <<showorg-type>>

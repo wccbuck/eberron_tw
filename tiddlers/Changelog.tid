@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.12.9
-modified: 20220125225049458
+currentversion: 1.13.0
+modified: 20220202035543647
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,32 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.13.0 <span style="font-weight:normal">(Feb xx, 2022)</span>
+
+Lots of small changes that added up to a big change. The TW Updater addition in the last update probably justified a new version number! Speaking of which, I added support for the [[Eberron TW Updater]] back to version 1.10.0.
+
+* Added content about [[Fairhaven]] from Dungeon 170/173/175 and Five Nations. This includes the wards of Fairhaven, which have been added to the map. Had to piece together where the boundaries of the wards actually are, but, I think these are right based on canon sources. Also omitted or changed the things I thought were dumb ("Dark Daggers Gang"? Really?) 
+** Wards: [[Wood Ward]], [[Sunset Ward]], [[Chalice Center]], [[Whiteroof Ward]], [[Knowledge Ward]], [[Sovereign Ward]], [[Laurelbough Ward]]
+** Other locations: the [[Distant Exchange]], [[Jorasco Enclave (Fairhaven)]], [[Old Tira's Mercy]], [[Underquay]], [[Vorenn's Walk]], [[ir'Uvanto Family Antiquities]], the [[Third Tower]]
+** People: Castellan [[Adele Fulirno]], [[Kreelo]], [[Thothar Ostren]], Countess [[Tesyn ir'Lantar]], [[Ilsya ir'Lantar]], [[Torven the Ageless]], [[Tirah the Shark]], [[Ralsor d'Lyrandar]], [[Fherina Arvindi]], [[Staunch]], [[Dharvek]], [[Imre Levalle]]
+** Organizations/Misc: [[K.N.I.V.E.S.]], [[ir'Lantar family]]
+* Added content about the [[Grim Lords]] as per the recent KB blog post. Significantly augmented/altered the [[Varonaen]] page, and added [[Haeldar Krakensbane]], [[Eldaraen]], and the [[Vyrael Sisters]].
+* Added a couple of towns to the map:
+** [[Jarran]], which is referenced in a [[Korranberg Chronicle]] article
+** [[Kerkulin]], [[Rhenshia]], and [[Tanar]], which are on the Five Nations map of [[Aundair]] but no later ones
+* Made the map in the sidebar resizeable (desktop only)
+* Other misc map tweaks and fixes
+* Added content from old (Paizo-era) Dragon magazine:
+** [[Khesavuthir]], [[Ghostclaw]], Clan [[Alarak]], [[Uraash]], the [[Brood of Ruin]] (renamed from "Cold Wind" since the name was kind of lame and also was too similar to [[Razor Wind]]).
+* Added some magic items from [[Tal'Dorei|https://shop.critrole.com/products/taldorei-campaign-setting-reborn]]:
+** [[boots of haste]], [[boots of the vigilant]], [[cataclysm bolt]], [[corecut dagger]], [[dagger of denial]], [[echo stone]], [[magician's judge]], [[mirror of infinite transpondence]], [[raven's slumber]], [[rod of mercurial form]], [[stormrider boots]], [[summer's dance]], [[flamefriend lantern]]
+* Added some magic items from [[Lledrith's Wagon|https://www.dmsguild.com/product/231709/Magic-Item-Store-Lledriths-Wagon]]:
+** [[Aldfirth's earring]], [[demonhoof hammer]], [[carton of useful pills]], [[feinting blade]], [[druid's sickle]], [[empathic rings]], [[irresistible tap shoes]], [[invisible dagger]], [[calming shawm]], [[ruinous flute]], [[infinite scroll]]
+* Fleshed out several "stub" pages that were heavily referenced by other pages, but just didn't have a whole lot of information. 
+* Added the five ranks of [[modron]]s
+* Added heraldic emblems to each [[dragonmarked house]]
+* Removed the "d'" prefix from [[Uskal Orien]]'s name since he doesn't have a [[dragonmark]]
 
 !!! 1.12.9 <span style="font-weight:normal">(Jan 25, 2022)</span>
 
@@ -212,6 +238,19 @@ Miscellaneous:
 * Added a tracker for items that have charges
 * Added a few more [[random magical effect]]s to the table and fixed some typos there
 
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
+
 !!! 1.11.7 <span style="font-weight:normal">(Dec 14, 2021)</span>
 
 * Added creatures:
@@ -363,19 +402,6 @@ Miscellaneous:
 
 * Increased maximum [[momentum]] pool size to 5; 3 max momentum for a whole party just isn't enough
 * Clarified phrasing on a few pages, fixed some wrong tags, etc
-
-!
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
-</$button>
 
 !!! 1.10.3 <span style="font-weight:normal">(Nov 23, 2021)</span>
 

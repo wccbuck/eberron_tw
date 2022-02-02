@@ -1,0 +1,25 @@
+category: object
+color: #41D5E1
+created: 20220202013721405
+modified: 20220202014407681
+tags: tool
+tier: 2
+title: carton of useful pills
+type: text/vnd.tiddlywiki
+
+This carton holds a number of pills of various
+colors. If one of these pills receives a drop of water, it
+grows and magically transforms into a useful item
+after 10 seconds. A pill cannot be reverted after it was
+transformed. The carton includes pills of the specified
+color, number, and usage:
+
+|!Color |!Quantity |!Transformed Item |
+|Red | 5 |A boulder with a diameter of 10 ft. |
+|Green | 3 |A wooden plank with a length of 15 ft. |
+|Blue | 2 |A large square piece of cloth, 10 ft by 10 ft. |
+|Yellow | 10 |A single day's ration of dry foods. |
+|Orange | 2 |A wooden ladder with a length of 20 ft. |
+|White | 3 |An iron pole with a length of 10 ft. |
+|Black | 1 |A horse cart without mounts. |
+|Purple | 1 |A small shack. |

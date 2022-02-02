@@ -1,0 +1,23 @@
+2d4: 6
+category: object
+color: #41D5E1
+created: 20220202033151877
+d10: 1
+d20: 15
+d35: 15
+d4: 1
+d50: 5
+d7: 3
+duration: 10 minutes
+effect: Target asserts that they have the power to bestow godhood. The delusion persists for the next {{!!duration}}.
+l_duration: 3 days
+modified: 20220202033357873
+s_duration: 25 seconds
+tags: [[magical implement]]
+tier: 2
+title: ruinous flute
+type: text/vnd.tiddlywiki
+
+If you are a [[bard]], you can use this cracked flute as a [[magical implement]]. When you get a [[consequence]] on an attempt to cast a spell with the flute, you trigger a [[random magical effect]].
+
+{{||random magical effect}}

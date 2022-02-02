@@ -59,6 +59,9 @@ FantasyMapWidget.prototype.render = function(parent,nextSibling) {
 
 	mapDiv.setAttribute("id", "fantasy-map-" + mapNumber);
 	mapDiv.setAttribute("style", "width:"+width + ";height:"+height+";");
+    if (isTouchDevice()) {
+      parent.setAttribute("style","padding:7px;border-style: double; max-width:600px; height:420px;");
+    }
     parent.insertBefore(mapDiv,nextSibling);
 	this.renderChildren(mapDiv,null);
 	this.domNodes.push(mapDiv);
@@ -599,6 +602,12 @@ function showPolMap(self){
     }
 }
 
+function isTouchDevice() {
+  return (('ontouchstart' in window)
+			   || (navigator.MaxTouchPoints > 0)
+			   || (navigator.msMaxTouchPoints > 0));
+}
+
 function mapTiddler(self, place, layer=null, additionalStyleField=null){
 	try {
 		var fields = self.wiki.getTiddler(place).fields;
@@ -636,12 +645,6 @@ function mapTiddler(self, place, layer=null, additionalStyleField=null){
 		if (fields.linkto) {
 			linkto = fields.linkto;
 			objTitle = fields.linkto;
-		}
-
-		function isTouchDevice() {
-		  return (('ontouchstart' in window)
-			   || (navigator.MaxTouchPoints > 0)
-			   || (navigator.msMaxTouchPoints > 0));
 		}
 
 		function clickAndHoverBehavior(element, isMarker=false){

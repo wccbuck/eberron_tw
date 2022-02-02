@@ -1,0 +1,19 @@
+category: object
+color: #41D5E1
+created: 20220126070359027
+modified: 20220126070433618
+tags: weapon
+tier: 3
+title: dagger of denial
+type: text/vnd.tiddlywiki
+
+This silver stiletto blade bears intricate grooves that
+spiral from its tip to its ivory hilt and handle. 
+
+You can place the point of the blade
+into any keyhole and seal it shut. A keyhole sealed in
+this way can’t be unlocked until this dagger is placed
+into that keyhole once more (though a sealed door
+or container can still be broken, bypassing the lock).
+Sealing a keyhole unseals any keyholes previously
+sealed with this weapon.

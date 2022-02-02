@@ -1,0 +1,12 @@
+category: creature
+color: #EA868F
+created: 20220127210356741
+modified: 20220127210419264
+tags: construct immortal modron
+tier: 1
+title: duodrone
+type: text/vnd.tiddlywiki
+
+The blocky duodrones supervise units of [[monodrone]]s and can perform up to two tasks at a time. They appear as two connected stacked boxes with a single eye, a mouth, and a spindly pair of arms, legs, and wings.
+
+Like all [[modron]]s, {{!!title}}s have [[truesight]] out to 120 feet and can't be compelled to act in a manner contrary to their nature or their instructions.

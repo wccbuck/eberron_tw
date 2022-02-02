@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200421200814856
-modified: 20210727192024240
+modified: 20220129225446708
 tags: fiend immortal
 tier: 6
 title: overlord
@@ -16,4 +16,4 @@ Some thirty overlords are bound in Khyber, including [[Rak Tulkhesh]] and [[Sul 
 
 !! Known Overlords
 
-<<list-links-article "[tag{!!title}sort[title]]">>
+<<list-links-article "[tag{!!title}sort[relevance]]">>

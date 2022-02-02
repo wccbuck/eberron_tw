@@ -1,10 +1,24 @@
 category: creature
 color: #EA868F
 created: 20200422192507869
-modified: 20210727192021862
+modified: 20220127210622188
 tags: construct immortal
 tier: 1
 title: modron
 type: text/vnd.tiddlywiki
 
-Modrons are [[construct]]s of absolute law that adhere to a hive-like hierarchy. They inhabit the plane of [[Daanvi]], their existence a clockwork routine of perfect order.
+Modrons are [[construct]]s of absolute law that adhere to a hive-like hierarchy. They inhabit the plane of [[Daanvi]], their existence a clockwork routine of perfect order. Modrons appear as geometric shapes, such as spheres or cubes; the complexity of a modron's shape reflects the level of sophistication of their duties. 
+
+Modrons have no sense of self beyond what is necessary to fulfill their duties. They exist as a unified collective, divided by ranks, yet they always refer to themselves collectively. To a modron, there is no "I," but only "we" or "us." As a result of this "axiomatic mind", modrons are immune to any attempt to compel it to act in a manner contrary to its nature or its instructions.
+
+Five varieties of base modron exist, broken up by rank. Modrons communicate only with their own rank and the ranks immediately above and below them. If a modron is destroyed, its remains disintegrate; a replacement from the next lowest rank then transforms in a flash of light, gaining the physical form of its new rank. The promoted modron is replaced by one of its underlings in the same manner, all the way to the lowest levels of the hierarchy. There, a new set of [[monodrone]]s is created by the plane of [[Daanvi]].
+
+All modrons possess [[truesight]] out to a range of 120 feet.
+
+!! Types of Modron
+
+* [[monodrone]]
+* [[duodrone]]
+* [[tridrone]]
+* [[quadrone]]
+* [[pentadrone]]

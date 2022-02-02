@@ -1,0 +1,12 @@
+category: creature
+color: #EA868F
+created: 20220127210137208
+modified: 20220127210251437
+tags: construct immortal modron
+tier: 0
+title: monodrone
+type: text/vnd.tiddlywiki
+
+Monodrones are the simplest and most common [[modron]]. They are spherical with a single eye, two arms, two legs, and two small wings. A monodrone can perform one simple task at a time and can relay a single message of up to forty-eight words.
+
+Like all modrons, {{!!title}}s have [[truesight]] out to 120 feet and can't be compelled to act in a manner contrary to their nature or their instructions.

@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210402021419698
-modified: 20211202235122233
+modified: 20220126000244582
 tags: Storyloom
 title: talent
 type: text/vnd.tiddlywiki
@@ -13,7 +13,7 @@ Typically a talent will allow your character to do one of the following:
 * Get +1d6 in your dice pool (an [[advantage]]) on a specific type of attempt under a narrow circumstance
 * Gain a new benefit to [[push yourself]], or gain an added bonus to push yourself in a specific circumstance
 
-When you [[make a character|Character Creation]], you have two [[experience point]]s you may spend on talents (or one, or three, depending on the game's power level, determined by the GM). Most talents cost one experience point, though several cost two, and a few very powerful talents cost three. As your character advances, you slowly gain [[experience point]]s, which you can use to gain more talents. 
+When you [[make a character|Character Creation]], you have three [[experience point]]s you may spend on talents (or two, or four, depending on the game's power level, determined by the GM). Most talents cost one experience point, though several cost two, and a few very powerful talents cost three. As your character advances, you slowly gain [[experience point]]s, which you can use to gain more talents. 
 
 Some talents have prerequisite talents; for example, you can't take [[Changeling Metamorphosis]] without first having taken [[Changeling (talent)]]. These talents tend to be slightly stronger than talents without prerequisites at the same [[experience point]] cost, since they reward a narrow character development focus that closes off other options.
 
