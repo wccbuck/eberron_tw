@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20220202175021648
+modified: 20220202175253360
+tags: tool
+tier: 2
+title: cautious candle
+type: text/vnd.tiddlywiki
+
+When you light this candle, it forms a protected area in a 100-foot radius sphere projected around the candle. It continues to burn until you put it out, until 8 hours pass, or until a creature not already inside the protected area enters it. When a new creature enters the protected area after the candle was lit, the candle dies out and makes an audible "Hush!" sound.
