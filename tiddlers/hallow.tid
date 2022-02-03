@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20210507211929087
-modified: 20210727192012404
+modified: 20220203211749120
 tags: [[divine magic]]
 tier: 3
 title: hallow
 type: text/vnd.tiddlywiki
 
-This ritual requires 24 hours of preparation, as well as the expenditure of herbs, oils, incense, or other material components worth at least [[100c|money]]. You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect a //hallow// spell. The affected area is subject to the following effects.
+This ritual requires 24 hours of preparation, as well as the expenditure of herbs, oils, incense, or other material components worth at least [[100c|money]]. You touch a point and infuse an area around it with holy (or unholy) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect a //hallow// spell. The magic persists until it is dispelled. The affected area is subject to the following effects.
 
 First, [[immortal]]s, [[manifestation]]s, and [[undead]] can't enter the area, nor can such creatures [[charm]], frighten, or possess creatures within it. Any creature charmed, frightened, or possessed by such a creature is no longer affected upon entering the area. You can exclude one or more of those types of creatures, such as [[celestial]]s or [[fey]], from this effect.
 

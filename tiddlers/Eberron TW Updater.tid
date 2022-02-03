@@ -1,5 +1,5 @@
 created: 20220125184934578
-modified: 20220126075059582
+modified: 20220203230855447
 tags: 
 title: Eberron TW Updater
 type: text/vnd.tiddlywiki
@@ -13,8 +13,8 @@ Your version: <$select tiddler="$:/UserVersion"><$list filter="[[$:/VersionDates
 
 <$vars version={{{ [[$:/UserVersion]get[text]trim[]] }}}>
 <$wikify name="vd" text="{{{ [[$:/VersionDates]getindex<version>] }}}">
-<$set name="exportFilter" filter="[is[tiddler]![$:/StoryList]![$:/HistoryList]![$:/Import]!search:title[$:/temp/]!search:title[$:/state/]!search:title[$:/config/Manager/]sort[modified]] :filter[get[modified]compare:integer:gt<vd>]">
-<$vars numTids = {{{ [is[tiddler]![$:/StoryList]![$:/HistoryList]![$:/Import]!search:title[$:/temp/]!search:title[$:/state/]!search:title[$:/config/Manager/]sort[modified]] :filter[get[modified]compare:integer:gt<vd>] +[count[]] }}} tv-config-toolbar-text="yes" tv-config-toolbar-class="tc-button tt-button">
+<$set name="exportFilter" filter="[is[tiddler]![$:/StoryList]![$:/HistoryList]![$:/Import]!search:title[$:/temp/]!search:title[$:/state/]sort[modified]] :filter[get[modified]compare:integer:gt<vd>]">
+<$vars numTids = {{{ [is[tiddler]![$:/StoryList]![$:/HistoryList]![$:/Import]!search:title[$:/temp/]!search:title[$:/state/]sort[modified]] :filter[get[modified]compare:integer:gt<vd>] +[count[]] }}} tv-config-toolbar-text="yes" tv-config-toolbar-class="tc-button tt-button">
 
 <$reveal type="match" text="0" default=<<numTids>> >
 No tiddlers selected for export
@@ -28,7 +28,11 @@ Number of tiddlers selected for export: <<numTids>><br>
 
 !! Full export list
 
-<<list-links "[is[tiddler]![$:/StoryList]![$:/HistoryList]![$:/Import]!search:title[$:/temp/]!search:title[$:/state/]!search:title[$:/config/Manager/]sort[title]] :filter[get[modified]compare:integer:gt<vd>]">>
+<ul>
+<$list filter="[is[tiddler]![$:/StoryList]![$:/HistoryList]![$:/Import]!search:title[$:/temp/]!search:title[$:/state/]sort[title]] :filter[get[modified]compare:integer:gt<vd>]">
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
 
 </$reveal>
 

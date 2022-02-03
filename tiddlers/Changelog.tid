@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.13.0
-modified: 20220202213039850
+currentversion: 1.13.1
+modified: 20220203230727101
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,14 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.13.1 <span style="font-weight:normal">(Feb 3, 2022)</span>
+
+* Added some missing content to [[Mistmarsh]] and [[Faded Forest]]
+* Corrected description of [[Seawall Mountains]]
+* Removed reference to [[Mabar]] in the [[Gloaming]]. Decided it's a [[manifest zone]] to the [[Rot]] instead
+* Added "exclude tags" options to <$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Talents"/><$action-navigate $to="Find Things"/>Find Talents</$button>
+* Fixed a few minor things (missing links, etc).
 
 !!! 1.13.0 <span style="font-weight:normal">(Feb 2, 2022)</span>
 
