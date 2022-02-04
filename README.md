@@ -17,7 +17,7 @@ Keep in mind that much of this material has been altered, in small or large ways
 * I have rewritten large chunks of older material pertaining to the Blood of Vol, the Emerald Claw, and Lady Illmarrow to align with more recent writings on these topics.
 * Almost all listed city populations are, in my mind, far too small. I have multiplied most populations by 5.
 
-This document is not a complete database of all things Eberron. I have deliberately omitted certain content which I feel to be antithetical to the core concept of the setting as laid out by [Keith Baker](http://keith-baker.com). Among the excluded content are large swaths of the books *Five Nations*, *Forge of War*, *Explorer's Handbook*, *Faiths of Eberron*, and other core canon Eberron materials.
+This document is a mostly complete database of all things Eberron, and I still periodically add to it. However, please note that I have deliberately omitted certain content which I feel to be antithetical to the core concept of the setting as laid out by [Keith Baker](http://keith-baker.com). Among the excluded content are large swaths of the books *Five Nations*, *Forge of War*, *Explorer's Handbook*, *Faiths of Eberron*, and other core canon Eberron materials.
 
 ## How do I use this?
 
@@ -29,4 +29,4 @@ As for checking out the tons and tons of Eberron content in this database, I'd s
 
 **Modern Age** is a rundown of major events in the world (particularly within Khorvaire) over the last 5000 years. Pick an event, and then just start link hopping!
 
-Feel free to save a snapshot of this site at any time and edit absolutely anything you want to!
+Feel free to save a snapshot of this site at any time and edit absolutely anything you want to! If ever you want to update your local copy to the latest version, just use the Eberron TW Updater.
