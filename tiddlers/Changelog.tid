@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.13.1
-modified: 20220203230727101
+currentversion: 1.13.2
+modified: 20220206190032098
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,12 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.13.2 <span style="font-weight:normal">(Feb 6, 2022)</span>
+
+* Tweaked [[Taratai]] page to fit KB's version of early [[kalashtar]] history; added [[Kalashtar History]] and [[Void of Taratai]] pages.
+* Clarified language on [[aspect]] page
+* Fixed some typos
 
 !!! 1.13.1 <span style="font-weight:normal">(Feb 3, 2022)</span>
 

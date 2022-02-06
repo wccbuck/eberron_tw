@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20220206180403429",
+        "text": "''Date: '' <$link to=\"Khorvaire calendar\">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable=\"noop\">-{{!!day2}}</$list> <$transclude tiddler=\"$:/MonthNames\" index={{!!month}}/></$link>\n\nA total of sixty-seven [[quori]] reached the world to form the [[kalashtar]] race (see [[Kalashtar History]]). Each of those spirits has a five-day period each year\nin which its memory is honored. During this period, kalashtar of the spirit’s lineage pause to reflect on the memory of their [[quori]] ancestor.\n\nWhile sixty-seven [[quori]] spirits reached [[Eberron]], only sixty-six are still in existence. The lineage of [[Taratai]] has been completely eradicated. The five days that were originally set aside for Taratai’s line have become a period of mourning for the entire [[kalashtar]] race. During these five days, all kalashtar gather to remember the exodus and the birth of their race, and to ensure that they never lose another line. Recently, the [[atavist]]s have made an extra effort to strike out against the [[Dreaming Dark]] during the Void, to take vengeance for the soul that was stolen.",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Void of Taratai",
+        "tags": "holiday [[Path of Light]]",
+        "modified": "20220206181426469",
+        "month": "1",
+        "day": "10",
+        "color": "#A3CFBB",
+        "category": "event",
+        "day2": "15",
+        "article": "the "
+    }
+]
