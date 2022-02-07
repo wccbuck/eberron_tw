@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.13.2
-modified: 20220206190032098
+currentversion: 1.13.3
+modified: 20220207220004785
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,13 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.13.3 <span style="font-weight:normal">(Feb 7, 2022)</span>
+
+* Added a [[talent]] tab to [[My Stuff]]
+* Added several [[Pathfinder 2E|https://paizo.com/products/btq01zp4?Pathfinder-Bestiary]] creatures (some of which have been changed significantly from their pathfinder versions):
+** [[baomal]], [[bunyip]], [[cauthooj]], [[shemhazian]], [[dezullon]], [[drakauthix]], [[grothlut]], [[gogiteth]], [[gug]], [[nilith]], [[sea serpent]], [[shuln]], [[slurk]], [[wendigo]]
+** Also renamed "darkling" to [[caligni]].
 
 !!! 1.13.2 <span style="font-weight:normal">(Feb 6, 2022)</span>
 
@@ -577,7 +584,7 @@ Miscellaneous:
 ** creatures:
 *** [[brigganock]]
 *** [[campestri]]
-*** [[darkling]]
+*** darkling (changed in 1.13.3 to [[caligni]])
 *** [[jabberwock]]
 *** [[living doll]]
 ** items:

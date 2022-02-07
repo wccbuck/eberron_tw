@@ -1,0 +1,12 @@
+caption: Talents
+created: 20220207174325043
+mode: edit
+modified: 20220207174343913
+tags: 
+title: $:/MyTalents
+type: text/vnd.tiddlywiki
+
+!!! Saved Talents
+<div class="cs-column" style="justify-content: flex-start;">
+<$macrocall $name="list-data-draggable" tiddler="$:/MyStuffData" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="100%" filter="[category[talent]]"/>
+</div>
