@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.13.3
-modified: 20220207220004785
+currentversion: 1.13.4
+modified: 20220208175150887
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,12 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.13.4 <span style="font-weight:normal">(Feb 8, 2022)</span>
+
+* Added [[Nowhere]], a town in [[Breland]] mentioned in Five Nations
+* Increased the [[spell tier]] of [[flaming sphere]] from uncommon to rare
+* Fixed some typos, removed a couple of "as an action"s
 
 !!! 1.13.3 <span style="font-weight:normal">(Feb 7, 2022)</span>
 
