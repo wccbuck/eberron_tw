@@ -1,13 +1,12 @@
 category: spell
 color: #B7A1E0
 created: 20210425165849239
-modified: 20210727192008709
+modified: 20220208174556823
 tags: [[primal magic]] evocation
-tier: 2
+tier: 3
 title: flaming sphere
 type: text/vnd.tiddlywiki
 
-A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within 60 feet and lasts for up to 1 minute (or until your concentration is broken). Creatures within 5 feet of the sphere are subjected to its searing heat.
+A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within 60 feet and lasts for up to 1 minute (or until your concentration is broken). Creatures within 5 feet of the sphere are subjected to its searing heat. The sphere ignites flammable objects, and it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
-You can move the sphere around at a speed of up to 10 feet per second, but it must remain within 60 feet of you. When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. The sphere ignites flammable objects, and it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
-
+You can move the sphere around at a speed of up to 10 feet per second, but it must remain within 60 feet of you. When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide.
