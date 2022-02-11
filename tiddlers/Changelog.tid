@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.13.4
-modified: 20220208175150887
+currentversion: 1.13.5
+modified: 20220211061245813
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,12 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.13.5 <span style="font-weight:normal">(Feb 11, 2022)</span>
+
+* Added the [[Rose Queen]], [[archfey]] ruler of [[Shae Loralyndar]]. In canon, the ruler is "Lord Eversun", but KB refers to the Rose Queen as the ruler in the book The Fading Dream. I used the Selephra article from Dungeon Magazine #185 for inspiration.
+* Added a bit to [[Starilaskur]] based on [[Crossroads of Destiny|https://www.dmsguild.com/product/361655/Eberron--Crossroads-of-Destiny-Starilaskur]] (3rd party)
+* Added a little detail to cities of [[Cyre]]/the [[Mournland]], inspired by [[Politics of Cyre|https://www.dmsguild.com/product/385313/Politics-of-Cyre]] (3rd party)
 
 !!! 1.13.4 <span style="font-weight:normal">(Feb 8, 2022)</span>
 
