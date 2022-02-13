@@ -1,0 +1,17 @@
+category: game mechanics
+created: 20220213005044674
+modified: 20220213030724387
+tags: Storyloom
+title: magical healing
+type: text/vnd.tiddlywiki
+
+In the [[Storyloom]] system, when player characters are injured, they mark boxes of [[harm]] on their [[character sheet|character sheet template]]. Ordinarily, each harm box requires one day of rest to recover, assuming the character has access to medical attention.
+
+However, some [[spell]]s, such as [[cure wounds]] or [[healing word]], or items such as [[potions of healing|potion of healing]], can rapidly accelerate the recovery of injuries through the use of magic. Like other effects, these magical healing effects have an associated [[impact]] determined by the tier of the effect and other factors as determined by the GM. 
+
+|![[Impact|impact]] |!Result of Magical Healing |
+|1 (Low) |Clear the target's top left-most [[harm]] box; recover from other harm 50% faster for 24 hours. |
+|2&nbsp;(Moderate) |Clear the target's first two top left-most [[harm]] boxes; recover from other harm 100% faster for 24 hours. |
+|3 (High) |Clear the target's first three top left-most [[harm]] boxes; recover from other harm 150% faster for 24 hours. |
+
+...And so on. Note that magical healing only affects specific harm boxes. This means that low-impact magical healing can only clear the target's top left box; if other harm boxes are filled, they are out of reach of the effect. This means players should fill their top-left harm boxes first so that they can be quickly restored by magical healing.

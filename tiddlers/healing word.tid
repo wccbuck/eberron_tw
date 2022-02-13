@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20210103190813626
-modified: 20220102223609851
+modified: 20220213023542554
 tags: [[divine magic]]
 tier: 2
 title: healing word
 type: text/vnd.tiddlywiki
 
-The spellcaster proclaims a holy word of recovery. A creature of their choice within 60 feet rapidly recovers from injuries. This spell has no effect on [[undead]] or [[construct]]s (but does affect [[deathless]] and [[warforged]]). 
+The spellcaster proclaims a holy word of recovery. A creature of their choice within 60 feet rapidly recovers from injuries (low-[[impact]] [[magical healing]]). This spell has no effect on [[undead]] or [[construct]]s (but does affect [[deathless]] and [[warforged]]). 
 
 This spell is similar to [[cure wounds]]. That spell requires physical contact, but it results in more substantial healing, and can be done quietly.
 

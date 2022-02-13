@@ -1,10 +1,19 @@
 category: spell
 color: #B7A1E0
 created: 20210428003247851
-modified: 20210727192027754
+modified: 20220213025422033
 tags: transmutation
 tier: 4
 title: regeneration
 type: text/vnd.tiddlywiki
 
-You touch a creature and accelerate its natural healing ability. For up to 1 hour, the target's physical wounds heal extremely rapidly. Any severed body members (fingers, legs, tails, and so on), are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.
+You touch a creature and greatly accelerate its natural healing ability. For up to 1 hour, the target's physical wounds heal extremely rapidly. Any severed body members (fingers, legs, tails, and so on), are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump. When the spell's duration expires, the target suffers 2 [[stress]].
+
+Unlike standard [[magical healing]], this spell clears harm a bit differently. For the duration of the spell, the target's harm boxes are cleared in the following times:
+
+|!Harm Box # |!Time to Clear |
+| 1 |30 seconds |
+| 2 |2 minutes |
+| 3 |5 minutes |
+| 4 |15 minutes |
+| 5 |40 minutes |

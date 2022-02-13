@@ -2,7 +2,7 @@ category: object
 charges: 5
 color: #41D5E1
 created: 20211221000204584
-modified: 20220110190016087
+modified: 20220213030313590
 tags: [[magical implement]] weapon
 tier: 4
 title: bloodmage dagger
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 
 This roughly hewn obsidian dagger is razor sharp and can be used as a [[magical implement]]. Its handle is covered in small holes that drink in whatever blood runs down the blade. A small reservoir for blood in the dagger's pommel never seems to completely fill.
 
-The dagger has 5 charges of magical energy, and regains <<dr 1d3+2>> expended charges daily at dusk. While holding the dagger, you can expend 1 of its charges to make a magical attack at an enemy you can see within 5 feet of you. An illusory crimson dagger sweeps out toward the creature; if it strikes, the creature suffers necrotic damage, and you rapidly recover from any injuries you may have suffered, as life force flows into you from the target creature. If the target does not have life force (such as a [[Mabar]]an [[undead]]), you don't benefit from this accelerated healing.
+The dagger has 5 charges of magical energy, and regains <<dr 1d3+2>> expended charges daily at dusk. While holding the dagger, you can expend 1 of its charges to make a magical attack at an enemy you can see within 5 feet of you. An illusory crimson dagger sweeps out toward the creature; if it strikes, the creature suffers necrotic damage, and you rapidly recover from any injuries you may have suffered (moderate-[[impact]] [[magical healing]]), as life force flows into you from the target creature. If the target does not have life force (such as a [[Mabar]]an [[undead]]), you don't benefit from this accelerated healing.
 
 While holding this dagger, you can also expend 2 charges when you cast an [[uncommon or rare|spell tier]] spell that targets a single creature (or yourself). You may cast that spell at one [[spell tier]] higher. When you use this property, you suffer 1 [[harm]] as necrotic damage that cannot be reduced or resisted.
 

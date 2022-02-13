@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20211213234543813
+modified: 20220213015207481
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -114,24 +114,24 @@ type: text/vnd.tiddlywiki
 <div class="cs-row">
             <div class="cs-column">
 				<div>
-		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s1" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s2" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s3"class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s7"class="cs-check-special"/>
+		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s1" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s3" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s5"class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s7"class="cs-check-special"/>
 				</div>
             </div>
             <div class="cs-column">
 				 <div>
-		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h1" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h2" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h3" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h7"class="cs-check-special"/>
+		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h1" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h3" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h5" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h7"class="cs-check-special"/>
 				</div>
             </div>
         </div>
 		<div class="cs-row">
 			<div class="cs-column">
 				<div>
-		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s4" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s5" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s6"class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s8"class="cs-check-special"/>
+		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s2" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s4" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s6"class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s8"class="cs-check-special"/>
 				</div>
 			</div>
 			<div class="cs-column">
 				<div>
-		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h4" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h5" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h6" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h8"class="cs-check-special"/>
+		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h2" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h4" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h6" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h8"class="cs-check-special"/>
 				</div>
 			</div>
 		</div>
