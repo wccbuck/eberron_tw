@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20211228210826544
-modified: 20220110034320334
+modified: 20220213025656903
 tags: tool
 tier: 2
 title: healing arrow
 type: text/vnd.tiddlywiki
 
-This magic ammunition is made by [[cleric]]s of [[Balinor]]. An attack made with this ammunition deals no damage to any target hit by it. When you launch this ammunition from a bow or crossbow and hit a creature other than yourself, that creature rapidly recovers from injury, as the spell [[cure wounds]]. Once it hits a creature, the ammunition dissolves into pure healing magic before it's destroyed. This ammunition has no effect on [[undead]] or [[construct]]s (but does affect [[deathless]] and [[warforged]]).
+This magic ammunition is made by [[cleric]]s of [[Balinor]]. An attack made with this ammunition deals no damage to any target hit by it. When you launch this ammunition from a bow or crossbow and hit a creature other than yourself, that creature rapidly recovers from injury (moderate-[[impact]] [[magical healing]]). Once it hits a creature, the ammunition dissolves into pure healing magic before it's destroyed. This ammunition has no effect on [[undead]] or [[construct]]s (but does affect [[deathless]] and [[warforged]]).

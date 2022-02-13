@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211027201815872
-modified: 20220110034324011
+modified: 20220213025829039
 tags: accessory tool
 tier: 5
 title: platinum scarf
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 
 This scarf is made of sturdy cloth and covered in platinum-colored scales. You can pull a scale from the scarf and speak a command word; when you do so, choose one of the following effects:
 
-//''Breath of Life.''// The scale disappears, and you or a creature you touch rapidly recovers from injury.
+//''Breath of Life.''// The scale disappears, and you or a creature you touch rapidly recovers from injury (high-[[impact]] [[magical healing]]).
 
 //''Platinum Shield.''// For 1 hour or until you dismiss it, the scale becomes a magical shield, which you or another creature can use. A creature wielding the shield has immunity to radiant damage.
 

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227013810923
-modified: 20220110034324503
+modified: 20220213023716778
 tags: potion
 tier: 1
 title: potion of healing
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 When you drink this potion, your body's natural healing is rapidly accelerated. The potion's red liquid glimmers when agitated.
 
-Higher-rarity versions of this potion accelerate healing even faster.
+The common-tier version of this potion counts as low-[[impact]] [[magical healing]]. Higher-rarity versions of this potion have higher impact.

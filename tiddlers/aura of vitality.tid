@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210507203124967
-modified: 20210727191956474
+modified: 20220213024111926
 tags: [[divine magic]]
 tier: 3
 title: aura of vitality
 type: text/vnd.tiddlywiki
 
-Healing energy radiates from you in an aura with a 30-foot radius. For up to a minute, the aura moves with you, centered on you. Creatures in the aura (including you) more quickly recover from injury.
+Healing energy radiates from you in an aura with a 30-foot radius. For up to a minute, the aura moves with you, centered on you. Creatures in the aura (including you) more quickly recover from injury (low-[[impact]] [[magical healing]] every few seconds).

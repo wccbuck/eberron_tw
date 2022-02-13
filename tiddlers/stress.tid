@@ -1,11 +1,11 @@
 category: game mechanics
 created: 20210401182844254
-modified: 20211127221145144
+modified: 20220213015303997
 tags: Storyloom [[Taking Action]]
 title: stress
 type: text/vnd.tiddlywiki
 
-Stress represents your reserve of stamina and luck that is depleted as your character exerts themselves or tempts fate. You have six boxes on your character sheet labeled "stress"; mark these boxes as you suffer stress from [[consequence]]s. Perhaps casting that [[fireball]] fatigued you a bit, or sprinting across the courtyard took more out of you than you expected, or maybe you twisted out of the way of that dart trap just in time. These are all great situations to mark stress as a [[consequence]]. 
+Stress represents your reserve of stamina and luck that is depleted as your character exerts themselves or tempts fate. You have six boxes on your [[character sheet|character sheet template]] labeled "stress"; mark these boxes as you suffer stress from [[consequence]]s. Perhaps casting that [[fireball]] fatigued you a bit, or sprinting across the courtyard took more out of you than you expected, or maybe you twisted out of the way of that dart trap just in time. These are all great situations to mark stress as a [[consequence]]. 
 
 You can also choose to spend two stress to [[push yourself]], adding +1 [[momentum]] to an attempt. Some [[talent]]s allow you to spend only one stress to push yourself in specific situations.
 
