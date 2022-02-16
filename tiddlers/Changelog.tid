@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.13.6
-modified: 20220213030827266
+currentversion: 1.13.7
+modified: 20220216002234206
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,11 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.13.7 <span style="font-weight:normal">(Feb 15, 2022)</span>
+
+* Added a bit of content I forgot to finish adding from KB's [[Ghost Stories article|https://keith-baker.com/ghost-stories/]]. Added to several pages related to undead, but also created the following new ones:
+** Prince [[Moren]], the [[Silent Knight]], [[dawn specter]], [[Azael Vadallia]], the [[Crimson Shadow]]
 
 !!! 1.13.6 <span style="font-weight:normal">(Feb 12, 2022)</span>
 
