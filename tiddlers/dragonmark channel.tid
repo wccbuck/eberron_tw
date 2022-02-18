@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20201210025538535
-modified: 20220110190315553
-tags: accessory [[dragonmark focus item]]
+modified: 20220216220627209
+tags: jewelry accessory [[dragonmark focus item]]
 tier: 1
 title: dragonmark channel
 type: text/vnd.tiddlywiki
@@ -11,7 +11,7 @@ This brooch is embedded with a small Siberys [[dragonshard]],
 usually depicting the crest of its [[dragonmarked house]]. Each
 dragonmark channel is tied to a specific [[dragonmark]], such as
 the [[Mark of Healing]] or the [[Mark of Making]], and you can only
-attune to it if you possess that dragonmark.
+[[attune|attunement]] to it if you possess that dragonmark.
 
 While wearing a dragonmark channel, you can use its power rather than your own to perform one of your dragonmark abilities (equivalent to an [[uncommon tier|spell tier]] spell). After using the channel once in this way, its power is depleted and must recharge overnight.
 

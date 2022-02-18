@@ -1,14 +1,14 @@
 [
     {
         "created": "20210721183946360",
-        "text": "A rapier that, when thrust into any book, makes it so the book was never written. The wielder of the blade instantly learns everything that was in the book.",
+        "text": "The historian's lament is a rapier that, when thrust into any book, makes it so the book was never written. The wielder of the blade instantly learns everything that was in the book.",
         "type": "text/vnd.tiddlywiki",
         "title": "historian's lament",
-        "tags": "weapon",
-        "modified": "20220110034320559",
+        "tags": "sword weapon",
+        "modified": "20220216235928981",
+        "tier": "5",
         "color": "#41D5E1",
         "category": "object",
-        "article": "the ",
-        "tier": "5"
+        "article": "the "
     }
 ]

@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20220202014734162
-modified: 20220202015232630
-tags: weapon
+modified: 20220217212451302
+tags: dagger weapon
 tier: 3
 title: druid's sickle
 type: text/vnd.tiddlywiki
 
-If you can channel [[primal magic]], while attuned to this sickle, you can cast each of these spells once per day: [[goodberry]], [[speak with plants]], and [[tree stride]].
+If you can channel [[primal magic]], while [[attuned|attunement]] to this sickle, you can cast each of these spells once per day: [[goodberry]], [[speak with plants]], and [[tree stride]].

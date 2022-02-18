@@ -1,13 +1,13 @@
 category: object
 color: #41D5E1
 created: 20220103232922595
-modified: 20220110044048867
-tags: weapon [[magical implement]]
+modified: 20220216233546099
+tags: weapon [[magical implement]] staff
 tier: 3
 title: staff of the reverent warrior
 type: text/vnd.tiddlywiki
 
 This staff is adorned with blades and channels the inner focus of a warrior. When you attack with this staff, you can choose to bludgeon, slice, or puncture, using different parts of the staff.
 
-If you are a spellcaster, while you are attuned to this staff, you can cast the [[true strike]] spell as either a cantrip or an [[uncommon-tier|spell tier]] spell. You also gain one additional spellcasting [[stress]] box which you can only use to cast this spell.
+If you are a spellcaster, while you are [[attuned|attunement]] to this staff, you can cast the [[true strike]] spell as either a cantrip or an [[uncommon-tier|spell tier]] spell. You also gain one additional spellcasting [[stress]] box which you can only use to cast this spell.
 

@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.13.7
-modified: 20220216002234206
+currentversion: 1.14.0
+modified: 20220218171712945
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,19 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.14.0 <span style="font-weight:normal">(Feb xx, 2022)</span>
+
+* Added a more robust tag system for [[magic item]]s. Created subcategories for weapon, armor, magical implement, accessory, and tool
+* Created an "Object Type" field and second tag field in <$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Items"/><$action-navigate $to="Find Things"/>Find Items</$button>
+* Added some items from miscellaneous 5e adventures:
+** [[pipe of remembrance]], [[tankard of plenty]], [[charm of plant command]]
+* Renamed the spell "shield" to "[[aegis]]" so that I could make [[shield]] a sub-category of [[armor]]
+* Added an [[attunement]] page
+* Separated [[aasimar]] and [[tiefling]] talents into separate talents for each variety
+* Added some new characters from KB's recent [[blog post|https://keith-baker.com/ifaq-oargevs-suitors/]] about [[Oargev|Oargev ir'Wynarn]]'s suitors:
+** [[Haydith ir'Wynarn]], [[Rose]], [[Talalara]], [[Ilina Corla d'Cannith]]
+* Fixed some population/tag inconsistencies on towns that had more than 5000 residents. Some towns got upgraded to cities, others had their populations reduced.
 
 !!! 1.13.7 <span style="font-weight:normal">(Feb 15, 2022)</span>
 
@@ -78,6 +91,19 @@ Lots of small changes that added up to a big change. The TW Updater addition in 
 * Added the five ranks of [[modron]]s
 * Added heraldic emblems to each [[dragonmarked house]]
 * Removed the "d'" prefix from [[Uskal Orien]]'s name since he doesn't have a [[dragonmark]]
+
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
 
 !!! 1.12.9 <span style="font-weight:normal">(Jan 25, 2022)</span>
 
@@ -280,19 +306,6 @@ Miscellaneous:
 * Tweaked certain wands and staves that give extra spellcasting [[stress]]; now that extra stress can only be spent to cast the spells granted by that item
 * Added a tracker for items that have charges
 * Added a few more [[random magical effect]]s to the table and fixed some typos there
-
-!
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
-</$button>
 
 !!! 1.11.7 <span style="font-weight:normal">(Dec 14, 2021)</span>
 

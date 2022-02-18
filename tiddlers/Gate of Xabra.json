@@ -4,11 +4,11 @@
         "text": "The [[Arcanix]] towers house strange\nartifacts and relics, but few compare in size and scope\nto the Gate of Xabra. A circle of menhirs sits atop one\nof the residential towers. The standing stones, and\nindeed the very earth they rest upon, came to Arcanix\nfrom an ancient [[Q'barra]]n ruin ages ago after the mages\ndiscovered that the stones could bridge the [[plane]]s. On\neach stone is a magic rune. When the stones are activated in a specific sequence, everything inside the ring\nis whisked to another plane. Concentrated research\nhas uncovered a few sequences so far, sometimes with\ndisastrous results, but the studies continue.",
         "type": "text/vnd.tiddlywiki",
         "title": "Gate of Xabra",
-        "tags": "[[eldritch machine]]",
-        "modified": "20220110034319058",
+        "tags": "[[eldritch machine]] tool",
+        "modified": "20220216193513520",
+        "tier": "0",
         "color": "#41D5E1",
         "category": "object",
-        "article": "the ",
-        "tier": "0"
+        "article": "the "
     }
 ]

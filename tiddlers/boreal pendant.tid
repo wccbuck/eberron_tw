@@ -2,13 +2,13 @@ category: object
 charges: 6
 color: #41D5E1
 created: 20211221053905642
-modified: 20220110034313947
-tags: accessory
+modified: 20220216221006663
+tags: accessory jewelry
 tier: 3
 title: boreal pendant
 type: text/vnd.tiddlywiki
 
-This enlarged, floating snowflake is magically held in place by golden brackets, and changes its shape as temperatures fluctuate. While attuned to this pendant, you are resistant to the cold, and give off an aura of cheeriness.
+This enlarged, floating snowflake is magically held in place by golden brackets, and changes its shape as temperatures fluctuate. While [[attuned|attunement]] to this pendant, you are resistant to the cold, and give off an aura of cheeriness.
 
 The snowflake has 6 charges, and regains <<dr 1d4+1>> expended charges daily at dawn. While wearing it, you can expend 1 or more of its charges to cast the following spells:
 

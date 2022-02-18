@@ -11,9 +11,9 @@ d7: 3
 duration: 10 minutes
 effect: Target asserts that they have the power to bestow godhood. The delusion persists for the next {{!!duration}}.
 l_duration: 3 days
-modified: 20220202033357873
+modified: 20220217215747521
 s_duration: 25 seconds
-tags: [[magical implement]]
+tags: [[musical instrument]] [[magical implement]]
 tier: 2
 title: ruinous flute
 type: text/vnd.tiddlywiki

@@ -2,14 +2,14 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20201208071604782
-modified: 20220110034317838
-tags: accessory symbiont
+modified: 20220216221327373
+tags: accessory symbiont head
 tier: 2
 title: earworm
 type: text/vnd.tiddlywiki
 
 To attune to this [[symbiont]], you must hold it against the skin behind your ear for several minutes, whereupon it burrows into your head and bonds to your skull. While the earworm is inside you, you can speak, read, and write [[Deep Speech]]. 
 
-The earworm has 3 charges, and regains <<dr 1d3>> expended charges daily at dawn. You can expend a charge to cast either [[dissonant whispers]] or [[detect thoughts]]. Each time you cast [[detect thoughts]] while attuned to the earworm, the symbiont sends the information gleaned to the nearest [[daelkyr]], or to the next nearest earworm until it reaches a daelkyr.
+The earworm has 3 charges, and regains <<dr 1d3>> expended charges daily at dawn. You can expend a charge to cast either [[dissonant whispers]] or [[detect thoughts]]. Each time you cast [[detect thoughts]] while [[attuned|attunement]] to the earworm, the symbiont sends the information gleaned to the nearest [[daelkyr]], or to the next nearest earworm until it reaches a daelkyr.
 
 <<itemcharges 3>>

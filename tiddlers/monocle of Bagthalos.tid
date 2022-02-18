@@ -2,8 +2,8 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20211121043422454
-modified: 20220110034322703
-tags: cursed accessory
+modified: 20220216224643408
+tags: head cursed accessory
 tier: 5
 title: monocle of Bagthalos
 type: text/vnd.tiddlywiki
@@ -12,6 +12,6 @@ While wearing this elegant monocle, you can cast [[detect magic]] and [[true see
 
 Additionally, you can cast [[flame strike]] three times per day, regaining all expended uses each day at dawn.
 
-This monocle is [[cursed]]. When you first attune to this monocle, and then again every day at dawn, you must resist the monocle's magic or else be compelled, as a [[geas]] spell, to rectify a past failure or wrongdoing of yours (as chosen by the GM).
+This monocle is [[cursed]]. When you first [[attune|attunement]] to this monocle, and then again every day at dawn, you must resist the monocle's magic or else be compelled, as a [[geas]] spell, to rectify a past failure or wrongdoing of yours (as chosen by the GM).
 
 <<itemcharges 3>>

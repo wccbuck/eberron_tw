@@ -2,8 +2,8 @@ category: object
 charges: 4
 color: #41D5E1
 created: 20201210025900683
-modified: 20220110190920282
-tags: accessory [[dragonmark focus item]]
+modified: 20220216220612161
+tags: jewelry accessory [[dragonmark focus item]]
 tier: 2
 title: dragonmark reservoir
 tooltip: uncommon dragonmark focus item, stores power that can be channeled by mark wielders
@@ -14,7 +14,7 @@ Dragonmark reservoirs are always embedded with a Siberys
 amulet or bracelet bearing the design of the [[house|dragonmarked house]] crest. Each
 reservoir is tied to a specific [[dragonmark]], such as
 the [[Mark of Healing]] or the [[Mark of Making]], and you can only
-attune to it if you possess that dragonmark.
+[[attune|attunement]] to it if you possess that dragonmark.
 
 This item has 4 charges, and regains <<dr 1d4>> expended charges daily at dawn. While wearing a dragonmark reservoir, you can use its power rather than your own to perform one of your dragonmark abilities. Whenever you cast one of the spells your [[dragonmark]] grants you, you can expend 1 charge of your dragonmark reservoir in place of spellcasting [[stress]].
 

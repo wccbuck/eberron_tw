@@ -1,14 +1,14 @@
 category: object
 color: #41D5E1
 created: 20201210035238672
-modified: 20220110034323405
-tags: accessory [[dragonmark focus item]] [[Mark of Passage]]
+modified: 20220216211551720
+tags: accessory [[dragonmark focus item]] [[Mark of Passage]] legs
 tier: 2
 title: Ori boots
 tooltip: uncommon dragonmark focus item, allows Passage mark wielders to walk twice as fast
 type: text/vnd.tiddlywiki
 
-In order to attune to this magic item, you must possess the [[Mark of Passage]].
+In order to [[attune|attunement]] to this magic item, you must possess the [[Mark of Passage]].
 
 While you wear these boots, you can click the boots' heels together. If you do, the boots double your walking and running speed. If you click your heels together again, you end the effect.
 

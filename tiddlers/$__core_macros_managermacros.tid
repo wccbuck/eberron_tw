@@ -1,5 +1,5 @@
 created: 20201208005116699
-modified: 20220110034423849
+modified: 20220218171504973
 tags: $:/tags/Macro
 title: $:/core/macros/managermacros
 type: text/vnd.tiddlywiki
@@ -49,7 +49,9 @@ type: text/vnd.tiddlywiki
 <$action-setfield $tiddler="$:/config/Manager/Filter" text=""/>
 <$action-setfield $tiddler="$:/config/Manager/Rarity" tier="0" comparison="≥" text="[has[tier]!lessthan:tier{$:/config/Manager/Rarity!!tier}]"/>
 <$action-setfield $tiddler="$:/config/Manager/Rarity0" text="[is[tiddler]]"/>
+<$action-setfield $tiddler="$:/config/Manager/ObjectType" text=""/>
 <$action-setfield $tiddler="$:/config/Manager/ObjectTag" text=""/>
+<$action-setfield $tiddler="$:/config/Manager/ObjectTag2" text=""/>
 <$action-setfield $tiddler="$:/config/Manager/ExcludeObjectTag" text=""/>
 \end
 

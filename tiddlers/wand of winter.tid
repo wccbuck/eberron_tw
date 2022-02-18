@@ -1,14 +1,14 @@
 category: object
 color: #41D5E1
 created: 20201228020317893
-modified: 20220110034330909
-tags: [[magical implement]]
+modified: 20220216233622796
+tags: [[magical implement]] wand
 tier: 3
 title: wand of winter
 type: text/vnd.tiddlywiki
 
 This wand looks and feels like an icicle.
 
-You can cast [[ray of frost]] while attuned to this wand, ''even if you aren't a spellcaster.''
+You can cast [[ray of frost]] while [[attuned|attunement]] to this wand, ''even if you aren't a spellcaster.''
 
 If you are a spellcaster, you can also cast [[ice storm]] using this wand.

@@ -1,0 +1,13 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220216174329357
+modified: 20220218023642125
+tags: convenience tool
+tier: 1
+title: tankard of plenty
+type: text/vnd.tiddlywiki
+
+This golden stein is decorated with dancing [[dwarves|dwarf]] and grain patterns. Speaking the command word ("Illefarn") while grasping the handle fills the tankard with three pints of rich [[Mror|Mror Holds]] ale. This power can be used up to three times per day.
+
+<<itemcharges 3>>

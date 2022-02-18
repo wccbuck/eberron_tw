@@ -2,13 +2,13 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20201208071202424
-modified: 20220110034312772
-tags: [[Mark of Hospitality]] tool [[dragonmark focus item]]
+modified: 20220218175016769
+tags: convenience [[Mark of Hospitality]] tool [[dragonmark focus item]] storage
 tier: 2
 title: bag of bounty
 type: text/vnd.tiddlywiki
 
-This is a sturdy leather sack with tiny [[Siberys shards|dragonshard]] embedded into the lining. A person with the [[Mark of Hospitality]] can magically draw a feast from within the bag. You shape this meal with your thoughts. You can create the standard bland food and water without requiring any sort of roll, but you can attempt to create finer fare; if you're proficient as a chef, gain +1 [[impact]] on this attempt. A failed attempt results in a sour and squalid meal.
+This is a sturdy leather sack with tiny [[Siberys shards|dragonshard]] embedded into the lining. If you have the [[Mark of Hospitality]], you can magically draw a feast from within the bag. You shape this meal with your thoughts. You can create the standard bland food and water without requiring any sort of roll, but you can attempt to create finer fare; if you're proficient as a chef, gain +1 [[impact]] on this attempt. A failed attempt results in a sour and squalid meal.
 
 A //bag of bounty// can be used up to three times over the course of a day. After that, the bag can't be used again until the next dawn.
 

@@ -1,10 +1,15 @@
 category: object
 color: #41D5E1
 created: 20220202032957840
-modified: 20220202033126813
-tags: [[magical implement]]
+modified: 20220217220908119
+tags: [[musical instrument]] [[magical implement]]
 tier: 2
 title: calming shawm
 type: text/vnd.tiddlywiki
 
 If you are a [[bard]], while you play this woodwind instrument, you can cast the spell [[calm emotions]].
+
+<<<
+!!! calm emotions
+{{calm emotions}}
+<<<

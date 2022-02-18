@@ -1,10 +1,10 @@
-color: #075157
+color: #1E868E
 created: 20210103215423514
-modified: 20210727192007983
+modified: 20220216201212084
 tags: 
 title: fashion
 type: text/vnd.tiddlywiki
 
 This tag indicates a [[magic item]] or other object whose primary function is to make the wearer look stylish or impressive.
 
-<<list-links-article "[tag{!!title}sort[title]]">>
+!!! <<showitem-type>>

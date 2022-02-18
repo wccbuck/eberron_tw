@@ -1,0 +1,15 @@
+category: phenomenon
+color: #432874
+created: 20220216205352144
+modified: 20220216210152836
+tags: 
+title: attunement
+type: text/vnd.tiddlywiki
+
+Some [[magic item]]s require a creature to form a bond with them before their magical properties can be used. This bond is called "attunement". Attuning to an item requires a creature to spend several minutes focused on only that item while being in physical contact with it. This focus can take the form of weapon practice (for a weapon), meditation (for a tool or accessory), or some other appropriate activity.
+
+Whether or not an item requires attunement should be determined on a case-by-case basis by the GM and the player. Typically, items with [[rarity]] of uncommon or higher that provide a constant bonus (not consumable or limited daily use) require attunement. 
+
+An item can be attuned to only one creature at a time, and a creature can be attuned to no more than ''five'' magic items at a time. Additionally, a creature can't attune to more than one copy of the same item.
+
+Usually, a creature's attunement to an item ends if the item has been more than 100 feet away for at least 24 hours, if the creature dies, or if another creature attunes to the item. A creature can also voluntarily end attunement by spending another several minutes focused on the item, unless the item is [[cursed]].

@@ -1,14 +1,14 @@
 category: object
 color: #41D5E1
 created: 20210109021623912
-modified: 20220110034311857
-tags: tool
+modified: 20220218022955837
+tags: detection tool
 tier: 2
 title: alarmotape
 type: text/vnd.tiddlywiki
 
-This 5-foot roll of sticky tape is imbued with a variation of the [[alarm]] spell. It functions as normal tape, unless you "attune" to the item, and speak the command word when removing a portion. If a creature besides you cuts this portion of tape or removes it from its place, a blaring alarm produces the sound of an emergency claxon for 10 seconds, clearly audible for 600 feet.
+This 5-foot roll of sticky tape is imbued with a variation of the [[alarm]] spell. It functions as normal tape, unless you "[[attune|attunement]]" to the item, and speak the command word when removing a portion. If a creature besides you cuts this portion of tape or removes it from its place, a blaring alarm produces the sound of an emergency claxon for 10 seconds, clearly audible for 600 feet.
 
 Only one portion of tape can be enchanted in this way at a time. If you attempt to activate another portion of tape with another piece already activated, the older portion deactivates.
 
-If you lose attunement with this tape, any activated portions immediately deactivate, and reattuning does not reactivate those portions.
+If you lose [[attunement]] with this tape, any activated portions immediately deactivate, and reattuning does not reactivate those portions.

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227030259678
-modified: 20220110034313992
+modified: 20220216182019950
 tags: potion
 tier: 2
 title: bottled breath
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 This bottle contains a breath of elemental air. When you inhale it, you either exhale it or hold it.
 
-If you exhale the breath, you can expel a powerful gust of wind. If you hold the breath, you don't need to breathe for 1 hour, though you can end this benefit early (for example, to speak). Ending it early doesn't give you the benefit of exhaling the breath.
+If you exhale the breath, you can expel a powerful gust of wind, as the spell [[gale]]. If you hold the breath, you don't need to breathe for 1 hour, though you can end this benefit early (for example, to speak). Ending it early doesn't give you the benefit of exhaling the breath.

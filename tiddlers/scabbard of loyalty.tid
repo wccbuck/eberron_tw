@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20210726215136831
-modified: 20220110034326097
-tags: accessory
+modified: 20220218172730920
+tags: accessory tool storage
 tier: 1
 title: scabbard of loyalty
 type: text/vnd.tiddlywiki
 
-When a sword is placed into this scabbard, it cannot be drawn by anyone except the attuned user.
+When a sword is placed into this scabbard, it cannot be drawn by anyone except the [[attuned|attunement]] user.

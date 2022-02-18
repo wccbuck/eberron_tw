@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20210102170036694
-modified: 20220110034313450
-tags: weapon
+modified: 20220217214030694
+tags: dagger sword weapon
 tier: 1
 title: blade of stone
 type: text/vnd.tiddlywiki
@@ -10,5 +10,6 @@ type: text/vnd.tiddlywiki
 While holding this weapon, you can use the stored energy in the blade to cast the [[mold earth]] spell once per day.
 
 <<<
+!!! mold earth
 {{mold earth}}
 <<<

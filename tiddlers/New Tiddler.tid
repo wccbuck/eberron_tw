@@ -1,0 +1,11 @@
+created: 20220216222601134
+list: [[vigilus crossbow]] trinket [[tome of dreams]] [[thieves' blade]] [[storm spire]] [[spirit idol]] [[spell scroll, tier 5]] [[spell scroll, tier 4]] [[spell scroll, tier 3]] [[spell scroll, tier 2]] [[spell scroll, tier 1]] [[spell scroll]] [[apparatus of Kwalish]] schema [[pomade of ten thousand styles]] [[pearl of power]] [[orrery of the planes]] [[Orb of Dol Azur]]
+modified: 20220218182757551
+tags: 
+title: New Tiddler
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[tool]!tag[detection]!tag[deception]!tag[stealth]!tag[mobility]!tag[communication]!tag[destruction]!tag[protection]!tag[convenience]!tag[weapon enhancement]!tag[summoning]!tag[hindrance]!tag[entertainment]!tag[storage]!list[New Tiddler]]">
+<$button><$action-listops $tiddler="New Tiddler" $subfilter="[<currentTiddler>]"/>X</$button> <$link/> ({{!!tags}})<br/></$list>
+
+{{{ [tag[tool]!tag[detection]!tag[stealth]!tag[mobility]!tag[communication]!tag[destruction]!tag[protection]!tag[convenience]!tag[summoning]!tag[weapon enhancement]!tag[deception]!tag[hindrance]!tag[entertainment]!tag[storage]!list[New Tiddler]count[]] }}}

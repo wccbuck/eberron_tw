@@ -1,12 +1,12 @@
 category: object
 color: #41D5E1
 created: 20220105070756623
-modified: 20220110034330893
-tags: [[magical implement]]
+modified: 20220216233622777
+tags: [[magical implement]] wand
 tier: 3
 title: wand of whispers
 type: text/vnd.tiddlywiki
 
 This wand is made from magic wax and iron, with a design that resembles a candle and candlestick. The wand produces a harmless magical flame that is indistinguishable from normal candlelight, although the wax never melts or changes shape. While holding the wand, you can extinguish or relight the flame at will.
 
-If you are a spellcaster attuned to this wand, you can cast [[message]] and [[sending]] while holding it. In addition, whenever you cast a spell of a [[spell tier]] of rare or lower using this wand, you can cast it much more quietly than normal.
+If you are a spellcaster [[attuned|attunement]] to this wand, you can cast [[message]] and [[sending]] while holding it. In addition, whenever you cast a spell of a [[spell tier]] of rare or lower using this wand, you can cast it much more quietly than normal.

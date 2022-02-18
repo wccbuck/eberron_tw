@@ -1,12 +1,12 @@
 category: object
 color: #41D5E1
 created: 20201227201149863
-modified: 20220110034328007
-tags: [[magical implement]]
+modified: 20220216233602053
+tags: [[magical implement]] staff
 tier: 3
 title: staff of charming
 type: text/vnd.tiddlywiki
 
-If a spellcaster is attuned to this staff, they can cast [[charm]], [[command]], or [[comprehend languages]] using their own power. 
+If a spellcaster is [[attuned|attunement]] to this staff, they can cast [[charm]], [[command]], or [[comprehend languages]] using their own power. 
 
 In addition, the wielder gains [[advantage]] to resist [[enchantment]] spells cast on them. On a [[critical|full success]], the spell is reflected back onto the caster as if the staff wielder had cast the spell.

@@ -1,12 +1,12 @@
 category: object
 color: #41D5E1
 created: 20220103213256414
-modified: 20220110040620432
-tags: [[magical implement]]
+modified: 20220216233602067
+tags: [[magical implement]] staff
 tier: 4
 title: staff of favorable winds
 type: text/vnd.tiddlywiki
 
-Only an [[arcane|arcane magic]] or [[primal|primal magic]] spellcaster can attune to this staff. While you're attuned to this staff, areas affected by strong winds do not impair your ability to move.
+Only an [[arcane|arcane magic]] or [[primal|primal magic]] spellcaster can attune to this staff. While you're [[attuned|attunement]] to this staff, areas affected by strong winds do not impair your ability to move.
 
 This staff allows you to cast the following spells using your own power: [[cone of cold]], [[feather fall]], [[gale]], [[gust]] (common or uncommon [[tier|spell tier]]), [[warding wind]], [[wind's favor]], or [[wind wall]]. You also gain one additional spellcasting [[stress]] box which you can only use to cast these spells.

@@ -1,13 +1,13 @@
 category: object
 color: #41D5E1
 created: 20201210040600370
-modified: 20220110034328623
-tags: [[Mark of Storm]] accessory [[dragonmark focus item]]
+modified: 20220216222903380
+tags: jewelry [[Mark of Storm]] accessory [[dragonmark focus item]]
 tier: 1
 title: storm's embrace
 tooltip: common dragonmark focus item, ring, grants Storm mark wielder permanent feather fall
 type: text/vnd.tiddlywiki
 
-In order to attune to this magic item, you must possess the [[Mark of Storm]].
+In order to [[attune|attunement]] to this magic item, you must possess the [[Mark of Storm]].
 
 When you fall while wearing this ring, you descend 10 feet per second and take no damage from falling.

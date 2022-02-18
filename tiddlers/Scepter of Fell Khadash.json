@@ -4,11 +4,11 @@
         "text": "This iron rod draped in chains was once wielded by a lieutenant of the [[overlord]]s during the [[Age of Demons]]. A dark red flame is always lit an one end, but it gives off no heat. The scepter grants the wielder a fiendish charisma, granting them +2 [[impact]] on relevant social actions. The wielder can cast [[cause fear]] for free at will, and can also cast the [[enervation]], [[dominate]], and [[power word: pain]] spells.\n\nThe wielder of this scepter slowly becomes increasingly egotistical.\n\nThe scepter is believed to lie in a vault somewhere in the jungle ruins of [[Xen'drik]], though recent rumors suggest that both the Order of the [[Emerald Claw]] and agents of the [[oni]] [[warlord]] [[Tzaryan Rrac]] have learned of the scepter's location and are actively seeking it.",
         "type": "text/vnd.tiddlywiki",
         "title": "Scepter of Fell Khadash",
-        "tags": "[[magical implement]] weapon",
-        "modified": "20220110034326145",
+        "tags": "staff [[magical implement]] weapon",
+        "modified": "20220216234344375",
+        "tier": "5",
         "color": "#41D5E1",
         "category": "object",
-        "article": "the ",
-        "tier": "5"
+        "article": "the "
     }
 ]

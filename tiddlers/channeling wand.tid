@@ -2,8 +2,8 @@ category: object
 charges: 4
 color: #41D5E1
 created: 20201210025133916
-modified: 20220114013502351
-tags: [[magical implement]] tool [[dragonmark focus item]]
+modified: 20220216233632130
+tags: [[magical implement]] tool [[dragonmark focus item]] wand
 tier: 3
 title: channeling wand
 type: text/vnd.tiddlywiki
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 A channeling wand is a short metal wand tipped with a Siberys
 [[dragonshard]]. Each wand is tied to a specific [[dragonmark]], such
 as the [[Mark of Healing]] or the [[Mark of Making]], and you can only
-attune to it if you possess that dragonmark.
+[[attune|attunement]] to it if you possess that dragonmark.
 
 This item has 4 charges, and regains <<dr 1d4>> expended charges daily at dawn. While holding the wand, you can expend 1 charge to enhance a spell granted to you by your [[dragonmark]] (+1 [[impact]], double the range, double the duration, or halve the casting time). 
 
