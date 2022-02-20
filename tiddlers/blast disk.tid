@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20201209022900097
-modified: 20220216192754975
-tags: [[alchemical explosive]] weapon tool
+modified: 20220220045636429
+tags: [[alchemical explosive]] weapon tool destruction hindrance
 tier: 1
 title: blast disk
 type: text/vnd.tiddlywiki
@@ -54,7 +54,7 @@ explosions, there were a few variations tied to specific nations:
 * During the ascendancy of the [[Blood of Vol]], [[Karrnath]] created disks that first dealt necrotic damage, then inflicted effects that killed victims with the initial explosion then animated the corpses to prey on survivors.
 * [[Thrane]] developed blast disks that dealt radiant damage—a useful tool against Karrnathi [[undead]]. Toward the end of the war, Thrane was working on disks that created a column of searing light that lasted for a minute or more.
 
-While the basic blast disk is a common [[magic item]], under
+While the basic blast disk is a common-[[rarity]] [[magic item]], under
 the [[Code of Galifar]], they're illegal for civilians to own or carry.
 House [[Cannith]] manufactures blast disks, but won't sell them
 to civilians (at least, not openly). So if you're looking for a blast

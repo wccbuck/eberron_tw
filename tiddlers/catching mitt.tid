@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20210721002605316
-modified: 20220110034314753
-tags: tool
+modified: 20220220052214330
+tags: tool convenience protection
 tier: 1
 title: catching mitt
 type: text/vnd.tiddlywiki
 
-Throw this glove at anything flying towards you, and it will catch it and fall gently to the ground.
+Throw this glove at anything flying towards you, and it will attempt to catch it and fall gently to the ground.

@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20201210024344493
-modified: 20220216193228341
-tags: Dhakaan tool
+modified: 20220220045528888
+tags: Dhakaan tool convenience
 tier: 1
 title: kra'uul
 tooltip: dreamforged items, made by Dhakaani monks, which you can take with you into your dreams
@@ -15,7 +15,7 @@ object remains with your body in Eberron, but the idea of it
 travels with you and you can use it while exploring Dal Quor.
 
 Any kra'uul made of an otherwise-mundane object is a
-common magic item. Kra'uul made of other magic items are
+common-[[rarity]] magic item. Kra'uul made of other magic items are
 the same rarity as the standard version. While the techniques
 of crafting kra'uul objects are known only to the chot'uul, the GM can introduce other dreambound objects. A cursed sword
 might follow its bearer even into dreams, while a powerful

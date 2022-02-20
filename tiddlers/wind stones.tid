@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201210043710517
-modified: 20220218020824128
+modified: 20220218222309050
 tags: [[Mark of Scribing]] tool [[dragonmark focus item]] communication
 tier: 1
 title: wind stones
@@ -13,6 +13,6 @@ Wind stones come in pairs, with each smooth stone carved to match the other so t
 Once sending is cast through the stones, they can't be used again until the next dawn. If one of the stones in a pair is destroyed, the other one becomes nonmagical.
 
 <<<
-!! Sending
+!!! sending
 {{sending}}
 <<<
