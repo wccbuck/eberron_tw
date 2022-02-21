@@ -2,8 +2,8 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20220216191100428
-modified: 20220216230512443
-tags: jewelry accessory
+modified: 20220220221807059
+tags: jewelry accessory communication
 tier: 3
 title: charm of plant command
 type: text/vnd.tiddlywiki
@@ -14,7 +14,7 @@ This charm has 3 charges. While you bear the charm, you can expend 1 charge to c
 
 <<<
 !!! speak with plants
-{{speak with plants}}
+{{||speak with plants}}
 <<<
 
 <<itemcharges 3>>

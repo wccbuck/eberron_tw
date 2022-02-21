@@ -1,10 +1,15 @@
 category: object
 color: #41D5E1
 created: 20210903191814092
-modified: 20220216233622517
-tags: [[magical implement]] wand
+modified: 20220221022148366
+tags: hindrance [[magical implement]] wand
 tier: 3
 title: wand of confusion
 type: text/vnd.tiddlywiki
 
 This wand is crafted from the eyes of an [[umber hulk]]. If you are a spellcaster, you can cast [[confusion]] while [[attuned|attunement]] to this wand. You also gain an additional spellcasting [[stress]] box which you can only use to cast this spell.
+
+<<<
+!!! confusion
+{{||confusion}}
+<<<

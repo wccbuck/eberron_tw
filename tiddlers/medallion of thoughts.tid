@@ -2,8 +2,8 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20201227044224226
-modified: 20220216224720228
-tags: jewelry accessory
+modified: 20220220232550093
+tags: detection jewelry accessory
 tier: 2
 title: medallion of thoughts
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ While wearing this medallion, you can cast the [[detect thoughts]] spell from it
 
 <<<
 !!! detect thoughts
-{{detect thoughts}}
+{{||detect thoughts}}
 <<<
 
 <<itemcharges 3>>

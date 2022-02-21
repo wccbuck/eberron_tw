@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210411200746307
-modified: 20220110042218329
+highertier: show
+modified: 20220220213024756
 tags: divination
 tier: 1
 title: message
@@ -11,6 +12,10 @@ You point your finger toward a creature within 120 feet and whisper a message. T
 
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn't have to follow a straight line and can travel freely around corners or through openings.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Uncommon-Tier
 
 When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, the range increases to 300 feet. In addition, you don't have to point your finger and whisper the message; you can send the message to your target telepathically instead. A simple mental image may accompany this message, and your target can reply in the same way.
+
+</$reveal>

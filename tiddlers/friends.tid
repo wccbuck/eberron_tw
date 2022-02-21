@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210411225401792
-modified: 20220110042218152
+highertier: show
+modified: 20220220213128516
 tags: enchantment
 tier: 1
 title: friends
@@ -9,6 +10,10 @@ type: text/vnd.tiddlywiki
 
 You have a magical ability to set people at ease. For up to 1 minute, you have [[advantage]] on all friendly social interactions directed at one creature of your choice that isn't hostile toward you. When the spell ends (up to 1 minute later or when your concentration breaks), the creature realizes that you used magic to influence its mood.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Uncommon-Tier
 
 When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you can target one additional creature, the spell does not require concentration to maintain, and the targets do not realize you have used magic on them until 1 minute after the spell ends.
+
+</$reveal>

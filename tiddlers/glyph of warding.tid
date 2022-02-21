@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210326031023072
-modified: 20220110040114402
+highertier: show
+modified: 20220220214628296
 tags: abjuration
 tier: 3
 title: glyph of warding
@@ -19,6 +20,10 @@ When you inscribe the glyph, choose explosive runes or a spell glyph.
 
 //''Spell Glyph.''// You can store a prepared [[common- or uncommon-tier|spell tier]] spell in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may either: a) dramatically increase the damage dealt by explosive runes, or b) increase the maximum stored [[spell tier]] in a spell glyph to rare.
+
+</$reveal>

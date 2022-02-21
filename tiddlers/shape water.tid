@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210410000807890
-modified: 20220110042218361
+highertier: show
+modified: 20220220202606056
 tags: [[primal magic]] transmutation
 tier: 1
 title: shape water
@@ -16,6 +17,8 @@ You choose an area of water that you can see within 30 feet and that fits within
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect at will.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Uncommon-Tier
 
 When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may have up to five non-instantaneous effects active at a time. In addition, you may do any of the following: 
@@ -23,3 +26,5 @@ When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may 
 * Boil the water, provided that there are no creatures in it. The water cools in 1 hour.
 * Manipulate other liquids you can see if at least half of their content is water.
 * Form the water into complex shapes.
+
+</$reveal>

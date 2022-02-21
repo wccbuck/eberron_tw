@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210102170036694
-modified: 20220217214030694
+modified: 20220220202336217
 tags: dagger sword weapon
 tier: 1
 title: blade of stone
@@ -11,5 +11,5 @@ While holding this weapon, you can use the stored energy in the blade to cast th
 
 <<<
 !!! mold earth
-{{mold earth}}
+{{||mold earth}}
 <<<

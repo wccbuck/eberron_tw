@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210903194215615
-modified: 20220220060824875
+modified: 20220220202750792
 tags: potion detection
 tier: 2
 title: potion of detect thoughts
@@ -11,5 +11,5 @@ This potion is completely clear except for a small pink blob (perhaps the brain 
 
 <<<
 !!! detect thoughts
-{{detect thoughts}}
+{{||detect thoughts}}
 <<<

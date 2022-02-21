@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227194527804
-modified: 20220220060748504
+modified: 20220220202732031
 tags: potion detection
 tier: 3
 title: potion of clairvoyance
@@ -11,5 +11,5 @@ When you drink this potion, you gain the effect of the [[clairvoyance]] spell. A
 
 <<<
 !!! clairvoyance
-{{clairvoyance}}
+{{||clairvoyance}}
 <<<

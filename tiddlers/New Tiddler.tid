@@ -1,11 +1,8 @@
-created: 20220216222601134
-list: [[vigilus crossbow]] trinket [[tome of dreams]] [[thieves' blade]] [[storm spire]] [[spirit idol]] [[spell scroll, tier 5]] [[spell scroll, tier 4]] [[spell scroll, tier 3]] [[spell scroll, tier 2]] [[spell scroll, tier 1]] [[spell scroll]] [[apparatus of Kwalish]] schema [[pomade of ten thousand styles]] [[pearl of power]] [[orrery of the planes]] [[Orb of Dol Azur]] [[conductor stone]] [[eldritch machine]] [[fortune's fivepence]] [[creation forge]] [[infinite scroll]] [[channeling wand]] [[moodmark paint]] [[breath of Siberys]] darkeye [[Aelia's tonic]] [[adaptive garment]] [[bug smashers]]
-modified: 20220220062456189
+created: 20220221202633891
+list: body legs arms head shield jewelry sword dagger axe mace hammer spear projectile bow flail crossbow whip staff wand orb crystal rod [[holy symbol]] [[punch weapon]] [[any weapon]] tome [[musical instrument]]
+modified: 20220221203850023
 tags: 
 title: New Tiddler
 type: text/vnd.tiddlywiki
 
-<$list filter="[tag[accessory]!tag[detection]!tag[deception]!tag[stealth]!tag[mobility]!tag[communication]!tag[destruction]!tag[protection]!tag[convenience]!tag[weapon enhancement]!tag[summoning]!tag[hindrance]!tag[invigoration]!tag[recovery]!tag[entertainment]!tag[storage]!list[New Tiddler]limit[50]]">
-<$button><$action-listops $tiddler="New Tiddler" $subfilter="[<currentTiddler>]"/>X</$button> <$link/> ({{!!tags}})<br/></$list>
-
-{{{ [tag[accessory]!tag[detection]!tag[stealth]!tag[mobility]!tag[communication]!tag[destruction]!tag[protection]!tag[convenience]!tag[summoning]!tag[weapon enhancement]!tag[deception]!tag[recovery]!tag[invigoration]!tag[hindrance]!tag[entertainment]!tag[storage]!list[New Tiddler]count[]] }}}
+<$list filter="[color[#1E868E]]:filter[get[created]compare:integer:gt[20220216100000000]] +[sort[title]] -[list[New Tiddler]]">{{!!article}}<$link/>, </$list>

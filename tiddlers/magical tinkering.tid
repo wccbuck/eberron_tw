@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210726043536882
-modified: 20220110042218297
+highertier: show
+modified: 20220220212816878
 tags: transmutation
 tier: 1
 title: magical tinkering
@@ -16,6 +17,10 @@ Using [[artifice|artificer]], you invest a spark of magic into mundane objects. 
 
 The chosen property lasts indefinitely, until [[dispelled|dispel magic]], or until you touch the object and choose to end the property early. Each object can bear only one property at a time.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Uncommon-Tier
 
 When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you can bestow magic on up to 5 objects.
+
+</$reveal>

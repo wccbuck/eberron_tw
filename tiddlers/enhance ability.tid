@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210428063946751
-modified: 20210727192007175
+highertier: show
+modified: 20220220212437088
 tags: transmutation [[primal magic]]
 tier: 2
 title: enhance ability
@@ -16,6 +17,10 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 //''Fox's Cunning.''// The target has [[advantage]] on attempts using ''Guile''.<br/>
 //''Owl's Wisdom.''// The target has [[advantage]] on attempts using ''Intellect''.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target an additional creature, and the effect(s) last up to 1 hour.
+
+</$reveal>

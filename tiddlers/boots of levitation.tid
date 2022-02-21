@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20201227175731757
-modified: 20220216202243125
-tags: accessory legs
+modified: 20220220222827639
+tags: accessory legs mobility
 tier: 3
 title: boots of levitation
 type: text/vnd.tiddlywiki
@@ -10,5 +10,6 @@ type: text/vnd.tiddlywiki
 While you wear these boots, you can cast the [[levitate]] spell on yourself at will.
 
 <<<
-{{levitate}}
+!!! levitate
+{{||levitate}}
 <<<

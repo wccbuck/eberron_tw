@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227013713281
-modified: 20220220060652316
+modified: 20220220202742085
 tags: potion communication
 tier: 1
 title: potion of comprehension
@@ -11,5 +11,5 @@ When you drink this potion, you gain the effect of a [[comprehend languages]] sp
 
 <<<
 !!! comprehend languages
-{{comprehend languages}}
+{{||comprehend languages}}
 <<<

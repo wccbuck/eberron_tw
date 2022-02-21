@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20220102014819271
-modified: 20220216224021930
-tags: body accessory
+modified: 20220221001527237
+tags: stealth body accessory convenience
 tier: 2
 title: petal dancer ward
 type: text/vnd.tiddlywiki
@@ -10,3 +10,8 @@ type: text/vnd.tiddlywiki
 This cape is made of colorful and aromatic petals. While wearing the cape, petals drift behind you as you walk and disappear before touching the ground. You can change the color of these petals at will.
 
 While wearing the cape, you can cast the [[druidcraft]] spell at will. In addition, creatures that heavily rely on their sense of smell have a difficult time discerning exactly where you are, and suffer [[disadvantage]] on attacks against you or other hostile actions that require knowledge of your precise location.
+
+<<<
+!!! druidcraft
+{{||druidcraft}}
+<<<

@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210428030947618
-modified: 20220110043720152
+highertier: show
+modified: 20220220214840912
 tags: conjuration
 tier: 3
 title: conjure minor elementals
@@ -13,6 +14,10 @@ An [[elemental]] summoned by this spell disappears when it is incapacitated or w
 
 The summoned creatures are friendly to you and your companions. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may summon between six and ten elementals.
+
+</$reveal>

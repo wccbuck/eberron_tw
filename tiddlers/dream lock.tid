@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210721215156890
-modified: 20210727192005681
+highertier: show
+modified: 20220220212552016
 tags: psionics
 tier: 2
 title: dream lock
@@ -15,6 +16,10 @@ Creatures that do not dream are ''not'' immune to the effect of this spell unles
 
 If you cast this spell while in a [[dreamtouched]] state, you can partially direct the random visions that plague the target creature. This allows you to influ­ence the actions of the target as if using a [[suggestion]] spell.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target up to 5 creatures within 30 feet of each other. Any suggested course of activity will be directed to all creatures simultaneously, and will be ignored if inapplicable.
+
+</$reveal>

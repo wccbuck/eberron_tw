@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210504185644998
-modified: 20220110043720505
+highertier: show
+modified: 20220220215611201
 tags: conjuration
 tier: 3
 title: speedy courier
@@ -13,7 +14,10 @@ As soon as the lid of the chest is closed, the elemental and the chest disappear
 
 The target creature is made aware of the chest's contents before it chooses whether or not to open it, and knows how much of the spell's duration remains in which it can retrieve them. No other creature can open the chest and retrieve its contents. When the spell expires or when all the contents of the chest have been removed, the [[elemental]] and the chest disappear. The elemental also disappears if the target creature orders it to return the items to you. When the elemental disappears, any items not taken from the chest reappear on the ground at your feet.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you can send the chest to a creature on a different [[plane]] of existence from you.
 
+</$reveal>

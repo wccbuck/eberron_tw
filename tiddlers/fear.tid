@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20201216174058699
-modified: 20220110043720281
+highertier: show
+modified: 20220220215057596
 tags: illusion
 tier: 3
 title: fear
@@ -9,6 +10,10 @@ type: text/vnd.tiddlywiki
 
 You project a phantasmal image of a creature's worst fears. Each creature within 30 feet of you sees terrifying illusory creatures in their minds, visible only to them; if they are not able to resist the illusion, they are frightened for up to one minute, dropping whatever they are holding and fleeing.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may extend the range to 120 feet, and afflicted targets suffer psychic damage.
+
+</$reveal>

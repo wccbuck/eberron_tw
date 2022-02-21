@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20220105091518615
-modified: 20220216211230038
-tags: armor head
+modified: 20220221032613234
+tags: recovery mobility detection armor head
 tier: 5
 title: galea of the phoenix
 type: text/vnd.tiddlywiki
@@ -11,6 +11,6 @@ This magical helmet is imbued with the magic of a mighty [[phoenix]]. While wear
 
 While wearing the helmet, you can cast the following spells: [[death ward]], [[flame strike]] [[healing word]] (common or uncommon [[tier|spell tier]]), and [[fire shield]] (warm shield only). When you cast [[fire shield]] in this way, you also sprout a pair of flaming wings that last for the duration of the spell that allow you to fly as fast as you can run.
 
-If all of your [[harm]] boxes are filled, including severe harm, but you haven't been killed outright, you can call upon the spark of the [[phoenix]] to immediately recover 3 [[harm]], and each creature within 10 feet of you must dodge or else be scorched by the wave of fire that blasts from your body. In addition, two flaming wings unfurl from your back, allowing you to fly as fast as you can run for up to 1 minute. Once this property has been used, it can't be used again until 2 days have passed.
+If all of your [[harm]] boxes are filled, including severe harm, but you haven't been killed outright, you can call upon the spark of the [[phoenix]] to immediately recover 3 [[harm]] boxes plus your severe harm, and each creature within 10 feet of you must dodge or else be scorched by the wave of fire that blasts from your body. In addition, two flaming wings unfurl from your back, allowing you to fly as fast as you can run for up to 1 minute. Once this property has been used, it can't be used again until 2 days have passed.
 
 If you die while [[attuned|attunement]] to this helmet, it vanishes in a cloud of embers and smoke and reappears somewhere in the [[Sea of Fire]].

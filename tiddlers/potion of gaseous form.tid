@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227194733206
-modified: 20220220061857911
+modified: 20220220202759577
 tags: potion mobility
 tier: 3
 title: potion of gaseous form
@@ -11,5 +11,5 @@ When you drink this potion, you gain the effect of the [[gaseous form]] spell fo
 
 <<<
 !!! gaseous form
-{{gaseous form}}
+{{||gaseous form}}
 <<<

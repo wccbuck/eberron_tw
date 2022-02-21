@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20201210042007272
-modified: 20210727192020022
+highertier: show
+modified: 20220220210734098
 tags: evocation
 tier: 2
 title: magic missile
@@ -9,6 +10,10 @@ type: text/vnd.tiddlywiki
 
 The spellcaster creates three or four glowing darts of magical force. Each dart targets a creature of their choice that they can see within 120 feet. A dart deals a small amount of force damage to its target. The darts all strike simultaneously, and the caster can direct them to hit one creature or several. This spell is highly accurate and almost never misses its marks.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may fire up to 7 darts.
+
+</$reveal>

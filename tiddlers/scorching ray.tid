@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20201227030859602
-modified: 20210727192029831
+highertier: show
+modified: 20220220203013546
 tags: evocation
 tier: 2
 title: scorching ray
@@ -9,6 +10,10 @@ type: text/vnd.tiddlywiki
 
 You create three rays of fire and hurl them at targets within 120 feet. You can hurl them at one target or several.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may create three additional rays.
+
+</$reveal>

@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210422171935551
-modified: 20210727192031968
+highertier: show
+modified: 20220220212336598
 tags: illusion
 tier: 2
 title: silent image
@@ -13,7 +14,10 @@ You can cause the image to move to any spot within 60 feet of you. As the image 
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that spends time examining the image can potentially determine that it is an illusion. If a creature discerns the illusion for what it is, the creature can see through the image.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, the image can be as large as a 30-foot cube, and lasts for up to an hour.
 
+</$reveal>

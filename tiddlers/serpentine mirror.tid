@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201210035520875
-modified: 20220218162843186
+modified: 20220220202835234
 tags: detection [[Mark of Shadow]] tool [[dragonmark focus item]]
 tier: 3
 title: serpentine mirror
@@ -14,5 +14,5 @@ This ornate mirror is typically about 6 inches in diameter. While touching it, y
 
 <<<
 !!! scrying
-{{scrying}}
+{{||scrying}}
 <<<

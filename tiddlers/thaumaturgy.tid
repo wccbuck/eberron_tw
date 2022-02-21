@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210410004857760
-modified: 20220208174528977
+highertier: show
+modified: 20220220213038084
 tags: [[divine magic]]
 tier: 1
 title: thaumaturgy
@@ -18,6 +19,8 @@ You manifest a minor wonder, a sign of supernatural power, within 30 feet. You c
 
 You can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect at will.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Uncommon-Tier
 
 When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may have up to five of its 1-minute effects active at a time, and may do any of the following:
@@ -27,3 +30,5 @@ When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may 
 * Cause tremors strong enough to rattle objects without seriously damaging them.
 * Instantaneously open or close any number of unlocked doors and windows within 30 feet.
 * Extend the duration of any of this spell's cantrip-level effects to 1 hour.
+
+</$reveal>

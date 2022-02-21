@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210102165615256
-modified: 20220217214058525
+modified: 20220220202327573
 tags: dagger sword weapon
 tier: 1
 title: blade of rime
@@ -11,5 +11,5 @@ While holding this weapon, you can use the stored energy in the blade to cast th
 
 <<<
 !!! ray of frost
-{{ray of frost}}
+{{||ray of frost}}
 <<<

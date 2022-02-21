@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20211120173210513
-modified: 20220110042931779
+highertier: show
+modified: 20220220214612376
 tags: evocation
 tier: 3
 title: animate breath
@@ -13,6 +14,10 @@ You breathe out a [[living blast of elemental energy|animated breath]] ([[creatu
 
 The [[animated breath]] is friendly to you and your companions for the full duration, and obeys any verbal commands that you issue to it. If you don't issue any commands to the fey creature, it defends itself from hostile creatures but otherwise takes no actions.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, the [[animated breath]] persists for up to 8 hours and does not require concentration to maintain.
+
+</$reveal>

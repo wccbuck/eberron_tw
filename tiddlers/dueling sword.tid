@@ -2,12 +2,17 @@ category: object
 charges: 4
 color: #41D5E1
 created: 20211121051500058
-modified: 20220217212330247
+modified: 20220221025248913
 tags: sword weapon
 tier: 2
 title: dueling sword
 type: text/vnd.tiddlywiki
 
 This ornate and elegant rapier has four charges. When you strike a creature with this sword, you may choose to expend a charge to cast [[compelled duel]] on the target. The rapier regains <<dr 1d4>> charges each day at dawn.
+
+<<<
+!!! compelled duel
+{{||compelled duel}}
+<<<
 
 <<itemcharges 4>>

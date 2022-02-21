@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20201210052739966
-modified: 20210727192035060
+highertier: show
+modified: 20220220212425802
 tags: enchantment
 tier: 2
 title: suggestion
@@ -15,6 +16,8 @@ You can also specify conditions that will trigger a special activity during the 
 
 If you or any of your companions damage the target, the spell ends.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, the range increases to 60 feet, and you may do one of the following:
@@ -22,3 +25,5 @@ When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, the range inc
 * Extend the duration of the effect to 10 days.
 * Target up to two additional creatures, and extend the duration to 24 hours.
 * Target up to six additional creatures.
+
+</$reveal>

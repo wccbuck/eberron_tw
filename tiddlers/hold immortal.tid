@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20211124234608556
-modified: 20211127214704969
+highertier: show
+modified: 20220220211425014
 tags: enchantment
 tier: 2
 title: hold immortal
@@ -11,6 +12,10 @@ This is a special version of the [[hold]] spell available to [[warlock]]s of the
 
 Choose a [[celestial]], [[fiend]], or [[elemental]] that you can see within 90 feet. If the target cannot resist your enchantment, it is paralyzed for up to 1 minute, or until your concentration is broken. While paralyzed, the creature freezes in place and cannot move or speak.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you can target up to three [[celestial]]s, [[fiend]]s, or [[elemental]]s with this spell simultaneously; the targets must be within 30 feet of each other when you target them.
+
+</$reveal>

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227193532384
-modified: 20220218232035140
+modified: 20220220202710946
 tags: convenience dagger weapon tool
 tier: 3
 title: needle of mending
@@ -11,5 +11,5 @@ This weapon is a magic dagger disguised as a sewing needle. When you hold it and
 
 <<<
 !!! mending
-{{mending}}
+{{||mending}}
 <<<

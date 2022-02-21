@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201210043710517
-modified: 20220218222309050
+modified: 20220220202901977
 tags: [[Mark of Scribing]] tool [[dragonmark focus item]] communication
 tier: 1
 title: wind stones
@@ -14,5 +14,5 @@ Once sending is cast through the stones, they can't be used again until the next
 
 <<<
 !!! sending
-{{sending}}
+{{||sending}}
 <<<

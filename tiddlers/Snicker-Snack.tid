@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210928001141696
-modified: 20220216234035494
+modified: 20220221190744942
 tags: sword weapon
 tier: 5
 title: Snicker-Snack
@@ -11,7 +11,7 @@ Snicker-Snack is a sentient [[fey]] greatsword with intelligence on par with a h
 
 If the sword takes a liking to its wielder, it will allow the wielder to [[attune|attunement]] to it, unlocking additional properties. These include:
 
-* Magically-granted proficiency with the weapon.
+* Magically-granted proficiency with the weapon, even if the wielder has never held a sword before.
 * Greatly improved maneuverability and damage, amplified even more if the wielder is charismatic and in Snicker-Snack's good graces.
 * When attacking an enemy with a resistance to slashing damage, that resistance is ignored.
 * When using this weapon to attack a creature that has at least one head, and you roll a [[critical success|full success]], you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. This is up to GM discretion; if the creature is immune to slashing damage, if it's too big for its head to be cut off with the weapon, etc., then instead the creature just suffers a great deal of additional slashing damage.

@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20210103201917022
-modified: 20220216221103463
-tags: accessory jewelry head
+modified: 20220220222626463
+tags: stealth accessory jewelry head protection
 tier: 3
 title: circlet of stone
 type: text/vnd.tiddlywiki
@@ -10,5 +10,6 @@ type: text/vnd.tiddlywiki
 This copper circlet is set with a sphere of polished granite. The wearer can cast [[meld into stone]].
 
 <<<
-{{meld into stone}}
+!!! meld into stone
+{{||meld into stone}}
 <<<

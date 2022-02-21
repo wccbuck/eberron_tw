@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210425061816244
-modified: 20210727192002450
+highertier: show
+modified: 20220220212200107
 tags: [[primal magic]] [[divine magic]]
 tier: 2
 title: create or destroy water
@@ -13,6 +14,10 @@ You either create or destroy water.
 
 //''Destroy Water. ''//You destroy up to 10 gallons of water in an open container within 30 feet. Alternatively, you destroy fog in a 30-foot diameter sphere within 30 feet.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you create or destroy 40 additional gallons of water, or the diameter of the volume of effect increases by 20 feet.
+
+</$reveal>

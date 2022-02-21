@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210427162517473
-modified: 20211228191334825
+highertier: show
+modified: 20220220211345489
 tags: enchantment [[divine magic]]
 tier: 2
 title: heroism
@@ -9,6 +10,10 @@ type: text/vnd.tiddlywiki
 
 A willing creature you touch is imbued with bravery. Until the spell ends up to an hour later, the creature is immune to being frightened and gains a temporary extra [[stress]] box. When the spell ends, the target loses this temporary box.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target up to four creatures within 30 feet of you.
+
+</$reveal>

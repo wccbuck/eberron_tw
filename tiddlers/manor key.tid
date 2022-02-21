@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201210054238444
-modified: 20220218222108472
+modified: 20220220202646784
 tags: [[Mark of Hospitality]] tool [[dragonmark focus item]] convenience stealth
 tier: 3
 title: manor key
@@ -15,7 +15,7 @@ the manor key and conjure a shimmering door to an extravagant extradimensional d
 
 <<<
 !!! magnificent mansion
-{{magnificent mansion}}
+{{||magnificent mansion}}
 <<<
 
 The spell ends after 24 hours or when you use the key to lock the door and dismiss

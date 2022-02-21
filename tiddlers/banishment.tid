@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210411221751097
-modified: 20220110043720053
+highertier: show
+modified: 20220220215315822
 tags: abjuration
 tier: 3
 title: banishment
@@ -13,6 +14,10 @@ If the target is native to the plane of existence you're on, you banish the targ
 
 If the target is native to a different [[plane]] of existence than the one you're on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn't return.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may target two additional creatures.
+
+</$reveal>

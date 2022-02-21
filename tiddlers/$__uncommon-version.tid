@@ -1,10 +1,14 @@
 caption: "when you cast (title) as a common-tier spell,"
 created: 20210411201139256
-modified: 20220110041422617
+modified: 20220220211919499
 tags: $:/tags/TextEditor/Snippet
 title: $:/uncommon-version
 type: text/vnd.tiddlywiki
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Uncommon-Tier
 
 When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell,
+
+</$reveal>

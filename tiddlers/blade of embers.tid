@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210102165451105
-modified: 20220217214151508
+modified: 20220220202318763
 tags: dagger sword weapon
 tier: 1
 title: blade of embers
@@ -11,5 +11,5 @@ While holding this weapon, you can use the stored energy in the blade to cast th
 
 <<<
 !!! fire bolt
-{{fire bolt}}
+{{||fire bolt}}
 <<<

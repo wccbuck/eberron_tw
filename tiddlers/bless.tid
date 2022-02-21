@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210412050158091
-modified: 20210727191958213
+highertier: show
+modified: 20220220203433864
 tags: [[divine magic]]
 tier: 2
 title: bless
@@ -9,6 +10,10 @@ type: text/vnd.tiddlywiki
 
 You bless up to three creatures of your choice within 30 feet. For the next minute, whenever a target makes an attempt using a specific [[action]] or [[attribute]] (your choice), they have [[advantage]].
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target three additional creatures.
+
+</$reveal>

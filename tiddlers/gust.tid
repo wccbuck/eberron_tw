@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210425074452303
-modified: 20220110042218207
+highertier: show
+modified: 20220220212848306
 tags: evocation transmutation [[primal magic]]
 tier: 1
 title: gust
@@ -13,6 +14,8 @@ You seize the air and compel it to create one of the following effects at a poin
 * You create a small blast of air capable of moving objects within a five-foot cone that are neither held nor carried and that weigh no more than 5 pounds. The objects are pushed up to 10 feet away from you. They aren't pushed with enough force to cause damage. This effect also displaces vapor, gas, or fog within the five-foot cone.
 * You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam shutters closed, or your clothing to ripple in a breeze.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Uncommon-Tier
 
 When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may choose one of the following effects:
@@ -21,3 +24,5 @@ When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may 
 * One [[ogre]]- or [[troll]]-sized creature that you choose must withstand the winds or be pushed up to 5 feet away from you.
 * Affect all objects, gases and creatures within a 10-foot cone (a combination of the first two effects).
 * By aiming a gust at the ground below you, you extend the distance of a jump by 10 feet.
+
+</$reveal>

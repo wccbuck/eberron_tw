@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20211120184458183
-modified: 20211120185057475
+highertier: show
+modified: 20220220215706564
 tags: conjuration
 tier: 4
 title: disorienting portal
@@ -11,6 +12,10 @@ You create a portal within a doorway or other opening up to 10 feet on a side wi
 
 When you cast the spell, you can choose to make it hidden or obvious. If you choose obvious, any creature who looks at the opening can see a hazy image of the destination and can tell it is a magical portal. If you choose hidden, it appears as a normal doorway or opening except under a perceptive eye.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Legendary-Tier
 
 When you cast //{{!!title}}// as a legendary-[[tier|spell tier]] spell, the portal persists for 30 days.
+
+</$reveal>

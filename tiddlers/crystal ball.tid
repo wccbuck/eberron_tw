@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201217033505460
-modified: 20220218215016422
+modified: 20220220202429203
 tags: detection tool
 tier: 4
 title: crystal ball
@@ -11,5 +11,5 @@ This crystal sphere is typically about 6 inches in diameter. While touching it, 
 
 <<<
 !!! scrying
-{{scrying}}
+{{||scrying}}
 <<<

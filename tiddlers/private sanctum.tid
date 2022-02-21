@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210110064518507
-modified: 20220110043720487
+highertier: show
+modified: 20220220215111108
 tags: abjuration
 tier: 3
 title: private sanctum
@@ -20,6 +21,10 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may increase the maximum radius of the warded area to 200 feet.
+
+</$reveal>

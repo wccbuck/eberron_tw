@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20210104205929999
-modified: 20220216202518784
-tags: accessory head
+modified: 20220220231455584
+tags: detection accessory head
 tier: 2
 title: hat of arcane knowledge
 type: text/vnd.tiddlywiki
 
-When this tattered grey [[wizard]]'s hat is worn, the user gains a thorough knowledge of the [[arcane|arcane magic]] arts.
+When this tattered grey [[wizard]]'s hat is worn, the user gains a thorough knowledge of the arcane arts. Gain +1 [[impact]] when recalling or researching information pertaining to [[arcane magic]].

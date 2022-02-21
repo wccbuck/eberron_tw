@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210103190813626
-modified: 20220213023542554
+highertier: show
+modified: 20220220211411143
 tags: [[divine magic]]
 tier: 2
 title: healing word
@@ -11,6 +12,10 @@ The spellcaster proclaims a holy word of recovery. A creature of their choice wi
 
 This spell is similar to [[cure wounds]]. That spell requires physical contact, but it results in more substantial healing, and can be done quietly.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you call out words of restoration that heal up to six creatures of your choice within 90 feet.
+
+</$reveal>
