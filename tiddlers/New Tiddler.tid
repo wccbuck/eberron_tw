@@ -1,8 +1,0 @@
-created: 20220221202633891
-list: body legs arms head shield jewelry sword dagger axe mace hammer spear projectile bow flail crossbow whip staff wand orb crystal rod [[holy symbol]] [[punch weapon]] [[any weapon]] tome [[musical instrument]]
-modified: 20220221203850023
-tags: 
-title: New Tiddler
-type: text/vnd.tiddlywiki
-
-<$list filter="[color[#1E868E]]:filter[get[created]compare:integer:gt[20220216100000000]] +[sort[title]] -[list[New Tiddler]]">{{!!article}}<$link/>, </$list>

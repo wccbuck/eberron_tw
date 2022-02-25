@@ -1,0 +1,13 @@
+category: event
+color: #A3CFBB
+created: 20220225020852552
+day: 13
+modified: 20220225021125422
+month: 4
+tags: holiday Devourer
+title: Shargon's Bargain
+type: text/vnd.tiddlywiki
+
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
+
+There’s no public feast on this holiday of the [[Sovereign Host]], and it’s an observance many Vassals don’t acknowledge or even know about. For those who do, this is a day to make a sacrifice to the [[Devourer]], placating him so disaster will pass over one's homestead in the year ahead. Traditionally this involves the burning some part of a field—typically, land a farmer planned to leave fallow, allowing the soil to recover.

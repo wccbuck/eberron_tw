@@ -1,1 +1,15 @@
-{"created": "20210315193516343", "title": "Shining Valley", "text": "Strongly connected to [[Irian]], Eternal Dawn, this valley hidden within the foothills of the [[Graywall Mountains]] is bathed in a light that fades to a luminous dusk for only a few hours each night, despite the high cliffs that should cast shade most of the day. A secret tunnel leads through a series of caverns to a small cave on the [[Droaam]] side of the mountain range.\n\nWhen the Haunting Song, a flight of [[harpies|harpy]] living in Droaam, refused to bow to the [[Daughters of Sora Kell]], the Carrion Callers and Stormsingers harpies combined forces to make an example of them. Decimated, the survivors fled into the mountain caves and eventually discovered Shining Valley. Tending their wounded, they quickly discovered the curative properties of the [[Irian]] [[manifest zone]]. The flight has remained in the valley ever since. The flight bides its time, raising a new generation in the valley\u2019s endless light and planning for the day when the Haunting Song will have revenge on the Daughters of Sora Kell and their treacherous kin.", "modified": "20210727192031499", "tags": "[[manifest zone]] Khorvaire [[Graywall Mountains]] monument", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "points": "28.56,-28.37", "style": "{\"color\": \"#40262D\"}"}
+[
+    {
+        "created": "20210315193516343",
+        "text": "Strongly connected to [[Irian]], Eternal Dawn, this valley hidden within the foothills of the [[Graywall Mountains]] is bathed in a light that fades to a luminous dusk for only a few hours each night, despite the high cliffs that should cast shade most of the day. A secret tunnel leads through a series of caverns to a small cave on the [[Droaam]] side of the mountain range.\n\nWhen the Haunting Song, a flight of [[harpies|harpy]] living in Droaam, refused to bow to the [[Daughters of Sora Kell]], the Carrion Callers and [[Stormsingers]] harpies combined forces to make an example of them. Decimated, the survivors fled into the mountain caves and eventually discovered Shining Valley. Tending their wounded, they quickly discovered the curative properties of the [[Irian]] [[manifest zone]]. The flight has remained in the valley ever since. The flight bides its time, raising a new generation in the valley’s endless light and planning for the day when the Haunting Song will have revenge on the Daughters of Sora Kell and their treacherous kin.",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Shining Valley",
+        "tags": "[[manifest zone]] Khorvaire [[Graywall Mountains]] monument",
+        "modified": "20220225010825120",
+        "style": "{\"color\": \"#40262D\"}",
+        "points": "28.56,-28.37",
+        "color": "#3B5C0A",
+        "category": "location",
+        "article": "the "
+    }
+]
