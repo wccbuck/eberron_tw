@@ -1,12 +1,12 @@
 category: phenomenon
 color: #432874
 created: 20200415044811339
-modified: 20210801031331236
+modified: 20220227213310278
 tags: dragonmark
 title: Mark of Shadow
 type: text/vnd.tiddlywiki
 
-The Mark of Shadow lets an [[elf]] weave illusions, crafting
+<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/shadow.svg}}</div> The Mark of Shadow lets an [[elf]] weave illusions, crafting
 magic to distract or delight. It also allows its bearer to
 sculpt shadows, making it easy to avoid detection. Some wielders of the mark can use its power to [[scry|scrying]] using [[dragonmark focus item]]s.
 

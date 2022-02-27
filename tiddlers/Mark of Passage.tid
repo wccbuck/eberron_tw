@@ -1,12 +1,12 @@
 category: phenomenon
 color: #432874
 created: 20200415043640913
-modified: 20210801031331196
+modified: 20220227213154727
 tags: dragonmark
 title: Mark of Passage
 type: text/vnd.tiddlywiki
 
-The Mark of Passage governs motion, allowing its
+<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/passage.svg}}</div> The Mark of Passage governs motion, allowing its
 bearer to move with uncanny speed. The bearer of the
 mark can even slip through space in the blink of an eye. 
 

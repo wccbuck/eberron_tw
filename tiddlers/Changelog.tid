@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
 currentversion: 1.14.0
-modified: 20220225021458225
+modified: 20220227215708218
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 
-!!! 1.14.0 <span style="font-weight:normal">(Feb xx, 2022)</span>
+!!! 1.14.0 <span style="font-weight:normal">(Feb 27, 2022)</span>
 
 * Added a more robust tag system for [[magic item]]s. Created subcategories for weapons, armor, magical implements, accessories, and tools. This includes tags such as "[[detection]]", "[[stealth]]", and "[[mobility]]" that offer a bit of description as to the item's primary purpose. Because weapons, armor, and vehicles already have an obvious usage, I haven't put many usage tags on these items; adding the "[[protection]]" tag on every single suit of armor, or "[[mobility]]" on every vehicle, would be redundant. Full list of new tags:
 ** For armor/accessories: [[body]], [[head]], [[arms]], [[legs]], [[shield]], [[jewelry]]

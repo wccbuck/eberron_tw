@@ -1,12 +1,12 @@
 category: phenomenon
 color: #432874
 created: 20200415171423053
-modified: 20210801031331252
+modified: 20220227213331068
 tags: dragonmark
 title: Mark of Storm
 type: text/vnd.tiddlywiki
 
-Wind and water welcome the half-elves who carry the
+<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/storm.svg}}</div> Wind and water welcome the half-elves who carry the
 Mark of Storm, and some learn to call on the power of
 the storm itself. Bearers can resist the elements and endure lightning strikes, command the wind and sea, and with the assistance of [[dragonshard]] focus items, pilot [[airship]]s and [[elemental galleon]]s.
 
