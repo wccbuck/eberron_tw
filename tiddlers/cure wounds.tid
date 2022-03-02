@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210410045222285
-modified: 20220213023553367
+highertier: show
+modified: 20220220212236088
 tags: [[divine magic]] [[primal magic]]
 tier: 2
 title: cure wounds
@@ -11,6 +12,10 @@ The spellcaster touches a wounded ally, and their wounds begin to close, their i
 
 This spell is similar to [[healing word]]. Healing word can be cast from a distance, but cure wounds results in more substantial healing, and can be cast quietly.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, a wave of healing energy washes out from you. Up to six creatures within 30 feet of you rapidly recover from injury.
+
+</$reveal>

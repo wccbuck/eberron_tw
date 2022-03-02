@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20201216165128139
-modified: 20210727192000577
+highertier: show
+modified: 20220220210636705
 tags: enchantment
 tier: 2
 title: charm
@@ -11,6 +12,10 @@ You attempt to charm a [[humanoid]] you can see within 30 feet. If the creature 
 
 The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target a non-humanoid creature (see also [[animal friendship]]). Alternatively, you can target up to three humanoids with this spell simultaneously; the targets must be within 30 feet of each other when you target them.
+
+</$reveal>

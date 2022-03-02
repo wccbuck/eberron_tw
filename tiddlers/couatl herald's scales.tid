@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20211221233916460
-modified: 20220110034315967
-tags: armor [[couatl herald]]
+modified: 20220221175907438
+tags: armor [[couatl herald]] body
 tier: 3
 title: couatl herald's scales
 type: text/vnd.tiddlywiki
@@ -11,4 +11,9 @@ This enchanted armor was crafted in the fortress-citadels of the [[shulassakar]]
 
 The wearer of this armor can cast [[polymorph]] on themselves once per day.
 
-If you wield and become attuned to three [[couatl herald]] items, you gain the ability to fly as fast as you can run.
+<<<
+!!! polymorph
+{{||polymorph}}
+<<<
+
+If you wield and become [[attuned|attunement]] to three [[couatl herald]] items, you gain the ability to fly as fast as you can run.

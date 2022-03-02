@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20211027185345219
-modified: 20220110043720546
+highertier: show
+modified: 20220220214640263
 tags: [[divine magic]] conjuration
 tier: 3
 title: summon draconic spirit
@@ -11,6 +12,10 @@ You call forth a semi-corporeal [[draconic|dragon]] spirit ([[creature tier]] ''
 
 The creature is an ally to you and your companions. It obeys your verbal commands. If you don’t issue any, it simply attempts to avoid danger.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, the [[creature tier]] of the summoned draconic spirit is ''3''.
+
+</$reveal>

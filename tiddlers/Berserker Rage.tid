@@ -1,6 +1,6 @@
 category: talent
 created: 20210726051058675
-modified: 20211128070032284
+modified: 20220301193515243
 title: Berserker Rage
 type: text/vnd.tiddlywiki
 xpcost: 1
@@ -9,4 +9,8 @@ You can enter the rage of the berserker, perhaps channeling [[primal magic]] thr
 
 The rage lasts for 1 minute, but ends early if you are knocked unconscious or you haven't taken an aggressive action or suffered [[harm]] in the last 10 seconds. When the rage ends, suffer 2 [[stress]]. 
 
-See also [[Mindless Rage]].
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>

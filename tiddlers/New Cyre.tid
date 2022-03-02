@@ -1,11 +1,11 @@
 category: location
 color: #4C8201
 created: 20200415195509971
-modified: 20210821185218853
+modified: 20220217234256737
 points: 32.382,-1.41
 population: 21000
-style: {"color": "#CA5700"}
-tags: town Breland
+style: {"color": "#8E0024"}
+tags: Breland city
 title: New Cyre
 type: text/vnd.tiddlywiki
 
@@ -23,6 +23,4 @@ no one else wanted. Many of them resent the fact that
 they’re trapped inside their former enemy’s lands, with
 nowhere else to go.
 
-Though resources are scarce, New Cyre
-remains a symbol of hope for many refugees. It's also a
-last stop for those determined to explore the [[Mournland]].
+New Cyre's population has exploded to over twenty thousand over the last four years. Though resources are scarce, the city remains a symbol of hope for many refugees. It's also a last stop for those determined to explore the [[Mournland]].

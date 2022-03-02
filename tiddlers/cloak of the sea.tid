@@ -1,10 +1,15 @@
 category: object
 color: #41D5E1
 created: 20210104183001940
-modified: 20220110034315478
-tags: accessory
+modified: 20220220223728086
+tags: accessory body mobility
 tier: 3
 title: cloak of the sea
 type: text/vnd.tiddlywiki
 
 This thick cloak is made of a strange smooth leather that has a faintly blue hue. If you are able to channel [[primal magic]], you can cast [[polymorph]] on yourself to transform into a shark.
+
+<<<
+!!! polymorph
+{{||polymorph}}
+<<<

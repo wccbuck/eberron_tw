@@ -1,13 +1,13 @@
 category: object
 color: #41D5E1
 created: 20201210034536344
-modified: 20220110034321175
-tags: accessory [[dragonmark focus item]] [[Mark of Healing]]
+modified: 20220220232200121
+tags: recovery jewelry accessory [[dragonmark focus item]] [[Mark of Healing]] protection
 tier: 1
 title: Jora charm
 tooltip: common dragonmark focus item, allows Healing mark wielders to stabilize the dying and heal themselves faster
 type: text/vnd.tiddlywiki
 
-In order to attune to this magic item, you must possess the [[Mark of Healing]].
+In order to [[attune|attunement]] to this magic item, you must possess the [[Mark of Healing]].
 
-While you wear this pendant, you automatically stabilize whenever you are dying. In addition, whenever you use your [[dragonmark]] to heal yourself, you heal twice as fast.
+While you wear this pendant, you automatically stabilize whenever you are dying. In addition, whenever you use your [[dragonmark]] to heal yourself, increase the [[impact]] of the [[magical healing]] by 1.

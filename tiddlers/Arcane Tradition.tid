@@ -1,6 +1,6 @@
 category: talent
 created: 20210726074902766
-modified: 20220110040620128
+modified: 20220301193408231
 tags: wizard
 title: Arcane Tradition
 type: text/vnd.tiddlywiki
@@ -14,3 +14,9 @@ the earliest mortal discoveries of magic. The most common arcane traditions on E
 Choose a [[spell school]]. You gain the ability to cast two spells you already know (common or uncommon only) of that spell school at one [[tier|spell tier]] higher.
 
 In addition, gain an [[advantage]] when researching or recalling lore or techniques related to your chosen spell school.
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>

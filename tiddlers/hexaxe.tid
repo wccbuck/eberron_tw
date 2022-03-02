@@ -1,12 +1,12 @@
 category: object
 color: #41D5E1
 created: 20211228210455906
-modified: 20220110034320530
-tags: weapon
+modified: 20220216235953542
+tags: axe weapon
 tier: 2
 title: hexaxe
 type: text/vnd.tiddlywiki
 
-You must be a [[warlock]] to attune to this weapon.
+You must be a [[warlock]] to [[attune|attunement]] to this weapon.
 
 This handaxe amplifies curses bestowed on its wielder's enemies. Gain an [[advantage]] to resist losing your concentration when you are attempting to maintain the effects of a [[spell]]. In addition, gain +1 [[impact]] when attacking a creature with this weapon while the creature is under the effect of one of your spells that requires concentration to maintain.

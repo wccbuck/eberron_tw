@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210103201450880
-modified: 20220110043720331
+highertier: show
+modified: 20220220215004014
 tags: illusion
 tier: 3
 title: greater illusion
@@ -13,6 +14,10 @@ As long as you are within 120 feet of the illusion, you can choose to cause the 
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may make the spell last until dispelled, without requiring your concentration.
+
+</$reveal>

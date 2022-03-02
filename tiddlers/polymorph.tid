@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20201227182122282
-modified: 20220110043720471
+highertier: show
+modified: 20220220211030800
 tags: [[primal magic]] transmutation
 tier: 3
 title: polymorph
@@ -15,6 +16,10 @@ The creature is limited in the actions it can perform by the nature of its new f
 
 The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may target up to four additional creatures. You can choose the same beast or different ones for each target.
+
+</$reveal>

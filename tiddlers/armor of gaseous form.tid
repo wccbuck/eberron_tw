@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20210104233626437
-modified: 20220110034312357
-tags: armor
+modified: 20220221032159841
+tags: armor body mobility
 tier: 4
 title: armor of gaseous form
 type: text/vnd.tiddlywiki
@@ -10,5 +10,6 @@ type: text/vnd.tiddlywiki
 This suit of rough grey leather armor is lined with heavy wolf fur. Once per day, the user can cast [[gaseous form]] on themselves. The effect persists for 1 hour or until the wearer chooses to end the effect.
 
 <<<
-{{gaseous form}}
+!!! gaseous form
+{{||gaseous form}}
 <<<

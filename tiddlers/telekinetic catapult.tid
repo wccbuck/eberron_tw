@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210411211231864
-modified: 20210727192036556
+highertier: show
+modified: 20220220212505714
 tags: transmutation psionics
 tier: 2
 title: telekinetic catapult
@@ -9,6 +10,10 @@ type: text/vnd.tiddlywiki
 
 Choose one object weighing 1 to 5 pounds within 60 feet that isn't being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, if that creature doesn't dodge, the object strikes the target and stops moving, and the target suffers some bludgeoning damage.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, the maximum weight of objects that you can target with this spell increases up to 20 pounds.
+
+</$reveal>

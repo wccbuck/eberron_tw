@@ -2,14 +2,14 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20201210034906467
-modified: 20220110034322424
-tags: [[Mark of Detection]] tool [[dragonmark focus item]]
+modified: 20220219214749598
+tags: detection [[Mark of Detection]] tool [[dragonmark focus item]]
 tier: 1
 title: Medani dowser
 tooltip: common dragonmark focus item, allows Detection mark wielder to locate hidden doors or traps
 type: text/vnd.tiddlywiki
 
-In order to attune to this magic item, you must possess the [[Mark of Detection]].
+In order to [[attune|attunement]] to this magic item, you must possess the [[Mark of Detection]].
 
 While holding this wand, you can expend some of its stored magical power, and if a secret door or trap is within 30 feet of you, the wand pulses and points at the one nearest to you. The wand can be used 3 times per day before its power is expended, and it regains <<dr 1d3>> charges daily at dawn.
 

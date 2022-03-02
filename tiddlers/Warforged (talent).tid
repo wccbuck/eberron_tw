@@ -1,6 +1,6 @@
 category: talent
 created: 20210726022941862
-modified: 20211202234902657
+modified: 20220301193348487
 tags: warforged
 title: Warforged (talent)
 type: text/vnd.tiddlywiki
@@ -14,3 +14,9 @@ As a [[warforged]], you were created to have remarkable fortitude, represented b
 * You don't need to sleep, and magic can't put you to sleep. However, you must spend six hours each night in an inactive, motionless state (a "sentry's rest"), though you remain alert during this time.
 
 This [[talent]] is ''required'' if you have a warforged character, unless you have GM approval.
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>

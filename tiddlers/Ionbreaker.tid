@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20220105092858007
-modified: 20220110034321066
-tags: weapon
+modified: 20220221040133325
+tags: bow weapon mobility
 tier: 5
 title: Ionbreaker
 type: text/vnd.tiddlywiki
@@ -13,7 +13,7 @@ While holding this bow, you can fly as fast as you can run, and can hover up to 
 
 You can fire arrows from this bow twice as fast as you could with an ordinary bow. Arrows fired from this bow deal additional lightning damage. In addition, when you hit a target with an arrow fired from this bow, that target becomes a conduit for electricity for 1 minute. You can speak the bow's command word to cause all conduits within 60 feet of you to electrify. When you do, 5-foot-wide lines of electricity arc between all electrified conduits that are between 30 feet of each other. Each conduit suffers lightning damage, as do any other creatures within the lines of electricity that aren't able to dodge. Once a conduit is electrified in this way, it is no longer a conduit. You can electrify conduits no more than once every five minutes.
 
-While you're attuned to this bow, you're subjected to the chaotic magic of the [[First Storm]] whenever you suffer lightning damage. When you do, use the table below to determine the resulting effect.
+While you're [[attuned|attunement]] to this bow, you're subjected to the chaotic magic of the [[First Storm]] whenever you suffer lightning damage. When you do, use the table below to determine the resulting effect.
 
 |!<<dr d8>> |!Result |
 | 1 |You are extra vulnerable to lightning damage for the next 10 seconds. |

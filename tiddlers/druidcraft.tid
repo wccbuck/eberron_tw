@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210412032728658
-modified: 20220110042217655
+highertier: show
+modified: 20220220214551826
 tags: [[primal magic]]
 tier: 1
 title: druidcraft
@@ -14,6 +15,8 @@ Whispering to the spirits of nature, you create one of the following effects wit
 * You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.
 * You instantly light or snuff out a candle, a torch, or a small campfire.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Uncommon-Tier
 
 When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you can create one of the following effects:
@@ -25,3 +28,5 @@ When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you can 
 * You instantly make //all// flowers blossom, seed pods open, and leaf buds bloom within 30 feet.
 * You instantly wilt all flowers and dry out all leaves within 30 feet.
 * You instantly light or snuff out //all// nonmagical flames within 30 feet.
+
+</$reveal>

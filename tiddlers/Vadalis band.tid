@@ -2,8 +2,8 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20201210041028045
-modified: 20220110034330247
-tags: [[Mark of Handling]] accessory [[dragonmark focus item]]
+modified: 20220221001749833
+tags: jewelry [[Mark of Handling]] accessory [[dragonmark focus item]] communication
 tier: 2
 title: Vadalis band
 tooltip: uncommon dragonmark focus item, allows Handling mark wielder to communicate with beasts
@@ -11,6 +11,6 @@ type: text/vnd.tiddlywiki
 
 To use this ring's effect, you must have the [[Mark of Handling]].
 
-This ring has 3 charges, and it regains <<dr 1d3>> expended charges daily at dawn. While wearing this ring, you can expend 1 charge to cast one of the following spells: [[animal friendship]], [[speak with animals]], or [[fear]] (targeting only a [[beast]] without the ability to speak or understand language).
+This ring has 3 charges, and it regains <<dr 1d3>> expended charges daily at dawn. While wearing this ring, you can expend 1 charge to cast one of the following spells: [[animal friendship]], [[speak with animals]], or [[fear]] (targeting only a [[beast]] or [[monstrosity]] without the ability to speak or understand language).
 
 <<itemcharges 3>>

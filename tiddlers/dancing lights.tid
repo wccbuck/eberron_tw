@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210409230445689
-modified: 20220110041611055
+highertier: show
+modified: 20220220213148495
 tags: evocation
 tier: 1
 title: dancing lights
@@ -11,6 +12,8 @@ You create up to four torch-sized lights within 120 feet, making them appear as 
 
 At will, you can move the lights up to 10 feet per second within 120 feet. A light must remain within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Uncommon-Tier
 
 When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may do any or all of the following: 
@@ -18,3 +21,5 @@ When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may 
 * Create up to six lights, each of which can shed bright light in a 10-foot radius and dim light for an additional 10 feet. 
 * Attach a light to a creature or object. A light attached in this way moves with the target for the spell's duration, can no longer be moved by you, and it does not wink out if it exceeds the spell's range or 20 foot range of another light.
 * Combine the lights into one glowing vaguely humanoid or bestial form, up to roughly the size of a horse.
+
+</$reveal>

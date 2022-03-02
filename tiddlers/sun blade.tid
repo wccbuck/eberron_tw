@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20201227202509907
-modified: 20220110034328689
-tags: weapon
+modified: 20220221193024785
+tags: detection sword weapon
 tier: 3
 title: sun blade
 type: text/vnd.tiddlywiki
@@ -11,4 +11,4 @@ This item appears to be a longsword hilt. While grasping the hilt, you can cause
 
 This sword deals radiant damage instead of slashing damage. It deals extra damage to [[Mabar]]an [[undead]].
 
-The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is considered sunlight. While the blade persists, you can expand or reduce its radius of bright and dim light, to a maximum of 30 feet each or a minimum of 10 feet each.
+The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is considered [[sunlight|Sun]]. While the blade persists, you can expand or reduce its radius of bright and dim light, to a maximum of 30 feet each or a minimum of 10 feet each.

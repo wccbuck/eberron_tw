@@ -1,21 +1,21 @@
-2d4: 2
+2d4: 4
 category: object
 charges: 3
 color: #41D5E1
 created: 20210105233100592
-d10: 3
-d20: 20
-d35: 15
-d4: 2
-d50: 5
+d10: 5
+d20: 15
+d35: 25
+d4: 1
+d50: 25
 d7: 3
 duration: 1 minute
-effect: Any part of target not covered by clothing appears to be skeletal for the next {{!!duration}}.
-l_duration: 5 days
-modified: 20220202035351844
+effect: Target's skin appears uniformly smooth and waxy for the next {{!!duration}}.
+l_duration: 5 hours
+modified: 20220216222517043
 s_duration: 12 seconds
-spell: control water
-tags: accessory
+spell: hellish rebuke
+tags: arms accessory
 tier: 3
 title: point-and-hope gauntlets
 type: text/vnd.tiddlywiki

@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20201216173808352
-modified: 20210727192014987
+highertier: show
+modified: 20220220212322902
 tags: illusion
 tier: 2
 title: invisibility
@@ -9,6 +10,10 @@ type: text/vnd.tiddlywiki
 
 A creature you touch becomes invisible for up to 1 hour. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may make the invisibility persist if the target attacks or casts a spell, but the duration is shortened to only a few minutes. Alternatively, you can target up to three creatures with this spell simultaneously.
+
+</$reveal>

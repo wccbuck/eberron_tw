@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210110054811844
-modified: 20210727192008837
+highertier: show
+modified: 20220220212400451
 tags: conjuration
 tier: 2
 title: fog cloud
@@ -9,6 +10,10 @@ type: text/vnd.tiddlywiki
 
 You create a 20-foot-radius sphere of fog centered on a point within 120 feet. The sphere spreads around corners, and its area is heavily obscured. It lasts for up to 1 hour or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may increase the radius of the fog to up to 80 feet.
+
+</$reveal>

@@ -1,6 +1,6 @@
 caption: Creatures
 created: 20210301233947959
-modified: 20211125061626852
+modified: 20220216200608294
 tags: 
 title: Find Creatures
 type: text/vnd.tiddlywiki
@@ -47,7 +47,7 @@ type: text/vnd.tiddlywiki
 		<div class="tc-manager-control">
 			Exclude tag: <$select tiddler="$:/config/Manager/ExcludeCreatureTag" default="">
 				<option value="">---</option>
-				<$list filter="[category[creature]tag:strict{$:/config/Manager/CreatureType}tags[]!title{$:/config/Manager/CreatureType}] [{$:/config/Manager/ExcludeCreatureTag}!is[blank]] +[sort[title]]" variable="tag">
+				<$list filter="[category[creature]tag:strict{$:/config/Manager/CreatureType}tags[]!title{$:/config/Manager/CreatureType}!title{$:/config/Manager/CreatureTag}] [{$:/config/Manager/ExcludeCreatureTag}!is[blank]] +[sort[title]]" variable="tag">
 					<option value=<<tag>>><$text text=<<tag>>/></option>
 				</$list>
 			</$select>

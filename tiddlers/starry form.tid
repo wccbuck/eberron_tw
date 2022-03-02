@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210809013613095
-modified: 20210809014640597
+highertier: show
+modified: 20220220212453526
 tags: [[primal magic]] transmutation
 tier: 2
 title: starry form
@@ -15,6 +16,10 @@ Whenever you assume your starry form, choose which of the following constellatio
 * ''Chalice.'' A constellation of a life-giving goblet appears on you. Gain an [[advantage]] whenever you cast a healing [[spell]].
 * ''Dragon.'' A constellation of a wise [[dragon]] appears on you. Gain an [[advantage]] on any attempt to discern the truth or maintain concentration under stress.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you can change which constellation glimmers on your body every few seconds. In addition, your ''Archer'' form deals more damage with its arrow, your ''Chalice'' form grants a second [[advantage]], and your ''Dragon'' form allows you to fly up to 5 mph and hover in place.
+
+</$reveal>

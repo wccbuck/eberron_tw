@@ -2,8 +2,8 @@ category: object
 charges: 4
 color: #41D5E1
 created: 20211221232055083
-modified: 20220110034315952
-tags: weapon [[couatl herald]]
+modified: 20220217213001205
+tags: weapon [[couatl herald]] bow
 tier: 3
 title: couatl herald's reach
 type: text/vnd.tiddlywiki
@@ -14,6 +14,6 @@ The bow has four charges, and regains <<dr 1d3+1>> expended charges daily at daw
 
 Depending on the pinned limb, the creature may fall over, be unable to move, or have [[disadvantage]] when attempting to use their pinned limb. A creature may be able to break the radiant bonds with a dedicated effort.
 
-If you wield and become attuned to three [[couatl herald]] items, you gain the ability to fly as fast as you can run.
+If you wield and become [[attuned|attunement]] to three [[couatl herald]] items, you gain the ability to fly as fast as you can run.
 
 <<itemcharges 4>>

@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20211027195541947
-modified: 20220110034318076
-tags: tool
+modified: 20220220202526159
+tags: tool communication stealth
 tier: 2
 title: emerald pen
 type: text/vnd.tiddlywiki
@@ -10,5 +10,6 @@ type: text/vnd.tiddlywiki
 This pen is tipped with an emerald nib and requires no ink to write. While holding this pen, you can cast [[illusory script]] at will, requiring no material components.
 
 <<<
-{{illusory script}}
+!!! illusory script
+{{||illusory script}}
 <<<

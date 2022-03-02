@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210110061439813
-modified: 20220110043720265
+highertier: show
+modified: 20220220214716461
 tags: transmutation
 tier: 3
 title: elemental bane
@@ -9,6 +10,10 @@ type: text/vnd.tiddlywiki
 
 Choose one creature you can see within 90 feet, and choose one of the following damage types: acid, cold, fire, or lightning. If the target can't resist the spell, then for up to one minute, they are vulnerable to that damage type.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may target up to three additional creatures. The creatures must be within 30 feet of each other when you target them.
+
+</$reveal>

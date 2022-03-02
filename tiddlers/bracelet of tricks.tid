@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20210103053923024
-modified: 20220110034314157
-tags: accessory
+modified: 20220220235819442
+tags: entertainment accessory jewelry convenience
 tier: 2
 title: bracelet of tricks
 type: text/vnd.tiddlywiki
@@ -10,5 +10,6 @@ type: text/vnd.tiddlywiki
 This bracelet of bright red beads allows the wearer to perform the [[prestidigitation]] cantrip at will. The durations of the effects are ''limited to five minutes''.
 
 <<<
-{{prestidigitation}}
+!!! prestidigitation
+{{||prestidigitation}}
 <<<

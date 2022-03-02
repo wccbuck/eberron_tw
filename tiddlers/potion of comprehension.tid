@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20201227013713281
-modified: 20220110034324373
-tags: potion
+modified: 20220220202742085
+tags: potion communication
 tier: 1
 title: potion of comprehension
 type: text/vnd.tiddlywiki
@@ -10,5 +10,6 @@ type: text/vnd.tiddlywiki
 When you drink this potion, you gain the effect of a [[comprehend languages]] spell for 1 hour. This liquid is a clear concoction with bits of salt and soot swirling in it.
 
 <<<
-{{comprehend languages}}
+!!! comprehend languages
+{{||comprehend languages}}
 <<<

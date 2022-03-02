@@ -1,12 +1,12 @@
 category: phenomenon
 color: #432874
 created: 20200415035355840
-modified: 20210801031331130
+modified: 20220227212815412
 tags: dragonmark
 title: Mark of Finding
 type: text/vnd.tiddlywiki
 
-The Mark of Finding sharpens the senses, guiding the
+<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/finding.svg}}</div> The Mark of Finding sharpens the senses, guiding the
 hunter to prey. It first appeared in the [[Shadow Marches]], where
 clan hunters used it to find their quarry. Today, bounty hunters and prospectors use the mark to track down people of interest or valuable items.
 

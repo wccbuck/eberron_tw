@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20201216172239039
-modified: 20211125000000205
+highertier: show
+modified: 20220220212528518
 tags: illusion
 tier: 2
 title: disguise self
@@ -11,6 +12,10 @@ You make yourself—including your clothing, armor, weapons, and other belonging
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a cape to your outfit, objects pass through the cape, and anyone who touches it would feel nothing. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target every creature you can see within 30 feet. This version of the spell is sometimes called "''seeming''". You give each target you choose a new, illusory appearance. Unwilling targets can attempt to resist the spell.
+
+</$reveal>

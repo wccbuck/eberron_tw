@@ -1,12 +1,12 @@
 category: phenomenon
 color: #432874
 created: 20200415041344694
-modified: 20210801031331157
+modified: 20220227212941182
 tags: dragonmark
 title: Mark of Healing
 type: text/vnd.tiddlywiki
 
-A [[halfling]] with the Mark of Healing can save a life
+<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/healing.svg}}</div> A [[halfling]] with the Mark of Healing can save a life
 with a touch, restoring vitality, curing disease and mending wounds.
 When dealing with mundane medicine, the mark
 helps its bearer sense the nature of maladies, aiding

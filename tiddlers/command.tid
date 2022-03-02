@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20201216162532491
-modified: 20210727192001726
+highertier: show
+modified: 20220220211312651
 tags: enchantment
 tier: 2
 title: command
@@ -17,6 +18,10 @@ Some typical commands follow, though you might issue a command other than one de
 * ''Grovel''. The target drops to the ground and lies face down.
 * ''Halt''. The target stops moving.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may affect up to three creatures with this spell simultaneously.
+
+</$reveal>

@@ -1,12 +1,12 @@
 category: object
 color: #41D5E1
 created: 20211027221045929
-modified: 20220110034325973
-tags: [[magical implement]]
+modified: 20220217220037956
+tags: [[magical implement]] crystal
 tier: 4
 title: ruby weave gem
 type: text/vnd.tiddlywiki
 
-If you are a spellcaster, you can use this gem as a [[magical implement]] for your spells. While you are attuned to this gem, you may cast one additional [[spell]] of your choice of any category, as long as its [[spell tier]] is no higher than your highest-tier spell. You may swap out this spell for a different one once each day.
+If you are a spellcaster, you can use this gem as a [[magical implement]] for your spells. While you are [[attuned|attunement]] to this gem, you may choose any one [[spell]] of any category to store within it, as long as its [[spell tier]] is no higher than your highest-tier spell. You may cast this spell as normal, and you may swap out this spell for a different one once each day.
 
 In addition, when casting a spell that requires the expenditure of material components, you can use the energy stored in this gem instead, for up to [[15c|money]] worth of components. The gem's energy fully restores daily at dawn.

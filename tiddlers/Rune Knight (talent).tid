@@ -1,6 +1,6 @@
 category: talent
 created: 20210809025058540
-modified: 20220110042710791
+modified: 20220301193444086
 tags: [[rune knight]]
 title: Rune Knight (talent)
 type: text/vnd.tiddlywiki
@@ -8,7 +8,9 @@ xpcost: 1
 
 As a [[rune knight]], you gain the ability to cast the "Enlarge" half of the [[enlarge/reduce]] spell on yourself only. It still counts as an [[uncommon-tier|spell tier]] spell and costs one [[stress]] to cast.
 
-You may also use [[smith's tools]] or similar item to inscribe magic runes to enhance your gear. You learn two runes of your choice from the below list. Each day, you can inscribe one rune onto an object that you can wear or hold in a hand. Your rune remains on the object for 24 hours, and an object can bear only one of your runes at a time. "Invoking" the rune while holding or wearing the object grants you a benefit for about one minute; the magic takes about an hour to recharge.
+You may also use [[smith's tools]] or similar item to inscribe magic runes to enhance your gear. You learn ''two'' runes of your choice from the below list. Each day, you can inscribe ''one'' rune onto an object that you can wear or hold in a hand. Your rune remains on the object for 24 hours, and an object can bear only one of your runes at a time. "Invoking" the rune while holding or wearing the object grants you a benefit for about one minute; the magic takes about an hour to recharge.
+
+See also [[Master of Runes]].
 
 As a thematic suggestion, one of the [[language]]s you know should be [[Giant]].
 
@@ -54,3 +56,9 @@ seer. While wearing or carrying an object inscribed with this rune, you can invo
 * Cast [[guidance]] on yourself and another creature you touch.
 
 The effects of either of these benefits persist for up to one minute.
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>

@@ -1,15 +1,15 @@
 category: object
 color: #41D5E1
 created: 20201210060451571
-modified: 20220110034311786
-tags: accessory
+modified: 20220216210959022
+tags: accessory head
 tier: 2
 title: Aereni mask
 type: text/vnd.tiddlywiki
 
 This mask's intricate design links it to one of the [[Aereni|Aerenal]] noble
 lines, and the guidance it offers comes from spirits of that line.
-You can't attune to the mask unless those spirits judge you
+You can't [[attune|attunement]] to the mask unless those spirits judge you
 worthy to wear it.
 
 An Aereni mask is imbued with one [[action]] when it is created. While wearing the mask, when you make an attempt using that [[action]], add 1 [[impact]].

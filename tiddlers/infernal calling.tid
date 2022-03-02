@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210108193521826
-modified: 20220110042957022
+highertier: show
+modified: 20220220214758355
 tags: conjuration
 tier: 3
 title: infernal calling
@@ -17,6 +18,10 @@ If your concentration ends before the spell reaches its full duration, the devil
 
 Some say if you possess an individual devil's talisman, you have wield complete control over that devil when you summon it.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may summon a <<showcreature-lteq "tier 3 devil" 3 devil>>.
+
+</$reveal>

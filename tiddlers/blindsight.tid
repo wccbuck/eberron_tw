@@ -1,10 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20210411231852171
-modified: 20210727191958264
+modified: 20220301175350386
 tags: 
 title: blindsight
 tooltip: able to perceive surroundings without relying on sight
 type: text/vnd.tiddlywiki
 
-A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as [[ooze]]s, and creatures with echolocation or heightened senses, such as bats and true [[dragon]]s, have this sense.
+A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius. Within that range, they can effectively see anything that isn't completely surrounded, even if they're blinded or in darkness. They can also see invisible creatures and objects within that range. Creatures without eyes, such as [[ooze]]s, and creatures with echolocation or heightened senses, such as bats and true [[dragon]]s, have this sense.

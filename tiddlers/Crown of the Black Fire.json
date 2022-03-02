@@ -4,11 +4,11 @@
         "text": "This crude iron crown was once worn by a lieutenant of the [[overlord]]s during the [[Age of Demons]]. It is fashioned to look like black flames wreathing the head of the wearer; when a worthy creature puts on the crown, its head is surrounded by red and black fire which conceal the wearer's face. The wearer gains an immunity to fire and necrotic damage. They can cast [[hellish rebuke]] for free at will, and can also cast the [[animate dead]], [[create ghast]], [[wall of fire]], and [[investiture of flame]] spells.\n\nThe wearer can speak only lies while wearing the Crown of Black Fire.\n\nThe crown is believed to lie within the floating Icehammer Palace above [[Icewhite Island]].",
         "type": "text/vnd.tiddlywiki",
         "title": "Crown of the Black Fire",
-        "tags": "accessory",
-        "modified": "20220110034316152",
+        "tags": "accessory head protection summoning destruction",
+        "modified": "20220221001330059",
+        "tier": "5",
         "color": "#41D5E1",
         "category": "object",
-        "article": "the ",
-        "tier": "5"
+        "article": "the "
     }
 ]

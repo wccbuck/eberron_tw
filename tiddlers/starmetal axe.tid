@@ -1,13 +1,13 @@
 category: object
 color: #41D5E1
 created: 20220104003823796
-modified: 20220110034328314
-tags: weapon
+modified: 20220216232845045
+tags: axe weapon
 tier: 4
 title: starmetal axe
 type: text/vnd.tiddlywiki
 
-This magic weapon is forged using a mysterious metal gathered from the [[Astral Sea]]. While you're attuned to this weapon, you can call upon its latent energy to change its form. The weapon can be fused into a single greataxe, or fissioned into two separate battleaxes. The weapon has the following properties in each state:
+This magic weapon is forged using a mysterious metal gathered from the [[Astral Sea]]. While you're [[attuned|attunement]] to this weapon, you can call upon its latent energy to change its form. The weapon can be fused into a single greataxe, or fissioned into two separate battleaxes. The weapon has the following properties in each state:
 
 ''//Fused State.//'' While wielding the fused greataxe, flames erupt from its edges and a small star burns in its center. These flames shed bright light in a 20-foot radius and dim light for an additional 20 feet. The light is considered [[sunlight|Sun]]. The greataxe deals extra fire and radiant damage to any target it hits.
 

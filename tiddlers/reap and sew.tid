@@ -2,18 +2,18 @@ category: object
 charges: 4
 color: #41D5E1
 created: 20220102232929507
-modified: 20220110034324987
-tags: weapon tool cursed
+modified: 20220218174714766
+tags: weapon tool cursed crossbow convenience
 tier: 3
 title: reap and sew
 type: text/vnd.tiddlywiki
 
-While attuned to this crossbow, you can cast the [[mending]] cantrip at will. A special needle-like bolt is magically bound to the crossbow. When fired, the bolt leaves a faint thread of arcane energy behind it. The bolt returns to the crossbow and loads itself automatically after each attack.
+While [[attuned|attunement]] to this crossbow, you can cast the [[mending]] cantrip at will. A special needle-like bolt is magically bound to the crossbow. When fired, the bolt leaves a faint thread of arcane energy behind it. The bolt returns to the crossbow and loads itself automatically after each attack.
 
 The crossbow has 4 charges and regains <<dr 1d4>> expended charges each day at dawn. When you fire the special bolt from this crossbow and hit a creature no larger than an [[ogre]], you can expend 1 charge to tether that creature to a point on the ground adjacent to it. If the creature isn't strong enough to break free of the arcane tether, they cannot move more than 10 feet away from that point for the next 10 seconds.
 
 If the special bolt is somehow destroyed or lost, the bolt reappears loaded in the crossbow after 24 hours. The weapon is considered to be a mundane, nonmagical crossbow while separated from the bolt for longer than 1 minute.
 
-This weapon is mildly [[cursed]]. Once attuned to this weapon, you find yourself frequently overcome with the urge to craft, and are forced to sew, knit, crochet, or cross-stitch feverishly for at least 1 hour each day. The curse remains even if the attunement ends, but can be undone by [[remove curse]] or similar spell.
+This weapon is mildly [[cursed]]. Once [[attuned|attunement]] to this weapon, you find yourself frequently overcome with the urge to craft, and are forced to sew, knit, crochet, or cross-stitch feverishly for at least 1 hour each day. The curse remains even if the attunement ends, but can be undone by [[remove curse]] or similar spell.
 
 <<itemcharges 4>>

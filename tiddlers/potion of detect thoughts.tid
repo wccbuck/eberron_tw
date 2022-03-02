@@ -1,14 +1,15 @@
 category: object
 color: #41D5E1
 created: 20210903194215615
-modified: 20220110034324390
-tags: accessory
+modified: 20220220202750792
+tags: potion detection
 tier: 2
 title: potion of detect thoughts
 type: text/vnd.tiddlywiki
 
-This potion is completely clear except for a small pink blob (the brain of a [[flumph]]) floating in the center of it. When you drink this potion, you gain the effect of the [[detect thoughts]] spell. 
+This potion is completely clear except for a small pink blob (perhaps the brain of a [[flumph]]) floating in the center of it. When you drink this potion, you gain the effect of the [[detect thoughts]] spell. 
 
 <<<
-{{detect thoughts}}
+!!! detect thoughts
+{{||detect thoughts}}
 <<<

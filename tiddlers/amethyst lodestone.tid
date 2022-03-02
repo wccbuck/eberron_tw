@@ -2,8 +2,8 @@ category: object
 charges: 6
 color: #41D5E1
 created: 20211027191441126
-modified: 20220110034311974
-tags: tool
+modified: 20220220222707862
+tags: tool mobility hindrance
 tier: 4
 title: amethyst lodestone
 type: text/vnd.tiddlywiki
@@ -19,7 +19,8 @@ The lodestone has 6 charges for the following properties, which you can use whil
 //''Reverse Gravity. ''//You can expend 3 charges to cast [[reverse gravity]] from the stone.
 
 <<<
-{{reverse gravity}}
+!!! reverse gravity
+{{||reverse gravity}}
 <<<
 
 <<itemcharges 6>>

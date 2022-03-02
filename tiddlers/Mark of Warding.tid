@@ -1,12 +1,12 @@
 category: phenomenon
 color: #432874
 created: 20200415172030671
-modified: 20210801031331273
+modified: 20220227213359187
 tags: dragonmark
 title: Mark of Warding
 type: text/vnd.tiddlywiki
 
-The Mark of Warding helps its bearers protect things of
+<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/warding.svg}}</div> The Mark of Warding helps its bearers protect things of
 value. Using the mark, a [[dwarf]] can weave wards with
 mystic force. It also provides its bearer with an intuitive
 understanding of locks used to protect and seal. 

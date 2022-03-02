@@ -1,12 +1,12 @@
 category: object
 color: #41D5E1
 created: 20201228054313116
-modified: 20220110034314050
-tags: weapon
+modified: 20220217213220637
+tags: crossbow bow weapon
 tier: 2
 title: bow of the bloodhunter
 type: text/vnd.tiddlywiki
 
-You have [[advantage]] the first time you use this bow after suffering [[harm]].
+You have [[advantage]] the first time you use this bow (or crossbow) after suffering [[harm]].
 
 When using this bow, you may link a "blood arrow" to your life force. When you fire that arrow, if it hits a target, both you and the target take additional necrotic damage.

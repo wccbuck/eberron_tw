@@ -1,12 +1,12 @@
 category: phenomenon
 color: #432874
 created: 20200415041610596
-modified: 20210801031331170
+modified: 20220227213010221
 tags: dragonmark
 title: Mark of Hospitality
 type: text/vnd.tiddlywiki
 
-They may not always have gold, but a [[halfling]] with the
+<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/hospitality.svg}}</div> They may not always have gold, but a [[halfling]] with the
 Mark of Hospitality is sure to be rich in friends. The
 magic of the mark allows the bearer to keep a place
 clean, and to heat, chill, and season food. But it also

@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210427162303293
-modified: 20210727192013383
+highertier: show
+modified: 20220220211332098
 tags: enchantment
 tier: 2
 title: hex
@@ -11,6 +12,10 @@ You place a curse on a creature that you can see within 90 feet. Choose one [[ac
 
 A [[remove curse]] cast on the target ends this spell early.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, the duration increases to 8 hours and does not require concentration to maintain.
+
+</$reveal>

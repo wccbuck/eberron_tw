@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20210109060639899
-modified: 20220110034315528
-tags: accessory
+modified: 20220220233003133
+tags: accessory body protection mobility hindrance
 tier: 4
 title: cloak of vines
 type: text/vnd.tiddlywiki
@@ -13,5 +13,5 @@ While wearing the cloak:
 
 * You can cause the vines to flail out and attack hostile creatures within 5 feet of you, piercing them with poisoned thorns.
 * You can climb as fast as you can run, as the vines animate and pull you up even sheer surfaces.
-* You gain a resistance to poison.
+* You gain resistance to poison.
 * If you would knocked prone or into a wall, the vines animate, cushion your fall and restore your balance.

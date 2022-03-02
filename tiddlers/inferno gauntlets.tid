@@ -1,10 +1,15 @@
 category: object
 color: #41D5E1
 created: 20201228183743349
-modified: 20220110034320960
-tags: accessory
+modified: 20220220232421339
+tags: destruction arms accessory
 tier: 2
 title: inferno gauntlets
 type: text/vnd.tiddlywiki
 
 While wearing these beautiful scaled gauntlets, you can [[push yourself]] to ignite them for up to one minute, scorching anything you strike. In addition, you can cast the [[burning hands]] spell.
+
+<<<
+!!! burning hands
+{{||burning hands}}
+<<<

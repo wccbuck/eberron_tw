@@ -1,12 +1,12 @@
 category: phenomenon
 color: #432874
 created: 20201216225006871
-modified: 20210801031331101
+modified: 20220227210050694
 tags: dragonmark
 title: Mark of Death
 type: text/vnd.tiddlywiki
 
-Any citizen of the [[Five Nations]] can name the
+<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/death.svg}}</div> Any citizen of the [[Five Nations]] can name the
 twelve true [[dragonmark]]s. The marks are pillars
 of modern society, cornerstones of the tools
 people use every day. But there is another dragonmark. Few now

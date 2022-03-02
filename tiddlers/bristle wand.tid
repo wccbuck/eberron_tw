@@ -2,8 +2,8 @@ category: object
 charges: 5
 color: #41D5E1
 created: 20201227210817050
-modified: 20220110034314396
-tags: [[magical implement]] tool
+modified: 20220220053053712
+tags: [[magical implement]] tool wand summoning recovery
 tier: 3
 title: bristle wand
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ This wand is made from the bristles of a giant boar bound together with magical,
 
 * //''Ghostly Charge.''// You toss the bristle towards one creature you can see. A phantom giant boar charges 30 feet toward the creature. 
 
-* //''Truffle.''// You plant the bristle in the ground to conjure up a magical truffle. The mushroom can be consumed to rapidly heal from injuries.
+* //''Truffle.''// You plant the bristle in the ground to conjure up a magical truffle. The mushroom can be consumed to rapidly heal from injuries (moderate-[[impact]] [[magical healing]]).
 
 So long as the wand has 1 bristle remaining, it regrows a bristle daily at dawn. Using the last bristle destroys the object.
 

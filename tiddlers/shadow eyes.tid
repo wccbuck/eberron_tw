@@ -1,18 +1,18 @@
 category: object
 color: #41D5E1
 created: 20210104022816000
-modified: 20220110034326677
-tags: [[Mark of Shadow]] tool [[dragonmark focus item]]
+modified: 20220220202844430
+tags: detection [[Mark of Shadow]] tool [[dragonmark focus item]]
 tier: 2
 title: shadow eyes
 tooltip: uncommon dragonmark focus item, allows Shadow mark wielder to scry to other eye
 type: text/vnd.tiddlywiki
 
-In order to attune to this magic item, you must possess the [[Mark of Shadow]].
+In order to [[attune|attunement]] to this magic item, you must possess the [[Mark of Shadow]].
 
 A pair of shadow eyes consists of 2 bundles of [[dragonshard]] slivers bound with copper bands. The holder of a shadow eye can cast [[clairvoyance]], targeting the other eye of the pair.
 
 <<<
-!! Clairvoyance
-{{clairvoyance}}
+!!! clairvoyance
+{{||clairvoyance}}
 <<<

@@ -1,9 +1,9 @@
 category: location
 color: #4C8201
 created: 20200414065829104
-modified: 20210820072410870
+modified: 20220217233552120
 points: 39.378,15.0
-population: 11500
+population: 3000
 style: {"color": "#CA5700"}
 tags: town [[Talenta Plains]]
 title: Gatherhold
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>
 
-Built into a rocky outcropping along the eastern shore of [[Lake Cyre]], Gatherhold has space for 15,000 or more [[halfling]]s, though its population approaches that number only a few times a year. Fewer than 2000 residents live here full time, and these are nearly all representatives of the [[dragonmarked house]]s.
+Built into a rocky outcropping along the eastern shore of [[Lake Cyre]], Gatherhold has space for 20,000 or more [[halfling]]s, though its population approaches that number only a few times a year. Fewer than 3000 residents live here full time, and these are nearly all representatives of the [[dragonmarked house]]s.
 
 House [[Ghallanda]] built and maintains Gatherhold,
 both as its [[headquarters|Gatherhold Enclave]] and as a place where all

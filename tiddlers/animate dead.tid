@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20201216174907225
-modified: 20220114013502269
+highertier: show
+modified: 20220220203210708
 tags: necromancy
 tier: 2
 title: animate dead
@@ -13,6 +14,10 @@ You can mentally command any creature you made with this spell if the creature i
 
 The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Rare-Tier
 
 When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may animate or reassert control over four additional undead creatures. Each of the creatures must come from a different corpse or pile of bones.
+
+</$reveal>

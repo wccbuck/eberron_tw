@@ -1,7 +1,9 @@
 category: spell
 color: #B7A1E0
 created: 20201210004030730
-modified: 20220110042218238
+ghostsound: show
+highertier: show
+modified: 20220220221459912
 tags: illusion
 tier: 1
 title: lesser illusion
@@ -15,6 +17,16 @@ If the caster creates an image of an object—such as a chair, muddy footprints,
 
 If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
+<$reveal type="match" state="!!ghostsound" text="show">
+
+!! Ghost Sound
+
+Many [[gnome]]s are innately able to cast the "sound" half of this cantrip; this spell is often referred to as "[[ghost sound]]".
+
+</$reveal>
+
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Uncommon-Tier
 
 When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may do up to ''two'' of the following:
@@ -25,6 +37,4 @@ When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may 
 * Delay the start of the illusion for up to five minutes.
 * Freely move an image or the source of sound to any spot within the range of the spell.
 
-!! Ghost Sound
-
-Many [[gnome]]s are innately able to cast the "sound" half of this cantrip; this spell is often referred to as "[[ghost sound]]".
+</$reveal>

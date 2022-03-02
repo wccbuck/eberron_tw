@@ -1,5 +1,5 @@
 created: 20201208052512120
-modified: 20210727191951925
+modified: 20220220053459887
 tags: $:/tags/Macro
 title: $:/core/macros/tag-picker
 type: text/vnd.tiddlywiki
@@ -40,11 +40,6 @@ $actions$
 <div class="tc-block-dropdown">
 <$list filter="[{$:/temp/NewTagName}minlength{$:/config/Tags/MinLength}limit[1]]" emptyMessage="""<div class="tc-search-results">{{$:/language/Search/Search/TooShort}}</div>""" variable="listItem">
 <$list filter="[category<cat>tags[]!is[system]!subfilter{$:/config/Tags/hide}search:title{$:/temp/NewTagName}sort[]]" variable="tag">
-<<tag-button>>
-</$list></$list>
-<hr>
-<$list filter="[{$:/temp/NewTagName}minlength{$:/config/Tags/MinLength}limit[1]]" emptyMessage="""<div class="tc-search-results">{{$:/language/Search/Search/TooShort}}</div>""" variable="listItem">
-<$list filter="[tags[]!is[system]!subfilter{$:/config/Tags/hide}search:title{$:/temp/NewTagName}sort[]] -[category<cat>tags[]]" variable="tag">
 <<tag-button>>
 </$list></$list>
 <hr>

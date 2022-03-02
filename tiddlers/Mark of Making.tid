@@ -1,12 +1,12 @@
 category: phenomenon
 color: #432874
 created: 20200415043011224
-modified: 20210801031331184
+modified: 20220227213112552
 tags: dragonmark
 title: Mark of Making
 type: text/vnd.tiddlywiki
 
-The Mark of Making guides its bearer through any act
+<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/making.svg}}</div> The Mark of Making guides its bearer through any act
 of creation. The bearer of the mark can [[mend|mending]] broken
 things with a touch, and always has a minor [[magic item]]
 they've been working on. An [[artificer]] or a [[wizard]] will

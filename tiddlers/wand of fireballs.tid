@@ -1,10 +1,15 @@
 category: object
 color: #41D5E1
 created: 20201228015620838
-modified: 20220110034330666
-tags: [[magical implement]]
+modified: 20220221022203269
+tags: destruction [[magical implement]] wand
 tier: 3
 title: wand of fireballs
 type: text/vnd.tiddlywiki
 
-If you are a spellcaster, you can cast [[fireball]] while attuned to this wand. You also gain an additional spellcasting [[stress]] box which you can only use to cast this spell.
+If you are a spellcaster, you can cast [[fireball]] while [[attuned|attunement]] to this wand. You also gain an additional spellcasting [[stress]] box which you can only use to cast this spell.
+
+<<<
+!!! fireball
+{{||fireball}}
+<<<

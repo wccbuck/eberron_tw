@@ -2,14 +2,14 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20211231071833131
-modified: 20220110034323052
-tags: weapon
+modified: 20220221181119578
+tags: stealth weapon mace
 tier: 4
 title: nightstalker's kanabo
 type: text/vnd.tiddlywiki
 
 This studded, heavy greatclub once belonged to a vicious [[oni]] who excelled at subterfuge. When you hit a sleeping creature with this weapon, that creature takes a great deal of additional psychic damage from the attack. In addition, when you [[push yourself]] on an attack against a creature with this club and successfully strike the creature, the target must resist the magic of this kanabo or else magically fall asleep for up to 10 seconds (though they awake when shaken or struck). Creatures who do not sleep, or who are immune to being charmed, are not affected by this ability.
 
-In addition, this weapon has 3 charges and regains <<dr 1d3>> expended charges daily at dusk. While holding the weapon, you can expend 1 of its charges to cast either the [[invisibility]] (targeting only yourself) or [[sleep]] spell from it.
+In addition, this weapon has 3 charges and regains <<dr 1d3>> expended charges daily at dusk. While holding the weapon, you can expend 1 of its charges to cast either the [[invisibility]] spell (targeting only yourself) or [[sleep]] spell from it.
 
 <<itemcharges 3>>

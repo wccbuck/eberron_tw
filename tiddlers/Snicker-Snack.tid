@@ -1,19 +1,19 @@
 category: object
 color: #41D5E1
 created: 20210928001141696
-modified: 20220110034327433
-tags: weapon
+modified: 20220221190744942
+tags: sword weapon
 tier: 5
 title: Snicker-Snack
 type: text/vnd.tiddlywiki
 
 Snicker-Snack is a sentient [[fey]] greatsword with intelligence on par with a human. It can hear and see (with [[darkvision]]) out to a range of 120 feet. It can speak, read, and understand [[Common]] and [[Sylvan]], and its voice sounds silvery and melodic. Snicker-Snack craves the destruction of evil [[dragon]]s and urges its wielder to seek out these creatures and slay them.
 
-If the sword takes a liking to its wielder, it will allow the wielder to attune to it, unlocking additional properties. These include:
+If the sword takes a liking to its wielder, it will allow the wielder to [[attune|attunement]] to it, unlocking additional properties. These include:
 
-* Magically-granted proficiency with the weapon.
+* Magically-granted proficiency with the weapon, even if the wielder has never held a sword before.
 * Greatly improved maneuverability and damage, amplified even more if the wielder is charismatic and in Snicker-Snack's good graces.
 * When attacking an enemy with a resistance to slashing damage, that resistance is ignored.
 * When using this weapon to attack a creature that has at least one head, and you roll a [[critical success|full success]], you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. This is up to GM discretion; if the creature is immune to slashing damage, if it's too big for its head to be cut off with the weapon, etc., then instead the creature just suffers a great deal of additional slashing damage.
 
-However, Snicker-Snack has a fickle personality. If you miss with an attack three times in a row, or do some other thing that offends its sensibilities, it will end its attunement to you, disabling the above properties. If this happens, you may make an attempt to regain the sword's trust once every 24 hours; if you succeed, your attunement to the weapon is instantly restored. Your attunement to the weapon can't be restored in any other way.
+However, Snicker-Snack has a fickle personality. If you miss with an attack three times in a row, or do some other thing that offends its sensibilities, it will end its [[attunement]] to you, disabling the above properties. If this happens, you may make an attempt to regain the sword's trust once every 24 hours; if you succeed, your attunement to the weapon is instantly restored. Your attunement to the weapon can't be restored in any other way.

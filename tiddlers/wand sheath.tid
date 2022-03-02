@@ -1,11 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201208070940480
-modified: 20220110034330924
-tags: accessory [[warforged item]]
+modified: 20220221000929455
+tags: arms accessory [[warforged item]] convenience
 tier: 1
 title: wand sheath
 tooltip: warforged item, holds retractable wand
 type: text/vnd.tiddlywiki
 
-A wand sheath clamps onto a [[warforged]]'s arm and allows them to retract or extend a wand in less than a second. While extended, the wand is usable by the warforged, but their hand remains free.
+A wand sheath clamps onto a [[warforged]]'s arm and allows them to retract or extend a [[wand|magical implement]] in less than a second. While extended, the wand is usable by the warforged, but their hand remains free.

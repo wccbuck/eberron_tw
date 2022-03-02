@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20210109080753276
-modified: 20220110034323302
-tags: tool
+modified: 20220218182843006
+tags: stealth tool
 tier: 2
 title: one-way lantern
 type: text/vnd.tiddlywiki
 
-Light emitted from this lantern can only been seen by the attuned creature.
+Light emitted from this lantern can only been seen by the [[attuned|attunement]] creature.

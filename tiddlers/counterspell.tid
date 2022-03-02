@@ -1,14 +1,19 @@
 category: spell
 color: #B7A1E0
 created: 20201210050055268
-modified: 20220110043731580
+highertier: show
+modified: 20220221180649752
 tags: abjuration
 tier: 3
 title: counterspell
 type: text/vnd.tiddlywiki
 
-You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of "rare" tier or lower, their spell fails and has no effect.
+You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of "rare" [[tier|spell tier]] or lower, their spell fails and has no effect.
+
+<$reveal type="match" state="!!highertier" text="show">
 
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may counter other epic-tier spells.
+
+</$reveal>

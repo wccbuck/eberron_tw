@@ -1,10 +1,15 @@
 category: object
 color: #41D5E1
 created: 20210726215509672
-modified: 20220110034318631
-tags: [[magical implement]]
+modified: 20220220202630763
+tags: [[musical instrument]] [[magical implement]]
 tier: 2
 title: fire lyre
 type: text/vnd.tiddlywiki
 
 While you are playing this vibrant redwood lyre, you can cast the spell [[control flames]].
+
+<<<
+!!! control flames
+{{||control flames}}
+<<<

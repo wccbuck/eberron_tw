@@ -1,8 +1,8 @@
 category: object
 color: #41D5E1
 created: 20220103053821667
-modified: 20220110034326659
-tags: weapon cursed
+modified: 20220221190516125
+tags: stealth dagger weapon cursed
 tier: 4
 title: shadow drinker
 type: text/vnd.tiddlywiki
@@ -13,4 +13,4 @@ The dark haze persists for 10 minutes, or earlier if you attack with it, cast a 
 
 You can only have one shadow absorbed in this way at a time. Once you steal a creature's shadow, you can't steal that same creature's shadow again until the following dusk.
 
-This dagger is [[cursed]]. While you are attuned to this weapon, you suffer additional [[harm]] from radiant damage.
+This dagger is [[cursed]]. While you are [[attuned|attunement]] to this weapon, you suffer additional [[harm]] from radiant damage.

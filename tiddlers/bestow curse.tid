@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210412034609437
-modified: 20220110043720070
+highertier: show
+modified: 20220220214938359
 tags: necromancy [[divine magic]]
 tier: 3
 title: bestow curse
@@ -15,7 +16,11 @@ You touch a creature, and that creature must resist your magic or else become cu
 
 A [[remove curse]] spell ends this effect. At the GM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The GM has final say on such a curse's effect.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 !! Epic-Tier
 
 When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, the duration is extended to 24 hours.
+
+</$reveal>
 

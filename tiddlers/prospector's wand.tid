@@ -1,17 +1,20 @@
 category: object
+charges: 5
 color: #41D5E1
 created: 20201210054803586
-modified: 20220110034324781
-tags: [[Mark of Finding]] tool [[dragonmark focus item]]
+modified: 20220218175751275
+tags: detection [[Mark of Finding]] tool [[dragonmark focus item]]
 tier: 2
 title: prospector's wand
 tooltip: uncommon dragonmark focus item, allows Finding mark wielder to locate items, creatures, or natural resources
 type: text/vnd.tiddlywiki
 
-This Y-shaped wand, bearing the emblem of the [[Mark of Finding]], has stored magical power that can be expended to enhance the power of someone wielding that [[dragonmark]]. The wand can be used 3-8 times before it needs to be recharged overnight.
+This Y-shaped wand, bearing the emblem of the [[Mark of Finding]], has stored magical power that can be expended to enhance the power of someone wielding that [[dragonmark]]. 
 
-You can expend this power instead of your own energy in order to:
+This wand has 5 charges, and regains <<dr 1d4+1>> expended charges daily at dawn. If you possess the [[Mark of Finding]], you can spend one or more charges of the wand in order to:
 
-* Sense the direction a specific object familiar to you, as long as it is within 1000 feet of you.
-* As above, but for a specific creature. This counts as two uses of the wand.
-* Sense the direction and distance of a specific beast, plant, or mineral within five miles. When you cast this spell, you can specify the minimum quantity of that beast, plant, or mineral that you wish the spell to find within a 30-foot-radius sphere, such as “at least 3 pounds of Eberron [[dragonshard]]s” or “at least five deer.” You learn the direction and distance to the closest occurrence in that concentration, if any are present.
+* Cast the [[locate object]] spell (1 charge).
+* Cast the [[locate creature]] spell (2 charges).
+* Sense the direction and distance of a specific beast, plant, or mineral within five miles (1 charge). When you use this feature, you can specify the minimum quantity of that beast, plant, or mineral that you wish the spell to find within a 30-foot-radius sphere, such as “at least 3 pounds of Eberron [[dragonshard]]s” or “at least five deer.” You learn the direction and distance to the closest occurrence in that concentration, if any are present.
+
+<<itemcharges 5>>

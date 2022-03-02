@@ -1,10 +1,15 @@
 category: object
 color: #41D5E1
 created: 20210103195023565
-modified: 20220110034315097
-tags: accessory
+modified: 20220220221901689
+tags: accessory jewelry head mobility
 tier: 3
 title: circlet of the crow queen
 type: text/vnd.tiddlywiki
 
 This rugged crown is made of black feathers and copper wire. If you are able to channel [[primal magic]], you can cast [[polymorph]] on yourself to transform into a crow. You retain your mental capabilities while in crow form.
+
+<<<
+!!! polymorph
+{{||polymorph}}
+<<<
