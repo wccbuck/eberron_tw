@@ -1,6 +1,6 @@
 category: talent
 created: 20210809025058540
-modified: 20220216214411032
+modified: 20220301193444086
 tags: [[rune knight]]
 title: Rune Knight (talent)
 type: text/vnd.tiddlywiki
@@ -56,3 +56,9 @@ seer. While wearing or carrying an object inscribed with this rune, you can invo
 * Cast [[guidance]] on yourself and another creature you touch.
 
 The effects of either of these benefits persist for up to one minute.
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>

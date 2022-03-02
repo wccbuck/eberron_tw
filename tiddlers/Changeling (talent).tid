@@ -1,9 +1,15 @@
 category: talent
 created: 20210726012748228
-modified: 20211128070031746
+modified: 20220301193317872
 tags: changeling
 title: Changeling (talent)
 type: text/vnd.tiddlywiki
 xpcost: 1
 
 As a [[changeling]], you may alter your form to look and sound like another similarly-sized person at will. Gain [[advantage]] to defend against others' attempts to see through your ruse.
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>

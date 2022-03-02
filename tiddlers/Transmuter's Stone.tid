@@ -1,6 +1,6 @@
 category: talent
 created: 20211215063717102
-modified: 20220110042439655
+modified: 20220301193502124
 tags: wizard
 title: Transmuter's Stone
 type: text/vnd.tiddlywiki
@@ -20,3 +20,9 @@ When you create the stone, choose the benefit from the following options:
 Each time you cast a [[transmutation]] spell of [[uncommon tier|spell tier]] or higher, you can change the effect of your stone if the stone is on your person.
 
 If you create a new transmuter's stone, the previous one ceases to function.
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>

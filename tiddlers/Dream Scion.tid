@@ -1,0 +1,49 @@
+category: talent
+created: 20220301172608959
+modified: 20220301194410380
+tags: dreamtouched
+title: Dream Scion
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+As a [[dreamtouched]], your knowledge and study allows you to tap into an otherworldly source of [[psionic|psionics]] energy—the [[dreamspace]].
+
+By tapping into the latent essence of dreams
+that saturates all [[Eberron]], you are able to enter a dreamtouched
+state—a condition of conscious dreaming that focuses
+the world around you even as it reveals your own inner
+self. You can activate this state at will once per day, and it lasts up to five minutes.
+
+A character must have slept for a minimum of 4 hours in the previous 24 hours to put themself into a dreamtouched state. Characters who do not sleep (such as [[elves|elf]], [[kalashtar]] and [[warforged]]) must have spent a minimum of 4 hours in uninterrupted rest or meditation. Characters who are fatigued or exhausted cannot
+enter a dreamtouched state. 
+
+While in a dreamtouched state, your mental abilities are enhanced; gain an [[advantage]] to attempts you make using [[Intellect or Focus|attribute]]. In addition, dreamtouched characters are immune to the [[dreamshaping]] effects of the [[hanbalani alta]]s.
+
+!! Dreamtouched Spells
+
+When you take the [[Spellcaster]] talent as a dream scion, you might consider spells such as [[borrowed knowledge]], [[true strike]], [[know direction]], [[identify]], [[guidance]], or [[dream]]. You may also choose [[psionics]] spells that require the [[dreamtouched]] state. These include:
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[[dreamtouched]backlinks[]category[spell]tag[psionics]sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>

@@ -10,7 +10,7 @@ d7: 7
 duration: 2 minutes
 effect: Caster grows one inch per day for the next {{!!2d4}} days, after which their original height is restored.
 l_duration: 2 days
-modified: 20211128070032603
+modified: 20220301193335150
 s_duration: 9 seconds
 tags: sorcerer
 title: Wild Magic
@@ -21,3 +21,9 @@ Your innate magic comes from the wild forces of chaos
 that underlie the order of creation. Whenever you cast spells and suffer a [[consequence]], trigger a [[random magical effect]]. Any time you [[push yourself]] when casting a spell, you may choose to only suffer 1 [[stress]] instead of 2, but must trigger another [[random magical effect]].
 
 {{||random magical effect}}
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
