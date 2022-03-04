@@ -1,13 +1,13 @@
 [
     {
         "created": "20210131234428642",
-        "title": "Plaguebearers",
-        "text": "This [[Carrion Tribe|Carrion Tribes]] reveres an\nimprisoned [[overlord]] of filth and pestilence. Its members seek\nto turn the power of their lord against their enemies. Plaguebearers smear their weapons with filth; a victim struck with a coated weapon may be subjected to fever-inducing contagion. Plaguebearers are typically covered with weeping open sores and angry welts\nfrom various infections, but they are remarkably resistant to the effects of diseases and poisons. \n\nIn battle, the Plaguebearers become wild berserkers;\nthey close ranks as quickly as possible and fight to the\ndeath, praying that infection will claim the lives of any\nenemies who survive the battle. ''Fulgrun Bloodboil'' ([[tiefling]] barbarian), a hideous individual surrounded by a horrible stench of pus and rot, leads the clan. ",
-        "modified": "20210727192025080",
-        "tags": "[[Carrion Tribes]] tribe",
+        "text": "This [[Carrion Tribe|Carrion Tribes]] reveres an\nimprisoned [[overlord]] of filth and pestilence. Its members seek\nto turn the power of their lord against their enemies. Plaguebearers smear their weapons with filth; a victim struck with a coated weapon may be subjected to fever-inducing contagion. Plaguebearers are typically covered with weeping open sores and angry welts\nfrom various infections, but they are remarkably resistant to the effects of diseases and poisons. \n\nIn battle, the Plaguebearers become wild berserkers;\nthey close ranks as quickly as possible and fight to the\ndeath, praying that infection will claim the lives of any\nenemies who survive the battle. [[Fulgrun Bloodboil]], a hideous individual surrounded by a horrible stench of pus and rot, leads the clan. ",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Plaguebearers",
+        "tags": "[[Carrion Tribes]] tribe",
+        "modified": "20220302180937077",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]
