@@ -1,13 +1,13 @@
 [
     {
         "created": "20201217071003501",
-        "title": "Crucible",
-        "text": "In this grand foundry, tended by [[shadar-kai]] and guarded by\nnewly forged [[marut]]s, the [[immortal]] spirit known as the Smith of Souls refines the essence of faded spirits into [[husksteel]].\nFrom these lingering scraps of memory and emotion, she forges the armor and weapons of the shadar-kai, and creates\nthe maruts from the husks of brave souls. She also creates\nsmaller and stranger items from husksteel.\n\nThe Smith wears a mask of black steel and an apron of\ndragonhide. When forging [[marut]]s, she takes the form of a\n[[giant]], and when crafting tiny trinkets, a [[gnome]]. It's possible\nthat she collects the memories of mortal artisans, and can\nreplicate their works at her forge.",
-        "modified": "20210727192002659",
-        "tags": "layer Dolurrh",
+        "text": "In this grand foundry, tended by [[shadar-kai]] and guarded by\nnewly forged [[marut]]s, the [[immortal]] spirit known as the [[Smith of Souls]] refines the essence of faded spirits into [[husksteel]].\nFrom these lingering scraps of memory and emotion, she forges the armor and weapons of the shadar-kai, and creates\nthe maruts from the husks of brave souls. She also creates\nsmaller and stranger items from husksteel.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Crucible",
+        "tags": "layer Dolurrh",
+        "modified": "20220302193750149",
+        "color": "#3B5C0A",
         "category": "location",
-        "color": "#3B5C0A"
+        "article": "the "
     }
 ]

@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.14.1
-modified: 20220302004844967
+currentversion: 1.14.2
+modified: 20220304182835177
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,11 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.14.2 <span style="font-weight:normal">(Mar 4, 2022)</span>
+
+* Made separate pages for several people/entities who were mentioned in location/organization pages, but didn't yet have pages of their own. This is going to be a slow, ongoing effort; the intention is to have most named characters searchable, even if their description is not much more than a stub.
+* Fixed some missing links
 
 !!! 1.14.1 <span style="font-weight:normal">(Mar 1, 2022)</span>
 
