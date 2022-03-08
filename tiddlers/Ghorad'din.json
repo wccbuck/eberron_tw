@@ -1,13 +1,13 @@
 [
     {
         "created": "20210212053606029",
-        "title": "Ghorad'din",
-        "text": "This shadowy group of sneaks and assassins is little known beyond the membership of\nHouse [[Kundarak]]. Answering only to Baron [[Morrikan|Morrikan d'Kundarak]] and his six hereditary chieftains, members of the Ghorad’din are expert at bypassing security—even\nHouse Kundarak’s security—and at a variety of assassination techniques.",
-        "modified": "20210727192010139",
-        "tags": "[[intelligence agency]] [[trade guild]] Kundarak",
+        "text": "This shadowy group of sneaks is little known beyond the membership of House [[Kundarak]]. Answering only to Baron [[Morrikan|Morrikan d'Kundarak]] and his six hereditary chieftains, members of the Ghorad’din combine the magical prowess of a spellcaster with the stealth of a burglar. As a result, almost no barrier can stop them.\n\nThe Ghorad'din are experts at bypassing security—even House [[Kundarak]]’s security. When a new high security vault needs testing, the house assembles a group of Ghorad'din to try to break in and expose weaknesses before any treasure is placed within. The most skilled members are assigned to recover property stolen by those brazen enough to break into Kundarak vaults. Whispers also tell of Ghorad'din who operate as assassins.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Ghorad'din",
+        "tags": "[[intelligence agency]] [[trade guild]] Kundarak",
+        "modified": "20220308185515144",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]
