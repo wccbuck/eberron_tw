@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
 currentversion: 1.14.3
-modified: 20220308191601517
+modified: 20220309012042820
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,10 +10,13 @@ type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 
-!!! 1.14.3 <span style="font-weight:normal">(Mar xx, 2022)</span>
+!!! 1.14.3 <span style="font-weight:normal">(Mar 8, 2022)</span>
 
 * Made some small additions to the [[Silver Crusade]] page
 * Added some stuff from the [[4e player's guide|https://www.dmsguild.com/product/150472/Eberron-Players-Guide-4e]] in the pages [[swiftblade]] and [[Ghorad'din]]
+* Added and linked [[Martial Temple of Dol Arrah]] as well as a cleric who might be found there, [[Sejra Whitebinder]] (from [[Faiths of Eberron|https://www.dmsguild.com/product/51636/Faiths-of-Eberron-35]])
+* Also from Faiths of Eberron: [[liturgical council]]s, and two examples: [[Host of Khorvaire]], and the [[Devout of the Celestial Crown]]
+* Added [[Moon Breaker]]
 
 !!! 1.14.2 <span style="font-weight:normal">(Mar 4, 2022)</span>
 
