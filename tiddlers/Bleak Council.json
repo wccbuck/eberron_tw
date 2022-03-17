@@ -1,13 +1,13 @@
 [
     {
         "created": "20210201222858265",
-        "title": "Bleak Council",
-        "text": "Each [[Lord of Dust|Lords of Dust]] follows a discrete agenda on behalf of the [[overlord]] that they serve, but even such powerful and singular creatures\nfind it useful to meet in association on occasion. The\nBleak Council (also known as the Council of [[Ashtakala]] or the Bleak Congress) is a collection of the exarchs that serve\nthe imprisoned overlords. Though the Lords of Dust\nare active across [[Eberron]], they make regular pilgrimages to [[Ashtakala]] to exchange news and hone their\ninsidious plans. No more than a few of the Lords of\nDust meet at once, since they are a fractious lot, given\nto treachery and infighting. However, rumors from the\n[[Eldeen Reaches]] have told of a large number of caravans making their way to the [[Demon Wastes]], repelling\nthe [[Wardens of the Wood]] in their efforts to turn them\nback. Are these servants of the [[Lords of Dust]]? If so,\nwhy are they moving now, and why in such numbers?",
-        "modified": "20210727191958204",
-        "tags": "[[secret society]] [[Lords of Dust]]",
+        "text": "Each [[Lord of Dust|Lords of Dust]] follows a discrete agenda on behalf of the [[overlord]] that they serve, but even such powerful and singular creatures\nfind it useful to meet in association on occasion. The\nBleak Council (also known as the Council of [[Ashtakala]] or the Bleak Congress) is a collection of the exarchs that serve the imprisoned overlords, and acts as a ruling body for the [[Lords of Dust]]. The Council includes all of the [[prakhutu]], but also includes a number of other powerful servants of the [[overlord]]s. Council membership numbers more than ninety, but only a handful of members can be found in [[Ashtakala]] at any given time.\n\nThough the Lords of Dust are active across [[Eberron]], they make regular pilgrimages to [[Ashtakala]] to exchange news and hone their insidious plans. No more than a few of the Council meet at once, since they are a fractious lot, given\nto treachery and infighting. However, rumors from the\n[[Eldeen Reaches]] have told of a large number of caravans making their way to the [[Demon Wastes]], repelling the [[Wardens of the Wood]] in their efforts to turn them\nback. Are these servants of the [[Lords of Dust]]? If so,\nwhy are they moving now, and why in such numbers?",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Bleak Council",
+        "tags": "[[secret society]] [[Lords of Dust]]",
+        "modified": "20220317183538141",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]
