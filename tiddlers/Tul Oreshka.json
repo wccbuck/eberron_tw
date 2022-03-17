@@ -1,13 +1,13 @@
 [
     {
         "created": "20210330043857904",
-        "title": "Tul Oreshka",
-        "text": "Fearsome truths hide in the shadows—the hidden thoughts of those you consider your friends, the terrible deeds of ancestors, the moment of your death. Tul Oreshka embodies these horrible secrets. Her actions are never predictable, and she is as much a threat to her allies as to her enemies. Anyone who feels her influence might suffer nightmares or hear terrible things in ghostly whispers. Heralded by a wave of madness, her release would shatter minds the world over.",
-        "modified": "20210727192039329",
-        "tags": "overlord immortal fiend",
+        "text": "Fearsome truths hide in the shadows—the hidden thoughts of those you consider your friends, the terrible deeds of ancestors, the moment of your death. Tul Oreshka embodies these horrible secrets. Her actions are never predictable, and she is as much a threat to her allies as to her enemies. Anyone who feels her influence might suffer nightmares or hear terrible things in ghostly whispers. Heralded by a wave of madness, her release would shatter minds the world over.\n\nTul Oreshka is more primal than [[Sul Khatesh]]; the words she deals with may not conjure fire or [[fiend]]s, but they still have the power to shatter lives. People who pass by her prison may learn terrible things through ghostly whispers or vivid nightmares. Her cults take many forms, and are almost always driven by a compelling, infectious idea.\n\nWhile her agents are unpredictable, Tul Oreshka does participate in the [[Bleak Council]] of the [[Lords of Dust]]; her current [[speaker|prakhutu]] is a [[pit fiend]] named [[Korliac]], though Tul Oreshka’s speakers rarely hold the position for long.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the Truth in the Darkness, ",
+        "title": "Tul Oreshka",
+        "tags": "overlord immortal fiend",
+        "modified": "20220317185819049",
+        "color": "#8C4606",
         "category": "entity",
-        "color": "#8C4606"
+        "article": "the Truth in the Darkness, "
     }
 ]

@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.14.3
-modified: 20220309012042820
+currentversion: 1.14.4
+modified: 20220317193935727
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,12 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.14.4 <span style="font-weight:normal">(Mar xx, 2022)</span>
+
+* Added lots of content about [[overlord]]s based on [[KB's blog post|https://keith-baker.com/dm-overlords-2022/]]. Only made a few small changes for the purposes of this document: 
+** I renamed "Asshalara" [[Zetsash]] because I didn't particularly like that name, and also didn't want two new members of the Bleak Council with super similar names ([[Shalashar]] and Asshalara)
+** Please don't make me add Lolth to Eberron ugh
 
 !!! 1.14.3 <span style="font-weight:normal">(Mar 8, 2022)</span>
 
