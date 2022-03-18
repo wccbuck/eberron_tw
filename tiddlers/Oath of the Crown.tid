@@ -1,0 +1,49 @@
+category: talent
+created: 20220318055815365
+list: command [[compelled duel]] [[warding bond]] [[zone of truth]] [[aura of vitality]] [[spirit guardians]] banishment [[guardian of faith]] [[circle of power]] geas
+modified: 20220318060532869
+tags: Spellcaster paladin
+title: Oath of the Crown
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a monarch, or service to a deity of law such as [[Aureon]]. The [[paladin]]s
+who swear this oath dedicate themselves to serving
+society and, in particular, the just laws that hold society
+together. These paladins are the watchful guardians on
+the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath
+are members of an order of knighthood in service to a
+nation or a sovereign, and undergo their oath as part of
+their admission to the order's ranks.
+
+!! Tenets of Conquest
+
+The tenets of the Oath of the Crown are often set by the monarch to which the [[paladin]]'s oath is sworn, but generally emphasize the following tenets.
+
+* //''Law.''// The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.
+* //''Loyalty.''// Your word is your bond. Without loyalty, oaths and laws are meaningless.
+* //''Courage.''// You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?
+* //''Responsibility.''// You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.
+
+!! {{!!title}} Spell List
+
+Choose two spells as per the [[Spellcaster]] talent rules. A [[paladin]] under the {{!!title}} might choose from the following spells. //Recommended Spells: [[zone of truth]], [[warding bond]].//
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]] [list[$:/PaladinSpells]] +[sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>
