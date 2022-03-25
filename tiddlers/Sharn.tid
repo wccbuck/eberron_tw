@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200410005743410
-modified: 20220110041116687
+modified: 20220325173544962
 points: 20.188,-24.47
 population: 2542200
 style: {"color": "#8E0024"}
@@ -32,7 +32,7 @@ stole my purse.//
 
 ''Country:'' [[Breland]]<br/>
 ''Government:'' The [[Council of Sharn|Sharn Council]]<br/>
-''Local Ruler:'' The [[Lord Mayor Cathan ir'Demell|Lord Mayor of Sharn]]<br/>
+''Local Ruler:'' The [[Lord Mayor|Lord Mayor of Sharn]] [[Cathan ir'Demell]]<br/>
 ''Population:'' <<ntls>>
 
 All the major themes of [[Eberron]] are manifest in the
@@ -81,7 +81,7 @@ divided into an [[upper ward]], a [[middle ward]], and a [[lower ward]]. Each wa
 that the location of a place in Sharn can be expressed
 with a combination of a ward name and a district name.
 
-See [[Wards of Sharn]] for a deep dive into each section of the city.
+See [[Wards of Sharn]] for a deep dive into each section of the city as well as transportation options.
 
 !! Aftermath of War
 

@@ -2,7 +2,7 @@ category: organization
 color: #052c65
 created: 20210211044954566
 list-before: 
-modified: 20210727192038711
+modified: 20220320205448611
 tags: business
 title: trade guild
 type: text/vnd.tiddlywiki
@@ -18,7 +18,7 @@ houses of commerce derive their power partly from their [[dragonmark]]s, but eac
 <$list filter="[tag[dragonmarked house]sort[title]]">
 <li>{{!!article}}<$link/></li>
 <ul>
-<$list filter="[tag[trade guild]tag<currentTiddler>sort[title]]">
+<$list filter="[tag[trade guild]tag<currentTiddler>sort[relevance]]">
 <li>{{!!article}}<$link/></li>
 </$list>
 </ul>

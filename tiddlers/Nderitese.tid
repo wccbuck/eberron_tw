@@ -1,12 +1,15 @@
 category: location
 color: #4C8201
 created: 20210129052734327
-modified: 20210727192022755
+modified: 20220322193219959
 points: 9.443,182.49
+population: 15000
 style: {"color": "#8E0024"}
 tags: city Syrkarn Khunan
 title: Nderitese
 type: text/vnd.tiddlywiki
+
+''Population:'' <<ntls>>
 
 The largest city in [[Syrkarn]] and unofficial capital of the region, Nderitese is built on the foundations of ancient [[yuan-ti]] ruins in [[Khunan]], just north of the [[Tese Hills]]. The sahar of the city is sometimes asked to broker disputes between other settlements and larger clans.
 
