@@ -1,11 +1,34 @@
 category: entity
 color: #8C4606
 created: 20200420211125719
-modified: 20210727191958641
+modified: 20220331212236697
 tags: [[Sovereign Host]] deity
 title: Boldrei
 type: text/vnd.tiddlywiki
 
-Boldrei is the Sovereign of Hall and Hearth. She guides and protects communities and families, inspiring people to work together for the common good. She is invoked to bless marriages, to protect villages and homes, and to swear in civil servants. Her symbols include a fire in a stone hearth or a [[copper dragon]].
+''Title:'' The [[Sovereign|Sovereign Host]] of Hall and Hearth<br/>
+''Symbols ([[Pyrinean Creed]]):'' A fire in a stone hearth, or an Octagram in orange and gray<br/>
+''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[copper dragon]]<br/>
+''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
+
+<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#0022aa],[#858178]search-replace[#ffd700],[#ff6200]]}}}>
+<div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
+</$vars>
+
+Boldrei is the Sovereign of Hall and Hearth. She guides and protects communities and families, inspiring people to work together for the common good. She is invoked to bless marriages, to protect villages and homes, and to swear in civil servants. 
+
+Her tenets are:
+
+* Value your community and family above yourself. Ensure that if you fall, they survive.
+* Make your home your haven. Weighty and stressful affairs belong elsewhere, and violence in the home is unconscionable.
+* Help other members of your community with no thought of recompense. Rewards come when they are needed.
 
 According to the [[Pyrinean Creed]], Boldrei is the wife of [[Aureon]]. If civilization is the house of the mortal races, and Aureon is the foundation, then Boldrei is the walls and roof. They stand at the core of [[Vassal|Sovereign Host]] faith; the laws of Aureon and the community of Boldrei form the centerpiece of daily life.
+
+!! {{!!title}} in Other Traditions
+
+Boldrei is held in high honor by the [[Three Faces of Love]] sect, alongside [[Arawai]] and the [[Fury]].
+
+[[Orc|orc]] tribes of the [[Shadow Marches]] invoke "Baaldra the Protector", who seems to be an aspect of Boldrei.
+
+[[Dragon|dragon]]s who follow the [[Thir]] faith and wish to embody the [[Sovereign archetype]] of Boldrei are known as [[guides of the weak|guide of the weak]].

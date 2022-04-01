@@ -1,13 +1,34 @@
 category: entity
 color: #8C4606
 created: 20200420211520229
-modified: 20210727192023767
+modified: 20220331213845590
 tags: [[Sovereign Host]] deity
 title: Onatar
 type: text/vnd.tiddlywiki
 
-Onatar is the Sovereign of Fire and Forge. He guides both mundane smiths and [[artificer]]s, inspiring anyone who performs an act of creation. His dominion includes industry and invention for the benefit of society. The secret society of [[magewright]]s and [[artificer]]s known as [[Onatar's Chosen]] believe they were blessed by this Sovereign and charged with using their talent for innovation serve the greater good. His symbols include a crossed hammer and tongs or a [[brass dragon]].
+''Title:'' The [[Sovereign|Sovereign Host]] of Fire and Forge<br/>
+''Symbols ([[Pyrinean Creed]]):'' A crossed hammer and tongs, or an Octagram in red and orange<br/>
+''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[brass dragon]]<br/>
+''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
+
+<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#0022aa],[#ff8000]search-replace[#ffd700],[#990000]]}}}>
+<div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
+</$vars>
+
+Onatar is the Sovereign of Fire and Forge. He guides both mundane smiths and [[artificer]]s, inspiring anyone who performs an act of creation. His dominion includes industry and invention for the benefit of society. The secret society of [[magewright]]s and [[artificer]]s known as [[Onatar's Chosen]] believe they were blessed by this Sovereign and charged with using their talent for innovation serve the greater good. Sacred texts also claim that Onatar granted the gift of fire to mortals in the first age of the world.
+
+Onatar's commands are:
+
+* Create. To craft an object or forge a weapon that many others can use is divine.
+* Work. Work gives meaning to life and strength to communities.
+* Respect fire. It is an invaluable tool and a powerful weapon.
 
 According to the [[Pyrinean Creed]], Onatar is the husband of [[Olladra]] and the father of [[Kol Korran]] and the [[Keeper]].
 
+!! {{!!title}} in Other Traditions
+
+Onatar is held in high honor by the [[Three Faces of Coin]] sect, alongside [[Kol Korran]] and the [[Keeper]].
+
 The [[dwarves|dwarf]] of the [[Mror Holds]] honor Onatar and his son [[Kol Korran]] perhaps more than any other of the [[Host|Sovereign Host]]. They believe he dwells and works beneath the [[Fist of Onatar]], an active volcano in the [[Ironroot Mountains]].
+
+[[Dragon|dragon]]s who follow the [[Thir]] faith and wish to embody the [[Sovereign archetype]] of Onatar are known as [[flames of the forge|flame of the forge]].

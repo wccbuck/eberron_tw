@@ -1,10 +1,14 @@
 created: 20220125184934578
-modified: 20220203230855447
+modified: 20220401222440756
 tags: 
 title: Eberron TW Updater
 type: text/vnd.tiddlywiki
 
-Use this tool to bring your own local copy of the Eberron Tiddlywiki up-to-date. To do this, select your local current version from the drop-down list (no earlier than 1.10.0), click the "export tiddlers" button, then save the file as whichever type you choose. Then, simply drag the file into your local copy of the Eberron TW, and follow the prompts to import the missing or changed tiddlers. Note that this update process will overwrite any local changes you may have made to the imported files.
+Use this tool to bring your own local copy of the Eberron Tiddlywiki up-to-date. To do this, select your local current version from the drop-down list (no earlier than 1.10.0), click the "export tiddlers" button, then save the file as whichever type you choose. Then, simply drag the file into your local copy of the Eberron TW, and follow the prompts to import the missing or changed tiddlers. 
+
+Note that this update process will overwrite any local changes you may have made to the imported files.
+
+Also note that this process only imports new tiddlers, and does not delete tiddlers I've removed from the master copy. This means if I've broken up a complicated [[talent]] into multiple separate ones and then deleted the original, then you'll get all the new talents but will still have the old one. Similarly, if I renamed a page, you'll still have a duplicate with the old name. You'll have to delete those manually as they come up.
 
 Current version: ''{{Changelog!!currentversion}}'' (see [[Changelog]] for details)
 

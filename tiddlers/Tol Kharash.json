@@ -5,10 +5,11 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Tol Kharash",
         "tags": "overlord immortal fiend",
-        "modified": "20220320194523215",
+        "modified": "20220331045947740",
         "tooltip": "overlord of tyranny and cruelty, worshiped by minotaurs",
         "color": "#8C4606",
         "category": "entity",
-        "article": "the Horned King, "
+        "article": "the Horned King, ",
+        "alternatetitle": "Horned Prince"
     }
 ]

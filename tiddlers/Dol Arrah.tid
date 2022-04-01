@@ -1,11 +1,36 @@
 category: entity
 color: #8C4606
 created: 20200420211204563
-modified: 20210727192004849
+modified: 20220331201523660
 tags: [[Sovereign Host]] deity
 title: Dol Arrah
 type: text/vnd.tiddlywiki
 
-Dol Arrah is the Sovereign of [[Sun]] and Sacrifice, the sun that drives away the darkness. She stands for wisdom in war and for those who fight with honor, pursue justice, and make sacrifices for the greater good. She is also the patron of peacemakers and diplomats. Her symbols include a rising sun or a [[red dragon]].
+''Title:'' The [[Sovereign|Sovereign Host]] of Sun and Sacrifice<br/>
+''Symbols ([[Pyrinean Creed]]):'' A rising sun, or an Octagram in gold and white<br/>
+''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[red dragon]]<br/>
+''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
+
+<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#ffd700],[#FCFBF8]search-replace[#0022aa],[#ffd700]]}}}>
+<div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
+</$vars>
+
+Dol Arrah is the Sovereign of [[Sun]] and Sacrifice, the sun that drives away the darkness. She stands for wisdom in war and for those who fight with honor, pursue justice, and make sacrifices for the greater good. She is also the patron of [[paladin]]s, as well as peacemakers and diplomats. 
+
+To a lesser extent, she is also the patron of explorers, who bring the light of knowledge to dark places, and to all who revere the sun. Temples and shrines built to honor Dol Arrah often have large east-facing windows to let in the light of dawn. Dol Arrah also aids [[Arawai]] by lighting her way during the growing season. 
+
+Dol Arrah's teachings are:
+
+* Bring succor to those who suffer.
+* Bring the light of truth and goodness to dark and evil places.
+* Bring force of arms against all that is evil.
 
 According to the [[Pyrinean Creed]], Dol Arrah is the sister of [[Dol Dorn]] and the [[Mockery]].
+
+!! {{!!title}} in Other Traditions
+
+Dol Arrah is held in high honor by the [[Three Faces of War]] sect, alongside [[Dol Dorn]] and the [[Mockery]].
+
+The talespinners of Doldarunhold in the [[Mror Holds]] swear that the hero [[Doldarun]] was the son of [[Dol Dorn]] and Dol Arrah.
+
+In the [[dragon]] faith known as [[Thir]], Dol Arrah was once a mighty [[red dragon]] named //Dularanahk//. Together with two other draconic champions, //[[Duldonak|Dol Dorn]]// and //[[Dulazurak|Mockery]]//, she faced off against the [[overlord]] [[Katashka]], the Gatekeeper. (See [[Orb of Dol Azur]] for more information.) Those dragons who wish to embody the [[Sovereign archetype]] of Dol Arrah are known as [[lightkeeper]]s.

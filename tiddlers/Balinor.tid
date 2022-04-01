@@ -1,11 +1,36 @@
 category: entity
 color: #8C4606
 created: 20200420211035111
-modified: 20220114013502312
+modified: 20220331200741395
 tags: [[Sovereign Host]] deity
 title: Balinor
 type: text/vnd.tiddlywiki
 
-Balinor is the Sovereign of Horn and Hunt. He guides both the [[beast]] and the hunter, and he is the patron of those who walk on the edge of civilization and the natural world. He appears in the sacred stories as both a protector of nature and an exemplar of deferentially taking what one needs for sustenance from nature’s bounty. His symbols include a pair of antlers or [[green dragon]].
+''Title:'' The [[Sovereign|Sovereign Host]] of Horn and Hunt<br/>
+''Symbols ([[Pyrinean Creed]]):'' A pair of antlers, or an Octagram in brown and red<br/>
+''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[green dragon]]<br/>
+''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
 
-According to the [[Pyrinean Creed]], Balinor is the brother of [[Arawai]] and the [[Devourer]]. In other traditions, Balinor goes by other names. [[Orc|orc]]s in the [[Shadow Marches]] invoke "Baalkan the Beastlord", while the [[Talenta|Talenta Plains]] [[halfling]]s tell stories of clever "Bally-Nur". The [[giant]]s who follow [[Rushemé]] honor "Banor, the Bloody Spear", a deity which also shares some characteristics with [[Dol Dorn]].
+<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#0022aa],[#c3844d]search-replace[#ffd700],[#820000]]}}}>
+<div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
+</$vars>
+
+Balinor is the Sovereign of Horn and Hunt. He guides both the [[beast]] and the hunter, and he is the patron of those who walk on the edge of civilization and the natural world. He appears in the sacred stories as both a protector of nature and an exemplar of deferentially taking what one needs for sustenance from nature’s bounty. 
+
+His tenets are straightforward:
+
+* Take what you need from nature, but respect its power.
+* Courage invites luck. Never flinch in the face of danger, but don't court it unprepared.
+* Change is constant. The only certainty in life is death. Death is not to be feared, but celebrated as part of the natural cycle.
+
+According to the [[Pyrinean Creed]], Balinor is the brother of [[Arawai]] and the [[Devourer]]. 
+
+!! {{!!title}} in Other Traditions
+
+Balinor is held in high honor by the [[Three Faces of the Wild]] sect, alongside [[Arawai]] and the [[Devourer]].
+
+In other non-Pyrinean faith traditions, Balinor goes by different names. [[Orc|orc]]s in the [[Shadow Marches]] invoke "Baalkan the Beastlord", while the [[Talenta|Talenta Plains]] [[halfling]]s tell stories of clever "Bally-Nur". The [[giant]]s who follow [[Rushemé]] honor "Banor, the Bloody Spear", a deity which also shares some characteristics with [[Dol Dorn]].
+
+The most common aspect of [[Vulkoor]] worshiped by the [[drow]] of [[Xen'drik]], "the Hunter", might also be connected to the Balinor entity.
+
+[[Dragon|dragon]]s who follow the [[Thir]] faith and wish to embody the [[Sovereign archetype]] of Balinor are known as [[stalking wyrm]]s.

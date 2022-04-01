@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.15.0
-modified: 20220325191217744
+currentversion: 1.15.1
+modified: 20220401222007345
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,19 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.15.1 <span style="font-weight:normal">(Apr 1, 2022)</span>
+
+* Fleshed out the [[Sovereign Host]] pages a bit
+* Added an Octagram svg image and put it on the [[Sovereign Host]] page, as well as recolored versions on each Sovereign's page
+* Added a cool [[Silver Flame]] svg as well, with gradients and stuff
+* Added [[Arawai's Blessing]] holiday
+* Added a brief summary of each faith for the religion pages that just started with a bulleted list of tenets
+* Adjusted [[Adar]]an city populations closer to original numbers in Secrets of Sarlona (doubled rather than 5x)
+* Added a bunch of Adaran towns (stubs) to the map and adjusted river positions based on Secrets of Sarlona map
+* Added [[varit]]
+* Added "alternatetitle" field to certain pages whose names I've changed for one reason or another. That way, searching "Basura Swamp" still gives you "Basira Swamp" as a title match (which I renamed because I can't say "trash swamp" with a straight face).
+* You can now also search for, say, "Rage of War", and [[Rak Tulkhesh]] will show up as a title match.
 
 !!! 1.15.0 <span style="font-weight:normal">(Mar 25, 2022)</span>
 

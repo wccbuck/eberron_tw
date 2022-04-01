@@ -1,11 +1,32 @@
 category: entity
 color: #8C4606
 created: 20200420211438642
-modified: 20210727192023712
+modified: 20220331212724241
 tags: [[Sovereign Host]] deity
 title: Olladra
 type: text/vnd.tiddlywiki
 
-Olladra is the Sovereign of Feast and Fortune. She is the giver of joy and the granter of luck, patron to entertainers, gamblers, and anyone who takes a chance. She is kind but fickle, and even her most faithful cannot say what inspires her to grant her blessings to one person and not another. Her symbols include a domino or a [[black dragon]].
+''Title:'' The [[Sovereign|Sovereign Host]] of Feast and Fortune<br/>
+''Symbols ([[Pyrinean Creed]]):'' A domino, or an Octagram in white and gray<br/>
+''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[black dragon]]<br/>
+''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
 
-According to the [[Pyrinean Creed]], Olladra is the wife of [[Onatar]] and the mother of [[Kol Korran]] and the [[Keeper]].
+<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#0022aa],[#FCFBF8]search-replace[#ffd700],[#585651]]}}}>
+<div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
+</$vars>
+
+Olladra is the Sovereign of Feast and Fortune, goddess of luck and plenty. She is the giver of joy and the granter of luck, patron to entertainers, gamblers, and anyone who takes a chance. People across the [[Five Nations]] toast her at parties and festivals. She is kind but fickle, and even her most faithful cannot say what inspires her to grant her blessings to one person and not another. 
+
+Olladra's tenets are:
+
+* Eat, drink, and be merry, for life is good and luck comes to those who need it.
+* Fashion your own destiny, for Olladra favors the bold.
+* Fight against oppression. Any who would deny you your freedoms should feel Olladra's anger.
+
+According to the [[Pyrinean Creed]], Olladra is the wife of [[Onatar]] and the mother of the twins [[Kol Korran]] and the [[Keeper]].
+
+!! {{!!title}} in Other Traditions
+
+[[Orc|orc]] tribes of the [[Shadow Marches]] invoke "Ollarasht the Gambler", who seems to be an aspect of Olladra.
+
+[[Dragon|dragon]]s who follow the [[Thir]] faith and wish to embody the [[Sovereign archetype]] of Olladra are known as [[fortune's fang]]s.

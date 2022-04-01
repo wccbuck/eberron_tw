@@ -1,13 +1,36 @@
 category: entity
 color: #8C4606
 created: 20200420211336790
-modified: 20210727192017239
+modified: 20220331211100781
 tags: [[Sovereign Host]] deity
 title: Kol Korran
 type: text/vnd.tiddlywiki
 
-Kol Korran is the Sovereign of World and Wealth. He guards travelers and guides traders. He guides fair negotiation; those driven solely by greed prefer the [[Keeper]] of the [[Dark Six]]. Kol Korran's symbols include a nine-sided gold coin or [[white dragon]]. 
+''Title:'' The [[Sovereign|Sovereign Host]] of World and Wealth<br/>
+''Symbols ([[Pyrinean Creed]]):'' A nine-sided gold coin, or an Octagram in gold and silver<br/>
+''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[white dragon]]<br/>
+''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
+
+<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#ffd700],[#C0C0C8]search-replace[#0022aa],[#ffd700]]}}}>
+<div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
+</$vars>
+
+Kol Korran is the Sovereign of World and Wealth, the god of commerce. He guards travelers and guides traders. His likeness appears on coins throughout the [[Five Nations]]. He guides fair negotiation; those driven solely by greed prefer the [[Keeper]] of the [[Dark Six]]. 
+
+He encourages his worshipers to:
+
+* Acquire wealth through honest trade.
+* Travel. New lands offer new trading partners to cultivate and new resources to gather.
+* Remember that a charming smile and a kind word are often more powerful than a blade and a strong arm.
 
 According to the [[Pyrinean Creed]], Kol Korran is the son of [[Olladra]] and [[Onatar]] (and twin brother of the [[Keeper]]), making him the only "second generation" Sovereign. The teachings of the [[Sovereign Host]] infer from this that wealth and trade must follow other pillars of civilization.
 
+!! {{!!title}} in Other Traditions
+
+Kol Korran is held in high honor by the [[Three Faces of Coin]] sect, alongside [[Onatar]] and the [[Keeper]].
+
 The [[dwarves|dwarf]] of the [[Mror Holds]] honor Kol Korran and his father [[Onatar]] perhaps more than any other of the Host. [[Kol Korran's Throne]] in [[Krona Peak]] is the largest temple to the Sovereign on [[Khorvaire]].
+
+Kol Korran and [[Arawai]] are held in high regard by the faith known as [[Sela's Path]], followed by many within House [[Lyrandar]]. Those who follow Sela’s Path believe that Arawai and Kol Korran sent the [[house|dragonmarked house]]'s founders Lyran and Selavash their [[dragonmark]]s to bring unity and prosperity to the [[half-elf]] people.
+
+[[Dragon|dragon]]s who follow the [[Thir]] faith and wish to embody the [[Sovereign archetype]] of Kol Korran are known as [[masters of the hoard|master of the hoard]].
