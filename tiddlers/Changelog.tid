@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.15.1
-modified: 20220401222007345
+currentversion: 1.15.2
+modified: 20220408062118656
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,17 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.15.2 <span style="font-weight:normal">(Apr 8, 2022)</span>
+
+* Improved [[Silver Flame]] holiday list (now shows dates)
+* Tweaked a few of the [[language]] pages:
+** Renamed "Old Common" -> "[[Lhazaaran]]"
+** Changed linguistic roots of [[Azhani]]
+** More changes to come.
+* Added a bit to [[Lurker in Shadow]] and [[aboleth]]
+* Added some demographics to the four big [[Khorvaire]] nations. Didn't do the others mentioned in the ECS because I don't agree with some of them; like [[Darguun]] shouldn't have only 6% humans. 
+* Added [[kleynam]] ("small town"), [[Asta Vanalan]], [[Sorallandan]], [[Ghallanda Scouts]].
 
 !!! 1.15.1 <span style="font-weight:normal">(Apr 1, 2022)</span>
 

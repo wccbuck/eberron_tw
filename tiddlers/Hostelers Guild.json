@@ -1,13 +1,13 @@
 [
     {
         "created": "20210212002702051",
-        "title": "Hostelers Guild",
-        "text": "Many of the inns and restaurants across [[Khorvaire]] are run by the Hostelers\nGuild—and most of the rest have (or are seeking)\nlicenses from the house. Displaying a House [[Ghallanda]] license in one’s establishment adds a certain\ncachet and is an implicit promise of quality.",
-        "modified": "20210727192013881",
-        "tags": "Ghallanda [[trade guild]]",
+        "text": "Many of the inns and restaurants across [[Khorvaire]] are run by the Hostelers\nGuild—and most of the rest have (or are seeking)\nlicenses from the house. Displaying a House [[Ghallanda]] license in one’s establishment adds a certain\ncachet and is an implicit promise of quality.\n\nThe Hostelers Guild also manages the [[Ghallanda Scouts]].",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Hostelers Guild",
+        "tags": "Ghallanda [[trade guild]]",
+        "modified": "20220408054045707",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]
