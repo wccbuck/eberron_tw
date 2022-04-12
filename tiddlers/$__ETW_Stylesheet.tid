@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20220110193203122
+modified: 20220412182827138
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -105,6 +105,10 @@ div.header-gradient {height: 3px;background-image: linear-gradient(to right, <<c
 p.new-note button svg {fill: <<colour tiddler-controls-foreground>>;}
 
 p.new-note button svg:hover {fill: <<colour tiddler-controls-foreground-hover>>;}
+
+button.copy-clipboard svg {stroke: <<colour tiddler-controls-foreground>>; height: 18px; width: 18px;}
+
+button.copy-clipboard svg:hover {stroke: <<colour tiddler-controls-foreground-hover>>; height: 18px; width: 18px;}
 
 .cs-wrapper {
   margin: 15px;
