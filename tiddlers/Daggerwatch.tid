@@ -2,7 +2,7 @@ category: location
 color: #96CC39
 created: 20200418213041953
 fmwvar: fmw-upper
-modified: 20210924200442858
+modified: 20220319234528258
 polygons: 20.103,-24.645 20.121,-24.647 20.146,-24.649 20.172,-24.643 20.193,-24.643 20.196,-24.671 20.196,-24.671 20.197,-24.701 20.197,-24.712 20.167,-24.71 20.136,-24.706 20.118,-24.7 20.095,-24.692 20.081,-24.681 20.085,-24.684 20.1,-24.653 20.103,-24.645
 style: {"color":"#6B001B","fillColor":"#B45545","fillOpacity":0.4}
 tags: district [[Upper Dura]] Sharn
@@ -40,3 +40,4 @@ from vengeful citizens.
 * [[Daggerwatch Garrison]]. The eponymous garrison in the district is the home to over 600 members of the [[Sharn Watch]].
 * The [[Gold & White]]. This tavern offers fare of comfortable quality at modest prices. It caters to members of the [[Sharn Watch]] and [[Brelish|Breland]] veterans, but others will receive a cold welcome.
 * [[Talain Garrison]]. This fortress houses both the [[Sharn Watch]] and the elite [[Redcloak Battalion]].
+* [[Municipal Guard Garrison|Breland Municipal Guard]]. This garrison serves as the headquarters for the [[Sharn]] detachment of the [[Breland Municipal Guard]].

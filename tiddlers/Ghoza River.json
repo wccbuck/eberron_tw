@@ -1,1 +1,15 @@
-{"created": "20210121074947666", "title": "Ghoza River", "text": "The Ghoza River in [[Adar]] flows into the [[Jathara Sound]] near [[Ghoza]].", "modified": "20210727192010210", "tags": "Adar river Sarlona", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "7.117,187.52 6.674,187.99 6.258,188.65 6.378,189.6 6.295,190.02 5.723,190.62 5.418,191.07", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}
+[
+    {
+        "created": "20210121074947666",
+        "text": "The Ghoza River in [[Adar]] flows into the [[Jathara Sound]] near [[Ghoza]].",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Ghoza River",
+        "tags": "Adar river Sarlona",
+        "modified": "20220329211156765",
+        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}",
+        "polylines": "5.54,192.104 5.625,192.041 5.714,191.828 5.959,191.423 5.991,191.238 6.142,191.151 6.253,190.68 6.18,190.198 6.134,189.777 6.23,189.549 6.717,189.001 6.91,188.728 6.881,188.361 6.899,188.033 7.131,187.649 7.2,187.446",
+        "color": "#3B5C0A",
+        "category": "location",
+        "article": "the "
+    }
+]

@@ -1,13 +1,36 @@
 category: entity
 color: #8C4606
 created: 20200420210840335
-modified: 20210727191954484
+modified: 20220331200713042
 tags: [[Sovereign Host]] deity
 title: Arawai
 type: text/vnd.tiddlywiki
 
-Arawai is the Sovereign of Life and Love. She is the patron of fertility and of the benevolent aspects of nature, bringing good harvest and gentle rain. She holds dominion over the natural world as viewed through the lens of civilization. Her symbols include a sheaf of wheat tied with green ribbon or a [[bronze dragon]].
+''Title:'' The [[Sovereign|Sovereign Host]] of Life and Love<br/>
+''Symbols ([[Pyrinean Creed]]):'' A sheaf of wheat tied with green ribbon, or an Octagram in bronze and green<br/>
+''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[bronze dragon]]<br/>
+''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
+
+<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#0022aa],[#CD7F32]search-replace[#ffd700],[#227700]]}}}>
+<div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
+</$vars>
+
+Arawai is the [[Sovereign|Sovereign Host]] of Life and Love, the goddess of abundance. She is the patron of fertility and of the benevolent aspects of nature, bringing good harvest and gentle rain. She holds dominion over the natural world as viewed through the lens of civilization. 
+
+Arawai's tenets are simple and few:
+
+* Be fruitful and multiply.
+* Celebrate life, especially new life. A young sapling is a beautiful creation, and children are the world's greatest blessing.
+* Never turn your back on a child or young creature in need.
 
 According to the [[Pyrinean Creed]], Arawai is the sister of [[Balinor]] and the [[Devourer]], and the mother of the [[Fury]].
 
+!! {{!!title}} in Other Traditions
+
+Arawai is part of two different [[Three Faces]] trinities: the [[Three Faces of the Wild]] (alongside [[Balinor]] and the [[Devourer]]), and the [[Three Faces of Love]] (alongside [[Boldrei]] and the [[Fury]]).
+
+Arawai and [[Kol Korran]] are held in high regard by the faith known as [[Sela's Path]], followed by many within House [[Lyrandar]]. Those who follow Sela’s Path believe that Arawai and Kol Korran sent the [[house|dragonmarked house]]'s founders Lyran and Selavash their [[dragonmark]]s to bring unity and prosperity to the [[half-elf]] people.
+
 In the [[giant]] faith known as [[Rushemé]], the deity known as "Rowa of the Jungle Leaves" shares many properties with Arawai, with a bit of the [[Devourer]] and the [[Fury]] woven in.
+
+[[Dragon|dragon]]s who follow the [[Thir]] faith and wish to embody the [[Sovereign archetype]] of Arawai are known as [[children of Eberron|child of Eberron]].

@@ -1,13 +1,13 @@
 [
     {
         "created": "20210407005642078",
-        "title": "Inviolate Way",
-        "text": "The Order of the Inviolate Way is a chivalric order in [[Karrnath]] responsible for assisting, serving, and protecting nobles, royals, and warlords. Restrictive even for a knightly order, the Inviolate Way accepts only applicants of noble blood who are distinguished graduates of the [[Rekkenmark Academy]]. Its headquarters are in [[Rekkenmark]] not far from the academy itself.",
-        "modified": "20210727192014976",
-        "tags": "military Karrnath",
+        "text": "The Order of the Inviolate Way is a chivalric order in [[Karrnath]] responsible for assisting, serving, and protecting nobles, royals, and warlords. Restrictive even for a knightly order, the Inviolate Way accepts only applicants of [[noble blood|Nobility of the Five Nations]] who are distinguished graduates of the [[Rekkenmark Academy]]. Its headquarters are in [[Rekkenmark]] not far from the academy itself.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the Order of the ",
+        "title": "Inviolate Way",
+        "tags": "military Karrnath",
+        "modified": "20220322224111294",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the Order of the "
     }
 ]

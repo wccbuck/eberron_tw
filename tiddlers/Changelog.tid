@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.14.4
-modified: 20220317193935727
+currentversion: 1.15.3
+modified: 20220412183319001
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,11 +10,58 @@ type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 
-!!! 1.14.4 <span style="font-weight:normal">(Mar xx, 2022)</span>
+!!! 1.15.3 <span style="font-weight:normal">(Apr 12, 2022)</span>
+
+* Added [[Curse of the Titans]] and [[Belericax]] from Secrets of Xen'drik.
+* Added the missing towns [[Gjitha]] and [[Per]] to [[Syrkarn]]. Renamed the [[changeling]] previously named Per to "[[Vurs]]".
+* Added "the" article to each of the [[era]]s.
+* Added "Copy title to clipboard" button next to the title of every tiddler.
+
+!!! 1.15.2 <span style="font-weight:normal">(Apr 8, 2022)</span>
+
+* Improved [[Silver Flame]] holiday list (now shows dates)
+* Tweaked a few of the [[language]] pages:
+** Renamed "Old Common" -> "[[Lhazaaran]]"
+** Changed linguistic roots of [[Azhani]]
+** More changes to come.
+* Added a bit to [[Lurker in Shadow]] and [[aboleth]]
+* Added some demographics to the four big [[Khorvaire]] nations. Didn't do the others mentioned in the ECS because I don't agree with some of them; like [[Darguun]] shouldn't have only 6% humans. 
+* Added [[kleynam]] ("small town"), [[Asta Vanalan]], [[Sorallandan]], [[Ghallanda Scouts]].
+
+!!! 1.15.1 <span style="font-weight:normal">(Apr 1, 2022)</span>
+
+* Fleshed out the [[Sovereign Host]] pages a bit
+* Added an Octagram svg image and put it on the [[Sovereign Host]] page, as well as recolored versions on each Sovereign's page
+* Added a cool [[Silver Flame]] svg as well, with gradients and stuff
+* Added [[Arawai's Blessing]] holiday
+* Added a brief summary of each faith for the religion pages that just started with a bulleted list of tenets
+* Adjusted [[Adar]]an city populations closer to original numbers in Secrets of Sarlona (doubled rather than 5x)
+* Added a bunch of Adaran towns (stubs) to the map and adjusted river positions based on Secrets of Sarlona map
+* Added [[varit]]
+* Added "alternatetitle" field to certain pages whose names I've changed for one reason or another. That way, searching "Basura Swamp" still gives you "Basira Swamp" as a title match (which I renamed because I can't say "trash swamp" with a straight face).
+* You can now also search for, say, "Rage of War", and [[Rak Tulkhesh]] will show up as a title match.
+
+!!! 1.15.0 <span style="font-weight:normal">(Mar 25, 2022)</span>
 
 * Added lots of content about [[overlord]]s based on [[KB's blog post|https://keith-baker.com/dm-overlords-2022/]]. Only made a few small changes for the purposes of this document: 
 ** I renamed "Asshalara" [[Zetsash]] because I didn't particularly like that name, and also didn't want two new members of the Bleak Council with super similar names ([[Shalashar]] and Asshalara)
 ** Please don't make me add Lolth to Eberron ugh
+* Added [[minotaur]] clans:
+** [[Blood Horns]], [[Blade Breakers]], [[Red Hooves]], [[Dawn Harvest]]
+* Added [[hwyri]], gnoll demon hunters (previously buried in Znir Pact page)
+* Added an [[Orien trade road|Orien trade roads]] between [[Passage]] and [[Varna]]. It's unthinkable there wouldn't be a superhighway between those two cities
+* Added [[Oath of the Crown]]
+* Added a few things from Sharn City of Towers that I missed:
+** [[Breland Municipal Guard]] (renamed from "Royal Guard", which implies king's bodyguards), [[Toras Cant]], [[pen of the living parchment]], [[Cazha Bloodwing]], [[Torarg Blackhorn]], [[Tyasha d'Phiarlan]]
+** Also added a lot to [[Lyrandar Tower]] from the [[web enhancement pdf|https://web.archive.org/web/20130531122202/http://wizards.com/default.asp?x=dnd/ebwe/20041118a]], despite the author thinking Cannith manages hotels, Darguun is a nation of orcs, and the Boromars are humans. I picked out the usable parts.
+* Edited travel times and costs considerably for getting around [[Sharn]]. See [[Wards of Sharn]].
+* Added some content to [[Ardhmen]] from Secrets of Sarlona [[web enhancement|https://web.archive.org/web/20130510212024/http://www.wizards.com/default.asp?x=dnd/we/20070409a]], as well as the [[rendesa]] creature
+* Added some creatures from [[Fiend Folio|https://www.dmsguild.com/product/1751/Fiend-Folio-3e]]:
+** [[haraknin]], [[kelpie]], [[yellow musk creeper]]
+* Added [[shadow step]] spell
+* Added [[aurashala]] [[quori]]
+* Made some adjustments to [[genasi]] [[talent]]s to reflect some changes coming in Monsters of the Multiverse
+* Added [[Nobility of the Five Nations]] page. While I was at it, doubled the number of noble representatives in the [[Breland Parliament]]. I however kept the canon material about [[Antus ir'Soldorak]] having a [[Karrnath]]i noble title, not a [[Brelish|Breland]] one. Also split the pages [[Lord Mayor of Sharn]] and [[Cathan ir'Demell]].
 
 !!! 1.14.3 <span style="font-weight:normal">(Mar 8, 2022)</span>
 

@@ -1,11 +1,40 @@
 category: entity
 color: #8C4606
 created: 20200420211245702
-modified: 20210727192004859
+modified: 20220331202946364
 tags: [[Sovereign Host]] deity
 title: Dol Dorn
 type: text/vnd.tiddlywiki
 
-Dol Dorn is the Sovereign of Strength and Steel. He is the patron of the common soldier, and he guides the hands of anyone who holds a weapon. He embodies courage, strength, duty, and martial skill. He is also the deity of honorable competition and sport. His symbols include a longsword crossed over a shield or a [[silver dragon]].
+''Title:'' The [[Sovereign|Sovereign Host]] of Strength and Steel<br/>
+''Symbols ([[Pyrinean Creed]]):'' A longsword crossed over a shield, or an Octagram in red and silver<br/>
+''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[silver dragon]]<br/>
+''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
 
-According to the [[Pyrinean Creed]], Dol Dorn is the brother of [[Dol Arrah]] and the [[Mockery]]. In the [[Rushemé]] faith of the [[giant]]s, aspects of Dol Dorn and [[Balinor]] are combined in the deity known as "Banor, the Bloody Spear".
+<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#ffd700],[#990000]search-replace[#0022aa],[#C0C0C8]]}}}>
+<div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
+</$vars>
+
+Dol Dorn is the Sovereign of Strength and Steel. He is the patron of the common soldier, and he guides the hands of anyone who holds a weapon. He embodies courage, strength, duty, and martial skill. He is also the deity of honorable competition and sport. 
+
+Dol Dorn despises those who shed blood in the name of cruelty or greed, or who glory in mindless violence. He protects warriors forced into battle under an unjust cause, but he also protects deserters who refuse to carry out unjust commands.
+
+His commands are simple but strong:
+
+* Shirk your duty only if your charges have become unworthy of it.
+* Achieve and maintain physical perfection.
+* Test your physical powers in contests and in battle. May the strongest prevail!
+
+According to the [[Pyrinean Creed]], Dol Dorn is the brother of [[Dol Arrah]] and the [[Mockery]]. 
+
+!! {{!!title}} in Other Traditions
+
+Dol Dorn is held in high honor by the [[Three Faces of War]] sect, alongside [[Dol Arrah]] and the [[Mockery]].
+
+The monastic Order of the [[Broken Blade]] honors Dol Dorn above all other Sovereigns, believing that he teaches them directly when they engage in worthy struggles.
+
+The talespinners of Doldarunhold in the [[Mror Holds]] swear that the hero [[Doldarun]] was the son of Dol Dorn and [[Dol Arrah]].
+
+In the [[Rushemé]] faith of the [[giant]]s, aspects of Dol Dorn and [[Balinor]] are combined in the deity known as "Banor, the Bloody Spear".
+
+In the [[dragon]] faith known as [[Thir]], Dol Dorn was once a mighty [[silver dragon]] named //Duldonak//. Together with two other draconic champions, //[[Dularanahk|Dol Arrah]]// and //[[Dulazurak|Mockery]]//, he faced off against the [[overlord]] [[Katashka]], the Gatekeeper. (See [[Orb of Dol Azur]] for more information.) Those dragons who wish to embody the [[Sovereign archetype]] of Dol Dorn are known as [[wyrms of war|wyrm of war]].

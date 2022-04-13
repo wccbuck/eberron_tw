@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200426212931300
-modified: 20210727192021629
+modified: 20220320194558932
 tags: monstrosity
 tier: 2
 title: minotaur
@@ -14,17 +14,12 @@ Minotaurs are native to [[Khorvaire]] and [[Xen'drik]]. On Khorvaire, most minot
 Some minotaurs also live in [[Sharn]], serving as House [[Tharashk]] mercenaries or agents of [[Daask]].
 
 The minotaurs believe that they are the chosen warriors of a
-being commonly known as the Horned Prince, and they hone
-their skills in battle so they may join the Prince after death.
-Each clan has their own private name for the Prince and their
-own beliefs about the conduct he expects of his followers. In
-most cases, the Horned Prince seems to be an analogue to the
-[[overlord]] [[Rak Tulkhesh]], desiring only bloodshed. However, the
-Red Hooves worship He Who Walks Behind, who is much like
-the [[Mockery]]; they focus on the use of terror and in deceiving
-their enemies. The Blade Breakers worship One Horn, who
-rewards strength and courage—much like [[Dol Dorn]]. The Dawn
-Harvest was a clan whose version of the Prince—the Dawn
-Gorer—encouraged followers to fight with honor and to defend
-the weak, two traits rarely seen in Droaam. The Dawn Harvest
-was destroyed by [[Maenya's Fist]] after refusing to accept Rhesh Turakbar as the warlord of their region; a few members of the clan survived and are now scattered across Droaam.
+being commonly known as the Horned King, and they hone
+their skills in battle so they may join the King after death. Some sages believe this "Horned King" to be an aspect of the [[Rage of War|Rak Tulkhesh]]. In truth, the Horned King is an entirely distinct force, an [[overlord]] of tyranny and cruelty: [[Tol Kharash]], an entity bound beneath the fortress of [[Turakbar's Fist]]. 
+
+Each minotaur clan has their own private name for the King and their
+own beliefs about the conduct he expects of his followers. In most cases, the Horned King seems to demand only bloodshed and cruelty from its followers. However, some clans have more subtle interpretations of the King, often sharing aspects with one of the [[Sovereigns|Sovereign Host]] or [[Six|Dark Six]].
+
+!! Minotaur Clans
+
+<<list-links-article "[tag{!!title}tag[tribe]sort[title]]">>

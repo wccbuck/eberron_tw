@@ -1,12 +1,12 @@
 [
     {
         "created": "20210304042345629",
-        "title": "Code of Galifar",
-        "text": "The [[Galifar]] Code of Justice (or \"Code of Galifar\") was the intricate system of\nlaws, rights, and regulations that defined the legal structure of the unified kingdom of Galifar before the [[Last War]].\nThe Galifar code survives intact in [[Breland]] and [[Aundair]].\n[[Karrnath]]’s [[legal code|Code of Kaius]] is more rigid and less forgiving than\nthe Galifar code on which it was based, and [[Thrane]]’s\ntheocratic government has replaced the code with a\nmore stringent set of religious laws. The other nations of\n[[Khorvaire]] use their own systems of laws and justice that\ntrace their ancestry in varying degrees back to the Code\nof Galifar.\n\nThe laws presume innocence, provide for judgment by\npeers, and establish a complex legal system. If someone\nwinds up in trouble with the law, it is highly recommended\nthat the subject obtain the services of a solicitor or councilor\nskilled in the Code of Justice. Even with laws and enforcers,\nthe Code leaves enough loopholes and gaps in the system\nfor experienced criminals to take advantage of.",
-        "modified": "20210727192001602",
+        "text": "The [[Galifar]] Code of Justice (or \"Code of Galifar\") was the intricate system of\nlaws, rights, and regulations that defined the legal structure of the unified kingdom of Galifar before the [[Last War]].\nThe Galifar code survives intact in [[Breland]] and [[Aundair]].\n[[Karrnath]]’s [[legal code|Code of Kaius]] is more rigid and less forgiving than\nthe Galifar code on which it was based, and [[Thrane]]’s\ntheocratic government has replaced the code with a\nmore stringent set of religious laws. The other nations of\n[[Khorvaire]] use their own systems of laws and justice that\ntrace their ancestry in varying degrees back to the Code\nof Galifar.\n\nThe laws presume innocence, provide for judgment by\npeers, and establish a complex legal system. If someone\nwinds up in trouble with the law, it is highly recommended\nthat the subject obtain the services of a solicitor or councilor\nskilled in the Code of Justice. Even with laws and enforcers,\nthe Code leaves enough loopholes and gaps in the system\nfor experienced criminals to take advantage of.\n\nThe [[warforged]] are protected under the Galifar Code due to rights granted them by the [[Treaty of Thronehold]], but getting representatives of the law to enforce this protection can be tricky. [[Undead|undead]], however, are excluded from the protection of the law, regardless of whether or not they are sapient. Once a creature has died, they no longer have any status in the eyes of the law.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Code of Galifar",
+        "modified": "20220318172447733",
+        "color": "#A3CFBB",
         "category": "document",
-        "color": "#A3CFBB"
+        "article": "the "
     }
 ]

@@ -1,20 +1,19 @@
 category: phenomenon
 color: #432874
 created: 20200422220344926
-modified: 20210727192022788
+modified: 20220327205908149
 tags: [[spell school]]
 title: necromancy
 type: text/vnd.tiddlywiki
 
-The School of Necromancy explores the cosmic forces of life, death, and [[undeath|undead]]. As one focuses their studies in this tradition, they learn to manipulate the negative energy of [[Mabar]] to animate once-living things. As they progress, they learn to sap the life force from a creature as their magic destroys its body, transforming that vital energy into magical power they can manipulate.
+The [[school|spell school]] of necromancy explores the cosmic forces of life, death, and [[undeath|undead]]. Manipulation of these forces is considered taboo by many societies, but necromancers are not intrinsically evil. Necromancy tends to fall into three categories: [[Mabar]]an, [[Dolurrh]]i, and [[Irian]].
 
-Most people see necromancers as menacing, or even
-villainous, due to the close association with death.
-Not all necromancers are evil, but the forces they
-manipulate are considered taboo by many societies. 
+Practitioners of [[Mabar]]an necromancy learn to manipulate negative energy to [[animate once-living things|animate dead]]. As they progress, they may learn to sap the life force from a creature as their magic destroys its body, transforming that vital energy into magical power they can manipulate.
 
-A more challenging form of necromancy involves infusing the once-living with positive energy from [[Irian]], and sustaining the resulting [[deathless]] being with the devotion of the living. This is the form of necromancy that animates the [[Undying Court]].
+[[Dolurrh]]i necromancy involves interaction with the souls of the recently deceased, such as through the spell [[speak with dead]]. Powerful bearers of the [[Mark of Healing]] and [[cleric]]s with potent conduits to [[divine power|divine magic]] can [[raise the dead|raise dead]], an act which truly restores a living creature to life, and does not create an [[undead]] creature.
 
-Powerful bearers of the [[Mark of Healing]] and [[cleric]]s with potent conduits to divine power can [[raise the dead|raise dead]]; technically this qualifies as necromancy, even though the recipient of the spell is truly living, not undead.
+[[Irian]] necromancy involves infusing the once-living with positive energy, and sustaining the resulting [[deathless]] entity with the devotion of the living. This is the form of necromancy that sustains the [[Undying Court]].
+
+
 
 !!! <<showspells-school {{!!title}}>>

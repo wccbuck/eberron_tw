@@ -1,7 +1,7 @@
 category: talent
 created: 20220318055815365
 list: command [[compelled duel]] [[warding bond]] [[zone of truth]] [[aura of vitality]] [[spirit guardians]] banishment [[guardian of faith]] [[circle of power]] geas
-modified: 20220318060532869
+modified: 20220318062146637
 tags: Spellcaster paladin
 title: Oath of the Crown
 type: text/vnd.tiddlywiki
@@ -38,7 +38,7 @@ Choose two spells as per the [[Spellcaster]] talent rules. A [[paladin]] under t
 		</td>
 		<td>
 			<$list filter="[is[current]tags[]sort[]butlast[]]">
-				<$link/>, 
+				<$link/>,
 			</$list>
 			<$list filter="[is[current]tags[]sort[]last[]]">
 				<$link/>

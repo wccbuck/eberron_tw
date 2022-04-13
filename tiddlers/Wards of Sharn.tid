@@ -1,6 +1,6 @@
 category: miscellaneous
 created: 20201222081940370
-modified: 20210727192041777
+modified: 20220320222924195
 tags: Sharn
 title: Wards of Sharn
 type: text/vnd.tiddlywiki
@@ -53,17 +53,7 @@ a district in [[Lower Dura]] will be squalid and dangerous.
 !! Getting Around
 
 Sharn is an enormous city, and traveling on foot from
-one side of the city to the other can be time-consuming.
-Here are some travel-time guidelines:
-
-* It takes at least 30 minutes to cross a ward.
-* If you're traveling between wards, add 30 minutes for each ward you pass through.
-* [[Dura]] and [[Tavick's Landing]] are especially large; double the time it takes to move through one of them.
-
-For instance, traveling from [[Lower Menthis]] to [[Upper Central]] involves passing through three wards (taking a bridge from Lower Menthis to [[Lower Central]], then
-ascending two levels) and can take 90 minutes or longer.
-
-Not all the quarters are linked to one another by
+one side of the city to the other can be time-consuming; see the "Travel Time" section below. In addition, not all the quarters of Sharn are linked to one another by
 bridges. The connections that do exist include these:
 
 * [[Central Plateau]] has bridges that lead to [[Northedge]] and [[Menthis|Menthis Plateau]].
@@ -71,6 +61,8 @@ bridges. The connections that do exist include these:
 * Tavick's Landing is connected to Dura, Menthis, and [[Northedge]]. 
 * Menthis is connected to Tavick's Landing, Dura, and Central.
 * Northedge is connected to Central and Tavick's Landing.
+
+Check the <$wikify name=locations text="{{Dura!!polygons}} {{Tavick's Landing!!polygons}}"><$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tiddler="$:/FlyLocation" text=<<locations>> fly="yes"/><$action-setfield $tiddler="$:/state/tab/sidebar--595412856" text="$:/Map"/><$mapscrollintoview/>Map</$button></$wikify> or individual district pages to confirm whether a direct walking path exists between two districts.
 
 Traveling from district to district involves the use of
 bridges and ramps, along with magic lifts—vast floating
@@ -81,19 +73,39 @@ but aren't fully enclosed; if combatants fight on a lift,
 someone falling or being pushed off the edge is always a
 possibility.
 
+!!! Travel Time
+
+For a walking travel time guideline, use the following: 20 minutes per district, including ones connected by bridge. 
+
 <<<
-Alternative walking travel time guideline: 15 minutes per district, including ones connected by bridge. 
 
 Example: [[Clifftop]] to [[Deathsgate]]. 
 
-:''Path 1:'' [[Clifftop]] → [[Hope's Peak]] → [[Redstone]] → [[Daggerwatch]] → [[Highhold]] → [[Sunrise]] → [[Ocean View]] → [[Dalan's Refuge]] →(down)→ [[Deathsgate]] (8 districts, 8*15=120 minutes)
+''Path 1:'' [[Clifftop]] → [[Hope's Peak]] → [[Redstone]] → [[Daggerwatch]] → [[Highhold]] → [[Sunrise]] → [[Ocean View]] → [[Dalan's Refuge]] →(down)→ [[Deathsgate]] (8 districts, 8*20=''160 minutes'')
 
-:''Path 2:'' [[Clifftop]] → [[Hope's Peak]] → [[Redstone]] → [[Daggerwatch]] →(bridge)→ [[Ivy Towers]] → [[University District]] → [[Platinate]] →(bridge)→ [[Dalan's Refuge]] →(down)→ [[Deathsgate]] (8 districts, 8*15=120 minutes)
+''Path 2:'' [[Clifftop]] → [[Hope's Peak]] → [[Redstone]] → [[Daggerwatch]] →(bridge)→ [[Ivy Towers]] → [[University District]] → [[Platinate]] →(bridge)→ [[Dalan's Refuge]] →(down)→ [[Deathsgate]] (8 districts, 8*20=''160 minutes'')
 
 <<<
 
-For a speedier journey through the streets, House [[Orien]] manages a system of carriages for hire. Taking an Orien carriage cuts travel time in half and costs a negligible fee ([[0.02c|money]]) per district. Flight is, of course, the fastest way to get around in Sharn, cutting travel time down to one-sixth of the walking pace (2.5 minutes per district). It's also more expensive, at 0.05c per district, and each mount can hold only one person, as opposed to four in a carriage (not including the driver). The most common form of aerial transport is the [[skycoach]], but many flying mounts, including [[hippogriff]]s, [[griffon]]s, [[glidewing]]s,
-and [[giant owl]]s, can be found for hire around the city. 
+For a speedier journey through the streets, House [[Orien]] manages a system of carriages for hire, which can hold four people (not including the driver). Taking an Orien carriage cuts travel time by half (10 minutes per district) and costs a small fee ([[0.05c|money]] per district, rounded to the nearest crown). So a carriage journey from [[Clifftop]] to [[Deathsgate]] would take 80 minutes. The cost is less than half a crown for this cross-city journey, so it's considered negligible; only long round-trips and back-and-forth journeys across [[Sharn]] should begin to cost money worth tracking. 
+
+Smaller, one-person carriages and rickshaws are half the price, an amount which almost always rounds to zero crowns for mechanical purposes.
+
+Flight is, of course, the fastest way to get around in Sharn, cutting travel time down to one-fourth of the walking pace (5 minutes per district). In addition, districts that are adjacent but not connected by bridges (such as [[Clifftop]] and [[Shae Lias]], or the [[Bazaar]] and [[Dava Gate]]) can be considered connected when flying. The most common form of aerial transport is the [[skycoach]]; four-person [[skycoach]]es can be rented out from businesses such as the [[Silverstreak Skycoach Rental Company]] for [[0.2c|money]] per district (rounded to the nearest crown), or 3c per hour. Thus, a Silverstreak [[skycoach]] journey from [[Clifftop]] to [[Deathsgate]] would cost 2c and take 40 minutes. (Flying offers no shortcut in this case; cutting straight from [[Dura]] to [[Central Plateau]] still requires travelers to pass through eight districts.)
+
+One-person flying options are only 0.1c per district. Options include rowboat-sized [[skycoaches|skycoach]], but many flying mounts, including [[hippogriff]]s, [[griffon]]s, [[glidewing]]s, and [[giant owl]]s, can also be found for hire around the city. 
+
+In summary:
+
+|!Travel Option |!Travel Time Per District |!Cost Per District |
+|Foot |20 minutes |Free |
+|One-person carriage |10 minutes |Free* |
+|Four-person carriage |10 minutes |0.05c |
+|One-person flying transport |5 minutes† |0.1c |
+|Four-person flying transport |5 minutes† |0.2c |
+<br/>*: Actually 0.025c per district, but this is usually negligible<br/>
+†: Or faster, with flying shortcuts
+
 
 !! Important Districts
 

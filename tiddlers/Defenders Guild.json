@@ -1,13 +1,13 @@
 [
     {
         "created": "20210211212134988",
-        "title": "Defenders Guild",
-        "text": "Some of the gap in House [[Deneith]]’s income since the end of the [[Last War]] has been filled by an explosion in the demand for Deneith’s bodyguards and garrison troops. Trade caravans, mining operations, and ambitious noble families all need protection.",
-        "modified": "20210727192004031",
-        "tags": "[[mercenary troop]] Deneith [[trade guild]]",
+        "text": "The Defenders Guild is a [[trade guild]] of House [[Deneith]] dedicated to providing personal protection of clients. Some of the gap in House [[Deneith]]’s income since the end of the [[Last War]] has been filled by an explosion in the demand for Deneith’s bodyguards and garrison troops. Trade caravans, mining operations, and ambitious noble families all need protection.\n\nMembers of the Defenders Guild are experienced mercenaries who have served at least a year in the [[Blademarks Guild]].",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Defenders Guild",
+        "tags": "[[mercenary troop]] Deneith [[trade guild]]",
+        "modified": "20220320205417760",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

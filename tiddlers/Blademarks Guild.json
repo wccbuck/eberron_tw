@@ -1,13 +1,13 @@
 [
     {
         "created": "20210211212019856",
-        "title": "Blademarks Guild",
-        "text": "Most ambitious members of House [[Deneith]] spend a year or two serving as soldiers in the Blademarks Guild. The guild has fewer soldiers than it did five years ago, to be sure, but those blademarks under contract are as busy as ever. The end of the war just meant that the blademarks were available to be hired by entities other\nthan armies in the field, such as other\n[[dragonmarked house]]s, local nobles, and\ncountries beyond the [[Five Nations]].",
-        "modified": "20210727191958154",
-        "tags": "[[mercenary troop]] Deneith [[trade guild]]",
+        "text": "The Blademarks are a [[trade guild]] of House [[Deneith]] dedicated to providing general security. Most ambitious members of House [[Deneith]] spend a year or two serving as soldiers in the Blademarks Guild. The guild has fewer soldiers than it did five years ago, to be sure, but those blademarks under contract are as busy as ever. The end of the war just meant that the blademarks were available to be hired by entities other\nthan armies in the field, such as other\n[[dragonmarked house]]s, local nobles, and\ncountries beyond the [[Five Nations]].",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Blademarks Guild",
+        "tags": "[[mercenary troop]] Deneith [[trade guild]]",
+        "modified": "20220320205237684",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

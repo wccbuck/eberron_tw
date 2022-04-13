@@ -1,0 +1,13 @@
+category: event
+color: #A3CFBB
+created: 20220331161145317
+day: 20
+modified: 20220331162006569
+month: 11
+tags: [[Sovereign Host]] holiday Arawai
+title: Arawai's Blessing
+type: text/vnd.tiddlywiki
+
+''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
+
+[[Arawai]]'s Blessing is a harvest festival celebrated across [[Khorvaire]]. It is also a celebration of love, and romantic partners often exchange gifts on this holiday.
