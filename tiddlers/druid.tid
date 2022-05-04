@@ -2,7 +2,7 @@ category: occupation
 color: #A3CFBB
 created: 20200417022957931
 list-before: 
-modified: 20210727192005929
+modified: 20220503195351730
 title: druid
 type: text/vnd.tiddlywiki
 
@@ -32,6 +32,12 @@ banished, with good reason or otherwise?
 * the [[Greensingers]]
 * the [[Wardens of the Wood]]
 
+!! Other Druidic Sects of Eberron
+
+<<list-links-article "[category[organization]tag{!!title}![Ashbound]![Children of Winter]![Gatekeepers]![Greensingers]![Wardens of the Wood]sort[title]]">>
+
 !
 
 !!! <<showorg-type>>
+
+!!! <<showtalent-type>>

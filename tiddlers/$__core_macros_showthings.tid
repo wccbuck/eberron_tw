@@ -1,5 +1,5 @@
 created: 20200223062944506
-modified: 20211126231441490
+modified: 20220503194348598
 tags: $:/tags/Macro
 title: $:/core/macros/showthings
 type: text/vnd.tiddlywiki
@@ -142,6 +142,16 @@ Find events tagged as "{{!!title}}"
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Miscellaneous"/>
 <$action-navigate $to="Find Things"/>
 Find entertainment tagged as "{{!!title}}"
+</$button>
+\end
+
+\define showtalent-type()
+<$button class="tc-btn-invisible tc-tiddlylink">
+<<resetplaces>>
+<$action-setfield $tiddler="$:/config/Manager/TalentTag" text={{!!title}}/>
+<$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Talents"/>
+<$action-navigate $to="Find Things"/>
+Find talents tagged as "{{!!title}}"
 </$button>
 \end
 

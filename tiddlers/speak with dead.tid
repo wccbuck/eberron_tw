@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201216183100393
-modified: 20210727192033483
+modified: 20220503214709857
 tags: necromancy
 tier: 3
 title: speak with dead
@@ -10,3 +10,17 @@ type: text/vnd.tiddlywiki
 You grant the semblance of life and intelligence to a corpse of your choice within 10 feet, allowing it to answer the questions you pose. The corpse must still have a mouth and can't be [[undead]]. The spell fails if the corpse was the target of this spell within the last 10 days.
 
 Until the spell ends (after up to 10 minutes), you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the [[language]]s it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
+
+!! Speak with Dead in the Five Nations
+
+Communicating with the dead is a service that exists in [[Khorvaire]]; in most major cities, one might hire a medium to perform the spell at a cost of about [[10c|money]], and the [[Blackened Book]] in [[Sharn]] sometimes uses it as part of investigations. The spell is also sometimes used by archaeologists. But it's not commonplace in the [[Five Nations]], for a few key reasons:
+
+* It's difficult and expensive.
+* It usually doesn't actually contact the spirit of the victim, but rather trace memories attached to the corpse.
+* [[Necromancy|necromancy]] is taboo in the [[Five Nations]], even if it's legal. The spell also requires access to a corpse (see exception below), which may have been buried or cremated depending on faith tradition.
+
+Some skilled mediums can actually cast //speak with dead// without access to the corpse, provided they have access to strong emotional anchors and a living person with a connection to the deceased. Such a ritual may actually be able to reach the deceased person's spirit in [[Dolurrh]] if they haven't been dead for long enough to lose their memories and identity.
+
+Aside from mediums, law enforcement, and archaeologists, the [[Blood of Vol]] faith has skilled necromancers and no moral compunction about speaking with the dead. In some [[Seeker|Blood of Vol]] communities, the skulls of people who possessed valuable wisdom or information are preserved in a sort of library ossuary, allowing a necromancer to consult them with questions. 
+
+Meanwhile, in [[Aerenal]], //speak with dead// is a very common tool when used with [[spirit idol]]s. In fact, because the spirit idols preserve the spirits of the dead, this spell allows the caster to have a full conversation with the deceased.

@@ -1,13 +1,13 @@
 [
     {
         "created": "20201226053707488",
-        "text": "''Color:'' Pale orange<br/>\n''Associated [[Dragonmark|dragonmark]]:'' [[Sentinel|Mark of Sentinel]]<br/>\n''Associated [[Plane|plane]]:'' [[Lamannia]]<br/>\n''Associated [[Month|Khorvaire calendar]]:'' 2nd\n\nTo the naked eye, the orange disk of Olarune seems to have a slight fringe that vaguely resembles the rim of a shield. The [[druid]]s say that those born when Olarune is ascendant have a strong bond to community and to order, and a natural desire to protect others; superstition holds that more [[paladin]]s are born in this month than any other. Scattered [[therianthrope]]s, especially weretigers, revere Olarune as a sort of demigoddess-protector.",
-        "title": "Olarune",
-        "modified": "20220116041758182",
-        "tags": "moon",
+        "text": "''Color:'' Pale orange<br/>\n''Associated [[Dragonmark|dragonmark]]:'' [[Sentinel|Mark of Sentinel]]<br/>\n''Associated [[Plane|plane]]:'' [[Lamannia]]<br/>\n''Associated [[Month|Khorvaire calendar]]:'' 2nd\n\nTo the naked eye, the orange disk of Olarune seems to have a slight fringe that vaguely resembles the rim of a shield. The [[druid]]s say that those born when Olarune is ascendant have a strong bond to community and to order, and a natural desire to protect others; superstition holds that more [[paladin]]s are born in this month than any other. Scattered [[therianthrope]]s, especially weretigers, revere Olarune as a sort of demigoddess-protector. \n\nThe [[Moonspeakers]], the sect of [[shifter]] [[druid]]s of the [[Towering Wood]], believe Olarune was the goddess who freed the shifters from a time of chaos and terror, and taught them how to master the beast within. The entity who overcame this curse may have been a [[dragon]], an [[archfey]], or perhaps a manifestation of the [[primal magic]] of [[Eberron]] itself.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the Sentinel, ",
+        "title": "Olarune",
+        "tags": "moon",
+        "modified": "20220425060639708",
+        "color": "#432874",
         "category": "cosmology",
-        "color": "#432874"
+        "article": "the Sentinel, "
     }
 ]

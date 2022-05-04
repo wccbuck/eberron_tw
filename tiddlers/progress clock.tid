@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210401220254117
-modified: 20210810234148426
+modified: 20220502041538073
 tags: [[Taking Action]] Storyloom
 title: progress clock
 type: text/vnd.tiddlywiki
@@ -73,10 +73,12 @@ A progress clock is a way to track an ongoing effort against an obstacle or the 
 </svg>
 </div>
 
+The GM decides the size of the progress clock when they set up the obstacle. The number of segments is more a question of pacing than challenge; challenges that shouldn't take too much of the group's time might be four or six segments, while more moderate-length challenges can be eight or even twelve segments.
+
 By design, completing a progress clock requires multiple successful attempts. Obstacles that can be completed with a single action probably don't need progress clocks made for them; the GM should just ask for a roll and judge the outcome based on the result. (Such rolls can be considered 2-segment progress clocks if a visual aid is needed.)
 
 Clocks should be labeled in a way that describes the obstacle to be overcome, not the method used to overcome it. A clock indicating a tall fence should read "Tall Fence", not "Climb the Fence". Let the PCs decide how they approach an obstacle.
 
-Highly complex problems can have multiple or even "nested" progress clocks; completing one clock ("Embassy Security") might be necessary to advance to another clock ("Ambassador's Bodyguard").
+Highly complex problems can have multiple or even "nested" progress clocks; completing one clock ("Embassy Security") might be necessary to advance to another clock ("Ambassador's Bodyguard"). For more information, see [[Challenge Tiers]].
 
 !!! <$button class="tc-btn-invisible tc-tiddlylink"><$action-listops $tiddler="$:/alerts/ProgressClocks" $tags="$:/tags/Alert"/>Open Progress Clock Tool</$button>

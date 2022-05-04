@@ -1,7 +1,7 @@
 category: occupation
 color: #A3CFBB
 created: 20200417024142650
-modified: 20220109024855857
+modified: 20220503195249947
 title: wizard
 tooltip: scholar of magic, arcane spellcaster
 type: text/vnd.tiddlywiki
@@ -28,3 +28,7 @@ See also [[arcane order]].
 * the [[Atur Academy]]
 * [[University of Wynarn]]
 * the [[Passage Institute for the Arcane Arts]]
+
+!
+
+!!! <<showtalent-type>>

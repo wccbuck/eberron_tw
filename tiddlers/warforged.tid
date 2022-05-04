@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200415014832044
-modified: 20210727192041801
+modified: 20220503195723416
 tags: construct humanoid
 tier: 2
 title: warforged
@@ -101,3 +101,7 @@ A typical warforged is between two and thirty
 years old. The maximum warforged lifespan remains
 a mystery; so far, warforged have shown no signs of
 deterioration due to age. 
+
+!
+
+!!! <<showtalent-type>>

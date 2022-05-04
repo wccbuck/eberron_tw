@@ -1,11 +1,13 @@
 category: game mechanics
 created: 20210108075833385
-modified: 20220110035342947
+modified: 20220502034731819
 tags: Storyloom
 title: creature tier
 type: text/vnd.tiddlywiki
 
 A creature's tier is a general indicator of how powerful or dangerous an average specimen is in battle; individuals may rank higher or lower. As a rule of thumb, an individual of a given rank is an even match for three to five individuals of the rank below it. However, even a low-tier creature could have influence far beyond its combat abilities.
+
+Creature tier plays a role in the GM's determination of [[impact]] and [[risk]] for attempts to contend with that creature. See [[Challenge Tiers]] for more information.
 
 * ''Tier 1'' creatures include most "natural" creatures of [[Eberron]], including most [[humanoid]]s and [[beast]]s. (Roughly corresponds to D&D 5e's CR 0-½.)
 * ''Tier 2'' creatures are extremely dangerous threats to the average non-combatant. This category includes some of the mightiest natural and [[dire beast]]s of the world, including elephants, lions, orca whales, giant scorpions, and [[dinosaur]]s like the [[clawfoot]]. But this category also includes pure [[elemental]]s, [[troll]]s, [[intellect devourer]]s, and most [[ooze]]s. (CR 1-5.)

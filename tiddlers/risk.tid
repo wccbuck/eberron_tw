@@ -1,11 +1,13 @@
 category: game mechanics
 created: 20210401190251509
-modified: 20210811014239966
+modified: 20220502035216582
 tags: [[Taking Action]] Storyloom
 title: risk
 type: text/vnd.tiddlywiki
 
 The risk associated with an [[attempt|Taking Action]] determines how bad the [[consequence]]s are for a [[partial success]] or [[bad outcome]]. Risk does not play a part in the event of a [[full success]]. These consequences can include taking [[stress]] or losing [[momentum]]. Risk can be low, moderate (default), or high.
+
+GMs set the risk level of each attempt the player characters make, but PCs can reduce their risk by sacrificing [[impact]] or changing the context of the scene in their favor. See [[Challenge Tiers]] for more information.
 
 Take note that [[consequence]]s for an attempt should not negate the success. For example, consequences for [[boost]]ing (that is, increasing [[momentum]]) typically should not include losing momentum.
 

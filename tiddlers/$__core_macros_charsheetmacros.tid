@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20220213015207481
+modified: 20220502044041127
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -99,13 +99,13 @@ type: text/vnd.tiddlywiki
 \define cs-attr-act(field, fieldlabel)
 <div class="cs-column">
 <div class="cs-attr-act-label">$fieldlabel$</div>
-     </div>
-    <div class="cs-column" style="align-items:center;">
+</div>
+<div class="cs-column" style="align-items:center;">
 <$reveal type="nomatch" state="!!mode" text="edit">
-<p class="cs-attr-act">{{$:/$(currentTiddler)$/data!!$field$}}</p>
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="$field$" class="cs-check" disabled="yes"/>
 </$reveal>
 <$reveal type="match" state="!!mode" text="edit">
-<$edit-text tiddler="$:/$(currentTiddler)$/data" field="$field$" tag=input type="number" class="cs-a" size=2/>
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="$field$" class="cs-check"/>
 </$reveal>
      </div>
 \end

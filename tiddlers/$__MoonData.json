@@ -1,0 +1,62 @@
+{
+  "Zarantyr": {
+    "color": "f2f2f2",
+    "startphase": 10,
+    "period": 12
+  },
+  "Olarune": {
+    "color": "ffb980",
+    "startphase": 0,
+    "period": 16
+  },
+  "Therendor": {
+    "color": "97a2b1",
+    "startphase": 2,
+    "period": 20.3636363636
+  },
+  "Eyre": {
+    "color": "bac2cd",
+    "startphase": 12,
+    "period": 24
+  },
+  "Dravago": {
+    "color": "d2bfe9",
+    "startphase": 15,
+    "period": 28
+  },
+  "Nymm": {
+    "color": "fbe58d",
+    "startphase": 15,
+    "period": 32
+  },
+  "Lharvion": {
+    "color": "e5e5e5",
+    "startphase": 6,
+    "period": 30.54545454545
+  },
+  "Barrakas": {
+    "color": "c1c4bd",
+    "startphase": 5,
+    "period": 37.3333333333
+  },
+  "Rhaan": {
+    "color": "abcbff",
+    "startphase": 8,
+    "period": 42
+  },
+  "Sypheros": {
+    "color": "a5a18b",
+    "startphase": 26,
+    "period": 48
+  },
+  "Aryth": {
+    "color": "df907a",
+    "startphase": 4,
+    "period": 51.6923076923
+  },
+  "Vult": {
+    "color": "b5c4c8",
+    "startphase": 17,
+    "period": 56
+  }
+}
