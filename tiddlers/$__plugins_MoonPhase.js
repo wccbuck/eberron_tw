@@ -88,7 +88,7 @@ function getMoonDarkD(moondata, moonname, day){
       sweep2 = 0;
       p = 1-p;
     }
-    var radius = Math.min(Number.MAX_SAFE_INTEGER, 70*((p*p + 1)/(2*p)))
+    var radius = Math.min(10000, 70*((p*p + 1)/(2*p)))
     return `M 75 5
             A 70 70 0 0 ${sweep1} 75 145
             A ${radius} ${radius} 0 0 ${sweep2} 75 5`;

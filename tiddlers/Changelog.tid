@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.16.0
-modified: 20220504175235076
+currentversion: 1.16.1
+modified: 20220504195928011
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,12 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.16.1 <span style="font-weight:normal">(May 4, 2022)</span>
+
+* Fixed half-moon weirdness in [[lunar phases of Eberron]] in some browsers
+* Fixed a missing link in [[Age of Monsters]]
+* Clarified a few points in some [[Storyloom]] pages
 
 !!! 1.16.0 <span style="font-weight:normal">(May 4, 2022)</span>
 

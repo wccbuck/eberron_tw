@@ -1,10 +1,10 @@
 category: game mechanics
 created: 20210401211444151
-modified: 20211128081045317
+modified: 20220504192724484
 tags: [[Taking Action]] Storyloom
 title: push yourself
 type: text/vnd.tiddlywiki
 
-Before or after performing an [[attempt|Taking Action]], if you want to try to roll an additional die or increase your [[impact]] by 1, you may do so by spending 2 [[stress]]. This is called ''pushing yourself''. When you push yourself in this way, it is similar to spending [[momentum]] on an attempt, except it doesn't come from your pool of momentum, and isn't added to the pool either (so you can push yourself even if you have the maximum of three momentum in your pool).
+Before or after performing an [[attempt|Taking Action]], if you want to try to roll an additional die or increase your [[impact]] by 1, you may do so by spending 2 [[stress]]. This is called ''pushing yourself''. When you push yourself in this way, it is similar to spending [[momentum]] on an attempt, except it doesn't come from your pool of momentum, and isn't added to the pool either (so you can push yourself even if you have the maximum of five momentum in your pool).
 
 Some [[magic item]]s and [[talent]]s grant you an additional benefits when you push yourself under specific circumstances. This benefit could be a reduced "cost" (1 [[stress]] rather than 2), or some specific bonus on top of the +1d or +1 [[impact]].
