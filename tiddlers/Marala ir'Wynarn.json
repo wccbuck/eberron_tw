@@ -1,13 +1,13 @@
 [
     {
         "created": "20210402221056231",
-        "title": "Marala ir'Wynarn",
         "text": "Governor-princess of [[Aundair]] before ascending to be Queen of [[Galifar]], Marala ir'Wynarn devoted herself to strengthening the [[Arcane Congress]], but also to improving schools and universities across the united kingdom. Much of the common traditions of education in Galifar are the direct result of Marala's efforts, leading the people to call her the \"Hand of [[Aureon]]\". \n\nIn addition to her public works, Queen Marala took great pride in her personal library. She collected tomes from across [[Eberron]], and was known to possess rare texts and [[spellshard]]s from [[Aerenal]], [[Ohr Kaluun]], and even a massive codex written by a [[Cul'sir]] [[wizard]] of [[ancient|Age of Giants]] [[Xen'drik]]. The tales say that her library was hidden in an invisible tower. She died under mysterious circumstances, and her trove of texts wasn't accounted for in her will; it's quite possible that her extradimensional invisible tower is still out there in the ether, waiting to be found. ",
-        "modified": "20210727192020388",
-        "tags": "[[Wynarn family]] human Galifar humanoid",
         "type": "text/vnd.tiddlywiki",
-        "article": "Queen ",
+        "title": "Marala ir'Wynarn",
+        "tags": "Galifar [[Wynarn family]] deceased human humanoid",
+        "modified": "20220506024747142",
+        "color": "#FEA627",
         "category": "person",
-        "color": "#FEA627"
+        "article": "Queen "
     }
 ]

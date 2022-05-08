@@ -1,13 +1,13 @@
 [
     {
         "created": "20210326024627546",
-        "title": "Aundair Wynarn",
         "text": "Aundair Wynarn was the eldest daughter of King [[Galifar I|Galifar Wynarn]], and after the unification of the [[kingdom|Galifar]], was installed as governor-princess of \"Aundair's realm\" (which was quickly shortened to [[Aundair]]). She was one of the greatest [[wizard]]s in Galifar’s army, specializing in [[evocation]] and [[conjuration]]; she negotiated with [[celestial]]s and [[fiend]]s, and bought down her enemies with storm and fire. She was bold and often reckless, but off the battlefield was reportedly kind and gentle by nature.\n\nAundair was born only a minute before her twin, [[Cyre|Cyre Wynarn]].",
-        "modified": "20210727191956433",
-        "tags": "[[Wynarn family]] human humanoid Aundair wizard",
         "type": "text/vnd.tiddlywiki",
-        "article": "Princess ",
+        "title": "Aundair Wynarn",
+        "tags": "Aundair [[Wynarn family]] deceased human humanoid wizard",
+        "modified": "20220506015742228",
+        "color": "#FEA627",
         "category": "person",
-        "color": "#FEA627"
+        "article": "Princess "
     }
 ]

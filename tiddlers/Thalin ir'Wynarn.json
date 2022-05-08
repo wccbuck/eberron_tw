@@ -1,13 +1,13 @@
 [
     {
         "created": "20210208034730787",
-        "title": "Thalin ir'Wynarn",
         "text": "When King [[Jarot ir'Wynarn]], the last ruler of [[Galifar]], died in 894 YK, and the scions broke with tradition and entered the [[Last War]], Thalin of [[Thrane]] saw another\nopportunity to spread the [[Silver Flame]] to the entire kingdom. While the other scions had more personal or philosophical reasons for refusing to honor the traditional rights of succession, Thalin believed that he had a divine right to the crown. This tendency on the part of Thrane to place itself above the rest of the shattered kingdom led to some of the most terrible battles of the [[Last War]].\n\nIn 914 YK, with the death of King Thalin, [[Thrane]]’s\npeople rejected Thalin’s heir (Daslin)’s claim to the throne and\nturned to the Church of the [[Silver Flame]] for leadership.\nThrane became a theocracy under the rule of the [[Keeper of the Flame]], with a Wynarn \"blood regent\" serving merely as a symbolic advisor.",
-        "modified": "20210727192037012",
-        "tags": "[[Wynarn family]] human Thrane humanoid",
         "type": "text/vnd.tiddlywiki",
-        "article": "King ",
+        "title": "Thalin ir'Wynarn",
+        "tags": "Thrane [[Wynarn family]] deceased human humanoid",
+        "modified": "20220506030041135",
+        "color": "#FEA627",
         "category": "person",
-        "color": "#FEA627"
+        "article": "King "
     }
 ]

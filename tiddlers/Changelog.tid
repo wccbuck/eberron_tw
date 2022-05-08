@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.16.1
-modified: 20220504195928011
+currentversion: 1.16.2
+modified: 20220508034536824
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,15 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.16.2 <span style="font-weight:normal">(May 7, 2022)</span>
+
+* Clarified some language in the [[Towering Wood]] page
+* Added a little bit to [[lightning rail]] and [[Wynarn Institute of Art]]
+* Added some more content I missed from KB's blog post [[Arcane History|https://keith-baker.com/dm-arcane-history/]]
+** New pages: [[Raela Solaen]], [[Lyssia Lyrriman d'Sivis]], [[Duran]], [[Beren]], [[Heken Askarda]]
+* Added [[deceased]] tag for people/entities no longer extant. This tag enables the user to filter by individuals who are still around, not just a part of history
+* Removed d' from [[Mala Boromar Jorasco]] because she doesn't have a [[dragonmark]]
 
 !!! 1.16.1 <span style="font-weight:normal">(May 4, 2022)</span>
 

@@ -1,13 +1,13 @@
 [
     {
         "created": "20210307045738889",
-        "title": "Molou Lassite",
         "text": "Lord Molou [[Lassite|Lassite family]] was one of the five original [[Storm Lords]] of [[Stormreach]].\n\nAround 800 YK, Molou Lassite was one of the greatest\nsmugglers of [[Stormreach]]. He was also a master brewer,\nand the Lassites were beloved by the buccaneers and\nscoundrels of the region. Molou Lassite contributed little military force to the [[Storm Lords]], but he gained the invaluable good will of the common people, and many say that he bought the peace with [[kuryeva]].\n\n[[Molou's Distillery]] in the [[Marketplace]] bears his name.",
-        "modified": "20210727192021916",
-        "tags": "Stormreach humanoid [[Storm Lords]] [[Lassite family]] human",
         "type": "text/vnd.tiddlywiki",
-        "article": "Storm Lord ",
+        "title": "Molou Lassite",
+        "tags": "[[Lassite family]] [[Storm Lords]] Stormreach deceased human humanoid",
+        "modified": "20220506024951810",
+        "color": "#FEA627",
         "category": "person",
-        "color": "#FEA627"
+        "article": "Storm Lord "
     }
 ]

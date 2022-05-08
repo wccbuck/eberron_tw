@@ -1,13 +1,13 @@
 [
     {
         "created": "20210308183117149",
-        "title": "Kolis Sel Shadra",
         "text": "Kolis [[Sel Shadra|Sel Shadra family]] was a wily smuggler and one of the original five [[Storm Lords]] of [[Stormreach]]. He was the initial representative of the four pirate lords to [[Galifar]] before the [[Stormreach Compact|History of Stormreach]] was drafted. Lord Kolis was said to have a fleet of spectral ships. ",
-        "modified": "20210727192017281",
-        "tags": "Stormreach humanoid [[Storm Lords]] [[Sel Shadra family]] gnome",
         "type": "text/vnd.tiddlywiki",
-        "article": "Storm Lord ",
+        "title": "Kolis Sel Shadra",
+        "tags": "[[Sel Shadra family]] [[Storm Lords]] Stormreach deceased gnome humanoid",
+        "modified": "20220506023547298",
+        "color": "#FEA627",
         "category": "person",
-        "color": "#FEA627"
+        "article": "Storm Lord "
     }
 ]
