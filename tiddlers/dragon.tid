@@ -1,7 +1,7 @@
 category: creature
 color: #58151c
 created: 20200419053402840
-modified: 20220106004426362
+modified: 20220509162249118
 title: dragon
 tooltip: legendary winged serpentine creature with innate magical power
 type: text/vnd.tiddlywiki
@@ -49,12 +49,12 @@ Generate Random Dragon Name
 Dragons are magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities. The type of a dragon's breath weapon can be determined by the color of the dragon's scales; see the below tables. The dragon is also resistant or immune to that type of damage. Note that metallic dragons have two different kinds of magic breath they can use; one destructive, and one more subtle or utilitarian. Chromatic dragons only have destructive breath weapons, but it is typically more powerful than those of comparable metallic dragons.
 
 | !Chromatic |<|!<<dr d10>>| !Metallic |<|
-|!Color |!Breath ||!Color |!Breath |
-|[[Black|black dragon]] |Acid ||[[Brass|brass dragon]] |Fire, Sleep |
-|[[Blue|blue dragon]] |Lightning ||[[Bronze|bronze dragon]] |Lightning, Repulsion |
-|[[Green|green dragon]] |Poison ||[[Copper|copper dragon]] |Acid, Slowing |
-|[[Red|red dragon]] |Fire ||[[Gold|gold dragon]] |Fire, Weakening |
-|[[White|white dragon]] |Cold ||[[Silver|silver dragon]] |Cold, Paralyzing |
+|!Color |!Breath |!|!Color |!Breath |
+|[[Black|black dragon]] |Acid |!|[[Brass|brass dragon]] |Fire, Sleep |
+|[[Blue|blue dragon]] |Lightning |!|[[Bronze|bronze dragon]] |Lightning, Repulsion |
+|[[Green|green dragon]] |Poison |!|[[Copper|copper dragon]] |Acid, Slowing |
+|[[Red|red dragon]] |Fire |!|[[Gold|gold dragon]] |Fire, Weakening |
+|[[White|white dragon]] |Cold |!|[[Silver|silver dragon]] |Cold, Paralyzing |
 
 {{DragonAgeCategories}}
 
@@ -90,12 +90,14 @@ in the depths. The mighty [[overlord]]s, served by [[rakshasa]]s, [[aboleth]]s, 
 
 !! Psionics and Dragons
 
-For dragons, the path of [[psionics]] is a dangerous one. An innate connection to [[arcane magic]] flows in a dragon's blood, and for reasons not fully understood, psionic power often twists and debases this force. Among those dragons who explore the psionic mysteries, the fortunate suffer only disfigurement and ill health. Many develop debilitating insanity, then ultimately die. It's possible that the vicious [[Sarlona]]n [[aberration]]s known as [[essence reaver]]s are the result of failed attempts by ancient [[dragon]]s to command the power of [[psionics]].
+For the dragons of [[Eberron]], the path of [[psionics]] is a dangerous one. An innate connection to [[arcane magic]] flows in a dragon's blood, and for reasons not fully understood, psionic power often twists and debases this force. Among those dragons who explore the psionic mysteries, the fortunate suffer only disfigurement and ill health. Many develop debilitating insanity, then ultimately die. It's possible that the vicious [[Sarlona]]n [[aberration]]s known as [[essence reaver]]s are the result of failed attempts by ancient [[dragon]]s to command the power of [[psionics]].
+
+By contrast, the mysterious [[gem dragon]]s possess a powerful and innate psionic power. These creatures are not of this reality, and originate from the same previous incarnation of Eberron as the [[gith]].
 
 !! Draconic Creatures
 
-Some creatures share a common ancestry with true dragons, but are not true dragons themselves. Below are some examples.
+Some creatures share a common ancestry with true dragons, or perhaps are [[fey]] reflections of dragons, but are not true dragons themselves. Below are some examples.
 
-<<list-links-article "[tag{!!title}category[creature]!title[black dragon]!title[brass dragon]!title[blue dragon]!title[bronze dragon]!title[green dragon]!title[copper dragon]!title[red dragon]!title[gold dragon]!title[white dragon]!title[silver dragon]]">>
+<<list-links-article "[tag{!!title}category[creature]!title[black dragon]!title[brass dragon]!title[blue dragon]!title[bronze dragon]!title[green dragon]!title[copper dragon]!title[red dragon]!title[gold dragon]!title[white dragon]!title[silver dragon]!title[gem dragon]] -[[gem dragon]tagging[]] +[sort[title]]">>
 
 !!! <<showcreature-type>>

@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.16.2
-modified: 20220508034536824
+currentversion: 1.16.3
+modified: 20220509211933005
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,10 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.16.3 <span style="font-weight:normal">(May 9, 2022)</span>
+
+* Added [[gem dragon]]s, and their five varieties: [[amethyst dragon]], [[emerald dragon]], [[quartz dragon]] (renamed "crystal dragon"), [[sapphire dragon]], and [[topaz dragon]].
 
 !!! 1.16.2 <span style="font-weight:normal">(May 7, 2022)</span>
 
