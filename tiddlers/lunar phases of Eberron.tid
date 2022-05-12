@@ -1,0 +1,66 @@
+category: game mechanics
+created: 20220421234155472
+modified: 20220502183759258
+tags: 
+title: lunar phases of Eberron
+type: text/vnd.tiddlywiki
+
+Use this tool to see the phases of each of [[Eberron]]'s twelve [[moon]]s. Note that the cycles repeat every two years, so while the only two year options are 998 and 999 YK, those years will also work for any even-numbered or odd-numbered year.
+
+Inspired by /u/abexy's [[homebrewed calendar of Eberron's moons|https://www.reddit.com/r/Eberron/comments/u8zc5k/homebrewed_calendar_of_eberrons_moons_revised_and/]].
+
+!
+
+''Month:'' <$select tiddler="$:/MoonPhaseDay" field="month" default="1">
+  <$list filter="[range[12]]" variable="month">
+    <option value=<<month>>><$transclude tiddler="$:/MonthNames" index=<<month>>/> 
+    </option>
+  </$list>
+</$select>&nbsp;&nbsp;''Day:'' <$select tiddler="$:/MoonPhaseDay" field="day" default="1">
+  <$list filter="[range[28]]" variable="day">
+    <option><<day>></option>
+  </$list>
+</$select>&nbsp;&nbsp;''Year:'' <$select tiddler="$:/MoonPhaseDay" field="year" default="998">
+  <$list filter="998 999" variable="year">
+    <option><<year>></option>
+  </$list>
+</$select>&nbsp;&nbsp;<$button>
+<$list filter="[[$:/MoonPhaseDay]get[day]compare:number:lt[28]]">
+<$set name="newday" value={{{ [[$:/MoonPhaseDay]get[day]add[1]] }}}>
+<$action-setfield $tiddler="$:/MoonPhaseDay" day=<<newday>>/>
+</$set>
+</$list>
+<$list filter="[[$:/MoonPhaseDay]get[day]compare:number:gt[27]]">
+<$list filter="[[$:/MoonPhaseDay]get[month]compare:number:lt[12]]">
+<$set name="newmonth" value={{{ [[$:/MoonPhaseDay]get[month]add[1]] }}}>
+<$action-setfield $tiddler="$:/MoonPhaseDay" day="1"/>
+<$action-setfield $tiddler="$:/MoonPhaseDay" month=<<newmonth>>/>
+</$set>
+</$list>
+</$list>
+<$list filter="[[$:/MoonPhaseDay]get[day]compare:number:gt[27]]">
+<$list filter="[[$:/MoonPhaseDay]get[month]compare:number:gt[11]]">
+<$list filter="[[$:/MoonPhaseDay]get[year]compare:number:eq[998]]">
+<$action-setfield $tiddler="$:/MoonPhaseDay" day="1"/>
+<$action-setfield $tiddler="$:/MoonPhaseDay" month="1"/>
+<$action-setfield $tiddler="$:/MoonPhaseDay" year="999"/>
+</$list>
+</$list>
+</$list>
+Next Day
+</$button>
+
+<$set name="yearadjust" value={{{ [[$:/MoonPhaseDay]get[year]subtract[998]multiply[336]] }}}>
+<$set name="day" value={{{ [[$:/MoonPhaseDay]get[month]subtract[1]multiply[28]add{$:/MoonPhaseDay!!day}subtract[1]add<yearadjust>] }}}>
+<div width="100%">
+<$list filter="[range[12]]">
+<$set name="moon" filter="[[$:/MonthNames]getindex<currentTiddler>]">
+<div style="width:150px;float: left;text-align:center;">
+<h3><$link to=<<moon>>/></h3>
+<$moonphase moon=<<moon>> day=<<day>>/>
+</div>
+</$set>
+</$list>
+</div>
+</$set>
+</$set>

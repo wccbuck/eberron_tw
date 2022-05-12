@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20201216201008656
-modified: 20211202182841328
+modified: 20220503195107932
 tags: humanoid
 tier: 2
 title: aasimar
@@ -259,3 +259,7 @@ will urge you to exemplify its domain—if it's the Angel of
 Swords, it will want you to master the sword! It also observes
 the world through your eyes, and it might send you to observe
 events or take actions tied to its domain.
+
+!
+
+!!! <<showtalent-type>>

@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.15.3
-modified: 20220412183319001
+currentversion: 1.16.3
+modified: 20220509211933005
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,55 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.16.3 <span style="font-weight:normal">(May 9, 2022)</span>
+
+* Added [[gem dragon]]s, and their five varieties: [[amethyst dragon]], [[emerald dragon]], [[quartz dragon]] (renamed "crystal dragon"), [[sapphire dragon]], and [[topaz dragon]].
+
+!!! 1.16.2 <span style="font-weight:normal">(May 7, 2022)</span>
+
+* Clarified some language in the [[Towering Wood]] page
+* Added a little bit to [[lightning rail]] and [[Wynarn Institute of Art]]
+* Added some more content I missed from KB's blog post [[Arcane History|https://keith-baker.com/dm-arcane-history/]]
+** New pages: [[Raela Solaen]], [[Lyssia Lyrriman d'Sivis]], [[Duran]], [[Beren]], [[Heken Askarda]]
+* Added [[deceased]] tag for people/entities no longer extant. This tag enables the user to filter by individuals who are still around, not just a part of history
+* Removed d' from [[Mala Boromar Jorasco]] because she doesn't have a [[dragonmark]]
+
+!!! 1.16.1 <span style="font-weight:normal">(May 4, 2022)</span>
+
+* Fixed half-moon weirdness in [[lunar phases of Eberron]] in some browsers
+* Fixed a missing link in [[Age of Monsters]]
+* Clarified a few points in some [[Storyloom]] pages
+
+!!! 1.16.0 <span style="font-weight:normal">(May 4, 2022)</span>
+
+* TW tools and features:
+** Added [[lunar phases of Eberron]].
+** Added the "List of tiddlers not in master copy" section to the [[Eberron TW Updater]] in order to show pages that were renamed or intentionally deleted in the master copy. This should help users stay up-to-date.
+** Added [[profession]] tag for certain [[talent]]s.
+** Added macro for "Find talents tagged with [title]".
+* [[Storyloom]] rules and mechanics:
+** Changed rules for [[Actions and Attributes]]. Now, instead of having a score for each of your [[action]]s and [[attribute]]s, you just have a check box: proficient, or not. Your dice pool always starts with 1, and then you add 1 more die if you are proficient with the action and/or attribute you've chosen, up to a total of 3 (before we bring in bonuses for [[talent]]s, [[momentum]], etc).
+** Added rules for [[Challenge Tiers]]. These include clarifications for setting [[impact]] and [[risk]].
+** Added another [[talent]] that's vital for long-term character advancement in light of the change to actions and attributes: [[Action/Attribute Mastery]].
+** Changed [[momentum]] rules. Each player now has their own pool of momentum, rather than having one shared pool. That rule never really made sense.
+* Lore changes/additions based on recent KB writings on the [[Eldeen Reaches]]:
+** Added a bunch of new content to the [[Towering Wood]] page.
+** Added to [[Wild Heart]], [[centaur]], and [[awaken]] pages.
+** New pages: [[guardian tree]], [[Gywahar]], [[gaa'avassh]], [[dire rat]], [[horrid ape]], [[horrid rat]], [[horrid beast]], [[Crossroads]], [[Oalian's Voice]], [[Bloodhounds]]
+** Removed //Grove of Guardian Trees//
+** Moved [[Oalian]]'s awakening date 1000 years earlier, since the [[guardian tree]]s were made as a living seal of [[Avassh]], which would have needed to have been made at the end of the [[daelkyr]] incursion during the [[Age of Monsters]]. Also changed Oalian's pronouns to they/them as per recent KB writings
+** Switched the [[manifest zone]] of the [[Gloaming]] back to [[Mabar]] (reverting my previous change to the [[Rot]]), since throughout canon and "kanon" the region is said to contain [[undead]] and the [[Children of Winter]] are said to be working to contain the region's influence.
+** Reduced [[Greenheart]]'s population (6500 -> 5500)
+* Misc lore changes/additions:
+** Added a bit to the [[Keeper]]
+** Added population demographics to more nations as specified in the ECS, though I bumped up the [[Eldeen Reaches]]' [[elf]] population a little bit (3% -> 5%) and the [[Shadow Marches]]' [[half-orc]] population (7% -> 15%)
+** Reduced [[Darguun]]'s population by half, and reduced [[Droaam]]'s and [[Talenta Plains]]' by a little bit
+** Edited [[Silver Flame]] and [[Pure Flame]] pages to indicate the term "Purified" is used only by Pure Flame adherents to describe the faithful, not Silver Flame followers as a whole
+** Added abbreviated timelines from ECS to [[Age of Giants]] and [[Age of Monsters]]
+** Added small pages for [[Tyman Three-Cloaks]] and [[Vilina the Unseen]], two pre-[[Galifar]] [[warlock]]s of [[Thaliost]]
+** Added [[balewolf]] creature
+** Added a bit to [[speak with dead]]
 
 !!! 1.15.3 <span style="font-weight:normal">(Apr 12, 2022)</span>
 
@@ -25,7 +74,7 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 ** Changed linguistic roots of [[Azhani]]
 ** More changes to come.
 * Added a bit to [[Lurker in Shadow]] and [[aboleth]]
-* Added some demographics to the four big [[Khorvaire]] nations. Didn't do the others mentioned in the ECS because I don't agree with some of them; like [[Darguun]] shouldn't have only 6% humans. 
+* Added some demographics to the four big [[Khorvaire]] nations. Didn't do the others mentioned in the ECS because I don't agree with some of them; like [[Darguun]] shouldn't have only 6% humans. (EDIT: I take it back, there are good reasons for this)
 * Added [[kleynam]] ("small town"), [[Asta Vanalan]], [[Sorallandan]], [[Ghallanda Scouts]].
 
 !!! 1.15.1 <span style="font-weight:normal">(Apr 1, 2022)</span>
@@ -107,6 +156,20 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 * Fixed some population/tag inconsistencies on towns that had more than 5000 residents. Some towns got upgraded to cities, others had their populations reduced.
 * Drop-down for adding tags now only shows tags for that tiddler's category, instead of all tags for the entire document. The drop-down now loads much faster as a result.
 
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
+
+
 !!! 1.13.7 <span style="font-weight:normal">(Feb 15, 2022)</span>
 
 * Added a bit of content I forgot to finish adding from KB's [[Ghost Stories article|https://keith-baker.com/ghost-stories/]]. Added to several pages related to undead, but also created the following new ones:
@@ -175,19 +238,6 @@ Lots of small changes that added up to a big change. The TW Updater addition in 
 * Added the five ranks of [[modron]]s
 * Added heraldic emblems to each [[dragonmarked house]]
 * Removed the "d'" prefix from [[Uskal Orien]]'s name since he doesn't have a [[dragonmark]]
-
-!
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
-</$button>
 
 !!! 1.12.9 <span style="font-weight:normal">(Jan 25, 2022)</span>
 

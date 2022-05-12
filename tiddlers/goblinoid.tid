@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200415001347201
-modified: 20210810161751028
+modified: 20220503195701113
 tags: humanoid
 title: goblinoid
 tooltip: goblins, hobgoblins, bugbears
@@ -96,3 +96,7 @@ Rekseen, Senen, Shedroor, Tajiin, Tuneer, Valii, Wuun
 !! Exotic Goblinoid Subraces
 
 <<list-links-article "[tag{!!title}!title[goblin]!title[hobgoblin]!title[bugbear]category[creature]sort[title]]">>
+
+!
+
+!!! <<showtalent-type>>

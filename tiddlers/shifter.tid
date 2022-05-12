@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200420185105830
-modified: 20220224214230721
+modified: 20220425055503524
 tags: humanoid
 tier: 1
 title: shifter
@@ -13,9 +13,7 @@ var: common
 <div align="right">—Don Bassingthwaite, //The Binding Stone//</div>
 
 
-Shifters are sometimes called the weretouched, as
-many believe they are the descendants of [[human]]s and [[werecreature|therianthrope]]s. Whatever their origins, shifters have evolved into a unique race. They are [[humanoid]]s with a bestial aspect; while they can't fully change shape, they
-can temporarily enhance their animalistic features—a
+Shifters are sometimes called the weretouched, as many believe they are the descendants of [[human]]s and [[werecreature|therianthrope]]s. Others believe they emerged from amongst the [[orc]]s of the [[Towering Wood]]. Whatever their origins, shifters have evolved into a unique race. They are [[humanoid]]s with a bestial aspect; while they can't fully change shape, they can temporarily enhance their animalistic features—a
 state they call shifting. Each shifter walks on the knife's
 edge between the wilds and the world around them.
 Do they embrace their primal instincts or the path of
@@ -49,7 +47,7 @@ While the beast within certainly has a physical impact on a shifter, it has a sp
 
 Shifters are quick to mature both physically and emotionally, reaching young adulthood at age 10. They rarely live to be more than 70 years old. 
 
-Shifters are similar to [[human]]s in height and build but are typically more lithe and flexible. Their facial features have a bestial cast, often with large eyes, flat noses, and pointed ears; most shifters also have prominent canine teeth. They grow fur-like hair on nearly every part of their bodies.
+Shifters are similar to [[human]]s or [[orc]]s in height and build but are typically more lithe and flexible. Their facial features have a bestial cast, often with large eyes, flat noses, and pointed ears; most shifters also have prominent canine teeth. They grow fur-like hair on nearly every part of their bodies.
 
 The traits of the beast within affect a shifter's appearance as well. A [[swiftstride]] shifter may have catlike eyes and delicate build, while a [[beasthide]] shifter might be a massive brute built like a bear. While a shifter's appearance might remind an onlooker of an animal, they remain clearly identifiable as shifters even when at their most feral. 
 
@@ -88,12 +86,7 @@ but most of the panthers prefer their isolation and consider the
 
 !! Shifters of Sarlona
 
-As the secrets of [[Sarlona]] have revealed themselves to
-the [[Khorvarian|Khorvaire]] scholars over the last few years, one of
-the most startling revelations was the discovery of a
-vast shifter population in northern [[Tashana|Tashana Tundra]]. It has
-become apparent that, like [[human]]s and [[ogre]]s, the
-shifter race may have actually originated in Sarlona.
+As the secrets of [[Sarlona]] have revealed themselves to the [[Khorvarian|Khorvaire]] scholars over the last few years, one of the most startling revelations was the discovery of a vast shifter population in northern [[Tashana|Tashana Tundra]]. Shifters were thought to have originated in the [[Towering Wood]] in [[Khorvaire]] around 3000 years ago. These peoples may have sailed from the [[Eldeen Reaches]] across the [[Barren Sea]], or passed through a [[demiplane]], to arrive in Sarlona in the distant and forgotten past. It also is possible that, like [[human]]s and [[ogre]]s, the shifter race may have actually originated in Sarlona. 
 
 The [[three Tashana shifter groups|Culture of the Tashana shifters]], each consisting of hundreds if not thousands of individual, semi-nomadic tribes, are not nations in the typical sense. Rather, they are people bound together by common tradition and loose territorial
 boundaries. 

@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210808200737146
-modified: 20211213230624865
+modified: 20220504193258194
 tags: Storyloom
 title: Missions and Downtime
 type: text/vnd.tiddlywiki
@@ -14,6 +14,8 @@ A mission could be a quest to slay a troll, an operation to uncover a mystery, a
 The player characters might set up a mission by choosing from their own list of goals, by approaching a potential client and asking for work, by being contacted by an NPC (non-player character, controlled by the GM) who needs help accomplishing a task, or just by reacting to a dramatic situation that lands in their lap.
 
 When preparing for a mission, players should take a look at the Items section of their [[character sheet|character sheet template]] and mark the checkboxes indicating which of their items they will have on their person for the mission. If they need something they left behind, and if you're playing with the optional "declare a story detail" rule, they can check the "equipped" box retroactively at the cost of a [[story point]]. 
+
+Speaking of which: each character gains two [[story point]]s at the start of a mission, if they don't already have two.
 
 Typically, all involved characters gain an [[experience point]] after they have completed their mission.
 

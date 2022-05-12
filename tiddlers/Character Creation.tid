@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210802005840339
-modified: 20220206180434965
+modified: 20220504173809907
 tags: Storyloom
 title: Character Creation
 type: text/vnd.tiddlywiki
@@ -13,7 +13,7 @@ Alternatively, you can just use pencil and paper for everything!
 
 * Name your character.
 * Fill out at least three of your five [[aspect]]s, including your Description. If you're looking for some inspiration for unique [[Eberron]]-specific aspects, see [[character secret]].
-* Distribute the following scores across any of your [[actions and attributes|Actions and Attributes]]:<br/> 2, 1, 1, 1, 1.
+* Choose three [[actions or attributes|Actions and Attributes]] and click their checkbox to gain proficiency. Using an action or attribute you are proficient in grants you an additional die in your dice pool when [[making attempts|Taking Action]].
 * Choose [[talent]]s with costs that add up to 3 [[experience point]]s. If you take [[Spellcaster]] or something similar, add any [[spell]]s you gain access to. Also take note of any prerequisites the talents may require.
 * Choose two [[language]]s your character knows (typically [[Common]] and one other).
 * Add any items you want to start with (subject to GM approval). Examples: [[thieves' tools]], [[herbalism kit]], or [[explorer's pack]].

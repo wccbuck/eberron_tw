@@ -1,6 +1,6 @@
 category: talent
 created: 20210809025058540
-modified: 20220301193444086
+modified: 20220502050245153
 tags: [[rune knight]]
 title: Rune Knight (talent)
 type: text/vnd.tiddlywiki
@@ -28,7 +28,7 @@ This rune's magic channels the masterful craftsmanship of great smiths of the [[
 
 This rune's magic evokes the might of those who survive in the wintry wilderness, such as [[frost giant]]s. While wearing or carrying an object inscribed with this rune, you can invoke it to do one of the following:
 
-* Gain an additional temporary special [[stress]] box you can use when [[pushing yourself|push yourself]] on an action involving [[Vigor|attribute]]. 
+* Gain an additional temporary special [[stress]] box you can use when [[pushing yourself|push yourself]] on an attempt involving [[Vigor|attribute]]. 
 * Gain [[advantage]] on attempts to withstand extreme weather or handle animals.
 
 The effects of either of these benefits persist for up to one minute.

@@ -1,13 +1,13 @@
 [
     {
         "created": "20200420183158114",
-        "title": "Khandan Dol",
-        "text": "Captain Khandan \"the Hammer\" Dol is a male [[dwarf]] who leads the [[Redcloak Battalion]]. Khandan is a local legend who served in the [[Brelish|Breland]] army throughout the [[Last War]]; he was knighted by the last king of [[Galifar]] and swore an oath to the [[first queen of Breland|Wroann ir'Wynarn]]. He enjoys drinking and gambling. He takes discipline seriously, though, and expects his soldiers to show complete loyalty to their country and its king. Because of his experiences in the war, he has a deep dislike for [[Thrane]]s and followers of the [[Silver Flame]], but he rarely lets\nthese feelings interfere with his duties. \n\nKhandan’s lieutenants are [[Meira]] and [[Molin Kaine]].",
-        "modified": "20210727192016833",
-        "tags": "dwarf [[Redcloak Battalion]] humanoid Sharn",
+        "text": "Captain Khandan \"the Hammer\" Dol is a [[dwarf]] man who leads the [[Redcloak Battalion]]. Khandan is a local legend who served in the [[Brelish|Breland]] army throughout the [[Last War]]; he was knighted by the last king of [[Galifar]] and swore an oath to the [[first queen of Breland|Wroann ir'Wynarn]]. He enjoys drinking and gambling. He takes discipline seriously, though, and expects his soldiers to show complete loyalty to their country and its king. Because of his experiences in the war, he has a deep dislike for [[Thrane]]s and followers of the [[Silver Flame]], but he rarely lets\nthese feelings interfere with his duties. \n\nKhandan’s lieutenants are [[Meira]] and [[Molin Kaine]].",
         "type": "text/vnd.tiddlywiki",
-        "article": "Captain ",
+        "title": "Khandan Dol",
+        "tags": "dwarf [[Redcloak Battalion]] humanoid Sharn",
+        "modified": "20220506023424581",
+        "color": "#FEA627",
         "category": "person",
-        "color": "#FEA627"
+        "article": "Captain "
     }
 ]

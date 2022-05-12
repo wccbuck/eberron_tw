@@ -1,13 +1,13 @@
 [
     {
         "created": "20210219043352543",
-        "title": "Karrn Wynarn",
         "text": "Karrn Wynarn was the eldest son of King [[Galifar I|Galifar Wynarn]] and would have become the second ruler of the kingdom of [[Galifar]] had he outlived his father. He was named after his ancestor, [[Karrn the Conqueror]]. \n\nPrince Karrn led the military campaign to subjugate the [[Mror Holds]], a period of time the [[dwarves|dwarf]] refer to as the [[Great Sorrow|Mror History]].\n\nKarrn, acting as governor-prince of the province of [[Karrnath]], also dedicated the facility that would eventually become the [[Rekkenmark Academy]]. ",
-        "modified": "20210727192016144",
-        "tags": "Galifar [[Wynarn family]] human humanoid",
         "type": "text/vnd.tiddlywiki",
-        "article": "Prince ",
+        "title": "Karrn Wynarn",
+        "tags": "Galifar [[Wynarn family]] deceased human humanoid",
+        "modified": "20220506023011015",
+        "color": "#FEA627",
         "category": "person",
-        "color": "#FEA627"
+        "article": "Prince "
     }
 ]

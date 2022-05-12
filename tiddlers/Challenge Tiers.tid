@@ -1,0 +1,20 @@
+category: game mechanics
+created: 20220502034136035
+modified: 20220502042245139
+tags: Storyloom
+title: Challenge Tiers
+type: text/vnd.tiddlywiki
+
+When [[Storyloom]] players [[take action|Taking Action]] to face a challenge, the GM decides the [[impact]] and [[risk]] associated with that challenge. They do this by assessing multiple factors, such as the quality or magnitude of the challenge relative to the player characters' capabilities, the scale of the attempt (e.g. number of opponents, size of an area covered, etc), or particular weaknesses or shortcuts the player characters choose to exploit. A challenge that is well within the player characters' capabilities is typically placed at "moderate" [[impact]] and "moderate" [[risk]]. Then, the GM adjusts these up or down based on the context of the scene.
+
+What happens when the characters face a challenge so tough that their effective [[impact]] becomes zero? Let's say they are outnumbered four-to-one by guards as they try to escape a fortress, or they are facing an enemy with a high [[creature tier]], or they are trying to get past a magical barrier made by a very powerful wizard. Well, they could try to gain and spend [[momentum]], but that's not much of an option if their [[boost]] actions also grant zero impact. They could increase their [[risk]] and take more desperate actions for higher impact, or they could [[push themselves|push yourself]], but these only go so far, and [[stress]] is a limited resource. In this situation, the challenge is considered to be in a higher ''challenge tier''.
+
+When facing a higher-tier challenge, the player characters can create an opportunity to overcome it if they first overcome a smaller, more manageable challenge that gets them on the same level. Let's consider each of the three example cases mentioned in the paragraph above.
+
+* The player characters are attempting to escape a fortress that's swarming with guards. If they can make a distraction—say, blow up a storeroom of blasting powder—that might give them the opening they need.
+* The characters are fighting a powerful creature they simply cannot hope to defeat. They might choose to lure the creature into an area more favorable to them, or even retreat and research the creature's weaknesses in an ancient library.
+* The characters must overcome a magical barrier, but the wizard who created the barrier was a master of [[abjuration]]. The characters might attempt to research the wizard's magical style and find a weak point, or even assemble an alchemical siege engine that can brute force its way through.
+
+In each one of these cases, the GM will create a new challenge with a [[progress clock]] that the player characters can attempt to [[overcome]]. Once that progress clock is complete, the characters can now be considered at one higher "tier" than they were before for dealing with the original challenge.
+
+As a rule of thumb, one challenge tier is approximately three to five times more difficult than the tier below it. This is the same rule of thumb used to differentiate [[creature tier]]s, and that's by design. An ordinary soldier facing off against an angry wolf (creature tier 1) might consider that a "moderate" challenge (moderate [[impact]] and [[risk]] for most actions). But if they are facing off against four angry wolves, or against a massive [[dire wolf]], they are going to need to even the odds if they hope to make it out alive.

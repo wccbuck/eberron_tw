@@ -1,22 +1,16 @@
 category: game mechanics
 created: 20210401231524919
-modified: 20211228190036889
+modified: 20220504173837713
 tags: Storyloom
 title: Actions and Attributes
 type: text/vnd.tiddlywiki
 
-Actions and attributes are the basis for all attempts your character performs. They tell you the number of dice you pick up and roll when it's time to take action. They help you answer the question, "What do you do, and what do you use to do it?" When making an attempt, take the relevant [[action]] score, add it to the relevant [[attribute]] score, and roll that many six-sided dice.
+Actions and attributes are the basis for all [[attempts|Taking Action]] your character performs. They tell you the number of dice you pick up and roll when it's time to take action. They help you answer the question, "What do you do, and what do you use to do it?" 
 
-The five [[action]]s are verbs: ''Fight, Move, Operate, Study,'' and ''Sway''. They indicate //what you do.// 
+When making an attempt, choose a relevant [[action]] and [[attribute]]. Add one six-sided die to your dice pool.
 
-The five [[attribute]]s are nouns: ''Focus, Guile, Heart, Intellect,'' and ''Vigor''. They indicate //what you use// when solving problems.
+The five [[action]]s are verbs: ''Fight, Move, Operate, Study,'' and ''Sway''. They indicate //what you do.// If you are //proficient// in your chosen action, add one more die to your dice pool.
 
-At [[character creation|Character Creation]], distribute the following scores across any of your actions and attributes: 2, 1, 1, 1, 1. An example distribution might look like this:
+The five [[attribute]]s are nouns: ''Focus, Guile, Heart, Intellect,'' and ''Vigor''. They indicate //what you use// when solving problems. If you are //proficient// in your chosen attribute, add one more die to your dice pool.
 
-|!Fight | 1 ||!Focus | 1 |
-|!Move | ||!Guile | 2 |
-|!Operate | 1 ||!Heart | |
-|!Study | ||!Intellect | |
-|!Sway | 1 ||!Vigor | |
-
-As your character advances over time, you can add more points to your actions and attributes. See [[experience point]].
+At [[character creation|Character Creation]], choose any three of your ten actions and attributes to become proficient at them. As your character advances over time, you can gain proficiency in other actions or attributes; see [[experience point]].

@@ -1,7 +1,7 @@
 category: occupation
 color: #A3CFBB
 created: 20200417045439019
-modified: 20210801015236629
+modified: 20220503195237936
 title: warlock
 tooltip: spellcaster who gains power through a pact with a supernatural entity
 type: text/vnd.tiddlywiki
@@ -64,3 +64,7 @@ start a conversation.
 | 6 |To receive messages from your patron, you have to drink a special—and highly alcoholic—potion. |
 | 7 |You find messages from your patron scrawled on walls and embedded in graffiti. |
 | 8 |Your patron possesses random strangers for brief periods of time. |
+
+!
+
+!!! <<showtalent-type>>

@@ -1,13 +1,13 @@
 [
     {
         "created": "20210312012420425",
-        "title": "Skin Shucker",
         "text": "Supposedly murdering indigents and visitors who are unlikely to be missed, the\nSkin Shucker shucks off a victim’s entire suit of flesh\nusing barbed tentacles, which he keeps concealed in his\nopen chest cavity. He collects the skins and wears them\nat night. They say he lives somewhere near fly-infested\nslaughterhouses in [[Forgelight]].",
-        "modified": "20210727192032412",
-        "tags": "aberration Forgelight",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Skin Shucker",
+        "tags": "aberration Forgelight Stormreach",
+        "modified": "20220506032227967",
+        "color": "#8C4606",
         "category": "entity",
-        "color": "#8C4606"
+        "article": "the "
     }
 ]

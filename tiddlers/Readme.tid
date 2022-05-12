@@ -1,6 +1,6 @@
 created: 20210715234357438
 creator: ziphion
-modified: 20220202210306658
+modified: 20220502053734735
 modifier: ziphion
 tags: 
 title: Readme
@@ -25,7 +25,7 @@ Keep in mind that much of this material has been altered, in small or large ways
 * In some cases, I renamed places that had the same name (e.g. the "Graywall" district of [[Sharn]] has been renamed "[[Grawand]]" (from "grau wand"="gray wall" in German) to avoid confusion with not-so-distant [[Graywall]]); in other cases, I kept the names as written (e.g. the [[Cornerstone]] district of [[Sharn]] and [[Cornerstone (Kythri city)]] have little to no overlap). 
 * I have also renamed characters whose very-similar-sounding names would lead to confusion. In [[Sharn]], [[Caskar Halavik]] is a city councilor friendly to [[Boromar Clan]]; "Cask" is the Boromar Clan's chief alchemist, and "Castar" is the Boromar Clan's intelligence expert. If one is running a campaign heavily featuring the Boromars, these names are just too similar. I have renamed Cask "[[Mig]]" and Castar "[[Korbis Kan Nezzelech]]".
 * I have rewritten large chunks of older material pertaining to the [[Blood of Vol]], the [[Emerald Claw]], and [[Lady Illmarrow]] to align with more recent writings on these topics.
-* Almost all listed city populations are, in my mind, far too small. I have multiplied most populations by 5 or more.
+* Almost all listed city populations are, in my mind, far too small. In many ways, the world of Eberron reflects a level of civilization and (magical) technology akin to the 19th century in our world, and I believe city populations should reflect that. I have multiplied most populations by 5 or more.
 
 This document is a mostly complete database of all things Eberron, and I still periodically add to it. However, please note that I have deliberately omitted certain content which I feel to be antithetical to the core concept of the setting as laid out by [[Keith Baker|http://keith-baker.com]]. Among the excluded content are large swaths of the books //Five Nations//, //Forge of War//, //Explorer's Handbook//, //Faiths of Eberron//, and other core canon Eberron materials.
 
@@ -45,11 +45,12 @@ Feel free to save a snapshot of this site ({{$:/core/ui/Buttons/save-wiki}}) at 
 
 And check out the github: [[https://github.com/wccbuck/eberron_tw/]]
 
-!! Featured Random Generators
+!! Featured Tools
 
-I've made quite a few random generators for this tool. Here are a few of my favorites:
+I've made quite a few tools and random generators for this tool. Here are a few of my favorites:
 
 * [[NPC appearance and personality generator]]
+* [[lunar phases of Eberron]]
 * [[trinket]]
 * [[point-and-hope gauntlets]]
 * [[bag of surprises]]

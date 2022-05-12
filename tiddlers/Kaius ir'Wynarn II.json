@@ -1,13 +1,13 @@
 [
     {
         "created": "20210326025839245",
-        "title": "Kaius ir'Wynarn II",
         "text": "Kaius ir'Wynarn II ascended to the throne of [[Karrnath]] after the mysterious death of his father, [[Kaius I|Kaius ir'Wynarn I]], in 910 YK. He ruled until his death in 960 YK; his successor was his son Jaron.",
-        "modified": "20210727192015879",
-        "tags": "[[Wynarn family]] human humanoid Karrnath",
         "type": "text/vnd.tiddlywiki",
-        "article": "King ",
+        "title": "Kaius ir'Wynarn II",
+        "tags": "Karrnath [[Wynarn family]] deceased human humanoid",
+        "modified": "20220506022906430",
+        "color": "#FEA627",
         "category": "person",
-        "color": "#FEA627"
+        "article": "King "
     }
 ]

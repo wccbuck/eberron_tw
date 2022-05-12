@@ -2,7 +2,7 @@ category: occupation
 color: #A3CFBB
 created: 20200415032443020
 list-before: 
-modified: 20210727191956044
+modified: 20220503195426519
 title: artificer
 type: text/vnd.tiddlywiki
 
@@ -34,3 +34,5 @@ next great discovery in arcane research.
 !
 
 !!! <<showorg-type>>
+
+!!! <<showtalent-type>>

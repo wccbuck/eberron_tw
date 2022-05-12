@@ -1,12 +1,18 @@
 category: spell
 color: #B7A1E0
 created: 20200429033620167
-modified: 20210731215547392
+modified: 20220503212842070
 tags: [[primal magic]]
 tier: 3
 title: awaken
 type: text/vnd.tiddlywiki
 
-Casting this spell (which takes at least eight hours of concentration) on a [[beast]] or plant grants the target magical intelligence and sapience. The target also gains the ability to speak one [[language]] you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth (as a [[plant creature]]), and it gains senses similar to a human's. 
+Casting this spell (which takes at least eight hours of concentration and ritual components that cost up to [[100c|money]]) on a [[beast]] or plant grants the target magical intelligence and sapience. The target also gains the ability to speak one [[language]] you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth (as a [[plant creature]]), and it gains senses similar to a human's. 
 
-The awakened beast or plant is [[charm]]ed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.
+The awakened beast or plant is friendly to you for 30 days or until you or your companions do anything harmful to it. When this "charmed" condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was under your spell.
+
+!! Awakened Creatures in the Eldeen Reaches
+
+The //awaken// spell shapes a sentience from the collective anima of the world and fuses that with the subject, creating a unique intelligent entity. The awakened creature can access the memories of their life before awakening, but they are a new and unique entity, and each awakened creature has a direct connection to a powerful spellcaster. [[Druid|druid]]s and [[bard]]s who can cast awaken are rare, and the spell also has a significant casting cost; it’s not something that is ever done trivially.
+
+That said, awakened animals and plants are found in many communities of the [[Eldeen Reaches]], and are treated like any other sapient creature. Some examples include [[Oalian's Voice]] and the [[Bloodhounds]], but it is always possible to find awakened creatures in [[druid]]ic sects or even living out their lives in the world. While each such creature was awakened for a specific purpose by a specific spellcaster, they are free to choose their own path. So when you go to an Eldeen tavern, you might meet a crow who used to work for [[Oalian's Voice]], but who currently just does stand-up three nights a week and enjoys local gossip, or a former [[Bloodhound|Bloodhounds]] who lost her sense of smell and now works as a bouncer.
