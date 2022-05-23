@@ -2,7 +2,7 @@ category: phenomenon
 color: #432874
 created: 20200414215001795
 list: [[aberrant dragonmark]] [[Mark of Death]] [[Mark of Detection]] [[Mark of Finding]] [[Mark of Handling]] [[Mark of Healing]] [[Mark of Hospitality]] [[Mark of Making]] [[Mark of Passage]] [[Mark of Scribing]] [[Mark of Sentinel]] [[Mark of Shadow]] [[Mark of Storm]] [[Mark of Warding]]
-modified: 20210810162123647
+modified: 20220521214301082
 tags: 
 title: dragonmark
 tooltip: hereditary mark of magical power, and the basis of the dragonmarked houses' economic power
@@ -27,7 +27,7 @@ wind, while the [[Mark of Shadow]] can weave illusions.
 
 You can't buy or choose to develop a dragonmark;
 each mark is tied to [[bloodlines|dragonmarked house]] within specific species,
-as summarized in the table below. A dragonmark appears on a person around adolescence, though not every heir manifests the mark.
+as summarized in the table below. A dragonmark appears on a person around adolescence (usually with the help of the [[Test of Siberys]]), though not every heir manifests the mark.
 
 {{DragonmarksTable}}
 
@@ -90,6 +90,12 @@ on the table below for inspiration.
 | 6 |When you use your dragonmark, it animates and adopts the appearance of your dragon marked house's emblem for 1 minute. |
 | 7 |Your dragonmark is an unusual color. |
 | 8 |Your dragonmark changes size whenever you use it. |
+
+!! Dragonmark Manifestation and the Prophecy
+
+The dragonmarks are driven by more than simple genetics. In most [[dragonmarked house]]s, about half of the children develop some level of mark. Over the course of a thousand years of excoriates and voluntary departures, many people in [[Khorvaire]] have some trace of dragonmarked blood. And yet, foundlings—people who develop a dragonmark outside a house—are rare. Many houses allow outsiders to marry into their great lines, and the number of dragonmarked heirs born to such couples within the houses is dramatically higher than those born to excoriates outside of the houses. 
+
+Scholars have proposed many theories to explain this discrepancy. Some say that it’s tied to proximity—that being around large numbers of dragonmarked people helps to nuture the latent mark within a child. Others say that it’s related to the tools and equipment used by the houses—that just being around a [[creation forge]] helps promote the development of the [[Mark of Making]]. One of the most interesting theories comes from the sage [[Ohnal Caldyn]]. A celebrated student of the [[Draconic Prophecy]], Caldyn argued that the oft-invoked connection between dragonmarks and the Prophecy might be misunderstood—that rather than each dragonmarked individual having significance, the Prophecy might be more interested in [[dragonmarked families|dragonmarked house]]. It’s been over two thousand years since the Mark of Making appeared on the Vown and Juran lines of [[Cyre]]—and yet those families remain pillars of House [[Cannith]] today.
 
 !! Siberys Dragonmarks
 

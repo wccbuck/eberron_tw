@@ -1,13 +1,13 @@
 [
     {
         "created": "20210208014628758",
-        "title": "Tharashk triumvirate",
-        "text": "House [[Tharashk]] is governed by a council of three, one representative from each major clan. They meet in the [[Heart]] of [[Zarash'ak]].\n\n* [[Maagrim Torrn]] (Clan [[Torrn]])\n* [[Khandar'Aashta]] (Clan [[Aashta]])\n* [[Daric Velderan]] (Clan [[Velderan]])",
-        "modified": "20210727192037094",
-        "tags": "Tharashk",
+        "text": "House [[Tharashk]] is governed by a council of three, one representative from each major clan. They meet in the [[Heart]] of [[Zarash'ak]], and each has a [[medusa]] bodyguard.\n\n* [[Maagrim Torrn d'Tharashk]] (Clan [[Torrn]])\n* [[Khandar'Aashta]] (Clan [['Aashta]])\n* [[Daric d'Velderan]] (Clan [[Velderan]])",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Tharashk triumvirate",
+        "tags": "Tharashk",
+        "modified": "20220522231640906",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

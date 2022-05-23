@@ -1,13 +1,13 @@
 [
     {
         "created": "20210208023022713",
-        "title": "Orgaal",
-        "text": "Clan Orgaal is a branch of the ambitious ruling\nClan [[Velderan]] of House [[Tharashk]]. These clans seek to increase [[Tharashk]]’s influence across [[Khorvaire]] and to ensure Velderan’s ultimate dominance within the house. Velderan has no interest in the [[Gatekeepers]] or the [[Cults of the Dragon Below]],\nand the clan exploits their squabbles to weaken its\nrivals. The ruling clans pay little attention to the small,\n[[orc]]-dominated Orgaal, which allows Velderan to use it\nfor covert activities. Orgaal could employ adventurers\nto sow discord among other clans or embark on missions that aid Velderan at the expense of its rivals.\n\nClan Orgaal has a camp north of [[Zarash'ak]], and they bring goods into the city on the wings of [[wyvern]]s.",
-        "modified": "20210727192024005",
-        "tags": "Zarash'ak Velderan tribe",
+        "text": "Clan Orgaal is a branch of the ambitious ruling\nClan [[Velderan]] of House [[Tharashk]]. These clans seek to increase [[Tharashk]]’s influence across [[Khorvaire]] and to ensure Velderan’s ultimate dominance within the house. Velderan has no interest in the [[Gatekeepers]] or the [[Cults of the Dragon Below]],\nand the clan exploits their squabbles to weaken its\nrivals. The ruling clans pay little attention to the small,\n[[orc]]-dominated Orgaal, which allows the [[Veldokaa]] to use it for covert activities. Orgaal could employ adventurers to sow discord among other clans or embark on missions that aid Velderan at the expense of its rivals.\n\nClan Orgaal has a camp north of [[Zarash'ak]], and they bring goods into the city on the wings of [[wyvern]]s.",
         "type": "text/vnd.tiddlywiki",
-        "article": "Clan ",
+        "title": "Orgaal",
+        "tags": "[[Shadow Marches]] Velderan tribe",
+        "modified": "20220521222142085",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "Clan "
     }
 ]
