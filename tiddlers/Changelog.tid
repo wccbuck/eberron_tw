@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.16.3
-modified: 20220509211933005
+currentversion: 1.16.4
+modified: 20220523020315146
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,14 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.16.4 <span style="font-weight:normal">(May 22, 2022)</span>
+
+* Added lots of info about the clans of House [[Tharashk]] from KB's recent [[blog post|https://keith-baker.com/families-tharashk/]]
+** New pages: [['Aarna]], [[Brokaa]], [[Istaaran]], [['Oorac]], [[Torruk]], [[Torshaa]], [[Vaalda]], [[Veldokaa]]
+* Made a separate page for the [[Inner Sun]] cult (distinct from the [[Vale of the Inner Sun]] demiplane page)
+* "Torrm" the Gatekeeper is too similar to [[Torrn]], so I renamed her "[[Tazlag]]".
+* Made some [[language]] changes. Removed "Vvaraa'shul" and merged it with [[Orcish]]. Added [[Low Giant]], [[Syrk]], and [[Khunanese]] languages, as well as the [[extinct]] tag.
 
 !!! 1.16.3 <span style="font-weight:normal">(May 9, 2022)</span>
 

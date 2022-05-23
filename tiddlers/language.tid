@@ -1,7 +1,7 @@
 category: culture
 color: #0F5132
 created: 20210408165007631
-modified: 20210809012136585
+modified: 20220523004447736
 tags: 
 title: language
 type: text/vnd.tiddlywiki
@@ -16,7 +16,11 @@ These languages developed naturally on Eberron from mortal cultures. Many of the
 
 !!! Minor Languages
 
-<<list-links-article "[tag{!!title}category[culture]!tag[immortal]!var[major]sort[title]]">>
+<<list-links-article "[tag{!!title}category[culture]!tag[immortal]!var[major]!tag[extinct]sort[title]]">>
+
+!!! Extinct Languages
+
+<<list-links-article "[tag{!!title}category[culture]tag[extinct]sort[title]]">>
 
 !! Immortal Languages
 
