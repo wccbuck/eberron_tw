@@ -1,6 +1,6 @@
 category: note
 created: 20220208023535083
-modified: 20220515020918597
+modified: 20220531204228143
 tags: 
 title: Adventures of Arien
 type: text/vnd.tiddlywiki
@@ -25,25 +25,44 @@ Stuff that could happen on the lightning rail:
 * A human pickpocket circulates among the passengers, looking for another victim.
 * An older human reads the [[Korranberg Chronicle]], loudly proclaiming outrage at every story.
 
-In [[Starilaskur]], make it to the Martial Temple of [[Dol Arrah]]. Meet folks there who train people who have been touched by [[divine magic]]. After a few introductory meetings and trainings, a mentor tells Arien about the oaths of a [[paladin]], and how these oaths strengthen and focus one's divine magic. Eventually they settle on [[Oath of the Ancients]] for her, but not until she's done some quests.
+---
 
-Each divine-touched person at the academy has different gifts, so the academy does not train them to be part of the normal operation of the military, move in formation, etc. In general, the academy is focused on training individuals with signs of divine power to be "mavericks" or specially assigned knights. That said, they are still subjected to rigorous physical training and weapons training. And for the folks who are on a track to join the [[King's Swords]] or [[King's Shields]], special training is available, but generally special-forces training is done in [[Wroat]].
+In [[Starilaskur]], make it to the [[Martial Temple of Dol Arrah]]. Meet folks there who train people who have been touched by [[divine magic]]. After a few introductory meetings and trainings, a mentor ([[Wroenna Lonn]], the Novice-master) tells Arien about the oaths of a [[paladin]], and how these oaths strengthen and focus one's divine magic. Eventually they settle on [[Oath of the Ancients]] for her, but not until she's done some quests.
+
+Each divine-touched person at the academy (about 50 novices) has different gifts, so the academy does not train them to be part of the normal operation of the military, move in formation, etc. In general, the academy is focused on training individuals with signs of divine power to be "mavericks" or specially assigned knights. That said, they are still subjected to rigorous physical training and weapons training. And for the folks who are on a track to join the [[King's Swords]] or [[King's Shields]], special training is available, but generally special-forces training is done in [[Wroat]].
 
 "Pray for peace, prepare for war"
 
 [[Liturgical council|liturgical council]]: "Vassal Assembly".
 
+Is there a chivalric order associated with the school? "Order of the Dawn Chorus" maybe?
+
 People:
 
-* [[Sejra Whitebinder]]
-* Mentor: [name]
+* Head of the school: Preceptor [[Cadoc Belmin]]
 ** Middle-aged [[half-elf]] fella
 ** Eventually introduces Arien to the Khoravar idea of "the bridge between". Introduce Khoravar unity dinners
-* Rival: 
-** Some moody [[Oath of Vengeance]] guy
-** Or, douchey [[Oath of Glory]] guy
+** [[Oath of the Crown]]
+* Second-in-command: Prior [[Hemdoth Aggan]]
+** [[Order Domain]]
+* Mentor: Novice Master [[Wroenna Lonn]]
+** human lady, very strong and tall. Think Brienne of Tarth
+** [[Oath of Devotion]]
+** Her heart glows so bright you can see it through her shirt
+* Visitant [[Sejra Whitebinder]]
+** Visiting teacher ("visitant" can mean "guest", or also "pilgrim"). Definitely a maverick, goes off and does her own thing
+** [[War Domain]] cleric
+** Friction between her and the leadership of the Martial Temple. The Preceptor/Prior etc are running the school in a way that advances the interests of [[Breland]]. Sejra believes that the temple should focus more on spiritual warfare against forces of great evil, irrespective of nationality.
 
-Other folks (novices?) have varying degrees of divine potential. Some merely exhibited divine power at a moment of crisis but can't manifest it at will. At least one of those is currently in the infirmary in a coma after one such manifestation. Other folks can manifest powers but with across a wide variety of magical effects - some utilitarian, some social, some combat-oriented. Others were priests once but began to exhibit miraculous powers beyond that of the standard [[adept]]. One lady, a [[paladin]] novice, has a heart that is glowing so bright you can see it through her shirt. ([[Oath of Devotion]])
+Other students: 
+
+* Note: There about fifty other students at the school, called novices, and they each have varying degrees of divine potential. Some merely exhibited divine power at a moment of crisis but can't manifest it at will. At least one of those is currently in the infirmary in a coma after one such manifestation. Other folks can manifest powers but with across a wide variety of magical effects—some utilitarian, some social, some combat-oriented. Others were priests once but began to exhibit miraculous powers beyond that of the standard [[adept]]. 
+* Moody [[Oath of Vengeance]] guy
+* Douchey [[Oath of Glory]] guy
+* [[Light Domain]] cleric
+** A priest who didn't start manifesting divine magic until late in life
+* [[Knowledge Domain]] cleric currently in the infirmary in a coma
+* [[Peace Domain]] cleric
 
 Courses offered:
 
@@ -75,6 +94,8 @@ Courses offered:
 Some of this training includes focusing and honing Arien's faith in her own ideals. Mechanically this is done by [[boost]]ing using Heart.
 
 Perhaps there is an illusionist [[wizard]] or a [[Phiarlan]]/[[Thuranni]] [[elf]] on staff who can create virtual training grounds.
+
+Eventually, Arien (and the other novices) must embark on different quests to fight monsters or investigate trouble around the city
 
 Some details about [[Breland]]'s nobility and view of the crown, which colors how the Martial Temple teaches the [[Oath of the Crown]]:
 
