@@ -1,13 +1,13 @@
 [
     {
         "created": "20210305073421769",
-        "title": "Order of the Ethereal Blade",
         "text": "The Order of the Ethereal Blade was founded in the fifth century (YK) in [[Aundair]] as a duelist’s society, where members of other [[arcane order]]s could test their skills and spells in battle with fellow mages. What began as a mystical \"fight club\" became the core of the original [[Knights Arcane]]. Today, the Ethereal Blade focuses on the study and development of war magic, but it remains a dueling society whose members are always ready to prove their mettle in battle. Many of Aundair’s finest warmages are members of the Order, along with officers of the [[Knights Arcane]] and Knights Phantom.\n\nWhile it began as a [[wizard]]’s circle, today the Order of the Ethereal Blade welcomes [[eldritch knight]]s, [[arcane trickster]]s and others who blend martial and mystical techniques. There are other societies that cater purely to duelists and [[wandslinger]]s, including [[Fairhaven]]’s ''League of ir’Lain'' and the ''Darkwood Wands'' of [[Passage]].",
-        "modified": "20210727192023993",
-        "tags": "[[arcane order]] Aundair",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Ethereal Blade",
+        "tags": "[[arcane order]] Aundair",
+        "modified": "20220531205835569",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the Order of the "
     }
 ]
