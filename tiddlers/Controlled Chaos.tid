@@ -1,17 +1,17 @@
-2d4: 7
+2d4: 2
 category: talent
 created: 20211130061453397
-d10: 7
-d20: 20
-d35: 10
+d10: 8
+d20: 15
+d35: 15
 d4: 1
-d50: 50
-d7: 2
-duration: 1 hour
-effect: A terrible din fills the air like the clanging of pots and pans for the next {{!!duration}}.
-l_duration: 10 hours
-modified: 20211215040304877
-s_duration: 30 seconds
+d50: 25
+d7: 1
+duration: 45 seconds
+effect: A [[chain devil]] emerges from the target point. It vanishes after {{!!duration}}.
+l_duration: 6 hours
+modified: 20220619055351565
+s_duration: 1 second
 tags: sorcerer
 title: Controlled Chaos
 type: text/vnd.tiddlywiki
@@ -21,4 +21,35 @@ xpcost: 2
 
 Any time you trigger a [[random magical effect]], you may generate two and choose which one occurs.
 
-{{||random magical effect}}
+<$button>
+<$action-chooserandom $dataTiddler="$:/RandomMagicEffect" $field="effect"/>
+<$action-chooserandom $dataTiddler="$:/RandomShortDuration" $field="s_duration"/>
+<$action-chooserandom $dataTiddler="$:/RandomDuration" $field="duration"/>
+<$action-chooserandom $dataTiddler="$:/RandomLongDuration" $field="l_duration"/>
+<$action-chooserandom $filter="[range[4]]" $field="d4"/>
+<$action-chooserandom $filter="[range[7]]" $field="d7"/>
+<$action-chooserandom $filter="[range[10]]" $field="d10"/>
+<$action-chooserandom $filter="2 3 3 4 4 4 5 5 5 5 6 6 6 7 7 8" $field="2d4"/>
+<$action-chooserandom $filter="5 10 15 20" $field="d20"/>
+<$action-chooserandom $filter="5 10 15 20 25 30 35" $field="d35"/>
+<$action-chooserandom $filter="5 10 15 20 25 30 35 40 45 50" $field="d50"/>
+<$action-chooserandom $dataTiddler="$:/RandomMagicEffect" $field="effect" $tiddler="$:/ControlledChaosExtraEffect"/>
+<$action-chooserandom $dataTiddler="$:/RandomShortDuration" $field="s_duration" $tiddler="$:/ControlledChaosExtraEffect"/>
+<$action-chooserandom $dataTiddler="$:/RandomDuration" $field="duration" $tiddler="$:/ControlledChaosExtraEffect"/>
+<$action-chooserandom $dataTiddler="$:/RandomLongDuration" $field="l_duration" $tiddler="$:/ControlledChaosExtraEffect"/>
+<$action-chooserandom $filter="[range[4]]" $field="d4" $tiddler="$:/ControlledChaosExtraEffect"/>
+<$action-chooserandom $filter="[range[7]]" $field="d7" $tiddler="$:/ControlledChaosExtraEffect"/>
+<$action-chooserandom $filter="[range[10]]" $field="d10" $tiddler="$:/ControlledChaosExtraEffect"/>
+<$action-chooserandom $filter="2 3 3 4 4 4 5 5 5 5 6 6 6 7 7 8" $field="2d4" $tiddler="$:/ControlledChaosExtraEffect"/>
+<$action-chooserandom $filter="5 10 15 20" $field="d20" $tiddler="$:/ControlledChaosExtraEffect"/>
+<$action-chooserandom $filter="5 10 15 20 25 30 35" $field="d35" $tiddler="$:/ControlledChaosExtraEffect"/>
+<$action-chooserandom $filter="5 10 15 20 25 30 35 40 45 50" $field="d50" $tiddler="$:/ControlledChaosExtraEffect"/>
+Two Random Magical Effects
+</$button>
+
+<<<
+
+# {{!!effect}}
+# {{$:/ControlledChaosExtraEffect}}
+
+<<<

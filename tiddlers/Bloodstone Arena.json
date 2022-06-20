@@ -1,13 +1,13 @@
 [
     {
         "created": "20210323202357662",
-        "title": "Bloodstone Arena",
-        "text": "The people of [[Droaam]] love their blood sports, and battles take place in the [[Graywall]] arena every night. Combats include formal grudge matches, open melees, bounty battles with fierce beasts or condemned criminals, and trials for the soldiers of\nthe [[Flayer Guard]]. One popular form of bounty battle\nis [[six stones]]: seven challengers enter the ring with one or more [[basilisk]]s, and only one walks out, leaving six \"stones\" behind.\n\nPCs who wish to fight in the arena can seek a sponsor who can get them into the ring for a share of the purse. The two likely sponsors are Kel’Aashta, a [[Tharashk]] [[orc]] who monitors the arena for possible mercenary recruits; and Fela Fingerbones, a clever [[goblin]] whose family has been spreading its roots into gambling activities across [[Graywall]].",
-        "modified": "20210727191958473",
-        "tags": "arena Bloodstone Graywall",
+        "text": "The people of [[Droaam]] love their blood sports, and battles take place in the [[Graywall]] arena every night. Combats include formal grudge matches, open melees, bounty battles with fierce beasts or condemned criminals, and trials for the soldiers of\nthe [[Flayer Guard]]. One popular form of bounty battle\nis [[six stones]]: seven challengers enter the ring with one or more [[basilisk]]s, and only one walks out, leaving six \"stones\" behind.\n\nPCs who wish to fight in the arena can seek a sponsor who can get them into the ring for a share of the purse. The two likely sponsors are [[Kel'Aashta]], a [[Tharashk]] [[orc]] who monitors the arena for possible mercenary recruits; and [[Fela Fingerbones]], a clever [[goblin]] whose family has been spreading its roots into gambling activities across [[Graywall]].",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Bloodstone Arena",
+        "tags": "arena Bloodstone Graywall",
+        "modified": "20220619004054390",
+        "color": "#A3DB62",
         "category": "location",
-        "color": "#A3DB62"
+        "article": "the "
     }
 ]

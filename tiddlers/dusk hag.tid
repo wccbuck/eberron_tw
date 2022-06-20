@@ -1,13 +1,15 @@
 category: creature
 color: #EA868F
 created: 20200423050944102
-modified: 20210727192006259
-tags: hag humanoid
+modified: 20220619050458421
+tags: monstrosity hag humanoid
 tier: 3
 title: dusk hag
 type: text/vnd.tiddlywiki
 
 Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair, and eyes that burn like hot coals. They see visions of the future in their dreams, and their dark magic allows them to influence the dreams of others, sending messages or inflicting nightmares with a touch. Tales talk of ambitious [[wizard]]s, frantic monarchs, and desperate heroes undertaking quests or making bargains with a dusk hag in exchange for its prophecies and visions of the future. But the information gained from a dusk hag often has a way of causing more pain than joy. 
+
+Dusk hags can cast the spells [[detect magic]], [[disguise self]], [[dream]], [[hypnotic pattern]], [[sleep]], [[legend lore]], and [[scrying]].
 
 The most infamous dusk hag on [[Khorvaire]] is [[Sora Teraza]].
 

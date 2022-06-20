@@ -1,13 +1,13 @@
 [
     {
         "created": "20210319192813352",
-        "title": "Stormwalkers",
-        "text": "The Stormwalkers were founded by a cruel [[blue dragon]]. Although one of the smallest tribes, they are nonetheless dangerous and thus, highly respected. The Stormwalkers developed a martial, [[monastic|monk]] tradition emulating the natural attacks of the [[dragon]], and the greatest masters of this art can extend their lifespans or even temporarily change shape into the form of a dragon.",
-        "modified": "20210727192034864",
-        "tags": "Seren tribe dragonborn",
+        "text": "The [[Seren]] tribe known as the Stormwalkers were founded by a cruel [[blue dragon]]. Although one of the smallest tribes, they are nonetheless dangerous and thus, highly respected. The Stormwalkers developed a martial, [[monastic|monk]] tradition emulating the natural attacks of the [[dragon]], and the greatest masters of this art can extend their lifespans or even temporarily change shape into the form of a dragon.",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Stormwalkers",
+        "tags": "Seren tribe dragonborn",
+        "modified": "20220610174506830",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]
