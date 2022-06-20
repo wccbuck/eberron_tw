@@ -1,7 +1,7 @@
 category: talent
 created: 20211130023646420
 list: [[mage hand]] [[heat metal]] [[concussive burst]] aegis [[mage armor]] [[absorb elements]] [[call lightning]] [[shape water]] [[control flames]] thunderclap thunderwave [[magic stone]] [[telekinetic catapult]] [[arcane hand]] telekinesis [[fire bolt]]
-modified: 20220216201407802
+modified: 20220619210706713
 tags: Spellcaster psion
 title: Kineticist
 type: text/vnd.tiddlywiki
@@ -31,3 +31,9 @@ Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster
 		</tr>
 	</$list>
 </table>
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>

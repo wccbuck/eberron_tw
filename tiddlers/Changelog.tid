@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.16.5
-modified: 20220601225057295
+currentversion: 1.16.6
+modified: 20220620033428440
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,18 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.16.6 <span style="font-weight:normal">(Jun 19, 2022)</span>
+
+* Added more missing links, tweaked some phrasing and details in [[Starilaskur]] as well as a couple of [[arcane order]]s
+* Made several new pages for people mentioned by name in place pages or organization pages
+* Made new separate pages for [[Cannith South]], [[Cannith West]], and [[Cannith East]]
+* Made lots of changes to the "Starwind" story in [[Korranberg Chronicle for Lharvion 23rd, 998]]. For one, airships have only been around for 8 years, not 200. Second, the years didn't add up in another way: the guy was supposed to have been 184 years old when he died, but was on a ship crew in 814? When he was 0 years old? I increased his age to 189 and advanced all dates in the article by 20 years.
+* Added some content to [[Vvaraak's Lair]] (and renamed it from "Vvaraak's Cave")
+* Added the [[Rusty Anchor]]
+* Added to the [[hag]] page, added [[Mother Graytooth]] and [[Old Man Cord]], added [[Hexblood]] talent
+* Added [[Psi Warrior|Psi Warrior (talent)]] and [[Telekinetic Master]] talents, and added a bit to the [[aegis]] spell
+* Reduced the duration of [[alter self]] from 1 hour to 10 minutes
 
 !!! 1.16.5 <span style="font-weight:normal">(Jun 1, 2022)</span>
 

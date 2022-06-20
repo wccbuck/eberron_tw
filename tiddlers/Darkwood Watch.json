@@ -1,13 +1,13 @@
 [
     {
         "created": "20210329033433717",
-        "title": "Darkwood Watch",
-        "text": "The Darkwood Watch is House [[Cannith]]’s elite [[wandslinger]] soldiers. Five members of the Watch are assigned to [[Sharn]]; the squad leader  is Menya d’Cannith. The Darkwood Watch is usually assigned to protect the [[Cannith Forgehold]], and they are only used for\nextremely important tasks. As they are clearly recognizable as members of House Cannith, wandslingers are rarely used for covert operations. ",
-        "modified": "20210727192003640",
-        "tags": "[[trade guild]] Cannith",
+        "text": "The Darkwood Watch is House [[Cannith]]’s elite [[wandslinger]] soldiers. Five members of the Watch are assigned to [[Sharn]]; the squad leader  is [[Menya d'Cannith]]. The Darkwood Watch is usually assigned to protect the [[Cannith Forgehold]], and they are only used for\nextremely important tasks. As they are clearly recognizable as members of House Cannith, wandslingers are rarely used for covert operations. ",
         "type": "text/vnd.tiddlywiki",
-        "article": "the ",
+        "title": "Darkwood Watch",
+        "tags": "[[trade guild]] Cannith",
+        "modified": "20220610175206330",
+        "color": "#9EC5FE",
         "category": "organization",
-        "color": "#9EC5FE"
+        "article": "the "
     }
 ]

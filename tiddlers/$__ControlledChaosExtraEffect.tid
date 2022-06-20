@@ -1,0 +1,18 @@
+2d4: 3
+created: 20220619055318050
+d10: 9
+d20: 5
+d35: 30
+d4: 1
+d50: 40
+d7: 6
+duration: 45 minutes
+effect: Caster demands that employers pay them in wood instead of gold for the next {{!!l_duration}}.
+l_duration: 2 days
+modified: 20220619055351721
+s_duration: 5 seconds
+tags: 
+title: $:/ControlledChaosExtraEffect
+type: text/vnd.tiddlywiki
+
+{{!!effect}}

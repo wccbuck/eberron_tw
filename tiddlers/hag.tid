@@ -1,16 +1,36 @@
 category: creature
 color: #EA868F
 created: 20201215032907085
-modified: 20210917023120375
+modified: 20220619201803113
 tags: monstrosity humanoid
 title: hag
 type: text/vnd.tiddlywiki
 var: uncommon
+var1: Turtleback
+var2: Olga
+var3: Wormwiggle
 
 Hags are terrifying creatures whose origins go back to the beginnings of [[Eberron]]; the [[night hag]]s were among the children of [[Khyber|Progenitor Dragons]] and ruled the world alongside the [[rakshasa]] during the [[Age of Demons]]. The mortal hags of Eberron are the descendants of the night hags.
 
 Although different hags are unique in appearance and mannerism, they have many things in common. All take the form of crones whose bent shapes belie their fierce power and swiftness. Despite faces cracked by wrinkles and heavy with cruelty, their eyes shine with cunning. Their long nails have the strength of steel and are keen as any knife. And finally, all hags possess innate magic and are extremely long-lived, but with the exception of [[night hag]]s, are not [[immortal]].
 
-The most prominent hags on [[Khorvaire]] are the [[Daughters of Sora Kell]].
+Hags occupy a middle ground between mortal and [[fey]]. While not necessarily tied to the [[plane]] of [[Thelanis]], hags often draw strength from the stories of the communities they dwell near. Even when killed, a hag might reappear after a few years or decades, as long as folk still whisper terrifying tales of their evil deeds.
+
+The most prominent hags on [[Khorvaire]] are the [[Daughters of Sora Kell]]. Born of the primordial [[night hag]] [[Sora Kell]], the Daughters each have power equivalent to that of an [[archfey]]. 
+
+Hags often name themselves in darkly whimsical ways, claiming monikers such as Black Morwen, Peggy Pigknuckle, Grandmother Titchwillow, Nanna Shug, Rotten Ethel, or Auntie Wormtooth.
+
+<<<
+<$button>
+<$action-chooserandom $dataTiddler="$:/HagTitle" $field="var1"/>
+<$action-chooserandom $dataTiddler="$:/HagFN" $field="var2"/>
+<$action-chooserandom $dataTiddler="$:/HagLN" $field="var3"/>
+Hag Name Generator
+</$button>
+
+''Name: '' {{!!var1}} {{!!var2}} {{!!var3}}
+<<<
+
+!
 
 !!! <<showcreature-type>>

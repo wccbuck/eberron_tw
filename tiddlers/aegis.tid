@@ -1,10 +1,19 @@
 category: spell
 color: #B7A1E0
 created: 20201210010812667
-modified: 20220403175040771
+highertier: show
+modified: 20220619204143548
 tags: abjuration
 tier: 2
 title: aegis
 type: text/vnd.tiddlywiki
 
-As a reaction to being attacked, the spellcaster creates an invisible barrier of magical force to block the attack. The shield lasts for 5-10 seconds before dissipating.
+As a reaction to being attacked, the spellcaster creates an invisible barrier of magical force to block the attack. The shield can prevent you from suffering up to 2 [[harm]]. The shield lasts for 5-10 seconds before dissipating.
+
+<$reveal type="match" state="!!highertier" text="show">
+
+!! Uncommon-Tier
+
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, it protects against up to four [[harm]], and you may target another creature within 30 feet of you.
+
+</$reveal>
