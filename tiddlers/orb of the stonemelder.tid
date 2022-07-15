@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227193901830
-modified: 20220218182551802
+modified: 20220708191249108
 tags: [[magical implement]] tool orb protection stealth
 tier: 3
 title: orb of the stonemelder
@@ -12,3 +12,8 @@ This orb of granite is about the size of an adult human's fist. The [[giant]] ru
 * You can channel the orb's magic to hold your ground. For the next minute or until you move any distance, you have [[advantage]] on all attempts to resist effects that force you to move.
 * You can't be petrified.
 * Once every few hours, you can cast [[meld into stone]].
+
+<<<
+!!! meld into stone
+{{||meld into stone}}
+<<<

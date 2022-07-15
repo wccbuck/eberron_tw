@@ -1,0 +1,22 @@
+category: object
+color: #41D5E1
+created: 20220624001033424
+modified: 20220706193200508
+tags: ridiculous projectile spear weapon
+tier: 1
+title: glamered javelin
+type: text/vnd.tiddlywiki
+
+When you throw this javelin, it assumes the appearance of one of the following until just before it strikes something. The specific appearance is determined by the GM (or randomly).
+
+| !<<dr d9>> |!Midair Javelin Appearance |
+| 1 |A chicken |
+| 2 |A fiery skull |
+| 3 |A jagged spear of ice |
+| 4 |A lightning bolt |
+| 5 |A marble statue |
+| 6 |A squid |
+| 7 |A tankard of ale |
+| 8 |A winged snake |
+| 9 |A wooden chair |
+

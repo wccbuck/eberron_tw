@@ -1,13 +1,13 @@
 category: game mechanics
 created: 20210901153741376
-modified: 20220531201748907
-tags: 
+modified: 20220715030835908
+tags:
 title: NPC appearance and personality generator
 type: text/vnd.tiddlywiki
-var1: 78 15
-var2: 304 86
-var3: 3
-var4: 26
+var1: 33 108
+var2: 113 254
+var3: 5
+var4: 21
 
 <$button><$action-chooserandom $field="var1" $filter="[[$:/NPCPhysicalTrait]indexes[]]" $number="2" $unique="true"/><$action-chooserandom $field="var2" $filter="[[$:/NPCBehavioralTrait]indexes[]]" $number="2" $unique="true"/><$action-chooserandom $field="var3" $filter="[[$:/NPCCalmTrait]indexes[]]"/><$action-chooserandom $field="var4" $filter="[[$:/NPCStressedTrait]indexes[]]"/>Generate All</$button>
 

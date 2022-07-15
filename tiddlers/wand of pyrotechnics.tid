@@ -1,10 +1,13 @@
 category: object
+charges: 7
 color: #41D5E1
 created: 20201227022715853
-modified: 20220221022307085
+modified: 20220707001250805
 tags: entertainment [[magical implement]] wand
 tier: 1
 title: wand of pyrotechnics
 type: text/vnd.tiddlywiki
 
 While holding this wand, you can create a harmless burst of multicolored light at a point you can see up to 60 feet away. The burst of light is accompanied by a crackling noise that can be heard up to 300 feet away. The light is as bright as a torch flame but lasts only a second. You can do this seven times each day.
+
+<<itemcharges 7>>

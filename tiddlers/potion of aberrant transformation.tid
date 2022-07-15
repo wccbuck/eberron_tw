@@ -1,0 +1,18 @@
+category: object
+color: #41D5E1
+created: 20220712005330620
+modified: 20220712005727144
+tags: destruction invigoration potion mobility
+tier: 2
+title: potion of aberrant transformation
+type: text/vnd.tiddlywiki
+
+When you drink this bitter potion, your body transforms in one of the following ways. The effect lasts for 1 hour.
+
+| !<<dr d6>> |!Effect |
+| 1 |Several additional eyes grow on stalks from your head, and you can see in all directions. |
+| 2 |You gain the ability to conjure and wield a psychic whip, which deals psychic damage against living creatures you strike with it. |
+| 3 |You gain the ability to spit acid up to 30 feet. |
+| 4 |Your arms are transformed into tentacles, which deal lightning damage to creatures you strike with them. |
+| 5 |Your hands are transformed into large, powerful pincers. |
+| 6 |Your lower body is transformed into a mass of writhing tentacles, and you gain the ability to levitate up to 20 feet in the air. |

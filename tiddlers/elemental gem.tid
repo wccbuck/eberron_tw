@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227035701044
-modified: 20220218212922441
+modified: 20220708211855594
 tags: tool summoning
 tier: 2
 title: elemental gem
@@ -9,8 +9,8 @@ type: text/vnd.tiddlywiki
 
 This gem contains a mote of elemental energy. When you break the gem, an [[elemental]] is summoned as if you had cast the [[conjure elemental]] spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell.
 
-|!Gem |!Summoned Elemental |
-|Blue sapphire |air |
-|Yellow diamond |earth |
-|Red corundum |fire |
-|Emerald |water |
+| !<<dr d4>> |!Gem |!Summoned Elemental |
+| 1 |Blue sapphire |[[air elemental]] |
+| 2 |Yellow diamond |[[earth elemental]] |
+| 3 |Red corundum |[[fire elemental]] |
+| 4 |Emerald |[[water elemental]] |

@@ -1,0 +1,22 @@
+category: object
+color: #41D5E1
+created: 20220712195708292
+modified: 20220712202341719
+tags: ridiculous invigoration potion
+tier: 2
+title: potion of chimeric transformation
+type: text/vnd.tiddlywiki
+var1: giant wasp
+var2: panther
+
+When you drink this meaty potion, you are transformed into a bizarre [[monstrosity]] for 1 hour. Click the button below to generate the form you take.
+
+<<<
+<$button>
+<$action-chooserandom $filter="[[giant wasp]] ape [[black bear]] [[reef shark]] crocodile" $field="var1"/>
+<$action-chooserandom $filter="wolf [[giant frog]] [[giant weasel]] mule panther boar" $field="var2"/>
+Generate Monstrosity
+</$button>
+
+You transform into a {{!!var1}} with the head of a {{!!var2}}.
+<<<

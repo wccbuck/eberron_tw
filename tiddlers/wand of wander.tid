@@ -1,0 +1,13 @@
+category: object
+charges: 7
+color: #41D5E1
+created: 20220711002856327
+modified: 20220711003033226
+tags: mobility [[magical implement]] wand
+tier: 3
+title: wand of wander
+type: text/vnd.tiddlywiki
+
+This wand has 7 charges, which do not recharge. While holding the wand, you can expend 1 of its charges to teleport yourself from your current location to a random unoccupied destination within 1 mile of you. If there is no available destination, you suffer significant arcane force damage instead.
+
+<<itemcharges 7>>

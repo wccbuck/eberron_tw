@@ -1,0 +1,20 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220708212904937
+modified: 20220708213249092
+tags: communication protection accessory jewelry
+tier: 3
+title: ring of nobility
+type: text/vnd.tiddlywiki
+
+While wearing this ornate ring, you gain +1 [[impact]] on attempts to socially interact with aristocrats and nobles. 
+
+In addition, this ring has 3 charges, and regains <<dr 1d3>> expended charges daily at dawn. You can expend 1 of its charges to cast the spell [[blade ward]] on yourself.
+
+<<<
+!!! blade ward
+{{||blade ward}}
+<<<
+ 
+<<itemcharges 3>>

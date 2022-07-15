@@ -1,0 +1,13 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220711202719972
+modified: 20220711202806415
+tags: accessory jewelry
+tier: 5
+title: ring of three wishes
+type: text/vnd.tiddlywiki
+
+While wearing this ring, you can expend 1 of its 3 charges to cast the [[wish]] spell from it. The ring becomes nonmagical when you use the last charge.
+
+<<itemcharges 3>>

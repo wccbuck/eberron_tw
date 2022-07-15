@@ -1,7 +1,7 @@
 caption: {{$:/core/images/clone-button}} {{$:/language/Buttons/Clone/Caption}}
 created: 20210425024134823
 description: {{$:/language/Buttons/Clone/Hint}}
-modified: 20210727191952012
+modified: 20220704002830394
 tags: $:/tags/ViewToolbar
 title: $:/core/ui/Buttons/clone
 type: text/vnd.tiddlywiki
@@ -13,7 +13,6 @@ type: text/vnd.tiddlywiki
 </$list>
 <$list filter="[<tv-config-toolbar-text>match[yes]]">
 <span class="tc-btn-text">
-<$text text=" "/>
 <$text text={{$:/language/Buttons/Clone/Caption}}/>
 </span>
 </$list>

@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210105213115836
-modified: 20220110033359036
+modified: 20220715163523273
 tags: Storyloom
 title: rarity
 type: text/vnd.tiddlywiki
@@ -11,7 +11,7 @@ Rarity provides a rough measure of an item's power relative to other items—a g
 
 A rarity of "—" indicates an item whose value is either irrelevant or is heavily contingent on quantity or context.
 
-Approximate [[monetary values|money]] of different item rarities are as follows. For expendable items such as potions, the prices listed below indicate 2-5x the price of an individual item.
+Approximate [[monetary values|money]] of different item rarities are as follows. For expendable items such as [[potion]]s and most [[scroll]]s, the prices listed below indicate 2-5x the price of an individual item.
 
 * ''Common'': worth 1-10c
 * ''Uncommon'': worth 11-50c

@@ -1,0 +1,22 @@
+category: object
+color: #41D5E1
+created: 20220624000743152
+modified: 20220706193213293
+tags: ridiculous weapon whip
+tier: 1
+title: glamered whip
+type: text/vnd.tiddlywiki
+
+This magical whip makes an unusual sound when cracked. The specific sound is determined by the GM (or randomly).
+
+| !<<dr d9>> |!Unusual Sound |
+| 1 |A goat's bleat |
+| 2 |A lion's roar |
+| 3 |A loud sneeze |
+| 4 |A mechanical clank |
+| 5 |A peal of thunder |
+| 6 |A raven's caw |
+| 7 |A ringing bell |
+| 8 |A songbird's chirp |
+| 9 |A stone falling into water |
+

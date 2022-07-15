@@ -1,12 +1,12 @@
 category: object
 color: #41D5E1
 created: 20210602173917791
-modified: 20220302040813324
+modified: 20220707210415731
 tags: tool
 tier: 0
 title: trinket
 type: text/vnd.tiddlywiki
-var: A small vial of wolfsbane from a [[lycanthrope]] hunter’s kit
+var: A broken piece of a [[planar observatory]] lens that when held aloft and looked through shows the sky even when indoors or underground
 
 \define changedyes() <$action-setfield $tiddler="$:/TrinketTableName" changed="yes"/>
 \define tablename() {{!!caption}} ({{{ [<currentTiddler>indexes[]count[]] }}})

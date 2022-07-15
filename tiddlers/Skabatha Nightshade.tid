@@ -1,7 +1,7 @@
 category: entity
 color: #8C4606
 created: 20210928010302145
-modified: 20210928011603661
+modified: 20220707000621150
 tags: fey Thelanis hag [[Hourglass Coven]]
 title: Skabatha Nightshade
 type: text/vnd.tiddlywiki
@@ -9,7 +9,9 @@ type: text/vnd.tiddlywiki
 Skabatha Nightshade is the oldest member of the [[Hourglass Coven]], the three [[hag]]-like [[fey]] of past, present, and future. Better known as Granny Nightshade, she offers her assistance to those who are haunted by regret. Her deals often result in cruel twists; for example, a petitioner who asks to be reunited with a lost love might be transformed into one of their loved one’s cherished items, such as a favorite bonnet.
 
 Skabatha assumes the guise of an old toymaker. Part toy herself, she has a windup key between her hunched shoulders that rotates quickly when
-she’s in a good mood and slows down as her mood sours. When she is furious, the key comes to a dead stop. She can also shrink herself down to the size of a doll.
+she’s in a good mood and slows down as her mood sours. When she is furious, the key comes to a dead stop. 
+
+Skabatha possesses [[truesight]] out to a range of 60 feet. She can cast the spells [[detect magic]], [[druidcraft]], [[speak with animals]], [[polymorph]], [[remove curse]], [[speak with plants]], [[awaken]] (without the eight hour casting time), and [[plane shift]] (herself only). She can also shrink herself down to the size of a doll.
 
 !! Appearance
 
@@ -20,4 +22,4 @@ Skabatha roams her domain on a flying rocking horse, which creaks horribly as it
 
 !! Skabatha's Weakness
 
-Skabatha always forgets the first creature she sees when she awakens after a long rest. Until she sleeps again, that creature is completely invisible to her, even when she uses her [[truesight]].
+Skabatha always forgets the first creature she sees when she awakens each morning. Until she sleeps again, that creature is completely invisible to her, even when she uses her [[truesight]].

@@ -1,0 +1,18 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220624043600269
+modified: 20220624054129082
+tags: hindrance weapon
+tier: 3
+title: sidhe blowgun
+type: text/vnd.tiddlywiki
+
+The blowgun has 3 charges and regains 1 expended charge daily at dawn. When you blow through this weapon without a dart, you can expend 1 charge to cast the [[gale]] spell.
+
+<<<
+!!! gale
+{{||gale}}
+<<<
+
+<<itemcharges 3>>

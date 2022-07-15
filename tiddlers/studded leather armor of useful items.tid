@@ -1,0 +1,20 @@
+category: object
+color: #41D5E1
+created: 20220710235137865
+modified: 20220711001706798
+patches: <table border='0'><tr><td><$checkbox field='var1' checked='yes' default='no'/></td><td>pewter amulet</td></tr><tr><td><$checkbox field='var2' checked='yes' default='no'/></td><td>pewter amulet</td></tr><tr><td><$checkbox field='var3' checked='yes' default='no'/></td><td>broken longsword</td></tr><tr><td><$checkbox field='var4' checked='yes' default='no'/></td><td>grappling hook</td></tr><tr><td><$checkbox field='var5' checked='yes' default='no'/></td><td>3 caltrops</td></tr><tr><td><$checkbox field='var6' checked='yes' default='no'/></td><td>padlock</td></tr><tr><td><$checkbox field='var7' checked='yes' default='no'/></td><td>iron spike</td></tr><tr><td><$checkbox field='var8' checked='yes' default='no'/></td><td>chain (10 feet)</td></tr><tr><td><$checkbox field='var9' checked='yes' default='no'/></td><td>pewter tankard</td></tr><tr><td><$checkbox field='var10' checked='yes' default='no'/></td><td>broken longsword</td></tr></table>
+tags: convenience body armor
+tier: 2
+title: studded leather armor of useful items
+type: text/vnd.tiddlywiki
+
+Among the rivets covering this studded leather armor are several (<<dr 4d4>>) unique rivets inscribed with symbols. While wearing the armor, you can detach one of these rivets, causing it to become the object it represents. The armor has the following rivets: 
+
+<$button>
+<$action-roui $dataTiddler="$:/ArmorOfUsefulItemsTable" $number="4d4" $varnum="0"/>
+Generate 4d4 Useful Item Rivets
+</$button>
+
+{{!!patches}}
+
+Once the last inscribed rivet is removed, the armor becomes nonmagical studded leather armor.

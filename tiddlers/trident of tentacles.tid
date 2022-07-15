@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20220712233656401
+modified: 20220712234403331
+tags: weapon spear hindrance
+tier: 1
+title: trident of tentacles
+type: text/vnd.tiddlywiki
+
+When you make a successful attack with this trident, roll a <<dr d6>>. If you roll a 6, the trident's prongs become squirming tentacles that entangle and squeeze the target. The effect persists for up to 10 minutes, or less if the target is able to maneuver or force their way out.

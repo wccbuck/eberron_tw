@@ -1,0 +1,17 @@
+category: object
+color: #41D5E1
+created: 20220715182147140
+modified: 20220715182804838
+tags: sword weapon
+tier: 4
+title: dancing sword
+type: text/vnd.tiddlywiki
+
+If you are [[attuned|attunement]] to this magic sword, when you toss it into the air and speak the command word, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice. The sword continues to hover, and you can continue to mentally command it to attack creatures within 30 feet of you. The sword can fly at a speed of 7 mph.
+
+After 30 seconds, it flies towards you and tries to return to your hand. If you
+have no hand free, it falls to the ground at your feet. If
+the sword has no unobstructed path to you, it moves as
+close to you as it can and then falls to the ground. It also
+ceases to hover if you grasp it or move more than 30 feet
+away from it.

@@ -1,0 +1,16 @@
+category: object
+color: #41D5E1
+created: 20220711203050756
+modified: 20220711203939746
+tags: rod [[magical implement]] detection [[Mark of Detection]] [[dragonmark focus item]]
+tier: 3
+title: rod of alertness
+type: text/vnd.tiddlywiki
+
+In order to use this flanged rod, you must possess the [[Mark of Detection]].
+
+While holding the rod, you have [[advantage]] when detecting hidden dangers. 
+
+You can also cast the following spells using your own power: [[detect immortal]], [[detect magic]], [[detect poison and disease]], and [[see invisibility]]. If you already know one of those spells, that spell costs -1 [[stress]] to cast.
+
+Finally, once per day, you can plant the haft end of the rod in the ground, whereupon the rod's head sheds bright light in a 60-foot radius and dim light for an additional 60 feet. While in that bright light, you and any creature that is friendly to you gains an additional [[advantage]] to detect hidden dangers and can sense the location of any invisible hostile creature that is also in the bright light. The rod's head stops glowing and the effect ends after 10 minutes, or when a creature pulls the rod from the ground. This property can't be used again until the next dawn.

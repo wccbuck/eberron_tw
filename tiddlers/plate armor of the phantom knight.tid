@@ -1,0 +1,15 @@
+category: object
+color: #41D5E1
+created: 20220712195135021
+modified: 20220712195240820
+tags: armor body summoning mobility
+tier: 3
+title: plate armor of the phantom knight
+type: text/vnd.tiddlywiki
+
+This polished plate armor is inscribed with the heraldry of a long-forgotten kingdom. While wearing it, you can speak its command word to cast the spell [[phantom steed]]. The armor can't be used this way again until the next dawn.
+
+<<<
+!!! phantom steed
+{{||phantom steed}}
+<<<

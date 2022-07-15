@@ -1,0 +1,15 @@
+category: object
+color: #41D5E1
+created: 20220624230627045
+modified: 20220624231006136
+tags: stealth protection jewelry accessory mobility
+tier: 3
+title: ring of blinking
+type: text/vnd.tiddlywiki
+
+While wearing this dull grey metal ring, you can cast the spell [[blink]] once per day.
+
+<<<
+!!! blink
+{{||blink}}
+<<<

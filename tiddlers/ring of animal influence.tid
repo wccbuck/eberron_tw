@@ -1,0 +1,19 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220715211626535
+modified: 20220715211936623
+tags: communication accessory jewelry
+tier: 3
+title: ring of animal influence
+type: text/vnd.tiddlywiki
+
+This ring has 3 charges, and it regains <<dr 1d3>> expended
+charges daily at dawn. While wearing the ring, you can expend 1 of its charges to cast one of
+the following spells:
+
+* [[animal friendship]]
+* [[fear]], targeting [[beast]]s less intelligent than an ape or dolphin
+* [[speak with animals]]
+
+<<itemcharges 3>>

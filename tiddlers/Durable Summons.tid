@@ -1,0 +1,11 @@
+category: talent
+created: 20220705172859238
+modified: 20220705173145187
+tags: wizard
+title: Durable Summons
+type: text/vnd.tiddlywiki
+xpcost: 2
+
+''Prerequisite:'' [[Arcane Tradition]] ([[conjuration]]).
+
+Any creature that you summon or create with a [[conjuration]] spell gains 3 temporary [[harm]] boxes. This extra durability can be represented by 3 additional segments on the creature's [[progress clock]], if that makes more sense for the scene.

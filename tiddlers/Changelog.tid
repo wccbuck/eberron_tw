@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.16.7
-modified: 20220621052412345
+currentversion: 1.17.0
+modified: 20220715231824765
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,41 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.17.0 <span style="font-weight:normal">(Jul 15, 2022)</span>
+
+* Added a bunch (140) of "weird magic items" from [[donjon.bin.sh|https://donjon.bin.sh/5e/random/#type=weird_magic_item]] (or inspired by something I saw from that list):
+** Common
+*** [[amulet of grim status]], [[animated helmet]], [[archer's ally]], [[buoyant armor]], [[chain shirt of the deep]], [[crossbow of whispers]], [[curse oil]], [[forked bolt]], [[glamered javelin]], [[glamered ring]], [[glamered whip]], [[hinderling sword]], [[hopeful key]], [[horn of the halfling herald]], [[ice solvent]], [[lodestone tankard]], [[oil of animation]], [[oil of shadow armor]], [[oil of shadows]], [[oil of the fell fletcher]], [[oil of transparency]], [[origami messenger]], [[petrifying rope]], [[potion of augury]], [[potion of beast speech]], [[potion of flies]], [[potion of light]], [[potion of vicious mockery immunity]], [[potion of vocal glamer]], [[potion of web]], [[pristine boots]], [[ring of crawling]], [[scholar's monocle]], [[scroll of dinosaur handling]], [[scroll of guise]], [[scroll of rug conjuration]], [[scroll of the apprentice artificer]], [[scroll of wild magic]], [[shield of retreat]], [[storyteller's potion]], [[suggestion potion]], [[surveyor's rod]], [[sword of chicken detection]], [[tangle bug]], [[tome of cat summoning]], [[traitor's rope]], [[trident of tentacles]], [[twitch oil]], [[winged net]]
+** Uncommon
+*** [[ale elemental bottle]], [[ankheg ichor]], [[apprentice's potion]], [[armor of mirror images]], [[axe of eyes]], [[backup weapon]], [[belt of troglodyte stench]], [[boots of ogre swiftness]], [[bottled psionic ooze]], [[cosa bracer]], [[crow's eye]], [[damp bag]], [[devil's eye potion]], [[dimension door oil]], [[displacer ichor]], [[elixir of feigned death]], [[feast bug]], [[fool's hat]], [[galloping caltrops]], [[gauntlets of water walking]], [[hat of guise]], [[helm of comprehending language]], [[hewing handaxe]], [[lance of gentle repose]], [[lazy greataxe]], [[leaden cloak]], [[lockpicks of secret door detection]], [[oil of bonework]], [[oil of ironwork]], [[oil of stonework]], [[oil of woodwork]], [[origami beholderkin]], [[parasol of drifting]], [[parrying wand]], [[philter of blave]], [[pixie stompers]], [[potion of aberrant transformation]], [[potion of black tentacles]], [[potion of chimeric transformation]], [[potion of chthonic transformation]], [[potion of contagious confusion]], [[potion of gelatinous transformation]], [[potion of immovability]], [[potion of ooze breathing]], [[ring of invisible burden]], [[ring of the goat]], [[rod of chains]], [[rod of domesticated dominion]], [[rogue ooze]], [[rope armor]], [[rust hide armor]], [[scroll of nightmare terrain]], [[scroll of paper cuts]], [[scroll of see only invisibility]], [[scroll of strangely specific guidance]], [[servant boots]], [[shovel of burrowing]], [[sinister glove]], [[studded leather armor of useful items]], [[tankard of truth]], [[tentacle ring]], [[thieves' tools of glibness]], [[troll ichor]], [[twilight coin]], [[vagabond's staff]], [[wand of cure duck]], [[wand of the centipede]]
+** Rare
+*** [[bagpipes of invisibility]], [[belt of stars]], [[blink flail]], [[bracer of the beast]], [[dancing club]], [[dry boat]], [[elephant wagon]], [[gauntlets of swift armor]], [[iron oculus]], [[lightning rod]], [[necromancer's saddle]], [[osseous ring]], [[plate armor of the phantom knight]], [[potion of the third eye]], [[prismatic blade]], [[ring of blinking]], [[ring of nobility]], [[scimitar of Olarune]], [[scroll of demonic transformation]], [[scryguard splint]], [[sidhe blowgun]], [[staff of paranoia]], [[wand of wander]]
+** Epic
+*** [[ring mail of three wishes]]
+* Also added a bunch of items from the DMG that for some reason I skipped. In no particular order: 
+** [[robe of useful items]] (with generator), [[potion of greater healing]], [[potion of superior healing]], [[Nolzur's marvelous pigments]], [[pipes of haunting]], [[ring of evasion]], [[ring of djinni summoning]], [[ring of elemental command]], [[ring of resistance]], [[ring of shooting stars]], [[ring of three wishes]], [[rod of alertness]], [[rod of security]], [[sphere of annihilation]], [[staff of fire]], [[staff of frost]], [[robe of eyes]], [[robe of stars]], [[amulet of the planes]], [[bowl of commanding water elementals]], [[bracers of archery]], [[brazier of commanding fire elementals]], [[brooch of shielding]], [[cape of the mountebank]], [[censer of commanding air elementals]], [[cloak of arachnida]], [[dagger of venom]], [[dancing sword]], [[decanter of endless water]], [[efreeti chain]], [[eyes of minute seeing]], [[giant slayer]], [[holy avenger]], [[zephyr horseshoes]], [[Anstruth harp]], [[Zazess mandolin]], [[Cli lyre]], [[Doss lute]], [[Fochlucan bandore]], [[Mac-Fuirmidh cittern]], [[Ollamh harp]], [[iron bands of Bilarro]], [[keoghtom's ointment]], [[mace of disruption]], [[mace of smiting]], [[mirror of life trapping]], [[ring of animal influence]], [[rod of absorption]], [[stone of commanding earth elementals]], [[talisman of the sphere]], [[tentacle rod]], [[wand of magic detection]], [[wand of wonder]]
+* Also added [[ghost lantern]], [[sinda berry]], and [[wukka nut]] from ToA. Also [[skystaff]], [[potter's tools]], and [[portable ram]].
+* Went through a bunch of items and added missing charge trackers / missing spell descriptions, fixed typos etc
+* Reduced a bunch of speeds in various items and other pages
+* Renamed "glamoured armor" to "[[glamered armor]]"
+* Nerfed [[boots of striding and springing]]: 50% -> 20% faster
+* Nerfed [[gem of seeing]]: 120 ft range -> 60 ft range
+* Added [[any melee]] and [[scroll]] tags
+* Added [[ridiculous]] tag for goofy magic items
+* Added a whole bunch of example costs for various goods and services on the [[money]] page
+* Added the spells [[otherworldly guise]], [[teleportation circle (spell)]], [[ball lightning]], and [[animate plant]]
+* Made individual pages for [[air elemental]], [[fire elemental]], [[earth elemental]] and [[water elemental]]. Also added the creatures [[almiraj]], [[assassin vine]], [[brackish trudge]], [[chwinga]], [[froghemoth]], [[grung]], [[jaculi]], [[kamadan]], [[owlin]], [[su-monster]], [[water weird]] and [[zorbo]]
+* Added [[Pyraelas]], the [[Fernia]]n [[balor]]
+* Added the talents [[Owlin (talent)]], [[Durable Summons]], [[Portent]], and [[Third Eye]]
+* Added a few [[random magical effect]]s
+* Mentioned the presence of [[locathah]] in the Hilt of the [[Dagger River]]
+* Added a bit to [[Lathleer]] and [[Ghalt]]
+* Added to [[Majarin]]
+* Added [[Gray Owls]] and [[Raven Corps]]
+* Revised some sentences in the [[gith]] page, [[merfolk]] page, a few others
+* Clarified in the [[Silver Flame]] page that the Flame does not "burn" like mundane fire. Changed the spell list for [[Aasimar of the Silver Flame]] to reflect that
+* Changed the year of [[Thaliost]]'s occupation from 926 to 977
 
 !!! 1.16.7 <span style="font-weight:normal">(Jun 21, 2022)</span>
 
@@ -144,6 +179,19 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 * Made some adjustments to [[genasi]] [[talent]]s to reflect some changes coming in Monsters of the Multiverse
 * Added [[Nobility of the Five Nations]] page. While I was at it, doubled the number of noble representatives in the [[Breland Parliament]]. I however kept the canon material about [[Antus ir'Soldorak]] having a [[Karrnath]]i noble title, not a [[Brelish|Breland]] one. Also split the pages [[Lord Mayor of Sharn]] and [[Cathan ir'Demell]].
 
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
+
 !!! 1.14.3 <span style="font-weight:normal">(Mar 8, 2022)</span>
 
 * Made some small additions to the [[Silver Crusade]] page
@@ -187,20 +235,6 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 * Renamed "Dark Pack" to "[[Great Pack]]" to match recent writings on KB's blog; this may match the upcoming FoE: Threshold content. Also renamed "Storm Front" to "[[Kraken's Brood]]".
 * Fixed some population/tag inconsistencies on towns that had more than 5000 residents. Some towns got upgraded to cities, others had their populations reduced.
 * Drop-down for adding tags now only shows tags for that tiddler's category, instead of all tags for the entire document. The drop-down now loads much faster as a result.
-
-!
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
-</$button>
-
 
 !!! 1.13.7 <span style="font-weight:normal">(Feb 15, 2022)</span>
 

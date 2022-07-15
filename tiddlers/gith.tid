@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20201220230150368
-modified: 20220508190521100
+modified: 20220707200858034
 tags: humanoid
 tier: 2
 title: gith
@@ -9,6 +9,8 @@ tooltip: extraplanar humanoid, enemy of aberrations
 type: text/vnd.tiddlywiki
 
 The warlike githyanki and the contemplative githzerai are a sundered people—two cultures that utterly despise one another. The two races look very similar to outsiders, with appearances like that of angular humans with pointed ears and pale yellow or green skin.
+
+The gith originate from an alternate version of the Material Plane, one which was warped irreparably by the [[daelkyr]] and is now lost in the [[Maze of Reality|Xoriat]].
 
 !! Githzerai
 
@@ -20,7 +22,7 @@ The githyanki plunder countless worlds from the decks of their [[Astral Sea]] ve
 
 !! History of the Gith
 
-Long ago, a proud empire was crushed by the [[daelkyr]]. But this
+Long ago, a proud empire was crushed by the [[daelkyr]]. This
 wasn't the Empire of [[Dhakaan]], but a nation of gifted psychics
 who lived in towers of [[crysteel]] and [[sentira]]. [[Dyrrn]] the Corruptor
 transformed their champions into the first [[illithid|mind flayer]]s, using them as
@@ -52,8 +54,7 @@ and unexpected allies against a [[cult of the Dragon Below|Cults of the Dragon B
 
 Hearing this tale, one might well ask: where are the gith
 from? They're from [[Eberron]]—but not the Eberron that exists
-today. They came from a world surrounded by the Ring of
-[[Siberys]], but there were no [[human]]s or [[elves|elf]] on their Eberron.
+today. They came from a world surrounded by a Ring of [[Siberys]] similar to ours (see [[gem dragon]]), but there were no [[human]]s or [[elves|elf]] on their Eberron.
 According to the githzerai, when the [[daelkyr]] completed their
 work on Eberron, they wiped the gith world from existence and
 created a new reality. If this is true, they may have done this
@@ -64,8 +65,7 @@ is to reassert their reality onto the Material Plane.
 It's possible that the gith are deluded about all of this. Even
 if the gith myth is true, it's doubtful the githzerai will ever have
 the strength to rewrite reality. But can it be entirely dismissed?
-Note that the draconic allies of the githyanki are descended
-from dragons from the gith Eberron; they have no loyalty to
+Note that the [[draconic allies|gem dragon]] of the githyanki come from the gith Eberron; they have no loyalty to
 [[Argonnessen]], and could be a curious wild card.
 
 Time moves strangely in [[Kythri]] and the [[Astral Sea]], and

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227184334934
-modified: 20220218214206892
+modified: 20220704032139921
 tags: vehicle tool mobility convenience
 tier: 3
 title: folding boat
@@ -11,7 +11,7 @@ This object appears as a wooden box that measures 12 inches long, 6 inches wide,
 
 One command word causes the box to unfold into a boat 10 feet long, 4 feet wide, and 2 feet deep. The boat has one pair of oars, an anchor, a mast, and a lateen sail. The boat can hold up to four human-sized creatures comfortably.
 
-The second command word causes the box to unfold into a ship 24 feet long, 8 feet wide, and 6 feet deep. The ship has a deck, rowing seats, five sets of oars, a steering oar, an anchor, a deck cabin, and a mast with a square sail. The ship can hold fifteen human-sized creatures comfortably.
+The second command word causes the box to unfold into a ship 24 feet long, 8 feet wide, and 6 feet deep. The ship has a deck, rowing seats, four sets of oars, a steering oar, an anchor, a deck cabin, and a mast with a square sail. The ship can hold fourteen human-sized creatures comfortably.
 
 When the box becomes a vessel, its weight becomes that of a normal vessel its size, and anything that was stored in the box remains in the boat.
 

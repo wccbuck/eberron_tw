@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20210507215946413
-modified: 20210727192021469
+modified: 20220705011254203
 tags: conjuration
 tier: 4
 title: mighty fortress
 type: text/vnd.tiddlywiki
 
-A fortress of stone erupts from a square area of ground of your choice that you can see within 1 mile. The area is 120 feet on each side, and it must not have any buildings or other structures on it. Any creatures in the area are harmlessly lifted up as the fortress rises.
+This spell takes 1 minute to cast, and requires material components worth at least [[50c|money]], which the spell consumes. A fortress of stone erupts from a square area of ground of your choice that you can see within 1 mile. The area is 120 feet on each side, and it must not have any buildings or other structures on it. Any creatures in the area are harmlessly lifted up as the fortress rises.
 
 The fortress has four turrets with square bases, each one 20 feet on a side and 30 feet tall, with one turret on each corner. The turrets are connected to each other by stone walls that are each 80 feet long, creating an enclosed area. Each wall is 1 foot thick and is composed of panels that are 10 feet wide and 20 feet tall. Each panel is contiguous with two other panels or one other panel and a turret. You can place up to four stone doors in the fortress's outer wall.
 

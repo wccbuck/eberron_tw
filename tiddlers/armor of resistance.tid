@@ -1,10 +1,21 @@
 category: object
 color: #41D5E1
 created: 20201227061937300
-modified: 20220216202405369
+modified: 20220623232047357
 tags: armor body
 tier: 3
 title: armor of resistance
 type: text/vnd.tiddlywiki
 
 While you wear this armor, you gain resistance to one type of damage (e.g. fire, lightning, necrotic). The GM chooses the type or determines it randomly.
+
+| !<<dr d9>> |!Damage Resistance |
+| 1 |Acid |
+| 2 |Cold |
+| 3 |Fire |
+| 4 |Arcane Force |
+| 5 |Lightning |
+| 6 |Necrotic |
+| 7 |Poison |
+| 8 |Psychic |
+| 9 |Radiant |

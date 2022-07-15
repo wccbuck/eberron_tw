@@ -1,15 +1,15 @@
 category: game mechanics
 created: 20210103021548158
-modified: 20210728170042474
+modified: 20220624183623503
 tags: Storyloom [[Taking Action]]
 title: consequence
 type: text/vnd.tiddlywiki
 
 Whenever you earn a [[partial success]] or [[failure|bad outcome]] for a roll, you typically suffer some sort of consequence. There are five categories of consequences.
 
-!!! Stress or Harm
+!!! Lost Resource
 
-This consequence represents your increasing fatigue or physical injuries you suffer. See [[stress]] and [[harm]] for more information.
+This consequence represents a sacrifice of a limited character resource. Most often, this resource is [[stress]] or [[harm]], representing your increasing fatigue or physical injuries you suffer. The lost resource could also be [[money]], such as in a losing hand of [[Three-Dragon Ante]] or an expensive bribe; or perhaps the expenditure of an additional charge on a charged [[magic item]] you used in the attempt.
 
 !!! Reduced Impact
 

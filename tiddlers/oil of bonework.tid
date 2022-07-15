@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20220624214643078
+modified: 20220624221140219
+tags: convenience tool
+tier: 2
+title: oil of bonework
+type: text/vnd.tiddlywiki
+
+This thin oil can cover a 10 foot cube (or equivalent volume) of bone, and takes 10 minutes to apply. At the end of that time, the volume of raw materials is converted into an object of your choice, as the spell [[fabricate]]. The quality of the object is commensurate with the quality of the raw materials.

@@ -1,0 +1,20 @@
+category: object
+color: #41D5E1
+created: 20220623191612365
+modified: 20220623194521673
+tags: convenience potion
+tier: 2
+title: apprentice's potion
+type: text/vnd.tiddlywiki
+
+After drinking this dull grey potion, you have [[advantage]] when working with one of the following artisan's [[toolset]]s (determined when the potion is created) until midnight.
+
+|!<<dr d8>> |!Toolset |
+| 1 |[[brewer's supplies]] |
+| 2 |[[carpenter's tools]] |
+| 3 |[[cook's utensils]] |
+| 4 |[[mason's tools]] |
+| 5 |[[potter's tools]] |
+| 6 |[[smith's tools]] |
+| 7 |[[tailor's tools]] |
+| 8 |[[tinker's tools]] |

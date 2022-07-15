@@ -1,0 +1,14 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220711183739399
+modified: 20220711184020204
+tags: protection accessory jewelry
+tier: 3
+title: ring of evasion
+type: text/vnd.tiddlywiki
+
+This ring has 3 charges, and it regains <<dr "1d3">> expended
+charges daily at dawn. When you attempt to dodge out of the way of a threat and you roll a [[bad outcome]], you may expend 1 of this ring's charges to upgrade your roll result to a [[partial success]].
+
+<<itemcharges 3>>

@@ -1,14 +1,14 @@
 category: object
 color: #41D5E1
 created: 20211227041918558
-modified: 20220220060952718
+modified: 20220708170942454
 tags: potion protection mobility invigoration
 tier: 2
 title: jolly oozebeans
 type: text/vnd.tiddlywiki
-var1: 5, 2, 7, 1
+var1: Gold, Gray, Red, Blue
 
-Jolly oozebeans typically come in packs of 4. Roll a number of d8's equal to the number of oozebeans in the pack, and record each number rolled; use these numbers to determine the kinds of oozebeans found in the bag using the table below. Each oozebean color has an effect that lasts for 1 minute when you eat it.
+Jolly oozebeans typically come in packs of 4. Roll a number of d8's equal to the number of oozebeans in the pack, and record each number rolled; use these numbers to determine the kinds of oozebeans found in the bag using the table below (or just click the button beneath the table). Each oozebean color has an effect that lasts for 1 minute when you eat it.
 
 You can only be under the effects of 1 oozebean at a time. Eating an oozebean while under the effects of another one causes the effects of the first to immediately end and be replaced by the new one's. This rapid change is difficult to stomach, and may result in a fit of nausea that lasts for about a minute; resistance or immunity to poison ameliorates this side effect.
 
@@ -23,7 +23,7 @@ You can only be under the effects of 1 oozebean at a time. Eating an oozebean wh
 | 8 |Yellow |You have [[advantage]] to resist lightning damage, and immunity to damage from the [[magic missile]] spell. |
 
 <<< 
-<$button><$action-chooserandom $field="var1" $filter="[range[8]]" $number="4" $opt="comma" $replace="true"/>Generate 4 Jolly Oozebeans</$button>
+<$button><$action-chooserandom $field="var1" $filter="White Black Blue Gray Gold Red Green Yellow" $number="4" $opt="comma" $replace="true"/>Generate 4 Jolly Oozebeans</$button>
 
 ''{{!!var1}}''
 <<<

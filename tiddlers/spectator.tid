@@ -1,12 +1,12 @@
 category: creature
 color: #EA868F
 created: 20210112083803699
-modified: 20210727192033606
+modified: 20220715024913607
 tags: beholder aberration
 tier: 2
 title: spectator
 type: text/vnd.tiddlywiki
 
-A spectator is a lesser [[beholder]] that can be summoned directly from [[Xoriat]] by a magical ritual of the [[Vigilant Eye]], the components of which include four beholder eyestalks that are consumed by the ritual's magic. Appropriately, a spectator has four eyestalks, two on each side of the wide eye at the center of its four-foot diameter body.
+A spectator is a lesser [[beholder]] that can be summoned directly from [[Xoriat]] by a magical ritual of the [[Vigilant Eye]], the components of which include four beholder eyestalks that are consumed by the ritual's magic. Appropriately, a spectator has four eyestalks, two on each side of the wide eye at the center of its four-foot diameter body. These eyestalks can fire eye rays much like a standard [[beholder]]; these eye rays can [[confuse|confusion]], paralyze, frighten, or necrotically wound the creature's targets. Oddly, spectators can also cast the spell [[create food and water]]. In addition, whenever a spectator dodges or resists a hostile spell, they can choose to reflect that spell and redirect it towards a target of its choice within 30 feet.
 
 Like any beholder, a spectator views itself as the epitome of its kind, and it has an intense hatred of other spectators. If two spectators encounter one another, they almost always fight to the death.

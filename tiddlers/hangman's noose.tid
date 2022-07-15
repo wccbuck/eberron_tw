@@ -2,12 +2,17 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20201227190943484
-modified: 20220220045729694
+modified: 20220708190707165
 tags: hindrance tool
 tier: 3
 title: hangman's noose
 type: text/vnd.tiddlywiki
 
 Certain hemp ropes used in the execution of final justice can affect those beyond the reach of normal magics. While holding this noose, three times per day, you may cast [[hold]] on an [[undead]]. 
+
+<<<
+!!! hold
+{{||hold}}
+<<<
 
 <<itemcharges 3>>

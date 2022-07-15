@@ -2,12 +2,12 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20211230003134320
-modified: 20220221030529994
+modified: 20220708184027155
 tags: recovery staff weapon
 tier: 3
 title: leeching quarterstaff
 type: text/vnd.tiddlywiki
 
-This quarterstaff has 3 charges and regains <<dr 1d3>> expended charges daily at dawn. When you strike a living creature with this weapon, you can expend 1 of its charges to siphon away some of the target's life force, dealing necrotic damage and healing your own wounds.
+This quarterstaff has 3 charges and regains <<dr 1d3>> expended charges daily at dawn. When you strike a living creature with this weapon, you can expend 1 of its charges to siphon away some of the target's life force, dealing necrotic damage and healing your own wounds (low-[[impact]] [[magical healing]]).
 
 <<itemcharges 3>>

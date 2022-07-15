@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20220715032054383
+modified: 20220715032336742
+tags: tool hindrance summoning
+tier: 1
+title: tangle bug
+type: text/vnd.tiddlywiki
+
+This potion flask contains a single, small, alchemically-enhanced beetle. After it is released from the flask, the bug moves at a speed of 1 mph to a point you specify. When it reaches that point, or after 1 minute passes, or if it suffers any damage, the beetle explodes into a 20-foot-diameter circle of grasping tendrils, as the spell [[entangle]]. The tendrils persist for up to 1 minute.

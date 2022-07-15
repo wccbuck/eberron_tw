@@ -1,0 +1,22 @@
+category: object
+color: #41D5E1
+created: 20220715200725963
+modified: 20220715201717019
+tags: tool hindrance
+tier: 3
+title: iron bands of Bilarro
+type: text/vnd.tiddlywiki
+
+This rusty iron sphere measures 3 inches in diameter
+and weighs 1 pound. You can speak the command word and throw the sphere at a [[troll]]-sized or smaller creature you can see within 60 feet of you. As
+the sphere moves through the air, it opens into a tangle
+of metal bands.
+
+If the bands strike the target creature, that creature is restrained until you choose to speak the command word again to release it. Doing so, or missing with the attack, causes the bands
+to contract and become a sphere once more.
+
+A creature, including the one restrained, can attempt to break the
+iron bands. On a success, the item is destroyed, and
+the restrained creature is freed. 
+
+Once the bands are used, they can't be used again until the next dawn.

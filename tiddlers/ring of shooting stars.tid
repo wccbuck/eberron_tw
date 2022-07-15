@@ -1,0 +1,15 @@
+category: object
+charges: 6
+color: #41D5E1
+created: 20220711195743361
+modified: 20220711202406873
+tags: detection destruction accessory jewelry
+tier: 4
+title: ring of shooting stars
+type: text/vnd.tiddlywiki
+
+To use this ring, you must [[attune|attunement]] to it under an open night sky. While wearing this ring in dim light or darkness, you can cast [[dancing lights]] and [[light]] from the ring at will.
+
+The ring also has 6 charges, and regains <<dr 1d6>> expended charges daily at dawn. You can expend these charges to cast the spells [[faerie fire]] (1 charge) or [[ball lightning]] (2 charges). You can also expend a charge to launch a glowing mote of light from the ring at a point you can see within 60 feet of you; each creature within a 15-foot cone originating from that point is showered in fiery sparks unless they can dodge out of the way.
+
+<<itemcharges 6>>

@@ -1,29 +1,34 @@
 category: creature
 color: #EA868F
 created: 20200415014507473
-modified: 20210727192006816
+modified: 20220710185900626
 tags: immortal
-tier: 2
 title: elemental
 type: text/vnd.tiddlywiki
 
-Pure elementals are incarnations of the elements that make up the universe: air, earth, fire, and water. Though little more than animated energy on their own planes of existence, they can be called on by spellcasters and powerful beings to take shape and perform tasks.
+Elementals are creatures made from or infused with the pure primordial elements that make up the universe: air, earth, fire, and water. Many creatures of this type, such as the "pure" elementals listed below, are little more than animate masses of their respective elements. Others are elemental spirits given physical form and bestowed with a degree of sapience, such as [[mephit]]s and [[genie]]s. Still others have biological forms infused with [[immortal]] elemental energy, such as [[azer]]s and [[golem]]s. 
 
-On its home [[plane]], a pure elemental is a bodiless life force. Its dim consciousness manifests as a physical shape only when focused by the power of magic. A wild spirit of elemental force has no desire except to course through the element of its native plane. Like beasts of the Material Plane, these elemental spirits have no society or culture, and little sense of being.
+!! Pure Elementals
 
-Certain spells and magic items can conjure an elemental. Elementals instinctively resent being pulled from their native planes and bound into service. A creature that summons an elemental must assert force of will to control it.
+Pure elementals are incarnations of the elements that make up the universe: air, earth, fire, and water. Most pure elementals are native to the plane of [[Lamannia]], though [[fire elemental]]s and [[earth elemental]]s can originate in [[Fernia]]. Though little more than animated energy on their own planes of existence, they can be called on by spellcasters and powerful beings to take shape and perform tasks.
 
-Powerful magic can bind an elemental spirit into a material template that defines a specific use and function. For example, elementals can also be bound into [[elemental vessel]]s to power vehicles such as [[airship]]s and the [[lightning rail]]. [[Golems|golem]] are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can't bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely.
+On its home [[plane]], a pure elemental is a bodiless life force. Its dim consciousness manifests as a physical shape only when focused by the power of magic. A wild spirit of elemental force has no desire except to course through the element of its native plane. Like [[beast]]s of the Material Plane, these elemental spirits have no society or culture, and little sense of being.
 
-!! Types of Pure Elemental
+The four main pure elementals are:
 
-* An ''air elemental'' is a funneling cloud of whirling air with a vague semblance of a face.
-* A ''fire elemental'' is a force of capricious devastation. A faint humanoid shape threads through the core of this wild, moving flame. 
-* An ''earth elemental'' plods forward like a walking hill, club-like arms of jagged stone swinging at its sides. Its head and body consist of dirt and stone, occasionally set with chunks of metal, gems, and bright minerals.
-* A ''water elemental'' is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water.
+* [[air elemental]]
+* [[fire elemental]]
+* [[earth elemental]]
+* [[water elemental]]
 
-!! Other Types of Elemental
+More powerful pure elementals include [[elder tempest]]s and [[leviathan]]s.
 
-The "elementals" described above, which are little more than animate masses of their respective elements, are the most recognizable on [[Eberron]]. However, other elementals exist that have biological forms infused with [[immortal]] elemental energy. 
+!! Conjuring and Controlling Elementals
+
+Certain [[spell]]s and [[magic item]]s can conjure an elemental (such as [[conjure elemental]]). Elementals instinctively resent being pulled from their native planes and bound into service. A creature that summons an elemental must assert force of will to control it.
+
+Powerful magic can [[bind an elemental spirit|elemental binding]] into a material template that defines a specific use and function. For example, elementals can be bound into [[elemental vessel]]s to power vehicles such as [[airship]]s and the [[lightning rail]]. [[Golems|golem]] are elemental spirits bound to physical forms, but weaker materials such as flesh and clay can't bind elemental power sufficiently. Durable materials such as stone and iron require stronger magic, which consequently binds an elemental more securely.
+
+!
 
 !!! <<showcreature-type>>

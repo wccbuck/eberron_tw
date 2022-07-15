@@ -1,0 +1,51 @@
+category: object
+charges: 5
+color: #41D5E1
+created: 20220711190245707
+modified: 20220712164414765
+tags: mobility protection communication destruction accessory jewelry
+tier: 5
+title: ring of elemental command
+type: text/vnd.tiddlywiki
+var1: air
+
+This ring is linked to one of four [[elemental]] forces of the [[plane]] of [[Lamannia]]: air, earth, fire, or water. The GM chooses or randomly determines the linked element.
+
+''Elemental Type: '' <$select field='var1' default='air'>
+<$list filter='air earth fire water'>
+<option><<currentTiddler>></option>
+</$list>
+</$select>
+
+While wearing this ring, you have [[advantage]] on any hostile or opposed action you take against [[elemental]] creatures of primordial {{!!var1}}. Any such creatures who are [[tier|creature tier]] ''2'' or lower cannot willingly move within 5 feet of you unless you allow it. You can also speak and understand the [[Primordial]] language.
+
+<$reveal type="match" state="!!var1" text="air">
+
+You can fly as fast as you can walk, and you can hover. Even while unconscious, you are always under the effect of the [[feather fall]] spell. You also have resistance to lightning damage. 
+
+This ring has 5 charges, and regains <<dr 1d4+1>> expended charges daily at dawn.  You can expend 2 of the ring's charges to cast [[dominate]] on an [[air elemental]]. You can also cast the following spells from the ring, expending the necessary number of charges: [[lightning bolt]] (2 charges), [[gale]] (1 charge), or [[wind wall]] (2 charges).
+
+</$reveal>
+<$reveal type="match" state="!!var1" text="earth">
+
+You can move through solid earth or rock at about half your normal walking speed, and your movement is not hindered at all by areas of rubble, rocky terrain, or loose sand. You also have resistance to acid damage.
+
+This ring has 5 charges, and regains <<dr 1d4+1>> expended charges daily at dawn.  You can expend 2 of the ring's charges to cast [[dominate]] on an [[earth elemental]]. You can also cast the following spells from the ring, expending the necessary number of charges: [[earth tremor]] (1 charge), [[stoneskin]] (2 charges), or [[wall of stone]] (2 charges).
+
+</$reveal>
+<$reveal type="match" state="!!var1" text="fire">
+
+You are nearly immune to fire damage.
+
+This ring has 5 charges, and regains <<dr 1d4+1>> expended charges daily at dawn.  You can expend 2 of the ring's charges to cast [[dominate]] on a [[fire elemental]]. You can also cast the following spells from the ring, expending the necessary number of charges: [[burning hands]] (1 charge), [[fireball]] (2 charges), or [[wall of fire]] (2 charges).
+
+</$reveal>
+<$reveal type="match" state="!!var1" text="water">
+
+You can breathe underwater and can swim as fast as you can walk. You can also stand on and walk across liquid surfaces as if they were solid ground.
+
+This ring has 5 charges, and regains <<dr 1d4+1>> expended charges daily at dawn.  You can expend 2 of the ring's charges to cast [[dominate]] on a [[water elemental]]. You can also cast the following spells from the ring, expending the necessary number of charges: [[create or destroy water]] (1 charge), [[control water]] (2 charges), [[watery sphere]] (2 charges), or [[wall of water]] (2 charges).
+
+</$reveal>
+
+<<itemcharges 5>>

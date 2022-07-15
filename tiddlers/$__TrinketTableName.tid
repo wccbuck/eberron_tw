@@ -1,8 +1,8 @@
-changed: yes
+changed: no
 created: 20210602174512062
-modified: 20220302040612203
-tags: 
+modified: 20220707210415713
+tags:
 title: $:/TrinketTableName
 type: text/vnd.tiddlywiki
 
-$:/SECWTrinketTable
+$:/AllTrinketTables

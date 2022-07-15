@@ -1,0 +1,30 @@
+category: object
+charges: 7
+color: #41D5E1
+created: 20220715225400739
+modified: 20220715231242470
+tags: [[magical implement]] wand ridiculous
+tier: 3
+title: wand of wonder
+type: text/vnd.tiddlywiki
+var: You cast [[fireball]].
+
+This wand has 7 charges. While holding it, you can expend 1 of its charges and choose a target within 120 feet of you. The target can be a creature, an
+object, or a point in space. Make an [[Operate|action]] attempt, and click the button bellow to discover what happens.
+
+If the effect causes you to cast a spell from the wand, and the spell normally has a range expressed in feet, its range becomes 120 feet if it isn't already.
+
+If the effect covers an area, you must center the spell on and include the target. If an effect has multiple possible subjects, the GM randomly determines which ones are affected.
+
+The wand regains <<dr 1d6+1>> expended charges daily at dawn. If you get a [[bad outcome]] on your attempt when you expend the last charge, trigger a [[random magical effect]]. The wand then crumbles into dust and is destroyed.
+
+<$button>
+<$action-chooserandom $dataTiddler="$:/WandOfWonderEffects" $field="var"/>
+Wand Of Wonder Effect
+</$button>
+
+<<<
+''Effect: ''{{!!var}}
+<<<
+
+<<itemcharges 7>>

@@ -1,0 +1,18 @@
+category: object
+charges: 4
+color: #41D5E1
+created: 20220624211648316
+modified: 20220624211848587
+tags: hindrance mace weapon
+tier: 3
+title: dancing club
+type: text/vnd.tiddlywiki
+
+This club has 4 charges and regains <<dr 1d4>> charges daily at dawn. When you hit a creature with this weapon, you may expend a charge to cast [[irresistible dance]] on the target.
+
+<<<
+!!! irresistible dance
+{{||irresistible dance}}
+<<<
+
+<<itemcharges 4>>

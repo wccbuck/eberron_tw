@@ -1,0 +1,14 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220711183145021
+modified: 20220711183434898
+tags: summoning [[musical instrument]] [[magical implement]]
+tier: 2
+title: pipes of haunting
+type: text/vnd.tiddlywiki
+
+These pipes have 3 charges, and regain <<dr 1d3>> expended charges daily at dawn. If you are proficient with wind instruments, you can play these pipes and expend 1 charge to create an eerie, spellbinding tune. Each creature within 30 feet of you that hears you play and fails to resist the pipes' enchantment becomes deathly frightened of you for up to 1 minute.
+If you wish, you can choose not to target all creatures in the area that aren't hostile toward you.
+
+<<itemcharges 3>>

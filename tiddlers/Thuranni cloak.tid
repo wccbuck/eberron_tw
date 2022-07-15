@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201210040754335
-modified: 20220220224426480
+modified: 20220704025445192
 tags: [[Mark of Shadow]] accessory [[dragonmark focus item]] body protection stealth
 tier: 2
 title: Thuranni cloak
@@ -10,6 +10,6 @@ type: text/vnd.tiddlywiki
 
 To use this cloak's effect, you must have the [[Mark of Shadow]].
 
-While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, much like a [[displacer beast]]. If you or the cloak take damage, the property ceases to function for 5-10 seconds. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move.
+While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, much like a [[displacer beast]]. Creatures who attempt to attack you must do so at a [[disadvantage]]. If you or the cloak take damage, the property ceases to function for 5-10 seconds. This property is suppressed while you are incapacitated, restrained, or otherwise unable to move.
 
 (See also [[cloak of displacement]], the higher rarity version of this item that does not require a [[dragonmark]].)
