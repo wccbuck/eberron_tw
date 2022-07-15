@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20220624213139299
+modified: 20220624213629519
+tags: tool hindrance
+tier: 1
+title: curse oil
+type: text/vnd.tiddlywiki
+
+This sulfurous oil can cover one weapon, and takes 10 minutes to apply. The next creature to touch the weapon must resist its magic or become temporarily [[cursed]]. While cursed, the creature is unwilling to part with the weapon, and has [[disadvantage]] on attempts to use other weapons. The curse lasts for 5 minutes, or until [[magically removed|remove curse]].

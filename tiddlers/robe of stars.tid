@@ -1,0 +1,20 @@
+category: object
+charges: 6
+color: #41D5E1
+created: 20220715042918568
+modified: 20220715044149870
+tags: accessory body
+tier: 4
+title: robe of stars
+type: text/vnd.tiddlywiki
+
+This black or dark blue robe is embroidered with small white or silver stars. 
+
+Six stars, located on the robe's upper front portion, are particularly large. While wearing this robe, you can pull off one of the stars and use it to
+cast [[magic missile]] as a [[rare tier|rarity]] spell. Daily at dusk, <<dr 1d6>> removed stars reappear on the robe.
+
+While you wear the robe, you can enter the [[Astral Sea]] along with everything you are
+wearing and carrying. You remain there until you choose to return to the [[plane]] you were on. You reappear in the last space you occupied, or if that space
+is occupied, the nearest unoccupied space.
+
+<<itemcharges 6>>

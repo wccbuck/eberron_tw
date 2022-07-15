@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20220710191336276
+modified: 20220710191539330
+tags: detection potion
+tier: 1
+title: potion of augury
+type: text/vnd.tiddlywiki
+
+When you drink this tasteless potion, you receive an omen about the results of a specific course of action that you plan to take within the next 30 minutes (as the spell [[augury]]). If the results will be good, you gain 1 temporary [[harm]] box that persists for 1 hour. If the results will be bad, you become nauseous and disoriented for 1 hour, suffering [[disadvantage]] on all your actions.

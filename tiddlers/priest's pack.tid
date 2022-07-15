@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210808010242577
-modified: 20220110034324718
+modified: 20220704204854850
 tags: [[equipment pack]]
 tier: 1
 title: priest's pack
@@ -10,3 +10,5 @@ type: text/vnd.tiddlywiki
 This equipment pack includes a blanket, 10
 candles, a tinderbox, an alms box, 2 blocks of incense, a
 censer, vestments, 2 days of rations, and a waterskin.
+
+Average cost: [[2c|money]].

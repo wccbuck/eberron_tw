@@ -1,7 +1,7 @@
 created: 20220105075435990
-modified: 20220105082342920
+modified: 20220715220145699
 tags: $:/tags/Macro
 title: $:/itemchargemacro
 type: text/vnd.tiddlywiki
 
-\define itemcharges(charges)<div align="right">''Item Charges Remaining: ''<$edit-text field="charges" tag=input type="number" class="cs-itemcharges" size=1 default="$charges$" min="0" max="$charges$"/></div>
+\define itemcharges(charges)<div align="right">''Item Charges Remaining: ''<$edit-text field="charges" tag=input type="number" class="itemcharges" size=1 default="$charges$" min="0" max="$charges$"/></div>

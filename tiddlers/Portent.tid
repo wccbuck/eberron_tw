@@ -1,0 +1,11 @@
+category: talent
+created: 20220705183335837
+modified: 20220705184123430
+tags: wizard
+title: Portent
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+''Prerequisite:'' [[Arcane Tradition]] ([[divination]]).
+
+Your study of [[divination]] has begun to cause glimpses of the future to press in on your awareness. Whenever you complete a period of rest of at least six hours, roll a single <<dr d6>> and record the result. For the next 24 hours, whenever you or a creature you can see makes an attempt and the highest result of their roll matches your foretelling roll, you may grant that attempt +2 [[impact]] or -2 [[risk]]. Each foretelling roll may only be used once.

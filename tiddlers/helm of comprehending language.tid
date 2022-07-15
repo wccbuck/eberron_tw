@@ -1,0 +1,20 @@
+category: object
+color: #41D5E1
+created: 20220623230821206
+modified: 20220623231603183
+tags: communication armor head
+tier: 2
+title: helm of comprehending language
+type: text/vnd.tiddlywiki
+var: Abyssal
+
+While wearing this helm, you can understand one of the following [[language]]s (determined by the GM, or randomly) but ''not any other language''.
+
+<$button>
+<$action-chooserandom $filter="[tag[language]]" $field="var"/>
+Random Language
+</$button>
+
+<<<
+''Language: ''<$link to={{!!var}}/>
+<<<

@@ -1,0 +1,23 @@
+2d4: 7
+category: object
+color: #41D5E1
+created: 20220624052859983
+d10: 3
+d20: 20
+d35: 15
+d4: 4
+d50: 10
+d7: 7
+duration: 15 minutes
+effect: For {{!!s_duration}}, the caster's left foot is fused to the ground.
+l_duration: 5 hours
+modified: 20220715164100063
+s_duration: 30 seconds
+tags: ridiculous tool scroll
+tier: 1
+title: scroll of wild magic
+type: text/vnd.tiddlywiki
+
+This scroll appears to have been pieced together from other scrolls. You can read this scroll and unleash a [[random magical effect]]. The scroll's magic is then expended.
+
+{{||random magical effect}}

@@ -2,7 +2,7 @@ category: spell
 color: #B7A1E0
 created: 20211130031347636
 highertier: show
-modified: 20220220214951622
+modified: 20220715014100978
 tags: psionics
 tier: 3
 title: conjure astral construct
@@ -12,9 +12,9 @@ By channeling [[psionic|psionics]] metacreativity, you form an "astral [[constru
 
 An astral construct generally appears as an animate clump of translucent ectoplasm with a vaguely [[humanoid]] shape, but the manifester can mold or sculpt one according to their whim, of roughly human size. If you build the construct for combat, it has a [[creature tier]] of ''2''. If not, it is creature tier ''1'', and you choose ''two'' of the following special abilities:
 
-* The astral construct's land speed increases from roughly 15 mph to 30 mph.
-* The construct has wings and can physically fly up to 15 mph.
-* The construct is streamlined and shark-like, and can swim up to 20 mph.
+* The astral construct's maximum land speed increases from roughly 7 mph to 15 mph.
+* The construct has wings and can physically fly up to 7 mph.
+* The construct is streamlined and shark-like, and can swim up to 10 mph.
 * The construct has an [[advantage]] when attempting to grapple and restrain creatures.
 * The construct can cast the spells [[mage hand]] (psionic) and [[force blast]].
 * The construct can cast the spells [[lightning lure]] and [[shocking grasp]].
@@ -29,9 +29,9 @@ When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may do a
 * As above, but the astral construct can be as large as a horse or an [[ogre]], and you can increase the [[creature tier]] by 1.
 * Conjure three astral constructs as above.
 * Conjure one [[creature tier]] ''1'' astral construct that can be as large as a horse or an ogre, with ''two'' of the following special properties:
-** The astral construct's land speed increases from roughly 15 mph to 50 mph.
-** The construct has wings and can physically fly up to 30 mph.
-** The construct is streamlined and shark-like, and can swim up to 40 mph.
+** The astral construct's land speed increases from roughly 7 mph to 30 mph.
+** The construct has wings and can physically fly up to 15 mph.
+** The construct is streamlined and shark-like, and can swim up to 20 mph.
 ** The construct can cast two [[uncommon-tier|spell tier]] spells for free. The chosen spells are subject to GM approval.
 ** The construct can turn invisible at will.
 ** The construct has [[blindsight]] out to 60 feet.

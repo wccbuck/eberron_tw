@@ -1,0 +1,15 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220624225641798
+modified: 20220624230155969
+tags: armor body
+tier: 4
+title: ring mail of three wishes
+type: text/vnd.tiddlywiki
+
+When you are hit by an attack while wearing this fine armor, you can choose to wish that you hadn't been hit. If you do so, reality shifts such that the attack missed you, but the effective [[rarity]] of the protectiveness of this armor decreases by 1. After the third wish, the armor's rings vanish and it becomes nonmagical leather armor.
+
+<<itemcharges 3>>
+
+(When charges remaining = 2, the tier of this armor is considered "rare". When charges = 1, "uncommon".)

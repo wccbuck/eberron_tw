@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200423002333849
-modified: 20211119181711239
+modified: 20220715024116609
 tags: aberration
 tier: 4
 title: beholder
@@ -25,7 +25,21 @@ var9: triangle
 
 One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these [[aberration]]s dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.
 
-A beholder's spheroid body levitates at all times, and its great bulging eye sits above a wide, toothy maw, while the smaller eyestalks that crown its body twist and turn to keep its foes in sight. When a beholder sleeps, it closes its central eye but leaves its smaller eyes open and alert. Each of these smaller eyes are capable of emitting a different ray of magical energy; the gaze from one eyestalk might result in petrification, while a different eye ray might disintegrate its target, and another might charm a [[humanoid]].
+A beholder's spheroid body levitates at all times, and its great bulging eye sits above a wide, toothy maw, while the smaller eyestalks that crown its body twist and turn to keep its foes in sight. When a beholder sleeps, it closes its central eye but leaves its smaller eyes open and alert. Each of these smaller eyes are capable of emitting a different ray of magical energy; see the eye rays table below. Its central eye emits a 150-foot cone of [[antimagic|antimagic field]].
+
+| !<<dr d12>> |!Eye Ray |
+| 1 |//Fulminating Ray:// cause fire and lightning damage to a creature. |
+| 2 |//Caustic Frost Ray:// cause acid and cold damage to a creature. |
+| 3 |//Charm Ray:// [[charm]] a creature for up to 1 hour, or until the beholder harms the creature. |
+| 4 |//Paralyzing Ray:// make a creature unable to move or speak for up to 1 minute. |
+| 5 |//Fear Ray:// make a creature terrified of the beholder for up to 1 minute. |
+| 6 |//Slowing Ray:// [[slow]] a creature for up to 1 minute. |
+| 7 |//Enervation Ray:// cause necrotic damage and [[stress]] to a creature. |
+| 8 |//Telekinetic Ray:// move an object or creature up to 300 pounds 30 feet in any direction. |
+| 9 |//Sleep Ray:// make a creature fall unconscious for up to 1 minute. |
+| 10 |//Petrification Ray:// petrify a creature, as the spell [[flesh to stone]]. |
+| 11 |//Disintegration Ray:// cause arcane force damage to a creature or object, reducing the target to fine gray dust if it is incapacitated. |
+| 12 |//Death Ray:// cause a great deal of necrotic damage to a creature. |
 
 Beholders and their kin ([[gazer]]s, [[gauth]]s, [[spectator]]s, etc) are native to the plane of [[Xoriat]], and were part of the initial incursion of the [[daelkyr]] into Eberron along with other [[aberration]]s from the plane of madness. They are closely associated with the daelkyr known as [[Belashyrra]], the Lord of Eyes. Many sages believe each beholderkin is hand-crafted by Belashyrra, or perhaps that each reflects an aspect of the daelkyr's curious mind—something it wishes to see—and once that curiosity is resolved, the beholder will vanish. Others believe that Belashyrra uses beholders but did not create them; that instead they are the eyes of [[Xoriat]] itself, projected into the material plane.
 

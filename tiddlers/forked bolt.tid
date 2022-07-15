@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20220715031221335
+modified: 20220715031430042
+tags: projectile weapon
+tier: 1
+title: forked bolt
+type: text/vnd.tiddlywiki
+
+When you shoot this bolt from a crossbow, it splits and arcs towards up to three different targets within range you choose. The damage potential of an ordinary bolt is split evenly across each of the forked bolt fragments.

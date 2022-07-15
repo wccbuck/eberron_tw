@@ -1,10 +1,15 @@
 category: object
 color: #41D5E1
 created: 20201231224818588
-modified: 20220220234008399
+modified: 20220708175325595
 tags: detection accessory jewelry convenience
 tier: 2
 title: ring of alarm
 type: text/vnd.tiddlywiki
 
 The wearer of this copper wire ring can cast the spell [[alarm]] on a point centered on the ring once per day. In addition to the listed conditions that can trigger the alarm, the wearer of this ring can also have the ring trigger at a certain time of day.
+
+<<<
+!!! alarm
+{{||alarm}}
+<<<

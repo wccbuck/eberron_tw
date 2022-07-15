@@ -1,10 +1,17 @@
 category: object
+charges: 3
 color: #41D5E1
 created: 20201227051604077
-modified: 20220221023715973
+modified: 20220708174711470
 tags: summoning [[musical instrument]] [[magical implement]]
 tier: 2
 title: pipes of the sewers
 type: text/vnd.tiddlywiki
 
-If you are proficient with wind instruments, you can play these magical pipes to summon and control swarms of rats.
+If you are proficient with wind instruments, you can play these magical pipes to summon and control swarms of rats. While you are [[attuned|attunement]] to the pipes, ordinary rats and [[dire rat]]s are indifferent toward you and will not attack you unless you threaten or harm them.
+
+The pipes have 3 charges. If you play the pipes and expend a charge, you can call forth a swarm of rats ([[creature tier]] ''1''), provided that enough rats are within half a mile of you to be called in this fashion (as determined by the GM). If there aren't enough rats to form a swarm, the charge is wasted. Called swarms move toward the music by the shortest available route but aren't under your control otherwise. The pipes regain <<dr 1d3>> expended charges daily at dawn.
+
+If the rats are hostile to you or are already under another creature's control, they may be able to resist your enthralling performance.
+
+<<itemcharges 3>>

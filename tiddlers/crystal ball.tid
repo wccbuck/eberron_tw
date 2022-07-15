@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201217033505460
-modified: 20220220202429203
+modified: 20220715181753405
 tags: detection tool
 tier: 4
 title: crystal ball
@@ -13,3 +13,5 @@ This crystal sphere is typically about 6 inches in diameter. While touching it, 
 !!! scrying
 {{||scrying}}
 <<<
+
+More expensive versions of crystal ball exist which allow the user to cast [[detect thoughts]] on creatures they can see while scrying, communicate with them telepathically, or scry with [[truesight]].

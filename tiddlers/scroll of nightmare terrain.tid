@@ -1,0 +1,20 @@
+category: object
+color: #41D5E1
+created: 20220708215708162
+modified: 20220715164100061
+tags: stealth hindrance tool scroll
+tier: 2
+title: scroll of nightmare terrain
+type: text/vnd.tiddlywiki
+
+When you read this scroll aloud, you can make natural terrain within a 150-foot cube centered on you look, sound, and smell like one of the following terrains (determined by the GM at the time when the scroll was created). Manufactured structures, equipment, and creatures within the area aren't changed in appearance. The illusion lasts for eight hours.
+
+The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn't obvious by touch, a creature carefully examining the illusion may be able to disbelieve it. A creature who detects the illusion sees it as a vague image superimposed on the terrain.
+
+| !<<dr d6>> |!Nightmare Terrain |
+| 1 |a dark jungle of darting shadows and [[assassin vine]]s |
+| 2 |a dark pit filled with fumes and fell screams |
+| 3 |a field of gallows filled with hanging corpses |
+| 4 |a stately garden filled with poisoned revelers |
+| 5 |a swamp of aberrant trees and writhing tentacles |
+| 6 |a winding labyrinth of thorn hedges |

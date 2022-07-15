@@ -1,13 +1,13 @@
 category: object
 color: #41D5E1
 created: 20201227025356728
-modified: 20220218212848012
+modified: 20220707211623521
 tags: tool mobility
 tier: 2
 title: balloon pack
 type: text/vnd.tiddlywiki
 
-This backpack contains a bound air [[elemental]] and a compact leather balloon. While you're wearing the backpack, you can deploy the balloon and levitate for 10 minutes. Alternatively, you can deploy the balloon when you're falling and gain the effect of the [[feather fall]] spell for yourself.
+This backpack contains a bound [[air elemental]] and a compact leather balloon. While you're wearing the backpack, you can deploy the balloon and levitate for 10 minutes. Alternatively, you can deploy the balloon when you're falling and gain the effect of the [[feather fall]] spell for yourself.
 
 When the effect ends, the balloon slowly deflates as the [[elemental]] escapes and returns to its native [[plane]]. As the balloon deflates, you descend gently toward the ground for up to 60 feet. If you are still in the air at the end of this distance, you fall if you have no other means of staying aloft.
 

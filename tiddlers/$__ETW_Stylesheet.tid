@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20220501233901911
+modified: 20220715220426100
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -210,9 +210,14 @@ input.cs-a {
   width: 3em;
 }
 
-input.cs-itemcharges {
+input.itemcharges {
   height: 2em;
   width: 2.5em;
+}
+
+input.itemcharges-wide {
+  height: 2em;
+  width: 3.5em;
 }
 
 label.cs-label {

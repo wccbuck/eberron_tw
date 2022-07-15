@@ -1,0 +1,23 @@
+category: spell
+color: #B7A1E0
+created: 20220708184830802
+highertier: show
+modified: 20220708190252671
+tags: transmutation [[primal magic]]
+tier: 3
+title: animate plant
+type: text/vnd.tiddlywiki
+
+You target a non-magical plant you can see within 90 feet of you. It immediately animates, becoming a [[plant creature]] of <<showcreature-lteq "creature tier 2" 2 "plant creature">> and beast-like intelligence under your command. The plant creature reverts to an ordinary plant, or crumbles into a pile of plant matter, when it is incapacitated, or after 1 hour has passed.
+
+The [[plant creature]] is friendly to you and your companions for the full duration. It obeys any verbal commands that you issue to it. If you don't issue any commands to the creature, it defends itself from hostile creatures  but otherwise takes no actions..
+
+If your concentration is broken, the plant creature doesn't disappear. Instead, you lose control of it, and it acts according to its nature; it may even become hostile to you. An uncontrolled plant creature can't be dismissed by you, and it reverts 1 hour after you animated it.
+
+<$reveal type="match" state="!!highertier" text="show">
+
+!! Epic-Tier
+
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, the [[creature tier]] of the animated [[plant creature]] is <<showcreature-lteq "3" 3 "plant creature">>. Alternatively, you can animate four plant creatures of creature tier ''2'' simultaneously.
+
+</$reveal>

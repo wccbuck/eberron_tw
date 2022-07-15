@@ -1,0 +1,20 @@
+category: object
+color: #41D5E1
+created: 20220703204811919
+modified: 20220706211903613
+tags: ridiculous hindrance potion
+tier: 1
+title: suggestion potion
+type: text/vnd.tiddlywiki
+
+When you drink this sweet potion, a course of activity is suggested to you, as though the spell [[suggestion]] had been cast on you. If you fail to resist, you are magically compelled to perform one of the following actions (determined by the GM, or randomly, when this potion was created). The effect ends when you finish what you were asked to do, or after 8 hours.
+
+| !<<dr d8>> |!Suggested Action |
+| 1 |Answer each question you are asked with a riddle. |
+| 2 |Beg for coins in the nearest town. |
+| 3 |Buy every chicken in the nearest town and set them free. |
+| 4 |Buy everyone in the nearest tavern a round of drinks. |
+| 5 |Creatively insult the next person you encounter. |
+| 6 |Obtain seven weapons and leave them in the woods. |
+| 7 |Spare the next group of hostile creatures you encounter. |
+| 8 |Unlock every door in the nearest dungeon or fortress. |

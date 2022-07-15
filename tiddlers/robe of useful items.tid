@@ -1,0 +1,31 @@
+category: object
+color: #41D5E1
+created: 20220710214448884
+modified: 20220712164411469
+patches: <table border='0'><tr><td><$checkbox field='var13' checked='yes' default='no'/></td><td>iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself</td></tr><tr><td><$checkbox field='var14' checked='yes' default='no'/></td><td>bag of [[10c|money]]</td></tr><tr><td><$checkbox field='var15' checked='yes' default='no'/></td><td>rowboat (12 feet long)</td></tr><tr><td><$checkbox field='var16' checked='yes' default='no'/></td><td>bag of [[10c|money]]</td></tr><tr><td><$checkbox field='var17' checked='yes' default='no'/></td><td>iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself</td></tr><tr><td><$checkbox field='var18' checked='yes' default='no'/></td><td>rowboat (12 feet long)</td></tr><tr><td><$checkbox field='var19' checked='yes' default='no'/></td><td>wooden ladder (24 feet long)</td></tr><tr><td><$checkbox field='var20' checked='yes' default='no'/></td><td>four [[potions of healing|potion of healing]]</td></tr></table>
+tags: convenience accessory body
+tier: 3
+title: robe of useful items
+type: text/vnd.tiddlywiki
+
+This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
+
+The robe has two of each of the following patches:
+
+<table border="0">
+<tr><td><$checkbox field='var1' checked='yes' default='no'/></td><td><$checkbox field='var2' checked='yes' default='no'/></td><td>dagger</td></tr>
+<tr><td><$checkbox field='var3' checked='yes' default='no'/></td><td><$checkbox field='var4' checked='yes' default='no'/></td><td>bullseye lantern (filled and lit)</td></tr>
+<tr><td><$checkbox field='var5' checked='yes' default='no'/></td><td><$checkbox field='var6' checked='yes' default='no'/></td><td>steel mirror</td></tr>
+<tr><td><$checkbox field='var7' checked='yes' default='no'/></td><td><$checkbox field='var8' checked='yes' default='no'/></td><td>10-foot pole</td></tr>
+<tr><td><$checkbox field='var9' checked='yes' default='no'/></td><td><$checkbox field='var10' checked='yes' default='no'/></td><td>hempen rope (50 feet, coiled)</td></tr>
+<tr><td><$checkbox field='var11' checked='yes' default='no'/></td><td><$checkbox field='var12' checked='yes' default='no'/></td><td>sack</td></tr>
+</table>
+
+In addition, the robe has <<dr 4d4>> other patches. The GM chooses the patches or determines them randomly. 
+
+<$button>
+<$action-roui $dataTiddler="$:/RobeOfUsefulItemsTable" $number="4d4"/>
+Generate 4d4 Useful Item Patches
+</$button>
+
+{{!!patches}}

@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20210412031800235
-modified: 20211228174128220
+modified: 20220704211835033
 tags: [[divine magic]]
 tier: 2
 title: ceremony
 type: text/vnd.tiddlywiki
 
-You perform a special religious ceremony at least one hour in length that is infused with [[divine magic]]. When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.
+You perform a special religious ceremony at least one hour in length that is infused with [[divine magic]]. This spell requires and consumes ritual components worth at least [[2c|money]]. When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.
 
 * ''Bless Water.'' You touch one vial of water and cause it to become [[holy water]].
 * ''Coming of Age.'' You touch one [[humanoid]] who is a young adult. For the next 24 hours, the target has [[advantage]] on all their attempts. A creature can benefit from this rite only once.

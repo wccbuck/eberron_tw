@@ -1,0 +1,24 @@
+category: object
+color: #41D5E1
+created: 20220624013247813
+modified: 20220624013931047
+tags: weapon [[any melee]]
+tier: 2
+title: backup weapon
+type: text/vnd.tiddlywiki
+
+Whenever you are disarmed of this weapon, the weapon instantly returns to your hand. However, each time the weapon leaves and reenters your hand, it transforms into a new type of melee weapon. Roll on the below table to determine the new weapon type.
+
+| !<<dr d12>> |!New Weapon Type |
+| 1 |battleaxe |
+| 2 |flail |
+| 3 |longsword |
+| 4 |morningstar |
+| 5 |rapier |
+| 6 |scimitar |
+| 7 |short sword |
+| 8 |spear |
+| 9 |trident |
+| 10 |war pick |
+| 11 |warhammer |
+| 12 |whip |

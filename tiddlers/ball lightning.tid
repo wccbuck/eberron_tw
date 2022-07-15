@@ -1,0 +1,14 @@
+category: spell
+color: #B7A1E0
+created: 20220711194155775
+modified: 20220711195721731
+tags: evocation
+tier: 3
+title: ball lightning
+type: text/vnd.tiddlywiki
+
+You can create one to three 3-foot-diameter spheres of lightning. The more spheres you create, the less powerful each sphere is individually.
+
+Each sphere appears in an unoccupied space you can see within 120 feet of you. The spheres last up to 1 minute (or less if your concentration breaks). Each sphere sheds dim light in a 30-foot radius. You can move each sphere up to 10 mph in any direction at will, but you can't move them farther than 120 feet away from you. 
+
+When a creature other than you moves within 5 feet of a sphere, the sphere discharges lightning at that creature and disappears. If you created three spheres, they are each about as powerful as a cantrip; if you created two, they are each about as powerful as an [[uncommon-tier|spell tier]] spell.

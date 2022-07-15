@@ -1,10 +1,12 @@
 category: object
 color: #41D5E1
 created: 20201227052320705
-modified: 20220220060305777
+modified: 20220711181452636
 tags: potion invigoration
 tier: 2
 title: potion of giant strength
 type: text/vnd.tiddlywiki
 
-When you drink this potion, your physical strength matches that of a [[hill giant]]. Higher-rarity and higher-potency versions of this potion exist.
+When you drink this potion, which contains a sliver of fingernail from a [[hill giant]], gain +2 [[impact]] when performing feats of strength for the next hour. This bonus ''does not stack'' with any other bonuses you may have to performing feats of strength.
+
+Higher-[[rarity]] and higher-potency versions of this potion exist, corresponding with different types of [[giant]].

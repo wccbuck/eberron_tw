@@ -1,13 +1,13 @@
 category: object
 color: #41D5E1
 created: 20210621023749602
-modified: 20220220052542515
+modified: 20220715041403536
 tags: tool recovery
 tier: 1
 title: cognizance crystal
 tooltip: object which stores psionic energy
 type: text/vnd.tiddlywiki
 
-A cognizance crystal is an object which can store and release [[psionic energy|psionics]]. Wielders of psionics can use these crystals to restore spellcasting [[stress]] or use the stored energy within to manifest psionic powers without expending their own energy.
+A cognizance crystal is an object which can store and release [[psionic energy|psionics]]. A cognizance crystal can store one spellcasting [[stress]], which the psionic wielder must expend normally in order to store. The wielder can then expend the stored energy at a later time in place of their own [[stress]] to use any [[psionic|psionics]] power. A crystal can hold stored energy for up to 24 hours before it dissipates. Higher-rarity versions of this item can store more than one stress.
 
 A cognizance crystal weighs about 1 pound and consists of a core crystal and two or three smaller crystals arranged in specific positions around it on strands of silver wire. The crystals give off a faint glow.

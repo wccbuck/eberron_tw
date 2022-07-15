@@ -12,10 +12,10 @@ d7: 3
 duration: 1 minute
 effect: Target's skin appears uniformly smooth and waxy for the next {{!!duration}}.
 l_duration: 5 hours
-modified: 20220216222517043
+modified: 20220706211341564
 s_duration: 12 seconds
 spell: hellish rebuke
-tags: arms accessory
+tags: ridiculous arms accessory
 tier: 3
 title: point-and-hope gauntlets
 type: text/vnd.tiddlywiki

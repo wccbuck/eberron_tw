@@ -1,0 +1,33 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220715212145661
+lifetimecharges: 22
+modified: 20220715220457483
+tags: protection [[magical implement]] rod
+tier: 4
+title: rod of absorption
+type: text/vnd.tiddlywiki
+
+\define roa-charges(charges)<div align="right">''Spellcasting Stress Stored: ''<$edit-text field="charges" tag=input type="number" class="itemcharges-wide" default="$charges$" min="0" max="$charges$"/></div>
+\define roa-lifetime(charges)<div align="right">''Lifetime Stress Remaining: ''<$edit-text field="lifetimecharges" tag=input type="number" class="itemcharges-wide" default="$charges$" min="0" max="$charges$"/></div>
+
+While holding this rod, you can use it to attempt to absorb a spell that is targeting only you and not with an area of effect. The absorbed spell's effect is canceled,
+and the spell's energy—not the spell itself—is stored in
+the rod. The energy has the same level as the [[stress]] expended when the spell was cast. The rod can absorb and store up to 25 spellcasting stress over the course of its existence. Once the rod absorbs 25 stress, it can't absorb more. If you
+are targeted by a spell that the rod can't store, the rod
+has no effect on that spell.
+
+When you become [[attuned|attunement]] to the rod, you know how
+much spellcasting [[stress]] the rod has absorbed over the
+course of its existence, and how much it currently has stored.
+
+If you are a spellcaster holding the rod, you can use the energy stored in it in place of your own [[stress]] boxes to cast spells. 
+
+A newly found rod has <<dr 1d6>> levels of spellcasting [[stress]]
+stored in it already. A rod that can no longer absorb
+spell energy and has no energy remaining becomes
+nonmagical.
+
+<<roa-charges 25>>
+<<roa-lifetime 25>>

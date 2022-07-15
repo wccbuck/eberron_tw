@@ -1,0 +1,15 @@
+category: object
+color: #41D5E1
+created: 20220624043201465
+modified: 20220708175934821
+tags: accessory arms protection
+tier: 2
+title: sinister glove
+type: text/vnd.tiddlywiki
+
+While wearing this black leather glove, you become left-handed. In addition, you can cast the spell [[protection from immortals]]. The glove can't be used this way again until the next dawn.
+
+<<<
+!!! protection from immortals
+{{||protection from immortals}}
+<<<

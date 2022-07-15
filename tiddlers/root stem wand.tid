@@ -1,12 +1,17 @@
 category: object
 color: #41D5E1
 created: 20210903191446583
-modified: 20220216233632187
+modified: 20220708191746307
 tags: [[magical implement]] wand
 tier: 3
 title: root stem wand
 type: text/vnd.tiddlywiki
 
 This wand was made from the root-stem of a [[shambling mound]]. If you are a spellcaster, you can cast [[blight]] while [[attuned|attunement]] to this wand. You also gain an additional spellcasting [[stress]] box which you can only use to cast this spell.
+
+<<<
+!!! blight
+{{||blight}}
+<<<
 
 Additionally, if you plant this wand into soft soil, the wand will slowly drain the energy of all living beings in contact with the ground within a 30-foot radius. Once it has absorbed enough energy, the wand will transform into a fledgling [[shambling mound]]. This creature has no allegiance to any creature and will act in its own interest.

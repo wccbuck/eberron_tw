@@ -2,7 +2,7 @@ category: phenomenon
 color: #432874
 created: 20200414215001795
 list: [[aberrant dragonmark]] [[Mark of Death]] [[Mark of Detection]] [[Mark of Finding]] [[Mark of Handling]] [[Mark of Healing]] [[Mark of Hospitality]] [[Mark of Making]] [[Mark of Passage]] [[Mark of Scribing]] [[Mark of Sentinel]] [[Mark of Shadow]] [[Mark of Storm]] [[Mark of Warding]]
-modified: 20220521214301082
+modified: 20220707000155131
 tags: 
 title: dragonmark
 tooltip: hereditary mark of magical power, and the basis of the dragonmarked houses' economic power
@@ -84,7 +84,7 @@ on the table below for inspiration.
 | !<<dr d8>> |!Dragonmark Quirk |
 | 1 |Your dragonmark is unusually small or faint. |
 | 2 |Your dragonmark is exceptionally large. |
-| 3 |Your dragonmark appears somewhere else on your body whenever you finish a long rest. |
+| 3 |Your dragonmark appears somewhere else on your body each morning. |
 | 4 |Your dragonmark emits dim light in a 5-foot radius for 10 minutes whenever you use it. |
 | 5 |Your dragonmark tingles and changes color for a moment when you're within 10 feet of someone with the same mark. |
 | 6 |When you use your dragonmark, it animates and adopts the appearance of your dragon marked house's emblem for 1 minute. |

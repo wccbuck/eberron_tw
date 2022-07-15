@@ -1,7 +1,7 @@
-caption: {{$:/images/note}} {{$:/language/Buttons/NewJournalHere/Caption}}
-created: 20210521062514758
+caption: {{$:/core/images/new-journal-button}} {{$:/language/Buttons/NewJournalHere/Caption}}
+created: 20220704003620819
 description: {{$:/language/Buttons/NewJournalHere/Hint}}
-modified: 20210728215057363
+modified: 20220704003727472
 tags: $:/tags/ViewToolbar
 title: $:/core/ui/Buttons/new-journal-here
 type: text/vnd.tiddlywiki
@@ -11,6 +11,7 @@ type: text/vnd.tiddlywiki
 [[$(currentTiddlerTag)$]]
 \end
 \define journalButton()
+\whitespace trim
 <$button tooltip={{$:/language/Buttons/NewJournalHere/Hint}} aria-label={{$:/language/Buttons/NewJournalHere/Caption}} class=<<tv-config-toolbar-class>>>
 <$wikify name="journalTitle" text="""<$macrocall $name="now" format=<<journalTitleTemplate>>/>""">
 <$action-sendmessage $message="tm-new-tiddler" title=<<journalTitle>> tags=<<journalButtonTags>> category="note"/>

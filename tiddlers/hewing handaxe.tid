@@ -1,0 +1,21 @@
+category: object
+color: #41D5E1
+created: 20220624004234286
+modified: 20220708154349503
+tags: ridiculous axe weapon
+tier: 2
+title: hewing handaxe
+type: text/vnd.tiddlywiki
+
+You gain a +1 [[impact]] when you use this magical handaxe to attack [[plant creature]]s. When you slay a plant creature with this handaxe, its body is instantly transformed into one of the following (determined when this axe was created).
+
+| !<<dr d9>> |!Shape |
+| 1 |A hewn wooden bench |
+| 2 |A hewn wooden chair |
+| 3 |A hewn wooden cube |
+| 4 |A hewn wooden idol of a demon |
+| 5 |A hewn wooden idol of a dragon |
+| 6 |A hewn wooden pyramid |
+| 7 |A set of carved wooden cup, bowl, and spoon |
+| 8 |Half the creature's weight of dry firewood and kindling |
+| 9 |Half the creature's weight of tiny wooden spheres |

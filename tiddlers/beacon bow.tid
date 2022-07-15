@@ -1,10 +1,15 @@
 category: object
 color: #41D5E1
 created: 20211121050118754
-modified: 20220221191345551
+modified: 20220707185422418
 tags: detection bow weapon
 tier: 2
 title: beacon bow
 type: text/vnd.tiddlywiki
 
 Arrows fired from this bow cast [[light]] wherever they land. 
+
+<<<
+!!! light
+{{||light}}
+<<<

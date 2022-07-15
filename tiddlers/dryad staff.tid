@@ -1,10 +1,15 @@
 category: object
 color: #41D5E1
 created: 20210409153745768
-modified: 20220221024242354
+modified: 20220708183830971
 tags: communication [[magical implement]] weapon staff
 tier: 3
 title: dryad staff
 type: text/vnd.tiddlywiki
 
 This gnarled oak staff is tied with many colorful ribbons and sacred charms. When a wielder who can channel [[primal magic]] touches the staff to a plant, they may cast the spell [[speak with plants]].
+
+<<<
+!!! speak with plants
+{{||speak with plants}}
+<<<

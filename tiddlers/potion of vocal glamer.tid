@@ -1,0 +1,26 @@
+category: object
+color: #41D5E1
+created: 20220624221340063
+modified: 20220706195045877
+tags: ridiculous communication entertainment potion
+tier: 1
+title: potion of vocal glamer
+type: text/vnd.tiddlywiki
+
+After drinking this churning potion, you can alter your voice to sound like one of the following effects (determined when the potion was brewed) for 1 minute.
+
+| !<<dr d12>> |!Voice Effect |
+| 1 |birdsong |
+| 2 |chirping insects |
+| 3 |an ethereal harp |
+| 4 |footsteps |
+| 5 |a ghostly wail |
+| 6 |a lion's roar |
+| 7 |mechanical clanking |
+| 8 |ringing bells |
+| 9 |rumbling thunder |
+| 10 |rustling leaves |
+| 11 |a thundering waterfall |
+| 12 |a wolf's howl |
+
+

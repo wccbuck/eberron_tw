@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20220711233629347
+modified: 20220711234313794
+tags: stealth armor body
+tier: 3
+title: scryguard splint
+type: text/vnd.tiddlywiki
+
+The splints of this armor are inscribed with wards against [[scrying]] spells. When you are the target of a scrying spell, you are instantly made aware of it; make an attempt using [[Operate|action]]. On a [[partial success]], you aren't affected by that spell. On a [[full success]], you can choose to allow the sensor to manifest, but the scryer sees you as a person or creature of your choice (no larger than a horse).

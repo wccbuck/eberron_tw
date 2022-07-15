@@ -1,0 +1,16 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220715201843565
+modified: 20220715210938704
+tags: recovery potion
+tier: 3
+title: keoghtom's ointment
+type: text/vnd.tiddlywiki
+
+This glass jar, 3 inches in diameter, contains three doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound.
+
+A dose of the ointment can be swallowed or applied to the skin. The creature that
+receives it experiences moderate-[[impact]] [[magical healing]], ceases to be poisoned, and is cured of any disease.
+
+<<itemcharges 3>>

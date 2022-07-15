@@ -177,7 +177,7 @@
 221: Any fires set by the caster in the next {{!!l_duration}} jingle like wind chimes while they burn.
 222: Any fires set by the caster in the next {{!!l_duration}} make those near it appear to be [[undead]].
 223: Any fires set by the caster in the next {{!!l_duration}} produce no heat.
-224: Any fires set by the caster in the next {{!!l_duration}}produce no smoke.
+224: Any fires set by the caster in the next {{!!l_duration}} produce no smoke.
 225: Any fires set by the caster in the next {{!!l_duration}} whisper vague threats against him.
 226: Any food now carried by the caster combusts.
 227: Any food now carried by the caster is 10 times as nutritious.
@@ -525,7 +525,7 @@
 950: Caster flees, panic-stricken, at top speed in a random direction. The panic persists for {{!!d35}} seconds.
 951: Caster flickers like a guttering candle for {{!!2d4}} seconds.
 953: Caster flies into a murderous rage and attacks their nearest ally for the next {{!!d4}}0 seconds.
-954: Caster forgets any fire that they lights
+954: Caster forgets any fire that they light.
 955: Caster forgets any uncommon-[[tier|spell tier]] spell they now have memorized. Their amnesia fades after {{!!duration}}.
 956: Caster forgets everyone's name for {{!!duration}}.
 961: Caster forgets how to walk for {{!!d10}} hours.
@@ -1086,7 +1086,7 @@
 2199: Caster's next [[conjuration]] yields {{!!2d4}} chrome-plated ostriches that vanish after {{!!duration}}.
 2200: Caster's next [[conjuration]] yields {{!!d7}} tiny purple [[imp]]s with hats that vanish after {{!!duration}}.
 2201: Caster's next [[conjuration]] yields {{!!d4}}0 bushels of rotten apples.
-2202: Caster's next [[conjuration]] yields an earth [[elemental]] and, inexplicably, a [[clawfoot]].
+2202: Caster's next [[conjuration]] yields an [[earth elemental]] and, inexplicably, a [[clawfoot]].
 2203: Caster's next [[conjuration]] yields a bucket of brine-soaked plums.
 2204: Caster's next [[conjuration]] yields a coil of rope one mile in length.
 2206: Caster's next [[conjuration]] yields a goose that dies instantly.
@@ -1688,7 +1688,7 @@
 4695: Next puddle stepped in by target drenches them from head to toe.
 4696: Next puddle stepped in by target explodes as a [[fireball]].
 4697: Next puddle stepped in by target hardens like cement.
-4699: Next puddle stepped in by target becomes a water [[elemental]] for {{!!duration}}.
+4699: Next puddle stepped in by target becomes a [[water elemental]] for {{!!duration}}.
 4700: Next puddle stepped in by target becomes a highly concentrated acid for {{!!duration}}.
 4703: Next puddle stepped in by target throws them {{!!d35}} yards in the air.
 4704: Next puddle stepped in by target turns to glass.
@@ -1799,7 +1799,7 @@
 4982: Target asserts that they and the caster have been allies for years. The delusion persists for the next {{!!duration}}.
 4985: Target asserts that they can divine the future, for the right price. The delusion persists for the next {{!!duration}}.
 4987: Target asserts that they can issue divine edicts on behalf of the [[Sovereign Host]]. The delusion persists for the next {{!!duration}}.
-4990: Target asserts that they can summon earth [[elemental]]s by eating dirt. The delusion persists for the next {{!!duration}}.
+4990: Target asserts that they can summon [[earth elemental]]s by eating dirt. The delusion persists for the next {{!!duration}}.
 4998: Target asserts that they died {{!!s_duration}} ago. The delusion persists 
 for the next {{!!duration}}.
 4999: Target asserts that they died {{!!2d4}} years ago. The delusion persists for the next {{!!duration}}.
@@ -1848,7 +1848,7 @@ for the next {{!!duration}}.
 5090: Target asserts that they're a summoned creature about to be banished. The delusion persists for the next {{!!duration}}.
 5094: Target asserts that they've been fatally wounded. The delusion persists for the next {{!!duration}}.
 5096: Target asserts that they've been replaced by a [[doppelganger]]. The delusion persists for the next {{!!duration}}.
-5097: Target asserts that they're brother to [[dragon]]s and companion to owls
+5097: Target asserts that they're brother to [[dragon]]s and companion to owls.
 5099: Target asserts that they're eager to exterminate their species. 
 5102: Target asserts that they're immune to magic. The delusion persists for the next {{!!duration}}.
 5107: Target asserts that they're protected by a host of [[demon]]s. The delusion persists for the next {{!!duration}}.
@@ -1926,7 +1926,8 @@ for the next {{!!duration}}.
 5343: Target can speak only in grunts for the next {{!!duration}}.
 5345: Target can speak only in whale song for the next {{!!duration}}.
 5347: Target can speak with flies and gnats for the next {{!!duration}}.
-5362: Target can cast [[conjure elemental]] to conjure an earth [[elemental]] one time.
+5348: Target can speak only in [[Primordial]] for the next {{!!duration}}.
+5362: Target can cast [[conjure elemental]] to conjure an [[earth elemental]] one time.
 5374: Target can understand every language they hear for the next {{!!duration}}.
 5375: Target's non-dominant hand becomes dominant, and vice versa, for the next {{!!duration}}.
 5387: Target can't be affected by the caster's magic for {{!!duration}}.
@@ -2815,7 +2816,7 @@ for the next {{!!duration}}.
 7978: While outdoors, target perceives everything to be shrouded in fog for the next {{!!duration}}.
 7989: While target stands still, they rotate slowly counter-clockwise
 7990: While target stands still, pigeons treat them just like a statue for the next {{!!duration}}.
-8001: A huge mound of dirt and rock rise as an angry earth [[elemental]] that persists for {{!!duration}}.
+8001: A huge mound of dirt and rock rise as an angry [[earth elemental]] that persists for {{!!duration}}.
 8002: {{!!2d4}} nearby trees uproot and race to the nearest town square. They then topple over.
 8003: {{!!2d4}} nearby trees uproot and float into the sky.
 8004: {{!!2d4}}0 adorable but incorporeal puppies scamper through the area, then vanish after {{!!duration}}.
@@ -3545,3 +3546,17 @@ for the next {{!!duration}}.
 10022: The caster casts [[blessed birth]] on every creature within {{!!d4}}0 feet.
 10023: The caster casts [[slow]] on themself.
 10024: The caster casts [[Nathair's mischief]] centered on themself.
+10025: The caster is unable to speak, only hoot like an owl, for the next {{!!duration}}.
+10026: The target is unable to speak, only hoot like an owl, for the next {{!!duration}}.
+10027: The caster feels a momentary stab of pain.
+10028: The caster suddenly knows the direction and distance to the nearest tavern.
+10029: An illusory barrel appears in an unoccupied space within 5 feet of the caster, then disappears {{!!s_duration}} later.
+10030: A shower of flower petals harmlessly explodes from the caster's hand.
+10031: The caster is unable to speak, only quack like a duck, for the next {{!!duration}}.
+10032: The target is unable to speak, only quack like a duck, for the next {{!!duration}}.
+10033: A corpse within 10 feet of the caster animates for a moment to stare at the caster. The effect wears off after {{!!duration}}.
+10034: For the next {{!!duration}}, shortly after the target speaks, the air is filled with laughter.
+10035: For the next {{!!duration}}, shortly after the caster speaks, the air is filled with laughter.
+10036: The caster's clothes smell like wood smoke for the next {{!!l_duration}}.
+10037: Every object the target is carrying is suddenly but neatly packed into a canvas satchel on the ground at their feet.
+10038: Any spell effect of [[uncommon tier or lower|spell tier]] on you suddenly ends.

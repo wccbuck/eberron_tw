@@ -1,0 +1,13 @@
+category: object
+charges: 4
+color: #41D5E1
+created: 20220624182602796
+modified: 20220624183011305
+tags: flail weapon
+tier: 3
+title: blink flail
+type: text/vnd.tiddlywiki
+
+This flail has 4 charges and regains <<dr 1d2+1>> expended charges each day at dawn. When you swing this flail, you can expend a charge to cause the head of the weapon to momentarily teleport up to 5 feet to strike a target, adding 5 feet to your reach. This sudden extended reach can surprise unwary foes.
+
+<<itemcharges 4>>

@@ -1,0 +1,15 @@
+category: object
+color: #41D5E1
+created: 20220712183623368
+modified: 20220712183658165
+tags: stealth hindrance potion
+tier: 1
+title: potion of flies
+type: text/vnd.tiddlywiki
+
+When you drink this buzzing potion, you can breathe forth a swarm of harmless flying insects, as the spell [[insect cloud]].
+
+<<<
+!!! insect cloud
+{{||insect cloud}}
+<<<

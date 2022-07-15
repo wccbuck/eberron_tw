@@ -1,0 +1,15 @@
+category: object
+color: #41D5E1
+created: 20220715224931552
+modified: 20220715225100109
+tags: [[magical implement]] wand
+tier: 2
+title: wand of magic detection
+type: text/vnd.tiddlywiki
+
+You can cast [[detect magic]] while [[attuned|attunement]] to this wand, even if you aren't a spellcaster.
+
+<<<
+!!! detect magic
+{{||detect magic}}
+<<<

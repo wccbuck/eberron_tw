@@ -1,0 +1,15 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20220703230231145
+modified: 20220706174621508
+tags: ridiculous recovery [[magical implement]] wand
+tier: 2
+title: wand of cure duck
+type: text/vnd.tiddlywiki
+
+This wand has 3 charges. While holding it, you can expend 1 charge and tap an adjacent creature. If that creature is a duck, it recovers from injury (low-[[impact]] [[magical healing]]. Otherwise, if the creature is willing, it is first [[polymorph]]ed into a duck, then recovers harm. The polymorph effect ends after 10 seconds. 
+
+The wand regains any expended charges daily at dawn. If you expend the wand's last charge, the [[consequence]] of a [[failed roll|bad outcome]] or [[partial success]] transforms the wand into a duck and it flies away.
+
+<<itemcharges 3>>

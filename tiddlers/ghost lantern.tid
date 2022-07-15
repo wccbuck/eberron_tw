@@ -1,0 +1,21 @@
+category: object
+color: #41D5E1
+created: 20220710000714368
+modified: 20220710001214227
+tags: convenience protection detection tool
+tier: 3
+title: ghost lantern
+type: text/vnd.tiddlywiki
+
+A restless spirit is trapped inside this lantern. While holding the lantern, you can command the spirit to shed bright light in a 30-foot radius and dim light for an additional 30 feet.
+
+While holding the lantern, you can order the spirit to leave the lantern and duplicate the effect of the [[mage hand]] spell. The spirit returns to the lantern when the spell ends.
+
+<<<
+!!! mage hand
+{{||mage hand}}
+<<<
+
+If you fall unconscious within 10 feet of the lantern, the spirit emerges from it, magically stabilizes you with a touch (as the spell [[spare the dying]]), and then quickly returns to the lantern.
+
+The spirit is bound to the lantern and can't be harmed, [[turned|turn undead]], or raised from the dead. Casting a [[dispel immortal]] spell on the lantern releases the spirit to [[Dolurrh]] and renders the lantern nonmagical.
