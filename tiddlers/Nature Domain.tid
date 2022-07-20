@@ -1,0 +1,33 @@
+category: talent
+created: 20220719022410689
+list: farmhand [[create food and water]] [[animal friendship]] [[speak with animals]] barkskin [[spike growth]] [[plant growth]] [[wind wall]] [[grasping vine]] [[insect plague]] [[tree stride]]
+modified: 20220719023830990
+tags: Spellcaster cleric
+title: Nature Domain
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+The three [[Sovereigns|Sovereign Host]] of nature are as varied as the natural world itself; from [[Arawai]], the benevolent goddess of abundance, to [[Balinor]], the stern hunter god and protector of the wilds, to the [[Devourer]], the savage entity who represents the destructive power of nature. [[Cleric|cleric]]s who serve these deities are champions who take an active role in advancing their patron's ideals; if they follow the teachings of the [[Three Faces of the Wild]], they may represent all three nature Sovereigns. These clerics might hunt the evil [[monstrosities|monstrosity]] that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who disrespect nature.
+
+Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]] talent rules. A [[cleric]] of the Nature domain might choose from the following spells, or nearly any other spell with the [[primal magic]] tag.
+
+!! {{!!title}} Spell List
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]] [list[$:/ClericSpells]] +[sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>
