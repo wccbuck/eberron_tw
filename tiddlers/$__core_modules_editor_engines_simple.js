@@ -67,7 +67,7 @@ function SimpleEngine(options) {
 	// Add an input event handler
 	$tw.utils.addEventListeners(this.domNode,[
 		{name: "focus", handlerObject: this, handlerMethod: "handleFocusEvent"},
-        {name: "focusout", handlerObject: this, handlerMethod: "handleFocusOutEvent"},
+		{name: "focusout", handlerObject: this, handlerMethod: "handleFocusOutEvent"},
 		{name: "input", handlerObject: this, handlerMethod: "handleInputEvent"}
 	]);
 	// Insert the element into the DOM
@@ -84,7 +84,7 @@ SimpleEngine.prototype.setText = function(text,type) {
 			this.updateDomNodeText(text);
 		}
 		// Fix the height if needed
-	    this.fixHeight();
+		this.fixHeight();
 	}
 };
 
@@ -92,7 +92,11 @@ SimpleEngine.prototype.setText = function(text,type) {
 Update the DomNode with the new text
 */
 SimpleEngine.prototype.updateDomNodeText = function(text) {
-	this.domNode.value = text;
+	try {
+		this.domNode.value = text;
+	} catch(e) {
+		// Ignore
+	}
 };
 
 /*
@@ -136,7 +140,7 @@ SimpleEngine.prototype.handleInputEvent = function(event) {
 	this.widget.saveChanges(this.getText());
 	this.fixHeight();
 	if(this.widget.editInputActions) {
-		this.widget.invokeActionString(this.widget.editInputActions);
+		this.widget.invokeActionString(this.widget.editInputActions,this,event,{actionValue: this.getText()});
 	}
 	return true;
 };

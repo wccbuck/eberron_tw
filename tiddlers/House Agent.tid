@@ -1,26 +1,28 @@
 category: talent
 created: 20211129204430495
-modified: 20220719231402478
-tags: profession
+modified: 20220720163037390
+tags: background
 title: House Agent
 type: text/vnd.tiddlywiki
 xpcost: 1
 
 You have sworn fealty to a [[dragonmarked house]]. You may be a member of one of the house's influential families; otherwise you're an outsider who hopes to make your fortune through the house. Your main task is to serve as the eyes of your house, but you could be called on at any time to act as its hand. Such missions can be perilous but lucrative.
 
-Gain an [[arcane signet ring]] of your [[dragonmarked house]]. Gain [[advantage]] when using the Sway [[action]] with a person associated with your dragonmarked house or its [[trade guild]]s. In addition, gain +1 [[impact]] when using one of the [[toolset]]s or other equipment associated with your house (choose one from the table below when you take this talent).
+Gain an [[arcane signet ring]] of your [[dragonmarked house]]. Gain [[advantage]] when using the Sway [[action]] with a person associated with your dragonmarked house or its [[trade guild]]s. 
 
-|!Dragonmarked House |!House Tool Options |
-|[[Cannith]] |[[alchemist's supplies]], [[tinker's tools]], [[tailor's tools]], or [[smith's tools]] |
-|[[Deneith]] |[[gaming set]], [[inquisitive's kit]], or [[smith's tools]] |
-|[[Ghallanda]] |[[brewer's supplies]], [[cook's utensils]], or [[gaming set]] |
-|[[Jorasco]] |[[healer's kit]], [[surgeon's kit]], [[herbalism kit]], or [[alchemist's supplies]] |
-|[[Kundarak]] |[[thieves' tools]], [[mason's tools]], or [[tinker's tools]] |
-|[[Lyrandar]] |[[navigator's tools]], [[carpenter's tools]], or air and sea vehicles |
-|[[Medani]] |[[disguise kit]], [[thieves' tools]], or [[inquisitive's kit]] |
-|[[Orien]] |[[gaming set]], [[cartographer's tools]], or land vehicles |
-|[[Phiarlan]] |[[disguise kit]], [[carpenter's tools]], or one musical instrument |
-|[[Sivis]] |[[calligrapher's supplies]] or [[forgery kit]] |
-|[[Tharashk]] |[[inquisitive's kit]], [[hunter's kit]], or [[gaming set]] |
-|[[Thuranni]] |[[poisoner's kit]], [[disguise kit]], or one musical instrument |
-|[[Vadalis]] |[[herbalism kit]], [[hunter's kit]], or land vehicles |
+In addition, you are assumed to have at least baseline skill with each of the [[toolset]]s and other equipment associated with your house (see the tables below). This doesn't mean you gain [[advantage]] when using such a toolset, just that you are able to use them competently.
+
+|!Dragonmarked&nbsp;House |!House Trade Tools |
+|[[Cannith]] |[[alchemist's supplies]], [[tinker's tools]], [[tailor's tools]], [[smith's tools]] |
+|[[Deneith]] |[[gaming set]], [[inquisitive's kit]], [[smith's tools]] |
+|[[Ghallanda]] |[[brewer's supplies]], [[cook's utensils]], [[gaming set]] |
+|[[Jorasco]] |[[healer's kit]], [[surgeon's kit]], [[herbalism kit]], [[alchemist's supplies]] |
+|[[Kundarak]] |[[thieves' tools]], [[mason's tools]], [[tinker's tools]] |
+|[[Lyrandar]] |[[navigator's tools]], [[carpenter's tools]], air and sea vehicles |
+|[[Medani]] |[[disguise kit]], [[thieves' tools]], [[inquisitive's kit]] |
+|[[Orien]] |[[gaming set]], [[cartographer's tools]], land vehicles |
+|[[Phiarlan]] |[[disguise kit]], [[carpenter's tools]], one or two musical instruments |
+|[[Sivis]] |[[calligrapher's supplies]] [[forgery kit]] |
+|[[Tharashk]] |[[inquisitive's kit]], [[hunter's kit]], [[gaming set]] |
+|[[Thuranni]] |[[poisoner's kit]], [[disguise kit]], one or two musical instruments |
+|[[Vadalis]] |[[herbalism kit]], [[hunter's kit]], land vehicles |
