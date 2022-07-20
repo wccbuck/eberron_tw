@@ -5,13 +5,14 @@ fight: 1
 flaw: Naive, but overcompensates
 heart: 1
 ideal: I must discover the source of my power
-modified: 20220307031046327
+modified: 20220720204619229
 money: 10
 move: 
 name: Arien Grimbold
 sp: 1
 study: 1
 sway: 1
+tags: fight heart vigor
 title: $:/Arien Grimbold/data
 type: text/vnd.tiddlywiki
 vigor: 2
