@@ -1,14 +1,14 @@
 caption: Delete tiddlers
 created: 20190301144408502
 list-after: $:/plugins/kookma/commander/tiddler/uicomp/create-tiddlers
-modified: 20210727191952678
+modified: 20220720145528617
 tags: $:/tags/Commander/TiddlerOps
 title: $:/plugins/kookma/commander/tiddler/uicomp/delete-tiddlers
 type: text/vnd.tiddlywiki
 
 <$set name=numTids value={{{[subfilter<searchfilter>!is[missing]count[]] }}}>
 <$reveal type="match" text="0" default=<<numTids>> >
-No tiddlers is selected for deletion!
+No tiddlers are selected for deletion!
 </$reveal>
 <$reveal type="gt" text="0" default=<<numTids>> >
 
