@@ -1,6 +1,6 @@
 category: talent
 created: 20211128062215646
-modified: 20220719213236808
+modified: 20220720183934675
 tags: barbarian
 title: Mindless Rage
 type: text/vnd.tiddlywiki
@@ -8,4 +8,4 @@ xpcost: 1
 
 ''Prerequisite:'' [[Berserker Rage]].
 
-While in a berserker rage, you cannot be [[charm]]ed or frightened, and you are resistant to psychic damage. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
+While in a berserker rage, you cannot be [[charm]]ed, frightened, or otherwise magically compelled, and you are resistant to psychic damage. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.

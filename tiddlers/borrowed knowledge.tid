@@ -2,11 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20211212053715132
 creator: ziphion
-modified: 20211212055251696
+modified: 20220720194532567
 modifier: ziphion
 tags: divination
 tier: 2
 title: borrowed knowledge
 type: text/vnd.tiddlywiki
 
-You draw on knowledge from spirits of the past. Choose one [[action]] for which your score is zero. For up to 1 hour, you have [[advantage]] when making attempts with the chosen action. The spell ends early if you cast it again.
+You draw on knowledge from spirits of the past. Choose one [[action]] in which you are not proficient. For up to 1 hour, you have [[advantage]] when making attempts with the chosen action. The spell ends early if you cast it again.

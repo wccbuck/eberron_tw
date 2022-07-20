@@ -1,7 +1,7 @@
 category: talent
 created: 20220719231442088
-modified: 20220719233117080
-tags: profession
+modified: 20220720163037388
+tags: background
 title: Guild Artisan
 type: text/vnd.tiddlywiki
 xpcost: 1
@@ -11,9 +11,8 @@ You are a member of an [[artisan's guild|trade guild]], skilled in a particular 
 Gain [[advantage]] when using one of the [[toolset]]s or other equipment associated with your [[trade guild]] (choose one from the table below when you take this talent). In addition, as an established and respected member of your [[trade guild]], gain [[advantage]] when using the Sway [[action]] with a person associated with your guild. 
 
 |!Trade Guild |!Tool Options |
-|[[Fabricators Guild]] or<br/>[[Tinkers Guild]] |[[alchemist's supplies]], [[carpenter's tools]] [[potter's tools]], [[tinker's tools]], [[tailor's tools]], or [[smith's tools]] |
+|[[Fabricators Guild]] or<br/>[[Tinkers Guild]] |[[alchemist's supplies]], [[carpenter's tools]], [[potter's tools]], [[tinker's tools]], [[tailor's tools]], or [[smith's tools]] |
 |[[Hostelers Guild]] |[[brewer's supplies]] or [[cook's utensils]] |
 |[[Warding Guild]] |[[mason's tools]] or [[tinker's tools]] |
-|[[Windwrights Guild]] |[[carpenter's tools]] |
-|[[Entertainers and Artisans Guild]] |[[carpenter's tools]] or [[tailor's tools]] |
+|[[Windwrights Guild]] or<br/>[[Entertainers and Artisans Guild]] |[[carpenter's tools]] or [[tailor's tools]] |
 |[[Notaries Guild]] |[[calligrapher's supplies]] |
