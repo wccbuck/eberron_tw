@@ -1,0 +1,38 @@
+category: object
+color: #41D5E1
+created: 20220719155845725
+modified: 20220719182550904
+tags: protection recovery communication detection tool
+tier: 5
+title: Orb of Dragonkind
+type: text/vnd.tiddlywiki
+var1: 14 5
+var2: 22 30
+
+Five Orbs of Dragonkind (or Dragon Orbs) were crafted in ages past to combat [[dragon]]s who had fallen to the corruption of the [[Daughter of Khyber|Tiamat]]. Agents of the [[Conclave]] used the orbs to lure the evil dragons to strategic locations where they could be destroyed with powerful magic.
+
+The orbs have since faded into legend, and only three at most are thought to survive. Their magic has been warped and twisted over the millennia, so although their primary purpose of calling [[dragon]]s still functions, they also allow some measure of control over dragons.
+
+Each orb contains the essence of an evil dragon, a presence that resents any attempt to coax magic from it. Those lacking in resolve might find themselves enslaved to an orb.
+
+!! Appearance and Properties
+
+An Orb of Dragonkind is an etched crystal globe about 10 inches in diameter. When used, it grows to about 20 inches in diameter, and mist swirls inside it.
+
+While [[attuned|attunement]] to an orb, you can peer into the orb's depths and speak its command word. Make [[Sway|action]] attempts to fill up a 6-segment [[progress clock]], with an associated progress clock for tracking [[consequence]]s. If you fill your progress clock before the consequence clock fills, you control the orb for as long as you remain attuned to it. If you fail, you become charmed by the orb for as long as you remained attuned to it.
+
+While you are charmed by the orb, you can't voluntarily end your [[attunement]] to it, and the orb casts [[suggestion]] on you at will, urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular people, freedom from the orb, to spread suffering in the world, to advance the worship of the [[Takhisis|Tiamat]], or something else the GM decides.
+
+If you control the orb, you can cast the spell [[detect magic]] for free at will. You can also cast the following spells using your own power: [[cure wounds]] (uncommon or rare [[tier|spell tier]]), [[daylight]], [[death ward]], and [[scrying]]. You also gain one additional spellcasting [[stress]] box which you can only use to cast these spells.
+
+While you control the orb, you can cause the artifact to issue a telepathic call that extends in all directions for 40 miles. [[Dragon|dragon]]s in range who are corrupted by [[Tiamat]] feel compelled to come to the orb as soon as possible by the most direct route. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
+
+A GM might also choose to generate [[random artifact properties]] for an Orb of Dragonkind:
+
+<<<
+{{||random artifact properties}}
+<<<
+
+!! Destroying an Orb
+
+An Orb of Dragonkind appears fragile, but is impervious to most damage, including the attacks and breath weapons of [[dragon]]s. However, a [[disintegrate]] spell or one good hit from an [[legendary-tier|rarity]] weapon is sufficient to destroy an orb.
