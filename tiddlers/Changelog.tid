@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.17.1
-modified: 20220720195052592
+currentversion: 1.17.2
+modified: 20220725023143807
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -9,6 +9,13 @@ title: Changelog
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.17.2 <span style="font-weight:normal">(Jul 24, 2022)</span>
+
+* Added [[spellbook]], [[arcane grimoire]], [[arrow of slaying]]
+* Added a little name generator to [[yuan-ti]]
+* Added [[Daan]] language
+* Added the [[talent]]s: [[Favored Quarry]], [[Healer]], [[Sahuagin (talent)]], [[Triton]], and [[Yuan-Ti Pureblood (talent)]]
 
 !!! 1.17.1 <span style="font-weight:normal">(Jul 20, 2022)</span>
 

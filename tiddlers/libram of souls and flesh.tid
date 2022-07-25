@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210809060952452
-modified: 20220217220441307
+modified: 20220722212506193
 tags: tome [[magical implement]]
 tier: 3
 title: libram of souls and flesh
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 With covers made of skin and fittings of bone, this
 tome is cold to the touch, and it whispers faintly.
 
-When using this spellbook as a [[magical implement]] to cast any of the following [[necromancy]] spells, gain [[advantage]].
+When using this [[spellbook]] as a [[magical implement]] to cast any of the following [[necromancy]] spells, gain [[advantage]].
 
 * [[animate dead]]
 * [[circle of death]]

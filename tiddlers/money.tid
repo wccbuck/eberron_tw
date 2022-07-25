@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210409191449051
-modified: 20220705164335066
+modified: 20220722210116010
 tags: Storyloom
 title: money
 type: text/vnd.tiddlywiki
@@ -127,7 +127,7 @@ Below are some example costs for a variety of objects in a typical city in [[Kho
 |bull |8c |
 |carriage |15c |
 |bound book |1c |
-|spellbook |5c |
+|[[spellbook]] |5c |
 |[[potion of healing]] |5c |
 |most [[toolset]]s |1–2c |
 |[[poisoner's kit]], [[alchemist's supplies]] |5c |
