@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210112073611930
-modified: 20210727192043518
+modified: 20220725021747849
 tags: yuan-ti humanoid monstrosity
 tier: 1
 title: yuan-ti pureblood
@@ -16,7 +16,7 @@ y_tongue1: a red
 
 Purebloods form the lowest caste of [[yuan-ti]] society. They closely resemble humans, yet a pureblood can't pass for human under close scrutiny because there's always some hint of its true nature, such as scaly patches of skin, serpentine eyes, pointed teeth, or a forked tongue. Wearing cloaks and cowls, they masquerade as humans and infiltrate civilized lands to gather information, kidnap prisoners for interrogation and sacrifice, and trade with anyone who has something that can further their myriad plots.
 
-Purebloods are able to communicate with snakes at will, and many are capable of casting [[suggestion]] up to three times per day.
+Purebloods are able to communicate with snakes at will, and many are capable of casting the spell [[suggestion]].
 
 <<<
 ''Generate Pureblood Appearance''

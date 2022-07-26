@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20210808004223416
-modified: 20220221194448803
+modified: 20220725013929944
 tags: recovery toolset [[equipment pack]]
 tier: 1
 title: healer's kit
 type: text/vnd.tiddlywiki
 
-This kit is a leather pouch containing bandages, salves, and splints. These tools can help an injured person begin recovering from physical [[harm]].
+This kit is a leather pouch containing bandages, salves, and splints. These tools can help an injured person begin recovering from physical [[harm]]. A [[full success]] when attempting to use these tools might cause the person's injuries to heal 50% faster.

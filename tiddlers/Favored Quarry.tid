@@ -1,0 +1,25 @@
+category: talent
+created: 20220725002943203
+modified: 20220725011914835
+title: Favored Quarry
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+You have significant experience studying, tracking, hunting, and even talking to a specific type of creature.
+
+Choose one of the creature types from the table below. You have [[advantage]] on attempts to track creatures of that type, as well as attempts to recall useful information about them. In addition, you also learn one [[language]] that is spoken by your favored quarry (if they speak one at all).
+
+|!Creature Type |!Language |
+|[[aberration]] |[[Deep Speech]] |
+|[[beast]] |Gain the spell [[speak with animals]] |
+|[[celestial]] |[[Draconic]] |
+|[[construct]] |[[Daan]] |
+|[[dragon]] |[[Draconic]] |
+|[[elemental]] |[[Primordial]] |
+|[[fey]] |[[Sylvan]] |
+|[[fiend]] |[[Abyssal]] or [[Quor]] |
+|[[giant]] |[[Giant]] |
+|[[monstrosity]] |one language spoken by a [[humanoid]] monstrosity, such<br/>as [[Gnoll]], [[Goblin]], or even the [[medusa]]'s "Serpentine" |
+|[[ooze]] |[[Deep Speech]] |
+|[[plant creature]] |[[Sylvan]], [[Primordial]], or [[Deep Speech]] |
+|[[undead]] |[[Aerenese]], or another mortal language |

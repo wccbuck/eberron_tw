@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210809061421001
-modified: 20220217220620537
+modified: 20220722212845735
 tags: tome [[magical implement]]
 tier: 3
 title: heart weaver's primer
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 This pristine book smells faintly of a random scent
 you find pleasing.
 
-When using this spellbook as a [[magical implement]] to cast any of the following [[enchantment]] spells, gain [[advantage]].
+When using this [[spellbook]] as a [[magical implement]] to cast any of the following [[enchantment]] spells, gain [[advantage]].
 
 * [[antipathy/sympathy]]
 * [[charm]]

@@ -1,10 +1,13 @@
 category: creature
 color: #EA868F
 created: 20210112064116895
-modified: 20210727192043482
+modified: 20220723184945082
 tags: shapechanger humanoid monstrosity
 title: yuan-ti
 type: text/vnd.tiddlywiki
+var1: Suth
+var2: a
+var3: ya
 
 Yuan-ti are devious serpent folk devoid of compassion. A yuan-ti views the world and the events of its own life with such extreme pragmatism that it is nearly impossible to manipulate, influence, or control by nonmagical means, even as it seeks to control other creatures through terror, pleasure, and awe.
 
@@ -39,6 +42,21 @@ force even more ancient and evil than the yuan-ti.
 The [[Sarlona]]ns claimed that the yuan-ti were shaped by one of the ancient [[overlord]]s of the [[Age of Demons]]. If this is true, then it’s possible that as the yuan-ti traveled from continent to continent, they passed over the tombs of additional demon lords, and each of these further infected the spirit of the race. In [[Argonnessen]], [[Tiamat]] sunk her claws into the serpentfolk. In [[Xen'drik]], they have been touched by the [[Scar that Abides|Sakinnirot]]. If this is true, then the evil nature of the yuan-ti is in essence a curse—the touch of mighty [[fiend]]s stretching back through the ages.
 
 The yuan-ti care nothing for these theories. They have no loyalty to the [[Lords of Dust]] or their masters, and they show equal disdain for the aberrations that flock to the banner of the [[Dragon Below|Cults of the Dragon Below]]. 
+
+!! Yuan-Ti Names
+
+Click the button below to generate some example yuan-ti names.
+
+<<<
+<$button>
+<$action-chooserandom $filter="Apoph Ath Eph Eth Gath Gor Kal Kul Lar Lath Nag Raj Rax Reth Sar Sesh Sor Sreth Sur Suth" $field="var1"/>
+<$action-chooserandom $filter="a ah ax e el i ir o ol oth u ur" $field="var2"/>
+<$action-chooserandom $filter="gash gin gor ka kom kur la lash leth loth tha thex thir thra xal xol xur ya zag zolm" $field="var3"/>
+Yuan-Ti Name Generator
+</$button>
+
+''Name: '' {{!!var1}}{{!!var2}}{{!!var3}}
+<<<
 
 !! Alternative: Yuan-Ti as a New Mutation
 
