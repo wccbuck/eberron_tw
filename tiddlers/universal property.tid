@@ -1,0 +1,30 @@
+category: phenomenon
+color: #432874
+created: 20220802212107275
+modified: 20220802224815177
+title: universal property
+type: text/vnd.tiddlywiki
+
+If adventurers visit one of the [[plane]]s, they'll find it has certain
+unnatural properties that can be felt consistently throughout
+the entire plane of existence. A plane's universal properties
+can often be felt on [[Eberron]] itself; one of the most common
+effects of [[manifest zone]]s is to extend one or more of that
+plane's universal properties into the Material Plane, sometimes
+reliably, other times unpredictably. A plane's universal properties generally apply to all creatures within that plane.
+
+Time doesn't pass at the same rate on every plane; it could
+move faster, slower, or even unpredictably. The duration of magical effects changes based on the flow of time the target is currently experiencing.
+
+!! List of Universal Properties
+
+<ul>
+<$list filter="[tag[plane]sort[title]]" variable="planevar">
+<li><$link to=<<planevar>> overrideClass="graylink"/></li>
+<ul>
+<$list filter="[tag<planevar>tag[universal property]]">
+<li>{{!!article}}<$link/><$list filter="[<currentTiddler>tags[]!<planevar>![universal property]first[]]" emptyMessage="" variable="noop"> (also found in:  <$list filter="[<currentTiddler>tags[]!<planevar>![universal property]sort[]butlast[]]"><$link/>, </$list><$list filter="[<currentTiddler>tags[]!<planevar>![universal property]sort[]last[]]"<$link/>)</$list></li>
+</$list>
+</ul>
+</$list>
+</ul>
