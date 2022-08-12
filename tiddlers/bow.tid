@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216231155596
-modified: 20220216231200210
+modified: 20220805160113428
 tags: 
 title: bow
+tooltip: tag for a bow-and-arrow weapon
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

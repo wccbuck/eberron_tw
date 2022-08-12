@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216231147155
-modified: 20220216231153913
+modified: 20220805191133268
 tags: 
 title: spear
+tooltip: tag for pole weapons
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

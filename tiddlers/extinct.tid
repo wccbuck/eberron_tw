@@ -1,8 +1,9 @@
 color: #D1BB71
 created: 20220523004337558
-modified: 20220523004405930
+modified: 20220805194925235
 tags: 
 title: extinct
+tooltip: tag for language no longer spoken by any living peoples
 type: text/vnd.tiddlywiki
 
 This tag indicates a [[language]] which is no longer spoken by any living peoples.

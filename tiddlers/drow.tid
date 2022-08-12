@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200415000623430
-modified: 20210727192005892
+modified: 20220805214945808
 tags: subrace elf humanoid
 tier: 1
 title: drow
+tooltip: elves of Xen'drik with grey or black skin and pale hair
 type: text/vnd.tiddlywiki
 
 Drow, also called dark elves, have skin that resembles charcoal or obsidian, as well as stark white or pale yellow hair. They commonly have very pale eyes (so pale as to be mistaken for white) in shades of lilac, silver, pink, red, and blue. They tend to be smaller and thinner than most [[elves|elf]].

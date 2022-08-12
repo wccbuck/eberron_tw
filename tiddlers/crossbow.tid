@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216231850875
-modified: 20220216231854885
+modified: 20220805194805488
 tags: 
 title: crossbow
+tooltip: tag for weapons that launch projectiles with a bow and trigger mechanism
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

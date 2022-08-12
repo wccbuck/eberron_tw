@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210126212553216
-modified: 20210727192007144
+modified: 20220805223154454
 tags: giant
 tier: 2
 title: eneko
+tooltip: half-ogre, half-giant creatures native to Syrkarn
 type: text/vnd.tiddlywiki
 
 The eneko are the true children of [[Syrkarn]]. They were

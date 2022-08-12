@@ -2,10 +2,11 @@ alternatetitle: lycanthrope
 category: creature
 color: #EA868F
 created: 20200422205105510
-modified: 20220712002424349
+modified: 20220805211851483
 tags: shapechanger humanoid monstrosity
 tier: 2
 title: therianthrope
+tooltip: were-creature, cursed humanoid who shapeshifts into a ravenous beast
 type: text/vnd.tiddlywiki
 var: uncommon
 

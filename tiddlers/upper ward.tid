@@ -1,9 +1,10 @@
 category: location
 color: #092F1E
 created: 20200417182416448
-modified: 20210727192040134
+modified: 20220805195311122
 tags: ward
 title: upper ward
+tooltip: a ward in the upper sections of Sharn
 type: text/vnd.tiddlywiki
 
 The upper city of [[Sharn]] sees the most light and enjoys the freshest air,

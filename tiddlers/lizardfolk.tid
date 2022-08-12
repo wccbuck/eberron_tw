@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210207104928356
-modified: 20210727192019124
+modified: 20220806215115417
 tags: humanoid
 tier: 1
 title: lizardfolk
+tooltip: tribal reptilian humanoid of Q'barra and Xen'drik
 type: text/vnd.tiddlywiki
 var: uncommon
 
@@ -12,7 +13,7 @@ Lizardfolk are tribal reptilian humanoids that inhabit the jungles and swamps of
 
 !! Lizardfolk of Q'barra
 
-The vast majority of lizardfolk of the jungles of Q'barra are part of the Masvirik'Uala, or [[Cold Sun Federation]], though some have fallen to the corruption of [[Haka'torvhak]] and have joined the ranks of the [[Poison Dusk]]; many of these have been transformed by [[Masvirik]]'s power into hulking [[blackscale]]s. In their unique dialect of draconic, lizardfolk of [[Q'barra]] call their species "tsa", which is also their word for "we" or "us". 
+The vast majority of lizardfolk of the jungles of Q'barra are part of the Masvirik'Uala, or [[Cold Sun Federation]], though some have fallen to the corruption of [[Haka'torvhak]] and have joined the ranks of the [[Poison Dusk]]; many of these have been transformed by [[Masvirik]]'s power into hulking [[blackscale]]s. In their unique dialect of [[Draconic]], lizardfolk of [[Q'barra]] call their species "tsa", which is also their word for "we" or "us". 
 
 The tsa are a primitive folk. They do not forge metal tools. They fashion their armor from
 hides, and their weapons are made from wood, bone, and [[dragonshard]]s. Despite their primitive appearance, lizardfolk mystics are skilled at the art of enchanting weapons, so Masvirik’Uala champions may have powerful magical weapons and dragonshard augments.

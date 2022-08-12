@@ -1,8 +1,9 @@
 category: creature
 color: #58151c
 created: 20200418052523838
-modified: 20210727192039821
+modified: 20220805023240663
 title: undead
+tooltip: once-living creature animated by a supernatural force
 type: text/vnd.tiddlywiki
 
 Undead are once-living creatures that have been magically animated, or the incorporeal [[spirit]]s of dead creatures. Through the use of [[necromancy]], undead must be infused with the essence of either the plane of [[Mabar]] or the plane of [[Irian]]. 

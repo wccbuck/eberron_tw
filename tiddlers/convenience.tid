@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220218021338858
-modified: 20220218162054662
+modified: 20220805145726535
 tags: 
 title: convenience
+tooltip: tag for an item that magically aids the user in doing a mundane task or craft
 type: text/vnd.tiddlywiki
 
 This tag indicates a [[tool]] or [[accessory]] that enhance the user's ability to do a mundane task or craft, such as cooking, or are simply ordinary tools with enhanced features or durability.

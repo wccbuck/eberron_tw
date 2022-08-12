@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220218201230617
-modified: 20220218201522635
+modified: 20220805154509032
 tags: 
 title: recovery
+tooltip: tag for an item which helps a creature recover from harm or exhaustion
 type: text/vnd.tiddlywiki
 
 This tag indicates a [[tool]] or [[accessory]] that is used to help a creature recover from harm or exhaustion.

@@ -1,7 +1,8 @@
 color: #0F5132
 created: 20210718210708559
-modified: 20210727192041616
+modified: 20220805194721677
 title: war
+tooltip: tag for long-term conflicts
 type: text/vnd.tiddlywiki
 
 !!! <<showevent-type>>

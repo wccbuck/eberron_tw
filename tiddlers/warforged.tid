@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200415014832044
-modified: 20220503195723416
+modified: 20220805221711235
 tags: construct humanoid
 tier: 2
 title: warforged
+tooltip: sapient construct, built to fight in the Last War
 type: text/vnd.tiddlywiki
 var: uncommon
 

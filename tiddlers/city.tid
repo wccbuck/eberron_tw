@@ -1,9 +1,10 @@
 color: #092F1E
 created: 20210718042354521
-modified: 20220322193043086
+modified: 20220805150854987
 title: city
+tooltip: a settlement with 5000 or more permanent residents
 type: text/vnd.tiddlywiki
 
-In this document, a city is defined as a settlement with 5000 or more residents.
+In this document, a city is defined as a settlement with 5000 or more permanent residents.
 
 !!! <<showplace-type>>

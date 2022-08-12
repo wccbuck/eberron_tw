@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042346360
-modified: 20210727192028744
+modified: 20220805154828444
 title: river
+tooltip: tag for river locations
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

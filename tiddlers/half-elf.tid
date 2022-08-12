@@ -2,10 +2,11 @@ alternatetitle: Khoravar
 category: creature
 color: #EA868F
 created: 20200415173654759
-modified: 20220531205142540
+modified: 20220805212140883
 tags: humanoid
 tier: 1
 title: half-elf
+tooltip: humanoid with human and elf ancestry; "a child of Khorvaire"
 type: text/vnd.tiddlywiki
 var: common
 

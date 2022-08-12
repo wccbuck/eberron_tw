@@ -1,0 +1,10 @@
+category: phenomenon
+color: #432874
+created: 20220803205052763
+modified: 20220806203651874
+tags: [[universal property]] Mabar
+title: Radiant Void
+tooltip: universal property: spells that restore health or deal radiant damage are more exhausting to cast
+type: text/vnd.tiddlywiki
+
+While on a [[plane]] with this property, in order to cast a spell that deals radiant damage or restores health, any [[consequence]]s to that roll include one additional [[stress]] from casting the spell.

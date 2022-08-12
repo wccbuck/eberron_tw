@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20220213005044674
-modified: 20220213030724387
+modified: 20220805185249142
 tags: Storyloom
 title: magical healing
+tooltip: documentation page for how magical healing works in the Storyloom system
 type: text/vnd.tiddlywiki
 
 In the [[Storyloom]] system, when player characters are injured, they mark boxes of [[harm]] on their [[character sheet|character sheet template]]. Ordinarily, each harm box requires one day of rest to recover, assuming the character has access to medical attention.

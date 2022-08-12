@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Eternal Dominion",
         "tags": "nation [[Thunder Sea]]",
-        "modified": "20210811184452776",
+        "modified": "20220805231100894",
         "color": "#3B5C0A",
         "category": "location",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "nation of sahuagin which dominates the Thunder Sea"
     }
 ]

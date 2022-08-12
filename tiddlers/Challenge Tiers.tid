@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20220502034136035
-modified: 20220502042245139
+modified: 20220805184840819
 tags: Storyloom
 title: Challenge Tiers
+tooltip: documentation page for handling tiered challenges
 type: text/vnd.tiddlywiki
 
 When [[Storyloom]] players [[take action|Taking Action]] to face a challenge, the GM decides the [[impact]] and [[risk]] associated with that challenge. They do this by assessing multiple factors, such as the quality or magnitude of the challenge relative to the player characters' capabilities, the scale of the attempt (e.g. number of opponents, size of an area covered, etc), or particular weaknesses or shortcuts the player characters choose to exploit. A challenge that is well within the player characters' capabilities is typically placed at "moderate" [[impact]] and "moderate" [[risk]]. Then, the GM adjusts these up or down based on the context of the scene.

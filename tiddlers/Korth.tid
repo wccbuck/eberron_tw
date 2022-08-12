@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200416205019131
-modified: 20210914010256749
+modified: 20220810180753179
 points: 48.7,3.83
 population: 427500
 style: {"color": "#8E0024"}
 tags: fortress city Karrnath
 title: Korth
+tooltip: capital of Karrnath, headquarters of the Twelve
 type: text/vnd.tiddlywiki
 
 ''Country:'' [[Karrnath]]<br/>

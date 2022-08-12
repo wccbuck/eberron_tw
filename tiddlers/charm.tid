@@ -2,10 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20201216165128139
 highertier: show
-modified: 20220220210636705
+modified: 20220805223933678
 tags: enchantment
 tier: 2
 title: charm
+tooltip: uncommon enchantment spell, make a creature regard you as a friendly acquaintance
 type: text/vnd.tiddlywiki
 
 You attempt to charm a [[humanoid]] you can see within 30 feet. If the creature fails to resist your enchantment, it is charmed by you for up to one hour or until you or your companions do anything harmful to it. If you or your companions are fighting it, you have [[disadvantage]] on this spell.

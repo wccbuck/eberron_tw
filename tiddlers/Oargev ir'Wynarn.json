@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Oargev ir'Wynarn",
         "tags": "[[Wynarn family]] [[New Cyre]] human humanoid",
-        "modified": "20220217232928384",
+        "modified": "20220812045916197",
         "color": "#FEA627",
         "category": "person",
-        "article": "Prince "
+        "article": "Prince ",
+        "tooltip": "last surviving heir of Cyre's ruling family"
     }
 ]

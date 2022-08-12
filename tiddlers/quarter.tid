@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042335061
-modified: 20210727192026628
+modified: 20220805195133762
 title: quarter
+tooltip: a location which is a division of a city, usually larger than a district
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

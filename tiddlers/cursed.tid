@@ -1,7 +1,8 @@
 color: #1E868E
 created: 20201227174416653
-modified: 20220216210807995
+modified: 20220805202614641
 title: cursed
+tooltip: tag for magic items that bind themselves to their users and cause them misfortune
 type: text/vnd.tiddlywiki
 
 Some [[magic item]]s bear curses that bedevil their users, sometimes long after a user has stopped using an item. Most methods of identifying items fail to reveal such a curse, although lore might hint at it. [[Attunement|attunement]] to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [[remove curse]] spell.

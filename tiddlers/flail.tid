@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220217211810457
-modified: 20220217211814120
+modified: 20220805193549103
 tags: 
 title: flail
+tooltip: tag for weapons consisting of a handle with a freely swinging weight attached to one end
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

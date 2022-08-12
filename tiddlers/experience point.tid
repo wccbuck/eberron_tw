@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20211126225549226
-modified: 20220719022046392
+modified: 20220805190351247
 tags: Storyloom
 title: experience point
+tooltip: Storyloom mechanic: spend this resource on character talents or proficiencies
 type: text/vnd.tiddlywiki
 
 Experience points (shortened to "XP") are a representation of a [[player character|Character Creation]]'s power potential. Players can spend experience points on two things:

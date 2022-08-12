@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20210103021548158
-modified: 20220624183623503
+modified: 20220805183448471
 tags: Storyloom [[Taking Action]]
 title: consequence
+tooltip: Storyloom mechanic: negative outcomes from an unsuccessful or partially successful attempt
 type: text/vnd.tiddlywiki
 
 Whenever you earn a [[partial success]] or [[failure|bad outcome]] for a roll, you typically suffer some sort of consequence. There are five categories of consequences.

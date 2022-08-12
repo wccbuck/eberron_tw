@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20210402021419698
-modified: 20220720181051521
+modified: 20220805183156666
 tags: Storyloom
 title: talent
+tooltip: Storyloom mechanic: a player character's special capability or area of expertise
 type: text/vnd.tiddlywiki
 
 A character's talents are special capabilities or areas of expertise that lets them do new things or gain mechanical benefits in specific situations. 

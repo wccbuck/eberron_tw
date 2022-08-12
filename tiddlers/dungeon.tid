@@ -1,9 +1,9 @@
-category: location
 color: #092F1E
 created: 20210302052439209
-modified: 20210923203848910
+modified: 20220805230036554
 tags: [[location type]]
 title: dungeon
+tooltip: tag for a location potentially filled with threats and treasure
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042106218
-modified: 20210727192008085
+modified: 20220805195546009
 title: fence
+tooltip: tag for people or places which serve to buy or sell stolen or illicit goods
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

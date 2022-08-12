@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042104327
-modified: 20210727192000063
+modified: 20220805195425720
 title: casino
+tooltip: tag for locations where people can gamble
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042342931
-modified: 20210727192018045
+modified: 20220805191257337
 title: lake
+tooltip: tag for lake locations
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

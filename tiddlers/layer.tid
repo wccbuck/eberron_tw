@@ -1,9 +1,10 @@
 category: location
 color: #092F1E
 created: 20201217032922177
-modified: 20210917000437211
+modified: 20220805225051664
 tags: 
 title: layer
+tooltip: a realm within a plane of existence, which explores a particular facet of that plane's concepts
 type: text/vnd.tiddlywiki
 
 [[Eberron]] is the Material Plane, bound by the logical limitations

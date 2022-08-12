@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210110061022952
-modified: 20210727192027529
+modified: 20220806210131114
 tags: dragon
 tier: 4
 title: red dragon
+tooltip: dragon that breathes fire
 type: text/vnd.tiddlywiki
 
 Red dragons have a reputation for arrogance, even among dragons. These creatures see themselves as kings and emperors, and often view the rest of dragonkind as inferior.
@@ -17,4 +18,4 @@ The scales of a red dragon wyrmling are a bright glossy scarlet, turning a dull,
 
 The red dragon can exhale the mightiest fire breath of any dragon. As innate spellcasters, adult red dragons can cast spells such as [[immolation]], [[invisibility]], [[wall of fire]], [[elemental bane]], and [[control winds]].
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

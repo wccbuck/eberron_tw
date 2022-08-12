@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Sharn Inquisitive",
         "tags": "newspaper Sharn",
-        "modified": "20210909192612274",
+        "modified": "20220810181423303",
         "color": "#9EC5FE",
         "category": "organization",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "Sharn's local weekly newspaper"
     }
 ]

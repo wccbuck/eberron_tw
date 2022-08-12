@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216201238848
-modified: 20220216201821326
+modified: 20220805150433674
 tags: 
 title: legs
+tooltip: tag for a worn item that covers the legs or feet
 type: text/vnd.tiddlywiki
 
 This tag indicates a piece of [[armor]] or [[accessory]] that covers the legs and/or feet.

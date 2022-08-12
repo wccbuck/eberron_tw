@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216231226816
-modified: 20220216231444086
+modified: 20220805195903714
 tags: 
 title: orb
+tooltip: tag for orb magical implements
 type: text/vnd.tiddlywiki
 
 See [[magical implement]].

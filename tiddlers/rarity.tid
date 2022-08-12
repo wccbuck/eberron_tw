@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20210105213115836
-modified: 20220715163523273
+modified: 20220805185609831
 tags: Storyloom
 title: rarity
+tooltip: indicator of an item's rarity and potency
 type: text/vnd.tiddlywiki
 
 Each [[magic item]] (and some "mundane" items) has a rarity: ''common'', ''uncommon'', ''rare'', ''epic'', or ''legendary''. Common magic items, such as a [[potion of healing]], are the most plentiful. Most legendary items, such as the [[breastplate of Kamvuul Norek]], are unique. The secrets of creating the most powerful items arose in past [[era]]s and then were gradually lost as a result of wars, cataclysms, and mishaps. (See also [[random artifact properties]])

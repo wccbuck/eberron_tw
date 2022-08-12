@@ -1,8 +1,10 @@
 created: 20210205201850231
-modified: 20210727192037933
+modified: 20220811210821150
 tags: 
 title: Tiddlers with duplicate tooltips
 type: text/vnd.tiddlywiki
+
+!! Tooltips
 
 <$list filter="[has[tooltip]!tag[Sharn]]" variable="tid1">
 <$list filter="[<tid1>get[tooltip]]" variable="tt">
@@ -12,4 +14,13 @@ type: text/vnd.tiddlywiki
 </$list>
 </$list>
 
+!! Alternate Titles
+
+<$list filter="[has[alternatetitle]]" variable="tid1">
+<$list filter="[<tid1>get[alternatetitle]]" variable="tt">
+<$list filter="[!<tid1>alternatetitle<tt>]">
+<$link/><br/>
+</$list>
+</$list>
+</$list>
 

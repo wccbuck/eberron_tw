@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718041452984
-modified: 20210727191959574
+modified: 20220805200931158
 title: brothel
+tooltip: tag for locations which are houses of prostitution
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

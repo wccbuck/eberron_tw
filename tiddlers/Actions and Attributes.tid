@@ -1,11 +1,12 @@
 category: game mechanics
 created: 20210401231524919
-modified: 20220504173837713
+modified: 20220805190605723
 tags: Storyloom
 title: Actions and Attributes
+tooltip: documentation page for Storyloom attempts and proficiencies
 type: text/vnd.tiddlywiki
 
-Actions and attributes are the basis for all [[attempts|Taking Action]] your character performs. They tell you the number of dice you pick up and roll when it's time to take action. They help you answer the question, "What do you do, and what do you use to do it?" 
+Actions and attributes are the basis for all [[attempts|Taking Action]] your character performs. They tell you the number of dice you pick up and roll when it's time to take action, before any other modifiers. They help you answer the question, "What do you do, and what do you use to do it?" 
 
 When making an attempt, choose a relevant [[action]] and [[attribute]]. Add one six-sided die to your dice pool.
 

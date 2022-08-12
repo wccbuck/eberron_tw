@@ -2,7 +2,7 @@ category: phenomenon
 color: #432874
 created: 20200414215001795
 list: [[aberrant dragonmark]] [[Mark of Death]] [[Mark of Detection]] [[Mark of Finding]] [[Mark of Handling]] [[Mark of Healing]] [[Mark of Hospitality]] [[Mark of Making]] [[Mark of Passage]] [[Mark of Scribing]] [[Mark of Sentinel]] [[Mark of Shadow]] [[Mark of Storm]] [[Mark of Warding]]
-modified: 20220720171723909
+modified: 20220805200521607
 tags: 
 title: dragonmark
 tooltip: hereditary mark of magical power, and the basis of the dragonmarked houses' economic power
@@ -29,7 +29,7 @@ You can't buy or choose to develop a dragonmark;
 each mark is tied to [[bloodlines|dragonmarked house]] within specific species,
 as summarized in the table below. A dragonmark appears on a person around adolescence (usually with the help of the [[Test of Siberys]]), though not every heir manifests the mark.
 
-{{DragonmarksTable}}
+{{$:/DragonmarksTable}}
 
 Long ago, the families that carry the marks joined
 together to form the [[dragonmarked house]]s. Over the

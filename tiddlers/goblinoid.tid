@@ -1,10 +1,10 @@
 category: creature
 color: #EA868F
 created: 20200415001347201
-modified: 20220719224949080
+modified: 20220805212311200
 tags: humanoid
 title: goblinoid
-tooltip: goblins, hobgoblins, bugbears
+tooltip: goblins, hobgoblins, bugbears; once the dominant species of Khorvaire
 type: text/vnd.tiddlywiki
 var: common
 

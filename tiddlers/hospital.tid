@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042107734
-modified: 20210727192013871
+modified: 20220805192232338
 title: hospital
+tooltip: tag for locations which serve to help people recover from injury
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

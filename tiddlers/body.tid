@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216201216584
-modified: 20220216211902507
+modified: 20220805150333093
 tags: 
 title: body
+tooltip: tag for a worn item that covers the torso
 type: text/vnd.tiddlywiki
 
 This tag indicates  a piece of [[armor]] or [[accessory]] that covers the torso. Depending on the item, it could also cover the arms, legs, and/or head.

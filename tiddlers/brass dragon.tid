@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210110052344532
-modified: 20210727191959188
+modified: 20220806211224773
 tags: dragon
 tier: 4
 title: brass dragon
+tooltip: dragon that can breathe fire and sleeping gas
 type: text/vnd.tiddlywiki
 
 The most gregarious of the true [[dragon]]s, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -17,4 +18,4 @@ A brass dragon wyrmling's scales are a dull, mottled brown. As it ages, the drag
 
 The brass dragon can breathe a line of fire, as well as a cloud of sleeping gas. As innate spellcasters, adult brass dragons can cast spells such as [[wall of sand]], [[charm]], [[sending]], and [[tongues]].
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

@@ -1,8 +1,9 @@
 color: #075157
 created: 20210718033425119
-modified: 20220216193401132
+modified: 20220805194154957
 tags: [[object type]]
 title: drug
+tooltip: tag for consumable non-food items which affect the function or perception of creatures
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

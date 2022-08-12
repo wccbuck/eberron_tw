@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20220116034711252
-modified: 20220119235749811
+modified: 20220805201703766
 tags: dragon
 tier: 4
 title: moonstone dragon
@@ -27,4 +27,4 @@ times fondly remembered is more precious to a moonstone dragon than a sack of go
 
 The moonstone dragon can exhale a beam of moonlight which causes radiant damage, or a cloud of sleeping gas. As innate spellcasters, moonstone dragons can cast spells such as [[faerie fire]], [[dream]], [[calm emotions]], [[dispel magic]], [[invisibility]], and [[revivify]].
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

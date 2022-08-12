@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042340926
-modified: 20210727192008964
+modified: 20220805154809200
 title: forest
+tooltip: tag for a forested location
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

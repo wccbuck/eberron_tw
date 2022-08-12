@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20201231200938517
-modified: 20210917201303931
+modified: 20220805023844991
 tags: 
 title: arcane magic
+tooltip: magic which acts according to the laws of science, tied to planes and ring of Siberys
 type: text/vnd.tiddlywiki
 
 Arcane magic is a form of science. A [[wizard]] works through complex magical formulas. An [[artificer]] invents new and bizarre ways to create and combine [[spell]] effects. A [[sorcerer]] interacts with magic in a more instinctive way, but is still tapping into ambient magical power that doesn't require anything like faith.

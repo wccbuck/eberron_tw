@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20201222060548204
-modified: 20210727192004987
+modified: 20220805223618111
 tags: angel immortal celestial
 tier: 4
 title: dominion
+tooltip: Syranian angel who focuses on a specific domain of study, served by virtues; can fall and become a radiant idol
 type: text/vnd.tiddlywiki
 
 Dominions are a higher order of [[Syrania]]n [[angel]], and focus on a very specific aspect of a single domain, like "wolves" or "swords". They have names and specific [[domain|Syranian domain]]s,

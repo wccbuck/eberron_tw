@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216231232610
-modified: 20220216231453856
+modified: 20220805195833613
 tags: 
 title: crystal
+tooltip: tag for crystalline magical implements
 type: text/vnd.tiddlywiki
 
 See [[magical implement]].

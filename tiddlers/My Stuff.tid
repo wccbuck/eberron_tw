@@ -1,7 +1,8 @@
 created: 20210409213500098
 mode: edit
-modified: 20220207174455783
+modified: 20220805200610959
 title: My Stuff
+tooltip: saved pages for later reference
 type: text/vnd.tiddlywiki
 
 <<tabs "$:/MyStuff $:/MyItems $:/MySpells $:/MyCreatures $:/MyPeople $:/MyOrgs $:/MyPlaces $:/MyTalents $:/MyMisc" "$:/MyStuff">>

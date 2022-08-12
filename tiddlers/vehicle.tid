@@ -1,8 +1,9 @@
 color: #075157
 created: 20210718033516205
-modified: 20220216193949014
+modified: 20220805202700908
 tags: [[object type]]
 title: vehicle
+tooltip: tag for items primarily used for transport
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

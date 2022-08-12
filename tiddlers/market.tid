@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042109300
-modified: 20210727192020608
+modified: 20220805192326063
 title: market
+tooltip: tag for locations which are or prominently feature marketplaces
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

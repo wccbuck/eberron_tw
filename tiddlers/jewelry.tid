@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216201841977
-modified: 20220216201849413
+modified: 20220805150018763
 tags: 
 title: jewelry
+tooltip: tag for items such as rings and amulets
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

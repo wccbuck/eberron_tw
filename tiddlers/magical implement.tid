@@ -1,8 +1,9 @@
 color: #075157
 created: 20201231030739925
-modified: 20220715164715765
+modified: 20220805145848480
 tags: [[object type]]
 title: magical implement
+tooltip: a magic item which serves as a focus for spellcasting
 type: text/vnd.tiddlywiki
 
 A magical implement is a [[magic item]] that serves as a focus for spellcasting. An implement can enhance the effects of certain categories of spells, or even grant the spellcaster access to spells they don't ordinarily have the ability to cast. Some implements allow casting spells using magical energy imbued in the item itself, rather than the spellcaster's; these items usually can only be used a few times per day.

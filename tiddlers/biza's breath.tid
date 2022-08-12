@@ -1,0 +1,11 @@
+category: object
+color: #41D5E1
+created: 20220809220707991
+modified: 20220810175405691
+tags: poison
+tier: 2
+title: biza's breath
+tooltip: inhaled poison which causes targets to attack people nearby
+type: text/vnd.tiddlywiki
+
+When deployed, this poison resembles a cloud of pink ash. A creature who inhales this poison and can't resist its effects becomes poisoned for up to 1 minute. While afflicted, the creature is dizzy and disoriented, and is compelled to physically attack anyone within a 5 foot radius.

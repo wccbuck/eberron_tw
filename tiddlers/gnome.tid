@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200414230807420
-modified: 20220114013502480
+modified: 20220805221541694
 tags: humanoid
 tier: 1
 title: gnome
+tooltip: small humanoid with a talent for illusion and intrigue
 type: text/vnd.tiddlywiki
 var: common
 

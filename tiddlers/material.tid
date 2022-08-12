@@ -1,8 +1,9 @@
 color: #075157
 created: 20201227004629314
-modified: 20220216193423594
+modified: 20220805190708126
 tags: [[object type]]
 title: material
+tooltip: tag for a substance that can be used as a resource for item creation
 type: text/vnd.tiddlywiki
 
 This tag indicates a substance with remarkable or magical properties that can be used in smithing, alchemy, or the creation of [[magic item]]s.

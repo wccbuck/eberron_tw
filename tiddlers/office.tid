@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042111619
-modified: 20210727192023490
+modified: 20220805155714995
 title: office
+tooltip: tag for a building that serves an administrative purpose
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

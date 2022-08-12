@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220218015601640
-modified: 20220218020116717
+modified: 20220805150543525
 tags: 
 title: hindrance
+tooltip: tag for an item which temporarily hinders a creature
 type: text/vnd.tiddlywiki
 
 This tag indicates a [[tool]] or [[accessory]] that impairs, immobilizes, or otherwise incapacitates one or more creatures, usually temporarily. 

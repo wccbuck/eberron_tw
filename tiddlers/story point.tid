@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20210402012356223
-modified: 20220504192903620
+modified: 20220805190322412
 tags: Storyloom
 title: story point
+tooltip: Storyloom mechanic: if justified by a character's aspect, spend this resource to gain +3d/impact on an attempt
 type: text/vnd.tiddlywiki
 
 Story points are a sort of "storytelling currency" that players and GMs can use to control the flow of the narrative. Player characters start each mission or adventure with some number of story points (usually 2). After a player character makes an [[attempt|Taking Action]], the player may want to improve the result, but they may have no [[momentum]] to spend. However, if they have a story point, and a relevant [[aspect]] on their character sheet that provides narrative justification, they can spend that point and immediately get 3 [[momentum]] to spend on that roll result (which can be a combination of extra dice rolls or extra [[impact]]). 

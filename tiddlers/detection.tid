@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220218012957112
-modified: 20220218023016967
+modified: 20220805145508750
 tags: 
 title: detection
+tooltip: tag for an item that aids the user's ability to detect things
 type: text/vnd.tiddlywiki
 
 This tag indicates a [[tool]] or [[accessory]] that aids the user's ability to detect things. This could mean enhanced perception or senses, discernment of truth from lies, alarms, or access to [[divination]] spells or similar effects.

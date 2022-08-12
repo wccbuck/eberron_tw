@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20210103022159443
-modified: 20210727192024475
+modified: 20220805185535797
 tags: Storyloom [[Taking Action]]
 title: partial success
+tooltip: Storyloom mechanic: highest result is 4 or 5, mix of positive and negative outcomes
 type: text/vnd.tiddlywiki
 
 After rolling dice, if your highest die is a 4 or 5, that's a partial success; you do what you were trying to do, but there are [[consequence]]s, such as [[stress]], reduced [[impact]], or a complication.

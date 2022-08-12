@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216231122238
-modified: 20220216231125848
+modified: 20220805193851683
 tags: 
 title: hammer
+tooltip: tag for hammer weapons such as mauls and warhammers
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

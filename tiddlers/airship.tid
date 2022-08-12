@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20200415012932929
-modified: 20220707205320634
+modified: 20220810175728030
 tags: vehicle [[elemental vessel]]
 tier: 0
 title: airship
+tooltip: flying elemental-powered vessel, requires Mark of Storm to pilot
 type: text/vnd.tiddlywiki
 
 The airship is the most advanced [[elemental]]-powered vehicle on [[Eberron]], the pride of House [[Lyrandar]] and the forerunner of the magical advances that many hope will become commonplace in the aftermath of the [[Last War]]. The first airships emerged from the [[Cannith]] and [[Zilargo]] workshops and appeared in House Lyrandar's service just eight years ago (in 990 YK). For now, though, they remain rare, because the [[soarwood]] required for their construction is exceedingly scarce and tightly controlled.

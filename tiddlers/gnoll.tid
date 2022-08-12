@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200423050207895
-modified: 20220319225730016
+modified: 20220729164226112
 tags: humanoid monstrosity
 tier: 2
 title: gnoll
@@ -20,9 +20,7 @@ across [[Droaam]].
 
 !! Gnoll Characteristics
 
-//''Physical Appearance.''// A typical gnoll stands over seven feet
-in height, but this is belied by their hunched posture. Males
-and females are similar in appearance, and other species have
+A typical gnoll stands over seven feet in height, but this is belied by their hunched posture. Males and females are similar in appearance, and other species have
 difficulty telling them apart. Gnolls have thick fur over their
 bodies; depending on clan, this can be uniform in color, or
 broken up with spots or stripes. Their eyes are yellow or green,
@@ -33,7 +31,9 @@ fur with stripes that glow like flames, or other unusual traits.
 Typically these don't grant special abilities, though you could
 attribute a class ability or feat to such a mutation.
 
-//''Lifespan.''// Young gnolls grow with uncanny speed. A gnoll is
+!!! Lifespan
+
+Young gnolls grow with uncanny speed. A gnoll is
 capable of fending for itself after only a few months, and is
 considered an adult at 5 years of age. Gnolls live to be around
 30 years old. They remain vigorous until the end; death by
@@ -41,7 +41,9 @@ old age is marked by a catastrophic decline over a space of
 a few days. Many believe this unusual lifecycle is tied to the
 supernatural origins of the gnoll.
 
-//''Bone Eaters.''// Gnolls possess powerful jaws, as reflected by
+!!! Bone Eaters
+
+Gnolls possess powerful jaws, as reflected by
 their bite attack. They can chew through and digest bone, and
 dislike letting food go to waste. When feral gnolls raid a village,
 they consume even the bones of their victims. [[Znir|Znir Pact]] gnolls won't
@@ -52,7 +54,9 @@ form a bond with the victim. The Znir believe that those you kill
 wait for you in the realm of death, and honoring them ensures
 that they won't be hungry when you travel to that land.
 
-//''Pack Instincts.''// Gnolls have very strong pack instincts. They
+!!! Pack Instincts
+
+Gnolls have very strong pack instincts. They
 instinctively work together in combat, and think nothing of
 placing themselves in harm's way to protect their kin. Znir gnolls
 won't deceive members of their pack; if there are problems,
@@ -61,7 +65,9 @@ adventurers as their temporary pack, these things apply to the
 other characters—but the gnoll will be surprised and angry if
 their non-gnoll packmates don't show them the same respect.
 
-//''Casual Aggression.''// Gnolls often seem very aggressive to
+!!! Casual Aggression
+
+Gnolls often seem very aggressive to
 other creatures. However, gnolls themselves don't consider
 casual intimidation to be a hostile act; it's just a way to establish
 a place in the hierarchy of the pack, largely ignored once that
@@ -69,7 +75,9 @@ hierarchy is established. This manifests in how gnolls make
 demands rather than requests, and use active statements
 rather than passive queries.
 
-//''Cunning Hunters.''// Gnolls are strong and aggressive by
+!!! Cunning Hunters
+
+Gnolls are strong and aggressive by
 nature. But both the Znir gnolls and their uncivilized kin
 are cunning hunters rather than simple brutes. Gnolls work
 together as a pack, always searching for weaknesses in
@@ -77,13 +85,17 @@ enemies and supporting injured allies. Znir gnolls won't break
 their word, but they don't hold to any idea of honorable conduct
 on the battlefield; they are ruthless and efficient, and see nothing wrong with ambushing or tricking a superior foe. Some gnolls have a supernatural knack for mimicry and use this gift to draw enemies into danger.
 
-//''Working Relationships.''// [[Droaam]] is a diverse region, and
+!!! Working Relationships
+
+[Droaam]] is a diverse region, and
 the Znir gnolls have always been prepared to work for any
 master. They don't judge people by appearance or by their
 beliefs; just as they put up with [[demon]]-worshiping [[minotaur]]s
 in Droaam, a Znir [[hwyri]] can work alongside a [[templar]] of the [[Silver Flame]] or a [[warforged]] [[paladin]] of [[Dol Arrah]]. They may not like the people they are working with, and they may think that the beliefs of their companions are vile or foolish. But they place duty before such personal concerns, and won't insult allies or pick fights with them.
 
-//''Communication.''// The [[Gnoll]] [[language]] is unique, with a
+!!! Communication and Names
+
+The [[Gnoll]] [[language]] is unique, with a
 range of pitches that are difficult for humans to hear, let alone
 duplicate. At first, it sounds much like the vocalizations of
 hyenas, with whining and chattering “laughter.” It's possible for
@@ -102,3 +114,15 @@ important part of gnoll communication; for example, when
 a gnoll feels threatened or angry, its thick crest of fur down
 the spine rises up. The Znir dislike written communication,
 though they use it for contracts.
+
+When it comes to gnoll names, the most important identifier for a [[Znir|Znir Pact]] gnoll is its whoop.
+While deceptively short, a whoop includes a range of
+ultrasonic inflections that indicate clan, a personal identifier,
+and a suggestion of family affiliation (the Znir trace lineage
+through the mother). Because it’s impossible for most non-gnolls to properly replicate a whoop, gnolls also use //contract names//—names intended to be used with clients and other outsiders. There is a basic structure of contract names used
+by all gnolls; the inflection of the name indicates gender,
+though few people recognize this if they don’t speak [[Gnoll]].
+The Znir typically attach clan name to a formal introduction:
+“Ghyrryn Barrakas, Znir.”
+
+//''Gnoll Contract Names: ''//Dagnyr, Dhyrn, Ghyrryn, Gnasc, Gnoryc, Gnyrn, Gnyrl, Hyrn, Lhoryn, Lhyr, Lhyrl, Mognyr, Myrl, Sorgnyn, Thyrn, Toryc, Yrgnyn, Yrych

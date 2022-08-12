@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216231127601
-modified: 20220216231145420
+modified: 20220805193956329
 tags: 
 title: mace
+tooltip: tag for clublike bludgeoning weapons
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

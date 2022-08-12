@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200414232527235
-modified: 20210801203722747
+modified: 20220805023346551
 tags: humanoid
 tier: 1
 title: dwarf
+tooltip: stout, long-lived folk of the mountains and cold places
 type: text/vnd.tiddlywiki
 var: common
 

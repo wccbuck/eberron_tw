@@ -2,7 +2,7 @@ category: organization
 color: #052c65
 created: 20200414220756731
 list: Cannith Deneith Ghallanda Jorasco Kundarak Lyrandar Medani Orien Phiarlan Sivis Tharashk Thuranni Vadalis
-modified: 20220521213534964
+modified: 20220805200311189
 tags: tribe
 title: dragonmarked house
 tooltip: powerful mercantile families with magic powers
@@ -17,7 +17,7 @@ the power to enforce its wishes on the houses.
 
 About half of all children born to most dragonmarked houses will develop some level of [[dragonmark]].
 
-{{DragonmarksTable}}
+{{$:/DragonmarksTable}}
 
 !! All About the Houses
 

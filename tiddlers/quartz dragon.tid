@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20220509205318809
-modified: 20220509205822082
+modified: 20220806212119262
 tags: dragon [[gem dragon]]
 tier: 4
 title: quartz dragon
+tooltip: gem dragon which embodies life, can breathe bursts of radiance
 type: text/vnd.tiddlywiki
 
 Shimmering with radiant energy and brimming with life, quartz dragons (or "crystal dragons") enjoy an innate [[psionic|psionics]] connection to the [[plane]] of [[Irian]] that suffuses their bodies as well as their personalities with light. Though they prefer to live in desolate, frigid regions, many of them are among the friendliest of dragonkind, nurturing and optimistic. Many quartz dragons study the stars, recording their observations of the night sky and tracking the signs written in starlight. They read these signs as omens, giving them glimpses of what is to come, and they eagerly examine the potential futures of any creatures who come to them in peace.
@@ -23,4 +24,4 @@ The quartz dragon can exhale a scintillating burst of brilliant radiance, causin
 
 Quartz dragons can also cast [[clairvoyance]] at will as long as they have access to a large surface of ice or quartz as the focus for that spell.
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

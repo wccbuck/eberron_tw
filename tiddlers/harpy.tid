@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200426213802637
-modified: 20220225010845503
+modified: 20220805222954971
 tags: monstrosity
 tier: 2
 title: harpy
+tooltip: half-human, half-vulture creature with entrancing voice
 type: text/vnd.tiddlywiki
 
 A harpy combines the body, legs, and wings of a vulture with the torso, arms, and head of a human. Its wicked talons and bone club make it a formidable threat in combat, but its most potent weapon is its voice. To hear a harpy's song is to hear music more beautiful than anything else in the world. A traveler that succumbs to the entrancing effect of that singing is compelled to blunder toward its source.

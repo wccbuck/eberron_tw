@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20210402022117672
-modified: 20210727191953390
+modified: 20220805185017124
 tags: Storyloom [[Actions and Attributes]]
 title: action
+tooltip: Storyloom mechanic: when making an attempt, your action describes "what you do"
 type: text/vnd.tiddlywiki
 
 Whenever your character [[attempts to do something|Taking Action]], they use their [[actions and attributes|Actions and Attributes]] to determine how many dice to roll. While [[attribute]]s answer the question "What do you use to solve this problem", ''action''s describe "//What do you do//?"

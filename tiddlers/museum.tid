@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042110762
-modified: 20210727192022496
+modified: 20220805192307979
 title: museum
+tooltip: tag for locations which preserve and display historically important relics
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

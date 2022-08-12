@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20201231200543912
-modified: 20220107033449998
+modified: 20220805023948204
 tags: 
 title: divine magic
+tooltip: magic that draws from the power of faith and conviction
 type: text/vnd.tiddlywiki
 
 Unlike [[arcane magic]], there's no logic to divine magic, no pure science that can

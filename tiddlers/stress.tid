@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20210401182844254
-modified: 20220213015303997
+modified: 20220805184415266
 tags: Storyloom [[Taking Action]]
 title: stress
+tooltip: Storyloom mechanic: boxes on your character sheet that get filled in as you deplete your stamina or luck
 type: text/vnd.tiddlywiki
 
 Stress represents your reserve of stamina and luck that is depleted as your character exerts themselves or tempts fate. You have six boxes on your [[character sheet|character sheet template]] labeled "stress"; mark these boxes as you suffer stress from [[consequence]]s. Perhaps casting that [[fireball]] fatigued you a bit, or sprinting across the courtyard took more out of you than you expected, or maybe you twisted out of the way of that dart trap just in time. These are all great situations to mark stress as a [[consequence]]. 

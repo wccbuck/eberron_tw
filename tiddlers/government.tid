@@ -1,9 +1,10 @@
 color: #052c65
 created: 20210225014419806
 list: [[intelligence agency]] military [[law enforcement]]
-modified: 20220408053518598
+modified: 20220805191228862
 tags: [[organization type]]
 title: government
+tooltip: tag for organizations involved in the administration and governance of states
 type: text/vnd.tiddlywiki
 
 <ul>

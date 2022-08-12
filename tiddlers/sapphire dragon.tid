@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20220509205847974
-modified: 20220509211629828
+modified: 20220806211947069
 tags: dragon [[gem dragon]]
 tier: 4
 title: sapphire dragon
+tooltip: warlike gem dragon that can create pulses of debilitating sound waves; ridden by raiding githyanki
 type: text/vnd.tiddlywiki
 
 The thunderous clash of conflict is part of the very nature of sapphire dragons. Militant and territorial, they defend their lairs fiercely, ambushing
@@ -23,4 +24,4 @@ The sapphire dragon can exhale a pulse of high-pitched, nearly inaudible sound. 
 
 Sapphire dragons can also cast [[clairvoyance]] at will as long as they have access to a large natural stone formation as the focus for that spell.
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

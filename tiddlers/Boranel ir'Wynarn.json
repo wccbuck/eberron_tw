@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Boranel ir'Wynarn",
         "tags": "government [[Wynarn family]] human Breland humanoid",
-        "modified": "20210905194317946",
+        "modified": "20220806220906014",
         "color": "#FEA627",
         "category": "person",
-        "article": "King "
+        "article": "King ",
+        "tooltip": "aging, popular king of Breland"
     }
 ]

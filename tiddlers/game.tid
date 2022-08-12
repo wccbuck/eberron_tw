@@ -1,8 +1,9 @@
 color: #0f5132
 created: 20211112184757042
-modified: 20211112184801933
+modified: 20220805201945674
 tags: 
 title: game
+tooltip: tag for forms of entertainment such as board games and card games
 type: text/vnd.tiddlywiki
 
 !!! <<showentertainment-type>>

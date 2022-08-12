@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210104041555030
-modified: 20210727192003900
+modified: 20220805220546037
 tags: undead
 tier: 2
 title: deathless
+tooltip: undead honored ancestors of Aerenal, sustained by devotion and positive energy
 type: text/vnd.tiddlywiki
 
 When remarkable [[elves|elf]] die, they are preserved beyond

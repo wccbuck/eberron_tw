@@ -1,8 +1,9 @@
 color: #092F1E
 created: 20210302060037424
-modified: 20210923204031070
+modified: 20220805202243701
 tags: [[location type]]
 title: latitude
+tooltip: a special line of latitude on the Eberron map
 type: text/vnd.tiddlywiki
 
 <<list-links-article "[tag{!!title}sort[title]]">>

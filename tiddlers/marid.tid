@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210406161308373
-modified: 20220711185954936
+modified: 20220806212531501
 tags: genie immortal elemental
 tier: 3
 title: marid
+tooltip: genies of water who dwell in Thelanis
 type: text/vnd.tiddlywiki
 
 Although all [[genie]]s wield great power, even the lowliest marid of [[Thelanis]] sees itself as clearly superior to the flighty [[djinn|djinni]], the ground-hugging [[dao]], and the fuming [[efreet|efreeti]].

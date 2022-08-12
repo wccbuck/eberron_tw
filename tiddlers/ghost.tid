@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20201217055913717
-modified: 20220215193244825
+modified: 20220806215027603
 tags: undead spirit
 tier: 2
 title: ghost
+tooltip: the lingering soul of a once-living creature, clinging to a memory or emotion
 type: text/vnd.tiddlywiki
 
 A ghost is the [[soul|spirit]] of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
