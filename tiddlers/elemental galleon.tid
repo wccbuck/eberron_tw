@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20200418013400946
-modified: 20220707211850466
+modified: 20220810180208802
 tags: vehicle [[elemental vessel]]
 tier: 0
 title: elemental galleon
+tooltip: elemental-powered ocean ship, requires Mark of Storm to pilot
 type: text/vnd.tiddlywiki
 
 A House [[Lyrandar]] galleon, also called an elemental

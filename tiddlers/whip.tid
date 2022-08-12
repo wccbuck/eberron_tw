@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216231202033
-modified: 20220216231209879
+modified: 20220805202339108
 tags: 
 title: whip
+tooltip: tag for whip weapons
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

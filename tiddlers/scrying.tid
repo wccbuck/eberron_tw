@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201210035731223
-modified: 20210727192029961
+modified: 20220805224217089
 tags: psionics [[divine magic]] divination
 tier: 3
 title: scrying
+tooltip: rare divination spell, magically spy on a distant location or creature
 type: text/vnd.tiddlywiki
 
 You can see and hear a particular creature you choose that is on the same [[plane]] of existence as you. Your attempt is modified by how well you know the target and the sort of physical connection you have to it. For example, if you have only heard of the target but never met them, the attempt will be more challenging; if the target is very familiar to you, the attempt will be easier. The attempt also becomes easier if you possess an item belonging to the target, or even better, a lock of hair or bit of nail. If a target knows you're casting this spell, it can allow you to scry on them without having to roll dice if it wants to be observed.

@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216232542888
-modified: 20220216232601438
+modified: 20220805155401249
 tags: 
 title: musical instrument
+tooltip: tag for an item that be used to play music, or to channel magic by a bard
 type: text/vnd.tiddlywiki
 
 [[Bard|bard]]s can use various musical instruments as [[magical implement]]s.

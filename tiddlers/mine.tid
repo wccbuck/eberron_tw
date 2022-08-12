@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042110018
-modified: 20210727192021597
+modified: 20220805194605728
 title: mine
+tooltip: tag for locations where precious materials are excavated from the earth
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

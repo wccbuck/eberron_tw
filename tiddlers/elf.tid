@@ -1,11 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200414234116668
-modified: 20220107012612656
+modified: 20220805221129533
 tags: humanoid
 tier: 1
 title: elf
-tooltip: long-lived humanoids, culture centered on tradition and respect for the past
+tooltip: long-lived humanoid, culture centered on tradition and respect for the past
 type: text/vnd.tiddlywiki
 var: common
 

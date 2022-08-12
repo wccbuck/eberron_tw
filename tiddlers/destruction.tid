@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220218014153733
-modified: 20220218022544869
+modified: 20220805153150561
 tags: 
 title: destruction
+tooltip: tag for an item whose primary purpose is to destroy something
 type: text/vnd.tiddlywiki
 
 This tag indicates a [[tool]] or [[accessory]] whose primary purpose is to cause destruction. This includes explosive tools such as [[alchemist's fire]], but also controlled destruction such as [[acidic twine]] or [[universal solvent]].

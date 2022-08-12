@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216201251378
-modified: 20220216201832702
+modified: 20220805150417740
 tags: 
 title: arms
+tooltip: tag for a worn item that covers the arms or hands
 type: text/vnd.tiddlywiki
 
 This tag indicates a piece of [[armor]] or [[accessory]] that covers the arms and/or hands.

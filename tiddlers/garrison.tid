@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042106926
-modified: 20210727192009649
+modified: 20220805192544022
 title: garrison
+tooltip: tag for fortified locations where troops are stationed
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

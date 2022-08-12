@@ -1,8 +1,9 @@
 color: #075157
 created: 20220715163345548
-modified: 20220715163505762
+modified: 20220805202840043
 tags: [[object type]]
 title: scroll
+tooltip: tag for one-time-use magic items, magical effects stored in written form
 type: text/vnd.tiddlywiki
 
 Most scrolls are [[spells stored in written form|spell scroll]], while

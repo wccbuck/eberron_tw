@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210110060653523
-modified: 20210727192011412
+modified: 20220806211151587
 tags: dragon
 tier: 4
 title: green dragon
+tooltip: dragon that breathes clouds of poisonous gas
 type: text/vnd.tiddlywiki
 
 The most cunning of true [[dragon]]s, green dragons use misdirection and trickery to get the upper hand against their enemies. 
@@ -19,4 +20,4 @@ A green dragon's legs are longer in relation to its body than with any other dra
 
 The green dragon can exhale a cloud of poisonous gas. As innate spellcasters, adult green dragons can cast spells such as [[cloudkill]], [[charm]], [[mislead]], and [[dimension door]].
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

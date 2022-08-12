@@ -1,14 +1,28 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.17.3
-modified: 20220803224828081
+currentversion: 1.17.4
+modified: 20220812050404842
 modifier: ziphion
 showmore: hide
 tags: Readme
 title: Changelog
+tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.17.4 <span style="font-weight:normal">(Aug 12, 2022)</span>
+
+* Added a bunch of tooltips to various pages
+* Added instructions and costs for creating [[magic item]]s
+* Clarified the [[schema]] page a bit
+* Added the items [[iron flask]], [[thunderstone]], and [[biza's breath]]
+* Added the creatures [[aurumvorax]], [[tlexolotl]], [[riverine]], [[bakunawa]], and [[whistler]], all from [[Journeys Through the Radiant Citadel|https://dnd.wizards.com/products/journeys-through-radiant-citadel]]
+* Added the [[Sky Battle of Daskaran]]
+* Added some more [[universal properties|universal property]] for the [[Astral Sea]]:
+** [[Ancient and Enigmatic]], [[Speed of Thought]], [[Suspended in the Void]]
+* Changed [[Impeded Magic]] to read: "the [[impact]] of all spells cast here of [[uncommon-tier|spell tier]] or higher is reduced by 1."
+* Added [[Brimstone Brakker]]
 
 !!! 1.17.3 <span style="font-weight:normal">(Aug 3, 2022)</span>
 

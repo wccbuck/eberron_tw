@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20220802221157424
-modified: 20220802221240983
+modified: 20220806200858568
 tags: Fernia [[universal property]]
 title: Burning Bright
+tooltip: universal property: all stress costs are increased by 1, but recover twice as fast
 type: text/vnd.tiddlywiki
 
-While on a [[plane]] with this property, all creatures' metabolisms are doubled. For example, exhaustion sets in faster, but creatures recover from it faster.
+While on a [[plane]] with this property, all creatures' metabolisms are doubled. All [[stress]] costs are increased by 1, but creatures recover from it twice as fast. 

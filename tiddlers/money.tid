@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20210409191449051
-modified: 20220722210116010
+modified: 20220805184909514
 tags: Storyloom
 title: money
+tooltip: documentation page for the use of currency in Storyloom and Eberron
 type: text/vnd.tiddlywiki
 
 The [[Storyloom]] system doesn't keep track of every single coin your character spends in-universe. However, larger (and therefore story-relevant) sums of money can be symbolized by ''crowns'' (indicated with a "c" symbol). For a quick reference, 1c is about 1-2 days' wages for a laborer, equivalent to approximately 10 gold pieces (5E), or about $100 USD. Purchases or expenditures less than 1c are considered to be negligible.

@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20211205010243707
-modified: 20220216200016629
+modified: 20220805202526475
 tags: 
 title: toolset
+tooltip: tag for sets of items which are used by artisans or specialists in their craft
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

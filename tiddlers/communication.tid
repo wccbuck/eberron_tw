@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220218020354095
-modified: 20220218212823159
+modified: 20220805151007736
 tags: 
 title: communication
+tooltip: tag for an item that enhances the user's ability to communicate
 type: text/vnd.tiddlywiki
 
 This tag indicates a [[tool]] or [[accessory]] that enhances the user's ability to communicate, either by granting them the ability to send messages over great distances, prevent eavesdropping, speak new languages, record sounds or speech, or replicate the effects of communication-based [[enchantment]] spells.

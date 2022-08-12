@@ -1,8 +1,9 @@
 category: occupation
 color: #A3CFBB
 created: 20200422032150707
-modified: 20211126225040288
+modified: 20220805224806471
 title: cleric
+tooltip: spellcaster who channels divine magic
 type: text/vnd.tiddlywiki
 
 Through prayers and rituals of their faith, clerics are [[divine|divine magic]] spellcasters that combine the magic of healing and inspiring their allies with spells that harm and hinder foes. They can provoke awe and dread, lay curses of plague or poison, and even call down flames from the heavens to consume their enemies.

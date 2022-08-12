@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20210401201336213
-modified: 20210727192024218
+modified: 20220805190119666
 tags: [[Taking Action]] Storyloom
 title: overcome
+tooltip: Storyloom mechanic: attempt to directly solve a problem or overcome an obstacle; contrast with "boost"
 type: text/vnd.tiddlywiki
 
 Pick a lock, calm a crowd, take cover from an explosion, clash with an opponent—whenever you need to do something like this and there’s something standing between you and your goals, you'll need to ''overcome'' that obstacle. If this is a simple obstacle, there’s no need to make a [[progress clock]] for it; just resolve it with a single roll. But often you’ll face a more complex obstacle such as dealing with a pack of angry wolves. In that case, you might have a six-segment [[progress clock]] labeled “Pack Of Wolves”, and your successful overcome actions tick segments of that clock until it is completed and you defeat them, escape from them, or whatever the narrative dictates.

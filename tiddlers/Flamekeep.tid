@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200416235139556
-modified: 20210822063141100
+modified: 20220810180957250
 points: 46.551,-1.6
 population: 750000
 style: {"color": "#8E0024"}
 tags: city Thrane fortress
 title: Flamekeep
+tooltip: capital of Thrane, site of Tira Miron's sacrifice
 type: text/vnd.tiddlywiki
 
 ''Country:'' [[Thrane]]<br/>
@@ -14,8 +15,7 @@ type: text/vnd.tiddlywiki
 ''Population:'' <<ntls>>
 
 Built where the divine battle between the [[paladin]]
-[[Tira Miron]] and the abomination of darkness and
-shadow was fought, Flamekeep began as a small
+[[Tira Miron]] and the [[abomination of darkness and shadow|Bel Shalor]] was fought, Flamekeep began as a small
 temple built around the purified fire. In time, a
 cathedral replaced the temple, and the church’s
 evolution from cult to religion brought people from

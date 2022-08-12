@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210110062705533
-modified: 20210727192032014
+modified: 20220806210552893
 tags: dragon
 tier: 4
 title: silver dragon
+tooltip: shapeshifting dragon that can breathe icy blasts and paralyzing gas
 type: text/vnd.tiddlywiki
 
 Silver dragons are reputed to be friendliest and most social of the [[dragon]]s.
@@ -13,8 +14,14 @@ A silver dragon shimmers as if sculpted from pure metal, its face given a noble 
 
 A silver wyrmling's scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury.
 
+Older silver dragons can assume animal and [[humanoid]] forms. Many silver dragons spend as much time in humanoid form as they do in draconic form. A
+silver dragon might adopt a benign humanoid persona such
+as a kindly old sage or a young wanderer, and it often
+has mortal companions with whom it develops strong
+friendships. 
+
 !! Magic and Breath Weapon
 
 The silver dragon can exhale an icy blast, or a cloud of paralyzing gas. As innate spellcasters, adult silver dragons can cast spells such as [[creation]], [[fog cloud]], [[ice storm]], [[empowerment]], and [[private sanctum]].
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

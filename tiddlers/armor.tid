@@ -1,8 +1,9 @@
 color: #075157
 created: 20210718033457975
-modified: 20220216193319747
+modified: 20220805151104405
 tags: [[object type]]
 title: armor
+tooltip: tag for a worn item intended to provide physical protection
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

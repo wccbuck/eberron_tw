@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210110055621930
-modified: 20210727192010890
+modified: 20220806210237389
 tags: dragon
 tier: 4
 title: gold dragon
+tooltip: shapeshifting dragon that breathes fire and weakening gas
 type: text/vnd.tiddlywiki
 
 Powerful and majestic, a gold [[dragon]] has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon's sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. 
@@ -21,4 +22,4 @@ Older gold dragons can assume animal and [[humanoid]] forms. Rarely does a gold 
 
 The gold dragon can exhale fiery breath, as well as a cloud of gas that temporarily weakens any creature who breathes it. As innate spellcasters, adult gold dragons can cast spells such as [[hold]], [[invisibility]], [[dimension door]], [[wall of fire]], and [[immolation]].
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

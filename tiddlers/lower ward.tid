@@ -1,9 +1,10 @@
 category: location
 color: #092F1E
 created: 20200417183059932
-modified: 20210727192019561
+modified: 20220805195330241
 tags: ward
 title: lower ward
+tooltip: a ward in the lower sections of Sharn
 type: text/vnd.tiddlywiki
 
 In the lower city of [[Sharn]], the poor must toil and struggle to survive. Few windows and only the occasional balcony or skybridge can be found among these levels,

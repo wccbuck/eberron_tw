@@ -1,9 +1,10 @@
 category: location
 color: #092F1E
 created: 20200417182627285
-modified: 20210727192021437
+modified: 20220805195320769
 tags: ward
 title: middle ward
+tooltip: a ward in the middle sections of Sharn
 type: text/vnd.tiddlywiki
 
 The middle city of [[Sharn]] is a bit more enclosed than the section above it, but there are still open-air balconies and platforms here and there. A wide range of middle-class citizens live and work in this region. 

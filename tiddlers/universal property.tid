@@ -1,8 +1,9 @@
 category: phenomenon
 color: #432874
 created: 20220802212107275
-modified: 20220802224815177
+modified: 20220806202227414
 title: universal property
+tooltip: magical ambient property of one of the planes of existence
 type: text/vnd.tiddlywiki
 
 If adventurers visit one of the [[plane]]s, they'll find it has certain
@@ -19,7 +20,7 @@ move faster, slower, or even unpredictably. The duration of magical effects chan
 !! List of Universal Properties
 
 <ul>
-<$list filter="[tag[plane]sort[title]]" variable="planevar">
+<$list filter="[tag[plane]] [[Astral Sea]] +[sort[title]]" variable="planevar">
 <li><$link to=<<planevar>> overrideClass="graylink"/></li>
 <ul>
 <$list filter="[tag<planevar>tag[universal property]]">

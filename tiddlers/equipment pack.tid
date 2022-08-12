@@ -1,8 +1,9 @@
 color: #075157
 created: 20210808005312520
-modified: 20220216194126313
+modified: 20220805201142225
 tags: [[object type]]
 title: equipment pack
+tooltip: tag for items which are collections of tools and supplies
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

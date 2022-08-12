@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216231056129
-modified: 20220216231103517
+modified: 20220805202207063
 tags: 
 title: projectile
+tooltip: tag for weapons which are launched through the air
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

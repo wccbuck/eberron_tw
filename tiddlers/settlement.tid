@@ -1,9 +1,10 @@
 color: #092F1E
 created: 20210302044723988
 list: city town settlement [[dragonborn clanhold]] feyspire kleynam
-modified: 20220408045911421
+modified: 20220805201445225
 tags: [[location type]]
 title: settlement
+tooltip: group tag for municipal locations such as towns or cities
 type: text/vnd.tiddlywiki
 
 <$list filter="[list{!!title}sort[title]]">

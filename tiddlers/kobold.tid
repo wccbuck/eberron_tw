@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200423033429015
-modified: 20220725011723939
+modified: 20220805222058593
 tags: dragon humanoid
 tier: 1
 title: kobold
+tooltip: small reptilian humanoid, traditionally worshiped dragons, masters of trapmaking
 type: text/vnd.tiddlywiki
 var: uncommon
 

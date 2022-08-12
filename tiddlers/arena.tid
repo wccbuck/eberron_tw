@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042057959
-modified: 20210727191955690
+modified: 20220805202314682
 title: arena
+tooltip: tag for locations where people engage in gladiatorial combat
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

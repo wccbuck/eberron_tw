@@ -1,7 +1,8 @@
 color: #0F5132
 created: 20210718210645106
-modified: 20211106212853830
+modified: 20220805195024119
 title: holiday
+tooltip: tag for recurring events celebrated and commemorated by a culture or nation
 type: text/vnd.tiddlywiki
 
 !!! <<showevent-type>>

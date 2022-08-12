@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20200422221301197
-modified: 20210916002654097
+modified: 20220805231508808
 tags: [[spell school]]
 title: evocation
+tooltip: school of magic which manipulates raw energies of the elements or pure arcane force
 type: text/vnd.tiddlywiki
 
 Evocation spells manipulate magical energy or tap a source of power to produce a desired effect. These include powerful elemental effects such as bitter cold, searing flame, crackling lightning, and burning acid. Other evocation spells manipulate pure arcane force, as in the spells [[magic missile]] or [[wall of force]].

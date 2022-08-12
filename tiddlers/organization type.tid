@@ -1,6 +1,7 @@
 created: 20210225042419305
-modified: 20210801195242564
+modified: 20220805194258238
 title: organization type
+tooltip: group tag for organization types
 type: text/vnd.tiddlywiki
 
 <<list-links-article "[tag{!!title}sort[title]]">>

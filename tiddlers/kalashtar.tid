@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200414225913615
-modified: 20220206185712095
+modified: 20220805221948501
 tags: humanoid
 tier: 1
 title: kalashtar
+tooltip: psionic humanoid who is spiritually linked to a renegade quori
 type: text/vnd.tiddlywiki
 var: uncommon
 

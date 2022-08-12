@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210110055029686
-modified: 20210727192002092
+modified: 20220806211351400
 tags: dragon
 tier: 4
 title: copper dragon
+tooltip: dragon that can breathe a spray of acid or a cloud of slowing gas
 type: text/vnd.tiddlywiki
 
 Copper [[dragon]]s are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
@@ -17,4 +18,4 @@ At birth, a copper dragon's scales are a ruddy brown with a metallic tint. As th
 
 The copper dragon can exhale an acidic spray, as well as a cloud of gas that slows other creatures, forcing them to move as if in slow-motion for up to a minute. As innate spellcasters, adult copper dragons can cast spells such as [[polymorph]], [[invisibility]], [[stinking cloud]], [[greater illusion]], and [[charm]].
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

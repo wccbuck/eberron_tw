@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20220509190049832
-modified: 20220509211351934
+modified: 20220806211859531
 tags: dragon [[gem dragon]]
 tier: 4
 title: amethyst dragon
+tooltip: gem dragon that can control gravity
 type: text/vnd.tiddlywiki
 
 Amethyst dragons, the mightiest of the [[gem dragon]]s, study and [[psionically|psionics]] manipulate the fundamental principles of the universe, from the force of gravity to the emanations of the [[plane]]s. Their innate [[psionics]] give them a measure of control over how physical laws affect them. They defy gravity with flight that doesn’t rely solely upon their great wings, and gravitational force empowers both their devastating breath weapon and the exploding amethyst crystals they spit at their foes.
@@ -22,4 +23,4 @@ The amethyst dragon can exhale a "singularity breath"—it creates a shining bea
 
 Amethyst dragons can also cast [[clairvoyance]] at will as long as they have access to a still body of water as the focus for that spell.
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

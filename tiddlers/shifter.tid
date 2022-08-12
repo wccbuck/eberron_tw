@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200420185105830
-modified: 20220719213535290
+modified: 20220805221835583
 tags: humanoid
 tier: 1
 title: shifter
+tooltip: bestial humanoid who can temporarily "shift" and enhance their animalistic nature
 type: text/vnd.tiddlywiki
 var: common
 

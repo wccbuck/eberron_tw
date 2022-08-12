@@ -1,7 +1,8 @@
 color: #D1BB71
 created: 20220506014706522
-modified: 20220506014851115
+modified: 20220805155746813
 title: deceased
+tooltip: tag for a person or entity who is no longer alive or undead
 type: text/vnd.tiddlywiki
 
 This tag indicates a person or entity who is no longer extant, either among the living or the undead. 

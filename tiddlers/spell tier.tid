@@ -1,9 +1,10 @@
 category: game mechanics
 created: 20210105213051245
-modified: 20220715171434552
+modified: 20220805023453222
 spellname: [[spell]]
 tags: Storyloom
 title: spell tier
+tooltip: indicator of a spell's power
 type: text/vnd.tiddlywiki
 
 A {{!!spellname}}'s tier is a general indicator of how powerful and rare it is.

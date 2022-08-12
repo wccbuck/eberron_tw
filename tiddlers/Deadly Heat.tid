@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20220802220816834
-modified: 20220802220919597
+modified: 20220806203351966
 tags: [[universal property]] Fernia
 title: Deadly Heat
+tooltip: universal property: extreme heat, creatures become resistant to cold
 type: text/vnd.tiddlywiki
 
 While on a [[plane]] with this property, a creature is subject to extreme heat. In addition, all creatures gain resistance to cold damage, and a creature that is usually resistant to cold damage becomes immune to it.

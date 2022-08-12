@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220217220112490
-modified: 20220722210953647
+modified: 20220805192610925
 tags: 
 title: tome
+tooltip: tag for magical book implements
 type: text/vnd.tiddlywiki
 
 A tome is a [[spellbook]] or other piece of arcane writing that can be used as a [[magical implement]].

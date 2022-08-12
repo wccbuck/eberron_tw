@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220218015138933
-modified: 20220218015251655
+modified: 20220805145550600
 tags: 
 title: mobility
+tooltip: tag for an item that enhances the user's ability to move
 type: text/vnd.tiddlywiki
 
 This tag indicates a [[tool]] or [[accessory]] that enhances the user's ability to move. This includes enhancing speed or ignoring obstacles to mobility, as well as granting a new mode of mobility such as flying.

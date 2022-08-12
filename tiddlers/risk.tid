@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20210401190251509
-modified: 20220502035216582
+modified: 20220805183408448
 tags: [[Taking Action]] Storyloom
 title: risk
+tooltip: Storyloom mechanic: severity of consequences for a partial success or failed attempt
 type: text/vnd.tiddlywiki
 
 The risk associated with an [[attempt|Taking Action]] determines how bad the [[consequence]]s are for a [[partial success]] or [[bad outcome]]. Risk does not play a part in the event of a [[full success]]. These consequences can include taking [[stress]] or losing [[momentum]]. Risk can be low, moderate (default), or high.

@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200415003630730
-modified: 20210727191959593
+modified: 20220805221758430
 tags: goblinoid subrace humanoid
 tier: 2
 title: bugbear
+tooltip: hulking, hairy goblinoid; "strong folk"
 type: text/vnd.tiddlywiki
 
 Bugbears are hulking, hairy [[goblinoid]]s typically reaching 7 feet in height and weighing in at around 300 pounds. They mature at about the same pace as [[human]]s and live about as long. Bugbears possess plenty of raw strength, but also exhibit a surprising capacity for stealth; they are fond of setting ambushes, and flee when outmatched.

@@ -1,10 +1,12 @@
+alternatetitle: drakatha
 category: creature
 color: #EA868F
 created: 20210207085610657
-modified: 20220508183849643
+modified: 20220805222124234
 tags: humanoid dragon
 tier: 1
 title: dragonborn
+tooltip: dragonlike humanoid of Argonnessen or Q'barra
 type: text/vnd.tiddlywiki
 var: uncommon
 

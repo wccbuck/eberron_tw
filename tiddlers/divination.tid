@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20200422221216748
-modified: 20210727192004744
+modified: 20220805231253494
 tags: [[spell school]]
 title: divination
+tooltip: school of magic which reveals hidden information
 type: text/vnd.tiddlywiki
 
 Divination spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind [[illusion]]s, or visions of distant people or places.

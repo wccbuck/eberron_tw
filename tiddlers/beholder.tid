@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200423002333849
-modified: 20220715024116609
+modified: 20220805222546934
 tags: aberration
 tier: 4
 title: beholder
+tooltip: spheroid floating aberration covered with eye stalks
 type: text/vnd.tiddlywiki
 var1: 5
 var10: 

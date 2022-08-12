@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20201218051039563
-modified: 20220707203504380
+modified: 20220806212309336
 tags: elemental immortal
 tier: 1
 title: mephit
+tooltip: imp-like elemental formed of two elements
 type: text/vnd.tiddlywiki
 
 Mephits, also known as "elemental scamps", are capricious, imp-like creatures native to the elemental [[plane]]s ([[Lamannia]] and [[Fernia]]). They come in six varieties, each one representing the mixture of two elements. 

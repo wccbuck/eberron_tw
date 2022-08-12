@@ -1,7 +1,8 @@
 color: #1E868E
 created: 20210406035422706
-modified: 20220216200016208
+modified: 20220805202932471
 title: alchemical explosive
+tooltip: tag for items made by alchemy and designed to explode or release some destructive or chaotic magical effect
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

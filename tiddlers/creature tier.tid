@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20210108075833385
-modified: 20220502034731819
+modified: 20220805184548590
 tags: Storyloom
 title: creature tier
+tooltip: indicator of how dangerous or powerful a creature is
 type: text/vnd.tiddlywiki
 
 A creature's tier is a general indicator of how powerful or dangerous an average specimen is in battle; individuals may rank higher or lower. As a rule of thumb, an individual of a given rank is an even match for three to five individuals of the rank below it. However, even a low-tier creature could have influence far beyond its combat abilities.

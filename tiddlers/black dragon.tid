@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210110044840890
-modified: 20210727191957806
+modified: 20220806210825273
 tags: dragon
 tier: 4
 title: black dragon
+tooltip: dragon that can spray powerful acid
 type: text/vnd.tiddlywiki
 
 With deep-socketed eyes and broad nasal openings, a black [[dragon]]'s face resembles a skull. Its curving, segmented horns are bone-colored near the base and darken to dead black at the tips. As a black dragon ages, the flesh around its horns and cheekbones deteriorates as though eaten by acid, leaving thin layers of hide that enhance its skeletal appearance. A black dragon's head is marked by spikes and horns. Its tongue is flat with a forked tip, drooling slime whose acidic scent adds to the dragon's reek of rotting vegetation and foul water.
@@ -15,4 +16,4 @@ When it hatches, a black dragon has glossy black scale. As it ages, its scales b
 
 The black dragon's breath weapon is a spray of powerful acid. As innate spellcasters, adult black dragons can cast spells such as [[darkness]], [[vitriolic sphere]], [[sickening radiance]], and [[blight]].
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

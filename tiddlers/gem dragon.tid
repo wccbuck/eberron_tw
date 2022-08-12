@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20220508210211786
-modified: 20220509212410808
+modified: 20220806211118108
 tags: dragon
 tier: 4
 title: gem dragon
+tooltip: crystalline psionic dragon from the world of the gith
 type: text/vnd.tiddlywiki
 
 The [[gith]] weren't the only survivors who escaped the universe-shifting destruction of their home world. A small host of [[dragon]]s accompanied the exodus from that doomed reality. But these dragons aren't like the metallic and chromatic dragons of the world that we know.
@@ -50,4 +51,4 @@ Less than a hundred dragons of Sardior exist in the current reality. They includ
 
 The dragons of [[Argonnessen]] are aware of the existence of gem dragons, but see them as fluke occurrences, perhaps draconic versions of [[tiefling]]s or [[aasimar]]s. They haven't yet realized that the remnants of an entire gem dragon civilization are active in the world. This gives player characters the opportunity to have a front row seat for the first full and open contact between Sardior and Argonnessen. Will the [[Conclave]] work with these alien dragons, or seek to eliminate them? How do gem dragons interact with the influence of the [[Daughter of Khyber|Tiamat]]? Do they connect with the [[Draconic Prophecy]] in any way? These questions can be answered over the course of a campaign.
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

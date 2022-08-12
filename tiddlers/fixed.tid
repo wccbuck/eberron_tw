@@ -1,9 +1,10 @@
 color: #1E868E
 created: 20201208060957233
-modified: 20220216200016582
+modified: 20220805202442021
 title: fixed
+tooltip: tag for a magic item or other tool which is fixed in place
 type: text/vnd.tiddlywiki
 
 This tag indicates a [[magic item]] or other object that is installed in place, as opposed to a portable, personal item.
 
-<<list-links-article "[tag{!!title}sort[title]]">>
+!!! <<showitem-type>>

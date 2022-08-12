@@ -1,9 +1,10 @@
 color: #092F1E
 created: 20210718042358239
-modified: 20211202182004023
+modified: 20220805145758868
 title: town
+tooltip: a settlement with fewer than 5000 permanent residents
 type: text/vnd.tiddlywiki
 
-In this document, a town is defined as a settlement with fewer than 5000 residents.
+In this document, a town is defined as a settlement with fewer than 5000 permanent residents.
 
 !!! <<showplace-type>>

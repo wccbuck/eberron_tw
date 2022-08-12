@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042119320
-modified: 20210727192039993
+modified: 20220805192750825
 title: university
+tooltip: tag for institutions of higher learning
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

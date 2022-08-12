@@ -1,9 +1,10 @@
 color: #052c65
 created: 20210225021714556
 list: gang militia [[mercenary troop]] fleet [[crime syndicate]]
-modified: 20220408053528188
+modified: 20220805191541348
 tags: [[organization type]]
 title: gang
+tooltip: tag for organizations who act as a close-knit group or band, and who may engage in illegal activities
 type: text/vnd.tiddlywiki
 
 <ul>

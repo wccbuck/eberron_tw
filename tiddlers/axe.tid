@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216231117973
-modified: 20220216231120653
+modified: 20220805194038175
 tags: 
 title: axe
+tooltip: tag for axe weapons
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

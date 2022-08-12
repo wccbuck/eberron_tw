@@ -1,8 +1,9 @@
 category: game mechanics
 created: 20210802005840339
-modified: 20220504173809907
+modified: 20220805184858830
 tags: Storyloom
 title: Character Creation
+tooltip: documentation page for the process of creating a Storyloom character
 type: text/vnd.tiddlywiki
 
 To start creating a character for your [[Storyloom]] game, open the [[character sheet template]], and ''clone'' it (click the <$button class=<<tv-config-toolbar-class>>>{{$:/core/images/clone-button}}</$button> button, which may be hidden behind the <$button class=<<tv-config-toolbar-class>>>{{$:/core/images/down-arrow}}</$button> button). Name the sheet whatever you like (player name, your character name, etc). In the top right, the "Edit Mode" button enables you to edit any field on the sheet; when you're done, click "View Mode" to switch out of edit mode and "linkify" any links you've created (e.g. `[[Emerald Claw]]` becomes [[Emerald Claw]]). Even in View mode, you should still be able to edit your stress/harm boxes, your story points, your money, the order of your items/talents/spells (drag and drop), and your notes. Unfortunately, this does mean you won't be able to create clickable links in the notes section.

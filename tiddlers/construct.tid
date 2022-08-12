@@ -1,8 +1,9 @@
 category: creature
 color: #58151c
 created: 20201210012247713
-modified: 20210727192001982
+modified: 20220805222157137
 title: construct
+tooltip: a creature that is made, not born, including golems, modrons, and warforged
 type: text/vnd.tiddlywiki
 
 Constructs are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others (namely, [[warforged]]) are imbued with sentience and capable of independent thought. [[Golems|golem]] are the iconic constructs. Many creatures native to the plane of [[Daanvi]], such as [[modron]]s, are constructs shaped from the raw material of the plane as embodiments of pure law.

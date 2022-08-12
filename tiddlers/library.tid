@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042108446
-modified: 20210727192018749
+modified: 20220805192203148
 title: library
+tooltip: tag for locations which are or prominently feature libraries
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Aurala ir'Wynarn",
         "tags": "government Aundair [[Wynarn family]] human humanoid",
-        "modified": "20220322224257442",
+        "modified": "20220812045615243",
         "color": "#FEA627",
         "category": "person",
-        "article": "Queen "
+        "article": "Queen ",
+        "tooltip": "queen of Aundair"
     }
 ]

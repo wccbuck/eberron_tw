@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200414061853136
-modified: 20220720171631032
+modified: 20220805221606139
 tags: humanoid
 tier: 1
 title: halfling
+tooltip: small humanoid, traditionally are nomadic and form bonds with dinosaurs
 type: text/vnd.tiddlywiki
 var: common
 

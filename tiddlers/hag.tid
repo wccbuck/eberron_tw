@@ -1,9 +1,10 @@
 category: creature
 color: #EA868F
 created: 20201215032907085
-modified: 20220723184405014
+modified: 20220805221020161
 tags: monstrosity humanoid
 title: hag
+tooltip: crone-like monstrous humanoid imbued with magic
 type: text/vnd.tiddlywiki
 var: uncommon
 var1: Turtleback

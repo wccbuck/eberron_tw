@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042118543
-modified: 20210727192037139
+modified: 20220805192834206
 title: theater
+tooltip: tag for locations which house dramatic performances or stage entertainments
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

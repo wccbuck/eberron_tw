@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220216201732970
-modified: 20220216201800922
+modified: 20220805150348540
 tags: 
 title: head
+tooltip: tag for a worn item that covers the head
 type: text/vnd.tiddlywiki
 
 This tag indicates a piece of [[armor]] or [[accessory]] that covers the head.

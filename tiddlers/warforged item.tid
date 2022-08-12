@@ -1,9 +1,10 @@
 color: #1E868E
 created: 20201208064459132
-modified: 20220216200016672
+modified: 20220805202026431
 title: warforged item
+tooltip: a magic item which can only be used by warforged
 type: text/vnd.tiddlywiki
 
-A warforged item is any [[magic item]] that can only be used by [[warforged]].
+A warforged item is any [[magic item]] that can only be used by [[warforged]], usually by incorporating it into their bodies in some way.
 
 !!! <<showitem-type>>

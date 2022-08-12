@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20220509210706298
-modified: 20220509211317778
+modified: 20220806212045090
 tags: dragon [[gem dragon]]
 tier: 4
 title: topaz dragon
+tooltip: gem dragon which embodies decay, can exhale a cone of necrotic energy
 type: text/vnd.tiddlywiki
 
 Decay and despair are bound up in the nature of topaz dragons, thanks to the necrotic energy of [[Mabar]] that suffuses them. Their [[psionic power|psionics]] manifests the fundamental entropic principle that mortal beings and their creations are ultimately doomed to death and decomposition, and the dragons’ demeanor is typically morbid and curmudgeonly as a result.
@@ -25,4 +26,4 @@ The topaz dragon can exhale a yellowish cone of desiccating necrotic energy. Cre
 
 Topaz dragons can also cast [[clairvoyance]] at will as long as they have access to a still body of water as the focus for that spell.
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

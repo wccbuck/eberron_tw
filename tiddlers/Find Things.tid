@@ -1,7 +1,8 @@
 created: 20201215010454895
 icon: $:/core/images/list
-modified: 20220124184034870
+modified: 20220805202120027
 title: Find Things
+tooltip: tool for navigating the Eberron TW database
 type: text/vnd.tiddlywiki
 
 <div style="display:inline-block;vertical-align:middle;width:100%;"><div style="font-family: 'masoch-dirach'; font-variant: small-caps; font-weight:500;font-size: 1.7em;float:left;">{{$:/state/tab-1473298955}}</div><div style="float:right">[[Readme]]</div></div>

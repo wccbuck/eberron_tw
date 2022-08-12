@@ -1,8 +1,9 @@
 color: #075157
 created: 20210718033332609
-modified: 20220216192806994
+modified: 20220805023052391
 tags: [[object type]]
 title: tool
+tooltip: tag for items with a utilitarian purpose
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

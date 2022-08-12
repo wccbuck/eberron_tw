@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210110045541054
-modified: 20210727191958551
+modified: 20220806210842655
 tags: dragon
 tier: 4
 title: blue dragon
+tooltip: dragon that can "breathe" a powerful bolt of lightning
 type: text/vnd.tiddlywiki
 
 A blue [[dragon]] is recognized by its dramatic frilled ears and the massive ridged horn atop its blunt head. Rows of spikes extend back from its nostrils to line its brow, and cluster on its jutting lower jaw.
@@ -17,4 +18,4 @@ These dragons can be found in deserts, dry steppes, searing badlands, and rocky 
 
 The blue dragon's breath weapon is a powerful bolt of lightning. As innate spellcasters, adult blue dragons can cast spells such as [[wall of force]], [[wall of sand]], [[hold]], and [[dimension door]].
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}

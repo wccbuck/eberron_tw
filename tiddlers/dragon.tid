@@ -1,7 +1,7 @@
 category: creature
 color: #58151c
 created: 20200419053402840
-modified: 20220509162249118
+modified: 20220805201703760
 title: dragon
 tooltip: legendary winged serpentine creature with innate magical power
 type: text/vnd.tiddlywiki
@@ -56,7 +56,7 @@ Dragons are magical creatures whose innate power fuels their dreaded breath weap
 |[[Red|red dragon]] |Fire |!|[[Gold|gold dragon]] |Fire, Weakening |
 |[[White|white dragon]] |Cold |!|[[Silver|silver dragon]] |Cold, Paralyzing |
 
-{{DragonAgeCategories}}
+{{$:/DragonAgeCategories}}
 
 Very rarely, the most ancient of dragons can achieve a form of apotheosis, transforming into [[greatwyrm]]s. 
 

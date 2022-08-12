@@ -1,10 +1,13 @@
 color: #41D5E1
 created: 20200417064035970
-modified: 20220216195624608
+modified: 20220805181147391
 title: magic item
+tooltip: an object imbued with magic, grants capabilities to its user
 type: text/vnd.tiddlywiki
 
 The world of [[Eberron]] thrums with the power of magic. [[Artificer|artificer]]s, [[magewright]]s, [[wizard]]s, and other spellcasters produce an abundance of magic items, particularly those with the "common" [[rarity]]. 
+
+A magic item is any object that has been imbued with magic. Such items grant capabilities a character could rarely obtain otherwise, or they complement their owner's capabilities in wondrous ways.
 
 See also <<showitems "Find Items">>.
 
@@ -12,9 +15,59 @@ See also <<showitems "Find Items">>.
 
 {{rarity}}
 
-!! Crafting Complications
+!! Creating Magic Items
 
-Sometimes, the process of creating magic items of "uncommon" [[rarity]] or higher during [[Downtime|Missions and Downtime]] can involve complications. The table below includes some options.
+House [[Cannith]] has an [[enclave]] devoted solely to [[wand]] production. This facility is equipped with tools that amplify the [[Mark of Making]]
+and channel planar energies; the artisans also
+have access to a vast array of exotic woods and
+materials. 
+
+You, an individual [[artificer]], can also create a [[wand]], but you’re
+starting from scratch and creating the tools you
+need. Essentially, when House Cannith creates
+magic items, it’s using factories; your [[artificer]] is the equivalent of a tinkerer working in the garage. You can create magic items, and you can potentially create items that House [[Cannith]] //can't// make... but it will require more time and gold than it takes for them.
+
+!!! The Blueprint
+
+The first step in creating a magic item is to acquire a [[schema]] for it, which explains the process and components required to create the item. If you can obtain a schema—from House [[Cannith]], the mystical library of [[Arcanix]], the collection of an experienced [[artificer]]—you're ready to move on. Otherwise, you can //create// a schema, but this takes time and skill. The schema creation process can be categorized as a "research" [[downtime activity|Missions and Downtime]].
+
+|!Schema [[Rarity|rarity]] |!Average Completion Time |![[Challenge Tier|Challenge Tiers]] |
+|common |3 days | 1 |
+|uncommon |1 week | 2 |
+|rare |3 weeks | 3 |
+|epic |8 weeks | 4 |
+|legendary |16 weeks | 5 |
+
+This ability to develop a [[schema]] represents
+remarkable talent. It could take House [[Cannith]]
+years or decades to develop a particular schema;
+the fact that you can accomplish this in weeks
+reflects the idea that player characters are remarkable innovators. However, it is always up to the GM to decide if you can create a particular
+schema. The GM can always choose to exclude a
+particular magic item from a campaign.
+
+!!! Rare Components
+
+Any magic item requires specialized [[material]]s—Eberron [[dragonshard]]s, rare woods or metals, exotic herbs, or other substances. Many of these things can be purchased or otherwise obtained in any major city. But creating a magic item from scratch often requires rarer components that can't simply be purchased. You might need a flower from [[Thelanis]], a feather from a [[couatl]], or the scale of a [[dragon]]. More often than not, acquiring these components will require an adventure. 
+
+It's possible to find a rare component even when you aren't looking for one. You could discover an exotic Khyber [[dragonshard]] in the ruins of an [[artificer]]'s workshop. Time and study could yield suggestions as to what items could be made with the component.
+
+!!! Creation
+
+Once you have your [[schema]], an appropriate [[toolset]], and any rare components, you're ready to begin. You must pay the basic costs of materials and services required to make the item. And you must spend a significant amount of time working on it; creating a legendary item could take a year of effort!
+
+|!Item [[Rarity|rarity]] |!Average Completion Time* |!Average [[Cost|money]]* |
+|common |1 week |5c |
+|uncommon |2 weeks |20c |
+|rare |10 weeks |200c |
+|epic |25 weeks |2,000c |
+|legendary |50 weeks |10,000c |
+
+&nbsp;* Halved for a consumable item such as a [[potion]] or [[alchemical explosive]].
+
+!!! Crafting Complications
+
+Sometimes, the process of creating magic items of "uncommon" [[rarity]] or higher can involve complications. The table below includes some options.
 
 | !<<dr d6>> |!Complication |
 | 1 |House [[Cannith]] or another [[dragonmarked house]] takes an interest in your work. Do they view you as a threat, or are they impressed by your techniques? |
@@ -22,4 +75,4 @@ Sometimes, the process of creating magic items of "uncommon" [[rarity]] or highe
 | 3 |You need to acquire an additional rare component to complete your work. Time for adventure! |
 | 4 |The shifting balance of the [[plane]]s interferes with your work; you must wait for the current planar alignment to change. This delays your work by <<dr "2d6">> days. |
 | 5 |Your efforts draw the attention of the [[Aurum]], the [[Chamber]], the [[Emerald Claw]], or the [[Lords of Dust]]. |
-| 6 |Your item becomes sentient. |
+| 6 |Your item unexpectedly becomes sentient. |

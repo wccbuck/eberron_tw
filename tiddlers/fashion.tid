@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20210103215423514
-modified: 20220216201212084
+modified: 20220805154941394
 tags: 
 title: fashion
+tooltip: tag for a worn item whose primary purpose is to make the wearer look stylish or impressive
 type: text/vnd.tiddlywiki
 
 This tag indicates a [[magic item]] or other object whose primary function is to make the wearer look stylish or impressive.

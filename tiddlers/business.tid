@@ -1,9 +1,10 @@
 color: #052c65
 created: 20210303010550823
 list: business [[trade guild]] [[dragonmarked house]] newspaper [[mercenary troop]] [[crime syndicate]]
-modified: 20220408053536437
+modified: 20220805193444530
 tags: [[organization type]]
 title: business
+tooltip: tag for profit-seeking organizations or enterprises
 type: text/vnd.tiddlywiki
 
 <ul>

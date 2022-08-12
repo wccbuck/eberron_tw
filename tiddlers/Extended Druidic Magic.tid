@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20220803204412359
-modified: 20220803204435097
+modified: 20220806204754266
 tags: [[universal property]] Lamannia
 title: Extended Druidic Magic
+tooltip: universal property: durations of primal spells are doubled
 type: text/vnd.tiddlywiki
 
 While on a [[plane]] with this property, durations of spells that draw on [[primal|primal magic]] sources of magic are doubled.

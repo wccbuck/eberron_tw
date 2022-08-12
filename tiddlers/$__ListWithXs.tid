@@ -1,0 +1,15 @@
+created: 20220805021301716
+list: human [[Find Items]] [[Find Places]] [[Find Organizations]] [[Eberron TW Updater]] [[Find People/Entities]] [[Find Creatures]] [[Find Talents]] [[Find Miscellaneous]] [[Find Spells]] [[Tiddlers with duplicate tooltips]] [[Find Things]]
+modified: 20220812050226101
+tags: 
+title: $:/ListWithXs
+type: text/vnd.tiddlywiki
+
+\define listfilter() [!is[system]!has[tooltip]!list[$:/ListWithXs]]
+\define listfilterlimit() $(listfilter)$ +[sort[relevance]limit[20]]
+\define listfiltercount() $(listfilter)$ +[count[]]
+
+<$list filter=<<listfilterlimit>>>
+<$button><$action-listops $tiddler="$:/ListWithXs" $subfilter="[<currentTiddler>]"/>X</$button> <$link/><br/></$list>
+
+{{{ [subfilter<listfiltercount>] }}}

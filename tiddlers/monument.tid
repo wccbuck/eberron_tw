@@ -1,8 +1,9 @@
 color: #092F1E
 created: 20210303025040257
-modified: 20210923204046158
+modified: 20220805192049071
 tags: [[location type]]
 title: monument
+tooltip: tag for a location, statue, pillar, building, or natural formation with historical or archaeological importance
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

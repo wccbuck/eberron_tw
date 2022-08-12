@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042101559
-modified: 20210727191956990
+modified: 20220805194415859
 title: bank
+tooltip: tag for financial institutions
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

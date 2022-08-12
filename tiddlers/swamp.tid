@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042347330
-modified: 20210727192035463
+modified: 20220805202220396
 title: swamp
+tooltip: tag for swampy locations
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

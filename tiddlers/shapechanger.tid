@@ -1,11 +1,12 @@
 category: creature
 color: #58151c
 created: 20210428061854715
-modified: 20220127192517035
+modified: 20220805222856241
 tags: 
 title: shapechanger
+tooltip: any creature that has the innate ability to change its form
 type: text/vnd.tiddlywiki
 
-A shapechanger is any kind of creature that can polymorph itself into another form. This includes [[changeling]]s, [[therianthrope]]s, [[rakshasa]]s, [[vampire]]s, [[yuan-ti]], and [[slaad]]s. This transformation is magical, but it is a truly physical transformation and not an [[illusion]]. A shapechanger's true form can be seen via [[truesight]].
+A shapechanger is any kind of creature that has the innate ability to polymorph itself into another form. This includes [[changeling]]s, [[therianthrope]]s, [[rakshasa]]s, [[vampire]]s, [[yuan-ti]], and [[slaad]]s. This transformation is magical, but it is a truly physical transformation and not an [[illusion]]. A shapechanger's true form can be seen via [[truesight]].
 
 !!! <<showcreature-type>>

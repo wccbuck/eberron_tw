@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042331474
-modified: 20210727192004733
+modified: 20220805155931197
 title: district
+tooltip: a location which is a division of a city, more informal than 'ward'
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

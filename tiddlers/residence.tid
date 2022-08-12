@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042113109
-modified: 20210727192027932
+modified: 20220805192131473
 title: residence
+tooltip: tag for locations in which people live
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

@@ -1,9 +1,10 @@
 category: creature
 color: #EA868F
 created: 20210112064116895
-modified: 20220723184945082
+modified: 20220805222512486
 tags: shapechanger humanoid monstrosity
 title: yuan-ti
+tooltip: vicious snakelike humanoid
 type: text/vnd.tiddlywiki
 var1: Suth
 var2: a

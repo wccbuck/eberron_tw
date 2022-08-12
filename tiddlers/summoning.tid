@@ -1,8 +1,9 @@
 color: #1E868E
 created: 20220218015104109
-modified: 20220218015131463
+modified: 20220805154441793
 tags: 
 title: summoning
+tooltip: tag for an item which allows the user to summon creatures to their aid
 type: text/vnd.tiddlywiki
 
 This tag indicates a [[tool]] or [[accessory]] that allows the user to summon creatures to their aid.

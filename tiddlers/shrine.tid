@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042116215
-modified: 20210727192031661
+modified: 20220805192402645
 title: shrine
+tooltip: tag for places with divine significance for one or more religions
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

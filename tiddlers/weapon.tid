@@ -1,8 +1,9 @@
 color: #075157
 created: 20210718033440319
-modified: 20220216193308565
+modified: 20220805023205676
 tags: [[object type]]
 title: weapon
+tooltip: tag for items intended to be used to attack or cause harm
 type: text/vnd.tiddlywiki
 
 !!! <<showitem-type>>

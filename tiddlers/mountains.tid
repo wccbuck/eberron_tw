@@ -1,7 +1,8 @@
 color: #092F1E
 created: 20210718042345157
-modified: 20210727192022308
+modified: 20220805154753396
 title: mountains
+tooltip: tag for a mountainous location
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

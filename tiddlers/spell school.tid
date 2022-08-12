@@ -1,10 +1,11 @@
 category: phenomenon
 color: #432874
 created: 20201231231158726
-modified: 20210727192033669
+modified: 20220805231008035
 schoolname: spell school
 spellname: [[spell]]
 title: spell school
+tooltip: one of eight categories of arcane magic
 type: text/vnd.tiddlywiki
 
 Academies of magic group [[arcane|arcane magic]] [[spell]]s into eight categories called schools of magic, or "{{!!schoolname}}s". Each {{!!spellname}} cast by a [[wizard]] or [[magewright]] falls into one of these categories. 

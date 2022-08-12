@@ -1,8 +1,9 @@
 color: #052c65
 created: 20210225043215950
-modified: 20210727192039013
+modified: 20220805150940574
 tags: [[organization type]]
 title: tribe
+tooltip: tag for an organization defined by familial ties
 type: text/vnd.tiddlywiki
 
 <ul>
