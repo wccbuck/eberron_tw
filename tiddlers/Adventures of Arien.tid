@@ -1,6 +1,6 @@
 category: note
 created: 20220208023535083
-modified: 20220726232148276
+modified: 20220818205828963
 tags: 
 title: Adventures of Arien
 type: text/vnd.tiddlywiki
@@ -10,6 +10,8 @@ The adventures of [[Arien Grimbold]]!
 [[Mistmarsh]]
 
 [[Old Session Prep]]
+
+[[Future Adventure Prep]]
 
 Don't forget that Arien served at [[Sterngate]] and would be familiar with Captain Toris who leads that fort - a [[changeling]] who hates [[goblinoid]]s
 
@@ -28,7 +30,9 @@ The buildings of the Martial Temple include:
 
 Arien meets with Preceptor [[Cadoc Belmin]] and Prior [[Hemdoth Aggan]]. At one point Belmin asks, "So you served at [[Sterngate]]? Under Captain Toris?" (Arien did.) Belmin is familiar with Toris, and how brutal she can be.
 
-(Is there a chivalric order associated with the school? "Order of the Dawn Chorus" maybe?)
+[flesh out this scene]
+
+The Preceptor wants to see her abilities, and also her combat prowess. Novice Master [[Wroenna Lonn]] spars with her.
 
 People:
 
@@ -44,52 +48,39 @@ People:
 ** Her heart glows so bright you can see it through her shirt
 * Visitant [[Sejra Whitebinder]]
 ** Visiting teacher ("visitant" can mean "guest", or also "pilgrim"). Definitely a maverick, goes off and does her own thing
-** [[War Domain]] cleric
+** Cleric. Not really tied to a specific domain; she calls herself a "Sovereign Speaker", and seems to be rather unique. Spells include [[bless]], [[detect immortal]], [[turn undead]], [[remove curse]], [[dispel immortal]], [[fly]], [[protection from immortals]], [[call lightning]], [[magic circle]], and [[dimensional anchor]].
 ** Friction between her and the leadership of the Martial Temple. The Preceptor/Prior etc are running the school in a way that advances the interests of [[Breland]]. Sejra believes that the temple should focus more on spiritual warfare against forces of great evil, irrespective of nationality.
-* [name]
-** A [[warlock]] of an [[archfey]] who is part of the [[Guild of Starlight and Shadows]] who creates illusions and conjures creatures for the purposes of training the novices. 
+** (Meet her later)
+* [[Snarik the Mauve]]
+** A [[warlock]] of an [[archfey]] who is part of the [[Guild of Starlight and Shadows]] who creates illusions and conjures creatures for the purposes of training the novices. Only comes by once a month or so. The school pays for this, they're well-funded by the Brelish government.
 
 Other students: 
 
 * Note: There are about fifty other students at the school, called novices, and they each have varying degrees of divine potential. Some merely exhibited divine power at a moment of crisis but can't manifest it at will. At least one of those is currently in the infirmary in a coma after one such manifestation. Other folks can manifest powers but with across a wide variety of magical effects—some utilitarian, some social, some combat-oriented. Others were priests once but began to exhibit miraculous powers beyond that of the standard [[adept]]. 
-* Moody [[Oath of Vengeance]] guy
-* Douchey [[Oath of Glory]] guy
-* [[Light Domain]] cleric
+
+Arien needs three other buddies. Don't have to be her age. I think maybe none of these folks have taken their sacred oaths yet or chosen a domain.
+
+* [[Oath of Glory]] guy, [[hobgoblin]]
+** "Danny Rojas" vibes?
+** [[compelled duel]], [[heroism]], [[enhance ability]]
+** Could be a way to connect with the Order of the [[Broken Blade]], this dude is clearly blessed by [[Dol Dorn]]
+* [[War Domain]] [[cleric]], [[human]]
+** [[true strike]], [[guiding bolt]], [[word of radiance]]. Eventually, [[spiritual weapon]]
+* [[Oath of Devotion]], [[dwarf]]
+** has [[Divine Sense]], and the spell [[turn the unholy]].
+
+Other folks:
+
+* Moody [[Oath of Vengeance]] lady, [[half-elf]]. They also come to the unity dinners for a while but maybe reject the community after a while. [[Cadoc Belmin]] might feel sympathy for their bitterness but has found a healthy way to channel his anger and regrets. They might eventually leave the school and become an Oathbreaker.
+* [[Life Domain]] cleric
 ** A priest who didn't start manifesting divine magic until late in life
-* [[Knowledge Domain]] cleric currently in the infirmary in a coma
 * [[Peace Domain]] cleric
+** [[friends]], [[calm emotions]], [[rebuke the violent]], 
+* [[Knowledge Domain]] cleric currently in the infirmary in a coma
 
-The Martial Temple includes a school. Classes are very hard, with a lot of work; very little free time. 
+Classes don't start until later in the year (see [[Future Adventure Prep]]. Also come up with school schedule, holidays etc). So in the meantime, Arien can begin physical training. Much of this is mundane, with workout rooms, obstacle courses, and also training with different weapons wearing padded armor. Archery, swordplay, javelin-throwing, hand-to-hand, etc. Some of this training is devotional, including focusing and honing Arien's faith in her own ideals. Mechanically this is done by [[boost]]ing using Heart.
 
-Courses offered:
-
-* Vassal History
-* World Religions
-* Practical Theology
-* Vassal Art and Theater
-* Leadership
-* Brelish Military Structure
-* Military History
-* Ethics in War
-* Paladin Oaths
-** [[Oath of Devotion]]
-** [[Oath of the Crown]]
-** [[Oath of Glory]]
-** [[Oath of Redemption]]
-** [[Oath of Vengeance]]
-** [[Oath of the Ancients]]
-* Domains of Faith
-** [[Light Domain]]
-** [[War Domain]]
-** [[Peace Domain]]
-** [[Life Domain]]
-** [[Order Domain]]
-** [[Knowledge Domain]]
-** [[Forge Domain]]
-
-Also: Physical training. Much of this is mundane, with workout rooms, obstacle courses, and also training with different weapons wearing padded armor. Archery, swordplay, hand-to-hand, etc. Some of this training is devotional, including focusing and honing Arien's faith in her own ideals. Mechanically this is done by [[boost]]ing using Heart.
-
-There is an illusionist [[wizard]] ([[Guild of Starlight and Shadows]], [[warlock]] of an [[archfey]]) on staff who can create virtual training grounds. After all, this school is well-funded by the Brelish government
+!
 
 Eventually, Arien (and the other novices) must embark on different quests to fight monsters or investigate trouble around the city
 
@@ -102,15 +93,7 @@ While [[Breland]] accepted the feudal structure of [[Galifar]], its people never
 From 5e PHB:
 
 <<<
-Becoming a paladin involves taking vows that commit
-the paladin to the cause of righteousness, an active
-path of fighting wickedness. The final oath, taken
-when they reach (some level), is the culmination
-of all the paladin's training. Some people on this path don't consider themselves true paladins until
-they have reached this level and made this oath. For
-others, the actual swearing of the oath is a formality,
-an official stamp on what has always been true in the
-paladin's heart.
+Becoming a paladin involves taking vows that commit the paladin to the cause of righteousness, an active path of fighting wickedness. The final oath, taken when they reach (some level), is the culmination of all the paladin's training. Some people on this path don't consider themselves true paladins until they have reached this level and made this oath. For others, the actual swearing of the oath is a formality, an official stamp on what has always been true in the paladin's heart.
 <<<
 
 From Faiths of Eberron:
