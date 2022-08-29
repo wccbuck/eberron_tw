@@ -1,13 +1,14 @@
 [
     {
         "created": "20210223230055902",
-        "title": "Valaes Tairn",
         "text": "The Valaes Tairn are the largest sect of the [[Tairnadal]] elves. They believe that glory in battle is the highest goal, regardless of the nature of that foe. They honor their patron ancestors by acting as their ancestor would act in their place, rather than literally attempting to relive their ancestor's actions; in this sense, the Valaes Tairn are actually the most moderate sect of the [[Tairnadal]].\n\nMost of the Valaes Tairn left [[North Aerenal]] for [[Khorvaire]] during the [[Last War]], and now claim the beachhead nation of [[Valenar]].\n\nThe foremost among the swordsmen of the Valaes Tairn are the [[jaeldira]], or \"blade dancers\".",
-        "modified": "20210727192040308",
+        "title": "Valaes Tairn",
+        "modified": "20220828204422400",
         "tags": "Tairnadal tribe",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "largest sect of Tairnadal elves, occupiers of Valenar"
     }
 ]

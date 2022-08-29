@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20200415044053976
-modified: 20220227213220286
+modified: 20220826182708357
 tags: dragonmark
 title: Mark of Scribing
+tooltip: gnome dragonmark, House Sivis, allows wielder to communicate at a distance and create magic sigils
 type: text/vnd.tiddlywiki
 
 <div style="float: left; width: 100px;">{{$:/plugins/wccbuck/scribing.svg}}</div> The Mark of Scribing deals with communication—both

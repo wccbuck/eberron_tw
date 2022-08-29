@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20210801064359058
-modified: 20210801190702244
+modified: 20220822042904937
 tags: 
 title: darkvision
+tooltip: the ability to see in darkness out to a specified range
 type: text/vnd.tiddlywiki
 
 Within a specified range, a creature with darkvision can see in dim light as if it were bright light, and in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned. However, the creature can't discern color in darkness, only shades of gray. 

@@ -1,11 +1,13 @@
+alternatetitle: Sar Kuraath
 category: location
 color: #96CC39
 created: 20210323232305374
-modified: 20220417172535160
+modified: 20220828203626524
 polygons: 33.438,-28.948 33.442,-28.946 33.449,-28.938 33.451,-28.93 33.459,-28.923 33.462,-28.92 33.463,-28.919 33.474,-28.906 33.481,-28.895 33.48,-28.883 33.473,-28.864 33.459,-28.848 33.456,-28.845 33.45,-28.841 33.447,-28.84 33.441,-28.842 33.434,-28.845 33.427,-28.847 33.424,-28.846 33.418,-28.859 33.411,-28.877 33.404,-28.89 33.404,-28.901 33.41,-28.911 33.418,-28.915 33.431,-28.921 33.437,-28.931 33.435,-28.949
 style: {"color":"#6B001B","fillColor":"#8E0024","fillOpacity":0.3}
 tags: district Graywall
 title: Little Graywall
+tooltip: "small" district of Graywall, with buildings designed for small creatures like goblins and kobolds
 type: text/vnd.tiddlywiki
 
 Little Graywall (or "Sar Kuraath" in [[Goblin]]) lives up to its name—it

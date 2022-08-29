@@ -1,9 +1,9 @@
-category: organization
 color: #052c65
 created: 20210225044623048
 list-before: 
-modified: 20210727192021490
+modified: 20220823212122283
 title: military
+tooltip: tag for military organizations
 type: text/vnd.tiddlywiki
 
 <ul>

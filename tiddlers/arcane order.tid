@@ -2,9 +2,10 @@ category: organization
 color: #052c65
 created: 20201222082557129
 list-before: 
-modified: 20210727191954580
+modified: 20220823205608660
 tags: [[secret society]]
 title: arcane order
+tooltip: a guild or council for arcane spellcasters
 type: text/vnd.tiddlywiki
 
 \define notaundair() [tag[Breland]] [tag[Thrane]] [tag[Cyre]] [tag[Karrnath]] [tag[Khorvaire]]

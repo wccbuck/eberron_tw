@@ -3,10 +3,11 @@ color: #B7A1E0
 created: 20201210004030730
 ghostsound: show
 highertier: show
-modified: 20220220221459912
+modified: 20220824165620928
 tags: illusion
 tier: 1
 title: lesser illusion
+tooltip: create a small illusion (sound or image) within 30 feet, persists for 1 minute
 type: text/vnd.tiddlywiki
 
 The spellcaster creates a sound or an image of an object within 30 feet that lasts for up to one minute. The illusion also ends if the caster dismisses it or casts this spell again.

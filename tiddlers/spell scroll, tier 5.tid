@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20220107191319566
-modified: 20220715164041906
+modified: 20220824204908384
 tags: tool [[spell scroll]] scroll
 tier: 5
 title: spell scroll, tier 5
+tooltip: scroll that allows the user to cast a legendary-tier arcane spell
 type: text/vnd.tiddlywiki
 
 {{||$:/SpellScroll}}

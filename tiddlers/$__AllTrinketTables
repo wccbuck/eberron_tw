@@ -149,56 +149,6 @@ AI96: A small, severed tentacle preserved in alcohol
 AI97: A walnut with a face drawn on it
 AI99: An ice cube that never melts
 AI100: An expertly carved sword hilt with the blade snapped cleanly off
-CoS1: A picture you drew as a child of your imaginary friend
-CoS2: A lock that opens when blood is dripped in its keyhole
-CoS3: Clothes stolen from a scarecrow
-CoS4: A spinning top carved with four faces: happy, sad, wrathful, and dead
-CoS5: The necklace of a sibling who died on the day you were born
-CoS6: A wig from someone executed by beheading
-CoS7: The unopened letter to you from your dying father
-CoS8: A pocket watch that runs backward for an hour every midnight
-CoS9: A winter coat stolen from a dying soldier
-CoS10: A bottle of invisible ink that can only be read at sunset
-CoS11: A wineskin that refills when interred with a dead person for a night
-CoS12: A set of silverware used by a king for his last meal
-CoS13: A spyglass that always shows the world suffering a terrible storm
-CoS14: A cameo with the profile's face scratched away
-CoS15: A lantern with a black candle that never runs out and that burns with green flame
-CoS16: A teacup from a child's tea set, stained with blood
-CoS17: A little black book that records your dreams, and yours alone, when you sleep
-CoS18: A necklace formed of the interlinked holy symbols of a dozen deities
-CoS19: A hangman's noose that feels heavier than it should
-CoS20: A birdcage into which small birds fly but once inside never eat or leave
-CoS21: A lepidopterist's box filled dead moths with skulllike patterns on their wings
-CoS22: A jar of pickled [[ghoul]]s' tongues
-CoS23: The wooden hand of a notorious pirate
-CoS24: An urn with the ashes of a dead relative
-CoS25: A hand mirror backed with a bronze depiction of a [[medusa]]
-CoS26: Pallid leather gloves crafted with ivory fingernails
-CoS27: Dice made from the knuckles of a notorious charlatan
-CoS28: A ring of keys for forgotten locks
-CoS29: Nails from the coffin of a murderer
-CoS30: A key to the family crypt
-CoS31: A bouquet of funerary flowers that always looks and smells fresh
-CoS32: A switch used to discipline you as a child
-CoS33: A music box that plays by itself whenever someone holding it dances
-CoS34: A walking cane with an iron ferule that strikes sparks on stone
-CoS35: A flag from a ship lost at sea
-CoS36: Porcelain doll's head that always seems to be looking at you
-CoS37: A wolf's head wrought in silver that is also a whistle
-CoS38: A small mirror that shows a much older version of the viewer
-CoS39: Small, worn book of children's nursery rhymes
-CoS40: A mummified raven claw
-CoS41: A broken pendent of a silver dragon that's always cold to the touch
-CoS42: A small locked box that quietly hums a lovely melody at night but you always forget it in the morning
-CoS43: An inkwell that makes one a little nauseous when staring at it
-CoS44: An old little doll made from a dark, dense wood and missing a hand and a foot
-CoS45: A black executioner's hood
-CoS46: A pouch made of flesh, with a sinew drawstring
-CoS47: A tiny spool of black thread that never runs out
-CoS48: A tiny clockwork figurine of a dancer that's missing a gear and doesn't work
-CoS49: A black wooden pipe that creates puffs of smoke that look like skulls
-CoS50: A vial of perfume, the scent of which only certain creatures can detect
 EE1: A compass that always points to [[Thronehold]]
 EE2: A paper fan that won't produce a breeze no matter how hard it's waved
 EE3: A petrified potato that resembles someone important to you
@@ -1276,7 +1226,7 @@ SECR102: A recipe for [[alchemist's frost]] from the [[Frostblades]]
 SECR103: Three braids of [[fiend]] hair that eternally smolder with embers
 SECR104: A handful of iron buttons forged in [[silverburn]] fire
 SECR105: A miniature flying stained-glass [[couatl]] figure
-SECR106: A [[shulassakar]] fang that attracts serpents to its bearer
+SECR106: A [[shulatlaca]] fang that attracts serpents to its bearer
 SECR107: An arrowhead tipped in silver that never tarnishes or dulls
 SECR108: A chapbook with adages written by [[Keeper of the Flame]] Traelyn Ghelios (320–389 YK)
 SECR109: A [[Kree-Flamic]] lantern that only stays lit while held by a [[shifter]]
@@ -1887,6 +1837,106 @@ TF117: A set of engraved knives
 TF118: A dagger hilt without a blade; something seems to be rattling inside
 TF119: A tiny jar with three grains of rice sealed inside
 TF120: A dried hoof with the stump sealed off with a golden cap
+VRGtR1: A picture you drew as a child of your imaginary friend
+VRGtR2: A lock that opens when blood is dripped in its keyhole
+VRGtR3: Clothes stolen from a scarecrow
+VRGtR4: A spinning top carved with four faces: happy, sad, wrathful, and dead
+VRGtR5: The necklace of a sibling who died on the day you were born
+VRGtR6: A wig from someone executed by beheading
+VRGtR7: The unopened letter to you from your dying father
+VRGtR8: A pocket watch that runs backward for an hour every midnight
+VRGtR9: A winter coat stolen from a dying soldier
+VRGtR10: A bottle of invisible ink that can only be read at sunset
+VRGtR11: A wineskin that refills when interred with a dead person for a night
+VRGtR12: A set of silverware used by a king for his last meal
+VRGtR13: A spyglass that always shows the world suffering a terrible storm
+VRGtR14: A cameo with the profile's face scratched away
+VRGtR15: A lantern with a black candle that never runs out and that burns with green flame
+VRGtR16: A teacup from a child's tea set, stained with blood
+VRGtR17: A little black book that records your dreams, and yours alone, when you sleep
+VRGtR18: A necklace formed of the interlinked holy symbols of a dozen deities
+VRGtR19: A hangman's noose that feels heavier than it should
+VRGtR20: A birdcage into which small birds fly but once inside never eat or leave
+VRGtR21: A lepidopterist's box filled dead moths with skulllike patterns on their wings
+VRGtR22: A jar of pickled [[ghoul]]s' tongues
+VRGtR23: The wooden hand of a notorious pirate
+VRGtR24: An urn with the ashes of a dead relative
+VRGtR25: A hand mirror backed with a bronze depiction of a [[medusa]]
+VRGtR26: Pallid leather gloves crafted with ivory fingernails
+VRGtR27: Dice made from the knuckles of a notorious charlatan
+VRGtR28: A ring of keys for forgotten locks
+VRGtR29: Nails from the coffin of a murderer
+VRGtR30: A key to the family crypt
+VRGtR31: A bouquet of funerary flowers that always looks and smells fresh
+VRGtR32: A switch used to discipline you as a child
+VRGtR33: A music box that plays by itself whenever someone holding it dances
+VRGtR34: A walking cane with an iron ferule that strikes sparks on stone
+VRGtR35: A flag from a ship lost at sea
+VRGtR36: Porcelain doll's head that always seems to be looking at you
+VRGtR37: A wolf's head wrought in silver that is also a whistle
+VRGtR38: A small mirror that shows a much older version of the viewer
+VRGtR39: Small, worn book of children's nursery rhymes
+VRGtR40: A mummified raven claw
+VRGtR41: A broken pendent of a silver dragon that's always cold to the touch
+VRGtR42: A small locked box that quietly hums a lovely melody at night but you always forget it in the morning
+VRGtR43: An inkwell that makes one a little nauseous when staring at it
+VRGtR44: An old little doll made from a dark, dense wood and missing a hand and a foot
+VRGtR45: A black executioner's hood
+VRGtR46: A pouch made of flesh, with a sinew drawstring
+VRGtR47: A tiny spool of black thread that never runs out
+VRGtR48: A tiny clockwork figurine of a dancer that's missing a gear and doesn't work
+VRGtR49: A black wooden pipe that creates puffs of smoke that look like skulls
+VRGtR50: A vial of perfume, the scent of which only certain creatures can detect
+VRGtR51: A stone that emits a single endless sigh
+VRGtR52: A rag doll with two red dots on its neck
+VRGtR53: A spring-loaded toy with a missing crank
+VRGtR54: A mason jar containing a harmless but agitated, animate [[ooze]]
+VRGtR55: A black wooden die with 1's on all the faces
+VRGtR56: A child's portrait with "born" written on the back, along with next year's date
+VRGtR57: A dagger-sized shark tooth
+VRGtR58: A finger that's taken root in a small pot
+VRGtR59: A toolbox containing the remains of a dangerous but broken [[clockwork]] arachnid
+VRGtR60: A pitcher-sized, opalescent snail shell that occasionally, inexplicably shudders or tips over
+VRGtR61: The logbook of an ice-breaking ship called The Haifisch
+VRGtR62: A small portrait of you as a child, alongside your identically dressed twin
+VRGtR63: A silver pocket watch with thirteen hours marked on the face
+VRGtR64: A woodcut of a wolf devouring its own hind leg
+VRGtR65: A planchette etched with raven skulls
+VRGtR66: A moist coral figurine of a lamprey with arms, legs, and a bipedal stance
+VRGtR67: A bronze fingertrap sculpted with roaring tigers
+VRGtR68: A pearl necklace that turns red under the full moon
+VRGtR69: A fossil of a fish with humanoid features
+VRGtR70: A plague doctor's mask
+VRGtR71: A paper talisman with smudged ink
+VRGtR72: A locket containing the smeared image of an eyeless figure
+VRGtR73: A canopic jar with a lid sculpted like a goat
+VRGtR74: A jack-o'-lantern made from a small, pale gourd
+VRGtR75: A single high-heeled, iron shoe
+VRGtR76: A candle made from a severed hand
+VRGtR77: A clockwork device that beats like a heart
+VRGtR78: A blank masquerade mask
+VRGtR79: A glass eye with a live worm inside
+VRGtR80: A sheet with two eyeholes cut in it
+VRGtR81: The deed to someplace called Tergeron Manor
+VRGtR82: An ornate, wax-sealed crimson envelope that resists all attempts to open it
+VRGtR83: A mourning veil trimmed in black lace
+VRGtR84: A straitjacket covered in charcoal runes
+VRGtR85: A tattered, burlap mask with a crooked smile painted on it
+VRGtR86: A green ribbon designed to be worn as a choker
+VRGtR87: Dentures with mismatched, sharpened teeth
+VRGtR88: A warm, fist-sized egg case
+VRGtR89: A copper ring with "mine" engraved on the inside
+VRGtR90: A glass ampoule containing a neon green fluid
+VRGtR91: An eye patch embroidered with a holy symbol
+VRGtR92: A severed big toe with a nail that continues to grow
+VRGtR93: A journal that has been heavily redacted
+VRGtR94: A glove with a mouth-like design stitched on the palm
+VRGtR95: An ornate but empty reliquary made of silver and fractured glass
+VRGtR96: A ceramic figure of a cat with too many eyes
+VRGtR97: A crumpled paper ticket bearing the words "admit none"
+VRGtR98: An electrum coin with your face on one side
+VRGtR99: A shrunken gremishka head that twitches when anyone casts magic nearby
+VRGtR100: A sunburst amulet with a red stone at the center
 WBWL1: Cookie cutter shaped like a [[unicorn]]
 WBWL2: Two yew rings linked together
 WBWL3: Silver hand mirror with a nymph-shaped handle

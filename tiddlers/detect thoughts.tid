@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201216163808611
-modified: 20210727192004379
+modified: 20220824163218383
 tags: psionics divination
 tier: 2
 title: detect thoughts
+tooltip: read the surface thoughts of creatures within 30 feet
 type: text/vnd.tiddlywiki
 
 For up to 1 minute, you can read the thoughts of surrounding creatures. You can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has no more than animal intelligence or doesn't speak any [[language]], the creature is unaffected.

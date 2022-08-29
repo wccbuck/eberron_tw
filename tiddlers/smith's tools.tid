@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20210808193517515
-modified: 20220216194155223
+modified: 20220824212443015
 tags: toolset [[equipment pack]]
 tier: 1
 title: smith's tools
+tooltip: set of tools useful for working metal
 type: text/vnd.tiddlywiki
 
 This satchel of smith's tools include hammers, tongs,

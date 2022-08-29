@@ -1,13 +1,14 @@
 [
     {
         "created": "20200422165023095",
-        "title": "Sentinel Marshals",
         "text": "House [[Deneith]] oversees the activities of the Sentinel\nMarshals who, by ancient decree, provide law and order\nacross national boundaries. Operating out of [[Sentinel Tower]] in [[Karrnath]], marshals work alone or in small\ngroups to apprehend [[Khorvaire]]’s greatest criminals.\nAnd Khorvaire is replete with war criminals, many\nof which have protection or influence in their home\ncountries... until a Sentinel Marshal appears.\n\nAs bounty hunters, the Sentinels are without peer. In the early years of the\nkingdom of [[Galifar]], the Sentinel Marshals were granted the\nright to enforce laws and bring fugitives to justice throughout\nthe land. When the kingdom shattered with the eruption of the [[Last War]], the\norganization recast itself as a neutral force policing\nwar crimes, the treatment of prisoners, war profiteering, and the impartiality of the [[dragonmarked house]]s. These activities caused conflict with nearly\nevery power base on the continent at one point or\nanother during the war. The Sentinels’ perseverance during the war years left the group as the only viable entity to police the [[Thronehold]] peace once\nhostilities ceased. \n\nToday, all the nations that signed the [[Treaty of Thronehold]] have agreed to\nallow [[Deneith]] to continue in this role as international police\nofficers as they have for centuries. Each marshal periodically returns to the [[Sentinel Tower]] in [[Karrlakton]] as\ntime and circumstance permits to report on their activities\nand receive updated instructions.",
-        "modified": "20210727192030339",
+        "title": "Sentinel Marshals",
+        "modified": "20220823210814893",
         "tags": "[[law enforcement]] [[trade guild]] Deneith",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "law enforcement agents of House Deneith who pursue fugitives across national boundaries"
     }
 ]

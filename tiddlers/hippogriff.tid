@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200426210551550
-modified: 20220127202059215
+modified: 20220826205002258
 tags: monstrosity
 tier: 2
 title: hippogriff
+tooltip: horse-like creature with an eagle's wings, forelimbs, and beak; heraldic emblem of Vadalis
 type: text/vnd.tiddlywiki
 
 A beastlike [[monstrosity]] whose magical origins are lost to history, a hippogriff possesses the wings and forelimbs of an eagle, the hindquarters of a horse, and a head that combines the features of both animals.

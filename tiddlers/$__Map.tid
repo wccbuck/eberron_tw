@@ -2,7 +2,7 @@ caption: Map
 created: 20210112213904741
 cutoff: 0
 list-before: $:/core/ui/SideBar/Open
-modified: 20220208042854344
+modified: 20220826175516669
 tags: $:/tags/SideBar
 title: $:/Map
 type: text/vnd.tiddlywiki
@@ -59,7 +59,7 @@ type: text/vnd.tiddlywiki
   </div>
   <div class="cs-row">
     <div class="cs-column">
-<$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]all[]var[orientraderoad]!has[draft.of]]"> ''Roads''</$checkbox>
+<$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]has[polylines]tag[road]!has[draft.of]]"> ''Roads''</$checkbox>
     </div>
     <div class="cs-column">
 <$checkbox tiddler="$:/MapTags" tag="[all[]all[]all[]all[]var[lightningrail]!has[draft.of]]"> ''Lightning Rail Lines''</$checkbox>

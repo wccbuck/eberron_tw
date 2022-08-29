@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.17.4
-modified: 20220812050404842
+currentversion: 1.18.0
+modified: 20220829174209671
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,54 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.18.0 <span style="font-weight:normal">(Aug 29, 2022)</span>
+
+Added some Threshold-related stuff:
+
+* Adjusted the Brelish western frontier portion of the <$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tiddler="$:/state/tab/sidebar--595412856" text="$:/Map"/><$mapscrollintoview/>Map</$button> to match the map in the upcoming Frontiers of Eberron: Threshold book ([[this map|https://i.imgur.com/HB1oI5n.jpg]]). Added the following:
+** [[Threshold]] (currently just a stub), [[Unicorn Point]], [[Shae Laen]], [[Nasaar Kol]], [[Sar'uul]], [[Westward Holt]], [[Highpeak]], [[Shavalsine River]] (made up that name), [[Eldeen River]], [[Copper River]], [[Arakhain River]], [[Korskiir River]], [[Korlaac Rift]], [[Border Road]]
+* Updated [[Argonth]] page to match more [[recent writings|https://keith-baker.com/ic-exclusive-argonth/]]. This includes the following new pages:
+** [[Knight Rangers]], [[Alain ir'Ranek]], [[Devra ir'Lashan]], [[Quill Carayne]], [[Eera ir'Jalon]], [[Finias Wandhand]], [[Big Bara]]
+** These pages added some missing links that will be filled in later, probably when Frontiers of Eberron: Threshold launches
+* Also added [[Company of the Black Crown]], [[Breggan Blackcrown]], [[Westwind Riders]], [[King's Assessors]], and [[quickstone]]
+* Updated population of [[Ardev]]
+* Updated [[Orien trade roads]]
+
+Maybe a controversial change: ''I changed some Sarlonan names and words'' for my Eberron. 
+
+* ''Corvagura'' has been renamed [[Ghirvagura]]. I always thought Corvagura sounded too much like "Khorvaire" when spoken aloud, for place names with no common etymological root.
+* ''Nulakesh'' has been renamed [[Nulakaz]]. "Nulakesh" just sounds so much like an [[overlord]] name (Sul Khatesh, Rak Tulkhesh). Also added [[Nulakazi]] language page; for my Eberron, this language takes phonological inspiration from Old Persian.
+* ''Khalesh'' has been renamed [[Caleshaz]]. Too many "Kh" names, honestly. I always got it mixed up with [[Khunan]]. Also very similar to Sul Khatesh. This way it sounds a little more "Nahuatl"; in my Eberron, the words [[couatl]], [[tlexolotl]], and other Mesoamerican loan words originate from old Caleshaz. 
+* ''Shulassakar'' have been renamed [[shulatlaca]]. The -ar ending for a tribe of people seems like a [[Khorvaire]] thing, based on native peoples there like the "dar" ([[Dhakaani]]), as well as -ar names for Talenta families (Boromar, Halamar, Toralamar) and the [[Jhorash'tar]] orcs. The shulatlaca have roots in old [[Caleshaz]] so I made them sound more "Nahuatl". (I know that [[Qaltiar]], [[Sulatar]], and [[kalashtar]] are outliers to my Khorvaire -ar theory; I'm assuming those names are the [[Common]] terms for those folks, and they have their own names for themselves.)
+* ''Korrandar'' has been renamed [[Telathal]]. Korrandar was always a terrible name; it doesn't sound Adaran or Quor or Draconic at all. Korranberg, Kol Korran, Korranath, "dar" (goblins); it sounds 100% Khorvairian. How did I get "Telathal"? I plugged "Korrandar" into a "Common to Quor" gibberish generator and that's what popped out.
+* ''Helkashtai'' was renamed [[Helkatash]] since she is an [[Inspired]], not a [[kalashtar]] of the Kashtai line. 
+* ''Sulatesh'' was renamed [[Shoralath]]. "Sulatesh" sounds like [[Sulat|Sulat League]] and is just one "k" away from [[Sul Khatesh]].
+* Not Sarlonan, but Pasha ''Raqashtar'' has been renamed [[Raqazda]]. Too many "ashta"s.
+
+New content and features:
+
+* Made all tooltips include article and title. So now, hovering over a link that says [[City of Towers|Sharn]] but actually links to Sharn will show "Sharn:" followed by the page's tooltip. Pages that have a "tier" (magic items, creatures, and spells) also show that information in the tooltip.
+** While I was at it, I added many, many more tooltips (1186 pages now have specific tooltips, up from 723)
+* Added the talents [[Divine Sense]], [[Totemic Attunement: Bear]], and [[Totemic Attunement: Eagle]]
+* Added [[divine smite]] spell
+* Added creatures [[skitterwidget]], [[bodytaker plant]], [[podling]], [[brain in a jar]], [[necrichor]], [[zombie clot]], [[strigoi]], [[unspeakable horror]], [[gremishka]]
+* Added items [[watchful helm]], [[silvered weapon]], [[monster hunter's pack]]
+* Added [[Cairn Hill]] and the [[Battle of Cairn Hill]], as well as [[Nystrum Shadar]] and the fortresses [[Castle Rhonewatch]] and [[Arolangard]]
+
+Tweaks, bug fixes, and smaller additions:
+
+* Replaced some [[Orien trade roads]] with "mundane" roads as per official map
+* Fixed display bug for [[Fairhold]] district on map
+* Removed creature tier from [[clockwork]] since it's more of a creature type than a creature itself; plus, one of the clockwork creatures is a different tier anyway
+* Added lineage stuff to the [[kalashtar]] page
+* Added a blurb about urban shifters to the [[shifter]] page
+* Added the five beast spirits to the [[Moonspeakers]] page
+* Added "alternatetitle"s for several pages (various archfey, items with multiple names, etc) to make them more easily searchable
+* Replaced Curse of Strahd [[trinket]] table with Van Richten's Guide to Ravenloft trinket table, since the first 50 entries were identical anyway. Said another way: I added 50 new trinkets
+* Fixed an error in [[Analects of War]]; they are only 2000 years old, not 3000
+* Made [[Tain Gala]] quarterly instead of monthly. I could have sworn I already made this change but apparently not
+* Fixed a very common typo throughout the document: "worshippers", "worshipping" etc have had one "p" removed
 
 !!! 1.17.4 <span style="font-weight:normal">(Aug 12, 2022)</span>
 
@@ -91,6 +139,19 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 * Clarified in the [[Silver Flame]] page that the Flame does not "burn" like mundane fire. Changed the spell list for [[Aasimar of the Silver Flame]] to reflect that
 * Changed the year of [[Thaliost]]'s occupation from 926 to 977
 
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
+
 !!! 1.16.7 <span style="font-weight:normal">(Jun 21, 2022)</span>
 
 * Added [[Children of Jes]] along with a few other tidbits from Exploring Eberron that I missed
@@ -147,7 +208,7 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 * TW tools and features:
 ** Added [[lunar phases of Eberron]].
 ** Added the "List of tiddlers not in master copy" section to the [[Eberron TW Updater]] in order to show pages that were renamed or intentionally deleted in the master copy. This should help users stay up-to-date.
-** Added profession tag for certain [[talent]]s. (EDIT 1.17.1: renamed to [[background])
+** Added profession tag for certain [[talent]]s. (EDIT 1.17.1: renamed to [[background]])
 ** Added macro for "Find talents tagged with [title]".
 * [[Storyloom]] rules and mechanics:
 ** Changed rules for [[Actions and Attributes]]. Now, instead of having a score for each of your [[action]]s and [[attribute]]s, you just have a check box: proficient, or not. Your dice pool always starts with 1, and then you add 1 more die if you are proficient with the action and/or attribute you've chosen, up to a total of 3 (before we bring in bonuses for [[talent]]s, [[momentum]], etc).
@@ -224,19 +285,6 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 * Added [[aurashala]] [[quori]]
 * Made some adjustments to [[genasi]] [[talent]]s to reflect some changes coming in Monsters of the Multiverse
 * Added [[Nobility of the Five Nations]] page. While I was at it, doubled the number of noble representatives in the [[Breland Parliament]]. I however kept the canon material about [[Antus ir'Soldorak]] having a [[Karrnath]]i noble title, not a [[Brelish|Breland]] one. Also split the pages [[Lord Mayor of Sharn]] and [[Cathan ir'Demell]].
-
-!
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
-</$button>
 
 !!! 1.14.3 <span style="font-weight:normal">(Mar 8, 2022)</span>
 
@@ -959,7 +1007,7 @@ Miscellaneous:
 
 * Map tweaks. Moved the political map button to be more visible rather than buried in the map options
 * Capitalized articles ("The") on the map
-* Added a missing [[Orien trade roads]] that should have led to [[Sharn]]
+* Added a missing [[Orien trade road|Orien trade roads]] that should have led to [[Sharn]]
 
 !!! 1.6.1 <span style="font-weight:normal">(Aug 28, 2021)</span>
 
@@ -1027,7 +1075,7 @@ Lots of map improvements!
 * Added some missing [[Demesnes]] info
 * Added [[talent]]s:
 ** [[Hobgoblin (talent)]]
-** [[Tiefling (talent)]]
+** Tiefling (talent) (Edit 1.14.0: Now split into several different tiefling talents)
 * Added the spell [[primal savagery]], as well as the creatures [[spindlespitter]] and [[drake turtle]], and the weapon [[tangat]]
 * Misc phrasing tweaks
 

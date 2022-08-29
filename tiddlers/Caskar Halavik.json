@@ -1,13 +1,14 @@
 [
     {
         "created": "20200410040421111",
-        "title": "Caskar Halavik",
         "text": "Caskar Halavik ([[halfling]] councilor for [[Middle Menthis]]) was born in the [[Talenta Plains]]. When he first came to [[Sharn]], he worked as an enforcer for the [[Boromar Clan]]. He was also a remarkably skilled [[clawfoot]] racer, and in time he became a celebrity in [[Little Plains]]. [[Saidan Boromar]] helped him transform his fame into political cachet, eventually earning him a seat on the [[Council|Sharn Council]]. Caskar enjoys the prestige of his position, but he prefers to leave political maneuvering on behalf of the Boromars to [[Ilyra Boromar]] and [[Bestan ir'Tonn]].",
-        "modified": "20210727192000073",
+        "title": "Caskar Halavik",
+        "modified": "20220828201955375",
         "tags": "[[Sharn Council]] halfling humanoid Sharn",
         "type": "text/vnd.tiddlywiki",
         "article": "Councilor ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "Middle Menthis representative on the Sharn Council"
     }
 ]

@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200416204415062
-modified: 20220322214323569
+modified: 20220828204121513
 points: 49.865,7.76
 population: 63000
 style: {"color": "#8E0024"}
 tags: city Karrnath
 title: Atur
+tooltip: Grand Duchy of Karrnath, the City of Knight, public stronghold of the Blood of Vol faith
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

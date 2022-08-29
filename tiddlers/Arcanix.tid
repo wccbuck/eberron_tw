@@ -1,13 +1,13 @@
 category: location
 color: #4C8201
 created: 20200414045523446
-modified: 20220506012944762
+modified: 20220823210655721
 points: 40.791,-15.54
 population: 4500
 style: {"color": "#CA5700"}
 tags: university town Aundair library
 title: Arcanix
-tooltip: village in Aundair, home of the Arcane Congress
+tooltip: village in Aundair, home of the Arcane Congress and the finest school of magic in Khorvaire
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

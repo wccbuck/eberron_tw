@@ -2,11 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20201216173808352
 highertier: show
-modified: 20220805224445657
+modified: 20220824163307474
 tags: illusion
 tier: 2
 title: invisibility
-tooltip: uncommon illusion spell, make a creature you touch turn invisible for up to an hour
+tooltip: make a creature you touch turn invisible for up to an hour
 type: text/vnd.tiddlywiki
 
 A creature you touch becomes invisible for up to 1 hour. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.

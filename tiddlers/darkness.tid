@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201228041712480
-modified: 20210922232339163
+modified: 20220824163119633
 tags: evocation
 tier: 2
 title: darkness
+tooltip: make a 15-foot-radius sphere of magical darkness for 10 minutes
 type: text/vnd.tiddlywiki
 
 Magical darkness spreads from a point you choose within 60 feet to fill a 15-foot-radius sphere for up to 10 minutes. The darkness spreads around corners. A creature with [[darkvision]] can't see through this darkness, and non-magical light can't illuminate it.

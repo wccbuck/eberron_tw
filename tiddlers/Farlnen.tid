@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20210204213948181
-modified: 20220202202204771
+modified: 20220828204338662
 polygons: 65.003,19.93 64.957,20.39 65.022,21.18 65.16,21.68 65.428,21.81 65.834,21.83 66.138,22.75 66.388,23.4 66.535,23.23 66.683,24.23 66.849,24.26 66.766,24.64 67.062,25.65 67.182,25.79 67.495,26.73 67.735,27.37 67.957,27.3 68.04,28.13 68.142,28.88 68.298,29.06 68.354,28.25 68.391,27.1 68.234,25.86 68.031,25.34 67.929,25.03 67.948,24.66 67.828,24.03 67.615,23.24 67.44,22.44 67.394,22.01 67.375,21.5 67.237,20.32 66.822,19.45 66.748,19.01 66.498,18.51 66.249,18.08 66.046,17.64 66.157,17.13 66.175,16.65 66.074,16.31 66.009,15.87 65.926,15.55 65.806,15.0 65.714,14.53 65.566,14.59 65.317,14.3 65.151,13.99 64.902,13.78 64.615,13.82 64.468,14.19 64.523,14.89 64.791,15.18 64.938,15.88 64.975,17.02 65.28,17.4 65.308,18.07 65.372,18.57 65.511,18.81 65.474,19.1 65.298,19.24 65.169,19.58
 style: {"fillOpacity":"0","opacity":"0"}
 tags: [[Lhazaar Principalities]] island
 title: Farlnen
+tooltip: the "Sunless Isle" of the Lhazaar Principalities, home of the Bloodsails
 type: text/vnd.tiddlywiki
 
 The frozen island of Farlnen is part of the [[Lhazaar Principalities]]. Known as the "Sunless Isle", it is defined by its patchwork of [[Mabar]]an [[manifest zone]]s, as well as [[Port Cairn]], the seat of power of the [[Bloodsails]].

@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20200415035355840
-modified: 20220227212815412
+modified: 20220826181558102
 tags: dragonmark
 title: Mark of Finding
+tooltip: half-orc dragonmark, House Tharashk, allows wielder to track down people or resources of interest
 type: text/vnd.tiddlywiki
 
 <div style="float: left; width: 100px;">{{$:/plugins/wccbuck/finding.svg}}</div> The Mark of Finding sharpens the senses, guiding the

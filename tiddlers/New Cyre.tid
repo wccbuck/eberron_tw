@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200415195509971
-modified: 20220217234256737
+modified: 20220828204145250
 points: 32.382,-1.41
 population: 21000
 style: {"color": "#8E0024"}
 tags: Breland city
 title: New Cyre
+tooltip: Cyran refugee city in Breland
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

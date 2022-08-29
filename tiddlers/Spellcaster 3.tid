@@ -1,7 +1,8 @@
 category: talent
 created: 20211127002130508
-modified: 20220110040006983
+modified: 20220825231800937
 title: Spellcaster 3
+tooltip: talent which allows a player character to cast spells (4 rare, 2 epic, or 1 legendary)
 type: text/vnd.tiddlywiki
 xpcost: 3
 

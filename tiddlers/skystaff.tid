@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20220711234451393
-modified: 20220711235049543
+modified: 20220824220732827
 tags: vehicle
 tier: 3
 title: skystaff
+tooltip: small magical flying vehicle
 type: text/vnd.tiddlywiki
 
 This [[soarwood]] staff, which weighs 3 pounds, has a seat and handles which fold out from the shaft. When you stand astride it and speak its command word, the staff hovers beneath you and can be ridden in the air. It has a maximum flying speed of about 12 miles per hour. It can carry up to 400 pounds, but its flying speed drops when carrying more than 200 pounds. The skystaff stops hovering when you land.

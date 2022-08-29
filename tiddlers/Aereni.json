@@ -1,13 +1,14 @@
 [
     {
         "created": "20200414235558668",
-        "title": "Aereni",
         "text": "The [[elves|elf]] of [[Aerenal]] are born into a world shaped by magic and honed by tradition, and spend the first hundred or so years of their lives perfecting one of the skills prized by their ancestors. For thousands of years, the island nation of [[Aerenal]]\nhas been ruled and protected by the godlike power of\nthe [[Undying Court]], a council of [[deathless]] elves. The\ngreatest heroes of the Aereni join the Undying Court after death, joining their heroic ancestors in immortality.\n\nAereni often have pale alabaster to grey-brown skin sometimes tinged with blue, and hair of silver-white, black, or blue,\nbut various shades of blond, brown, and red are\nnot uncommon. Their eyes are blue or green and\nflecked with gold. \n\nThe Aereni are isolationists who have little interest\nin the world beyond their island. The [[Five Nations]] are\na place of chaos and war, so why would any sensible\nelf venture into that madness? As you make an Aereni\nelf character, decide what has caused you to leave your\nisland home and the protection of the Undying Court in\norder to wander the world. Are you in search of a power\nthat could earn you your place in the Undying Court?\nHave you been given a quest by one of your own [[deathless]] ancestors? Or are you an exile, banished from your\nhomeland for some crime against your people's rulers? \n\nConsider your character's personal and family history.\nWhat is your family known for, and how can you prove\nyourself to be a master of these skills? (See also [[Aereni noble line]]s.) Do you have ancestors in the [[Undying Court]], and if so, what's your relationship with them? Do you find it challenging to deal\nwith the short-lived races, or are you patient with them? ",
-        "modified": "20210727191953626",
+        "title": "Aereni",
+        "modified": "20220822042807530",
         "tags": "elf tribe",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "elves of Aerenal, protected and ruled by the Undying Court"
     }
 ]

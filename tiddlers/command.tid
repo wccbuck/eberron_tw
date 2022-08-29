@@ -2,10 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20201216162532491
 highertier: show
-modified: 20220220211312651
+modified: 20220824203213185
 tags: enchantment
 tier: 2
 title: command
+tooltip: force a creature within 60 feet to obey a one-word command
 type: text/vnd.tiddlywiki
 
 You speak a one-word command to a creature you can see within 60 feet. If the target cannot resist your magical imperative, they must follow the command. The spell has no effect if the target is [[undead]], if it doesn't understand your [[language]], or if your command is directly harmful to it.

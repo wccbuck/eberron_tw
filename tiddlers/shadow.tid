@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20201221171953778
-modified: 20210727192030592
+modified: 20220826212605890
 tags: undead manifestation
 tier: 1
 title: shadow
+tooltip: pure manifestation of the Endless Night, can drain the vitality of living creatures
 type: text/vnd.tiddlywiki
 
 Shadows are [[manifestation]]s of [[Mabar]], resembling dark exaggerations of [[humanoid]] shadows. They are classified as [[undead]] despite being pure manifestations of the Endless Night. 

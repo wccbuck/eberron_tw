@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201216210152518
-modified: 20220218203757739
+modified: 20220824210932137
 tags: [[eldritch machine]] tool hindrance
 tier: 0
 title: dimensional seal
+tooltip: massive stone slab that blocks conjuration magic, teleportation, and planar travel
 type: text/vnd.tiddlywiki
 
 A dimensional seal is a massive stone slab covered with

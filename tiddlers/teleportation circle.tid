@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20210212065352438
-modified: 20220705171351851
+modified: 20220829023930794
 tags: 
 title: teleportation circle
+tooltip: circular fixture which enables instantaneous transportation to another circle
 type: text/vnd.tiddlywiki
 
 For the [[spell]] of the same name, see [[teleportation circle (spell)]].

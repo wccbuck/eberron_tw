@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20200429033620167
-modified: 20220503212842070
+modified: 20220824164710788
 tags: [[primal magic]]
 tier: 3
 title: awaken
+tooltip: grant magical sapience to a beast or plant; 8-hour ritual that requires 100c in material components
 type: text/vnd.tiddlywiki
 
 Casting this spell (which takes at least eight hours of concentration and ritual components that cost up to [[100c|money]]) on a [[beast]] or plant grants the target magical intelligence and sapience. The target also gains the ability to speak one [[language]] you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth (as a [[plant creature]]), and it gains senses similar to a human's. 

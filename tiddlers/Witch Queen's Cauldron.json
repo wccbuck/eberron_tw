@@ -5,10 +5,11 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Witch Queen's Cauldron",
         "tags": "tool summoning detection mobility hindrance convenience",
-        "modified": "20220218021525410",
+        "modified": "20220824210623706",
         "tier": "5",
         "color": "#41D5E1",
         "category": "object",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "the cauldron of the archfey known as the Lady in Shadow"
     }
 ]

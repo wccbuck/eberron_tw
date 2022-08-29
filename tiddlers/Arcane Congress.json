@@ -1,13 +1,14 @@
 [
     {
         "created": "20200428223529107",
-        "title": "Arcane Congress",
         "text": "The mentors at [[Arcanix]] comprise the Arcane Congress, a council of spellcasters\nwho explore the limits of the arcane arts under a mandate instituted by King [[Galifar I|Galifar Wynarn]]. \n\nThe royal warlord and minister of magic, [[Adal|Adal ir'Wynarn]], serves\nas the go-between for the [[Aundair]] crown and the congress, though\nsome factions within the congress distrust Adal due to his fascination with war and weapons of arcane destruction. In addition to providing Queen [[Aurala|Aurala ir'Wynarn]] with advice on arcane matters, the congress oversees the floating towers of wizardry in [[Arcanix]] and helps mentor the next generation of [[wizard]]s and [[artificer]]s. \n\nThe Arcane Congress competes with the [[Twelve]] in recruiting promising students of magic.",
-        "modified": "20210727191954512",
+        "title": "Arcane Congress",
+        "modified": "20220823210630038",
         "tags": "Aundair [[arcane order]]",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "Aundairian council of spellcasters who explore the limits of the arcane arts; manages Arcanix"
     }
 ]

@@ -1,12 +1,13 @@
 [
     {
         "created": "20210119040325789",
+        "text": "The Analects of War is an ancient military treatise written by [[Karrn the Conqueror]], the founder of the pre-[[Galifar]] nation of [[Karrnath]]. It has been the most influencial text on Karrnathi military strategy and tactics for the last two millennia, and seminars on the treatise are taught every semester at [[Rekkenmark Academy]] to this day. In addition to military thinking, it has influenced business tactics, legal strategy, lifestyles, and more across [[Galifar]].",
         "title": "Analects of War",
-        "text": "The Analects of War is an ancient military treatise written by [[Karrn the Conqueror]], the founder of the pre-[[Galifar]] nation of [[Karrnath]]. It has been the most influencial text on Karrnathi military strategy and tactics for the last three millennia, and seminars on the treatise are taught every semester at [[Rekkenmark Academy]] to this day. In addition to military thinking, it has influenced business tactics, legal strategy, lifestyles, and more across [[Galifar]].",
-        "modified": "20210727191954195",
+        "modified": "20220829054403310",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "document",
-        "color": "#A3CFBB"
+        "color": "#A3CFBB",
+        "tooltip": "influential ancient Karrnathi military treatise written by Karrn the Conqueror; still taught today"
     }
 ]

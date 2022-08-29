@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20211129214214144
-modified: 20220216194155167
+modified: 20220824215137126
 tags: toolset [[equipment pack]]
 tier: 1
 title: navigator's tools
+tooltip: set of tools used for navigation at sea
 type: text/vnd.tiddlywiki
 
 Navigator's tools include a sextant, a compass, calipers, a ruler, parchment, ink, and a quill. This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. 

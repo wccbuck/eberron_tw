@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20200414172333508
-modified: 20220220045452704
+modified: 20220824204522680
 tags: tool detection convenience
 tier: 1
 title: everbright lantern
+tooltip: lantern with a flame-like light source that doesn't require fuel
 type: text/vnd.tiddlywiki
 
 This bullseye lantern contains an Eberron [[dragonshard]]

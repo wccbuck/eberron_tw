@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201227194839923
-modified: 20210727192009691
+modified: 20220824185802255
 tags: transmutation
 tier: 3
 title: gaseous form
+tooltip: touch a willing creature to transform them into a misty cloud for up to 1 hour
 type: text/vnd.tiddlywiki
 
 You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for up to one hour. The spell ends if the creature is incapacitated. An incorporeal creature isn't affected.

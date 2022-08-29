@@ -1,8 +1,8 @@
 created: 20210302071921236
 limit50: [limit[50]]
-modified: 20220217234410147
+modified: 20220823215705022
 tags:
 title: $:/config/Manager/LimitLocations
 type: text/vnd.tiddlywiki
 
-[all{$:/config/Manager/Show}subfilter<loc-type>category[location]!is[system]regexp<capitalized>!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/LocationTag}tag:strict{$:/config/Manager/LocationTag2}!tag{$:/config/Manager/ExcludeLocationTag}count[]]
+[all{$:/config/Manager/Show}subfilter<loc-type>category[location]!is[system]!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/LocationTag}tag:strict{$:/config/Manager/LocationTag2}!tag{$:/config/Manager/ExcludeLocationTag}count[]]

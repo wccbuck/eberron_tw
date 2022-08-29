@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201210234346932
-modified: 20210727191954373
+modified: 20220824170143170
 tags: abjuration
 tier: 4
 title: antimagic field
+tooltip: surround yourself in a 10-foot-radius sphere of antimagic; spells and magical effects are suppressed within the sphere and can't protrude into it
 type: text/vnd.tiddlywiki
 
 A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can't be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends (up to 1 hour, or until your concentration breaks), the sphere moves with you, centered on you.

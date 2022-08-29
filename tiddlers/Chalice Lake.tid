@@ -1,11 +1,11 @@
 category: location
 color: #3B5C0A
 created: 20210713043401142
-modified: 20210727192000384
-polygons: 30.729,-23.69 30.831,-23.77 30.868,-23.86 30.729,-23.83 30.665,-23.8 30.646,-23.87 30.572,-23.86 30.526,-23.8 30.406,-23.73 30.314,-23.66 30.397,-23.6 30.462,-23.66 30.591,-23.7
+modified: 20220826053952153
+polygons: 30.342,-25.553 30.307,-25.394 30.319,-25.172 30.387,-25.019 30.418,-24.835 30.416,-24.722 30.355,-24.584 30.386,-24.492 30.456,-24.312 30.366,-24.324 30.285,-24.367 30.148,-24.387 30.064,-24.355 29.919,-24.296 29.858,-24.315 29.757,-24.307 29.805,-24.369 29.886,-24.383 29.928,-24.474 29.998,-24.596 30.04,-24.736 30.015,-24.875 29.987,-24.964 30.034,-25.039 30.028,-25.13 30.053,-25.189 30.005,-25.301 29.94,-25.426 30.007,-25.408 30.094,-25.326 30.141,-25.353 30.22,-25.479 30.278,-25.507
 style: {"color":"#294975","fillColor":"#abcaf5","fillOpacity":"1"}
-tags: Breland lake
+tags: Breland lake Khorvaire
 title: Chalice Lake
 type: text/vnd.tiddlywiki
 
-Chalice Lake is a small freshwater lake in [[Breland]] near the town of [[Ardev]]. It is a convergence point of many small creeks flowing across the plains of western Breland before continuing south to the [[Dagger River]].
+Chalice Lake is a freshwater lake in [[Breland]] near the town of [[Ardev]]. It is a convergence point of many small creeks flowing across the plains of western Breland before continuing south to the [[Dagger River]].

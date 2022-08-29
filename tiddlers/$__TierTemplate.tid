@@ -1,5 +1,5 @@
 created: 20210108212810444
-modified: 20220110034656601
+modified: 20220824185321079
 tags: 
 title: $:/TierTemplate
 type: text/vnd.tiddlywiki
@@ -26,10 +26,10 @@ type: text/vnd.tiddlywiki
 </$reveal>
 <$reveal type="match" state="!!category" text="character sheet">
 <$reveal type="nomatch" state="!!mode" text="edit">
-<$button><$action-setfield $field="mode" $value="edit"/>Edit Mode</$button>
+<$button tooltip="Switch from View Mode to Edit Mode"><$action-setfield $field="mode" $value="edit"/>Edit Mode</$button>
 </$reveal>
 <$reveal type="match" state="!!mode" text="edit">
-<$button><$action-setfield $field="mode" $value="view"/>View Mode</$button>
+<$button tooltip="Switch from Edit Mode to View Mode"><$action-setfield $field="mode" $value="view"/>View Mode</$button>
 </$reveal>
 &nbsp;[[?|Character Creation]]
 </$reveal>

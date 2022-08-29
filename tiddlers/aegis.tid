@@ -2,10 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20201210010812667
 highertier: show
-modified: 20220619204143548
+modified: 20220824190104362
 tags: abjuration
 tier: 2
 title: aegis
+tooltip: create a barrier of force to protect yourself from an incoming attack
 type: text/vnd.tiddlywiki
 
 As a reaction to being attacked, the spellcaster creates an invisible barrier of magical force to block the attack. The shield can prevent you from suffering up to 2 [[harm]]. The shield lasts for 5-10 seconds before dissipating.

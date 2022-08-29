@@ -1,10 +1,12 @@
+alternatetitle: oathbound
 category: creature
 color: #EA868F
 created: 20201221233009783
-modified: 20210727192022474
+modified: 20220829024558686
 tags: undead
 tier: 3
 title: mummy
+tooltip: undead created from a special embalming ritual; bound by oaths that they must obey
 type: text/vnd.tiddlywiki
 
 Undead mummies are created when a priest of the [[Blood of Vol]] or other faith ritually imbues a prepared embalmed corpse with [[necromantic magic|necromancy]]. This process is one of only three techniques known by practicers of [[Mabar]]an necromancy that can extend a person's existence and preserve their personality and memories (the other two creating [[vampire]]s and [[lich]]es).

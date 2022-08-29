@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201209021824812
-modified: 20220707210512867
+modified: 20220824213301076
 tags: [[arcane artillery]] fixed weapon
 tier: 0
 title: elemental cannon
+tooltip: cannon powered by a bound earth elemental
 type: text/vnd.tiddlywiki
 
 The most common form of cannon on [[Khorvaire]] is the elemental cannon produced by the [[gnome]]s

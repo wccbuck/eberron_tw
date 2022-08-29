@@ -1,13 +1,14 @@
 [
     {
         "created": "20210317035126844",
-        "title": "Light of Siberys",
         "text": "A scholar who researches the [[elf–dragon wars|Elf-Dragon Wars]], or\nwho manages to find records of the conflict that destroyed [[Xen'drik]], cannot help noticing that the [[dragon]]s fought as a disciplined force... as an army,\nnot merely a band of individuals. This break with draconic isolation was the work of the Light of Siberys, a name used both for a [[geographic region|Light of Siberys (region)]] in [[Argonnessen]] and for the [[dragon]]s who live there. These soldiers\nhave stood ready since the end of the [[Age of Demons]]. They guard the prisons of the [[overlord]]s. They maintain the borders of Argonnessen itself. And when the time comes for war, they organize the other dragons into a united force, bringing tactics and discipline\nto the battle.\n\nLittle truly threatens [[Argonnessen]], but the Light of Siberys has faced plenty of challenges. The Soldiers of the Light carry out periodic, limited attacks on [[Aerenal]]—perhaps reconnaissance, perhaps training exercises, always short of full-scale invasion. The Light pursues the [[Talons of Tiamat]], an activity that has\nbecome far more frequent of late. These militants\nhave dealt with a number of other threats to Argonnessen that the people of the wider world have never even heard of, including planar incursions from both\n[[Fernia]] and [[Risia]]. The Light of Siberys maintains an order of impartial mediators, whom other dragons can call on to attempt to resolve disputes. Finally, it\nis the Light of Siberys that patrols the longest border of Argonnessen—anyone who passes across [[Totem Beach]] must face the Soldiers of the Light.\n\nAlthough [[dragon]]s of the Light of Siberys have mastered fight operations in large numbers, under normal circumstances they operate in squads of two to five, with the oldest dragon usually serving as squad leader. Dragons of all colors and all ages serve in the Light. Rank is based on age and service; it is possible for a dragon to be placed in command of an older comrade, if he has superior military skills. However, this rank holds no significance outside the Light of Siberys. The [[Conclave]] can grant the Light authority to act in its name; otherwise, the dragons of the Light hold no special jurisdiction over other dragons.\n\nThe Eternal Flame of the Light of Siberys is the Lightkeeper [[Dolarashynach]].",
-        "modified": "20210727192018823",
+        "title": "Light of Siberys",
+        "modified": "20220823181154601",
         "tags": "Argonnessen military",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "dragon army of Argonnessen"
     }
 ]

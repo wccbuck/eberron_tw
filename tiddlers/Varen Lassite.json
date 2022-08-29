@@ -1,13 +1,14 @@
 [
     {
         "created": "20210307050949079",
-        "title": "Varen Lassite",
         "text": "The [[Lassite family]]’s current head is Varen Lassite, a handsome man just reaching his middle years. Of all the [[Storm Lords]] of [[Stormreach]], Lord Varen is the only one who is\nbeloved by his subjects. He has a reputation for generosity, and though he cannot always supply justice, he will buy a drink for anyone who suffers misfortune in the Marketplace. He is the epitome of the dashing swashbuckler—romantic, witty, with a fine eye\nfor beauty and an appreciation for skilled swordplay.\nBeyond this, he is a clever and careful negotiator,\ncapable of manipulating stronger enemies into battling\none another.",
-        "modified": "20210727192040529",
+        "title": "Varen Lassite",
+        "modified": "20220829031328962",
         "tags": "Stormreach humanoid [[Storm Lords]] [[Lassite family]] human",
         "type": "text/vnd.tiddlywiki",
         "article": "Storm Lord ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "Coin Lord of Stormreach; beloved and dashing swashbuckler"
     }
 ]

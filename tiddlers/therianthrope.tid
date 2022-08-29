@@ -1,8 +1,8 @@
-alternatetitle: lycanthrope
+alternatetitle: lycanthrope werewolf wererat wereboar
 category: creature
 color: #EA868F
 created: 20200422205105510
-modified: 20220805211851483
+modified: 20220825230135300
 tags: shapechanger humanoid monstrosity
 tier: 2
 title: therianthrope
@@ -13,6 +13,8 @@ var: uncommon
 One of the most ancient and feared of all curses, therianthropy can transform the most civilized [[humanoid]] into a ravening beast. In its natural humanoid form, a creature cursed by therianthropy appears as its normal self. Over time, however, many therianthropes acquire features suggestive of their animal form. In that animal form, a therianthrope resembles a powerful version of a normal animal. On close inspection, its eyes show a faint spark of unnatural intelligence and might glow red in the dark.
 
 Therianthropes can also shapeshift into a hybrid form of humanoid and beast, granting them fearsome bestial abilities while still allowing them to use tools or weapons.
+
+In addition to their natural weapons and vicious demeanors, therianthropes possess a trait that makes them much more dangerous than a mundane predator: they are ''immune to all physical damage'' from weapons that are not magical or [[silvered|silvered weapon]], even while they are in their humanoid forms.
 
 Werewolves are the most commonly known form of therianthrope (called "lycanthropes"), though werebears, boars, and rats are also common. But were-versions of bats, ravens, tigers, and other animals also exist.
 

@@ -11,11 +11,12 @@ d7: 1
 duration: 45 seconds
 effect: Target's head appears as a photo-negative for the next {{!!duration}}.
 l_duration: 5 hours
-modified: 20220221193856074
+modified: 20220824212741280
 s_duration: 7 seconds
 tags: invigoration drug
 tier: 0
 title: dragon's blood
+tooltip: stimulant and psychoactive drug sold by Daask that can temporarily grant unpredictable magical ability to the user
 type: text/vnd.tiddlywiki
 
 Introduced into [[Sharn]] by [[Daask]], dragon's blood is a potent and highly addictive stimulant. In addition to inducing euphoria, it can enhance spellcasting ability or even temporarily imbue a user with the ability to cast arcane spells, as a [[sorcerer]]. The drug's effects are potentially dangerous and always unpredictable. This isn't something a player character should want to use; adventurers are more likely to interfere with Daask smugglers or deal with an addict who accidentally casts a [[fireball]] in a crowded street. 

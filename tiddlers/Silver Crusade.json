@@ -5,9 +5,11 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Silver Crusade",
         "tags": "war",
-        "modified": "20220307212631305",
+        "modified": "20220824223653161",
         "color": "#A3CFBB",
         "category": "event",
-        "article": "the "
+        "article": "the ",
+        "alternatetitle": "Lycanthropic Purge",
+        "tooltip": "decades-long campaign to stop the spread of therianthropy in the modern-day Eldeen Reaches; later devolved into a paranoid inquisition"
     }
 ]

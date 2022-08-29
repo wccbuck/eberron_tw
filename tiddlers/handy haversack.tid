@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201210061938567
-modified: 20220218215327208
+modified: 20220824213152819
 tags: tool storage convenience
 tier: 3
 title: handy haversack
+tooltip: backpack with several extradimensional pockets; reaching into the bag with a stored item in mind causes that item to rise to the top
 type: text/vnd.tiddlywiki
 
 This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 20 pounds of material, not exceeding a volume of 2 cubic feet. The large central pouch can hold up to 8 cubic feet or 80 pounds of material. The backpack always weighs 5 pounds, regardless of its contents. When you reach into the haversack for a specific item, the item is always magically on top.

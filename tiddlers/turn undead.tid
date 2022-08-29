@@ -2,10 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20210330071155596
 highertier: show
-modified: 20220220212412982
+modified: 20220829053223483
 tags: [[divine magic]]
 tier: 2
 title: turn undead
+tooltip: make undead within 30 feet of you flee for 1 minute
 type: text/vnd.tiddlywiki
 
 You raise a holy symbol and speak a prayer censuring the [[undead]]. Each undead creature that can see or hear you within 30 feet feels a strong compulsion to move as far away from you as it can, as fast as it can. The effect lasts for up to 1 minute or until the turned creature takes any damage.

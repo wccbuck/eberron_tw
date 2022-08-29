@@ -1,13 +1,14 @@
 [
     {
         "created": "20200421171905664",
-        "title": "Bestan ir'Tonn",
         "text": "[[Upper Tavick's Landing]] has always\nhad an isolationist attitude, in many ways considering itself to be a separate city within [[Sharn]]. Bestan ir'Tonn has represented this community for the last 30 years. A wealthy barrister from one of the [[Sixty]], he has strong connections to the [[Boromar Clan]]. He is a respected man who has always looked out for the interests of the wealthy of [[Tavick's Landing]], as well as for the Boromars. However, he has a secret: he is an agent of the [[Dreaming Dark]]. Fifteen years ago, the [[Inspired]] dominator [[Tirashana]] infected him with a [[mind seed]], and today he is one of three Inspired moles. While appearing to promote the agendas of his supporters, he has actually been stirring up dissent and discord. ",
-        "modified": "20210727191957658",
+        "title": "Bestan ir'Tonn",
+        "modified": "20220828201920703",
         "tags": "[[Sharn Council]] human humanoid Sharn",
         "type": "text/vnd.tiddlywiki",
         "article": "Councilor ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "Upper Tavick's Landing representative on the Sharn Council"
     }
 ]

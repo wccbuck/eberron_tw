@@ -2,10 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20200428222316448
 highertier: show
-modified: 20220220213115926
+modified: 20220824172006823
 tags: transmutation
 tier: 1
 title: prestidigitation
+tooltip: create a small instantaneous sensory effect; light or snuff a small fire; clean or soil a small object; chill, warm, or flavor a small amount of material; make a small temporary magical mark or illusion
 type: text/vnd.tiddlywiki
 
 This spell is a minor magical trick that novice [[wizard]]s and [[artificer]]s use for practice. You create one of the following magical effects within 10 feet:

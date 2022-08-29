@@ -1,6 +1,6 @@
 category: talent
 created: 20220720182901629
-modified: 20220720190133083
+modified: 20220823185818050
 tags: barbarian
 title: Path of the Totem Warrior
 type: text/vnd.tiddlywiki
@@ -14,6 +14,14 @@ Choose one of the following totem beasts and gain its feature. You also acquire 
 
 * ''Bear.'' While [[raging|Berserker Rage]], you gain an [[advantage]] to resist all physical damage.
 * ''Eagle.'' While raging, you can run 50% faster, and can slip past hostile creatures with a much lower chance of being attacked or restrained (as the spell [[zephyr step]]).
+* ''Elk.'' While raging, you have [[advantage]] when attempting to knock enemies away from you.
+* ''Tiger.'' While raging, you can jump three times as far as normal.
 * ''Wolf.'' While raging, you gain an [[advantage]] to attack enemies who are being attacked or harried by one of your allies.
 
 In addition, you can cast one of the following spells while not raging: [[beast sense]], or [[speak with animals]].
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>

@@ -1,13 +1,14 @@
 [
     {
         "created": "20200421170558480",
-        "title": "Maza Thadian",
         "text": "Maza Thadian ([[elf]] councilor for [[Upper Northedge]]) is one of the oldest, richest, and most respected elves in the city. She owns the [[Oaks]], one of\nthe finest restaurants in [[Sharn]]. Maza is stubborn and\nset in her ways, and she constantly fights to maintain\nthe status quo and uphold tradition; however, she does tend to put the concerns of the wealthy before those of the poor, especially the city [[goblin]]s and other wretched folks of the [[lower ward]]s. While she has the highest regard for the\nlaw, she is in no way naïve; she is capable of surprising\nsubterfuge in the best interests of [[Sharn]]. ",
-        "modified": "20210727192020889",
+        "title": "Maza Thadian",
+        "modified": "20220828202008074",
         "tags": "[[Sharn Council]] elf humanoid Sharn",
         "type": "text/vnd.tiddlywiki",
         "article": "Councilor ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "Upper Northedge representative on the Sharn Council"
     }
 ]

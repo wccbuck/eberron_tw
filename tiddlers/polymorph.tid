@@ -2,11 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20201227182122282
 highertier: show
-modified: 20220805224411992
+modified: 20220824163336800
 tags: [[primal magic]] transmutation
 tier: 3
 title: polymorph
-tooltip: rare transmutation spell, temporarily transform a creature into a beast
+tooltip: temporarily transform a creature into a beast
 type: text/vnd.tiddlywiki
 
 This spell transforms a creature that you can see within 60 feet into a new form. An unwilling creature can try to resist the effect. The spell has no effect on a [[shapechanger]] (such as a [[changeling]] or [[rakshasa]]) or an incapacitated creature.

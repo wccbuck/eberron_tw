@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201210061623458
-modified: 20220218182356907
+modified: 20220824204335670
 tags: tool storage
 tier: 2
 title: bag of holding
+tooltip: bag with a much larger capacity than its exterior dimensions would suggest
 type: text/vnd.tiddlywiki
 
 This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 15 pounds, regardless of its contents. Retrieving an item from the bag requires some time to shuffle around and find what you're looking for.

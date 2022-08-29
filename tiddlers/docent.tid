@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20200415022634304
-modified: 20220220224307731
+modified: 20220824205536795
 tags: detection accessory [[warforged item]] communication protection
 tier: 3
 title: docent
+tooltip: small metal sphere that a warforged can imbed into their body; the sapient magic item then awakens, and serves as a telepathic advisor to the host
 type: text/vnd.tiddlywiki
 
 A docent is a small metal sphere, approximately 2 inches

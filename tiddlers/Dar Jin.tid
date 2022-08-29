@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200417014301689
-modified: 20210914191744729
+modified: 20220827210404874
 points: 23.85,-144.69
 population: 1960000
 style: {"color": "#8E0024"}
-tags: Corvagura city Riedra
+tags: Ghirvagura city Riedra
 title: Dar Jin
+tooltip: greatest port city of Riedra, known for its foreign quarter (the Jhodra)
 type: text/vnd.tiddlywiki
 
 ''Country:'' [[Riedra]]<br/>

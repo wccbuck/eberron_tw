@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20210412191032797
-modified: 20210727192033466
+modified: 20220824174206959
 tags: [[primal magic]]
 tier: 2
 title: speak with animals
+tooltip: gain the ability to verbally communicate with beasts for up to 10 minutes
 type: text/vnd.tiddlywiki
 
 You gain the ability to comprehend and verbally communicate with [[beast]]s for up to 10 minutes. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the GM's discretion.

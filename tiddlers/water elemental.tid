@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20220707212413049
-modified: 20220707213143015
+modified: 20220826185648728
 tags: elemental immortal
 tier: 2
 title: water elemental
+tooltip: elemental being of water; used in elemental binding to make galleons
 type: text/vnd.tiddlywiki
 
 A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water.

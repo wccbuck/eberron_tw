@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201210052433743
-modified: 20210727191953801
+modified: 20220824202244440
 tags: abjuration
 tier: 2
 title: alarm
+tooltip: set an audible or mental alarm on a gateway or area, triggered when a creature touches or enters the warded area
 type: text/vnd.tiddlywiki
 
 After a 1-minute ritual, you set an alarm against unwanted intrusion. Choose a door, a window, or an area within 30 feet that is no larger than a 20-foot cube. Until the spell ends up to 8 hours later, an alarm alerts you whenever a creature equal to or larger than the size of a rat touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is mental or audible.

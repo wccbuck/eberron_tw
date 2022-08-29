@@ -2,10 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20210409234342276
 highertier: show
-modified: 20220220210942649
+modified: 20220824203506762
 tags: psionics enchantment
 tier: 3
 title: confusion
+tooltip: each creature in a 10-foot-radius sphere is compelled to pursue random and unpredictable actions
 type: text/vnd.tiddlywiki
 
 This spell assaults and twists creatures' minds, spawning delusions and provoking uncontrolled action. Each creature in a 10-foot-radius sphere centered on a point you choose within 90 feet without the resolve to resist this spell are affected by it.

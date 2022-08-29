@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201217033505460
-modified: 20220715181753405
+modified: 20220824213400273
 tags: detection tool
 tier: 4
 title: crystal ball
+tooltip: magic item that allows the user to cast the "scrying" spell
 type: text/vnd.tiddlywiki
 
 This crystal sphere is typically about 6 inches in diameter. While touching it, you can cast the [[scrying]] spell with it.

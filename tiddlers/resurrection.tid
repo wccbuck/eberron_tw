@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201231191403499
-modified: 20211228174735832
+modified: 20220824202833645
 tags: [[divine magic]] necromancy
 tier: 4
 title: resurrection
+tooltip: return a creature to life who has been dead for no more than a century; 1-hour ritual that requires 100c in material components, and target must spend at least a week recovering
 type: text/vnd.tiddlywiki
 
 This spell requires a one-hour ritual and [[100c|money]] worth of ritual components, including [[holy water]], which are expended.

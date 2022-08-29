@@ -1,13 +1,14 @@
 [
     {
         "created": "20201225203938172",
-        "text": "The Moonspeakers are a [[druid]]ic sect of the [[Eldeen Reaches]] tied specifically to [[shifter]] traditions. Moonspeaker druids respect the totems\nassociated with the [[beast]] within—Grandmother Wolf, Cousin\nBear—but they don't see these spirits as gods. These beasts\nguide shifters from within—they don't shape the world itself. These totem spirits may share a connection with the totems of [[Lamannia]].\n\nThe Moonspeakers hold a valuable role among many [[Eldeen|Eldeen Reaches]] [[shifter]]s: Because they often travel from one shifter settlement to another, they maintain the bond between the distant and fragmented communities.",
+        "text": "The Moonspeakers are a [[druid]]ic sect of the [[Eldeen Reaches]] tied specifically to [[shifter]] traditions. The Moonspeakers hold a valuable role among many [[Eldeen|Eldeen Reaches]] [[shifter]]s; because they frequently travel from one shifter settlement to another, they maintain the bond between the distant and fragmented communities.\n\nMoonspeaker druids respect the totems\nassociated with the [[beast]] within—Grandmother Wolf, Cousin\nBear—but they don't see these spirits as gods. These beasts\nguide shifters from within—they don't shape the world itself. These totem spirits may share a connection with the totems of [[Lamannia]].\n\nThe following five spirits are usually associated with the beast within:\n\n* ''The Bear'' embodies strength and caution; in contrast to the Boar, the Bear pauses before taking rash action. Shifters tied to the Bear are typically [[beasthide]].\n* ''The Boar'' possesses great endurance and is celebrated for its honesty and lack of guile; however, it is also seen as being reckless and overly enthusiastic, often prone to rash action. Boar shifters are typically [[beasthide]].\n* ''The Rat'' is clever and stealthy. Lacking physical strength, Grandfather Rat uses wits to overcome his enemies. Rat shifters are usually [[swiftstride]], but can also be [[wildhunt]].\n* ''The Tiger'' is known for grace and speed, seen as a valiant hunter. In contrast to those guided by the Wolf or Rat, those touched by Tiger tend to be loners. Tigers are usually [[swiftstride]] or [[wildhunt]]. (As an aside, many shifter hunters may swear by \"Tiger's Blood\".)\n* ''The Wolf'' is considered wise and honorable, the pillar of a community and keeper of the druidic mysteries. Wolf shifters with a martial bent tend to be [[longtooth]] shifters, while druids guided by Grandmother Wolf are usually [[wildhunt]].",
         "type": "text/vnd.tiddlywiki",
         "title": "Moonspeakers",
         "tags": "druid",
-        "modified": "20220114013502628",
+        "modified": "20220828055242660",
         "color": "#9EC5FE",
         "category": "organization",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "druidic sect of the Eldeen Reaches tied to shifter traditions"
     }
 ]

@@ -1,13 +1,14 @@
 [
     {
         "created": "20210126015612159",
-        "title": "Harmonious Shield",
         "text": "The Harmonious Shield is the army that stands between\n[[Riedra]] and the countless dangers of the outside world.\nWhether they're fighting the \"treacherous\" [[kalashtar]] on\nthe [[Adar]]an front, combating [[dromite]] forays, hunting\n[[dwarves|dwarf]] in [[Dor Maleer]], or battling [[skulk]]s in the ruins\nof [[Ohr Kaluun]], the soldiers of the Harmonious Shield\nserve the [[Inspired]] on the field of battle.\n\nThe Harmonious Shield maintains garrisons in the\nbastion cities, and it has independent fortresses spread\nalong the borders and in areas deemed to be especially\ndangerous. The largest fortresses are called ''kintams''. They are connected by permanent psionic [[teleportation circle]]s, which allow swift transportation of troops and supplies. Kintams can be the size of cities, and new recruits are usually dispatched to a kintam to learn their trade.\n\nYears of psychic indoctrination teach soldiers that\nhonorable death in battle is the surest path to advancement\nin the next life. Discipline within the ranks is strict, and\nlooting and stealing are serious offenses. A soldier needs\nnothing that isn't given to him by the [[Inspired]]. The same\ntraining burns mercy and empathy from the minds of\nRiedran soldiers, so a servant of the Shield feels nothing\nfor the people he kills. This conditioning doesn't always\ntake hold, however, and a few recruits find themselves\nhorrified by the brutal actions they must perform. Such a\nwarrior must either suppress these emotions or find a way\nto escape before their \"weakness\" is discovered.\n\nRiedran warriors believe they are fighting for a holy cause against monsters and those corrupted by evil spirits. Fiercely devoted to their nation, they are no more evil than the typical [[Brelish|Breland]] conscript or knight of [[Thrane]].\n\nHarmonious Shield troops\nare commanded by [[Chosen]]\nand [[Inspired]]. The High Minister is the legendary\nLord [[Zoratesh]]. \n\nThe Harmonious Shield trains and equips troops for\na variety of roles. In addition to the formal divisions listed below, the Harmonious Shield sometimes utilizes uncategorized specialists. For example, the Shield has access to a small corps of [[cleric]]s of the [[Path of Inspiration]].\nThese holy warriors are\nreserved for the most\ndangerous and crucial\noperations. \n\n!! Divisions of the Harmonious Shield\n\n<<list-links-article \"[tag{!!title}sort[title]]\">>",
-        "modified": "20210727192012664",
+        "title": "Harmonious Shield",
+        "modified": "20220823204621350",
         "tags": "Riedra military",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "military of Riedra"
     }
 ]

@@ -2,10 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20201216174907225
 highertier: show
-modified: 20220220203210708
+modified: 20220824203304697
 tags: necromancy
 tier: 2
 title: animate dead
+tooltip: create an undead servant from a corpse, remains under your control for 24 hours
 type: text/vnd.tiddlywiki
 
 This spell creates an [[undead]] servant. Choose a pile of bones or a corpse of a [[humanoid]] or [[beast]] within 10 feet. Your spell, which takes one minute to perform, imbues the target with a foul mimicry of life, raising it as a [[zombie]] or [[ghoul]]. 

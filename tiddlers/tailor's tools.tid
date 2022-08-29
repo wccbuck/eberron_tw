@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20211203005854046
-modified: 20220216194155264
+modified: 20220824215700260
 tags: toolset [[equipment pack]]
 tier: 1
 title: tailor's tools
+tooltip: set of tools for repairing cloth or leather
 type: text/vnd.tiddlywiki
 
 Tailor's tools include thread, needles, and scraps of cloth, as well as leatherworking tools such as a knife, a small mallet, an edger, a hole punch, and leather scraps.

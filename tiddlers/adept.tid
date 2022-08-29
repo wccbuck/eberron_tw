@@ -1,9 +1,10 @@
 category: occupation
 color: #A3CFBB
 created: 20210412021212243
-modified: 20210727191953525
+modified: 20220826213654813
 tags: magewright
 title: adept
+tooltip: a magewright who channels divine magic instead of arcane
 type: text/vnd.tiddlywiki
 
 An adept is a kind of [[magewright]] who uses [[divine magic]] rather than [[arcane magic]] to perform their spells. They are able to touch the divine, but not with the full power of a [[cleric]], just as the magewright understands some of the principles of magic but not so well as the [[wizard]]. The term is not common in every community; some simply use the term "magewright", while others just use "priest". 

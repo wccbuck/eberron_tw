@@ -5,11 +5,12 @@
         "type": "text/vnd.tiddlywiki",
         "title": "City of the Dead",
         "tags": "dungeon Sharn quarter",
-        "modified": "20210924195219606",
+        "modified": "20220823191941785",
         "style": "{\"color\":\"#6B001B\",\"fillColor\":\"#8E0024\",\"fillOpacity\":0.3}",
         "polygons": "20.444,-24.416 20.433,-24.418 20.417,-24.419 20.404,-24.417 20.391,-24.41 20.377,-24.398 20.365,-24.39 20.367,-24.383 20.378,-24.38 20.388,-24.372 20.398,-24.366 20.409,-24.368 20.418,-24.361 20.433,-24.356 20.445,-24.361 20.454,-24.372 20.46,-24.387 20.455,-24.404",
         "color": "#96CC39",
         "category": "location",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "massive cemetery for the wealthiest citizens of Sharn"
     }
 ]

@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20210331141412341
-modified: 20210727192004349
+modified: 20220824185536399
 tags: divination
 tier: 2
 title: detect immortal
+tooltip: detect the presence and location of immortals within 30 feet of you for 10 minutes
 type: text/vnd.tiddlywiki
 
 For up to 10 minutes, you know if there is a [[celestial]], [[fiend]], or other [[immortal]] within 30 feet of you, as well as where the creature is located. For the purposes of this spell, [[undead]] and [[manifestation]]s also count as immortals. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.

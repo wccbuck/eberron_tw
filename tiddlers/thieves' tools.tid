@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20210102231636090
-modified: 20220703214534219
+modified: 20220824205708731
 tags: stealth toolset [[equipment pack]] mobility
 tier: 1
 title: thieves' tools
+tooltip: set of tools useful for opening locks or disarming traps
 type: text/vnd.tiddlywiki
 
 This set of tools includes a small file, a set of lockpicks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, a small clamp, and a pair of pliers. These tools are useful for opening locks or disarming traps.

@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201216173336883
-modified: 20210727192021684
+modified: 20220824203647561
 tags: illusion
 tier: 2
 title: mirror image
+tooltip: create three illusory duplicates of yourself that persist for up to 1 minute and can take a hit for you
 type: text/vnd.tiddlywiki
 
 Three illusory duplicates of yourself appear within 5 feet of you. Until the spell ends (up to one minute), the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. 

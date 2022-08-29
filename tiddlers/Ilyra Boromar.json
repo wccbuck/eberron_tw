@@ -1,13 +1,14 @@
 [
     {
         "created": "20200421173435534",
-        "title": "Ilyra Boromar",
         "text": "[[Bestan ir'Tonn]], [[Thurik Davandi]], and [[Caskar Halavik]] all have ties to the [[Boromar Clan]]. But Ilyra Boromar ([[halfling]] councilor for [[Lower Dura]]) is the Boromar Clan's personal representative on the [[Council|Sharn Council]]. She reports directly to her father [[Saidan Boromar]], and she has the authority to make executive decisions on behalf of the clan. Her allegiance is obvious, but the other council members generally politely overlook it; the Boromars are one of the [[Sixty]] families of [[Sharn]], and she does have the skills, credentials, and lineage to compete with any\nof the other councilors.\n\nOf all of the members of the council, Ilyra is the most ruthless and dangerous. The [[Boromar Clan]] prefers to avoid violence, but councilors who oppose Ilyra have disappeared in the past. However, the recent war with [[Daask]] has shaken her grip on the council. The Boromar Clan is no longer seen as an infallible, omnipotent force—and so far the majority councilors have refused to devote city resources to battling the [[Droaam]]ites setting up shop in Sharn. Most are quite pleased with the turn of events, and are waiting for the Boromars to be weakened further before they take any action.\n\n[[Thurik Davandi]], [[Bestan ir'Tonn]], and [[Caskar Halavik]] are Ilyra's allies, although Thurik and Bestan have been known to pursue their own agendas behind Ilyra's back. Her greatest enemies on the council are [[Borian Haldorak]], [[Sava Kharisa]], [[Kilk]],\nand [[Hruitt]]; these four are either unconcerned with the danger represented by the [[Boromar Clan]] or feel that their supporters are powerful enough to protect them from retribution. \n\nIlyra's daughter, [[Tig|Tig Boromar]], is a professor of economics at [[Morgrave University]].",
-        "modified": "20210727192014505",
+        "title": "Ilyra Boromar",
+        "modified": "20220828201542135",
         "tags": "[[Boromar Clan]] [[Sharn Council]] halfling humanoid Sharn",
         "type": "text/vnd.tiddlywiki",
         "article": "Councilor ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "Lower Dura representative on the Sharn Council"
     }
 ]

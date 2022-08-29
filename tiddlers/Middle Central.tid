@@ -3,15 +3,17 @@ color: #96CC39
 created: 20200414023852179
 fmwvar: fmw-middle
 linkto: Central Plateau
-modified: 20220107033811387
+modified: 20220828201659310
 polygons: 20.177,-24.601 20.187,-24.601 20.198,-24.596 20.206,-24.59 20.22,-24.588 20.227,-24.583 20.236,-24.575 20.245,-24.569 20.257,-24.564 20.269,-24.563 20.277,-24.561 20.289,-24.554 20.298,-24.546 20.304,-24.537 20.305,-24.527 20.297,-24.517 20.29,-24.507 20.29,-24.498 20.281,-24.487 20.27,-24.482 20.262,-24.474 20.247,-24.475 20.232,-24.482 20.214,-24.489 20.206,-24.5 20.2,-24.513 20.186,-24.52 20.175,-24.531 20.168,-24.544 20.165,-24.561 20.169,-24.579 20.173,-24.591
 style: {"fillOpacity": 0, "opacity": 0}
 tags: [[Central Plateau]] [[middle ward]] ward Sharn
 title: Middle Central
+tooltip: ward of Sharn, home to embassies, enclaves, and temples
 type: text/vnd.tiddlywiki
 
-This part of the city is a center for intrigue. The district
-of [[Ambassador Towers]] contains embassies and consulates from the Thronehold Nations, as well as [[Aerenal]] and [[Sarlona]]. Ambassador Towers is also home to the
+''Representative on the [[Sharn Council]]: [[Sorik Sensos]]''
+
+This ward of [[Sharn]] is a center for intrigue. The district of [[Ambassador Towers]] contains embassies and consulates from the [[Thronehold Nations|Treaty of Thronehold]], as well as [[Aerenal]] and [[Sarlona]]. Ambassador Towers is also home to the
 [[King's Citadel]], the headquarters of Brelish intelligence.
 Across the ward, the district of [[Dragon Towers]] holds the
 primary [[enclave]]s of the [[dragonmarked house]]s.

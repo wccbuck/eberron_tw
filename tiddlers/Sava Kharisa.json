@@ -1,13 +1,14 @@
 [
     {
         "created": "20200421165740748",
-        "title": "Sava Kharisa",
         "text": "Sava Kharisa ([[human]] councilor for [[Lower Central]]), one of the most outspoken members of the council, espouses a wide range of radical philosophies and political views. She honestly does the best she can to help all of the people of [[Sharn]],\ninstead of trying to advance her political career or protect her personal supporters. This has earned her many enemies on the [[Council|Sharn Council]], and if she's not careful the [[Boromar Clan]] could try to have her removed from office—permanently. Due to her radical views, connections, and desire to fight corruption, Sava makes an excellent choice as a patron for adventurers. ",
-        "modified": "20210727192029577",
+        "title": "Sava Kharisa",
+        "modified": "20220828201757417",
         "tags": "[[Sharn Council]] human humanoid Sharn",
         "type": "text/vnd.tiddlywiki",
         "article": "Councilor ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "Lower Central representative on the Sharn Council"
     }
 ]

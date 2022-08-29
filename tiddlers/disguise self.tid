@@ -3,10 +3,11 @@ category: spell
 color: #B7A1E0
 created: 20201216172239039
 highertier: show
-modified: 20220722221255000
+modified: 20220824173618443
 tags: illusion
 tier: 2
 title: disguise self
+tooltip: make yourself look different for up to 2 hours, as an illusion that fails to hold up to physical inspection
 type: text/vnd.tiddlywiki
 
 You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different for up to two hours or until you dismiss the spell. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.

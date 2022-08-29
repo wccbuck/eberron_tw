@@ -1,8 +1,8 @@
 color: #092F1E
 created: 20210718042338828
-modified: 20220805160008277
+modified: 20220823191643692
 title: ward
-tooltip: a location which is a division of a city, usually more strictly defined than 'district'
+tooltip: a location which is a division of a city, sometimes contains several districts
 type: text/vnd.tiddlywiki
 
 !!! <<showplace-type>>

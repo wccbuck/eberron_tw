@@ -3,12 +3,15 @@ color: #96CC39
 created: 20200414042823890
 fmwvar: fmw-lower
 linkto: Dura
-modified: 20210924194810280
+modified: 20220828201430268
 polygons: 20.458,-24.649 20.437,-24.657 20.403,-24.672 20.392,-24.668 20.371,-24.668 20.354,-24.67 20.334,-24.677 20.311,-24.686 20.295,-24.694 20.28,-24.695 20.258,-24.697 20.237,-24.704 20.214,-24.711 20.197,-24.712 20.167,-24.71 20.136,-24.706 20.118,-24.7 20.095,-24.692 20.081,-24.681 20.074,-24.672 20.057,-24.666 20.038,-24.657 20.023,-24.644 20.021,-24.639 20.047,-24.618 20.059,-24.631 20.083,-24.637 20.093,-24.642 20.121,-24.647 20.146,-24.649 20.172,-24.643 20.2,-24.643 20.221,-24.639 20.238,-24.624 20.254,-24.611 20.277,-24.598 20.296,-24.593 20.31,-24.582 20.335,-24.58 20.357,-24.57 20.373,-24.55 20.387,-24.533 20.405,-24.522 20.421,-24.509 20.435,-24.495 20.441,-24.516 20.443,-24.537 20.438,-24.559 20.435,-24.582 20.434,-24.603 20.442,-24.622 20.447,-24.642
 style: {"fillOpacity": 0, "opacity": 0}
 tags: Dura [[lower ward]] ward Sharn
 title: Lower Dura
+tooltip: poorest ward of Sharn, the domain of gangs and crime lords
 type: text/vnd.tiddlywiki
+
+''Representative on the [[Sharn Council]]: [[Ilyra Boromar]]''
 
 The aptly named [[Precarious]] district in Lower Dura
 leans out over the edge of the cliffs, and the Skydocks—a system using gigantic arcane cranes and levitation—carry material up from [[Cliffside]] and the docks.

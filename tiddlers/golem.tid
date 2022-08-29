@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210104050545330
-modified: 20220710190052236
+modified: 20220826215014194
 tags: construct
 tier: 3
 title: golem
+tooltip: magically created constructs infused with an elemental spirit
 type: text/vnd.tiddlywiki
 
 Golems are magically created [[construct]]s. They are made from humble materials—clay, flesh and bones, iron, or stone—but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator's orders, and it protects or attacks as that creator demands.

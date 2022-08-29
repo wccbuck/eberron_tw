@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20210808004802487
-modified: 20220216194155331
+modified: 20220824214905356
 tags: toolset [[equipment pack]]
 tier: 1
 title: tinker's tools
+tooltip: set of tools that allow you to repair mundane items or create improvised devices
 type: text/vnd.tiddlywiki
 
 A set of tinker's tools allows the user to repair many mundane objects. Though you can't manufacture much with tinker's tools, you can mend torn clothes, sharpen a worn sword, and patch a tattered suit of chain mail.

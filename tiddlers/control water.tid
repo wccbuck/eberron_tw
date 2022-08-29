@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20210424044736792
-modified: 20210727192002053
+modified: 20220824173521460
 tags: [[primal magic]] transmutation
 tier: 3
 title: control water
+tooltip: for up to 10 minutes, control freestanding water in a 100-foot-square area in one of four specific ways
 type: text/vnd.tiddlywiki
 
 For up to 10 minutes (or until your concentration breaks), you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side within 300 feet. You can choose from any of the following effects when you cast this spell, and throughout the duration of the spell you can continue to choose different effects.

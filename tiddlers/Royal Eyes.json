@@ -1,13 +1,14 @@
 [
     {
         "created": "20201222053525289",
-        "title": "Royal Eyes",
         "text": "[[Aundair]] is renowned for its [[wizard]]s, and the Royal Eyes of Aundair excel at spellcraft and [[divination]]—almost every agent of the Royal Eyes has an\narcane advantage. Agents spy on other nations, pursue\nnotorious criminals, and engage in a host of other\nwand-and-dagger missions for the crown. \n\nThe Royal Eyes lack the sheer number of sources and boots on the ground that the [[Dark Lanterns|King's Dark Lanterns]] cultivated prior to the outbreak of the [[Last War]]. Stil, they are one of the premier intelligence agencies in [[Khorvaire]].\n\nWhile the Royal Eyes ultimately report to Queen [[Aurala|Aurala ir'Wynarn]], the day-to-day operations are handled by her spymaster [[Thuel Racannoch]]. The headquarters of the Royal Eyes is the [[Tower of the Eyes]] in [[Fairhaven]].",
-        "modified": "20210727192029045",
+        "title": "Royal Eyes",
+        "modified": "20220826190123228",
         "tags": "[[intelligence agency]] Aundair",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "intelligence agency of Aundair"
     }
 ]

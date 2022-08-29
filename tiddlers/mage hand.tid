@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20200428222537269
-modified: 20211228190332538
+modified: 20220824173707321
 tags: conjuration psionics
 tier: 1
 title: mage hand
+tooltip: make a spectral floating hand that persists for 1 minute; control the hand at will within 30 feet
 type: text/vnd.tiddlywiki
 
 A spectral, floating hand appears at a point you choose within 30 feet. The hand lasts for 1 minute or until you dismiss it. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.

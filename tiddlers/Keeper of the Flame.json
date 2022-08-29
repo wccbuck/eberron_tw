@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Keeper of the Flame",
         "tags": "[[Silver Flame]] Flamekeep",
-        "modified": "20220506023132829",
+        "modified": "20220823210016242",
         "color": "#A3CFBB",
         "category": "occupation",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "the head of the Church of the Silver Flame, an intermediary between the Voice and the faithful"
     }
 ]

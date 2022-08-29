@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200415195816731
-modified: 20220109012458679
+modified: 20220828204252762
 points: 43.588,-14.69
 population: 80000
 style: {"color": "#8E0024"}
 tags: Aundair city
 title: Passage
+tooltip: Aundairian city near the border with Eldeen Reaches; headquarters of House Orien
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

@@ -2,10 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20201210003640687
 highertier: show
-modified: 20220220212913040
+modified: 20220824172406673
 tags: [[divine magic]] evocation
 tier: 1
 title: light
+tooltip: an object you touch glows brightly for up to an hour
 type: text/vnd.tiddlywiki
 
 The spellcaster touches one object that is no larger than 10 feet in any dimension. For up to an hour, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be any color the spellcaster chooses. Completely covering the object with something opaque blocks the light. The spell ends if cast again or dismissed.

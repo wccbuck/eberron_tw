@@ -2,10 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20201210052739966
 highertier: show
-modified: 20220220212425802
+modified: 20220824164536800
 tags: enchantment
 tier: 2
 title: suggestion
+tooltip: suggest a course of activity to a creature; they pursue that activity for up to 8 hours
 type: text/vnd.tiddlywiki
 
 You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within 30 feet that can hear and understand you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.
