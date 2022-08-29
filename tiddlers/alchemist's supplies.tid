@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20210808192416194
-modified: 20220216194154761
+modified: 20220824214945774
 tags: toolset [[equipment pack]]
 tier: 1
 title: alchemist's supplies
+tooltip: set of tools for making alchemical creations
 type: text/vnd.tiddlywiki
 
 This satchel of [[alchemist]]'s supplies includes two glass beakers, a metal frame to hold a beaker in place over an open flame, a glass stirring rod, a small mortar and pestle, and a pouch of common alchemical ingredients, including salt, powdered iron, and purified water.

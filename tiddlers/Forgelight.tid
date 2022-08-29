@@ -1,11 +1,12 @@
 category: location
 color: #96CC39
 created: 20210304062818453
-modified: 20210827214137450
+modified: 20220828200445610
 polygons: 1.234,-42.699 1.238,-42.687 1.239,-42.674 1.248,-42.667 1.252,-42.656 1.252,-42.652 1.264,-42.648 1.277,-42.648 1.285,-42.646 1.3,-42.645 1.309,-42.643 1.316,-42.626 1.336,-42.627 1.372,-42.628 1.385,-42.63 1.359,-42.635 1.355,-42.644 1.355,-42.678 1.352,-42.7 1.334,-42.708 1.324,-42.714 1.319,-42.711 1.307,-42.702 1.298,-42.701 1.287,-42.705 1.276,-42.699 1.265,-42.697 1.254,-42.698 1.242,-42.704 1.238,-42.702
 style: {"color":"#6B001B","fillColor":"#8E0024","fillOpacity":0.3}
 tags: district Stormreach
 title: Forgelight
+tooltip: industrial district of Stormreach, mercenary services, headquarters of the Iron Watch
 type: text/vnd.tiddlywiki
 
 ''Population:'' Predominantly [[human]], along with

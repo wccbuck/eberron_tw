@@ -1,13 +1,14 @@
 [
     {
         "created": "20210303174323828",
-        "title": "Stormreach Guard",
         "text": "Anyone who knows how to use a sword can try for a place in the [[Stormreach]] Guard. Your past is irrelevant; all that matters is your willingness to forget past loyalties and to serve the [[Storm Lords]]. As a result,\nthe guard is a mixture of ruffians, war criminals\nand fugitives from the [[Five Nations]], former soldiers\nstill itching for a fight, and a handful of people who\nactually care about the law. They randomly patrol the\nstreets and are as likely to ignore a [[crime|Crime in Stormreach]] as they are\nto intervene.\n\nGuards who do their best to uphold justice find\nthe obstacles in their path daunting. Rampant corruption in the Guard’s upper echelons makes displays of heroics potentially threatening to a guard’s\ncontinued employment. By doing their job, these\ndevoted guards put pressure on their fellows to do the\nsame, and the city’s rabble is much easier to dupe when\nno one steps out of line to help them. Also, busting\ncriminals who paid bribes to higher-ranking guards\nensures dire consequences.\n\nThe city’s [[gang|Crime in Stormreach]]s and [[militia]]s are well aware of the\nGuard’s boundaries. They know the battlegrounds that guards will leave alone. The [[Titans]] might fight the [[Storm Hammers]] in the alleys of [[Dannel's Pride]], but they would never cross blades in the heart of the [[Marketplace]]. Common sense is the key to avoiding an encounter with the Stormreach Guard or the [[Iron Watch]]; you can brawl freely in [[Locksmith Square]], but keep your sword in its sheath in [[Respite]].\n\nThe ''Stormreach Recruiters'' seek to recruit loyal soldiers for the Guard. Anyone who joins the Guard and completes the three-month training has all past crimes wiped away; many change their names to reflect this new beginning. The [[Storm Lords]]\nhave extradited criminals before, but they stand by the Stormreach Guard. As long as guards serve the lords faithfully, they can leave their pasts behind. \n\nRecruiting, training, and management of the Stormreach Guard is handled by the [[Amanatu family]]. The [[Omaren family]] is tasked with outfitting the Guard.",
-        "modified": "20210727192034840",
+        "title": "Stormreach Guard",
+        "modified": "20220823200353578",
         "tags": "[[law enforcement]] Stormreach",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "law enforcement of Stormreach"
     }
 ]

@@ -1,0 +1,13 @@
+[
+    {
+        "created": "20200415171423053",
+        "text": "<div style=\"float: left; width: 100px;\">{{$:/plugins/wccbuck/storm.svg}}</div> Wind and water welcome the half-elves who carry the Mark of Storm, and some learn to call on the power of\nthe storm itself. Bearers can resist the elements and endure lightning strikes, command the wind and sea, and with the assistance of [[dragonshard]] focus items, pilot [[airship]]s and [[elemental galleon]]s.\n\nOnly a [[half-elf]] with ties to House [[Lyrandar]] can manifest this [[dragonmark]].\n\nSee also [[Mark of Storm (talent)]].\n\n!! {{!!title}} Focus Items\n\nThe following [[dragonmark focus item]]s require a {{!!title}}.\n\n<<list-links-article \"[tag[dragonmark focus item]] -[tag[dragonmark]!title{!!title}tagging[]] +[sort[title]]\">>",
+        "title": "Mark of Storm",
+        "modified": "20220826181307184",
+        "tags": "dragonmark",
+        "type": "text/vnd.tiddlywiki",
+        "category": "phenomenon",
+        "color": "#432874",
+        "tooltip": "half-elf dragonmark, House Lyrandar, allows wielder to command wind and sea, and pilot airships and elemental galleons "
+    }
+]

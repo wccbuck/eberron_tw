@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20201216225006871
-modified: 20220227210050694
+modified: 20220826182559346
 tags: dragonmark
 title: Mark of Death
+tooltip: elf dragonmark, connected to line of Vol, facilitated interaction with the dead and undead; now believed to be extinct
 type: text/vnd.tiddlywiki
 
 <div style="float: left; width: 100px;">{{$:/plugins/wccbuck/death.svg}}</div> Any citizen of the [[Five Nations]] can name the

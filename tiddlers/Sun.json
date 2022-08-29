@@ -1,12 +1,14 @@
 [
     {
         "created": "20210407151506457",
-        "title": "Sun",
         "text": "In the Progenitor Myth, the three [[Progenitor Dragons]] rested in the Material Plane after creating the [[plane]]s. They created the sun, Arrah, much as mortals might kindle a campfire. This fire remained even after their battle, and continues to provide light, heat, and comfort to the world. Like [[Irian]], the sun also radiates positive energy that can harm or debilitate many kinds of [[Mabar]]an [[undead]].\n\nThe power of sunlight can be captured in various [[magic item]]s. The most powerful such artifact is a globe of light known as the Summer Sun at the top of the [[feyspire]] [[Pylas Pyrial]].\n\nIn the [[Sovereign Host]], [[Dol Arrah]] is the Sovereign of Sun and Sacrifice; her name is, essentially, “The Warrior Sun.”",
-        "modified": "20210727192035226",
+        "title": "Sun",
+        "modified": "20220826180946599",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "cosmology",
-        "color": "#432874"
+        "color": "#432874",
+        "alternatetitle": "Arrah",
+        "tooltip": "cosmic source of light, heat, and positive energy; \"Arrah\", the bonfire of the Progenitors"
     }
 ]

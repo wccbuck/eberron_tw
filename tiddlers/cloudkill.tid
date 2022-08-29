@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201210053239153
-modified: 20210727192001528
+modified: 20220824172458965
 tags: conjuration
 tier: 3
 title: cloudkill
+tooltip: create a 20-foot-radius sphere of acidic fog, lasts for up to 10 minutes
 type: text/vnd.tiddlywiki
 
 The spellcaster creates a 20-foot-radius sphere of acidic, yellow-green fog centered on a point within 100 feet. The fog spreads around corners, and its area is heavily obscured. The fog lasts for 1-10 minutes, or until dispersed by a strong wind. The vapors are heavier than air and roll along the surface of the ground.

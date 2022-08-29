@@ -1,7 +1,7 @@
 caption: Organizations
 created: 20210228202858619
 limit50: [limit[50]]
-modified: 20211125061548626
+modified: 20220823213028024
 tags: 
 title: Find Organizations
 type: text/vnd.tiddlywiki
@@ -59,7 +59,7 @@ type: text/vnd.tiddlywiki
 		</div>
 		<div class="tc-manager-control">
 		<$button><<resetorgs>>Reset All Fields</$button> <$button>
-<$action-chooserandom $filter="[all{$:/config/Manager/Show}subfilter<org-type>category[organization]regexp<capitalized>!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/OrgTag}tag:strict{$:/config/Manager/OrgTag2}!tag{$:/config/Manager/ExcludeOrgTag}]" $nav="true"/>Open Random</$button>
+<$action-chooserandom $filter="[all{$:/config/Manager/Show}subfilter<org-type>category[organization]!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/OrgTag}tag:strict{$:/config/Manager/OrgTag2}!tag{$:/config/Manager/ExcludeOrgTag}]" $nav="true"/>Open Random</$button>
 		</div>
 		<div class="tc-manager-control" align="right">
 			<$list filter={{$:/config/Manager/LimitOrg}} variable="count">
@@ -73,7 +73,7 @@ type: text/vnd.tiddlywiki
 	<div class="tc-manager-list">
 		<table class="manager-table">
 		<tr><th align="left" class="th-sticky">Organization</th><th align="left" width="60%" class="th-sticky">Tags</th></tr>
-		<$list filter="[all{$:/config/Manager/Show}subfilter<org-type>category[organization]regexp<capitalized>!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/OrgTag}tag:strict{$:/config/Manager/OrgTag2}!tag{$:/config/Manager/ExcludeOrgTag}sort{$:/config/Manager/OrgSort}order{$:/config/Manager/OrgSortOrder}subfilter{$:/config/Manager/LimitOrg!!limit50}]">
+		<$list filter="[all{$:/config/Manager/Show}subfilter<org-type>category[organization]!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/OrgTag}tag:strict{$:/config/Manager/OrgTag2}!tag{$:/config/Manager/ExcludeOrgTag}sort{$:/config/Manager/OrgSort}order{$:/config/Manager/OrgSortOrder}subfilter{$:/config/Manager/LimitOrg!!limit50}]">
 		<tr><td>{{!!article}}<$link/></td>
 		<td>
 			<$list filter="[is[current]tags[]sort[]butlast[]]">

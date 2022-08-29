@@ -1,8 +1,8 @@
 category: talent
 created: 20210725173949205
-modified: 20220806221437928
+modified: 20220825231625786
 title: Spellcaster
-tooltip: talent which allows a player character to cast spells
+tooltip: talent which allows a player character to cast spells (2 common/uncommon or 1 rare)
 type: text/vnd.tiddlywiki
 xpcost: 1
 

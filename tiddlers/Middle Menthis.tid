@@ -3,12 +3,15 @@ color: #96CC39
 created: 20200414173109500
 fmwvar: fmw-middle
 linkto: Menthis Plateau
-modified: 20211111221640830
+modified: 20220828202540527
 polygons: 20.093,-24.596 20.103,-24.599 20.117,-24.597 20.121,-24.586 20.126,-24.578 20.121,-24.571 20.119,-24.563 20.125,-24.556 20.125,-24.548 20.125,-24.54 20.128,-24.537 20.13,-24.527 20.134,-24.521 20.141,-24.516 20.148,-24.512 20.151,-24.505 20.152,-24.497 20.147,-24.491 20.144,-24.482 20.137,-24.476 20.13,-24.477 20.123,-24.48 20.112,-24.483 20.104,-24.479 20.098,-24.476 20.089,-24.474 20.079,-24.479 20.074,-24.487 20.068,-24.504 20.062,-24.521 20.061,-24.531 20.065,-24.548 20.061,-24.555 20.065,-24.563 20.066,-24.576 20.062,-24.582 20.064,-24.588 20.071,-24.591 20.075,-24.597 20.079,-24.6 20.087,-24.598
 style: {"fillOpacity": 0, "opacity": 0}
 tags: [[Menthis Plateau]] [[middle ward]] ward Sharn
 title: Middle Menthis
+tooltip: most diverse ward of Sharn, home to theaters and merchants
 type: text/vnd.tiddlywiki
+
+''Representative on the [[Sharn Council]]: [[Caskar Halavik]]''
 
 Middle Menthis boasts the most diverse population of
 any ward in [[Sharn]]. The [[Little Plains]] district is the destination for [[halfling]] immigrants from the [[Talenta Plains]].
@@ -19,9 +22,8 @@ the [[Lhazaar Principalities]] have settled in the [[Warden Towers]] district, w
 now, this area has become a haven for Cyrans wealthy
 enough to escape the refugee camps of [[High Walls]].
 
-One of the most prominent attractions In Smoky Towers is the [[Classic Theater]]. The place lives up to its name
-by staging only traditional works written before the start
-of the Last War. Although the [[Grand Stage]] in the [[University District]] also performs more recent works echoing the classical style, the Classic has a stated policy of
+One of the most prominent attractions in [[Smoky Towers]] is the [[Classic Theater]]. The place lives up to its name by staging only traditional works written before the start
+of the [[Last War]]. Although the [[Grand Stage]] in the [[University District]] also performs more recent works echoing the classical style, the Classic has a stated policy of
 not even considering new works.
 
 The [[Everbright]] district might be of particular interest

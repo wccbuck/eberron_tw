@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20210331142002906
-modified: 20210727192026143
+modified: 20220824165353586
 tags: abjuration
 tier: 2
 title: protection from immortals
+tooltip: protect a creature you touch from immortals' attacks, charms, and possessions
 type: text/vnd.tiddlywiki
 
 For up to 10 minutes, one willing creature you touch is protected against [[celestial]]s, [[fiend]]s, and other [[immortal]]s. For the purposes of this spell, [[undead]] and [[manifestation]]s also count as immortals.

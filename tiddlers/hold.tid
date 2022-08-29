@@ -2,10 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20201216171252210
 highertier: show
-modified: 20220220211358960
+modified: 20220824173820904
 tags: enchantment
 tier: 2
 title: hold
+tooltip: paralyze a humanoid within 90 feet for up to 1 minute
 type: text/vnd.tiddlywiki
 
 Choose a [[humanoid]] that you can see within 90 feet. If the target cannot resist your enchantment, it is paralyzed for up to 1 minute, or until your concentration is broken. While paralyzed, the creature freezes in place and cannot move or speak.

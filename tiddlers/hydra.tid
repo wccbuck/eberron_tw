@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210304065416568
-modified: 20220127201829813
+modified: 20220826211554159
 tags: monstrosity
 tier: 3
 title: hydra
+tooltip: monstrosity with crocodilian body and multiple serpentine heads; heraldic emblem of Phiarlan
 type: text/vnd.tiddlywiki
 
 The hydra is a reptilian horror with a crocodilian body and multiple heads on long, serpentine necks. Although its heads can be severed, the hydra magically regrows them in short order. A typical specimen has five heads. When a hydra sleeps, at least one of its heads remains awake and alert, making the creature difficult to catch by surprise. These creatures can be found on the continent of [[Xen'drik]], particularly in the [[Marsh of Desolation]].

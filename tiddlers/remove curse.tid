@@ -1,11 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201216171023742
-modified: 20220805224323033
+modified: 20220824163422505
 tags: abjuration
 tier: 2
 title: remove curse
-tooltip: uncommon abjuration spell, end all curses affecting one creature or object you touch
+tooltip: end all curses affecting one creature or object you touch
 type: text/vnd.tiddlywiki
 
 At your touch, all curses affecting one creature or object end. If the object is a [[cursed]] [[magic item]], its curse remains, but the spell breaks its owner's [[attunement]] to the object so it can be removed or discarded.

@@ -1,10 +1,9 @@
-category: organization
 color: #052c65
 created: 20200417022452769
-list-before: 
-modified: 20210727192027834
+modified: 20220823212146373
 tags: [[organization type]]
 title: religion
+tooltip: tag for religious organizations, as well as a summary of religion in Eberron
 type: text/vnd.tiddlywiki
 
 Religion plays an important role in [[Eberron]]. The gods

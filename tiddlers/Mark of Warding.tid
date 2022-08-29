@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20200415172030671
-modified: 20220227213359187
+modified: 20220826181738200
 tags: dragonmark
 title: Mark of Warding
+tooltip: dwarf dragonmark, House Kundarak, allows wielder to create protective wards and locks
 type: text/vnd.tiddlywiki
 
 <div style="float: left; width: 100px;">{{$:/plugins/wccbuck/warding.svg}}</div> The Mark of Warding helps its bearers protect things of

@@ -1,5 +1,5 @@
 created: 20201208005116699
-modified: 20220218171504973
+modified: 20220823211853828
 tags: $:/tags/Macro
 title: $:/core/macros/managermacros
 type: text/vnd.tiddlywiki
@@ -32,7 +32,7 @@ type: text/vnd.tiddlywiki
 </$vars>
 \end
 
-\define capitalized() ^([A-Z]|ir'|il-).*
+\define capitalized() ^([A-Z]|ir'|il-|\').*
 \define ppl-ent() [category[person]] [category[entity]]
 
 \define table-body-org(item, firstitem)
@@ -107,7 +107,7 @@ type: text/vnd.tiddlywiki
 \end
 
 \define tv-wikilink-tooltip()
-<$transclude field="tooltip"><$transclude field="tooltip"/></$transclude>
+{{!!article}}{{!!title}}<$list filter="[<currentTiddler>category[object]has[tier]!tier[0]]" variable="noop"> (<$transclude tiddler="$:/RarityNames" index={{!!tier}}/>-rarity magic item)</$list><$list filter="[<currentTiddler>category[creature]has[tier]]" variable="noop"> (tier {{!!tier}} creature)</$list><$list filter="[<currentTiddler>category[spell]has[tier]]" variable="noop"> (<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>-tier spell)</$list><$list filter="[<currentTiddler>has[tooltip]]" emptyMessage="&#13;(category: {{!!category}})" variable="noop">:&#13;{{!!tooltip}}</$list>
 \end
 
 \define tt(text,tid) <$reveal type="match" text="" default="""$tid$"""><span class="tooltip"><$link to="$text$"/><$list filter="[[$text$]has[tooltip]]" emptyMessage=""><span class="tooltiptext tooltip-right"><$view tiddler="$text$" field="tooltip"/><<tooltip>></span></$list></span></$reveal><$reveal type="nomatch" text="" default="""$tid$"""><span class="tooltip"><$link to="$tid$">$text$</$link><$list filter="[[$tid$]has[tooltip]]" emptyMessage=""><span class="tooltiptext tooltip-right"><$view tiddler="$tid$" field="tooltip"/><<tooltip>></span></$list></span></$reveal>

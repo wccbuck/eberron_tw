@@ -5,10 +5,11 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Moon Breaker",
         "tags": "[[eldritch machine]] tool",
-        "modified": "20220706174252562",
+        "modified": "20220824205401020",
         "tier": "5",
         "color": "#41D5E1",
         "category": "object",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "weapon of cataclysmic power that the titans of Xen'drik used to throw the plane of Dal Quor out of alignment during the Age of Giants"
     }
 ]

@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20210425062633634
-modified: 20210727192001757
+modified: 20220829053142221
 tags: [[divine magic]]
 tier: 3
 title: commune
+tooltip: contact a divine entity and ask three yes-or-no questions
 type: text/vnd.tiddlywiki
 
 After a one minute ritual, you contact your [[deity]] or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends (1 minute). You receive a correct answer for each question.

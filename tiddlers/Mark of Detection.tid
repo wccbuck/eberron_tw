@@ -1,15 +1,13 @@
 category: phenomenon
 color: #432874
 created: 20200415034919312
-modified: 20220227210058823
+modified: 20220826182906559
 tags: dragonmark
 title: Mark of Detection
+tooltip: half-elf dragonmark, House Medani, allows wielder to detect threats of all kinds
 type: text/vnd.tiddlywiki
 
-<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/detection.svg}}</div> The Mark of Detection is an [[inquisitive]]'s dream. It
-sharpens powers of observation and intuition, allowing the bearer to draw connections and interpret clues
-others might miss. By actively drawing on its powers,
-the bearer can discern the presence of threats, from poisoned food to scrying eyes.
+<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/detection.svg}}</div> The Mark of Detection is an [[inquisitive]]'s dream. It sharpens powers of observation and intuition, allowing the bearer to draw connections and interpret clues others might miss. By actively drawing on its powers, the bearer can discern the presence of threats, from poisoned food to scrying eyes.
 
 Only a [[half-elf]] with ties to House [[Medani]] can manifest this [[dragonmark]].
 

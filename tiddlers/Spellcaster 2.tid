@@ -1,7 +1,8 @@
 category: talent
 created: 20211127001616165
-modified: 20220710000144525
+modified: 20220825231730836
 title: Spellcaster 2
+tooltip: talent which allows a player character to cast spells (6 common/uncommon, 2 rare, or 1 epic)
 type: text/vnd.tiddlywiki
 xpcost: 2
 

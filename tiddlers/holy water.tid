@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20211228174549344
-modified: 20220110034320589
+modified: 20220824212834016
 tags: material
 tier: 0
 title: holy water
+tooltip: water suffused by positive energy; used in rituals, and harmful to fiends and Mabaran undead
 type: text/vnd.tiddlywiki
 
 Holy water is water that has been infused with positive energy, such as from the [[plane]] of [[Irian]], or by the touch of a [[celestial]], or by some religious ritual. It is used in various [[divine magic]] rituals and abjurations, but can also be used as a weapon against [[fiend]]s and [[Mabar]]an [[undead]]. When splashed on such a creature, the target suffers acid and/or radiant damage.

@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20210421035333224
-modified: 20210727192035179
+modified: 20220824175035567
 tags: conjuration
 tier: 2
 title: summon familiar
+tooltip: summon and gain the service of a small immortal spirit; you can sense what it senses and communicate with it telepathically
 type: text/vnd.tiddlywiki
 
 This ritual takes 1 hour to cast, and requires the expenditure of [[1c|money]] worth of incense and herbs or other such material components. You gain the service of a [[familiar]], a small [[immortal]] spirit that takes on a form you choose. This [[celestial]], [[fey]], [[elemental]], or [[fiend]] can take a variety of [[beast]] forms, including but not limited to: a bat, cat, crab, toad, hawk, lizard, octopus, owl, snake, fish, rat, raven, sea horse, spider, or weasel. Other forms are also possible, such as that of a [[swiftclaw]], [[tressym]], [[imp]], [[quasit]], [[gazer]], [[pixie]], [[pseudodragon]], [[mephit]], or even stranger forms such as a floating skull, a floating [[warforged]] faceplate, a [[crawling claw]], or a tiny [[ooze]].

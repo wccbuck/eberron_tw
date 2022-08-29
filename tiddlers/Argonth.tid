@@ -1,10 +1,11 @@
 category: location
 color: #4C8201
 created: 20200415195307443
-modified: 20210820070020330
-population: 7500
+modified: 20220826065217357
+population: 1600
 tags: Breland fortress city
 title: Argonth
+tooltip: floating fortress of Breland
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>
@@ -17,42 +18,54 @@ cities. Of these latter creations, only two remain active to
 the current day. The most famous of these is Argonth, the
 largest engine of war ever built. (The other is [[Dejarn]]; others such as [[Chydris]] were destroyed during the [[Last War]]).
 
-Argonth, a massive structure that appears to be part
-fortress, part cliffside, and part cityscape, floats above the
-ground and slowly moves from place to place. The town
-might be along the shore of [[Silver Lake]] one day and sliding
-beside the [[Droaam]] border the next. The floating town was designed as a mobile fortress to help defend [[Breland]] during the [[Last War]]. Currently Argonth patrols the edge of the [[Mournland]], but if tensions rise with
-[[Droaam]] or [[Darguun]], the fortress can be deployed to
-reinforce a threatened border.
+Argonth, a massive structure that appears to be part fortress, part cliffside, and part cityscape, floats above the ground and slowly moves from place to place. The floating town was designed as a mobile fortress to help defend [[Breland]] during the [[Last War]]. Once the most imposing weapon in Breland's arsenal, Argonth carries over a thousand soldiers and enough [[arcane artillery]] to level a village. 
 
-The Captain of Argonth is ''Alain ir’Ranek''. He leads the troops and support
-personnel that make up Argonth’s citizenry. The mobile
-fortress moves at a steady two miles per hour as it traces its
-patrol route, but its speed can be increased to as much as
-ten miles per hour when the need arises. The increased
-speed requires a lot of power and puts a strain on the
-fortress’s resources, and thus such speed is called upon
-only in emergency situations.
+The fortress patrolled the edge of the [[Mournland]] for the last four years, but in 998 YK, King [[Boranel|Boranel ir'Wynarn]] assigned Argonth to the southern stretch of the western frontier of Breland, between [[Unicorn Point]] and [[Threshold]]. Its presence here shows that Boranel recognizes the growing power of [[Droaam]] and the potential for renewed conflict. While its mobility is useful, Argonth only has a sustainable cruising speed of 3 miles per hour, and it can easily be avoided by mounted brigands or smugglers. But while it may not be able to intercept a small force of [[minotaur]] reavers, it can hold the [[Border Road]] against a force of thousands if it comes to war.
 
-The citizens of Argonth are all in the [[Breland]] military, and the town operates under military protocols. In
-the past, it has served as a base of operations for enemy
-engagements, as a support center for stationary castles,
-and as an attack platform when Brelish troops crossed
-into enemy territory. Now its role is to patrol and protect
-Breland from raiders, marauders, and the potential threat
-of hostile armies from neighboring nations or the wastes of the [[Mournland]]. 
+There is a second reason [[Boranel|Boranel ir'Wynarn]] has assigned Argonth to the frontier. Impressive as it is, Argonth is almost eighty years old and it is one of the last of the floating fortresses. Breland stopped building the fortresses in 970 YK; military strategy has shifted, and Breland is currently following other paths, including developing air forces and improving artillery. On the [[Aundair]]ian border, Argonth would be something of a relic. But on the frontier, Argonth serves as a check on the [[Droaam]]ite forces stationed at [[Graywall]] and as a symbol of [[Breland]]’s determination to hold the region.
 
-Every few weeks, Argonth stops to take on supplies.
-When this occurs, a market grows up around the town
-where those nearby can come to trade and share news with
-the soldiers harbored within the mobile fortress. Visitors
-rarely receive permission to enter Argonth, so the next
-best thing for them is to interact with the soldiers and
-support personnel at a market festival.
+Argonth is an active fortress. It has the population of a small town, but it is a population of soldiers. Over fourteen hundred crewmembers are combat-ready, with the remainder being dedicated solely to support and administration. It’s not open to the public, but if you’re a Brelish noble or soldier—or if you have legitimate business that concerns the commander—you may be able to arrange a visit.
 
-Argonth has become home to a number of [[warforged]]
-veterans who have pledged their swords to the [[Brelish|Breland]]
-crown. Two of the more influential warforged are ''Big Bara'', who
-commands a company of scouts known as Bara’s Breakers, and ''Finias Wandhand'', who never fought in the [[Last War]] but instead
-became fascinated with the [[arcane|arcane magic]] arts. Currently, Finias
-is under the tutelage of ''Eera ir'Jalon'' ([[human]] [[wizard]]), Argonth’s master of magic.
+!! Interesting Things About Argonth
+
+* When stationary, Argonth hovers approximately 20 feet off the ground. It can rise up to 40 feet if necessary. It ignores terrain and can float above the surface of water. This is important, as few bridges are wide enough for a floating town!
+* Argonth has nine [[siege staff]]s: four blast staffs; three force staffs, and two focus staffs. The force staffs draw power from the elemental engine and don’t require [[breath of Siberys]], but the others must be loaded normally. Argonth also has sixteen [[long rod]]s, which can be removed and distributed to ground troops if necessary.
+* Argonth employs three [[bound elementals|elemental binding]]: [[earth|earth elemental]], [[fire|fire elemental]], and [[water|water elemental]]. Pilots don’t have to have [[dragonmark]]s, but this means the binding and control process is more dangerous and demanding. Argonth requires a team of active pilots, and pushing the fortress to higher speeds takes a mental and physical toll on the pilots. During the [[Last War]], Argonth maintained a sustained speed of 12 miles per hour for two days to respond to an attack; three pilots died due to overexertion.
+* Argonth was a joint creation of House [[Cannith]], [[Zilargo]], and [[Breland]]. Cannith didn’t just build the fortress and sell it to Breland; it worked with Breland and the Zil to produce it, which is one reason other nations didn’t have such fortresses.
+* Every few weeks, Argonth stops to take on supplies. When this occurs, a market grows up around the town where those nearby can come to trade and share news with the soldiers harbored within the mobile fortress. Visitors rarely receive permission to enter Argonth, so the next best thing for them is to interact with the soldiers and support personnel at a market festival.
+
+!! Notable Locations
+
+!!! The Prow
+
+The lower front of Argonth is a massive, solid steel ram. Argonth may not be fast, but at its full speed it can easily crush light walls. A shielded gunnery bay holds a [[force staff|siege staff]] and emplacements for four [[long rod]]s, with crenels for the gunners to take cover behind. Behind the ram, the forward garrison is designed for rapid deployment of up to three hundred soldiers.  
+
+!!! The Keep
+
+A fortress atop the prow, this holds the bulk of Argonth’s [[arcane firepower|siege staff]]: two blast staffs, two force staffs, and two focus staffs. Each staff is mounted in a separate tower and has a 180 degree arc of fire. The force staffs can fire forward, while the others are mounted to the sides. Four smaller towers hold [[long rod]]s, primarily to deal with boarders and close defense.
+
+!!! Siege Towers
+
+Behind the Keep, Argonth has a series of extendable boarding towers. If Argonth wants to keep a structure or wall intact, it moves alongside it, allowing its soldiers to deploy from on high. Six [[long rod]] emplacements provide artillery support.
+
+!!! The Stern
+
+The aft of Argonth is essentially a fortified town. It holds living quarters, mess halls, infirmaries, and the smithies and other facilities required to maintain the vessel and the equipment of the soldiers. Additional facilities include a temple dedicated to the [[Sovereign Host]] and a [[Gold Dragon Inn]], which provides lodging for any visitors as well as a dining alternative for soldiers tired of the mess. The tallest spire is [[Cannith]] Tower, which contains both the command center and the officers’ quarters. Cannith Tower is equipped with two [[blast staff|siege staff]]s and a [[Sivis]] [[message station|speaking stone]]. 
+
+!! Important People
+
+The majority of the personnel on board the Argonth are the members of the Argonth Legion. This is a true army, including a regiment of archers, infantry, and even a cavalry regiment. These forces are prepared to defend Argonth from boarders, and to be deployed to seize and hold enemy territory. The Legion also includes a corps of a hundred [[wandslinger]]s trained to maintain and operate the [[siege staff]]s and [[long rod]]s. Twelve [[hippogriff]] riders serve as aerial scouts and couriers. In addition to these, there are four separate units of [[Breland Rangers|Knight Rangers]] and a squad of operatives from the [[King's Citadel]]. The Rangers serve as rapid deployment scouts and skirmishers in wartime, which also makes them best equipped to serve as peacekeepers in this current mission; it’s the Rangers who patrol the region around Argonth and who are capable of intercepting smugglers or brigands. The Citadel operatives are an elite force under the direct command of [[Captain ir'Lashan|Devra ir'Lashan]], and may undertake covert operations or gather intelligence. Here’s a few specific people on Argonth you may have heard of.
+
+* Field Marshal [[Alain ir'Ranek]], Viscount Argonth
+* Captain [[Devra ir'Lashan]]
+* Magister [[Calas "Quill" Carayne|Quill Carayne]], First Wand of Argonth
+* Magister [[Eera ir'Jalon]], Master of Magic
+* [[Big Bara]] of the [[Breland Rangers|Knight Rangers]]
+
+In addition to those named here, many other interesting characters are among the population of Argonth. Two [[Sivis]] [[gnome]]s manage the [[message station|speaking stone]], and multiple [[Cannith]] hirelings support [[Magister ir'Jalon|Eera ir'Jalon]] in the maintenance of the fortress's arcane systems. There are colorful cooks in the mess halls, and a lovable bartender at the [[Gold Dragon Inn]]. All of the members of [[Devra|Devra ir'Lashan]]'s [[Citadel|King's Citadel]] team are capable and interesting people. It's up to the GM to expand any of these NPCs if they play an important role in the story.
+
+!! Argonth Connections
+
+* You're a Brelish soldier who served in the Argonth Legion during the [[Last War]]. How did you impress [[Alain ir'Ranek]]?
+* You are a [[wizard]] who has dealt with [[Quill Carayne]] before. If you served in the Brelish military, he could have trained you or been a comrade in arms. Otherwise, you may have collaborated with him on research concerning unusual arcane traditions. Are you friends or rivals?
+* You are a frontier local, and Argonth flattened part of your family’s farm when it first arrived in the region. You want to see your parents compensated for the damage.

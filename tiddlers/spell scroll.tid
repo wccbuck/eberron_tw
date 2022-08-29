@@ -1,13 +1,14 @@
 category: object
 color: #41D5E1
 created: 20220107191523893
-modified: 20220715163436023
+modified: 20220824204725509
 tags: tool scroll
 tier: 0
 title: spell scroll
+tooltip: single-use magic item that allows the user to cast a specific spell
 type: text/vnd.tiddlywiki
 
-A spell [[scroll]] bears the words of a single [[arcane|arcane magic]] spell, written in a mystical cipher. If you are a [[wizard]] familiar with the [[spell school]], or another spellcaster with sufficient arcane knowledge, you can read the scroll and cast its spell without having to provide any of the spell's material components. Otherwise, the scroll is unintelligible.
+A spell [[scroll]] bears the words of a single [[arcane|arcane magic]] spell, written in a mystical cipher. If you are a [[wizard]] familiar with the [[spell school]], or another spellcaster with sufficient arcane knowledge, you can read the scroll and cast its spell without having to provide any of the spell's material components. Otherwise, the scroll is unintelligible. Once its magic is invoked, a spell scroll can't be used again.
 
 |!Spell Scroll |![[Rarity|rarity]] and [[Spell Tier|spell tier]] |
 |[[tier 1|spell scroll, tier 1]] |common |

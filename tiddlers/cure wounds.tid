@@ -2,15 +2,16 @@ category: spell
 color: #B7A1E0
 created: 20210410045222285
 highertier: show
-modified: 20220220212236088
+modified: 20220824163815228
 tags: [[divine magic]] [[primal magic]]
 tier: 2
 title: cure wounds
+tooltip: heal a creature with a touch (moderate impact)
 type: text/vnd.tiddlywiki
 
 The spellcaster touches a wounded ally, and their wounds begin to close, their injuries rapidly healing (moderate-[[impact]] [[magical healing]]). This spell has no effect on [[undead]] or [[construct]]s (but does affect [[deathless]] and [[warforged]]).
 
-This spell is similar to [[healing word]]. Healing word can be cast from a distance, but cure wounds results in more substantial healing, and can be cast quietly.
+This spell is similar to [[healing word]]. //Healing word// can be cast from a distance, but //cure wounds// results in more substantial healing, and can be cast quietly.
 
 <$reveal type="match" state="!!highertier" text="show">
 

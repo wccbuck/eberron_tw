@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201222041611826
-modified: 20220110034325690
+modified: 20220824213044471
 tags: material
 tier: 0
 title: Risian ice
+tooltip: ice charged with energy of Risia; never melts
 type: text/vnd.tiddlywiki
 
 [[Risia]]n ice is vivid blue and charged with the essence of the [[plane]]. This ice maintains its temperature under any conditions and never melts, even on the Material Plane. 

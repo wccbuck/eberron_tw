@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Korranberg Chronicle",
         "tags": "newspaper Khorvaire Korranberg",
-        "modified": "20220318174210226",
+        "modified": "20220823182743669",
         "color": "#9EC5FE",
         "category": "organization",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "most widely read newspaper in Khorvaire"
     }
 ]

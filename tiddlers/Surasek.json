@@ -1,13 +1,14 @@
 [
     {
         "created": "20210126232842480",
+        "text": "Lord Surasek, supreme pathfinder of the [[Guiding Path]], guides the nation of [[Riedra]] from the metropolis of [[Durat Tal]] in [[Ghirvagura]]. As Eidolon of the Sphere of Surasek, he also holds final authority over the governing of nearby [[Dar Myan]] and [[Dul Kalent]]. He is one of only three [[kalaraq]] [[quori]] who spend most of their time in their [[Inspired]] vessels on [[Eberron]] rather than scheming in the [[Region of Dreams|Dal Quor]]; the other two are Lord [[Zoratesh]] and Lady [[Sharadhuna]].",
         "title": "Surasek",
-        "text": "Lord Surasek, supreme pathfinder of the [[Guiding Path]], guides the nation of [[Riedra]] from the metropolis of [[Durat Tal]] in [[Corvagura]]. As Eidolon of the Sphere of Surasek, he also holds final authority over the governing of nearby [[Dar Myan]] and [[Dul Kalent]]. He is one of only three [[kalaraq]] [[quori]] who spend most of their time in their [[Inspired]] vessels on [[Eberron]] rather than scheming in the [[Region of Dreams|Dal Quor]]; the other two are Lord [[Zoratesh]] and Lady [[Sharadhuna]].",
-        "modified": "20210727192035402",
+        "modified": "20220829051405583",
         "tags": "government Inspired Riedra humanoid",
         "type": "text/vnd.tiddlywiki",
         "article": "Eidolon ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "ruler of Riedra, supreme pathfinder of the Guiding Path"
     }
 ]

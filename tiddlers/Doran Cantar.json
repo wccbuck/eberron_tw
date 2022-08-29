@@ -1,13 +1,14 @@
 [
     {
         "created": "20200421170736452",
-        "title": "Doran Cantar",
         "text": "A former advocate, Doran Cantar ([[human]] councilor for [[Middle Northedge]]) is an\nhonest and devout man dedicated to making a difference for the people of Northedge. He obtained his position largely through charisma and dedication, and the support of the priests of [[High Hope]]. He has a deep and abiding faith in the goddess [[Boldrei]], and attributes all of his successes to the good will of the goddess. However, his honesty is often a hindrance in [[Council|Sharn Council]] intrigues.",
-        "modified": "20210727192005082",
+        "title": "Doran Cantar",
+        "modified": "20220828202209126",
         "tags": "[[Sharn Council]] human humanoid Sharn",
         "type": "text/vnd.tiddlywiki",
         "article": "Councilor ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "Middle Northedge representative on the Sharn Council"
     }
 ]

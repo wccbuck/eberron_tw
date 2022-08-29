@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201216183100393
-modified: 20220503214709857
+modified: 20220824165914025
 tags: necromancy
 tier: 3
 title: speak with dead
+tooltip: ask a corpse up to 5 questions; it can answer but only knows what it knew in life and doesn't have to be coherent or truthful
 type: text/vnd.tiddlywiki
 
 You grant the semblance of life and intelligence to a corpse of your choice within 10 feet, allowing it to answer the questions you pose. The corpse must still have a mouth and can't be [[undead]]. The spell fails if the corpse was the target of this spell within the last 10 days.

@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20210308175513582
-modified: 20210727191959868
+modified: 20220824170058524
 tags: enchantment
 tier: 2
 title: calm emotions
+tooltip: suppress strong emotions in humanoids in a 20-foot-radius sphere
 type: text/vnd.tiddlywiki
 
 You attempt to suppress strong emotions in a group of people. Each [[humanoid]] in a 20-foot-radius sphere centered on a point you choose within 60 feet is affected by this enchantment, if they cannot resist it or choose not to resist it. The effect lasts up to one minute, or until your concentration breaks.

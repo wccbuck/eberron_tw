@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Conclave",
         "tags": "government Argonnessen",
-        "modified": "20211028174758392",
+        "modified": "20220823181420288",
         "color": "#9EC5FE",
         "category": "organization",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "ruling body of the dragons of Argonnessen"
     }
 ]

@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20220711180808302
-modified: 20220711180843003
+modified: 20220824205309829
 tags: potion recovery
 tier: 3
 title: potion of superior healing
+tooltip: potion that provides high-impact magical healing when consumed
 type: text/vnd.tiddlywiki
 
 When you drink this potion, your body's natural healing is rapidly accelerated. The potion's red liquid glimmers when agitated.

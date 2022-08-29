@@ -1,13 +1,14 @@
 [
     {
         "created": "20210305232446087",
-        "title": "Yorrick Amanatu",
         "text": "Lord Yorrick [[Amanatu|Amanatu family]] was one of the original five [[Storm Lords]] who formed the Stormreach Compact with [[Galifar]] over two centuries ago, and remains a Storm Lord to this day—the sole survivor of the founders. Now 260 years\nold, he relies on [[magic item]]s to offset the ravages of time. He believes in the Stormreach Compact, but he also knows that the only way to hold the city together is through personal power. In the past, other lords sought to take control of the city, and it was the strength and cunning of Amanatu that crushed this treachery. To this day, Lord Yorrick searches for ways to expand his personal power, always believing he has the best interests of the city and the other lords at heart.\n\nMany of the chief recruiters and most capable officers of the [[Stormreach Guard]] are Lord Yorrick’s children. If the day ever came for a civil war between the [[Storm Lords]], most of the Guard would follow his lead. Over the years, Lord Yorrick has also developed a strong bond with House [[Kundarak]]. He negotiated the sale of the [[Coasthold]] ward when Kundarak settled in the region and helped place the [[Citadel of the Twelve]] there, and he frequently uses the [[Stormreach Guard]] to serve the interests of Kundarak. In return, Lord Yorrick receives considerable wealth, a side benefit to the greater stability that he believes he’s brought to the city.\n\nEven though Yorrick recognizes the vital role House [[Lyrandar]] plays in bringing the shipping trade to [[Stormreach]], he was born a pirate and a [[Cloudreaver|Cloudreavers]], and he still remembers the bitter battles against [[half-elf]] privateers. Quite a few Lyrandar captains hold ancestral grudges against the old pirate. So far, Lord Yorrick hasn’t let this situation interfere with his vital work, but he maintains a cold demeanor when dealing with half-elves of all stripes, and he prefers to let the [[Lassite|Lassite family]] and [[Wylkes|Wylkes family]] families negotiate with the House of Storms.\n\nDespite his age, Lord Yorrick is an imposing\nfigure. He shaves and oils his head, and he wears\nhis black and silver beard in long braids. He always\nappears ready for battle; he typically wears a [[mithral]]\nchain shirt and carries a heavy mace engraved with\nsilver. Little escapes his keen eyes.",
-        "modified": "20210727192043424",
+        "title": "Yorrick Amanatu",
+        "modified": "20220829031244870",
         "tags": "dwarf Stormreach humanoid [[Storm Lords]] [[Amanatu family]]",
         "type": "text/vnd.tiddlywiki",
         "article": "Storm Lord ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "Coin Lord of Stormreach; venerable dwarf, one of the original five Storm Lords"
     }
 ]

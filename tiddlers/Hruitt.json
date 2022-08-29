@@ -3,11 +3,12 @@
         "created": "20200421172902952",
         "text": "Hruitt (councilor for [[Middle Dura]]) is a mysterious figure on the [[Sharn Council]], keeping his own counsel and advancing his own agenda. He is an intelligent [[giant owl]] who can assume a [[human]] form (or perhaps a human [[druid]] who prefers to stay in the form of a giant owl; no one is quite sure). He once was an aerial racer, representing the [[Bazaar]] of [[Dura]] in the [[Race of Eight Winds]]. Hruitt's primary responsibility is to the merchants of the Bazaar, protecting their interests from the [[Boromar|Boromar Clan]] councilors and the councilors who represent the other market wards. \n\nHruitt has an [[owlin]] valet who helps him with things that require hands.",
         "title": "Hruitt",
-        "modified": "20220708223545354",
+        "modified": "20220828202019238",
         "tags": "[[Sharn Council]] [[giant owl]] [[dire beast]] beast Sharn",
         "type": "text/vnd.tiddlywiki",
         "article": "Councilor ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "Middle Dura representative on the Sharn Council"
     }
 ]

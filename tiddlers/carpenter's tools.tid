@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20211203003358546
-modified: 20220216194154993
+modified: 20220824215110986
 tags: toolset [[equipment pack]]
 tier: 1
 title: carpenter's tools
+tooltip: set of tools for shaping wood
 type: text/vnd.tiddlywiki
 
 Carpenter's tools include a saw, a hammer, nails, a hatchet, a square, a ruler, an adze, a plane,

@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20220707211107697
-modified: 20220707212143745
+modified: 20220826185601679
 tags: elemental immortal
 tier: 2
 title: air elemental
+tooltip: elemental being of air; used in elemental binding to make airships and lightning rail trains
 type: text/vnd.tiddlywiki
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. An air elemental is one of the four main "pure elementals": bodiless incarnations of the primordial elements which comprise existence (the others being [[earth|earth elemental]], [[fire|fire elemental]], and [[water|water elemental]]).

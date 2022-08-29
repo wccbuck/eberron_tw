@@ -1,13 +1,14 @@
 [
     {
         "created": "20200421172736042",
-        "title": "Borian Haldorak",
         "text": "Borian Haldorak ([[dwarf]] councilor for [[Upper Dura]]) owes his position to the powerful bankers and merchants of [[Highhold]]. He is also a member\nof the Gold Concord of the [[Aurum]], and serves the interests of this conspiracy. He is disarmingly cheerful and often plays up his age, telling elaborate stories about the great deeds of his youth. But beneath this façade, he is a sharp and ruthless negotiator. Most\ninteractions between the [[Aurum]] and the [[Boromar Clan]] are resolved by Borian and [[Ilyra|Ilyra Boromar]]. ",
-        "modified": "20210727191958945",
+        "title": "Borian Haldorak",
+        "modified": "20220828202056984",
         "tags": "[[Sharn Council]] dwarf humanoid Sharn",
         "type": "text/vnd.tiddlywiki",
         "article": "Councilor ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "Upper Dura representative on the Sharn Council"
     }
 ]

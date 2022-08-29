@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20200415043011224
-modified: 20220227213112552
+modified: 20220826181937132
 tags: dragonmark
 title: Mark of Making
+tooltip: human dragonmark, House Cannith, allows wielder to create or mend objects
 type: text/vnd.tiddlywiki
 
 <div style="float: left; width: 100px;">{{$:/plugins/wccbuck/making.svg}}</div> The Mark of Making guides its bearer through any act

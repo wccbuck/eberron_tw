@@ -1,10 +1,10 @@
-category: organization
 color: #052c65
 created: 20210303171729277
 list-before: 
-modified: 20210727192021500
+modified: 20220823211757454
 tags: gang
 title: militia
+tooltip: tag for militia organizations
 type: text/vnd.tiddlywiki
 
 A militia is a military force that is raised from the civil population to supplement a regular army in an emergency. Alternatively, a militia is any private force not necessarily directly supported or sanctioned by a government.
@@ -41,4 +41,8 @@ exceptional skills of their soldiers, the militias have
 the sympathy of the inhabitants of their wards, and
 this support can be a valuable weapon.
 
-<<list-links-article "[tag{!!title}sort[title]]">>
+<<list-links-article "[tag{!!title}tag[Stormreach]sort[title]]">>
+
+!! Militias Elsewhere
+
+<<list-links-article "[tag{!!title}!tag[Stormreach]sort[title]]">>

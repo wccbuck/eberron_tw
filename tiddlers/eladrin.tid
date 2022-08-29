@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20201222235409083
-modified: 20210808045055640
+modified: 20220829024100569
 tags: fey humanoid
 tier: 3
 title: eladrin
+tooltip: fey humanoids with different aspects for each season; possible ancestors of the elves
 type: text/vnd.tiddlywiki
 var: uncommon
 

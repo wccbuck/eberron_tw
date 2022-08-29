@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210109080206883
-modified: 20220127200630531
+modified: 20220826212045540
 tags: monstrosity
 tier: 3
 title: chimera
+tooltip: monstrous hybrid of a goat, a lion, and a dragon; heraldic emblem of Deneith
 type: text/vnd.tiddlywiki
 
 These multi-headed monstrosities are the result of the twisting chaos of [[Kythri]], having entered [[Eberron]] through [[manifest zone]]s centuries ago.

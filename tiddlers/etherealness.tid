@@ -2,10 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20210412010703786
 highertier: show
-modified: 20220220215718679
+modified: 20220824170336606
 tags: conjuration
 tier: 4
 title: etherealness
+tooltip: step into the border regions of your plane where it fades into the Astral Sea for up to 8 hours; you are incorporeal, invisible, and can move freely in any direction
 type: text/vnd.tiddlywiki
 
 You step into the border regions of your current [[plane]], in the ethereal region where it fades into the [[Astral Sea]]. You remain in the "Border Ethereal" for up to eight hours or until you choose to dismiss the spell. During this time, you can move in any direction. If you move up or down, you move at half speed. You can see and hear the plane you originated from, but everything there looks gray, and you can't see anything more than 60 feet away.

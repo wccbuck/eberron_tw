@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201209020131411
-modified: 20220217215726143
+modified: 20220824210252609
 tags: [[magical implement]] [[arcane artillery]] fixed weapon
 tier: 0
 title: siege staff
+tooltip: arcane artillery, 15-foot long staff that either launches magical bursts of energy or amplifies a caster's spells
 type: text/vnd.tiddlywiki
 
 Siege staffs, the primary form of [[arcane artillery]], are made of
@@ -28,8 +29,5 @@ energy. Developed late in the war, these were primarily used
 to target fortifications, [[warforged titan]]s, and [[airship]]s. It has a
 range of 600/2400 feet.
 
-//''Focus Staff.''// This model acts as a [[magical implement]], amplifying the spells cast by an [[attuned|attunement]] spellcaster. Any offensive spell can be cast through this model of siege staff. The range is magnified by a factor of 5, with a long range of up to
-10 times the spell's standard range—so a [[fire bolt]] cast through
-a siege staff has a range of 600 feet and a long range of 1,200
-feet. The spell's area of effect is doubled. If the spell normally
-affects a single target, it instead affects a 20-foot-radius sphere.
+//''Focus Staff.''// This model acts as a [[magical implement]], amplifying the spells cast by an [[attuned|attunement]] spellcaster. Any offensive spell can be cast through this model of siege staff. The range is magnified by a factor of up to 10—so a [[fire bolt]] cast through
+a siege staff has a range of up to 1,200 feet. The spell's area of effect is doubled. If the spell normally affects a single target, it instead affects a 20-foot-radius sphere.

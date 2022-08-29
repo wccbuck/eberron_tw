@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20210808193100498
-modified: 20220216194155022
+modified: 20220824213450992
 tags: toolset [[equipment pack]]
 tier: 1
 title: cook's utensils
+tooltip: set of tools useful for cooking meals
 type: text/vnd.tiddlywiki
 
 Adventuring is a hard life. With a cook along on the journey, your meals will be much better than the typical mix

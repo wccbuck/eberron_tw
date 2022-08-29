@@ -3,12 +3,15 @@ color: #96CC39
 created: 20200414180839912
 fmwvar: fmw-upper
 linkto: Northedge
-modified: 20210924195203700
+modified: 20220828202635113
 polygons: 20.399,-24.461 20.391,-24.454 20.378,-24.447 20.369,-24.437 20.362,-24.424 20.352,-24.416 20.34,-24.407 20.332,-24.398 20.317,-24.395 20.301,-24.39 20.295,-24.403 20.291,-24.418 20.293,-24.431 20.295,-24.447 20.299,-24.456 20.307,-24.465 20.318,-24.471 20.33,-24.475 20.337,-24.482 20.352,-24.485 20.362,-24.488 20.369,-24.48 20.389,-24.478 20.395,-24.471
 style: {"fillOpacity": 0, "opacity": 0}
 tags: Northedge [[upper ward]] ward Sharn
 title: Upper Northedge
+tooltip: upper-class residential ward of Sharn
 type: text/vnd.tiddlywiki
+
+''Representative on the [[Sharn Council]]: [[Maza Thadian]]''
 
 Upper Northedge is the perfect place for the noble who
 can afford a manor in the clouds but wants to avoid the

@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20210110052226710
-modified: 20210727192004529
+modified: 20220824201748227
 tags: conjuration
 tier: 3
 title: dimension door
+tooltip: teleport yourself and up to one willing creature within 5 feet up to 500 feet away
 type: text/vnd.tiddlywiki
 
 You teleport yourself from your current location to any other spot within 500 feet. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as "200 feet straight downward" or "upward to the northwest at a 45-degree angle, 300 feet."

@@ -1,0 +1,29 @@
+2d4: 4
+category: creature
+color: #EA868F
+created: 20220826010550046
+d10: 10
+d20: 5
+d35: 15
+d4: 4
+d50: 25
+d7: 6
+duration: 15 minutes
+effect: All teeth within 50 yards are rendered invisible for {{!!duration}}.
+l_duration: 1 hour
+modified: 20220826011320053
+s_duration: 6 seconds
+tags: monstrosity
+tier: 1
+title: gremishka
+type: text/vnd.tiddlywiki
+
+Gremishkas are cat-sized, magically unstable creatures with a taste for the trappings of magic—particularly [[spellbook]]s, spell components, [[familiar]]s, and the like. Gremishkas delight in tormenting magic-users, infesting the walls of spellcasters' homes or the surrounding lands.
+
+Despite their feral appearances, gremishkas are cunning creatures. They might imitate the sounds of whimpering children or wounded animals to coax victims into tight quarters. While they favor attacking spellcasters, gremishkas are opportunistic hunters and lash out at anything they think they can overwhelm—or just get a bite of.
+
+Gremishkas have an unstable relationship with magic. Spells cast near a gremishka might rebound onto those nearby, or cause the monster to emit a pulse of arcane force. The creature might even explode, its scaly chunks rapidly reforming into duplicate gremishkas. These spontaneously created swarms can rapidly turn a single annoying gremishka into a chittering, magic-reflecting wave of teeth and claws.
+
+Very rarely, spells cast near a gremishka might trigger a [[random magical effect]].
+
+{{||random magical effect}}

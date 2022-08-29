@@ -1,13 +1,14 @@
 [
     {
         "created": "20200423054118060",
-        "title": "Wayfinder Foundation",
         "text": "Founded by a renowned hunter\nand explorer, Lord [[Boroman ir'Dayne]], the Wayfinder\nFoundation is an exclusive adventurers' guild that\nwelcomes only experienced and renowned members.\nDayne suffers from a wasting curse that prevents him\nfrom undertaking further adventures of his own, so he\nhas put his considerable fortune to use in sponsoring\ngreat expeditions. The Wayfinder Foundation has an\nunusually wide reach for an adventurers' guild, with\nguildhalls found across [[Khorvaire]] as well as in the\ncity of [[Stormreach]], in [[Xen'drik]] (see the [[Nest]]). Its [[Headquarters|Wayfinder Foundation Headquarters]], and\nthe residence of its wealthy patron, is in [[Fairhaven]]. \n\nThe Wayfinder Foundation is an exclusive organization. Membership is by invitation only, and offers are extended only to renowned adventurers and explorers.\nThe Wayfinder Conclave manages the affairs of the\nFoundation. The conclave meets in the foundation [[Headquarters|Wayfinder Foundation Headquarters]], and all decisions are resolved by a majority vote. As long as he still\nlives, Lord [[Boroman ir'Dayne]] has the final say on all expenditures of foundation funds, even overriding decisions of the conclave.",
-        "modified": "20210727192042060",
+        "title": "Wayfinder Foundation",
+        "modified": "20220823211203268",
         "tags": "[[adventurers' guild]]",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "highly exclusive adventurer's guild with a focus on exploration and discovery"
     }
 ]

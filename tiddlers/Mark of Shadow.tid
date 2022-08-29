@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20200415044811339
-modified: 20220227213310278
+modified: 20220826181428536
 tags: dragonmark
 title: Mark of Shadow
+tooltip: elf dragonmark, House Phiarlan or Thuranni, allows wielder to weave illusions and scry
 type: text/vnd.tiddlywiki
 
 <div style="float: left; width: 100px;">{{$:/plugins/wccbuck/shadow.svg}}</div> The Mark of Shadow lets an [[elf]] weave illusions, crafting

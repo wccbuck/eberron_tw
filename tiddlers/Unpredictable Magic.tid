@@ -1,10 +1,23 @@
+2d4: 6
 category: phenomenon
 color: #432874
 created: 20220803214322393
-modified: 20220806204204320
+d10: 7
+d20: 15
+d35: 35
+d4: 4
+d50: 50
+d7: 2
+duration: 3 minutes
+effect: The caster's clothes age {{!!d50}} years. This repeats for every spell cast by the caster for the next {{!!l_duration}}.
+l_duration: 2 hours
+modified: 20220826011340577
+s_duration: 2 seconds
 tags: [[universal property]] Xoriat
 title: Unpredictable Magic
 tooltip: universal property: casting spells generates random magical effects
 type: text/vnd.tiddlywiki
 
 While on a [[plane]] with this property, immediately after a creature casts a spell of uncommon [[tier|spell tier]] or higher, generate a [[random magical effect]].
+
+{{||random magical effect}}

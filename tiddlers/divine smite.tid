@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20220818211719477
+modified: 20220818211928356
+tags: [[divine magic]]
+tier: 1
+title: divine smite
+type: text/vnd.tiddlywiki
+
+When you cast this spell, your weapon glows with holy light. The next time you hit a creature with this weapon in the next 30 seconds, the target suffers additional radiant damage.

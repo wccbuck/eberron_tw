@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20210207060425411
-modified: 20210727192013740
+modified: 20220828195300024
 polygons: 40.615,27.52 40.422,27.33 40.255,27.18 39.997,27.01 39.803,26.83 39.646,26.56 39.508,26.37 39.342,26.28 39.129,26.28 38.935,26.26 38.806,26.17 38.557,25.93 38.409,25.79 38.077,25.77 37.735,25.74 37.569,25.74 37.311,25.81 37.108,25.79 36.849,25.76 36.683,25.92 36.563,26.08 36.415,26.14 36.268,26.06 36.074,25.94 35.677,25.91 35.409,25.97 35.298,26.15 35.225,26.33 35.086,26.34 34.985,26.44 34.892,26.68 34.717,26.82 34.578,26.93 34.551,27.07 34.329,27.19 34.218,27.32 34.154,27.47 34.191,27.62 34.348,27.57 34.302,27.68 34.431,27.82 34.422,28.07 34.458,28.26 34.532,28.36 34.458,28.42 34.422,28.54 34.578,28.76 34.708,28.76 34.818,28.68 35.114,28.78 35.335,28.94 35.465,29.1 40.385,29.1 40.634,27.53
 style: {"fillOpacity":"0","opacity":"0"}
 tags: province Q'barra
 title: Hope
+tooltip: new colonized territory of Q'barra, a dangerous frontier of dragonshard boomtowns
 type: text/vnd.tiddlywiki
 
 Hope is the younger of the two colonized territories of [[Q'barra]], consisting of rapidly-constructed towns in the foothills of the [[Endworld Mountains]] built by those fleeing the [[Five Nations]] during the final years of the [[Last War]]. While [[New Galifar]] under King [[Sebastes|Sebastes ir'Kesslan]] is ruled as a feudal monarchy, the law in Hope varies widely from place to place—when it exists at all.

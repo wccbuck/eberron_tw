@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20200415043640913
-modified: 20220227213154727
+modified: 20220826182049348
 tags: dragonmark
 title: Mark of Passage
+tooltip: human dragonmark, House Orien, allows wielder to quickly move or even teleport
 type: text/vnd.tiddlywiki
 
 <div style="float: left; width: 100px;">{{$:/plugins/wccbuck/passage.svg}}</div> The Mark of Passage governs motion, allowing its

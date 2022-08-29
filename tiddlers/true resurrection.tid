@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201231191809711
-modified: 20210727192039206
+modified: 20220824203115575
 tags: [[divine magic]]
 tier: 5
 title: true resurrection
+tooltip: return a creature to life who has been dead for no longer than 200 years, even if the body no longer exists; 1-hour ritual that requires 2500c in material components, fully restores the target
 type: text/vnd.tiddlywiki
 
 This spell requires a one-hour ritual and [[2500c|money]] worth of ritual components, which are expended.

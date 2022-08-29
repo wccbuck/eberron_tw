@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201231231013946
-modified: 20210727192004359
+modified: 20220824163149169
 tags: divination
 tier: 2
 title: detect magic
+tooltip: sense the presence and nature of magic within 30 feet for the next 10 mins
 type: text/vnd.tiddlywiki
 
 For up to 10 minutes, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can see a faint aura around any visible creature or object in the area that bears magic, and you learn its [[school of magic|spell school]], if any.

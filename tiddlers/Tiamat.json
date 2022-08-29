@@ -5,10 +5,11 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Tiamat",
         "tags": "overlord immortal fiend [[Dragon Gods]] Argonnessen",
-        "modified": "20220719163047476",
+        "modified": "20220819053141742",
         "color": "#8C4606",
         "category": "entity",
         "article": "the Daughter of Khyber, ",
-        "alternatetitle": "Takhisis"
+        "alternatetitle": "Takhisis",
+        "tooltip": "overlord closely tied to dragons; gains strength whenever dragons get too ambitious and spread their influence beyond Argonnessen"
     }
 ]

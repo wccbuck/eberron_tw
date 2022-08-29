@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20200423044737294
-modified: 20220218180220789
+modified: 20220824214523006
 tags: detection [[eldritch machine]] Chamber tool
 tier: 0
 title: planar observatory
+tooltip: eldritch machine with great orreries and instruments used to track the courses of the planes; used by the Chamber in their study of the Draconic Prophecy
 type: text/vnd.tiddlywiki
 
 A planar observatory is a structure at the heart of the [[Chamber]]'s efforts to divine the meaning of the [[Draconic Prophecy]]. The observatory consists of great chambers

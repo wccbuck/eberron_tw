@@ -1,13 +1,14 @@
 [
     {
         "created": "20201222051928103",
-        "title": "Tyranny",
         "text": "Most [[devil]]s of Shavarath serve the Legion of Tyranny. They seek to crush hope, and no form of treachery or dishonorable conduct is too low for a devil.\nHowever, they're far more disciplined than the savage hordes of the Legion of [[Cruelty]], working with precision and careful plans. The Century of Chains forces enemy [[conscript|manifestation]]s (and unlucky adventurers) to fight for them, and uses civilian conscripts as living shields. The Century of the Serpent is always willing to\nnegotiate and makes many pleasing offers, but any agreement\ninevitably leads to betrayal.\n\nAll forms of [[devil]]s can be found in the Legion of Tyranny.\nTheir sole focus is war; they dominate and corrupt conscripts,\nbut don't seek mortal souls from the Material Plane. [[Bearded|bearded devil]] and [[spined devil]]s serve as basic troops, while elite squads of\n[[erinyes]] descend from the sky. [[Amnizu|amnizu]] command\ncenturies, and beings with the power of [[overlord]]s lead cohorts.\n\nThe devils of the Cohort of Misery say that the [[Mockery]] is\npart of Tyranny Command, a belief that fuels a bitter enmity\nwith the [[demon]]s of the Century of Terror. Curiously, the Cohort\nof the Iron Hand maintains that the [[Sovereign|Sovereign Host]] [[Aureon]] leads\nTyranny Command, and that they are simply enacting his vision\nfor universal order.",
-        "modified": "20210727192039567",
+        "title": "Tyranny",
+        "modified": "20220823204542292",
         "tags": "[[legion of Shavarath]] military",
         "type": "text/vnd.tiddlywiki",
         "article": "the Legion of ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "army of devils in Shavarath"
     }
 ]

@@ -2,10 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20201216174058699
 highertier: show
-modified: 20220220215057596
+modified: 20220824175128499
 tags: illusion
 tier: 3
 title: fear
+tooltip: project a terrifying illusion to creatures within 30 feet of you
 type: text/vnd.tiddlywiki
 
 You project a phantasmal image of a creature's worst fears. Each creature within 30 feet of you sees terrifying illusory creatures in their minds, visible only to them; if they are not able to resist the illusion, they are frightened for up to one minute, dropping whatever they are holding and fleeing.

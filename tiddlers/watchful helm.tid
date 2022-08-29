@@ -1,0 +1,17 @@
+category: object
+color: #41D5E1
+created: 20220825183341151
+modified: 20220825183529295
+tags: detection armor accessory head
+tier: 3
+title: watchful helm
+type: text/vnd.tiddlywiki
+
+While wearing this helm, you remain aware of your surroundings even while you're asleep, and you gain [[advantage]] on attempts to perceive threats.
+
+In addition, once per day, you can cast the [[see invisibility]] spell.
+
+<<<
+!!! see invisibility
+{{||see invisibility}}
+<<<

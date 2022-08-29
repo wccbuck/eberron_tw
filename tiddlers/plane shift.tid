@@ -1,11 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201210232755592
-modified: 20220805224029696
+modified: 20220824163322638
 tags: conjuration
 tier: 4
 title: plane shift
-tooltip: epic conjuration spell, teleport to another plane
+tooltip: teleport to another plane
 type: text/vnd.tiddlywiki
 
 You and up to eight willing creatures who link hands in a circle are transported to a different [[plane]] of existence (except [[Dal Quor]]). You can specify a target destination in general terms, such as the [[City of Brass]] in [[Fernia]] or the storefront of Bor'ob the slaad in the [[Immeasurable Market]] in [[Syrania]], and you appear in or near that destination. If you are trying to reach the City of Brass, for example, you might arrive in its Street of Steel, before its Gate of Ashes, or looking at the city from across the Sea of Fire, at the GM's discretion.

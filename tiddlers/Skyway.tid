@@ -2,7 +2,7 @@ category: location
 color: #96CC39
 created: 20200414195952875
 fmwvar: fmw-skyway
-modified: 20210924195326784
+modified: 20220828202709395
 polygons: 20.118,-24.601 20.127,-24.609 20.137,-24.61 20.143,-24.619 20.151,-24.62 20.175,-24.613 20.188,-24.608 20.201,-24.609 20.215,-24.602 20.227,-24.59 20.236,-24.577 20.247,-24.57 20.245,-24.555 20.255,-24.552 20.269,-24.555 20.281,-24.55 20.294,-24.546 20.296,-24.538 20.308,-24.531 20.312,-24.524 20.302,-24.519 20.293,-24.52 20.279,-24.511 20.284,-24.498 20.273,-24.482 20.268,-24.469 20.256,-24.469 20.235,-24.476 20.215,-24.488 20.199,-24.493 20.184,-24.499 20.173,-24.489 20.169,-24.479 20.161,-24.48 20.154,-24.489 20.154,-24.496 20.148,-24.498 20.14,-24.479 20.133,-24.476 20.127,-24.472 20.112,-24.469 20.098,-24.471 20.092,-24.478 20.082,-24.48 20.073,-24.484 20.073,-24.492 20.082,-24.497 20.089,-24.496 20.088,-24.502 20.081,-24.502 20.073,-24.513 20.067,-24.507 20.062,-24.509 20.056,-24.52 20.053,-24.53 20.055,-24.544 20.057,-24.552 20.06,-24.562 20.058,-24.575 20.06,-24.59 20.068,-24.596 20.076,-24.593 20.078,-24.601 20.087,-24.607 20.102,-24.61 20.11,-24.606 20.112,-24.596
 style: {"color":"#6B001B","fillColor":"#C78056","fillOpacity":0.4}
 tags: Sharn district ward
@@ -19,7 +19,8 @@ floating on clouds high above the hubbub of the city.
 Servants scurry about from fabulous mansions to
 exquisite shops, while the gentry who call this place
 home parade in state, often riding griffons or hippogriffs, as they call upon their counterparts.<br/>
-''Social Class:'' Upper class
+''Social Class:'' Upper class<br/>
+''Representative on the [[Sharn Council]]: [[Evix ir'Marasha]]''
 
 A number of floating towers drift above the upper wards
 of [[Sharn]], but these are dwarfed by Skyway, an entire

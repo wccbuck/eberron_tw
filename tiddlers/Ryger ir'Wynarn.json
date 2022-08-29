@@ -1,13 +1,14 @@
 [
     {
         "created": "20210204203324388",
-        "title": "Ryger ir'Wynarn",
         "text": "High Prince Ryger ir’Wynarn is lord of the [[Seadragon Principality|Seadragons]] and nominally the leader of all the [[Lhazaar Principalities]]. He has held his position of High Prince of the [[Lhazaar Sea]] for over a decade, since wresting the crown from the head of [[Horget Black]]. However, Ryger and his allies (and enemies) know that he could be overthrown by one of the region’s other princes at any time. \n\nRyger claims descent from the kings of [[Galifar]] and dreams of\nrebuilding a united kingdom. So far, though, he has been unable to unite\nthe squabbling princes to do anything more than present a unified face\n(Ryger’s own) to the [[deliberations|Treaty of Thronehold]] at [[Thronehold]] that ended the [[Last War]] and established the [[Lhazaar Principalities]] as a sovereign nation. \n\nRyger is remarkably clever and charismatic, with skills in diplomacy as well as the blade. He has earned a reputation as a man of his word, though he will not give his word carelessly. However, he is a [[Lhazaarite|Lhazaar Principalities]], and he respects the traditions of his people—including piracy. Merchants who sail the [[Bitter Sea]] can pay for the protection of the [[Seadragons]], and Ryger will strike at any ship that dares to raid near [[Regalport]]. But he feels no obligation to hunt down Lhazaarites who engage in piracy. \n\nOne of Ryger's earliest acts as prince was to grant House [[Thuranni]] land on [[Greentarn]]. This alliance between House Thuranni and the [[Seadragons]] is one more weapon in the high prince's arsenal. Some say that Ryger wanted to bring House Thuranni to the Principalities to guard against of the [[Gray Tide]] principality; if anyone can counter [[changeling]] schemes, it's the house of shadow.",
-        "modified": "20210727192029259",
+        "title": "Ryger ir'Wynarn",
+        "modified": "20220829034359779",
         "tags": "government [[Lhazaar Principalities]] Seadragons human humanoid",
         "type": "text/vnd.tiddlywiki",
         "article": "High Prince ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "lord of the Seadragons and leader of the Lhazaar Principalities"
     }
 ]

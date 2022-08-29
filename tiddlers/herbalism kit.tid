@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20210808004911470
-modified: 20220216194155092
+modified: 20220824220553669
 tags: toolset [[equipment pack]]
 tier: 1
 title: herbalism kit
+tooltip: set of tools for gathering or identifying plants, or creating herbal remedies
 type: text/vnd.tiddlywiki
 
 This kit contains a variety of

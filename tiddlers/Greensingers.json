@@ -1,13 +1,14 @@
 [
     {
         "created": "20200417023759739",
-        "title": "Greensingers",
         "text": "//We, the Greensingers, celebrate the magic in the natural world, as well as the fey that embody that magic. We serve as ambassadors between the fey and mortals, protecting each from the other. //\n\nThe Greensingers believe the magic of the [[fey]]\nto be integral to natural, complimenting and\nenhancing its majesty, and encourage close ties\nbetween [[Thelanis]] and [[Eberron]]. They work to\nimprove relations between mortals and the fey,\nteaching people how to safely interact with the\nfey, and serving as ambassadors to the faerie\nrealms. While the [[bard]]s and [[druid]]s draw the\nmost attention, many Greensingers are simply\npeople who learn the stories of the fey and follow\ntheir traditions, seeking to live in harmony with\ntheir fey neighbors.\n\nWhile the Greensingers are united by core principles, many Greensingers serve an [[archfey]] patron with ties to their topographical region, and they might work to advance the specific agenda of their patron in the world. This favoritism can lead to feuds among Greensingers. Though the rivalries within the sect can range from harmless pranks to malicious obstruction, this behavior is expected, understood, and never fatal. Such behavior also leads to the perception of Greensingers as a source of mischief and chaos. To outsiders, their actions are wild and unpredictable, as they serve the agendas of many different fey. \n\nMany Greensingers congregate and revel in the [[Twilight Demesne]] in the [[Towering Wood]].",
-        "modified": "20210727192011477",
+        "title": "Greensingers",
+        "modified": "20220823203316702",
         "tags": "druid bard",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "druidic sect with close ties to the fey of Thelanis"
     }
 ]

@@ -1,10 +1,15 @@
 category: creature
 color: #EA868F
 created: 20210301200511942
-modified: 20211217040304782
+modified: 20220826214325414
 tags: 
 title: deity
+tooltip: divine entities whose existence must be taken on faith
 type: text/vnd.tiddlywiki
+
+The gods of [[Eberron]] don't manifest physically, but people of faith believe that divine forces shape everyday life. Shared beliefs unite communities and can provide hope in difficult times. 
+
+Those who channel [[divine magic]] might ascribe that power to a specific deity, which may be true. But it is equally possible that the spellcaster draws on a well of power formed from the collective faith of many thousands of believers. In this sense, it is impossible to prove the existence of a deity in Eberron—but regardless of its nature and source, none can deny the power of faith.
 
 !! [[Sovereign Host]]
 

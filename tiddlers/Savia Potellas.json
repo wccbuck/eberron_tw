@@ -1,13 +1,14 @@
 [
     {
         "created": "20200421170327651",
-        "title": "Savia Potellas",
         "text": "Savia Potellas ([[human]] councilor for [[Lower Menthis]]) owns a [[brothel|Savia's]] in [[Firelight]], and the conservative members of the [[Sharn Council]] were outraged by her appointment. She is extremely sharp at business, but she is currently caught in a bind. She has grown tired of paying tribute to the [[Boromar Clan]] and the [[Tyrants]] in order to run her business, but she is afraid to openly move against the powerful crime lords. She could become a valuable ally for adventurers that oppose the Boromars. ",
-        "modified": "20210727192029589",
+        "title": "Savia Potellas",
+        "modified": "20220828202040788",
         "tags": "[[Sharn Council]] human humanoid Sharn",
         "type": "text/vnd.tiddlywiki",
         "article": "Councilor ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "Lower Menthis representative on the Sharn Council"
     }
 ]

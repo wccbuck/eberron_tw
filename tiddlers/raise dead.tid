@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20200428222715898
-modified: 20210727192027023
+modified: 20220824202918836
 tags: [[divine magic]]
 tier: 3
 title: raise dead
+tooltip: return a creature to life who has been dead for no more than 10 days; 1-hour ritual that requires 50c in material components, and target must spend at least a week recovering
 type: text/vnd.tiddlywiki
 
 This spell requires a one-hour ritual and [[50c|money]] worth of ritual components, which are expended.
@@ -17,4 +18,4 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target must spend at least a week recovering before returning to their former strength.
 
-Performing this spell is risky; drawing a spirit back from [[Dolurrh]] might catch the attention of a Dolurrhi [[marut]], or even bring back the wrong spirit, causing a ghost to manifest or ending up with a hostile personality in your friend's body. This is why [[Jorasco]] healers capable of resurrection typically cast [[augury]] first, and will refuse service if the result is "woe". For more information, see the "Concerning Resurrection" section of [[Dolurrh]].
+Performing this spell is risky; drawing a spirit back from [[Dolurrh]] might catch the attention of a Dolurrhi [[marut]], or even bring back the wrong spirit, causing a [[ghost]] to manifest or ending up with a hostile personality in your friend's body. This is why [[Jorasco]] healers capable of resurrection typically cast [[augury]] first, and will refuse service if the result is "woe". For more information, see the "Concerning Resurrection" section of [[Dolurrh]].

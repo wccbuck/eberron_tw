@@ -1,9 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20200415044343838
-modified: 20220227213243853
+modified: 20220826183026218
 tags: dragonmark
 title: Mark of Sentinel
+tooltip: human dragonmark, House Deneith, allows wielder to defend themselves and others from harm
 type: text/vnd.tiddlywiki
 
 <div style="float: left; width: 100px;">{{$:/plugins/wccbuck/sentinel.svg}}</div> The Mark of Sentinel warns and protects. It heightens

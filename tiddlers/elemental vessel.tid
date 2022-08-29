@@ -1,10 +1,11 @@
 category: object
 color: #1E868E
 created: 20200418012507028
-modified: 20220707212837634
+modified: 20220824204129473
 tags: vehicle
 tier: 0
 title: elemental vessel
+tooltip: vehicle that is propelled by a bound elemental; includes airships, lightning rails, and elemental galleons
 type: text/vnd.tiddlywiki
 
 Long ago, [[gnome]] [[artificer]]s and specialists from House

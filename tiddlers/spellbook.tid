@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20220722211626312
-modified: 20220722212411923
+modified: 20220824203914615
 tags: tool
 tier: 1
 title: spellbook
+tooltip: book that records a wizard's spells
 type: text/vnd.tiddlywiki
 
 Essential for [[wizard]]s, a [[spellbook]] is typically a leather-bound tome with 100 blank vellum pages suitable for recording [[spell]]s. However, many wizards carry spellbooks of an unusual sort. See the table below for some ideas for unique spellbooks.

@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200414222441964
-modified: 20220719212524431
+modified: 20220829024806055
 tags: humanoid
 tier: 1
 title: human
+tooltip: most populous and diverse humanoid on Eberron
 type: text/vnd.tiddlywiki
 var: common
 

@@ -1,12 +1,13 @@
 category: object
 color: #41D5E1
 created: 20210602173917791
-modified: 20220707210415731
+modified: 20220825190037228
 tags: tool
 tier: 0
 title: trinket
+tooltip: a simple item lightly touched by mystery
 type: text/vnd.tiddlywiki
-var: A broken piece of a [[planar observatory]] lens that when held aloft and looked through shows the sky even when indoors or underground
+var: A small jewelry box made from the shell of a turtle
 
 \define changedyes() <$action-setfield $tiddler="$:/TrinketTableName" changed="yes"/>
 \define tablename() {{!!caption}} ({{{ [<currentTiddler>indexes[]count[]] }}})

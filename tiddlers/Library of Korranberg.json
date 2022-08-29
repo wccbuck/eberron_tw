@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Library of Korranberg",
         "tags": "university library Korranberg",
-        "modified": "20220302174857739",
+        "modified": "20220823175259531",
         "color": "#A3DB62",
         "category": "location",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "greatest repository of knowledge in Khorvaire"
     }
 ]

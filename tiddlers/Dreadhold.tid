@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20200416211644806
-modified: 20210727192005628
+modified: 20220824223828766
 points: 59.151,40.56
 style: {"color": "#732873"}
 tags: island fortress [[Lhazaar Principalities]] mine Kundarak enclave
 title: Dreadhold
+tooltip: nigh-inescapable island prison in the Lhazaar Principalities
 type: text/vnd.tiddlywiki
 
 The prison island of Dreadhold floats off

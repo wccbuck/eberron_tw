@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20210330183127440
-modified: 20211226221134649
+modified: 20220824163256025
 tags: transmutation
 tier: 3
 title: fabricate
+tooltip: transmute raw material into a product
 type: text/vnd.tiddlywiki
 
 This spell takes 10 minutes to cast. You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, and clothes from flax or wool.

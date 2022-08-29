@@ -1,13 +1,14 @@
 [
     {
         "created": "20200410035523071",
-        "title": "Javan Tomollan",
         "text": "Javan Tomollan ([[human]] councilor for [[Upper Central]]), a shrewd man and a tough bargainer, earned his fortune representing House [[Lyrandar]] making trade arrangements, although he has since parted ways with the house. He is a fair man and believes that hard work and dedication to a task should be rewarded. However, his greatest concern is protecting the interest of the people of [[Upper Central]]; the problems of the poor of [[Lower Dura]] hold little interest for him.\n\nJavan remains one of [[Sharn]]'s wealthiest citizens, and\nthe [[Aurum]] actively seeks to recruit him for their\nPlatinum Concord—so far, unsuccessfully. ",
-        "modified": "20210727192015499",
+        "title": "Javan Tomollan",
+        "modified": "20220828201942475",
         "tags": "[[Sharn Council]] human humanoid Sharn",
         "type": "text/vnd.tiddlywiki",
         "article": "Councilor ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "Upper Central representative on the Sharn Council"
     }
 ]

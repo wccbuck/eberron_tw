@@ -2,13 +2,14 @@ category: spell
 color: #B7A1E0
 created: 20201210001853796
 highertier: show
-modified: 20220220215435122
+modified: 20220824164259248
 tags: [[primal magic]] conjuration
 tier: 3
 title: conjure elemental
+tooltip: summon a tier-2 elemental which persists for 1 hour
 type: text/vnd.tiddlywiki
 
-The spellcaster calls forth an [[elemental]] servant. They choose an area of air, earth, fire, or water that fills a 10-foot diameter sphere within 90 feet. A pure elemental of that type ([[creature tier]] ''2'') appears in that space. The elemental is friendly to the caster and obeys their commands for up to one hour, or until the spellcaster dismisses it or the elemental is incapacitated, at which point it disappears. If, however, the spellcaster's concentration is broken, they lose control of the elemental, and it acts according to its nature until it disappears up to an hour later. 
+After a 1-minute ritual, the spellcaster calls forth an [[elemental]] servant. They choose an area of air, earth, fire, or water that fills a 10-foot diameter sphere within 90 feet. A pure elemental of that type ([[creature tier]] ''2'') appears in that space. The elemental is friendly to the caster and obeys their commands for up to one hour, or until the spellcaster dismisses it or the elemental is incapacitated, at which point it disappears. If, however, the spellcaster's concentration is broken, they lose control of the elemental, and it acts according to its nature until it disappears up to an hour later. 
 
 <$reveal type="match" state="!!highertier" text="show">
 

@@ -1,8 +1,8 @@
 created: 20210228221025480
 limit50: [limit[50]]
-modified: 20210808010741305
+modified: 20220823213043951
 tags: 
 title: $:/config/Manager/LimitOrg
 type: text/vnd.tiddlywiki
 
-[all{$:/config/Manager/Show}subfilter<org-type>category[organization]regexp<capitalized>!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/OrgTag}tag:strict{$:/config/Manager/OrgTag2}!tag{$:/config/Manager/ExcludeOrgTag}count[]]
+[all{$:/config/Manager/Show}subfilter<org-type>category[organization]!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/OrgTag}tag:strict{$:/config/Manager/OrgTag2}!tag{$:/config/Manager/ExcludeOrgTag}count[]]

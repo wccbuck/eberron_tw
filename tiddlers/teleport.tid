@@ -1,18 +1,19 @@
 category: spell
 color: #B7A1E0
 created: 20210410050456841
-modified: 20220711002818877
+modified: 20220824201649529
 tags: conjuration
 tier: 4
 title: teleport
+tooltip: instantly transport yourself and up to eight others within 10 feet to a destination you choose anywhere on the same plane of existence
 type: text/vnd.tiddlywiki
 
 This spell instantly transports you and up to eight willing creatures of your choice that you can see within 10 feet, or a single object that you can see within 10 feet, to a destination you select. If you target an object, it must be able to fit entirely inside a 10-foot cube, and it can't be held or carried by an unwilling creature.
 
 The destination you choose must be known to you, and it must be on the same [[plane]] of existence as you. Your familiarity with the destination determines whether you arrive there successfully. 
 
-* If the destination is a ''permanent [[teleportation circle]]'': ''+3 [[advantage]]s''
-* If you have in your possession an ''associated object'', an object taken from the desired destination within the last six months, such as a book from a [[wizard]]'s library, bed linen from a royal suite, or a chunk of marble from a [[lich]]'s secret tomb: ''+2 advantages''
+* If the destination is a ''permanent [[teleportation circle]]'': ''automatic success''
+* If you have in your possession an ''associated object'', an object taken from the desired destination within the last six months, such as a book from a [[wizard]]'s library, bed linen from a royal suite, or a chunk of marble from a [[lich]]'s secret tomb: ''+2 [[advantage]]s''
 * If the desired destination is ''very familiar'', a place you have been very often, a place you have carefully studied, or a place you can see when you cast the spell (such as via [[scrying]]): ''+1 advantage''
 * If the desired destination is ''somewhat familiar'', a place you have seen more than once: ''no advantage''
 * If you have ''seen'' the desired destination ''only once'', perhaps using magic: ''1 [[disadvantage]]''

@@ -2,10 +2,11 @@ category: spell
 color: #B7A1E0
 created: 20200428222434313
 highertier: show
-modified: 20220220212931296
+modified: 20220824164055089
 tags: transmutation
 tier: 1
 title: mending
+tooltip: repair a single break or tear in an object you touch
 type: text/vnd.tiddlywiki
 
 This spell, which takes about 1 minute to cast, repairs a single break or tear in an object you touch, such as broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it over the course of one minute, leaving no trace of the former damage.

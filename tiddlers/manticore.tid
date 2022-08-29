@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200426212144898
-modified: 20220127200813470
+modified: 20220826211508867
 tags: monstrosity
 tier: 2
 title: manticore
+tooltip: monstrosity with a humanoid face, lion body, dragon wings, and spined tail; heraldic emblem of Kundarak
 type: text/vnd.tiddlywiki
 
 A monster in every sense of the word, a manticore has a vaguely [[humanoid]] head, the body of a lion, and the wings of a [[dragon]]. A bristling mane stretches down the creature's back, and its long tail ends in a cluster of deadly spikes that can impale prey at impressive range.

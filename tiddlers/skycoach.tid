@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20200415012709563
-modified: 20220320224600614
+modified: 20220824205156093
 tags: vehicle
 tier: 0
 title: skycoach
+tooltip: flying vehicle resembling a small boat, popular in Sharn
 type: text/vnd.tiddlywiki
 
 Skycoaches are flying vehicles resembling small boats that range from rowboat-sized skycars to longship-scale tour coaches. They are often found in [[Sharn]], where the magical properties of that city's [[manifest zone]] aids their flight, but they were also seen in cities such as [[Eston]] in [[Cyre]] before the [[Mourning]].

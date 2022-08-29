@@ -1,12 +1,13 @@
 category: creature
 color: #EA868F
 created: 20200426211942949
-modified: 20220127200232117
+modified: 20220826211942694
 tags: fey
 tier: 1
 title: blink dog
+tooltip: fey canine creature who can teleport short distances; heraldic emblem of Ghallanda
 type: text/vnd.tiddlywiki
 
-A blink dog is a [[fey]] canine creature which takes its name from its ability to "blink" in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for [[displacer beast]]s and attack them on sight.
+A blink dog is a [[fey]] canine creature which takes its name from its ability to "blink" in and out of existence, teleporting short distances: a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for [[displacer beast]]s and attack them on sight.
 
 The blink dog is the heraldic emblem of House [[Ghallanda]].

@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201227013810923
-modified: 20220711180803527
+modified: 20220824205237216
 tags: potion recovery
 tier: 1
 title: potion of healing
+tooltip: potion that provides low-impact magical healing when consumed
 type: text/vnd.tiddlywiki
 
 When you drink this potion, your body's natural healing is rapidly accelerated. The potion's red liquid glimmers when agitated.

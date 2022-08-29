@@ -1,13 +1,14 @@
 [
     {
         "created": "20210202032638978",
-        "title": "Vol",
         "text": "The line of Vol was a [[noble line|Aereni noble line]] of [[Aerenal]] with a long tradition of [[necromancy]] tracing its roots back to the [[Qabalrin]] of ancient [[Xen'drik]]. When members of the line of Vol developed the [[dragonmark]] known as the [[Mark of Death]], they undertook a risky series of experiments designed to unlock its full powers, fusing [[elf]] with [[dragon]] imbued with the power of [[Mabar]]. \n\nWhen this knowledge was revealed, the [[Sibling Kings]] proclaimed that the house would be exterminated to the\nlast member, because a single drop of its blood could\ndestroy all living things. In an unprecedented alliance, the [[Undying Court]] and the [[dragon]]s of [[Argonnessen]] joined forces to eradicate the bloodlines that carried the [[Mark of Death]]. \n\nThe war was bitter, but its result was never in\ndoubt. The line of Vol was utterly exterminated. Confirmed by repeated [[divination]]s, no living members of the line of Vol and no living bearers of the [[Mark of Death]] persist to this day. However, [[Lady Illmarrow]] isn't //technically// living...\n\nIn the aftermath of this brutal purge, those [[elves|elf]] who had supported Vol but didn't bear its blood were given the choice of exile or swearing fealty to the [[Sibling Kings]] of [[Aerenal]]. Even those who hadn't supported Vol chose to flee; some of\nthose who bore the [[Mark of Shadow]] feared that they would be next in this pogrom, while others believed that the spilling of elf blood by elf hands tainted [[Aerenal]]. This resulted in a wave of exiled elves settling in the [[Lhazaar Principalities]] and spreading west into the lands that are now [[Karrnath]]. They brought with them beliefs and practices that would merge with local [[human]] traditions and give birth to the religion known as the [[Blood of Vol]].\n\nMost assume that the elves feared the power of the\n[[Mark of Death]]. But a close study of the records challenges this assumption. If the mark was so deadly, how was the house defeated? In fact, elf and dragon\ndidn’t fear what the line of Vol was; they were afraid\nof what it might become. In the mingling of elf and\ndragon, there was the potential to create something\nnew—a being who could become the avatar of death\nitself.\n\nSee also [[Uruvai family]].",
-        "modified": "20210727192041006",
+        "title": "Vol",
+        "modified": "20220826183936632",
         "tags": "[[Aereni noble line]] tribe elf",
         "type": "text/vnd.tiddlywiki",
         "article": "the line of ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "noble line of Aerenal who developed the dragonmark of Death; believed to be destroyed"
     }
 ]

@@ -1,10 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20200429033029159
-modified: 20220104214246460
+modified: 20220824165507135
 tags: divination
 tier: 3
 title: sending
+tooltip: send a message of 25 words or less to a known creature; target can respond
 type: text/vnd.tiddlywiki
 
 You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. 

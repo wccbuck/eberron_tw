@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20200512220056588
-modified: 20220220231514512
+modified: 20220824213238480
 tags: stealth accessory head
 tier: 2
 title: hat of disguise
+tooltip: hat that allows you to cast "disguise self"
 type: text/vnd.tiddlywiki
 
 While wearing this hat, you can cast the [[disguise self]] spell at will. The spell ends if the hat is removed.
