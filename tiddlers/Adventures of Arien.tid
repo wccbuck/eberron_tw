@@ -1,6 +1,6 @@
 category: note
 created: 20220208023535083
-modified: 20220902030106486
+modified: 20220902223614370
 tags: 
 title: Adventures of Arien
 type: text/vnd.tiddlywiki
@@ -17,46 +17,38 @@ Don't forget that Arien served at [[Sterngate]] and would be familiar with Capta
 
 !! Session 4
 
-The buildings of the Martial Temple include: 
-
-* church
-* dormitory(ies)
-* cloister (open square with covered walks; some training is done here)
-* refectory (dining room)
-* school + library
-* balneary (bathhouse)
-* infirmary
-* palaestra (training area / combat school)
-
 Arien meets with Preceptor [[Cadoc Belmin]] and Prior [[Hemdoth Aggan]]. They tell Arien about how the Temple was established by charter between the Brelish government and the [[Vassal Assembly]] [[liturgical council]] to be an institution that elevated Brelish citizens gifted by the spark of divine magic, so that they might reach their potential and better serve their nation and the Sovereigns.
 
 Belmin and Aggan ask Arien some questions, like:
 
-* You've been granted divine powers. Why do you think that happened?
+* What happened in the [[Faded Forest]], by your account?
+* What happened in [[Nelview]]?
+* (Aggan) You've been granted divine powers. Why do you think that happened?
 ** How do you want to use them?
-* Why did you choose to come here?
+* (Aggan) Why did you choose to come here?
 ** If you are admitted, what would your personal goals be? 
 ** If you are not admitted, what would you do next?
-* You served at [[Sterngate]] as an attendant and arms bearer during the war. You were under Captain Toris? (Belmin is familiar with Toris, and how brutal she can be.)
+* (Belmin) You served at [[Sterngate]] as an attendant and arms bearer during the war. You were under Captain Toris? (Belmin is familiar with Toris, and how brutal she can be.)
 ** I understand you were merely a child, but did you observe or encounter combat?
 ** Captain Toris. What did you think of her approach to leadership?
 ** Has your opinion changed over the last five years?
-* Are you proud to be Brelish?
-* What happened in [[Nelview]]?
-* What do you think of King Boranel's granting asylum to Cyran refugees?
-* A paladin is a warrior blessed with divine power, one who takes sacred oaths to focus their convictions and abilities. An oath might be: "I will protect the weak, and punish those who threaten them", or, "I will never seek to shirk the consequences of my actions". If you were to swear such an oath, what would it take for you to break it?
+* (Belmin) Are you proud to be Brelish?
+* (Belmin) What do you think of King Boranel's granting asylum to Cyran refugees?
+* (Aggan) Here at the Martial Temple, we have two main paths for those gifted by the divine: that of the [[cleric]], and that of the [[paladin]]. A paladin is a warrior blessed with divine power, one who takes sacred oaths to focus their convictions and abilities. An oath might be: "I will protect the weak, and punish those who threaten them", or, "I will never seek to shirk the consequences of my actions". If you were to swear such an oath, what would it take for you to break it?
 ** What if it no longer aligns with your goals?
 ** What if keeping it would cause harm to innocent people?
-* You are Khoravar. Do you //o cali a tysteloria//? (have a community, in [[Liotian]])
+* (Belmin) You are Khoravar. Do you //o cali a tysteloria//? (have a community, in [[Liotian]])
 ** Did you ever attend a unity dinner in [[Mistmarsh]] or elsewhere, with other Khoravar?
 
-The Preceptor wants to see her abilities, and also her combat prowess. Novice Master [[Wroenna Lonn]] spars with her. Wroenna uses [[shield of faith]], but otherwise just exhibits a level of swordsmanship that far surpasses Arien's. She simply tests her 
+The Preceptor wants to see her abilities, and also her combat prowess. Novice Master [[Wroenna Lonn]] spars with her. Wroenna uses [[shield of faith]], but otherwise just exhibits a level of swordsmanship that far surpasses Arien's. She simply tests her skill
 
 "Allow us a moment to confer."
 
 After they accept Arien, they have her sign some forms and then Wroenna shows her to her dormitory. She says she's joined just in time, classes start in a couple of weeks, so for now she can just jump in with summer physical training and combat exercises like the rest of the novices. Semesters last 4 months, start in Rhaan
 
-Should we have a scene for [[Boldrei's Feast]]? Rhaan 9
+Training: Much of this is mundane, with workout rooms, obstacle courses, and also training with different weapons wearing padded armor. Archery, swordplay, javelin-throwing, hand-to-hand, etc. Some of this training is devotional, including focusing and honing Arien's faith in her own ideals. Mechanically this is done by [[boost]]ing using Heart.
+
+We should have a scene for [[Boldrei's Feast]], Rhaan 9, before classes start. Arien probably celebrated it back home but Gatherhunt was always a bigger deal. But everybody gathers in the refectory for a big feast and it's a fun time.
 
 People:
 
@@ -67,47 +59,48 @@ People:
 * Second-in-command: Prior [[Hemdoth Aggan]]
 ** [[Order Domain]]
 * Mentor: Novice Master [[Wroenna Lonn]]
-** human lady, very strong and tall. Think Brienne of Tarth
+** human lady, very strong and tall.
 ** [[Oath of Devotion]]
 ** Her heart glows so bright you can see it through her shirt
-* Swordbrother Farlay
+* Swordbrother [[Farlay]]
 ** Main fighting instructor at the Palaestra
 ** Part of the Order of the [[Broken Blade]] and [[cleric]] of the [[War Domain]]
 * Visitant [[Sejra Whitebinder]]
 ** Visiting teacher ("visitant" can mean "guest", or also "pilgrim"). Definitely a maverick, goes off and does her own thing
 ** Cleric. Not really tied to a specific domain; she calls herself a "Sovereign Speaker", and seems to be rather unique. Spells include [[bless]], [[detect immortal]], [[turn undead]], [[remove curse]], [[dispel immortal]], [[fly]], [[protection from immortals]], [[call lightning]], [[magic circle]], and [[dimensional anchor]].
 ** Friction between her and the leadership of the Martial Temple. The Preceptor/Prior etc are running the school in a way that advances the interests of [[Breland]]. Sejra believes that the temple should focus more on spiritual warfare against forces of great evil, irrespective of nationality.
+** She's also the one that suggests Arien has a connection to the [[Silver Flame]] and should seek out mentorship in [[Sharn]]. Belmin hates this idea, stating that [[Ythana Morr]] is notoriously corrupt, but Sejra tells him he thinks everyone in the CotSF is corrupt.
 ** (Meet her later)
 * [[Snarik the Mauve]]
 ** A [[warlock]] of an [[archfey]] who is part of the [[Guild of Starlight and Shadows]] who creates illusions and conjures creatures for the purposes of training the novices. Only comes by once a month or so. The school pays for this, they're well-funded by the Brelish government.
 
 Other students: 
 
-* Note: There are about fifty other students at the school, called novices, and they each have varying degrees of divine potential. Some merely exhibited divine power at a moment of crisis but can't manifest it at will. At least one of those is currently in the infirmary in a coma after one such manifestation. Other folks can manifest powers but with across a wide variety of magical effects—some utilitarian, some social, some combat-oriented. Others were priests once but began to exhibit miraculous powers beyond that of the standard [[adept]]. 
+* There are about fifty other students at the school, called novices, and they each have varying degrees of divine potential. Some merely exhibited divine power at a moment of crisis but can't manifest it at will. At least one of those is currently in the infirmary in a coma after one such manifestation. Other folks can manifest powers but with across a wide variety of magical effects—some utilitarian, some social, some combat-oriented. Others were priests once but began to exhibit miraculous powers beyond that of the standard [[adept]]. 
+*  Names: Frush/Frutch, Verbane, Sandis, Teldovoor, Balabar, Todrik, Cesaria, Ravinia
+* [[https://blog.reedsy.com/character-name-generator/medieval/old-english/]]
 
-Arien needs three other buddies. Don't have to be her age, but similar levels of power/progression on their paths. None of these folks have taken their sacred oaths yet or chosen a domain.
+Arien needs three buddies. Don't have to be her age, but similar levels of power/progression on their paths. None of these folks have taken their sacred oaths yet or chosen a domain.
 
-* [[Oath of Glory]] guy, [[hobgoblin]]
+* ''Roak'': [[Oath of Glory]] guy, [[hobgoblin]]
 ** "Danny Rojas" vibes?
 ** [[compelled duel]], [[heroism]], [[enhance ability]]
-** Could be a way to connect with the Order of the [[Broken Blade]], this dude is clearly blessed by [[Dol Dorn]]
-* [[War Domain]] [[cleric]], [[human]]
+** Could be a way to connect with the Order of the [[Broken Blade]], this dude is clearly blessed by [[Dol Dorn]]. Swordbrother Farlay eventually guides him on this path
+** Another cool element of the Broken Blade angle is that swordbrothers need to forge their own sword. This could lead Roak to seek out old techniques of the Dhakaani battlesmiths
+* ''Ervol'': [[War Domain]] [[cleric]], [[human]]
 ** [[true strike]], [[guiding bolt]], [[word of radiance]]. Eventually, [[spiritual weapon]]
-* [[Oath of Devotion]], [[dwarf]]
+* ''Turanank'': [[Oath of Devotion]], [[dwarf]]
 ** has [[Divine Sense]], and the spell [[turn the unholy]].
 
-* Names: Frush/Frutch, Verbane, Sandis, Roaky, Ervol, Teldovoor, Balabar, Todrik
 
 Other folks:
 
-* Moody [[Oath of Vengeance]] lady, [[half-elf]]. They also come to the unity dinners for a while but maybe reject the community after a while. [[Cadoc Belmin]] might feel sympathy for their bitterness but has found a healthy way to channel his anger and regrets. They might eventually leave the school and become an Oathbreaker.
+* ''Lorsanna'', moody [[Oath of Vengeance]] lady, [[half-elf]]. She also comes to the unity dinners for a while but maybe rejects the community after a while. [[Cadoc Belmin]] might feel sympathy for her bitterness but has found a healthy way to channel his anger and regrets. She might eventually leave the school and become an Oathbreaker.
 * [[Life Domain]] cleric
 ** A priest who didn't start manifesting divine magic until late in life
 * [[Peace Domain]] cleric
 ** [[friends]], [[calm emotions]], [[rebuke the violent]], 
 * [[Knowledge Domain]] cleric currently in the infirmary in a coma
-
-Classes don't start until later in the year (see [[Future Adventure Prep]]. Also come up with school schedule, holidays etc). So in the meantime, Arien can begin physical training. Much of this is mundane, with workout rooms, obstacle courses, and also training with different weapons wearing padded armor. Archery, swordplay, javelin-throwing, hand-to-hand, etc. Some of this training is devotional, including focusing and honing Arien's faith in her own ideals. Mechanically this is done by [[boost]]ing using Heart.
 
 !
 
