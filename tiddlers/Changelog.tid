@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.18.0
-modified: 20220829174209671
+currentversion: 1.18.1
+modified: 20220905235207994
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,19 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.18.1 <span style="font-weight:normal">(Sep 05, 2022)</span>
+
+* Added a mountain on the map for the [[Great Crag]] as well as a little one near [[Castle Arakhain]]
+* Renamed the island formerly known as Three Barrel Cove into [[Shankhabhumi]] (from Journeys through the Radiant Citadel), and used the name [[Three Barrel Cove]] for the little bay next to [[Barrel's Bottom]]. Added the following locations, also from JttRC:
+** [[Ashwadhatu]], [[Manivarsha]], [[Sagorpur]], [[Tippurika]]
+* Made the [[Field of Ruins]] into a region instead of a point
+* Added [[lightning runner]] vehicle
+* Added [[Shirin d'Deneith]]
+* Added some more detail to the [[paladin]] page
+* Linkified [[Bloodletting]] property on [[Ironlands]] page
+* Added links to other misc pages
+* More tooltips
 
 !!! 1.18.0 <span style="font-weight:normal">(Aug 29, 2022)</span>
 
@@ -924,7 +937,7 @@ Miscellaneous:
 *** [[dust of corrosion]]
 *** [[pixie dust]]
 *** [[scissors of shadow snipping]]
-* Added some [[shulassakar]] content based on a recent blog post
+* Added some [[shulassakar|shulatlaca]] content based on a recent blog post
 * Added some content on [[Korth]] from Five Nations book
 ** [[Alinda Roerith]]
 ** [[Cathedral to the Sovereign Host]]

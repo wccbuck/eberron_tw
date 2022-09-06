@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210207032641612
-modified: 20220610175334706
+modified: 20220905231917582
 points: 35.206,-2.56
 population: 120000
 style: {"color": "#8E0024"}
 tags: Breland city
 title: Starilaskur
+tooltip: "City at the Crossroads", third largest city in Breland
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

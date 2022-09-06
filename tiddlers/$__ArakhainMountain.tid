@@ -1,0 +1,11 @@
+category: location
+created: 20220904175150980
+linkto: Khorvaire
+list-before: Adder River
+modified: 20220904175217034
+polygons: 31.396,-24.252 31.391,-24.074 31.35,-23.862 31.316,-23.684 31.362,-23.559 31.451,-23.565 31.509,-23.418 31.638,-23.544 31.655,-23.747 31.676,-23.915 31.61,-24.024 31.564,-24.169
+style: {"color":"#4D382C","fillColor":"#6B5334","fillOpacity":"0.5"}
+tags: geography
+title: $:/ArakhainMountain
+type: text/vnd.tiddlywiki
+var: back
