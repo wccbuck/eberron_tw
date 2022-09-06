@@ -1,11 +1,6 @@
-tiddlers/$__Destination.tid
 tiddlers/$__Import.tid
 tiddlers/$__MapBounds.tid
-tiddlers/$__Distance.tid
-tiddlers/$__Origin.tid
-tiddlers/$__PartyPosition.tid
 tiddlers/$__StoryList.tid
-tiddlers/$__Destination.tid
 tiddlers/$__config_Manager_CreatureTag.tid
 tiddlers/$__config_Manager_CreatureTier.tid
 tiddlers/$__config_Manager_CreatureType.tid
@@ -35,3 +30,4 @@ tiddlers/$__config_Manager_SpellTier.tid
 tiddlers/$__AddToMyStuffNotification.tid
 tiddlers/$__alerts_ProgressClocks.tid
 tiddlers/$__alerts_DiceBitD.tid
+tiddlers/$__Markers.meta

@@ -644,7 +644,11 @@ function mapTiddler(self, place, layer=null, additionalStyleField=null){
 		}
 		if (fields.linkto) {
 			linkto = fields.linkto;
-			objTitle = fields.linkto;
+            var linktofields = self.wiki.getTiddler(linkto).fields;
+            objTitle = linkto.split(" (")[0];
+			if (linktofields.article) {
+				objTitle = linktofields.article.charAt(0).toUpperCase() + linktofields.article.slice(1) + objTitle;
+			}
 		}
 
 		function clickAndHoverBehavior(element, isMarker=false){

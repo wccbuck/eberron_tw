@@ -1,1 +1,15 @@
-{"created": "20200415194830535", "title": "Field of Ruins", "text": "[[Cyre]] was the site of incessant battles during the [[Last War]], from the first extended campaign\u2014the siege of\n[[Eston]] in 895 YK\u2014to the running battle on the Saerun\nRoad that was cut short when the [[Mourning]] occurred.\nBattlefields across the [[Mournland]], both ancient and\nrecent, stand like open graves as evidence of the horrors\nof the war. In some places, armies that were fighting on\nthe Day of Mourning became stone statues anchored in\nposition. Others were crystallized or reduced to ash.\n\nOn the Field of Ruins\u2014around the Saerun Road in the\nsouthwest part of the [[Mournland]], where allied forces\nof [[Thrane]] and [[Breland]] battled an outnumbered Cyran\narmy on the Day of [[Mourning]]\u2014the fallen soldiers are\npreserved just as they fell, with no sign of rot or decay.\nThousands upon thousands of corpses lie scattered\nacross the field, facedown in the dirt or staring lifelessly\nat the gray sky. Even seasoned bands of treasure hunters are loath to enter the Field of Ruins. \n\nThe Field of Ruins is the only known source of [[mournlode]], a newly-discovered ore that is particularly harmful against [[Mabar]]an [[undead]].", "modified": "20210727192008178", "tags": "Mournland ruin", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "points": "29.991,5.57", "style": "{\"color\": \"#40262D\"}"}
+[
+    {
+        "created": "20200415194830535",
+        "text": "[[Cyre]] was the site of incessant battles during the [[Last War]], from the first extended campaign—the siege of\n[[Eston]] in 895 YK—to the running battle on the Saerun\nRoad that was cut short when the [[Mourning]] occurred.\nBattlefields across the [[Mournland]], both ancient and\nrecent, stand like open graves as evidence of the horrors\nof the war. In some places, armies that were fighting on\nthe Day of Mourning became stone statues anchored in\nposition. Others were crystallized or reduced to ash.\n\nOn the Field of Ruins—around the Saerun Road in the\nsouthwest part of the [[Mournland]], where allied forces\nof [[Thrane]] and [[Breland]] battled an outnumbered Cyran\narmy on the Day of [[Mourning]]—the fallen soldiers are\npreserved just as they fell, with no sign of rot or decay.\nThousands upon thousands of corpses lie scattered\nacross the field, facedown in the dirt or staring lifelessly\nat the gray sky. Even seasoned bands of treasure hunters are loath to enter the Field of Ruins. \n\nThe Field of Ruins is the only known source of [[mournlode]], a newly-discovered ore that is particularly harmful against [[Mabar]]an [[undead]].",
+        "title": "Field of Ruins",
+        "modified": "20220904191026721",
+        "tags": "Mournland ruin geography",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "style": "{\"color\":\"#40262D\",\"fillOpacity\":\"0\",\"weight\":2,\"dashArray\":\"4, 9\",\"opacity\":\"0.5\"}",
+        "polygons": "30.41,4.93 30.16,4.61 29.67,4.26 29.03,4.27 28.85,4.64 28.64,5.24 28.82,6.16 29.2,6.33 29.73,6.15 30.06,6.14 30.4,6.33 30.7,6.6 30.98,6.54 31.19,6.09 31.22,5.6 31.04,5.31 30.82,5.11"
+    }
+]

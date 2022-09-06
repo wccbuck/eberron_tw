@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200417002628576
-modified: 20210820072532916
+modified: 20220905232017563
 points: 20.049,-12.63
 population: 137500
 style: {"color": "#8E0024"}
 tags: Zilargo city
 title: Trolanport
+tooltip: capital of Zilargo
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>
