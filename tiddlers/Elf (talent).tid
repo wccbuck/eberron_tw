@@ -1,6 +1,6 @@
 category: talent
 created: 20211201053733380
-modified: 20211201061248868
+modified: 20220919045309379
 tags: elf
 title: Elf (talent)
 type: text/vnd.tiddlywiki
@@ -13,4 +13,4 @@ As an [[elf]], you gain the following benefits:
 * You have spent your youth perfecting one of the skills prized by your ancestors. Choose one of the following.
 ** Gain an additional [[language]].
 ** Gain one [[cantrip|spell tier]] of your choice.
-** Gain an [[advantage]] when using an artisan's tool of your choice, such as an [[herbalism kit]], [[smith's tools]], or a musical instrument.
+** Gain +1 [[impact]] when using an artisan's tool of your choice (such as an [[herbalism kit]] or [[smith's tools]]), or a [[musical instrument]].

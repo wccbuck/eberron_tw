@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.18.1
-modified: 20220905235207994
+currentversion: 1.18.2
+modified: 20220919223735645
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,18 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.18.2 <span style="font-weight:normal">(Sep 19, 2022)</span>
+
+* Added [[Manifest Legion]] and [[Von Harrla's Regiment]] (originally "Red Gauntlet Regiment", changed name to avoid confusion with [[Redcloak Battalion]]). Also added the page [[Karlerren ir'Vore]].
+* Added an "Allies" and "Enemies" section to the [[Redcloak Battalion]] page
+* Changed [[Elf (talent)]] to only provide +1 [[impact]], not [[advantage]], when using a chosen artisan's tool or musical instrument
+* Added items [[devastation orb]] and [[weird tank]].
+* Added [[bestow darkvision]] to the spell list for [[Mark of Detection (talent)]]
+* Added [[control flames]] as a spell option for [[Drow (talent)]] if you're a [[Sulatar]]
+* Added some unnamed mountains to eastern [[Breland]]
+* Moved the course of the [[Copper River]] such that it flowed through [[Galethspyre]]
+* More tooltips
 
 !!! 1.18.1 <span style="font-weight:normal">(Sep 05, 2022)</span>
 

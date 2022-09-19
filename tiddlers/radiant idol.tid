@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20200415032155418
-modified: 20210727192026946
+modified: 20220919221853136
 tags: immortal
 tier: 4
 title: radiant idol
+tooltip: "fallen angel" of Syrania, seeks adoration of mortals
 type: text/vnd.tiddlywiki
 
 A radiant idol was an [[angel]] from the [[plane]] of [[Syrania]] that succumbed to the corruption of the Material Plane. One sin led to their fall: the desire to be worshiped by mortals. Now in the mortal realm, most radiant idols gather cults of devoted followers.
@@ -27,7 +28,7 @@ interact with mortals run the risk of becoming corrupted.
 Such [[immortal]]s crave mortal adoration and often seek to
 dominate mortals by exercising the power of their sphere.
 
-Not all dominions fall prey to this corruption, but once
+Not all [[dominion]]s fall prey to this corruption, but once
 one does, there seems to be no way to undo it. Even if the
 angel is destroyed and reforms, the corruption remains. It's
 unlikely that such an angel would be met in [[Syrania]] itself;
