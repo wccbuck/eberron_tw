@@ -1,10 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201209022900097
-modified: 20220220045636429
+modified: 20220919223226842
 tags: [[alchemical explosive]] weapon tool destruction hindrance
 tier: 1
 title: blast disk
+tooltip: magical anti-personnel mine
 type: text/vnd.tiddlywiki
 
 A blast disk holds destructive arcane power. A typical blast
@@ -39,7 +40,7 @@ rarity of the disk by one category.
 The blast disk is the most common form of magical explosive
 used in the [[Five Nations]]. While blast disks serve a similar
 role to bombs or landmines, they can produce a wide range of
-magical effects; a blast disk could trigger a burst of confusion
+magical effects; a blast disk could trigger a burst of [[confusion]]
 and start a riot, or summon a rampaging [[elemental]] into a
 crowded town square.
 

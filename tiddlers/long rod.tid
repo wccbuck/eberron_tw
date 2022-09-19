@@ -1,17 +1,18 @@
 category: object
 color: #41D5E1
 created: 20201209020804933
-modified: 20220216233759774
+modified: 20220919222602680
 tags: [[magical implement]] [[arcane artillery]] fixed rod
 tier: 0
 title: long rod
+tooltip: arcane artillery, 8-foot-long magical implement
 type: text/vnd.tiddlywiki
 
 A long rod is a more portable version of a [[siege staff]], measuring
 around 8 feet long. Including the stand required to brace it, it
 weighs close to 350 pounds.
 
-It takes five actions to set up a long rod, and the same to tear
+It takes no less than thirty seconds to set up a long rod, and the same to tear
 down for transport. Once set up, it takes one action to prime
 the rod, one to aim it, and one to fire it.
 

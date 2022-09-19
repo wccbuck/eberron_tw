@@ -1,7 +1,7 @@
 category: miscellaneous
 color: #1E868E
 created: 20201208071910020
-modified: 20220823220402677
+modified: 20220919220612340
 tags: 
 title: symbiont
 tooltip: aberrant living weapon
@@ -10,5 +10,7 @@ type: text/vnd.tiddlywiki
 The [[daelkyr]] create living tools and weapons, objects formed from chitin, bone, and muscle. Many of these items bond to their bearer, drawing sustenance from the creature attuned to them; for this reason, they are commonly called "symbionts." Though symbionts are living tools, they are not necessarily considered sentient creatures.
 
 Most of these items, once they bond to their bearer, cannot be removed even if the bearer desires it. The only way to end the [[attunement]] and remove a symbiont is to use an effect or spell that ends a [[curse|cursed]].
+
+In the [[Mror Holds]], particularly among Clan [[Soldorak]], symbionts are known as //dolaur//.
 
 !!! <<showitem-type>>

@@ -1,9 +1,9 @@
 category: game mechanics
 created: 20210409162021191
-modified: 20210728165255661
+modified: 20220919223530509
 tags: Storyloom [[Taking Action]]
 title: disadvantage
-tooltip: -1d6
+tooltip: Storyloom mechanic: remove 1d6 from your dice pool
 type: text/vnd.tiddlywiki
 
 "Disadvantage" is a term sometimes used to mean "remove one d6 from your dice pool for this [[attempt|Taking Action]]". Disadvantages are imposed by some magical effects or items, but should be used sparingly by GMs; typically GMs should allow players to use their full pool of dice, and instead tweak [[risk]] and [[impact]] based on the context of a scene.

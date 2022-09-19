@@ -1,0 +1,46 @@
+category: object
+color: #41D5E1
+created: 20220919215236034
+modified: 20220919220143705
+tags: destruction [[alchemical explosive]] weapon tool
+tier: 4
+title: devastation orb
+type: text/vnd.tiddlywiki
+var1: air
+
+A devastation orb is an elemental bomb that can be created at the site of an elemental node by performing a ritual. The type of orb created depends on the node used. For example, an air node creates a devastation orb of air. The ritual takes 1 hour to complete and requires the expenditure of rare materials.
+
+A devastation orb measures 12 inches in diameter, weighs 10 pounds, and has a solid outer shell. The orb detonates <<dr 1d100>> hours after its creation, releasing the elemental energy it contains. The orb gives no outward sign of how much time remains before it will detonate. Spells such as [[identify]] and [[prayer of divination]] can be used to ascertain when the orb will explode. Physically destroying an orb causes it to explode instantly.
+
+A special container can be crafted to contain a devastation orb and prevent it from detonating. The container must be inscribed with symbols of the orb's opposing element. For example, a case inscribed with earth symbols can be used to contain a devastation orb of air and keep it from detonating. While in the container, the orb thrums. If it is removed from the container after the time when it was supposed to detonate, it explodes up to a minute later, unless it is returned to the container.
+
+Regardless of the type of orb, its effect is contained within a sphere with a 1 mile radius. The orb is the sphere's point of origin. The orb is destroyed after one use.
+
+Multiple variations of this item exist.
+
+''Devastation Orb Type: '' <$select field='var1' default='air'>
+<$list filter='air earth fire water'>
+<option><<currentTiddler>></option>
+</$list>
+</$select>
+
+<$reveal type="match" state="!!var1" text="air">
+
+When this orb detonates, it creates a powerful windstorm that lasts for 1 hour. The wind is strong enough to uproot weak trees and destroy light structures after at least 10 minutes of exposure. 
+
+</$reveal>
+<$reveal type="match" state="!!var1" text="earth">
+
+When this orb detonates, it subjects the area to the effects of the [[earthquake]] spell for 1 minute.
+
+</$reveal>
+<$reveal type="match" state="!!var1" text="fire">
+
+When this orb detonates, it creates a dry heat wave that lasts for 24 hours. The heat wave has a chance of starting a wildfire in a random location within the area of effect. 
+
+</$reveal>
+<$reveal type="match" state="!!var1" text="water">
+
+When this orb detonates, it creates a torrential rainstorm that lasts for 24 hours. The rain causes flooding, which destroys crops and might trigger mudslides, depending on the terrain.
+
+</$reveal>
