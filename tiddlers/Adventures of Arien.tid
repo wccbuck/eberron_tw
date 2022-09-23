@@ -1,6 +1,6 @@
 category: note
 created: 20220208023535083
-modified: 20220920202411127
+modified: 20220922170324216
 tags: 
 title: Adventures of Arien
 type: text/vnd.tiddlywiki
@@ -44,47 +44,74 @@ The Preceptor wants to see her abilities, and also her combat prowess. Novice Ma
 
 "Allow us a moment to confer."
 
-After they accept Arien, they have her sign some forms and then Wroenna shows her to her dormitory. She says she's joined just in time, classes start in three weeks, so for now she can just jump in with summer physical training and combat exercises like the rest of the novices. Semesters last 4 months, start in mid-Rhaan
+Wroenna shows her to her dormitory. She says if she's accepted, she'll have joined just in time; classes start in three weeks, so for now she can just jump in with summer physical training and combat exercises like the rest of the novices. Semesters last 4 months, start in mid-Rhaan. 
+
+After they accept Arien, they have her take a pledge.
 
 Training: Much of this is mundane, with workout rooms, obstacle courses, and also training with different weapons wearing padded armor. Archery, swordplay, javelin-throwing, hand-to-hand, etc. Some of this training is devotional, including focusing and honing Arien's faith in her own ideals. Mechanically this is done by [[boost]]ing using Heart.
 
+Each semester, set up a [[progress clock]] for Arien's grades. Maybe even one for each class? Probably too much; maybe one for military classes, one for religion classes. Treat them like long-term projects ([[Missions and Downtime]]).
+
+!!! First Semester Courses
+
+!!!! Military
+
+* Military History (taught by Prior [[Hemdoth Aggan]])
+** Learn a bit about early Breland history, [[Malleon the Reaver]], the kingdom of [[Wroat]], [[Breggor Firstking]]
+** The [[War of the Mark]]
+** Later, [[Galifar]]. Bring up [[Sarath ir'Wynarn]]
+** Later still, the Westward War (with [[the Barrens|Droaam]]; see [[Droaamish History]])
+** Last half of the course: the [[Last War]]. Breland shifted allegiances throughout the war, but was never any one nation's most hated enemy. Most of Breland's clashes were with [[Thrane]], followed by [[Cyre]]. Raiders from [[Droaam]] were also a persistent threat in the west.
+** Some miscellaneous tidbits:
+*** "Arien, who was the king of Breland in 924 YK? Trick question! There was no king. Regent Brask ir'Wynarn led the nation until young Boranex could assume the throne."
+*** [[Chydris]] was destroyed in the [[Battle of Cairn Hill]] in 987 YK
+* Brelish Military Structure (taught by Master Yonz (human))
+** Breland's military tradition is one of independence, charismatic leadership, and freestanding militias answerable to cities and provinces. But there are also several elite units that answer directly to the crown.
+** [[King's Citadel]], led by Lord [[Kor ir'Wynarn]]
+*** [[King's Swords]], [[King's Shields]], [[King's Wands]], [[King's Dark Lanterns]]
+** [[Redcloak Battalion]]
+** other divisions; see [[military]]. Also learn about [[Von Harrla's Regiment]] and the [[Manifest Legion]], mercenary companies that worked closely with Breland
+
+!!!! Religion
+
+* Theology of the Sovereign Host (taught by Master Drosin (human))
+** [[Sovereign Host]]
+** Go through each sovereign in turn, as well as the [[Dark Six]]. More detail than you'd get in church
+* Vassal History (taught by Master [[Marrath]], old elf, they/them)
+** [[Lhazaar]] and settlers from [[Pyrine]], an old kingdom of [[Sarlona]]. Learn about the [[Pyrinean Creed]]
+** Specific stories of the [[Sovereign Host]] according to the Pyrinean Creed
+** The Sovereign Host in other traditions ([[Rushemé]], etc)
+** Learn about the rise of [[Three Faces]] sects, [[Church of the Wyrm Ascendant]]
+* Paladin Oaths (taught by Master Vasiraghi (human))
+** [[Oath of Devotion]]
+** [[Oath of the Crown]]
+** [[Oath of Glory]]
+** [[Oath of Redemption]]
+** [[Oath of Vengeance]]
+** [[Oath of the Ancients]]
+
 !! Scenes
 
-* Conversation with the Preceptor and Prior; sparring with Wroenna; get accepted.
+* Conversation with the Preceptor and Prior; sparring with Wroenna. Arien is referred to as "Candidate Arien"
 * Move into dormitory, then training scene.
 ** Meet Swordbrother [[Farlay]] and perhaps [[Roak]], [[Ervol]], [[Turanank]], or [[Lorsanna]].
+* Arien is accepted as a Novice! Says a pledge to the school. Does she write letters to her parents?
+* What chores are Arien assigned? Does she get in trouble with Novicemaster [[Lonn|Wroenna Lonn]]?
 * [[Boldrei's Feast]], Rhaan 9. Arien probably celebrated it back home but Gatherhunt was always a bigger deal. But everybody gathers in the refectory for a big feast and it's a fun time.
+* Letter to/from parents?
 * Start class. Show one scene for each. Let Alita roll for each one and advance [[progress clock]]s. She'll get more chances to roll throughout the semester.
 * Training scene. Maybe a confrontation with [[Lorsanna]].
-* Unity dinner scene.
+* Unity dinner scene. [[Cadoc Belmin]], [[Lorsanna]]. Some other attendees include Sovelom, Fellise, and Paela. Belmin says [[Khoravar|half-elf]] are the "bridge between".
 * Roll for classwork. Scene with [[Roak]], [[Ervol]], and [[Turanank]] studying.
-* [[Wildnight]], Sypheros 18-19; kinda like Mardi Gras, big party. School doesn't really celebrate but could meet with other folks. 
-* [[Dowin|Dowin Lin Adredar]] reaches out?
-* Training scene, maybe some discussions of Oaths with [[Wroenna Lonn]]
-* [[Thronehold Day]]/[[Arawai's Blessing]]? In Aryth (November). The school probably has Thronehold Day off, it's on a Wir (Wednesday). Since we're in 997, it's only the first celebration of the event since the war ended a year ago.
+* [[Wildnight]], Sypheros 18-19; kinda like Mardi Gras, big party. School doesn't really celebrate but could meet with other folks. [[Turanank]] for sure wants to party, probably [[Roak]] too; [[Ervol]] and [[Lorsanna]] sit out.
+* [[Dowin|Dowin Lin Adredar]] reaches out. He sends a letter, detailing some of what he's been researching about the city. "It seems the [[manifest zone]] linking [[Starilaskur]] to [[Thelanis]] has some fascinating properties; not only does it create the famous "singing artisans" boon, but I have found evidence that in rare cases, stories based on true events can loop back around on reality via fey magic, inspiring folks to add to those stories, which strengthens the fey feedback loop... until eventually it's hard to tell what the original truth even was, or if it even matters anymore! It boggles the mind. More work to be done, but in the next few months, I may ask you to accompany me for some field research. How are you? How goes your paladin training? Warm Regards, Dowin Lin Adredar"
+* Training scene, [[Snarik the Mauve]]
+* Maybe some discussions of Oaths with [[Wroenna Lonn]]
+* [[Thronehold Day]]? Aryth (November) 11. The school probably has Thronehold Day off, it's on a Wir (Wednesday). Since we're in 997, it's only the first celebration of the event since the war ended a year ago.
 * Roll for classwork
-* 
+* [[Arawai's Blessing]], Aryth 20. Does Arien have any admirers? Is she anyone's admirer?
+* End of year, [[Long Shadows]], final grades.
 
-
-People:
-
-* Head of the school: Preceptor [[Cadoc Belmin]]
-** Middle-aged [[half-elf]] fella
-** Eventually introduces Arien to the Khoravar idea of "the bridge between". Introduce Khoravar unity dinners
-** [[Oath of the Crown]]
-* Second-in-command: Prior [[Hemdoth Aggan]]
-** [[Order Domain]]
-* Mentor: Novice Master [[Wroenna Lonn]]
-** human lady, very strong and tall.
-** [[Oath of Devotion]]
-** Her heart glows so bright you can see it through her shirt
-* Swordbrother [[Farlay]]
-** Main fighting instructor at the Palaestra
-** Part of the Order of the [[Broken Blade]] and [[cleric]] of the [[War Domain]]
-* Visitant [[Sejra Whitebinder]]
-** (Meet her later)
-* [[Snarik the Mauve]]
-** A [[warlock]] of an [[archfey]] who is part of the [[Guild of Starlight and Shadows]] who creates illusions and conjures creatures for the purposes of training the novices. Only comes by once a month or so. The school pays for this, they're well-funded by the Brelish government.
 
 Other students: 
 
@@ -92,7 +119,7 @@ Other students:
 *  Names: Frush/Frutch, Verbane, Sandis, Teldovoor, Balabar, Todrik, Cesaria, Ravinia
 * [[https://blog.reedsy.com/character-name-generator/medieval/old-english/]]
 
-Arien needs three buddies. Don't have to be her age, but similar levels of power/progression on their paths. None of these folks have taken their sacred oaths yet or chosen a domain.
+Arien needs three buddies. Don't have to be her age, but similar levels of power/progression on their paths; they are all still novices, and haven't yet taken their sacred oaths yet or chosen a domain.
 
 * [[Roak]]
 * [[Ervol]]
