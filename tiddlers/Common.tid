@@ -1,10 +1,10 @@
 category: culture
 color: #A3CFBB
 created: 20210408170442896
-modified: 20220828015834338
+modified: 20220923221640173
 tags: language
 title: Common
-tooltip: main language of Khorvaire
+tooltip: main language of the Five Nations of Khorvaire
 type: text/vnd.tiddlywiki
 var: major
 

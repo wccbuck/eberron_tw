@@ -1,7 +1,7 @@
 category: culture
 color: #A3CFBB
 created: 20210110204825373
-modified: 20220823173912305
+modified: 20220923221612100
 tags: Droaam
 title: Culture of Droaam
 tooltip: page outlining the language, economy, religion, and other cultural elements of the nation of monsters
@@ -20,7 +20,7 @@ something that has yet to be fully formed. “Today may be difficult,
 and tomorrow may be harder still. But look what we've done in
 one decade, and imagine what we'll achieve in the next!”
 
-Within Droaam, some citizens have concrete, defined jobs—miners, masons, soldiers. Others are part of a general labor pool and may change jobs daily. This is especially true in the great cities, which are constantly expanding. However, Droaam
+Within [[Droaam]], some citizens have concrete, defined jobs—miners, masons, soldiers. Others are part of a general labor pool and may change jobs daily. This is especially true in the great cities, which are constantly expanding. However, Droaam
 isn't yet a highly organized bureaucracy, and it's easy to slip
 through the cracks if you choose to. Within the major cities,
 many citizens pursue their own businesses. Those who appear
@@ -53,8 +53,8 @@ other through the hissing and weaving of their snakes. However, this region was 
 [[Common]] is used as a trade language, and in modern times,
 many creatures speak it in addition to [[Goblin]]. Even before the
 arrival of the [[Daughters|Daughters of Sora Kell]], the people of the eastern Barrens
-often knew a little Common from interacting with Brelish
-settlers and the Westwind Riders. Today, the Daughters are
+often knew a little Common from interacting with [[Brelish|Breland]]
+settlers and the [[Westwind Riders]]. Today, the Daughters are
 encouraging the spread of Common, and have even begun
 providing regular classes in the language in [[Graywall]] and the
 [[Great Crag]], as understanding Common is useful for commerce
@@ -74,7 +74,7 @@ While Droaamites speak [[Goblin]], they aren't "dar" like the
 in //muut// or //atcha//, and don't use many other words integral to
 Dhakaani culture. Notably, they don't use the terms //chaat'oor//
 or //gath'dar// to refer to [[human]]s and their kin. Instead, they use
-//aravaat//—easterner—to refer to people of the Five Nations, and
+//aravaat//—easterner—to refer to people of the [[Five Nations]], and
 more generally, to refer to [[human]]s, [[halfling]]s, [[dwarves|dwarf]], [[elves|elf]],
 and similar species. Most Droaamites don't bother to learn the
 names of the different nations of [[Khorvaire]]. The West is the
@@ -124,14 +124,11 @@ Goblin symbol identifying the animal it's from is carved on
 each tooth, but most merchants won't accept teeth unless they
 personally recognize the tooth—so you can't just carve “[[wyvern]]”
 on wolf teeth. While the GM could treat bounty-marked teeth as
-another form of coinage—”the old goblin offers three [[displacer beast]] teeth, worth 10 silver”—adventurers who kill a dangerous [[monstrosity]] might wonder what the bounty is for their teeth. However, the tooth currency is based on the value the Daughters have placed on each bounty, and not every creature has a golden mouth. Some dangerous creatures might have a high value while others are worthless. The bounty is a way to encourage the elimination of threats, and if a creature doesn't threaten the people of Droaam—or is perhaps even an ally—there won't be a bounty on its teeth.
+another form of coinage—”the old goblin offers six [[displacer beast]] teeth, worth half a [[crown|money]]”—adventurers who kill a dangerous [[monstrosity]] might wonder what the bounty is for their teeth. However, the tooth currency is based on the value the Daughters have placed on each bounty, and not every creature has a golden mouth. Some dangerous creatures might have a high value while others are worthless. The bounty is a way to encourage the elimination of threats, and if a creature doesn't threaten the people of Droaam—or is perhaps even an ally—there won't be a bounty on its teeth.
 
 While bartering can be more time-consuming than dealing in
 coins, it's also an opportunity to introduce interesting adventure
-hooks. Perhaps a [[goblin]] merchant can't make change for a
-platinum piece, but she offers a scrap of vellum in exchange; it
-looks like a piece of a map, and she says it came from below the
-city. [[Dhakaan]]i relics, odd remnants of the [[daelkyr]] war, an object
+hooks. Perhaps a [[goblin]] merchant can't make change for a [[crown|money]], but she offers a scrap of vellum in exchange; it looks like a piece of a map, and she says it came from below the city. [[Dhakaan]]i relics, odd remnants of the [[daelkyr]] war, an object
 pawned by a [[Brelish|Breland]] deserter—any of these could be worth little
 to the one offering it, but priceless to those who receive it.
 
@@ -189,7 +186,7 @@ such, the Shadow is the deity most generally invoked by those
 seeking divine guidance or intervention.
 
 Overall, the Cazhaak Creed assigns the same values to the
-Dark Six as does the [[Pyrinean Creed]] of the [[Five Nations]], but
+[[Dark Six]] as does the [[Pyrinean Creed]] of the [[Five Nations]], but
 it sees these concepts as virtues. The [[Shadow]] is the Sovereign
 of ambition and helps you find your path to power, even if
 that means stepping on others on the way. The [[Fury]] is the
@@ -204,7 +201,7 @@ survive his tests grow strong. Priests of the [[Keeper]] perform
 funerary rites, which vary by species—from the [[medusa]]s that
 petrify their infirm so they never die, to the [[troll]]s and [[ogre]]s that
 eat their dead. The priests also act as healers, for disease and
-infection are tools of the Keeper, and a priest can remove them
+infection are tools of the [[Keeper]], and a priest can remove them
 for a price. The Keeper is the Sovereign of wealth and greed,
 and his priests are always willing to help a petitioner propose
 a bargain. The [[Traveler]] is rarely worshiped directly by any but
@@ -266,7 +263,7 @@ on the coastlines, while spicy [[displacer beast]] is popular inland.
 
 !! Medicine
 
-The chirugeons of Droaam employ methods that
+The chirurgeons of Droaam employ methods that
 are more gruesome than those of House [[Jorasco]], but these
 techniques are nonetheless effective. Broodworms are a form
 of maggot whose secretions help to both anesthetize a patient
@@ -287,7 +284,7 @@ a gifted “songbird” can produce a far wider range of effects
 than just the irresistible lure. The song of a talented harpy can
 inspire hope or despair, instill joy or bring tears to the eyes
 of listeners. Harpies call the start of each work shift, drawing
-workers to their tasks. Every grist mill has a songbird whose
+workers to their tasks. Every [[grist]] mill has a songbird whose
 magical voice soothes weary workers at the end of a shift. As
 harpies can project with supernatural volume, songbirds also
 call out the hour and serve as town criers, relaying important
