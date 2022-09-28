@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.18.2
-modified: 20220919223735645
+currentversion: 1.18.3
+modified: 20220928201659530
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,15 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.18.3 <span style="font-weight:normal">(Sep 28, 2022)</span>
+
+* Removed "Sharn" tag from [[Redcloak Battalion]]
+* Added some missing links to [[Droaamish History]] and [[Culture of Droaam]]
+* Added a sample calendar to the [[Khorvaire calendar]] page
+* Added a mention in the [[drow]] page that some drow integrated with cultures of [[Aerenal]]
+* Updated some information on the [[medusa]] page
+* Map tweak: Fixed the [[Glamerwind River]], made it actually connect to the bay
 
 !!! 1.18.2 <span style="font-weight:normal">(Sep 19, 2022)</span>
 
