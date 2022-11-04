@@ -1,7 +1,7 @@
 category: person
 color: #FEA627
 created: 20210202021259893
-modified: 20220829031828130
+modified: 20221103001133273
 tags: [[Forest of Flesh]] aberration elf wizard humanoid
 title: Mordain the Fleshweaver
 tooltip: powerful and infamous wizard who lives in exile in western Droaam, known for his disturbing attempts to master daelkyr magic
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 //"The executioners tried everything. He was bathed in acid, burned at the stake, drowned, even dismembered. And after each attempt, he rose again, his vigor unchecked and flesh rebound. No lesser mage could set his will over the flesh of Mordain."//
 <div align="right">—Salyon Syrralin d'Sivis</div>
 
-Mordain the Fleshweaver, one of the most powerful [[wizard]]s in history and the subject of dark fireside tales, lives in exile in western [[Droaam]]. Though the [[Twelve]]
+Mordain the Fleshweaver, one of the most powerful [[wizard]]s in history and the subject of dark fireside tales, lives in exile in western [[Droaam]]. Parents warn their children that Mordain steals disobedient children and carries them off to his [[living fortress|Mordain's Hall]], leaving perfect simulacra in their place so even their friends won’t miss them. Though the [[Twelve]]
 have attempted to imprison Mordain for his disturbing attempts
 to master the magic of the [[daelkyr]], few have the
 power to directly oppose him.
@@ -24,6 +24,46 @@ surrounds it is filled with foul [[skinweaver]]s and other horrors of Mordain’
 and the Shadow Marches, and some say that the mad
 mage hopes to reopen the gates to [[Xoriat]].
 
-More than two centuries ago, Mordain d’[[Phiarlan]] was one of the [[Twelve]], but the
-ambitious mage began delving into forbidden lore,
-choosing to experiment with the magic of the daelkyr. Though he was captured, tried, and found guilty of capital offenses, the mages could not find a way to execute the aberrant wizard. He was then petrified and sent to [[Dreadhold]], but escaped before reaching the island prison.
+More than two centuries ago, Mordain [[Phiarlan]] (no d', as he did not have a [[dragonmark]]) was a member of the [[Twelve]], and during that time developed [[spell]]s such as [[private sanctum]] and [[faithful hound]]. But the ambitious mage began delving into forbidden lore, dabbling in the secrets of the [[Closed Circle]] and experimenting with the magic of the [[daelkyr]] and the [[overlord]]s. According to one story, he sought to [[magebreed|magebreeding]] a new [[dragonmarked house]], but instead produced a line of [[aberration]]s that consumed his own family before they were destroyed. Whatever the truth of these stories, Mordain was excoriated from House [[Phiarlan]] in 797 YK. He was later captured, tried, and found guilty of capital offenses, but the mages could not find a way to execute the aberrant wizard. He was then petrified and sent to [[Dreadhold]], but somehow escaped before reaching the island prison.
+
+By now, Mordain should be 438 years old—well into his twilight years. However, a few among the [[Twelve]] say that Mordain experimented on himself, blending the blood of [[dragon]] and [[troll]] in his veins, and is no longer an [[elf]] in any meaningful sense of the word. Others say that Mordain is a feeble, decrepit creature, but that he never allows outsiders to see him—he has an army of organic constructs, and projects his thoughts through these vessels. Should a party decide to face Mordain in person, the GM needs to decide whether Mordain is himself a monster... or whether it is even possible to meet with the Fleshweaver.
+
+Unbeknownst to any but the Fleshweaver himself, Mordain also has developed a corps of invisible agents who act in the world on his behalf: the [[ethergaunt]]s.
+
+!! Using the Fleshweaver
+
+Mordain pairs unmatched arcane power with an utter disregard for the suffering of others. At the same time, Mordain has no interest in wealth or influence. He’s not trying to conquer [[Khorvaire]], and while he’s indifferent to the suffering his creations can cause, he’s not actually trying to harm others. A GM could decide that Mordain wants revenge on the [[dragonmarked house]]s for driving him away; but by default, he considers the houses to be as trivial and irrelevant as the [[Five Nations]]. All that he cares about is his work—creating and perfecting life. While his tower is in a dangerous region, his location is known; adventurers know where he can be found. With this in mind, there’s a number of ways Mordain can enter a campaign.
+
+!!! Mordain as Villain
+
+Mordain is an excellent source of "one-shot" problems that have to be dealt with but that have no long-term consequences. While he rarely leaves his [[tower|Mordain's Hall]] (assuming he even can), he can use [[scrying]] and teleportation to target his experiments across [[Khorvaire]]. Consider the following options.
+
+* Mordain might engineer a magical plague and inflict it on an isolated village to see what happens. Can the adventurers find a cure? Perhaps he’s experimenting with a new form of [[lycanthropy|therianthrope]]: how does it differ from the traditional form?
+* Mordain could introduce a dangerous monster into a region as an isolated threat, most likely just to see how things play out. Do you want a gargantuan [[gelatinous cube]] in the heart of [[Aundair]]? Blame Mordain.
+* Mordain could also introduce a significant population of monsters to a region, introducing a nest of [[kruthik]] or a band of [[yeti]] into an area. As a twist, perhaps he created these creatures by transforming a village. Can the victims be restored? If not, can the adventurers find a way to stabilize the situation?
+* Adventurers could stumble upon bizarre experiments. [[Dolurrh's Dawn]] is an isolated village in [[Droaam]] where Mordain has recreated legendary characters from history. His motives are unclear; but it’s certainly an interesting thing for a group of adventurers to discover.
+* Mordain could also be supplying or supporting an organization that the adventurers are fighting. He could be providing them with [[symbiont]]s or other [[magic item]]s, or giving them access to monstrous forces (you kill the leader of the organization, but a week later he’s back as a flesh [[golem]]!). The main question here is why? How is the group interesting or useful to Mordain?
+
+Mordain could even take a personal interest in the adventurers. Will he turn their friends into monsters, or grant strange powers to their enemies? Is he testing the adventurers, or is there something about them that poses a threat to his experiments? Does he know something about one of the adventurers they have yet to discover?
+
+As an aside: Mordain’s creations don’t have to be monsters. Mordain could transform the inhabitants of a village into turtle-folk, or create a murder of [[kenku]]. This can be a simple way to introduce a small population of an exotic population into a location; no one knows //why// Mordain put a tribe of tabaxi into the [[King's Forest]], but he did.
+
+Directly fighting Mordain is simply a bad idea, both in terms of difficulty, and because it won’t really accomplish anything. According to the legends, the [[Twelve]] and all its resources and experts couldn’t find a way to kill him—and that’s when they had him as a prisoner, not when he was in his [[hall|Mordain's Hall]] surrounded by his creations and defensive spells. His combat abilities might not even be that dramatic, but it likely doesn’t matter; at this point he has essentially become his tower, and he may simply produce a humanoid body when he needs to interact with outsiders. So he doesn’t need to be a terrifying force of destruction, because if you kill him he’ll just reappear within a few minutes. His role as an antagonist isn’t really to be a monster himself; it’s to create monsters and challenges.
+
+!!! Mordain as Ally
+
+Mordain has much to offer, from [[magic item]]s to strange boons. Mordain could easily serve as a patron for a [[warlock]] or a mysterious mentor for a [[wizard]] or even an entire group. What would he want from adventurers? A few possibilities…
+
+* Mordain wants the adventurers to clean up his messes. Use the same seeds from the previous section, but Mordain dispatches the PCs to minimize the collateral damage. He still feels a need to drop a gargantuan [[gelatinous cube]] into [[Aundair]], but once he’s learned what he needed, he’s happy to have the PCs deal with it.
+* Adventurers encounter a lot of exotic creatures. Mordain wants them to harvest organs of monsters they defeat, and will pay them (in gold or in other ways) for unusual finds.
+* Mordain is always interested in relics of the [[daelkyr]], and could send players into dangerous dungeons.
+* The lesser of two evils: a [[Cult of the Dragon Below|Cults of the Dragon Below]], the [[Lords of Dust]], the [[Dreaming Dark]], or a similar force could be interfering with one of Mordain’s experiments; he sends the adventurers to resolve the problem.
+* Mordain could want the adventurers to mediate a local problem with some of his neighbors in [[Droaam]] (likely a last resort before resolving the problem in a horrifying and deadly fashion).
+
+Working with Mordain should never be an entirely comfortable experience. There should always be the sense that he’s incredibly dangerous and could do something terrifying at any moment. But again, Mordain is motivated solely by his experiments; as long as those current experiments aren’t harming innocents, there’s no reason he can’t be a useful ally.
+
+!!! Secret Origin
+
+Mordain can be an interesting backstory element for an unusual character. Perhaps a player wants to create a character using a race that has no established place in Eberron, such as a loxodon or a Simic Hybrid. Simple answer: they were created by Mordain. This path could also be used to explain special abilities granted by [[talent]]s. Perhaps a [[sorcerer]]’s arcane powers stem from being [[magebred|magebreeding]] by Mordain. A character who’s mechanically a [[barbarian]] could decide that they’re actually an artificial lifeform created by Mordain and that their “rage” reflects a hulk-like battle mode. A [[monk]] could likewise describe their [[Unarmored Movement]] and enhanced abilities as being tied to Mordain-crafted mutations. Looking to [[Dolurrh's Dawn]], a character could say that they are a clone of a famous historical figure—that they are [[Karrn the Conqueror]] or [[Tira Miron]] reborn, or even a clone of a young Mordain the Fleshweaver!
+
+With any of these ideas, one must answer a few critical questions. Were they created in an isolated incident, or are they part of a larger experiment (like Dolurrh's Dawn)? Did Mordain release them into the wild, or did they escape captivity? Do they know the purpose for which they were created and are defying it, or could their adventuring career be part of Mordain’s plan?

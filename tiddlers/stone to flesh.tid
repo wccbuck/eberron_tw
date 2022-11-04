@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20221031000715364
+modified: 20221031001857211
+tags: transmutation
+tier: 3
+title: stone to flesh
+type: text/vnd.tiddlywiki
+
+You touch a mass of stone and attempt to turn it into flesh. The target must be a mass of stone no larger than 64 sq ft (such as a 4 foot cube), and with no dimension longer than 10 feet. The target can also be a petrified creature no larger than an [[ogre]] or a horse.
+
+If the target is a petrified creature, the spell restores them to their original state. Otherwise, the target becomes an inert mass of fleshy substance, lacking any vital life force, unless it was already animated; a [[golem]] of stone can be transmuted into a golem of flesh, but an ordinary statue would just become a corpse. An unwilling creature can try to resist the effects of this spell. Creatures of [[elemental]] stone have [[advantage]] to resist.

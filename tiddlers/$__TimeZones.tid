@@ -1,0 +1,25 @@
+created: 20221031175554126
+end: Sharn
+modified: 20221101015533001
+start: Thronehold
+time: 12
+title: $:/TimeZones
+type: text/vnd.tiddlywiki
+
+<$set name="startlat" filter="[{!!start}get[points]split[,]last[]degreesinrange[-130]]">
+<$set name="endlat" filter="[{!!end}get[points]split[,]last[]degreesinrange[-130]]">
+<$set name="startmaxcutoff" filter="[[$:/TimeZoneCutoffs]indexes[]compare:number:lt<startlat>maxall[]]">
+<$set name="starttimechange" filter="[[$:/TimeZoneCutoffs]getindex<startmaxcutoff>]">
+<$set name="endmaxcutoff" filter="[[$:/TimeZoneCutoffs]indexes[]compare:number:lt<endlat>maxall[]]">
+<$set name="endtimechange" filter="[[$:/TimeZoneCutoffs]getindex<endmaxcutoff>]">
+<$set name="endtime" filter="[[$:/TimeZones]get[time]subtract<starttimechange>add<endtimechange>]">
+<$wikify name="endtimedisplay" text="""<$list filter="[[$:/TimeNames]getindex<endtime>]"><<currentTiddler>></$list>""">
+<<endtimedisplay>>
+</$wikify>
+</$set>
+</$set>
+</$set>
+</$set>
+</$set>
+</$set>
+</$set>

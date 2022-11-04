@@ -1,0 +1,241 @@
+category: game mechanics
+created: 20221031174218668
+modified: 20221101015814107
+tags: 
+title: time zones of Eberron
+type: text/vnd.tiddlywiki
+
+\define cityTownOrFort() [tag[city]] [tag[town]] [tag[fortress]] [tag[dragonborn clanhold]]
+
+Use this tool to see what time of day it is at different points on the Material Plane of [[Eberron]]. Time zones would be likely be observed in the world of Eberron, at least on [[Khorvaire]], where the [[lightning rail]] networks most of the continent and runs on a strict schedule, and House [[Sivis]]'s [[message stations|speaking stone]] can communicate across the vast distances instantaneously.
+
+The tool assumes that even though the Prime Meridian (0° line of longitude) passes through the city of [[Thronehold]], the International Date Line is not located directly 180 degrees across the globe from Thronehold, as that would pass directly through the continent of [[Sarlona]]. Instead, the International Date Line passes through the -130° line of longitude; crossing that line traveling west increments the date by 1, while crossing it traveling east decrements the date by 1. Each time zone spans 15 degrees of longitude. This tool does not assume any bending or altering of these time zones to match political boundaries. In [[Riedra]], for example, it is likely that the [[Unity]] holds the entire nation at one time zone; consider using Dar Catun or Dar Mun time for all Riedran sites.
+
+When selecting a site from the dropdown lists, depending on your browser, you may be able to jump directly to the site you are searching for by typing its name.
+
+!
+
+<table style="width:100%;">
+<tr>
+<td>
+When it is... <$select tiddler="$:/TimeZones" field="time" default="12">
+  <$list filter="[range[0],[23]]" variable="time">
+    <option value=<<time>>><$transclude tiddler="$:/TimeNames" index=<<time>>/> 
+    </option>
+  </$list>
+</$select>
+</td>
+<td style="text-align: right;">...in <$select tiddler="$:/TimeZones" field="start" default="Thronehold">
+  <optgroup label="(The Five Nations)"></optgroup>
+  <option>Thronehold</option>
+  <optgroup label="Aundair">
+  <$list filter="[tag[Aundair]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Breland">
+  <$list filter="[tag[Breland]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Cyre (Mournland)">
+  <$list filter="[tag[Mournland]tag[ruin]has[points]minrelevance[1000]] [[Stillwater Station]] +[sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Karrnath">
+  <$list filter="[tag[Karrnath]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Thrane">
+  <$list filter="[tag[Thrane]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup>
+  <optgroup label="(Greater Khorvaire)"></optgroup>
+  <optgroup label="Darguun">
+  <$list filter="[tag[Darguun]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Droaam">
+  <$list filter="[tag[Droaam]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Eldeen Reaches">
+  <$list filter="[tag[Eldeen Reaches]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Lhazaar Principalities">
+  <$list filter="[tag[Lhazaar Principalities]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Mror Holds">
+  <$list filter="[tag[Mror Holds]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Q'barra">
+  <$list filter="[tag[Q'barra]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Shadow Marches">
+  <$list filter="[tag[Shadow Marches]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Talenta Plains">
+  <$list filter="[tag[Talenta Plains]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Valenar">
+  <$list filter="[tag[Valenar]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Zilargo">
+  <$list filter="[tag[Zilargo]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup>
+  <optgroup label="(Beyond the Thunder Sea)"></optgroup>
+  <optgroup label="Aerenal">
+  <$list filter="[tag[Aerenal]subfilter<cityTownOrFort>has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Xen'drik">
+  <$list filter="[tag[Xen'drik]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup>
+  <optgroup label="(Sarlona)"></optgroup>
+  <optgroup label="Riedra">
+  <$list filter="[tag[Riedra]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Adar">
+  <$list filter="[tag[Adar]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Syrkarn">
+  <$list filter="[tag[Syrkarn]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup><optgroup label="Tashana">
+  <$list filter="[tag[Tashana Tundra]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup>
+  <optgroup label="(Lands Uncharted)"></optgroup><optgroup label="Argonnessen">
+  <$list filter="[tag[Argonnessen]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="start">
+    <option><<start>></option>
+  </$list>
+  </optgroup>
+</$select>
+</td></tr>
+<tr>
+<td>
+It is ''{{$:/TimeZones}}''
+</td><td style="text-align: right;">
+...in <$select tiddler="$:/TimeZones" field="end" default="Thronehold">
+  <optgroup label="(The Five Nations)"></optgroup>
+  <option>Thronehold</option>
+  <optgroup label="Aundair">
+  <$list filter="[tag[Aundair]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Breland">
+  <$list filter="[tag[Breland]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Cyre (Mournland)">
+  <$list filter="[tag[Mournland]tag[ruin]has[points]minrelevance[1000]] [[Stillwater Station]] +[sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Karrnath">
+  <$list filter="[tag[Karrnath]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Thrane">
+  <$list filter="[tag[Thrane]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup>
+  <optgroup label="(Greater Khorvaire)"></optgroup>
+  <optgroup label="Darguun">
+  <$list filter="[tag[Darguun]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Droaam">
+  <$list filter="[tag[Droaam]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Eldeen Reaches">
+  <$list filter="[tag[Eldeen Reaches]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Lhazaar Principalities">
+  <$list filter="[tag[Lhazaar Principalities]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Mror Holds">
+  <$list filter="[tag[Mror Holds]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Q'barra">
+  <$list filter="[tag[Q'barra]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Shadow Marches">
+  <$list filter="[tag[Shadow Marches]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Talenta Plains">
+  <$list filter="[tag[Talenta Plains]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Valenar">
+  <$list filter="[tag[Valenar]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Zilargo">
+  <$list filter="[tag[Zilargo]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup>
+  <optgroup label="(Beyond the Thunder Sea)"></optgroup>
+  <optgroup label="Aerenal">
+  <$list filter="[tag[Aerenal]subfilter<cityTownOrFort>has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Xen'drik">
+  <$list filter="[tag[Xen'drik]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup>
+  <optgroup label="(Sarlona)"></optgroup>
+  <optgroup label="Riedra">
+  <$list filter="[tag[Riedra]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Adar">
+  <$list filter="[tag[Adar]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Syrkarn">
+  <$list filter="[tag[Syrkarn]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup><optgroup label="Tashana">
+  <$list filter="[tag[Tashana Tundra]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup>
+  <optgroup label="(Lands Uncharted)"></optgroup><optgroup label="Argonnessen">
+  <$list filter="[tag[Argonnessen]subfilter<cityTownOrFort>!tag[dungeon]has[points]minrelevance[1000]sort[title]]" variable="end">
+    <option><<end>></option>
+  </$list>
+  </optgroup>
+</$select>
+</td></tr></table>
+
+!
+
+Links to the selected locations: 
+
+<$list filter="[[$:/TimeZones]get[start]] [[$:/TimeZones]get[end]]">
+{{!!article}}<$link/><br/>
+</$list>

@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20220826055207140
-modified: 20220826064129647
+modified: 20221104061503390
 points: 33.04,-26.82
 population: 1400
 style: {"color": "#CA5700"}
 tags: Breland town
 title: Threshold
+tooltip: Brelish frontier town on the border with Droaam, exports quickstone
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

@@ -2,13 +2,13 @@ category: spell
 color: #B7A1E0
 created: 20210412040334704
 highertier: show
-modified: 20220220215541697
+modified: 20221102161136130
 tags: divination [[divine magic]]
 tier: 3
 title: true seeing
 type: text/vnd.tiddlywiki
 
-This spell (which requires and consumes [[2c|money]] worth of material components to cast) gives the willing creature you touch the ability to see things as they actually are. For ten minutes, the creature has [[truesight]], notices secret doors hidden by magic, and can see into the [[Border Ethereal|etherealness]], all out to a range of 30 feet.
+This spell (which requires and consumes [[2c|money]] worth of material components to cast) gives the willing creature you touch the ability to see things as they actually are. For ten minutes, the creature has [[truesight]], notices secret doors hidden by magic, and can see into the [[Ethereal Veil]], all out to a range of 30 feet.
 
 <$reveal type="match" state="!!highertier" text="show">
 

@@ -1,12 +1,12 @@
 category: spell
 color: #B7A1E0
 created: 20210731224345979
-modified: 20220102201542035
+modified: 20221102160341293
 tags: conjuration
 tier: 3
 title: blink
 type: text/vnd.tiddlywiki
 
-Every few seconds for the next minute, at random intervals, you vanish from your current [[plane]] of existence and enter the ethereal region where it fades into the [[Astral Sea]]. After a few seconds, and when the spell ends if you are on the "Border Ethereal", you return to an unoccupied space of your choice that you can see within 10 feet of the spot you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (chosen at random if more than one space is equally near). You can dismiss this spell at will.
+Every few seconds for the next minute, at random intervals, you vanish from your current [[plane]] of existence and enter the [[Ethereal Veil]]. After a few seconds, and when the spell ends if you are in the Veil, you return to an unoccupied space of your choice that you can see within 10 feet of the spot you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (chosen at random if more than one space is equally near). You can dismiss this spell at will.
 
-While on the Border Ethereal, you can see and hear the [[plane]] you originated from, which is cast in shades of gray, and you can't see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Border Ethereal. Creatures that aren't there can't perceive you or interact with you, unless a special ability or magic has given them the ability to do so.
+While in the [[Ethereal Veil]], you can see and hear the [[plane]] you originated from, which is cast in shades of gray, and you can't see anything there more than 60 feet away. You can only affect and be affected by other creatures in the Veil. Creatures that aren't there can't perceive you or interact with you, unless a special ability or magic has given them the ability to do so.

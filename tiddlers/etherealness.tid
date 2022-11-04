@@ -2,22 +2,22 @@ category: spell
 color: #B7A1E0
 created: 20210412010703786
 highertier: show
-modified: 20220824170336606
+modified: 20221102160624302
 tags: conjuration
 tier: 4
 title: etherealness
-tooltip: step into the border regions of your plane where it fades into the Astral Sea for up to 8 hours; you are incorporeal, invisible, and can move freely in any direction
+tooltip: step into the Ethereal Veil for up to 8 hours; you are incorporeal, invisible, and can move freely in any direction
 type: text/vnd.tiddlywiki
 
-You step into the border regions of your current [[plane]], in the ethereal region where it fades into the [[Astral Sea]]. You remain in the "Border Ethereal" for up to eight hours or until you choose to dismiss the spell. During this time, you can move in any direction. If you move up or down, you move at half speed. You can see and hear the plane you originated from, but everything there looks gray, and you can't see anything more than 60 feet away.
+You step into the shadow of your current [[plane]], into the region known as the [[Ethereal Veil]]. You remain in the Veil for up to eight hours or until you choose to dismiss the spell. During this time, you can move in any direction. If you move up or down, you move at half speed. You can see and hear the plane you originated from, but everything there looks gray, and you can't see anything more than 60 feet away.
 
-While in the Border Ethereal, you can only affect and be affected by other creatures in that region. Creatures that aren't in the Border Ethereal can't perceive you and can't interact with you, unless a special ability or magic has given them the ability to do so.
+While in the [[Ethereal Veil]], you can only affect and be affected by other creatures in that region. Creatures that aren't in the Veil can't perceive you and can't interact with you, unless a special ability or magic has given them the ability to do so.
 
-You ignore all objects and effects that aren't in the Border Ethereal, allowing you to move through objects you perceive on the [[plane]] you originated from.
+You ignore all objects and effects that aren't in the Veil, allowing you to move through objects you perceive on the [[plane]] you originated from.
 
-When the spell ends, you immediately return to the plane you originated from in the spot you currently occupy. If you occupy the same spot as a solid object or creature when this happens, you are immediately shunted to the nearest unoccupied space that you can occupy and suffer some force damage.
+When the spell ends, you immediately return to the plane you originated from in the spot you currently occupy. If you occupy the same spot as a solid object or creature when this happens, you are immediately shunted to the nearest unoccupied space that you can occupy and suffer force damage proportional to the distance you traveled.
 
-This spell has no effect if you cast it while you are in the Border Ethereal or under an effect that inhibits planar travel.
+This spell has no effect if you cast it while you are in the [[Ethereal Veil]] or under an effect that inhibits planar travel.
 
 <$reveal type="match" state="!!highertier" text="show">
 
