@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210331200737600
-modified: 20220805184920283
+modified: 20221103012504411
 tags: Storyloom
 title: Taking Action
 tooltip: documentation page for the core attempt mechanic in Storyloom
@@ -19,7 +19,7 @@ To determine your pool of dice for a roll, it’s as simple as answering the fol
 Like [[Blades in the Dark|https://bladesinthedark.com/basics]] and other "Powered by the Apocalypse" games, ''the GM does not roll dice to take actions. Only the players do.'' So enemies, NPCs, and the like only "act" in the sense that their actions and decisions are narrated depending on the results of the players' dice rolls. 
 
 <<<
-''Sidebar: NPC Game Mechanics''<br/>
+''A Note on NPC Game Mechanics''<br/>
 Certain spells, items, and magical effects in the game might describe how they restore the target's [[stress]] or [[harm]], or apply [[disadvantage]] to a specific [[action]] performed by the target, or in some way interact with PC-specific game mechanics. If any of these effects are applied to non-player characters, the GM needs to adjudicate how to translate them into a player-focused mechanic. Some are easy; disadvantage for an enemy means an [[advantage]] for a PC. Others might need some narrative framing. When in doubt, the GM can just translate bonuses into [[momentum]] or some other positive effect.
 <<<
 

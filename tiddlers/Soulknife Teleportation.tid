@@ -1,0 +1,11 @@
+category: talent
+created: 20221106193415091
+modified: 20221106194716745
+tags: soulknife
+title: Soulknife Teleportation
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+''Prerequisite:'' [[Soulknife (talent)]].
+
+Your psychic blades are now more closely linked to your psi-suffused soul. When you cast [[psychic blades]], as long as the spell is still active, you can throw your psychic blade to a point within 60 feet and immediately teleport to that point. The blade then vanishes and the spell effect ends.

@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20201217055913717
-modified: 20220806215027603
+modified: 20221103014221003
 tags: undead spirit
 tier: 2
 title: ghost
@@ -14,12 +14,37 @@ Ghosts are formed when a [[shade]] clings to a particular
 memory with such intensity that even [[Dolurrh]] can't completely
 eradicate it—perhaps a terrible mistake or a bitter grudge. The
 rest of the spirit's memories fade, and it becomes immune to
-ennui, but this ember remains, defining its existence. Ghosts
+[[ennui|Eternal Ennui]], but this ember remains, defining its existence. Ghosts
 are driven by a primal desire to return to [[Eberron]], to haunt the
 place where they died or where their anchoring memory was
 forged; they might escape to the Material Plane when Dolurrh
-is coterminous or when a resurrection goes wrong. While they have at least some of their memories from life, most ghosts aren’t fully aware of their condition or the passage of time, and they generally can’t retain new information. Ghosts that
-are destroyed eventually reform; they can only find peace if
+is coterminous or when a resurrection goes wrong. Such lingering ghosts reside in the [[Ethereal Veil]]; a ghost driven by exceptionally powerful emotions or memories can actually reshape the Veil into a pocket of illusory reality known as a //Haunt//.
+
+While they have at least some of their memories from life, most ghosts aren’t fully aware of their condition or the passage of time, and they generally can’t retain new information. Ghosts that are destroyed eventually reform; they can only find peace if
 their unfinished business is resolved.
 
-//''Ghostly Manifestations.''// Sensations of profound sadness, loneliness, and unfulfilled yearning emanate from places where ghostly hauntings occur. Strange sounds or unnatural silences create an unsettling atmosphere. Cold spots settle in rooms that have roaring fires. A choking stench might seep into the area, inanimate objects might move of their own accord, and corpses might rise from the grave. The ghost has no control over these manifestations; they simply occur.
+Sensations of profound sadness, loneliness, and unfulfilled yearning emanate from places where ghostly hauntings occur. Strange sounds or unnatural silences create an unsettling atmosphere. Cold spots settle in rooms that have roaring fires. A choking stench might seep into the area, inanimate objects might move of their own accord, and corpses might rise from the grave. The ghost has no control over these manifestations; they simply occur.
+
+!! Lingering Ghosts and Anchors
+
+Ghosts usually don’t know that they’re ghosts. They linger because they’re trapped in a particular moment or by a powerful anchor, and they interpret all events through that emotional lens. Often when dealing with adventurers, a ghost will fixate on one or more adventurers who bear some similarity to characters from their own personal drama—recognizing the bard as the lover who spurned them, or the rogue as the cousin who ruined them—and completely ignore the other adventurers. They generally can’t be reasoned with and simply won’t hear things that don’t fit their narrative. Persuasion often has little impact on them, because they essentially //can’t change their minds//… unless the speaker is actually invoking part of the ghost’s story, in which case such an attempt might have [[advantage]].
+
+Lingering ghosts typically dwell in the [[Ethereal Veil]], and aren't visible on the Material Plane while there; there could be ghosts around you right now, but you'd never know unless something pulls them across the Veil. They can possess living creatures, but often don't realize they are doing so, and simply believe the body is their own. The key to making encounters with ghosts interesting is to vary them based on the story and unique nature of the ghost.
+
+* To harm the ghost, you must recreate the circumstances of its original death. The man who died in fire might be immune to all damage types except fire. A noble who died in a fateful duel could be immune to all physical damage except from rapiers, and vulnerable to damage from the rapier that actually killed them.
+* The ghost can’t attack. It can taunt and provoke, and it can counterattack, but if people simply ignore it, it can’t initiate violence.
+* The ghost might twist its face into a horrifying visage in a moment of anguish or rage; any who look upon it suffer psychic damage and may even instantly age 20 years (an effect which might be mitigated by a greater [[restoration]]).
+* When the ghost touches a target, the victim has a flash of its anchoring trauma, causing fear and psychic damage. Alternatively, it can cast [[phantasmal killer]] at will, drawing a victim into the nightmare of the ghost’s own death. 
+* Instead of possession, the ghost has the power to draw a single victim into the [[Ethereal Veil]]. The victim’s physical body remains on the Material Plane, but their consciousness and likeness are pulled into the Veil, where they can interact with it as if they were physically present. So the victim’s companions can see the character struggling with an unknown foe, but they can’t perceive the ghost or interact with it in any way.
+* Instead of possession, the ghost can cast [[dream]], targeting creatures across the Veil. It may target someone it identifies with, forcing them to suffer visions of the ghost’s demise, or it could target someone it blames for its tragedy.
+
+!!! Loosening Anchors
+
+A Haunt within the [[Ethereal Veil]] reflects the anchors that are binding the ghost to the world, which may not be related to the actual moment of their death. Slipping into the Veil while within the ir’Halan manor may reflect the night Lady ir’Halan was murdered, but the haunted [[Cannith]] foundry may reflect the day that Castar d’Cannith disowned his father or ruined his business partner; even if Castar died a natural death, it’s his intense guilt over what he did in the foundry that binds him to the world. In dealing with anchors, consider the following questions.
+
+* Was the ghost the victim in the scenario—murdered, financially ruined, framed for a crime they didn’t commit? Or are they anchored by guilt for the wrongs they inflicted on others?
+* If the ghost was a victim, do they want bloody revenge? If they don’t want blood, do they want the wrongdoer to feel remorse or to publicly acknowledge what was done? Or do they just want the truth to be known by the general public?
+* If the ghost was a perpetrator, do they want to make reparations for the crimes that they committed? Do they want the truth to be known? Or do they refuse to acknowledge that they have done something wrong, and they actually want any lingering evidence of their guilt to be wiped out?
+* Did the ghost die with a task unfinished? This could be very concrete—a letter that was never delivered, an arcane experiment that was never completed, a buried treasure that was supposed to be found. Or it could be more abstract—they wanted a town to prosper, a child to have a good home.
+
+Loosening an anchor could be a task for an altruistic group of adventurers who want to lay a ghost to rest. However, it can also simply be used to set the tone and parameters of a Haunt. A murdered man may not be able to rest until the entire family line of his murderer has been exterminated. The adventurers may consider this desire to be extreme and cruel; the ghost’s Haunt may reflect their hunger for bloody vengeance, and if one of the player characters is part of the murderer’s bloodline, it could drive the story.

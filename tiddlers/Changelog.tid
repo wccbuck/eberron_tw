@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.18.3
-modified: 20220928201659530
+currentversion: 1.18.6
+modified: 20221106200313571
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,34 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.18.6 <span style="font-weight:normal">(Nov 06, 2022)</span>
+
+* Added [[Headless Haralara]]
+* Added a bit to [[Shadukar]]
+* Added [[talent]]s [[Soulknife (talent)]] and [[Soulknife Teleportation]], and the spell [[psychic blades]]
+* Buffed the [[darkvision]] bonus for [[Gloom Stalker (talent)]]
+* Specified you can attack 3x faster in the description for [[swift quiver]]
+* Fixed some typos/rephrased some things in [[time zones of Eberron]]
+* Fixed an error in the [[latitude]] pages. Everywhere I said "equinox", I meant "solstice". That mistake has been in this thing for a year and a half!
+* Added a link to [[Find Things]] on the advanced search page
+* Added an option to open the progress clocks tool in the main story river (this part of the page, not the alert to the right)
+
+!!! 1.18.5 <span style="font-weight:normal">(Nov 04, 2022)</span>
+
+* Added [[time zones of Eberron]]. Now you can see what time it is in Sharn when it's 3:00 PM in Regalport!
+* Added [[Sovereign Saints and Relics]]
+* Added [[Ethereal Veil]]. Also added associated pages:
+** [[oil of etherealness]], [[passage salve]], [[Veil torc]], [[ethergaunt]]
+* Added a bunch of content to the page for [[Mordain the Fleshweaver]], and removed the d' from his original name since he didn't have a [[dragonmark]]
+* Added a bunch of content to [[Sylbaran]]
+* Added the spell [[stone to flesh]]
+* Added the following weird fish and birds from [[Box Full of Boxes Blog|https://boxfullofboxes.blogspot.com/]]:
+** [[inkgill fish]], [[tindul steamfish]] (renamed from "Dolchean" steamfish), [[plunder crab]], [[widow whale]], [[lighthouse shark]], [[missile shrimp]], [[dream char]], [[adamantine urchin]], [[etherfish]], [[sandsprinter]], [[cloudjay]].
+
+!!! 1.18.4 <span style="font-weight:normal">(Oct 19, 2022)</span>
+
+* Fixed download button
 
 !!! 1.18.3 <span style="font-weight:normal">(Sep 28, 2022)</span>
 

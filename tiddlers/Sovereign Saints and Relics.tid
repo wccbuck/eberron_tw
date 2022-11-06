@@ -1,0 +1,77 @@
+category: phenomenon
+color: #432874
+created: 20221031233633224
+modified: 20221104195337076
+tags: [[Sovereign Host]]
+title: Sovereign Saints and Relics
+tooltip: random tables for generating saints and relics of the Sovereign Host
+type: text/vnd.tiddlywiki
+var1: Kaine
+var2: Quick
+var3: [[Onatar]]
+var4: cloak or robe
+var5: tree or forest
+
+Some followers of the [[Sovereign Host]] form an especially close bond to the Sovereigns, and are capable of performing miracles or sharing the blessings of the Host with others. These chosen few are colloquially known as "saints". 
+
+The [[Pyrinean|Pyrinean Creed]] faith doesn’t believe that these people continue to affect the world after death. The Sovereigns are always with us; you don’t need Saint Isti to bless your blade, because [[Dol Dorn]] and [[Dol Arrah]] are with you right now. However, saints of the [[Sovereign Host]] have certainly left their mark on the world. People still tell stories of Saint Isti the Beacon, and how she defeated hordes of [[undead]] with her shining blade. There’s a battlefield named after her, and her sword is one of the great treasures of the Sovereign Temple of [[Passage]]. You won’t call on Saint Isti to intervene on your behalf, but you might invoke her as an inspiring example, or seek out her undead-smiting blade, or stumble into a cemetery dedicated to her memory. 
+
+In addition, some Sovereign saints still live, such as [[Daca]] in [[High Hope]], [[Sharn]]. Perhaps the small village you’re passing through turns out to be home to Davan the Old, a devotee of [[Arawai]] who is said to have brought an end to a terrible plague!
+
+!!! Saints and Relics Table
+
+| !<<dr d20>> |!Name |!Trait |!Tied To |!Relic |!Associated With A... |
+| 1 |Asta |The Old |[[Arawai]] |Favored Weapon<br/>(see below) |Plague |
+| 2 |Davan |The Strong |[[Arawai]] |Tool |Rebellion |
+| 3 |Isti |The Quick |[[Aureon]] |Instrument |Temple |
+| 4 |Moras |The Beacon |[[Aureon]] |Ring |Beloved Song |
+| 5 |Tara |The Unloved |[[Balinor]] |Cloak or Robe |War or Battlefield |
+| 6 |Drago |The Unkind |[[Balinor]] |Belt |Prison |
+| 7 |Besre |The Forgotten |[[Boldrei]] |Hair |Village or Town |
+| 8 |Jurian |The Wise |[[Boldrei]] |Book |Fountain or Pond |
+| 9 |Ket |The True |[[Dol Arrah]] |Boots or Shoes |Tree or Forest |
+| 10 |Urik |The Young |[[Dol Arrah]] |Armor or Shield |Cave or Peak |
+| 11 |Theda |The Gentle |[[Dol Dorn]] |Amulet |Ruin |
+| 12 |Laris |The Small |[[Dol Dorn]] |Mirror |Cemetery or Vault |
+| 13 |Beleth |The Clever |[[Kol Korran]] |Scroll |University or Library |
+| 14 |Kaine |The Bold |[[Kol Korran]] |Gloves |Marketplace |
+| 15 |Hariel |The Grim |[[Olladra]] |Lantern |[[Dragonmarked House|dragonmarked house]] |
+| 16 |Cord |The Frail |[[Olladra]] |Fingerbone |[[Noble Family|Nobility of the Five Nations]] |
+| 17 |Sede |The Arcane |[[Onatar]] |Eye |[[Manifest Zone|manifest zone]] |
+| 18 |Vedim |The Warrior |[[Onatar]] |Tooth |[[Undead|undead]] or [[aberration]]s |
+| 19 |Chantalyn |The Unseen |The [[Host|Sovereign Host]] |Skull |[[Fiend|fiend]] |
+| 20 |Lukar |The Beautiful |The [[Dark Six]] |Martyring Weapon |[[Dragon|dragon]] |
+
+<<<
+<$button>
+<$action-chooserandom $filter="Asta Davan Isti Moras Tara Drago Besre Jurian Ket Urik Theda Laris Beleth Kaine Hariel Cord Sede Vedim Chantalyn Lukar" $field="var1"/>
+<$action-chooserandom $filter="Old Strong Quick Beacon Unloved Kind Forgotten Wise True Young Gentle Small Clever Bold Grim Frail Arcane Warrior Unseen Beautiful" $field="var2"/>
+<$action-chooserandom $dataTiddler="$:/SaintSovereign" $field="var3"/>
+<$action-chooserandom $filter="[[favored weapon]] tool instrument ring [[cloak or robe]] belt [[lock of hair]] book [[pair of boots or shoes]] [[shield or set of armor]] amulet mirror scroll [[pair of gloves]] lantern fingerbone eye tooth skull [[martyring weapon]]" $field="var4"/>
+<$action-chooserandom $filter="plague rebellion temple [[beloved song]] [[war or battlefield]] prison [[village or town]] [[fountain or pond]] [[tree or forest]] [[cave or peak]] ruin [[cemetery or vault]] [[university or library]] marketplace [[dragonmarked house]] [[noble family]] [[manifest zone]] [[undead or aberrations]] fiend dragon" $field="var5"/>
+Generate Sovereign Saint
+</$button>
+
+''Saint: '' {{!!var1}} the {{!!var2}}, Saint of {{!!var3}}, associated with a {{!!var4}} and a {{!!var5}}
+<<<
+
+!! Using the Table
+
+* ''Names.'' Feel free to use the names provided, or create a new name. You could even take the name of a player character and roll to see which legendary saint they were named after! //“Fasil, did you know you’re named after Fasil the Frail, a saint of [[Onatar]] who founded this town?”//
+* ''Traits.'' Think about how the chosen trait matches up to the Sovereign associated with the character. Sede the Arcane makes perfect sense as a saint of [[Aureon]], but Kaine the Frail may feel like a weird choice to be a saint of [[Dol Dorn]]. But try to embrace and explore that. We know that the virtues of Dol Dorn are strength and courage; it could be that Kaine the Frail had fragile bones from a curse, but when his town was attacked by brigands, he displayed impossible strength in fighting them. Or it could be that while he was physically weak, he had indomitable courage that others knew was a gift of Dol Dorn. The trait is something that stands out about the saint, but it could be an aspect that’s in addition to the blessings they received from the Sovereigns.
+* ''Associated Sovereign.'' Vassals revere all the Sovereigns. However, saints are often associated with a particular Sovereign, and this suggests their background or skill set. Most likely, a saint associated with [[Dol Dorn]] will be celebrated for courage or skill at arms, whether they were a career soldier or a folk hero; a saint tied to [[Aureon]] might have been a scholar, a [[wizard]], or a judge. Combine this with their trait and see what story suggests itself. A saint associated with the [[Dark Six]] could be tied to one of the [[Three Faces]] cults—they were blessed by the [[Mockery]] in the role of Dol Azur—or it could be that they are best known for //opposing// one of the Dark Six.
+* ''Relic.'' What has the saint left behind? Have these relics been found, or have people been searching for the //Gloves of Laris the Quick// for generations? As with traits, think about the associated Sovereign when establishing the details of the relics. Gloves associated with [[Dol Dorn]] are likely gauntlets that provide excellent protection, while gloves tied to Olladra might be [[gloves of thievery]]. “Tool” and “Instrument” are intentionally vague because of this. A saint of [[Onatar]] will have [[smith's tools]], while a tool of Olladra could be dice or a deck of cards. A key question is: was the relic a tool used by the saint in life, or is it simply all they’ve left behind? The "skull" entry on the table doesn't suggest that the saint carried a skull in life; it’s that the saint’s actual skull has been preserved and is thought to be blessed.<br/>The "Favored weapon" entry depends on the Sovereign in question:
+** [[Arawai]]: flail
+** [[Aureon]]: quarterstaff
+** [[Balinor]]: bow
+** [[Boldrei]]: spear
+** [[Dol Arrah]]: halberd
+** [[Dol Dorn]]: longsword
+** [[Kol Korran]]: mace
+** [[Olladra]]: dagger
+** [[Onatar]]: warhammer
+* ''Association.'' This suggests one of the best known legends of the saint, and the mark they’ve left on the world. If they’re tied to a village, did they found the village? Protect it from disaster? Die there? If they’re associated with a plague, did they stop the plague or fight the [[demon]] that unleashed it? If they’re tied to a [[dragonmarked house]], was the saint a scion of the house or did they take a stand against it? If they’re associated with a prison, is it because they imprisoned a [[fiend]] (as [[Tira Miron]] imprisoned [[Bel Shalor]])? Because they died in a prison, which is now a cursed ruin? Or because they founded a prison, perhaps associated with their Sovereign—a debtor’s prison that’s also a temple to [[Kol Korran]], or a prison associated with [[Dol Arrah]] that seeks to lead criminals back to the light?
+
+!!! Example Interpretation
+
+//Jurian the Unseen, Saint of Boldrei, associated with a Ring and a Plague.// Saint Jurian had a ring of invisibility and traveled unseen through villages that had been sealed up due to fear of the plague, whispering messages of hope or bringing tiny gifts that lifted the spirits of those left to die, giving them the strength to fight the plague. It’s believed he eventually succumbed to the plague, but no one knows; if he died, he was still wearing his ring, and his body was never found. 

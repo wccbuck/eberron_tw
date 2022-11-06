@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201210232755592
-modified: 20220824163322638
+modified: 20221102160914159
 tags: conjuration
 tier: 4
 title: plane shift
@@ -13,3 +13,5 @@ You and up to eight willing creatures who link hands in a circle are transported
 Alternatively, if you know the sigil sequence of a [[teleportation circle]] on another plane of existence, this spell can take you to that circle. If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle.
 
 You can use this spell to banish an unwilling creature to another plane. If you are touching a creature, you can attempt this spell; if the creature fails to resist, it is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence.
+
+This spell can't transport you to the [[Ethereal Veil]], as the Veil is not a [[plane]].
