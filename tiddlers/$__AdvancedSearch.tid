@@ -1,0 +1,12 @@
+color: #bbb
+created: 20221104194640450
+icon: $:/core/images/advanced-search-button
+modified: 20221104194646162
+title: $:/AdvancedSearch
+type: text/vnd.tiddlywiki
+
+<div class="tc-advanced-search">
+<$macrocall $name="tabs" tabsList="[all[shadows+tiddlers]tag[$:/tags/AdvancedSearch]!has[draft.of]]" default="$:/core/ui/AdvancedSearch/System" actions="""<$action-setfield $tiddler="$:/state/advancedsearch/currentTab" text=<<currentTab>>/>""" explicitState="$:/state/tab--1498284803"/>
+</div>
+
+See also [[Find Things]].

@@ -1,6 +1,6 @@
 category: talent
 created: 20211124235642610
-modified: 20220722221357532
+modified: 20221106194519881
 tags: [[gloom stalker]]
 title: Gloom Stalker (talent)
 type: text/vnd.tiddlywiki
@@ -8,6 +8,6 @@ xpcost: 1
 
 As a [[gloom stalker]], you gain the following benefits:
 
-* You have [[darkvision]] within 60 feet. If you already had [[darkvision]], increase its range by 30 feet.
+* You have [[darkvision]] within 60 feet. If you already had [[darkvision]], increase its range by 60 feet.
 * While you are in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.
 * You can cast one of the following spells: [[disguise self]], [[rope trick]], [[fear]], [[invisibility]], [[swift quiver]], [[shadow step]], [[hunter's mark]], [[hail of thorns]], [[ensnaring strike]].

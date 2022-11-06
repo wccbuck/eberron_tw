@@ -1,10 +1,12 @@
 component: Progress Clocks
 created: 20210810194734398
-modified: 20220826210744346
+modified: 20221104195138095
 title: $:/alerts/ProgressClocks
 type: text/vnd.tiddlywiki
 
 Double click/tap the [[progress clock]]s to fill segments. Click the refresh button to clear.
+
+To open this page in the story river, click [[here|$:/alerts/ProgressClocks]].
 
 <div class="cs-wrapper">
   <div class="cs-row">
