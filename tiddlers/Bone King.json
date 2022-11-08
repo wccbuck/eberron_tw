@@ -1,13 +1,14 @@
 [
     {
         "created": "20201221185839364",
+        "text": "All of the cursed nobles of [[Mabar]]'s [[Kingdom of Bones]] bow before the Bone King,\nwho embodies the concepts of death and decay. A [[lich]] in rotting\nfinery, he stands as a warning that even the mightiest lords\neventually become dust and bone. He prefers to drain the life\nslowly from planar fragments he claims; he wants his hostages to dwell\non their coming death while their land withers around them, for\nlords to turn on their people before he finally kills them all.\n\nThe Bone King can serve as a patron for [[warlock]]s, and is known to teach mortal [[wizard]]s the foul rituals that allow ascension to [[lich]]dom. To all who serve him in this way, he grants titles in his kingdom—and the knowledge that when they die,\nthey'll be forever bound to serve in it. He makes few demands of\nthese servants; they feed him whenever they use the powers he\ngrants to slay the living. But a warlock may be tasked to destroy\na lich or [[vampire]]—or even another warlock—because the Bone\nKing desires them to serve in his kingdom.",
         "title": "Bone King",
-        "text": "All of the cursed nobles of [[Mabar]]'s [[Kingdom of Bones]] bow before the Bone King,\nwho embodies the concepts of death and decay. A [[lich]] in rotting\nfinery, he stands as a warning that even the mightiest lords\neventually become dust and bone. He prefers to drain the life\nslowly from fragments he claims; he wants his hostages to dwell\non their coming death while their land withers around them, for\nlords to turn on their people before he finally kills them all.\n\nThe Bone King can serve as a patron for [[warlock]]s, and is known to teach mortal [[wizard]]s the foul rituals that allow ascension to [[lich]]dom. To all who serve him in this way, he grants titles in his kingdom—and the knowledge that when they die,\nthey'll be forever bound to serve in it. He makes few demands of\nthese servants; they feed him whenever they use the powers he\ngrants to slay the living. But a warlock may be tasked to destroy\na lich or [[vampire]]—or even another warlock—because the Bone\nKing desires them to serve in his kingdom.",
-        "modified": "20210727191958703",
+        "modified": "20221108230706644",
         "tags": "[[Dark Power]] fiend immortal yugoloth Mabar",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "entity",
-        "color": "#8C4606"
+        "color": "#8C4606",
+        "tooltip": "Dark Power of Mabar, ruler of the Kingdom of Bones, embodiment of death and decay"
     }
 ]

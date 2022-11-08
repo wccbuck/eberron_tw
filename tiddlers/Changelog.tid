@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.18.6
-modified: 20221106200313571
+currentversion: 1.18.7
+modified: 20221108231400888
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,15 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.18.7 <span style="font-weight:normal">(Nov 08, 2022)</span>
+
+* Added the names of the [[Sibling Kings]]
+* Added [[ghoul]] varieties
+* Added [[bloodwell vial]]
+* Added a brief line to the [[Aurum]] page indicating that higher ranks pay higher dues
+* Clarified that [[Moranna ir'Wynarn]] ruled [[Karrnath]] for decades after King Jaron's death
+* Added a few more tooltips
 
 !!! 1.18.6 <span style="font-weight:normal">(Nov 06, 2022)</span>
 
