@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.18.7
-modified: 20221108231400888
+currentversion: 1.18.8
+modified: 20221111155556361
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,11 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.18.8 <span style="font-weight:normal">(Nov 11, 2022)</span>
+
+* Fixed typos and mistakes
+* Added a little folk tale blurb to [[harpy]]
 
 !!! 1.18.7 <span style="font-weight:normal">(Nov 08, 2022)</span>
 
