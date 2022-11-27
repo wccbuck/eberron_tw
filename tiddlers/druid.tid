@@ -2,7 +2,7 @@ category: occupation
 color: #A3CFBB
 created: 20200417022957931
 list-before: 
-modified: 20220805224740764
+modified: 20221125211158210
 title: druid
 tooltip: spellcaster who channels primal magic
 type: text/vnd.tiddlywiki
@@ -42,3 +42,5 @@ banished, with good reason or otherwise?
 !!! <<showorg-type>>
 
 !!! <<showtalent-type>>
+
+See also [[ranger]].

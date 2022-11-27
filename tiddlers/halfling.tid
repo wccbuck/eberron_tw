@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414061853136
-modified: 20220805221606139
+modified: 20221125220204796
 tags: humanoid
 tier: 1
 title: halfling
@@ -10,7 +10,6 @@ type: text/vnd.tiddlywiki
 var: common
 
 //Zombies? Minotaurs? They don't scare me a bit. But a howling halfling warrior charging in on a [[clawfoot]] raptor? Most terrifying thing I've ever seen. //
-
 <div align="right">—Sir Danton ir'Lain, Brelish knight</div>
 
 The diminutive halflings (or "talenta") of [[Eberron]] originate from eastern [[Khorvaire]], and many nomadic tribes of halflings still travel the [[Talenta Plains]]. The appearance of [[dragonmark]]s among the halflings spurred their slow migration across
@@ -82,7 +81,7 @@ other criminals.
 Of particular note is the halfling-run criminal enterprise of the [[Boromar Clan]], the most powerful crime syndicate in [[Breland]]. The Boromars are based in [[Sharn]],
 but their influence reaches across the nation and even
 to the distant city of [[Stormreach]]. If you decide to play a
-halfling rogue, or a character with a [[Criminal]] or [[Charlatan]] [[background]], consider (with your GM) whether you
+halfling [[rogue]], or a character with a [[Criminal]] or [[Charlatan]] [[background]], consider (with your GM) whether you
 have a connection to the Boromar Clan. You could be a
 freelance operative who occasionally gets jobs from a
 Boromar underboss. You might have a cousin in the syndicate, who occasionally pulls you in to criminal affairs.

@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200415001347201
-modified: 20220805212311200
+modified: 20221127214347581
 tags: humanoid
 title: goblinoid
 tooltip: goblins, hobgoblins, bugbears; once the dominant species of Khorvaire
@@ -59,10 +59,10 @@ don't have [[cleric]]s, [[paladin]]s, or [[druid]]s. Their focus is
 on martial excellence, and their spiritual leaders are
 [[bard]]s, who tell tales of past glory. Among the dar,
 goblinoids work together. [[Hobgoblins|hobgoblin]] are the strategists
-and commanders, typically having the skills of fighters,
-bards, or rangers. [[Bugbears|bugbear]] cultivate a focused battle
-rage and are typically [[barbarian]]s. [[Goblins|goblin]] are largely artisans and laborers, but exceptional goblins join the [[Khesh'dar]] ("silent folk"), learning the skills of rogues,
-monks, or rangers. The Khesh'dar spread agents across
+and commanders, typically having the skills of warriors,
+[[bard]]s, or [[ranger]]s. [[Bugbears|bugbear]] cultivate a focused battle
+rage and are typically [[barbarian]]s. [[Goblins|goblin]] are largely artisans and laborers, but exceptional goblins join the [[Khesh'dar]] ("silent folk"), learning the skills of [[rogue]]s,
+[[monk]]s, or [[ranger]]s. The Khesh'dar spread agents across
 the [[Five Nations]], and one can never know when a city
 goblin might turn out to be an assassin.
 
@@ -84,14 +84,13 @@ use the same names and naming conventions, despite
 their tribal differences.
 
 //''Masculine Names:''// Aruget, Chetiin, Daavn, Dabrak, Dagii,
-Drevduul, Duulan, Fenic, Gudruun, Haluun, Haruuc,
+Drevduul, Duulan, Gudruun, Haluun, Haruuc,
 Jhazaal, Kallaad, Krakuul, Krootad, Mazaan, Munta,
 Nasaar, Rakari, Reksiit, Tariic, Taruuzh, Thuun,
-Vanii, Vanon, Wuudaraj
+Vanii, Vanon, Venic, Wuudaraj
 
 //''Feminine Names:''// Aaspar, Aguus, Belaluur, Denaal,
-Draraar, Duusha, Ekhaas, Eluun, Graal, Gaduul, Hashak, Jheluum, Kelaal, Mulaan, Nasree, Raleen, Razu,
-Rekseen, Senen, Shedroor, Tajiin, Tuneer, Valii, Wuun
+Draraar, Duusha, Ekhaas, Eluun, Graal, Gaduul, Hashak, Jheluum, Kelaal, Mulaan, Nasree, Raleen, Razu, Rekseen, Senen, Shedroor, Tajiin, Tuneer, Valii, Wuun
 
 !! Exotic Goblinoid Subraces
 

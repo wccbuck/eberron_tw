@@ -1,13 +1,14 @@
 [
     {
         "created": "20220408052200920",
-        "text": "The [[halfling]] [[Karrnath]]i warlord Asta Vanalan commanded [[Fort Deepdark]] during final decade of the [[Last War]], and [[Kaius|Kaius ir'Wynarn III]] recognized her service by granting her dominion over the nearby lands previously ruled by the ir’Jennrei line; while this technically [[ennobles|Nobility of the Five Nations]] her, Vanalan rarely employs the ir’ honorific. The Vanalan family has deep roots in [[Rekkenmark]], and Asta is working to impose more traditional Karrnathi culture on the [[kleynam]]s within her domain; this includes an effort to convince Karrns from the west to resettle in the region. As a warlord, Asta has passed the daily duties of command of [[Deepdark|Fort Deepdark]] to commander Brandin ir’Dulinch, but Deepdark remains the seat of her power.",
+        "text": "The [[halfling]] [[Karrnath]]i warlord Asta Vanalan commanded [[Fort Deepdark]] during final decade of the [[Last War]], and [[Kaius|Kaius ir'Wynarn III]] recognized her service by granting her dominion over the nearby lands previously ruled by the ir’Jennrei line; while this technically [[ennobles|Nobility of the Five Nations]] her, Vanalan rarely employs the ir’ honorific. The Vanalan family has deep roots in [[Rekkenmark]], and Asta is working to impose more traditional Karrnathi culture on the [[kleynam]]s within her domain; this includes an effort to convince Karrns from the west to resettle in the region. As a warlord, Asta has passed the daily duties of command of [[Deepdark|Fort Deepdark]] to commander [[Brandin ir'Dulinch]], but Deepdark remains the seat of her power.",
         "type": "text/vnd.tiddlywiki",
         "title": "Asta Vanalan",
         "tags": "humanoid halfling Karrnath",
-        "modified": "20220408052350296",
+        "modified": "20221121053908426",
         "color": "#FEA627",
         "category": "person",
-        "article": "Warlord "
+        "article": "Warlord ",
+        "tooltip": "halfling warlord of Karrnath"
     }
 ]

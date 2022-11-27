@@ -2,7 +2,7 @@ category: location
 color: #96CC39
 created: 20200419214120445
 fmwvar: fmw-lower
-modified: 20210924200732024
+modified: 20221127215424645
 polygons: 20.061,-24.531 20.065,-24.548 20.082,-24.549 20.093,-24.553 20.093,-24.553 20.11,-24.557 20.122,-24.558 20.122,-24.558 20.125,-24.556 20.125,-24.548 20.125,-24.54 20.128,-24.537 20.13,-24.53 20.13,-24.53 20.117,-24.524 20.101,-24.513 20.083,-24.525 20.061,-24.531
 style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Menthis]] Sharn
@@ -30,3 +30,6 @@ inexpensive housing here, so close to the illicit
 pleasures of [[Lower Menthis]], and are responsible for
 much of the rowdiness that sometimes disturbs the
 peace of Center Bridge.
+
+In this [[lower ward]], the bases of the towers are hundreds of feet across, and they are ringed with townhomes that jut out from the towers’ outer walls like the
+teeth of enormous cogs.

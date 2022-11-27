@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.18.8
-modified: 20221111155556361
+currentversion: 1.19.0
+modified: 20221127215041841
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,32 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.19.0 <span style="font-weight:normal">(Nov 27, 2022)</span>
+
+* Added [[random name generator]]
+* Added [[Sunless Feoral]] and added a bunch to [[Dral Khatuur]].
+** Related new pages: [[snow sapphire]], [[voices on the wind]], [[entombed]], [[frost specter]], [[ice assassin]], [[Winter's Edge]]
+** Further differentiated [[Frostfell]] and [[Everice]] pages. Also specified that [[Boroman ir'Dayne]] was not the first expedition to the Frostfell, just the first to cross the [[White Sea]]
+* Made stub pages for many people, organizations, etc. only briefly mentioned in other pages: mayors of towns, owners of taverns, splinter organizations, that kind of thing
+** [[Ahmax Tumagin]], [[Antos Keldoran]], [[Ardent Seekers of the Illuminated World]], [[Baalo One-Eye]], [[Brandin ir'Dulinch]], [[Brandy]], [[Bumper]], [[Caasht]], [[Carash]], [[Cayna]], [[Daeluse d'Kundarak]], [[Darkwood Wands]], [[Desh Anarn]], [[Dhasuun]], [[Druun Dhakaan]], [[Dulateth]], [[Duul Hashraac]], [[Eldamir Fallowcrest]], [[Elemon]], [[Elibadhma Galmemean]], [[Elsaral Quilath]], [[Eranna d'Ghallanda]], [[Errim]], [[Fasha Yask]], [[Frenzy]], [[Garrit Tomraan]], [[Gasslak]], [[Ghillan]], [[Gray Garrak]], [[Gurb Bonecrow]], [[Haneela d'Jorasco]], [[Harulkek]], [[Hyran ir'Tennet]], [[Iraala]], [[Ja'shaarat]], [[Jalira Stormtongue]], [[Kapaa Dor]], [[Karala Thautram]], [[Knights Custodial]], [[Korgel Blackblade]], [[Kuula Dhakaan]], [[Laneth]], [[League of ir'Lain]], [[Lhaar Dhakaan]], [[Malukath]], [[Margaash]], [[Molthorek the Wizened]], [[Muurat]], [[Norn]], [[Oruul]], [[Ralastar]], [[Red Owl]], [[Reka the Razor]], [[Rhukaan Taash]], [[Rhunadask]], [[Saber]], [[Salan]], [[Santyriana]], [[Serene Azera]], [[Sora Ghazra]], [[Szalas Jal]], [[Taala]], [[Taan]], [[Tantashar]], [[Teln]], [[Tolri]], [[Tree Viper]], [[Ulatorn]], [[Urlev Torrn]], [[varr]], [[Vraria]], [[Xeria ir'Borutau]], [[Xushila]], [[Zaris Lornath]], [[Zaz]]
+* Added [[lath]] page and moved [[Halpum]]'s title out of his name field
+* Added [[blessing tree]]
+* Added [[Bennin Silverclaw]]
+* Added [[muut and atcha]]
+* Added some specific clans to the [[Ghaal'dar]] page from the Doom of Kings novel, and made separate pages for the following:
+** [[Gantii Vus]], [[Munta the Gray]], [[Gan'duur]]
+* Added [[Taruuzh]] and his creations, the [[grieving tree]] and [[Guulen]]
+* Added some content from the "Mark of Prophecy" adventure from the 4E Eberron Campaign Guide:
+** [[Bren ir'Gadden]], [[Aric Blacktree]], [[Mourning haunt]], and a bit more content to [[Center Bridge]] and [[Red Jackals]]
+* Added separate pages for five types of [[therianthrope]]:
+** [[werebear]], [[wereboar]], [[wererat]], [[weretiger]], [[werewolf]]
+* Changed the names of some folks in [[Dar San]] who all sounded like [[kalashtar]], not [[Riedrans]] (like Lanharath who is already mentioned as an [[atavist]] in canon, and also sounds like "Lanhareth", an example kalashtar name). I used the [[random name generator]] for this.
+* Reduced population of [[Dar Qat]] and [[Rhukaan Draal]]
+* Added the tags [[ranger]] and [[rogue]] for [[talent]]s. Also added the talent [[Sneak Attack]]
+* Increased the amount of [[money]] you need to have "stashed" to increase passive spending power (20c → 50c per 1c)
+* Adjusted the boundaries between the [[Lhazaar Sea]], [[Sea of Rage]], and [[Dragonreach]]. Somehow I missed that [[Adder Bay]] is supposed to be part of the Lhazaar Sea.
+* Renamed some javascript plugins I made, added 'wccbuck' to the title
 
 !!! 1.18.8 <span style="font-weight:normal">(Nov 11, 2022)</span>
 
@@ -135,6 +161,19 @@ Tweaks, bug fixes, and smaller additions:
 * Made [[Tain Gala]] quarterly instead of monthly. I could have sworn I already made this change but apparently not
 * Fixed a very common typo throughout the document: "worshippers", "worshipping" etc have had one "p" removed
 
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
+
 !!! 1.17.4 <span style="font-weight:normal">(Aug 12, 2022)</span>
 
 * Added a bunch of tooltips to various pages
@@ -197,8 +236,8 @@ Tweaks, bug fixes, and smaller additions:
 * Went through a bunch of items and added missing charge trackers / missing spell descriptions, fixed typos etc
 * Reduced a bunch of speeds in various items and other pages
 * Renamed "glamoured armor" to "[[glamered armor]]"
-* Nerfed [[boots of striding and springing]]: 50% -> 20% faster
-* Nerfed [[gem of seeing]]: 120 ft range -> 60 ft range
+* Nerfed [[boots of striding and springing]]: 50% → 20% faster
+* Nerfed [[gem of seeing]]: 120 ft range → 60 ft range
 * Added [[any melee]] and [[scroll]] tags
 * Added [[ridiculous]] tag for goofy magic items
 * Added a whole bunch of example costs for various goods and services on the [[money]] page
@@ -214,19 +253,6 @@ Tweaks, bug fixes, and smaller additions:
 * Revised some sentences in the [[gith]] page, [[merfolk]] page, a few others
 * Clarified in the [[Silver Flame]] page that the Flame does not "burn" like mundane fire. Changed the spell list for [[Aasimar of the Silver Flame]] to reflect that
 * Changed the year of [[Thaliost]]'s occupation from 926 to 977
-
-!
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
-</$button>
 
 !!! 1.16.7 <span style="font-weight:normal">(Jun 21, 2022)</span>
 
@@ -298,10 +324,10 @@ Tweaks, bug fixes, and smaller additions:
 ** Removed //Grove of Guardian Trees//
 ** Moved [[Oalian]]'s awakening date 1000 years earlier, since the [[guardian tree]]s were made as a living seal of [[Avassh]], which would have needed to have been made at the end of the [[daelkyr]] incursion during the [[Age of Monsters]]. Also changed Oalian's pronouns to they/them as per recent KB writings
 ** Switched the [[manifest zone]] of the [[Gloaming]] back to [[Mabar]] (reverting my previous change to the [[Rot]]), since throughout canon and "kanon" the region is said to contain [[undead]] and the [[Children of Winter]] are said to be working to contain the region's influence.
-** Reduced [[Greenheart]]'s population (6500 -> 5500)
+** Reduced [[Greenheart]]'s population (6500 → 5500)
 * Misc lore changes/additions:
 ** Added a bit to the [[Keeper]]
-** Added population demographics to more nations as specified in the ECS, though I bumped up the [[Eldeen Reaches]]' [[elf]] population a little bit (3% -> 5%) and the [[Shadow Marches]]' [[half-orc]] population (7% -> 15%)
+** Added population demographics to more nations as specified in the ECS, though I bumped up the [[Eldeen Reaches]]' [[elf]] population a little bit (3% → 5%) and the [[Shadow Marches]]' [[half-orc]] population (7% → 15%)
 ** Reduced [[Darguun]]'s population by half, and reduced [[Droaam]]'s and [[Talenta Plains]]' by a little bit
 ** Edited [[Silver Flame]] and [[Pure Flame]] pages to indicate the term "Purified" is used only by Pure Flame adherents to describe the faithful, not Silver Flame followers as a whole
 ** Added abbreviated timelines from ECS to [[Age of Giants]] and [[Age of Monsters]]
@@ -320,7 +346,7 @@ Tweaks, bug fixes, and smaller additions:
 
 * Improved [[Silver Flame]] holiday list (now shows dates)
 * Tweaked a few of the [[language]] pages:
-** Renamed "Old Common" -> "[[Lhazaaran]]"
+** Renamed "Old Common" → "[[Lhazaaran]]"
 ** Changed linguistic roots of [[Azhani]]
 ** More changes to come.
 * Added a bit to [[Lurker in Shadow]] and [[aboleth]]
@@ -795,7 +821,7 @@ Miscellaneous:
 ** [[Mystic Arcanum]]
 ** [[Noble]]
 ** [[Purity of Spirit]]
-** [[Ranger]]
+** [[Ranger (talent)]]
 ** [[Retainers]]
 ** [[Revelation in Flesh]]
 ** [[Ritual Casting]]
@@ -1078,6 +1104,7 @@ Miscellaneous:
 * Fixed "Find On Map" bug
 * Fixed animation scroll bug when closing tiddler
 * Made a "Galifar in 500YK" map and put it on the [[Five Nations]] and [[Galifar]] pages
+* Added [[blessing tree]]
 
 !!! 1.6.2 <span style="font-weight:normal">(Aug 29, 2021)</span>
 

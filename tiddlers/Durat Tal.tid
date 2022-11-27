@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210126232607981
-modified: 20220827210404882
+modified: 20221127220902750
 points: 17.262,211.34
 population: 3155100
 style: {"color": "#8E0024"}
 tags: city Riedra Ghirvagura
 title: Durat Tal
+tooltip: capital of Riedra, largest city in the world
 type: text/vnd.tiddlywiki
 
 ''Ruler'': Lord [[Surasek]]<br/>

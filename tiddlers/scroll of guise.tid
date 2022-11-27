@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220624232110121
-modified: 20220715164001862
+modified: 20221123222146631
 tags: scroll stealth tool
 tier: 1
 title: scroll of guise
@@ -12,7 +12,7 @@ The magic in this scroll enables the reader to adopt the semblance of a specific
 Some example creature guises are below.
 
 | !<<dr d14>> |!Creature Guise |
-| 1 |A [[werewolf|therianthrope]] |
+| 1 |A [[werewolf]] |
 | 2 |A [[warforged]] [[envoy]] |
 | 3 |A [[halfling]] aristocrat |
 | 4 |A [[gnome]] with golden skin |

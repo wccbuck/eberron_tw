@@ -2,7 +2,7 @@ category: location
 color: #96CC39
 created: 20200420000823313
 fmwvar: fmw-lower
-modified: 20210924201445042
+modified: 20221123222722426
 polygons: 20.342,-24.408 20.34,-24.407 20.332,-24.398 20.317,-24.395 20.301,-24.39 20.295,-24.403 20.291,-24.418 20.293,-24.431 20.295,-24.447 20.299,-24.456 20.304,-24.462 20.304,-24.462 20.315,-24.445 20.326,-24.43 20.342,-24.408
 style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Northedge]] market Sharn
@@ -47,6 +47,6 @@ honors [[Kol Korran]] and [[Onatar]].
 !! Noteworthy Locations
 
 * The [[Bear's Rest]]. A modest inn maintained by a [[beasthide]] [[shifter]] named Leara, who usually gives a discount to traveling shifters. The decor features various exotic hides.
-* [[Fathen's Shrine|Shrine of Fathen the Martyr]]. This marker in North Market commemorates a miracle that exposed a network of [[wererat|therianthrope]]s in Sharn, along with the priest of the [[Silver Flame]] who died while fighting them. Pilgrims devoted to the Silver Flame often visit the shrine.
+* [[Fathen's Shrine|Shrine of Fathen the Martyr]]. This marker in North Market commemorates a miracle that exposed a network of [[wererat]]s in Sharn, along with the priest of the [[Silver Flame]] who died while fighting them. Pilgrims devoted to the Silver Flame often visit the shrine.
 * The [[Horse and Hearth]]. Though not as colorful as the [[Bear's Rest]], this large inn is maintained by House [[Ghallanda]] and offers rooms of modest and comfortable quality.
 * The [[Rat's Nest]]. A modest tavern catering to the [[shifter]]s of Lower Northedge, the Rat's Nest is a haven for gossip and serves food and drink in the [[Eldeen|Eldeen Reaches]] style.

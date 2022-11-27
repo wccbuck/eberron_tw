@@ -1,10 +1,12 @@
 category: talent
 created: 20211128043045641
-modified: 20220114013502421
+modified: 20221125203054513
 tags: druid
 title: Enhanced Wild Shape
 type: text/vnd.tiddlywiki
 xpcost: 2
+
+''Prerequisite:'' [[Wild Shape (talent)]]. You can replace that talent with this one for [[1 XP|experience point]], but it must be after [[character creation|Character Creation]].
 
 Three times per day, you can assume the shape of any [[beast]], [[elemental]], or [[plant creature]] of [[creature tier]] ''2'' or less that you have seen before. If the chosen creature can fly, it must be creature tier 1 or 0. The transformation lasts for up to an hour, or earlier if you are knocked unconscious.
 
@@ -14,5 +16,3 @@ As an alternative, you may choose ''two'' [[beast]]s, [[elemental]]s, or [[plant
 <<<
 
 While in beast, elemental, or plant form, you can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your form.
-
-See also [[Wild Shape|Wild Shape (talent)]].

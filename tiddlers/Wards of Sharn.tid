@@ -1,6 +1,6 @@
 category: miscellaneous
 created: 20201222081940370
-modified: 20220320222924195
+modified: 20221121184912761
 tags: Sharn
 title: Wards of Sharn
 type: text/vnd.tiddlywiki
@@ -10,7 +10,7 @@ status and wealth. Each quarter is roughly divided into
 three levels, and the combination of quarter and level
 defines a ward. Thus, wards have names such as [[Lower Dura]], [[Upper Central]], and [[Middle Menthis]].
 
-Upper wards are the domain of the rich and powerful. Here you'll find the finest goods and the most expensive services. Only those who maintain a wealthy or aristocratic lifestyle can easily afford the prices for meals and lodging, and adventurers who maintain a squalid or wretched lifestyle might be treated with disdain.
+[[Upper wards|upper ward]] are the domain of the rich and powerful. Here you'll find the finest goods and the most expensive services. Only those who maintain a wealthy or aristocratic lifestyle can easily afford the prices for meals and lodging, and adventurers who maintain a squalid or wretched lifestyle might be treated with disdain.
 
 Violence is rare in any of the upper wards, and the
 [[Sharn Watch]] actively patrols these areas. Although
@@ -18,7 +18,7 @@ the guards here might be corrupt just as in a middle or
 lower ward, they're already being well paid by powerful
 nobles and criminal organizations, and they work efficiently in the service of these forces.
 
-Middle wards are home to the middle classes. Here
+[[Middle wards|middle ward]] are home to the middle classes. Here
 you'll find bustling markets and taverns, along with a
 wide range of entertainment and housing. Most goods
 and services are affordable by those of a modest or
@@ -26,7 +26,7 @@ comfortable lifestyle, with a few higher-priced options
 tucked away. The Sharn Watch has a presence, but not
 as strong as in the upper wards.
 
-Lower wards house the hard-working laborers, along
+[[Lower wards|lower ward]] house the hard-working laborers, along
 with the destitute and the desperate, including refugees
 who lost everything in the war and orphans who never
 had anything to begin with. Services priced for a modest lifestyle can be found, but overall the lower wards are
@@ -37,9 +37,9 @@ pays little attention to the lower districts, making them a
 haven for criminals and gangs.
 
 These are stereotypes that don't apply to all wards.
-Dura is a particularly poor quarter, meaning that Upper Dura is effectively a middle ward in economic terms;
-similarly, because Central Plateau is a hub of wealth
-and power, Lower Central is effectively a middle ward.
+[[Dura]] is a particularly poor quarter, meaning that [[Upper Dura]] is effectively a middle ward in economic terms;
+similarly, because [[Central Plateau]] is a hub of wealth
+and power, [[Lower Central]] is effectively a middle ward.
 
 Each ward is further subdivided into districts, which
 are neighborhoods defined by an economic role, a separate culture, or both. For example, [[Lower Northedge]]
@@ -127,8 +127,7 @@ You can get caught up in espionage in [[Upper Central]] or
 drawn into a crime war in [[Lower Dura]]. Aside from the
 intrigues and politics of the city, Sharn has a wide range
 of cursed ruins, haunted slums, shunned catacombs,
-and other dangerous places. Wise folk avoid these areas, but those whose hunger for adventure outweighs
-their good sense might do the opposite. 
+and other dangerous places. Wise folk avoid these areas, but those whose hunger for adventure outweighs their good sense might do the opposite. 
 
 * The [[City of the Dead]]
 * [[Old Sharn]]

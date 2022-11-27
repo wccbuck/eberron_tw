@@ -1,7 +1,7 @@
 category: organization
 color: #9EC5FE
 created: 20201225050511979
-modified: 20210727192016388
+modified: 20221122063227265
 tags: kech tribe
 title: Kech Draal
 type: text/vnd.tiddlywiki
@@ -30,9 +30,9 @@ foundations of a modern capital.
 
 The [[golin'dar|goblin]] play a more central role in the Kech Draal than
 in many clans. While the clan is formally led by the [[dirge singer]]
-Kuula Dhakaan and the warlord Druun Dhakaan, the [[ghaal'dar|hobgoblin]]
+[[Kuula Dhakaan]] and the warlord [[Druun Dhakaan]], the [[ghaal'dar|hobgoblin]]
 consult with a golin'dar council on all major decisions. The
-golin'dar Taala is the senior voice on this council, respected for
+golin'dar [[Taala]] is the senior voice on this council, respected for
 her wisdom and skill.
 
 The neutrality of the Kech Draal can make them a good
@@ -41,3 +41,7 @@ with any of the Keepers. A Draal character might be gathering
 information about the world, seeking lost treasure, or even just
 eager to survey the styles of architecture that have developed
 over the past millennia.
+
+!! Notable Members
+
+<<list-links-article "[tag{!!title}sort[title]]">>

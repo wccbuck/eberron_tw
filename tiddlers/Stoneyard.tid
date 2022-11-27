@@ -2,7 +2,7 @@ category: location
 color: #96CC39
 created: 20200420003419480
 fmwvar: fmw-lower
-modified: 20210924201419845
+modified: 20221123215811209
 polygons: 20.304,-24.462 20.307,-24.465 20.318,-24.471 20.33,-24.475 20.337,-24.482 20.337,-24.482 20.354,-24.47 20.37,-24.453 20.378,-24.447 20.378,-24.447 20.369,-24.437 20.362,-24.424 20.352,-24.416 20.342,-24.408 20.326,-24.43 20.315,-24.445 20.304,-24.462
 style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Northedge]] Sharn
@@ -25,5 +25,5 @@ Stoneyard is a peaceful residential district, notable
 primarily for its significant [[shifter]] population and the
 large number of orchards and parks scattered throughout the region. Shifter children often use the parks
 for [[hrazhak]] matches, swinging through the trees and
-racing through the grass. A [[druid]] named Teln ([[shifter]]) helps to maintain the foliage and tend to those injured in hrazhak; in exchange for his services, the locals provide for his needs. Teln follows the [[Gatekeeper|Gatekeepers]] tradition, and sends word to the [[Gatehouse]]
+racing through the grass. A [[druid]] named [[Teln]] helps to maintain the foliage and tend to those injured in hrazhak; in exchange for his services, the locals provide for his needs. Teln follows the [[Gatekeeper|Gatekeepers]] tradition, and sends word to the [[Gatehouse]]
 in [[Skysedge Park]] if he sees anything disturbing.

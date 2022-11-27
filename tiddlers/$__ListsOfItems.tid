@@ -1,5 +1,5 @@
 created: 20220103061618774
-modified: 20220803215241419
+modified: 20221123224257310
 tags: 
 title: $:/ListsOfItems
 type: text/vnd.tiddlywiki
@@ -42,5 +42,11 @@ Total items added: <$count filter="[category[object]![potter's tools]![ghost lan
 !
 
 <$list filter="[tag[universal property]]">
+<$text text=<<itemstring>>/>, 
+</$list>
+
+!
+
+<$list filter="[!is[system]![New Tiddler]![blessing tree]![random name generator]![lath]![Bennin Silverclaw]![muut and atcha]![Gantii Vus]![Munta the Gray]![Gan'duur]![Sunless Feoral]![Taruuzh]![Guulen]![grieving tree]![Aric Blacktree]![Bren ir'Gadden]!category[note]![Mourning haunt]![werewolf]![weretiger]![wererat]![wereboar]![werebear]]:filter[get[created]compare:integer:gt[20221112000000000]]">
 <$text text=<<itemstring>>/>, 
 </$list>

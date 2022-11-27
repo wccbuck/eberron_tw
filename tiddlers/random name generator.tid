@@ -1,0 +1,192 @@
+category: game mechanics
+created: 20221120230342871
+displaynameorigin: Karrnath
+modified: 20221127220346112
+nameorigin: Karrnath
+tags: 
+title: random name generator
+tooltip: tool for generating a random name based on country of origin
+type: text/vnd.tiddlywiki
+var1: Lian
+var2: Aurik
+var3: Val
+
+Use this tool to generate names for characters in the world of Eberron. Select a "linguistic origin" from the drop-down list, then click "Generate Three Names". Please forgive any profane, inappropriate, or generally terrible names; this tool does not filter any "blacklist" words.
+
+''Select linguistic origin:'' <$select field="nameorigin">
+<optgroup label="Five Nations">
+<option>Aundair</option>
+<option>Breland</option>
+<option>Cyre</option>
+<option>Karrnath</option>
+<option>Thrane</option>
+</optgroup>
+<optgroup label="Other">
+<option>Aerenal</option>
+<option>Darguun</option>
+<option>Mror</option>
+<option value="ShadowMarches">Shadow Marches</option>
+<option>Talenta</option>
+<option>Inspired</option>
+<option>Riedra</option>
+<option>Adar</option>
+<option>Syrkarn</option>
+</optgroup>
+</$select>&nbsp;<$button>
+<$action-generate-name $origin={{!!nameorigin}} $field="var1"/>
+<$action-generate-name $origin={{!!nameorigin}} $field="var2"/>
+<$action-generate-name $origin={{!!nameorigin}} $field="var3"/>
+<$action-setfield displaynameorigin={{!!nameorigin}}/>
+Generate Three Names
+</$button>
+
+
+<div align="center">
+
+<table style="width:100%;table-layout:fixed;">
+<tr>
+<td align="center">
+<h3>
+{{!!var1}}
+</h3>
+</td>
+<td align="center">
+<h3>
+{{!!var2}}
+</h3>
+</td>
+<td align="center">
+<h3>
+{{!!var3}}
+</h3>
+</td>
+</tr>
+</table>
+
+</div>
+
+See also [[NPC appearance and personality generator]].
+
+<$reveal type="match" state="!!displaynameorigin" text="Aundair">
+
+!! Aundairian Names
+
+The source name list I use to generate these names includes canon [[Aundair]]ian examples as well as some [[Khorvairian|Khorvaire]] [[elves|elf]] and [[gnome]]s. It also heavily pulls from a list of French names that were popular around 1900.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Cyre">
+
+!! Cyran Names
+
+The source name list I use to generate these names includes nothing but Eberron canon names (not augmented by real-world names). They include characters from [[Cyre]] but also pretty much every [[Khorvairian|Khorvaire]] human name I could find, with some [[elves|elf]], [[gnome]]s, [[dwarves|dwarf]] and [[goblinoid]]s thrown in. You can use this generator for a list of "generic" Khorvaire names.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Breland">
+
+!! Brelish Names
+
+The source name list I use to generate these names includes canon [[Brelish|Breland]] examples, plus some [[goblinoid]], [[gnome]], and [[dwarf]] names. It also includes many old English names.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Karrnath">
+
+!! Karrnathi Names
+
+The source name list I use to generate these names includes canon [[Karrnathi|Karrnath]] examples, plus some [[dwarf]] and [[halfling]] names. It also includes many old German and Norwegian names.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Thrane">
+
+!! Thranish Names
+
+The source name list I use to generate these names includes canon [[Thranish|Thrane]] examples, plus some [[half-elf]] and [[dwarf]] names. It also includes many Italian names.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Aerenal">
+
+!! Aerenese Names
+
+The source name list I use to generate these names includes canon examples of [[elves|elf]] of [[Aerenal]]. It also includes the list of eladrin names from the 4e Player's Handbook, some Sindarin/Quenya elf names of J.R.R. Tolkien's works, and some Welsh names.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Darguun">
+
+!! Darguul Names
+
+The source name list I use to generate these names includes canon [[goblinoid]] names of [[Darguun]] or [[Dhakaan]].
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Darguun">
+
+!! Mror Names
+
+The source name list I use to generate these names includes canon examples of [[dwarves|dwarf]] of the [[Mror Holds]] as well as a few old Norse names. It also includes the dwarf names from the 4E Player's Handbook.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Talenta">
+
+!! Talenta Names
+
+The source name list I use to generate these names includes canon examples of [[halfling]]s of the [[Talenta Plains]] and beyond. It also includes the list of halfling names from the 4e Player's Handbook, some hobbit names from J.R.R. Tolkien's works.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Inspired">
+
+!! Inspired Names
+
+The source name list I use to generate these names includes only canon [[Inspired]] examples. Select "Riedra" if you'd like to generate non-Inspired names.
+
+For [[kalashtar]] names, which follow a specific pattern, see the [[kalashtar]] page.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Riedra">
+
+!! Riedran Names
+
+The source name list I use to generate these names includes canon [[Riedran|Riedra]] examples (but not the names of the [[Inspired]] which follow a different pattern). I've also augmented the list with Sanskrit names (which would originate from the province of [[Ghirvagura]] in my Eberron), old Persian names ([[Nulakaz]] in my Eberron), and Nahuatl names ([[Caleshaz]]).
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Adar">
+
+!! Adaran Names
+
+The source name list I use to generate these names includes canon [[Adaran|Adar]] examples, as well as some Sanskrit names.
+
+For [[kalashtar]] names, which follow a specific pattern, see the [[kalashtar]] page.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Syrkarn">
+
+!! Syrk Names
+
+The source name list I use to generate these names includes canon [[Syrk|Syrkarn]] examples (not just people, but provinces and towns), as well as some Nahuatl names. I also added the goliath names from the 4E Players Handbook II.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="ShadowMarches">
+
+!! Shadow Marches Names
+
+The source name list I use to generate these names includes canon examples of [[orc]]s and [[half-orc]]s of the [[Shadow Marches]], as well as some ancient Mesopotamian names. I also added the half-orc names from the 4E Players Handbook II.
+
+</$reveal>
+
+!! About This Tool
+
+This tool uses a Markov-chain-like approach to generating names, heavily inspired by the [[names generator|https://github.com/Azgaar/Fantasy-Map-Generator/blob/master/modules/names-generator.js]] used in [[Azgaar's Fantasy Map Generator|https://azgaar.github.io/Fantasy-Map-Generator/]]. In fact, I used that very site to generate the lists of syllables used for each linguistic origin (I put a `console.log(JSON.stringify(chain))` in the calculateChain function and just copied and pasted the output). For an example set of syllable lists, see [[$:/DarguunNameChains]].
+
+Essentially, a starting "syllable" is randomly chosen from a list. We look at the last letter of that syllable, and pull up a new list of potential syllables that tend to follow that letter. Some of those potential syllables are just an empty string (""), indicating the end of the name. Grab a random syllable from that list and repeat until we get a "" or we reach a certain maximum length. 
+
+There are other complications, like getting rid of non-approved duplicates, or occasionally jumping to a different syllable list; feel free to check out the source code at [[$:/plugins/wccbuck/action-generate-name.js]].

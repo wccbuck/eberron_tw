@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210901153741376
-modified: 20220715030835908
+modified: 20221121003405057
 tags: 
 title: NPC appearance and personality generator
 type: text/vnd.tiddlywiki
@@ -105,3 +105,5 @@ var4: 21
 
 
 Inspired by the [[BehindTheTable NPC Traits tables|https://drive.google.com/file/d/0B_vatXlRE-gvYVQ1RjRublI0c1k/view?resourcekey=0-QpUzLsGhgi5B9D39l6Pu6Q]] and [[DMHeroes|http://www.dmheroes.com/]].
+
+See also [[random name generator]].

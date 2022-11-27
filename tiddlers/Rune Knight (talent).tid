@@ -1,6 +1,6 @@
 category: talent
 created: 20210809025058540
-modified: 20220502050245153
+modified: 20221125203904406
 tags: [[rune knight]]
 title: Rune Knight (talent)
 type: text/vnd.tiddlywiki
@@ -16,15 +16,15 @@ As a thematic suggestion, one of the [[language]]s you know should be [[Giant]].
 
 !! Runes
 
-!!! Cloud Rune
+!!! <$checkbox field="var1" checked="yes" default="no" class="cs-check"/> Cloud Rune
 
 This rune emulates the deceptive magic used by some [[cloud giant]]s. While wearing or carrying an object inscribed with this rune, you can invoke it to gain [[advantage]] on attempts to deceive, bluff, or perform sleight of hand for one minute.
 
-!!! Fire Rune
+!!! <$checkbox field="var2" checked="yes" default="no" class="cs-check"/> Fire Rune
 
 This rune's magic channels the masterful craftsmanship of great smiths of the [[fire giant]]s. While wearing or carrying an object inscribed with this rune, you can invoke it to gain [[advantage]] on attempts involving craftsmanship for one minute. Alternatively, you can invoke it to summon fiery shackles on a creature within reach. The red-hot shackles persist for up to one minute (or until the creature breaks free).
 
-!!! Frost Rune
+!!! <$checkbox field="var3" checked="yes" default="no" class="cs-check"/> Frost Rune
 
 This rune's magic evokes the might of those who survive in the wintry wilderness, such as [[frost giant]]s. While wearing or carrying an object inscribed with this rune, you can invoke it to do one of the following:
 
@@ -33,11 +33,11 @@ This rune's magic evokes the might of those who survive in the wintry wilderness
 
 The effects of either of these benefits persist for up to one minute.
 
-!!! Hill Rune
+!!! <$checkbox field="var4" checked="yes" default="no" class="cs-check"/> Hill Rune
 
 This rune's magic bestows a resilience reminiscent of a [[hill giant]]. While wearing or carrying an object that bears this rune, you can invoke it to gain an additional temporary [[harm]] box, as well as [[advantage]] on attempts to resist poisons. These benefits last for one minute.
 
-!!! Stone Rune
+!!! <$checkbox field="var5" checked="yes" default="no" class="cs-check"/> Stone Rune
 
 This rune's magic channels the judiciousness associated with [[stone giant]]s. While wearing or carrying an object inscribed with this rune, you can invoke it to do one of the following:
 
@@ -47,7 +47,7 @@ This rune's magic channels the judiciousness associated with [[stone giant]]s. W
 
 The effects of any of these benefits (including the //charm// spell) have a maximum duration of one minute.
 
-!!! Storm Rune
+!!! <$checkbox field="var6" checked="yes" default="no" class="cs-check"/> Storm Rune
 
 Using this rune, you can glimpse the future like a [[storm giant]]
 seer. While wearing or carrying an object inscribed with this rune, you can invoke it to do one of the following: 

@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210402021419698
-modified: 20220805183156666
+modified: 20221125205913475
 tags: Storyloom
 title: talent
 tooltip: Storyloom mechanic: a player character's special capability or area of expertise
@@ -24,7 +24,7 @@ Some talents have prerequisite talents; for example, you can't take [[Changeling
 
 !!! Occupation-Based Talents
 <ul>
-<$list filter="[category[talent]tags[]category[occupation]] [[background]] +[sort[title]]">
+<$list filter="[category[talent]tags[]category[occupation]] -[category[occupation]tagging[]] [[background]] +[sort[title]]">
 <li>{{!!article}}<$link overrideClass="graylink"/></li>
 <ul>
 <$list filter="[<currentTiddler>tagging[]category[talent]sort[title]]">

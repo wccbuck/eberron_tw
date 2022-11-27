@@ -1,13 +1,14 @@
 [
     {
         "created": "20210131012115104",
+        "text": "Lord Ruken ir’Clarn is the speaker of the upper chamber of the [[Breland Parliament]] and one of the most influential democracy activists. Lord ir'Clarn is a plump man with straight dark hair and fair skin, his figure showing years of privileged living. Willing to pursue any means to ensure that the parliament triumphs over the monarchy, he’s enlisted a number of sympathetic nobles to carry out his dirty work, including [[Hass ir'Tain]] of [[Sharn]]. Once he secures control over the military from [[Boranel|Boranel ir'Wynarn]] he wishes to start a campaign to reclaim [[Droaam]]. For him, the [[Five Nations]] were made by [[human]]s, for humans, and the idea of giving monsters or [[construct|warforged]]s rights is an aberration. His support for the [[Cyran refugees|Mourning]] is an extension of this, Ruken seeing the importance of caring for the people of [[Cyre]] even if they no longer have a home.",
         "title": "Ruken ir'Clarn",
-        "text": "Lord Ruken ir’Clarn is the speaker of the upper chamber and one of the most influential democracy activists. Lord ir'Clarn is a plump man with straight dark hair and fair skin, his figure showing years of privileged living. Willing to pursue any means to ensure that the parliament triumphs over the monarchy, he’s enlisted a number of sympathetic nobles to carry out his dirty work, including [[Hass ir'Tain]] of [[Sharn]]. Once he secures control over the military from [[Boranel|Boranel ir'Wynarn]] he wishes to start a campaign to reclaim [[Droaam]]. For him, the [[Five Nations]] were made by [[human]]s, for humans, and the idea of giving monsters or [[construct|warforged]]s rights is an aberration. His support for the [[Cyran refugees|Mourning]] is an extension of this, Ruken seeing the importance of caring for the people of [[Cyre]] even if they no longer have a home.",
-        "modified": "20210727192029130",
+        "modified": "20221123234201210",
         "tags": "[[Breland Parliament]] human humanoid Breland Wroat",
         "type": "text/vnd.tiddlywiki",
         "article": "Lord ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "influencial member of Breland Parliament, democracy advocate (but only for humans)"
     }
 ]
