@@ -48,13 +48,28 @@ function generateWildcardLists(data){
     data.vowel = vowelList;
 }
 
-function reducedArray(array, name, minlength, medianlength){
+function reducedArray(array, name, originFields){
+    var minlength = originFields.minlength;
+    var medianlength = originFields.medianlength;
+    var maxlength = originFields.maxlength;
+
     var reducedArray = [...array];
     if (name.length < minlength){
         // remove "" from possibilities if name is too short
         reducedArray = reducedArray.filter(s => s !== "");
     } else if (name.length < medianlength){
         reducedArray = reducedArray.filter(s => (s !== "" || Math.random() < ((name.length-minlength+1)/(medianlength-minlength+1))));
+    }
+
+    if (name.length >= medianlength){
+        // add more endings if we're at or above median length
+        var newEnds = []
+        for (const syllable of reducedArray){
+            if (syllable === "" && Math.random() < ((name.length-medianlength+1)/(maxlength-medianlength+1))){
+                newEnds = newEnds.concat(["","","",""])
+            }
+        }
+        reducedArray = reducedArray.concat(newEnds)
     }
 
     // Avoid names with 3x use of the same consonant in a row
@@ -142,8 +157,7 @@ GenerateNameWidget.prototype.execute = function() {
         if (syllable === "") break;
         else {
             var newlength = name.length + syllable.length;
-            if (newlength >= medianlength && Math.random() < ((newlength-medianlength-1)/(maxlength-medianlength)))
-                break;
+            if (newlength > maxlength) break;
             else {
                 letter = syllable.charAt(syllable.length - 1);
                 letterArray = [...data[letter]] || [];
@@ -156,21 +170,22 @@ GenerateNameWidget.prototype.execute = function() {
         }
 
         name += syllable;
-        letterArray = reducedArray(letterArray, name, minlength, medianlength);
+        letterArray = reducedArray(letterArray, name, originFields);
         syllable = getRandom(letterArray);
         if (syllable === "*vowel"){
             letterArray = data["vowel"];
-            letterArray = reducedArray(letterArray, name, minlength, medianlength);
+            letterArray = reducedArray(letterArray, name, originFields);
             syllable = getRandom(letterArray);
         }
         if (syllable === "*consonant"){
             letterArray = data["consonant"];
-            letterArray = reducedArray(letterArray, name, minlength, medianlength);
+            letterArray = reducedArray(letterArray, name, originFields);
             syllable = getRandom(letterArray);
         }
     }
 
     this.actionValue = cleanUp(name, repeatedletters);
+
 };
 
 /*
