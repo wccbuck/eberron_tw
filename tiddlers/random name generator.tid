@@ -1,7 +1,7 @@
 category: game mechanics
 created: 20221120230342871
 displaynameorigin: Karrnath
-modified: 20221127220346112
+modified: 20221128013534954
 nameorigin: Karrnath
 tags: 
 title: random name generator
@@ -123,7 +123,7 @@ The source name list I use to generate these names includes canon [[goblinoid]] 
 
 </$reveal>
 
-<$reveal type="match" state="!!displaynameorigin" text="Darguun">
+<$reveal type="match" state="!!displaynameorigin" text="Mror">
 
 !! Mror Names
 
