@@ -1,16 +1,16 @@
 category: game mechanics
 created: 20221120230342871
-displaynameorigin: Breland
-modified: 20221128224920921
-nameorigin: Breland
+displaynameorigin: Riedra
+modified: 20221128230502241
+nameorigin: Riedra
 tags: 
 title: random name generator
 tooltip: tool for generating a random name based on country of origin
 type: text/vnd.tiddlywiki
-var1: Durnley
-var2: Largu
-var3: Thorian
-var4: Twylievir
+var1: Clazaar
+var2: Basvinira
+var3: Khujii
+var4: Dhee
 
 Use this tool to generate names for characters in the world of Eberron. Select a "linguistic origin" from the drop-down list, then click "Generate Four Names". Please forgive any profane, inappropriate, or generally terrible names; this tool does not filter any "blacklist" words.
 
@@ -175,7 +175,7 @@ For [[kalashtar]] names, which follow a specific pattern, see the [[kalashtar]] 
 
 !! Riedran Names
 
-The source name list I use to generate these names includes canon [[Riedran|Riedra]] examples (but not the names of the [[Inspired]] which follow a different pattern). I've also augmented the list with Sanskrit names (which would originate from the province of [[Ghirvagura]] in my Eberron), old Persian names ([[Nulakaz]] in my Eberron), and Nahuatl names ([[Caleshaz]]).
+The source name list I use to generate these names includes canon [[Riedran|Riedra]] examples (but not the names of the [[Inspired]] which follow a different pattern). I've also augmented the list with Sanskrit names (which would originate from the province of [[Ghirvagura]] in my Eberron), old Persian names ([[Nulakaz]] in my Eberron), and Nahuatl names ([[Caleshaz]]). I did however tweak the Nahuatl names for this list because the [[Riedran]] language would likely have dropped some of the challenging compound consonants.
 
 </$reveal>
 
