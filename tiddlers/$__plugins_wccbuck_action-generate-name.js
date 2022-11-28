@@ -13,9 +13,13 @@ Action widget to generate a random name based on a geographic or linguistic orig
 "use strict";
 
 function cleanUp(name, repeatedletters){
+    if (name.charAt(name.length - 1) === "'"){
+        name = name.slice(0, -1);
+    }
     let newName = [...name].reduce(function (accumulator, value, i, array) {
       if (value === array[i + 1] && !repeatedletters.includes(value)) return accumulator; // remove double letters
       if (i + 2 < array.length && value === array[i + 1] && value === array[i + 2]) return accumulator; // remove triple letters
+      if (value === "'" && accumulator.includes("'")) return accumulator; // one apostrophe per name
       if (!accumulator.length) return value.toUpperCase();
       return accumulator + value;
     }, "");
@@ -44,11 +48,13 @@ function generateWildcardLists(data){
     data.vowel = vowelList;
 }
 
-function reducedArray(array, name, minlength){
+function reducedArray(array, name, minlength, medianlength){
     var reducedArray = [...array];
     if (name.length < minlength){
         // remove "" from possibilities if name is too short
         reducedArray = reducedArray.filter(s => s !== "");
+    } else if (name.length < medianlength){
+        reducedArray = reducedArray.filter(s => (s !== "" || Math.random() < ((name.length-minlength+1)/(medianlength-minlength+1))));
     }
 
     // Avoid names with 3x use of the same consonant in a row
@@ -113,6 +119,7 @@ GenerateNameWidget.prototype.execute = function() {
         originFields = {
             repeatedletters: "",
             minlength: 4,
+            medianlength: 6,
             maxlength: 10
         }
     }
@@ -120,22 +127,10 @@ GenerateNameWidget.prototype.execute = function() {
     var data = this.wiki.getTiddlerData(originTiddlerName,{});
     generateWildcardLists(data);
 
-    var repeatedletters, minlength, maxlength;
-    if ("repeatedletters" in originFields) {
-        repeatedletters = originFields.repeatedletters;
-    } else {
-        repeatedletters = "";
-    }
-    if ("minlength" in originFields) {
-        minlength = originFields.minlength;
-    } else {
-        minlength = 4;
-    }
-    if ("maxlength" in originFields) {
-        maxlength = originFields.maxlength;
-    } else {
-        maxlength = 10;
-    }
+    var repeatedletters = originFields.repeatedletters;
+    var minlength = originFields.minlength;
+    var medianlength = originFields.medianlength;
+    var maxlength = originFields.maxlength;
 
     var name = "";
     var letter = "";
@@ -146,7 +141,9 @@ GenerateNameWidget.prototype.execute = function() {
     for (let i = 0; i<20; i++){
         if (syllable === "") break;
         else {
-            if (name.length + syllable.length > maxlength) break;
+            var newlength = name.length + syllable.length;
+            if (newlength >= medianlength && Math.random() < ((newlength-medianlength-1)/(maxlength-medianlength)))
+                break;
             else {
                 letter = syllable.charAt(syllable.length - 1);
                 letterArray = [...data[letter]] || [];
@@ -159,16 +156,16 @@ GenerateNameWidget.prototype.execute = function() {
         }
 
         name += syllable;
-        letterArray = reducedArray(letterArray, name, minlength);
+        letterArray = reducedArray(letterArray, name, minlength, medianlength);
         syllable = getRandom(letterArray);
         if (syllable === "*vowel"){
             letterArray = data["vowel"];
-            letterArray = reducedArray(letterArray, name, minlength);
+            letterArray = reducedArray(letterArray, name, minlength, medianlength);
             syllable = getRandom(letterArray);
         }
         if (syllable === "*consonant"){
             letterArray = data["consonant"];
-            letterArray = reducedArray(letterArray, name, minlength);
+            letterArray = reducedArray(letterArray, name, minlength, medianlength);
             syllable = getRandom(letterArray);
         }
     }

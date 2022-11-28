@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.19.0
-modified: 20221127215041841
+currentversion: 1.19.1
+modified: 20221128215517116
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,11 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.19.1 <span style="font-weight:normal">(Nov 28, 2022)</span>
+
+* Improved the [[random name generator]]. Made the distribution of name lengths more clustered towards the average, rather than tons of 3-character and 9-character names.
+** Also added generators for [[Lhazaar Principalities]], [[Tashana Tundra]], and the [[drow]] of [[Xen'drik]].
 
 !!! 1.19.0 <span style="font-weight:normal">(Nov 27, 2022)</span>
 

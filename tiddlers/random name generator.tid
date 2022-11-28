@@ -1,17 +1,18 @@
 category: game mechanics
 created: 20221120230342871
-displaynameorigin: Karrnath
-modified: 20221128013534954
-nameorigin: Karrnath
+displaynameorigin: Breland
+modified: 20221128215443379
+nameorigin: Breland
 tags: 
 title: random name generator
 tooltip: tool for generating a random name based on country of origin
 type: text/vnd.tiddlywiki
-var1: Lian
-var2: Aurik
-var3: Val
+var1: Lindwi
+var2: Helm
+var3: Tumana
+var4: Beaford
 
-Use this tool to generate names for characters in the world of Eberron. Select a "linguistic origin" from the drop-down list, then click "Generate Three Names". Please forgive any profane, inappropriate, or generally terrible names; this tool does not filter any "blacklist" words.
+Use this tool to generate names for characters in the world of Eberron. Select a "linguistic origin" from the drop-down list, then click "Generate Four Names". Please forgive any profane, inappropriate, or generally terrible names; this tool does not filter any "blacklist" words.
 
 ''Select linguistic origin:'' <$select field="nameorigin">
 <optgroup label="Five Nations">
@@ -21,23 +22,29 @@ Use this tool to generate names for characters in the world of Eberron. Select a
 <option>Karrnath</option>
 <option>Thrane</option>
 </optgroup>
-<optgroup label="Other">
-<option>Aerenal</option>
+<optgroup label="Greater Khorvaire">
 <option>Darguun</option>
-<option>Mror</option>
+<option value="Mror">Mror Holds</option>
+<option value="Lhazaar">Lhazaar Principalities</option>
 <option value="ShadowMarches">Shadow Marches</option>
-<option>Talenta</option>
+<option value="Talenta">Talenta Plains</option>
+</optgroup>
+<optgroup label="Beyond Khorvaire">
+<option>Aerenal</option>
 <option>Inspired</option>
 <option>Riedra</option>
 <option>Adar</option>
 <option>Syrkarn</option>
+<option value="Tashana">Tashana Tundra</option>
+<option value="Drow">Shedani (Xen'drik drow)</option>
 </optgroup>
 </$select>&nbsp;<$button>
 <$action-generate-name $origin={{!!nameorigin}} $field="var1"/>
 <$action-generate-name $origin={{!!nameorigin}} $field="var2"/>
 <$action-generate-name $origin={{!!nameorigin}} $field="var3"/>
+<$action-generate-name $origin={{!!nameorigin}} $field="var4"/>
 <$action-setfield displaynameorigin={{!!nameorigin}}/>
-Generate Three Names
+Generate Four Names
 </$button>
 
 
@@ -55,9 +62,16 @@ Generate Three Names
 {{!!var2}}
 </h3>
 </td>
+</tr>
+<tr>
 <td align="center">
 <h3>
 {{!!var3}}
+</h3>
+</td>
+<td align="center">
+<h3>
+{{!!var4}}
 </h3>
 </td>
 </tr>
@@ -112,6 +126,14 @@ The source name list I use to generate these names includes canon [[Thranish|Thr
 !! Aerenese Names
 
 The source name list I use to generate these names includes canon examples of [[elves|elf]] of [[Aerenal]]. It also includes the list of eladrin names from the 4e Player's Handbook, some Sindarin/Quenya elf names of J.R.R. Tolkien's works, and some Welsh names.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Lhazaar">
+
+!! Lhazaaran Names
+
+The source name list I use to generate these names includes canon examples from the [[Lhazaar Principalities]], as well as [[dwarf]] and [[half-elf]] names, and also a good deal of Russian, medieval Slavic, and ancient Greek names.
 
 </$reveal>
 
@@ -180,6 +202,28 @@ The source name list I use to generate these names includes canon [[Syrk|Syrkarn
 !! Shadow Marches Names
 
 The source name list I use to generate these names includes canon examples of [[orc]]s and [[half-orc]]s of the [[Shadow Marches]], as well as some ancient Mesopotamian names. I also added the half-orc names from the 4E Players Handbook II.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Tashana">
+
+!! Tashana Shifter Names
+
+The source name list I use to generate these names includes canon examples of [[shifter]]s of the [[Tashana Tundra]], as well as many Inuit names.
+
+These names are only the individual's name. A Tashana shifter's full name is their tribe name followed by their individual name, separated by a hyphen. Each name is then shortened to one or two syllables in most social situations. So Telaani-Marqussek (Marqussek of tribe Telaani) might be informally known as Tel-Marq. 
+
+''Tribal Names: ''Agalak, Ahnakik, Annakuk, Chikuq, Chok, Ekchuaq, Hey, Iglogaq, Illiivaq, Iping, Kakrayak, Kingudlerq, Kulutiq, Mantok, Massapok, Naartoq, Nanik, Nukiliq, Nutaak, Oonayak, Palak, Peqartoq, Putyuq, Saqani, Telaani, Tuluqarak, Yaqone.
+
+See [[Culture of the Tashana shifters]] for more information.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaynameorigin" text="Drow">
+
+!! Drow Names
+
+The source name list I use to generate these names includes canon examples of [[drow]]... of which there are very few. Assuming [[Shedani]], the language of the drow, is distantly related to [[Aerenese]], I added some of those elf names to the mix but changed some vowels to make them seem unique. I also added a few Cambodian, Pali, and Javanese names with "Ch" and "Z" replaced with "X", and stuck random apostrophes after vowels, N's, and L's. In my Eberron, apostrophes in Shedani names and words (including [[Xen'drik]]) are pronounced as glottal stops.
 
 </$reveal>
 
