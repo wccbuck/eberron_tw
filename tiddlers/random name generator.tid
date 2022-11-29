@@ -1,16 +1,16 @@
 category: game mechanics
 created: 20221120230342871
-displaynameorigin: Riedra
-modified: 20221128230502241
-nameorigin: Riedra
+displaynameorigin: Breland
+modified: 20221129020924452
+nameorigin: Breland
 tags: 
 title: random name generator
 tooltip: tool for generating a random name based on country of origin
 type: text/vnd.tiddlywiki
-var1: Clazaar
-var2: Basvinira
-var3: Khujii
-var4: Dhee
+var1: Jovirion
+var2: Bedith
+var3: Ald
+var4: Ulraras
 
 Use this tool to generate names for characters in the world of Eberron. Select a "linguistic origin" from the drop-down list, then click "Generate Four Names". Please forgive any profane, inappropriate, or generally terrible names; this tool does not filter any "blacklist" words.
 
@@ -223,7 +223,7 @@ See [[Culture of the Tashana shifters]] for more information.
 
 !! Drow Names
 
-The source name list I use to generate these names includes canon examples of [[drow]]... of which there are very few. Assuming [[Shedani]], the language of the drow, is distantly related to [[Aerenese]], I added some of those elf names to the mix but changed some vowels to make them seem unique. I also added a few Cambodian, Pali, and Javanese names with "Ch" and "Z" replaced with "X", and stuck random apostrophes after vowels, N's, and L's. In my Eberron, apostrophes in Shedani names and words (including [[Xen'drik]]) are pronounced as glottal stops.
+The source name list I use to generate these names includes canon examples of [[drow]]... of which there are very few (mainly from Keith Baker's Shattered Land novel). Assuming [[Shedani]], the language of the drow, is distantly related to [[Aerenese]], I added some of those elf names to the mix but changed some vowels to make them seem unique. I also added a few Cambodian, Pali, and Javanese-inspired names with "Ch" and "Z" replaced with "X", and stuck random apostrophes after vowels, N's, and L's. In my Eberron, apostrophes in Shedani names and words (including [[Xen'drik]]) are pronounced as glottal stops.
 
 </$reveal>
 

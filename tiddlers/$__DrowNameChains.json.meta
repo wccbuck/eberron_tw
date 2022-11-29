@@ -1,9 +1,9 @@
 created: 20221128210445485
-maxlength: 10
-medianlength: 7
+maxlength: 9
+medianlength: 6
 minlength: 4
-modified: 20221128212431379
-repeatedletters: 
+modified: 20221129020657271
+repeatedletters: o
 tags: 
 title: $:/DrowNameChains
 type: application/json
