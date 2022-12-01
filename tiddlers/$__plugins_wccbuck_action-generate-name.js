@@ -16,6 +16,9 @@ function cleanUp(name, repeatedletters){
     if (name.charAt(name.length - 1) === "'"){
         name = name.slice(0, -1);
     }
+    if (name.charAt(name.length - 2) === "'"){
+        name = name.slice(0, -2) + name.charAt(name.length - 1);
+    }
     let newName = [...name].reduce(function (accumulator, value, i, array) {
       if (value === array[i + 1] && !repeatedletters.includes(value)) return accumulator; // remove double letters
       if (i + 2 < array.length && value === array[i + 1] && value === array[i + 2]) return accumulator; // remove triple letters
@@ -57,19 +60,23 @@ function reducedArray(array, name, originFields){
     if (name.length < minlength){
         // remove "" from possibilities if name is too short
         reducedArray = reducedArray.filter(s => s !== "");
-    } else if (name.length < medianlength){
-        reducedArray = reducedArray.filter(s => (s !== "" || Math.random() < ((name.length-minlength+1)/(medianlength-minlength+1))));
-    }
-
-    if (name.length >= medianlength){
-        // add more endings if we're at or above median length
-        var newEnds = []
-        for (const syllable of reducedArray){
-            if (syllable === "" && Math.random() < ((name.length-medianlength+1)/(maxlength-medianlength+1))){
-                newEnds = newEnds.concat(["","","",""])
+    } else {
+        // remove apostrophes
+        reducedArray = reducedArray.filter(s => !s.includes("'"));
+        if (name.length < medianlength){
+            reducedArray = reducedArray.filter(s => (s !== "" || Math.random() < ((name.length-minlength+1)/(medianlength-minlength+1))));
+        } else {
+            if (name.length >= medianlength){
+                // add more endings if we're at or above median length
+                var newEnds = []
+                for (const syllable of reducedArray){
+                    if (syllable === "" && Math.random() < ((name.length-medianlength+1)/(maxlength-medianlength+1))){
+                        newEnds = newEnds.concat(["","","",""])
+                    }
+                }
+                reducedArray = reducedArray.concat(newEnds)
             }
         }
-        reducedArray = reducedArray.concat(newEnds)
     }
 
     // Avoid names with 3x use of the same consonant in a row

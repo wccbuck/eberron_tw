@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.19.1
-modified: 20221128215517116
+currentversion: 1.19.2
+modified: 20221201031226170
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,15 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.19.2 <span style="font-weight:normal">(Nov 30, 2022)</span>
+
+* Improved the [[random name generator]] further, mostly the [[drow]] name generator
+* Added a bunch of content from the [[City of Towers|https://www.amazon.com/City-Towers-Eberron-Dreaming-Dark/dp/0786935847]], [[Shattered Land|https://www.amazon.com/Shattered-Land-Dreaming-Dark-Book/dp/0786938218]], and [[Gates of Night|https://www.amazon.com/Gates-Night-Dreaming-Dark-Book-ebook/dp/B0036S4EHI]] novels. Lots of changes and additions big and small. I didn't add all the Deepwood Moon stuff, but it's coming soon. New pages:
+** [[Asdren Jorasco]], [[Battle of Three Moons]], [[briarghost]], [[Calazar Tash]], [[Casalon]], [[daggerhawk]], [[Dorn Peak]], [[Dravot d'Cannith]], [[eidolon]], [[Elymer]], [[fireblossom]], [[firepine]], [[flameworm fever]], [[Frigid Shore]], [[ghostfish]], [[Glass House]], [[Greykell ir'Ryc]], [[halodan mealworms]], [[Horas Calt]], [[Hu'ur'hnn]], [[jask root]], [[Kellan]], [[Kraken's Wake]], [[lallis hound]], [[Manticore Inn]], [[milian tea]], [[Rasial Tann]], [[sagal powder]], [[scorpion wraith]], [[selas leaves]], [[Sennan Rath]], [[Sul'asa]]
+* Added [[disease]] tag and several fantasy diseases:
+** [[arcane blight]], [[blinding sickness]], [[bluerot]], [[cackle fever]], [[filth fever]], [[flesh rot]], [[ghoul gut]], [[gnawing plague]], [[mindfire]], [[saprophytic plague]], [[seizure sickness]], [[sewer plague]], [[shivering sickness]], [[sight rot]], [[slimy doom]]
+* Made [[forgehold]] its own page
 
 !!! 1.19.1 <span style="font-weight:normal">(Nov 28, 2022)</span>
 

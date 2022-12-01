@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201231191403499
-modified: 20220824202833645
+modified: 20221201001740933
 tags: [[divine magic]] necromancy
 tier: 4
 title: resurrection
@@ -12,7 +12,7 @@ This spell requires a one-hour ritual and [[100c|money]] worth of ritual compone
 
 You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't [[undead]]. If its soul is free and willing, the target returns to life.
 
-This spell neutralizes any poisons and cures nonmagical diseases afflicting the creature when it died. It doesn't, however, remove magical diseases, curses, and the like; if such effects aren't removed prior to casting the spell, they afflict the target on its return to life.
+This spell neutralizes any poisons and cures nonmagical [[disease]]s afflicting the creature when it died. It doesn't, however, remove magical diseases, curses, and the like; if such effects aren't removed prior to casting the spell, they afflict the target on its return to life.
 
 This spell closes all mortal wounds and restores any missing body parts.
 

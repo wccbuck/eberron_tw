@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210813213752831
-modified: 20210813214253490
+modified: 20221201002655829
 tags: [[primal magic]]
 tier: 3
 title: guardian of nature
@@ -18,5 +18,5 @@ A [[primal spirit|fey]] answers your call and transforms you into a powerful gua
 //''Great Tree.''// Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:
 
 * You gain an additional temporary [[harm]] box.
-* You have [[advantage]] when resisting poisons, disease, and forced movement.
+* You have [[advantage]] when resisting poisons, [[disease]], and forced movement.
 * While you are on the ground, the ground within 15 feet of you is difficult for your enemies to traverse.

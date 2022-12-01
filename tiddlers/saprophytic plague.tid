@@ -1,0 +1,13 @@
+category: phenomenon
+color: #432874
+created: 20221130232351657
+modified: 20221130233545972
+tags: disease
+title: saprophytic plague
+type: text/vnd.tiddlywiki
+
+This [[disease]] targets [[beast]]s and [[humanoid]]s, and spreads easily from proximity to infected creatures. Foodstuffs that are exposed to the plague's spores decay or go sour rapidly, leaving behind a lurid magenta mass of oozing fungus; eating food infected by the plague's spores is another way to contract the disease. The spell [[purify food and drink]] can destroy the infection in foodstuffs.
+
+After <<dr 1d4>> hours following contracting the disease, a creature experiences body aches, nausea, slurred speech, and uncontrollable drooling. The creature suffers [[disadvantage]] on all attempts and has one less [[stress]] box for the duration of the illness. As symptoms progress, the creature behaves much like a [[zombie]] and seems barely aware of its surroundings, as fungal growths sprout from its head, body, and limbs. The creature then suffers an additional [[disadvantage]] on all attempts and loses an additional [[stress]] box. Eventually, the creature is killed by the saprophytic plague, melting into a lifeless magenta ooze.
+
+The disease and its symptoms are very hard to recover from without magical assistance such as the [[restoration]] spell. All non-magical attempts to advance a [[progress clock]] to overcome the illness suffer -1 [[impact]].

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211225190256762
-modified: 20220220051017820
+modified: 20221201002228515
 tags: convenience [[magical implement]] tool tome
 tier: 4
 title: edible book of recipes
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 
 This tome of cooking recipes is enchanted to turn sheets of fine paper into delectable meals. You can write a simple recipe on one of the book's pages over the course of 1 minute. As you do, the paper becomes aromatic, smelling like the cuisine you're writing. You can eat that sheet of paper and find that it has the taste, texture, and smell of the food described on its page. The sheet of paper takes the place of a meal.
 
-If you add a more complex recipe to the book that takes at least 10 minutes to write—potentially using sensory language, descriptions of fine ingredients, or illustrations of the dish—eating the delicious sheet of paper provides enough nourishment to sustain a creature for 1 day. A creature that eats from the book using one of these complex recipes gains an additional temporary [[harm]] box, and has [[advantage]] to resist disease or poison; these benefits persist for 12 hours. A creature can only gain the benefits of a complex recipe once every 24 hours.
+If you add a more complex recipe to the book that takes at least 10 minutes to write—potentially using sensory language, descriptions of fine ingredients, or illustrations of the dish—eating the delicious sheet of paper provides enough nourishment to sustain a creature for 1 day. A creature that eats from the book using one of these complex recipes gains an additional temporary [[harm]] box, and has [[advantage]] to resist [[disease]] or poison; these benefits persist for 12 hours. A creature can only gain the benefits of a complex recipe once every 24 hours.
 
 In addition, you can use this book as a [[spellcasting focus|magical implement]] when you cast the [[create food and water]] spell, should you know how to cast it. When you do, the food and drink you create can be aromatic and flavorful, recreating recipes of your choice from the book.
 

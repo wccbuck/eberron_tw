@@ -1,0 +1,13 @@
+category: phenomenon
+color: #432874
+created: 20221130220242025
+modified: 20221130221615562
+tags: disease
+title: blinding sickness
+type: text/vnd.tiddlywiki
+
+This [[disease]]'s symptoms manifest <<dr 1d4>> hours after infection, unless the disease is inflicted by the [[contagion]] spell, in which case symptoms manifest after one minute. 
+
+Pain grips the creature's mind, and its eyes turn milky white. The creature is unable to see. If symptoms progress, the pain becomes overwhelming, and the creature suffers an additional [[disadvantage]] on all attempts.
+
+The disease and its symptoms last for up to 7 days, though a healthy individual can shake the symptoms in as few as 3 days.
