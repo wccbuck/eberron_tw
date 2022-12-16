@@ -1,22 +1,16 @@
 bond1: Guided by [[couatl]], Kupo
-created: 20220208023633458
+created: 20221216043612838
 desc: [[Half-elf|half-elf]] [[Fernia]]n [[aasimar]]
-fight: 1
 flaw: Naive, but overcompensates
-heart: 1
 ideal: I must discover the source of my power
-modified: 20220720204619229
+modified: 20221216043958688
 money: 10
-move: 
 name: Arien Grimbold
 sp: 1
-study: 1
-sway: 1
 tags: fight heart vigor
 title: $:/Arien Grimbold/data
 type: text/vnd.tiddlywiki
-vigor: 2
-xp: 0
+xp: 1
 
 Father: Oarsen Grimbold, gleaner and gardener
 Mother: Vylae, elven herbalist, formerly of Pylas Pyrial

@@ -1,7 +1,7 @@
 category: character sheet
-created: 20220208023620353
+created: 20221216043545538
 mode: view
-modified: 20220916014450046
+modified: 20221216043845539
 tags: 
 title: Arien Grimbold
 type: text/vnd.tiddlywiki
@@ -28,66 +28,49 @@ type: text/vnd.tiddlywiki
   </div>
 
   <div class="cs-row">
-      <<cs-attr-act "fight" "Fight:">>
-      <<cs-attr-act "focus" "Focus:">>
+      <<cs-attr-act "fight" "Fight">>
+      <<cs-attr-act "focus" "Focus">>
       <div class="cs-quadcolumn">
 <<cs-field "desc" "Description" "Description Aspect">>
      </div>
   </div>
 
   <div class="cs-row">
-      <<cs-attr-act "move" "Move:">>
-      <<cs-attr-act "guile" "Guile:">>
+      <<cs-attr-act "move" "Move">>
+      <<cs-attr-act "guile" "Guile">>
     <div class="cs-quadcolumn">
 <<cs-field "ideal" "Ideal" "Ideal Aspect">>
      </div>
   </div>
 
   <div class="cs-row">
-      <<cs-attr-act "operate" "Operate:">>
-      <<cs-attr-act "heart" "Heart:">>
+      <<cs-attr-act "operate" "Operate">>
+      <<cs-attr-act "heart" "Heart">>
     <div class="cs-quadcolumn">
 <<cs-field "flaw" "Flaw" "Flaw Aspect">> 
      </div>
   </div>
 
   <div class="cs-row">
-      <<cs-attr-act "study" "Study:">>
-      <<cs-attr-act "intellect" "Intellect:">>
+      <<cs-attr-act "study" "Study">>
+      <<cs-attr-act "intellect" "Intellect">>
     <div class="cs-quadcolumn">
 <<cs-field "bond1" "Bond 1" "Bond Aspect">>  
      </div>
   </div>
 
   <div class="cs-row">
-      <<cs-attr-act "sway" "Sway:">>
-      <<cs-attr-act "vigor" "Vigor:">>
+      <<cs-attr-act "sway" "Sway">>
+      <<cs-attr-act "vigor" "Vigor">>
     <div class="cs-quadcolumn">
 <<cs-field "bond2" "Bond 2" "Bond Aspect">>
      </div>
   </div>
 
- <div class="cs-row">
-      <div class="cs-doublecolumn">
-<p class="cs-heading">[[Stress|stress]]</p>
-     </div>
-     <div class="cs-doublecolumn">
-<p class="cs-heading">[[Harm|harm]]</p>
-      </div>
-    <div class="cs-doublecolumn">
-<p class="cs-heading">[[Talents|talent]]</p>
-    </div>
-    <div class="cs-column">
-<div align="right">''[[XP|experience point]]:''</div>
-</div>
-<div class="cs-column">
-    <<cs-xp>>
-     </div>
-  </div>
-
   <div class="cs-row">
 	<div class="cs-column" style="align-self: flex-start;">
-        <<cs-checkboxes>>
+        <<cs-stressboxes>>
+        <<cs-harmboxes>>
 		<div class="cs-row">
 			<div class="cs-column" style="justify-content: flex-start;">
 				<div style="margin-right:25px;">
@@ -139,6 +122,17 @@ type: text/vnd.tiddlywiki
 		</div>
 	</div>
 	<div class="cs-column" style="align-self: flex-start;">
+      <div class="cs-row">
+        <div class="cs-doublecolumn">
+          <p class="cs-heading">[[Talents|talent]]</p>
+        </div>
+        <div class="cs-column">
+          <div align="right">''[[XP|experience point]]:''</div>
+        </div>
+        <div class="cs-column">
+    <<cs-xp>>
+        </div>
+       </div>
 		<div class="cs-row" style="align-items: flex-start;">
 			<<cs-talent-list>>
 		</div>
