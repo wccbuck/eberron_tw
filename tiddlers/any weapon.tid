@@ -1,8 +1,8 @@
 color: #1E868E
 created: 20220217210809451
 list: sword dagger axe hammer mace flail spear bow projectile crossbow whip staff rod [[punch weapon]]
-modified: 20220805192922059
-tags: 
+modified: 20221215060055449
+tags: weapon
 title: any weapon
 tooltip: tag for weapons which can take any form
 type: text/vnd.tiddlywiki

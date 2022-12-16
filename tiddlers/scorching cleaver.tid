@@ -2,13 +2,13 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20220103045840442
-modified: 20220216234325064
+modified: 20221205060145551
 tags: axe weapon
 tier: 4
 title: scorching cleaver
 type: text/vnd.tiddlywiki
 
-This magic battleaxe has 3 charges, and regains <<dr 1d3>> charges daily at dawn. As long as the weapon has at least 1 charge, attacks you make with it deal additional fire damage.
+This magic battleaxe has 3 charges, and regains <<dr 1d3>> charges daily at dawn. As long as the weapon has at least 1 charge, attacks you make with it deal additional [[fire damage|damage type]].
 
 You can expend a charge to slash the air in front of you. When you do, a line of fire 30 feet long and 5 feet wide erupts from the blade. Creatures within that line must dodge or else suffer fire damage. When you expend the axe's last charge, the weapon overheats; the line of fire deals much more damage, but the axe and its handle glow red-hot for up to a minute.
 

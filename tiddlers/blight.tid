@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20210110051711634
-modified: 20210727191958233
+modified: 20221205061950309
 tags: [[primal magic]] necromancy
 tier: 3
 title: blight
 type: text/vnd.tiddlywiki
 
-Necromantic energy washes over a creature of your choice (not [[undead]] or [[construct]]) that you can see within 30 feet, draining moisture and vitality from it. On a hit, the target suffers rapid decay and necrotic damage.
+Necromantic energy washes over a creature of your choice (not [[undead]] or [[construct]]) that you can see within 30 feet, draining moisture and vitality from it. On a hit, the target suffers rapid decay and [[necrotic damage|damage type]].
 
 If you target a [[plant creature]] or a magical plant, the spell is even more devastating.
 

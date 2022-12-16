@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220103061107877
-modified: 20220221022903634
+modified: 20221205062537114
 tags: stealth destruction [[magical implement]] weapon staff
 tier: 4
 title: shaedenstaff
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 
 This staff is made from the reclaimed horn of a huge [[undead]] creature. Only an [[arcane|arcane magic]] spellcaster can attune to this staff. While you're [[attuned|attunement]] to this staff, you have [[advantage]] to retain your sanity against the influence of environmental effects.
 
-When you physically attack with this staff, you can [[push yourself]] to deal extra necrotic damage to the target.
+When you physically attack with this staff, you can [[push yourself]] to deal extra [[necrotic damage|damage type]] to the target.
 
 This staff allows you to cast the following spells using your own power: [[calm emotions]], [[darkness]], [[dispel immortal]], [[inflict wounds]], and [[circle of death]]. You also gain one additional spellcasting [[stress]] box which you can only use to cast these spells.
 

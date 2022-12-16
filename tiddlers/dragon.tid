@@ -1,7 +1,7 @@
 category: creature
 color: #58151c
 created: 20200419053402840
-modified: 20220805201703760
+modified: 20221205045840863
 title: dragon
 tooltip: legendary winged serpentine creature with innate magical power
 type: text/vnd.tiddlywiki
@@ -46,7 +46,7 @@ Generate Random Dragon Name
 
 !! Colors and Breath Weapons
 
-Dragons are magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities. The type of a dragon's breath weapon can be determined by the color of the dragon's scales; see the below tables. The dragon is also resistant or immune to that type of damage. Note that metallic dragons have two different kinds of magic breath they can use; one destructive, and one more subtle or utilitarian. Chromatic dragons only have destructive breath weapons, but it is typically more powerful than those of comparable metallic dragons.
+Dragons are magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities. The [[type|damage type]] of a dragon's breath weapon can be determined by the color of the dragon's scales; see the below tables. The dragon is also resistant or immune to that type of damage. Note that metallic dragons have two different kinds of magic breath they can use; one destructive, and one more subtle or utilitarian. Chromatic dragons only have destructive breath weapons, but it is typically more powerful than those of comparable metallic dragons.
 
 | !Chromatic |<|!<<dr d10>>| !Metallic |<|
 |!Color |!Breath |!|!Color |!Breath |

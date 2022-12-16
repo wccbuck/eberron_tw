@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20201227193040601
-modified: 20220221040244932
+modified: 20221205054756595
 tags: destruction armor body
 tier: 3
 title: meteoric plate armor
 type: text/vnd.tiddlywiki
 
-This plate armor was magically crafted from plates of interlocking stone. Tiny rubies inlaid in the chest create a glittering mosaic of flames. When you fall while wearing this armor, you can tuck your knees against your chest and curl into a ball. While falling in this way, flames form around your body. You take half the usual falling damage when you hit the ground, and fire explodes from your form in a 20-foot-radius sphere. Each creature in this area must dodge or else take fire damage equal to the falling damage you took.
+This plate armor was magically crafted from plates of interlocking stone. Tiny rubies inlaid in the chest create a glittering mosaic of flames. When you fall while wearing this armor, you can tuck your knees against your chest and curl into a ball. While falling in this way, flames form around your body. You take half the usual falling damage when you hit the ground, and fire explodes from your form in a 20-foot-radius sphere. Each creature in this area must dodge or else take [[fire damage|damage type]] equal to the falling damage you took.

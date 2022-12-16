@@ -2,15 +2,23 @@ alternatetitle: oathbound
 category: creature
 color: #EA868F
 created: 20201221233009783
-modified: 20220829024558686
+modified: 20221215021200860
 tags: undead
 tier: 3
 title: mummy
 tooltip: undead created from a special embalming ritual; bound by oaths that they must obey
 type: text/vnd.tiddlywiki
 
-Undead mummies are created when a priest of the [[Blood of Vol]] or other faith ritually imbues a prepared embalmed corpse with [[necromantic magic|necromancy]]. This process is one of only three techniques known by practicers of [[Mabar]]an necromancy that can extend a person's existence and preserve their personality and memories (the other two creating [[vampire]]s and [[lich]]es).
+Undead mummies are created when a priest of the [[Blood of Vol]] or other faith ritually imbues a prepared embalmed corpse with [[necromantic magic|necromancy]]. This process is the most common of the three techniques known by practitioners of [[Mabar]]an necromancy that can extend a person's existence and preserve their personality and memories (the other two creating [[vampire]]s and [[lich]]es).
 
-[[Seekers|Blood of Vol]] and [[Bloodsails]] call these undead //oathbound//. The reason for this is that a mummy is bound by a set of oaths that they must obey, and it is these oaths that bind its essence to its body and prevent it being dragged to [[Dolurrh]]. Many oathbound are bound to specific temples or villages, forbidden by its oath never to leave its domain. Many Bloodsail mummies are bound to their ships. The looser these oaths, the more power and components are required for the ritual. For example, [[Malevanor]], the High Priest of [[Atur]], has far fewer restrictions than most oathbound; but it's not a simple matter to create mummies with such freedom.
+Anyone can become a mummy; the process requires
+a conduit to [[Mabar]], an expert [[necromancer|necromancy]], a series of
+rituals including the embalming process, and rare and
+expensive components. But there’s one more essential aspect of creating a mummy: its oaths. These conditions and parameters are integral to the process. And once created, the mummy //must// obey these oaths, as they’re used to bind its essence to its
+body and prevent it from being dragged to [[Dolurrh]]. This is the reason why [[Seekers|Blood of Vol]] and [[Bloodsails]] call these undead ''oathbound''. 
 
-Mummies are not driven by the hunger of the [[vampire]], and do not need to consume the blood of the living to survive. They are sustained directly by the dark energy of [[Mabar]]. This is why the touch of the mummy causes flesh to rot and why its gaze causes dread; it is a vessel for Mabar, which embodies the death of all that lives and the end of all hope.
+Many oathbound are bound to specific temples or villages, forbidden by its oath never to leave its domain. Many Bloodsail mummies are bound to their ships. The looser these oaths, the more power and components are required for the ritual. For example, [[Malevanor]], the High Priest of [[Atur]], has far fewer restrictions than most oathbound, but he was created by the finest Seeker necromancer of the time, at great cost. It's not a simple matter to create mummies with such freedom.
+
+Mummies are not driven by the hunger of the [[vampire]], and do not need to consume the blood of the living to survive (though bathing in the blood of the living can slow its decay). They are sustained directly by the dark energy of [[Mabar]]. This is why the touch of the mummy causes flesh to rot and why its gaze causes dread; it is a vessel for Mabar, which embodies the death of all that lives and the end of all hope. The influence of Mabar tends to erode the oathbound's compassion and empathy, no matter how kind they were in life; as they forget pain, they cease to care about causing pain in others.
+
+In creating an oathbound, consider what oaths bind it. What are the restrictions on its actions and choices? Who was it in life, and what key skills has it retained in its undeath? Has it retained its sense of mercy, or has this been worn away?

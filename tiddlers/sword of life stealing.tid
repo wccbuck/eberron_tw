@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227205914974
-modified: 20220216232628612
+modified: 20221205062612961
 tags: sword weapon
 tier: 3
 title: sword of life stealing
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 This sword was sculpted from [[Mabar]]an [[quintessence]], and hungers for the spark of life.
 
-When you attack a creature with this magic weapon and score a [[critical|full success]], that target takes extra necrotic damage if it isn't a [[construct]] or an [[undead]]. You simultaneously rapidly recover from minor injury (low-[[impact]] [[magical healing]]).
+When you attack a creature with this magic weapon and score a [[critical|full success]], that target takes extra [[necrotic damage|damage type]] if it isn't a [[construct]] or an [[undead]]. You simultaneously rapidly recover from minor injury (low-[[impact]] [[magical healing]]).

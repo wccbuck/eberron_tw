@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210813211301642
-modified: 20210813211721556
+modified: 20221205054745145
 tags: evocation
 tier: 5
 title: meteor swarm
 type: text/vnd.tiddlywiki
 
-Blazing orbs of fire plummet to the ground at four different points you can see within 1 mile. Each creature in a 40-foot-radius sphere centered on each point you choose suffers extreme fire and force damage from the explosion. The sphere spreads around corners, and causes uncontrollable destruction.
+Blazing orbs of fire plummet to the ground at four different points you can see within 1 mile. Each creature in a 40-foot-radius sphere centered on each point you choose suffers extreme [[fire and force damage|damage type]] from the explosion. The sphere spreads around corners, and causes uncontrollable destruction.

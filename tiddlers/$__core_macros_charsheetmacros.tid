@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20220502044041127
+modified: 20221204000455433
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -69,7 +69,7 @@ type: text/vnd.tiddlywiki
 </$list>
 </optgroup>
 <$wikify name="low-tier-number" text="""{{{ [[$tier$]subtract[1]] }}}""">
-<$wikify name="low-tier" text="""<$transclude tiddler="$:/SpellTierNames" index=<<low-tier-number>>/>""">
+<$wikify name="low-tier" text="""<$transclude tiddler="$:/SpellTierNames" index=<<low-tier-number>>/> (as <$transclude tiddler="$:/SpellTierNames" index="$tier$"/>-tier spell)""">
 <optgroup label=<<low-tier>>>
 <$list filter="[category[spell]tier<low-tier-number>sort[title]]">
 <option><<currentTiddler>></option>
@@ -135,6 +135,88 @@ type: text/vnd.tiddlywiki
 				</div>
 			</div>
 		</div>
+\end
+
+\define cs-stressboxes()
+<$vars num-ss-up={{{[[$:/$(currentTiddler)$/data]get[num-ss]else[0]add[1]min[2]]}}} num-ss-dn={{{[[$:/$(currentTiddler)$/data]get[num-ss]else[0]subtract[1]max[0]]}}} num-ts-up={{{[[$:/$(currentTiddler)$/data]get[num-ts]else[0]add[1]min[2]]}}} num-ts-dn={{{[[$:/$(currentTiddler)$/data]get[num-ts]else[0]subtract[1]max[0]]}}}>
+<div class="cs-row">
+  <div class="cs-double-column" style="margin: 2px 0px 3px;">
+  <div class="cs-row">
+    <p class="cs-heading">[[Stress|stress]]</p> 
+  </div>
+    <div class="cs-row">
+      <$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s1" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s2" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s3"class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s4" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s5" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s6"class="cs-check-small"/>
+    </div>
+  </div>
+  <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px;" title="special stress">
+<div class="cs-row" style="justify-content: center; align-items: end;">
+          <p class="new-note" style="margin:0px;"><span class="cs-attr-act-label" >S</span> <$button class=<<tv-config-toolbar-class>> tooltip="add special stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ss=<<num-ss-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove special stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ss=<<num-ss-dn>>/>{{$:/images/subtract}}</$button></p>
+        </div>
+    <div class="cs-row" style="justify-content: center; align-items: end;">
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-ss" text="1">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="ss1" class="cs-check-small"/>
+</$reveal>
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-ss" text="2">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="ss2"class="cs-check-small"/>
+</$reveal>
+    </div>
+  </div>
+  <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px 25px 2px 2px;" title="temporary stress">
+<div class="cs-row" style="justify-content: center; align-items: end;">
+          <p class="new-note" style="margin:0px;"><span class="cs-attr-act-label">T</span> <$button class=<<tv-config-toolbar-class>> tooltip="add temporary stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ts=<<num-ts-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove temporary stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ts=<<num-ts-dn>>/>{{$:/images/subtract}}</$button></p>
+        </div>
+    <div class="cs-row" style="justify-content: center; align-items: end;">
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-ts" text="1">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="ts1" class="cs-check-small"/>
+</$reveal>
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-ts" text="2">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="ts2"class="cs-check-small"/>
+</$reveal>
+    </div>
+  </div>
+</div>
+</$vars>
+\end
+
+\define cs-harmboxes()
+<$vars num-sh-up={{{[[$:/$(currentTiddler)$/data]get[num-sh]else[0]add[1]min[2]]}}} num-sh-dn={{{[[$:/$(currentTiddler)$/data]get[num-sh]else[0]subtract[1]max[0]]}}} num-th-up={{{[[$:/$(currentTiddler)$/data]get[num-th]else[0]add[1]min[2]]}}} num-th-dn={{{[[$:/$(currentTiddler)$/data]get[num-th]else[0]subtract[1]max[0]]}}}>
+<div class="cs-row">
+  <div class="cs-double-column" style="margin: 2px 0px 3px;">
+  <div class="cs-row">
+    <p class="cs-heading">[[Harm|harm]]</p> 
+  </div>
+    <div class="cs-row">
+      <$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h1" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h2" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h3"class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h4" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h5" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h6"class="cs-check-small"/>
+    </div>
+  </div>
+  <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px;" title="special harm">
+<div class="cs-row" style="justify-content: center; align-items: end;">
+          <p class="new-note" style="margin:0px;"><span class="cs-attr-act-label" >S</span> <$button class=<<tv-config-toolbar-class>> tooltip="add special harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-sh=<<num-sh-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove special harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-sh=<<num-sh-dn>>/>{{$:/images/subtract}}</$button></p>
+        </div>
+    <div class="cs-row" style="justify-content: center; align-items: end;">
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-sh" text="1">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="sh1" class="cs-check-small"/>
+</$reveal>
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-sh" text="2">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="sh2"class="cs-check-small"/>
+</$reveal>
+    </div>
+  </div>
+  <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px 25px 2px 2px;" title="temporary harm">
+<div class="cs-row" style="justify-content: center; align-items: end;">
+          <p class="new-note" style="margin:0px;"><span class="cs-attr-act-label">T</span> <$button class=<<tv-config-toolbar-class>> tooltip="add temporary harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-th=<<num-th-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove temporary harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-th=<<num-th-dn>>/>{{$:/images/subtract}}</$button></p>
+        </div>
+    <div class="cs-row" style="justify-content: center; align-items: end;">
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-th" text="1">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="th1" class="cs-check-small"/>
+</$reveal>
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-th" text="2">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="th2"class="cs-check-small"/>
+</$reveal>
+    </div>
+  </div>
+</div>
+</$vars>
 \end
 
 \define cs-storypoints()
@@ -233,7 +315,7 @@ type: text/vnd.tiddlywiki
 <$progressclock segments={{$:/$(currentTiddler)$/progressclock$index$!!segments}} tiddler="$:/$(currentTiddler)$/progressclock$index$" filled={{$:/$(currentTiddler)$/progressclock$index$}}/>
 </div>
 <div class="cs-row">
-<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-setfield $tiddler="$:/$(currentTiddler)$/progressclock$index$" $value="0"/>{{$:/core/images/refresh-button}}</$button></p><$edit-text tag=input tiddler="$:/$(currentTiddler)$/progressclock$index$" field="label" class="cs-progressclock" placeholder="Clock Name" default=""/><$edit-text tiddler="$:/$(currentTiddler)$/progressclock$index$" field="segments" tag=input type="number" class="cs-newsegments" size=2 default="2" min="2" max="16"/></div>
+<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-setfield $tiddler="$:/$(currentTiddler)$/progressclock$index$" $value="0"/>{{$:/core/images/refresh-button}}</$button></p><$edit-text tag=input tiddler="$:/$(currentTiddler)$/progressclock$index$" field="label" class="cs-progressclock" placeholder="Clock Name" default=""/><$edit-text tiddler="$:/$(currentTiddler)$/progressclock$index$" field="segments" tag=input type="number" class="cs-newsegments" size=2 default="4" min="2" max="16"/></div>
 \end
 
 \define cs-progressclocks()

@@ -2,7 +2,7 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20210927200259917
-modified: 20220221024216430
+modified: 20221205052432935
 tags: [[magical implement]] weapon staff
 tier: 4
 title: eldritch staff
@@ -12,7 +12,7 @@ This gnarled staff is made from [[eldritch whorlwood]] and is imbued with [[fey 
 
 You can expend the staff's charges in the following ways:
 
-''//Eldritch Attack.//'' When you hit a target with a melee attack using this staff, you can expend 1 of its charges to deal additional lightning damage.
+''//Eldritch Attack.//'' When you hit a target with a melee attack using this staff, you can expend 1 of its charges to deal additional [[lightning damage|damage type]].
 
 ''//Eldritch Escape.//'' If you suffer [[harm]] while holding this staff, you may immediately expend 1 of the staff's charges to become invisible and teleport yourself, along with any equipment you are wearing or carrying, up to 60 feet to an unoccupied space that you can see. You remain invisible for ten seconds or until you attack, cast a spell, or deal damage.
 

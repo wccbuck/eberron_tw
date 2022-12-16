@@ -1,12 +1,12 @@
 category: spell
 color: #B7A1E0
 created: 20210813214335993
-modified: 20210813214610631
+modified: 20221205053618210
 tags: [[divine magic]]
 tier: 3
 title: holy weapon
 type: text/vnd.tiddlywiki
 
-You imbue a weapon you touch with holy power. Until the spell ends up to 1 hour later, the weapon emits bright light in a 30-foot radius and dim light for an additional 30 feet. In addition, attacks made with it deal extra radiant damage on a hit. If the weapon isn't already a magic weapon, it becomes one for the spell's duration.
+You imbue a weapon you touch with holy power. Until the spell ends up to 1 hour later, the weapon emits bright light in a 30-foot radius and dim light for an additional 30 feet. In addition, attacks made with it deal extra [[radiant damage|damage type]] on a hit. If the weapon isn't already a magic weapon, it becomes one for the spell's duration.
 
 You can choose to dismiss this spell early and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of you must resist your divine power or suffer radiant damage and/or become blinded for up to 1 minute.

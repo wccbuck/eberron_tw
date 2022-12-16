@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210411235906512
-modified: 20210727192027441
+modified: 20221205055844806
 tags: necromancy
 tier: 2
 title: ray of sickness
 type: text/vnd.tiddlywiki
 
-A ray of sickening greenish energy lashes out toward a creature within 60 feet. On a hit, the target takes poison damage and experiences extreme nausea.
+A ray of sickening greenish energy lashes out toward a creature within 60 feet. On a hit, the target takes [[poison damage|damage type]] and experiences extreme nausea.

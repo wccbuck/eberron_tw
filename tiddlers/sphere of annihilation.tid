@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220711204717806
-modified: 20220715223529627
+modified: 20221205053047164
 tags: destruction tool
 tier: 5
 title: sphere of annihilation
@@ -16,7 +16,7 @@ and all matter that passes through it. Certain artifacts are the
 exception; unless an artifact is susceptible to damage
 from a sphere of annihilation, it passes through the
 sphere unscathed. Anything else that touches the sphere
-but isn't wholly engulfed and obliterated by it suffers an extreme amount of arcane force damage.
+but isn't wholly engulfed and obliterated by it suffers an extreme amount of [[arcane force damage|damage type]].
 
 The sphere is stationary until someone controls it. If you are within 60 feet of an uncontrolled sphere and skilled in handling arcane artifacts, you can attempt to control the sphere. If you succeed, the sphere levitates in one direction of your choice; on a failure, the sphere moves toward you. You can attempt to wrest control of the sphere from another creature, but doing so is more difficult.
 

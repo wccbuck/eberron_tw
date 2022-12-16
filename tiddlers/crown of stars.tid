@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20210813214745923
-modified: 20210813214933362
+modified: 20221205052108734
 tags: evocation
 tier: 4
 title: crown of stars
 type: text/vnd.tiddlywiki
 
-Seven star-like motes of light appear and orbit your head for up to 1 hour. You can choose to send one of the motes streaking toward one creature or object within 120 feet of you. If the creature can't dodge, it suffers radiant damage. Whether you hit or miss, the mote is expended. The spell ends early if you expend the last mote.
+Seven star-like motes of light appear and orbit your head for up to 1 hour. You can choose to send one of the motes streaking toward one creature or object within 120 feet of you. If the creature can't dodge, it suffers [[radiant damage|damage type]]. Whether you hit or miss, the mote is expended. The spell ends early if you expend the last mote.
 
 If you have four or more motes remaining, they shed bright light in a 30-foot radius and dim light for an additional 30 feet. The light slowly diminishes as you expend motes.
 

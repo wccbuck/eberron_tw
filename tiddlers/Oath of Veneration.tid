@@ -1,0 +1,51 @@
+category: talent
+created: 20221209211536181
+list: [[enhance ability]] [[summon steed]] [[borrowed knowledge]]
+modified: 20221209213858830
+tags: Spellcaster paladin
+title: Oath of Veneration
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+The Oath of Veneration is a [[paladin]] oath available to [[Tairnadal]] [[revenant|Spirits of the Past]] or by anyone who channels a revered ancestor.
+
+[[Paladin|paladin]]s who are called to follow in the footsteps of
+a great hero take the Oath of Veneration. The [[Tairnadal]]
+are the most common culture in [[Eberron]] to keep these
+ideals, taking up arms in hopes of emulating the [[patron ancestor]] who has chosen them.
+However, this path isn't limited to the [[elves|elf]]. A [[goblinoid]] warrior might choose to emulate ancient [[Dhakaan]]i heroes, or a [[human]] of the [[Five Nations]] might consider
+themself the inheritor of [[Karrn the Conqueror]]’s will.
+
+!! Tenets of Veneration
+
+The tenets of the Oath of Veneration challenge a [[paladin]]
+to uphold the legend of a treasured ancestor.
+
+* //''Respect the Past.''// The deeds and legends of our ancient ancestors are our greatest treasure. 
+* //''Emulate Your Patron.''// Keep your patron ancestor’s stories alive by reliving their victories.
+* //''Fight for Your Future.''// Resist the tyranny your ancestors devoted their lives to defeating.
+
+!! {{!!title}} Spell List
+
+Choose two spells as per the [[Spellcaster]] talent rules. A [[paladin]] under the {{!!title}} might choose from the following spells. //Recommended Spells: [[enhance ability]], [[summon steed]].//
+
+Alternatively, when you take this [[talent]], you may choose spells that represent your [[patron ancestor]]'s capabilities. For example, if your ancestor was a [[ranger]], you may choose spells from the [[Ranger (talent)]] list.
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]] [list[$:/PaladinSpells]] +[sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

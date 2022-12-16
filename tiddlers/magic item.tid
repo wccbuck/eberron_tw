@@ -1,6 +1,7 @@
+category: object
 color: #41D5E1
 created: 20200417064035970
-modified: 20220805181147391
+modified: 20221215054532305
 title: magic item
 tooltip: an object imbued with magic, grants capabilities to its user
 type: text/vnd.tiddlywiki

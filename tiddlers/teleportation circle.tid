@@ -1,20 +1,40 @@
 category: phenomenon
 color: #432874
 created: 20210212065352438
-modified: 20220829023930794
+modified: 20221215214643391
 tags: 
 title: teleportation circle
 tooltip: circular fixture which enables instantaneous transportation to another circle
 type: text/vnd.tiddlywiki
 
+<<<
 For the [[spell]] of the same name, see [[teleportation circle (spell)]].
+<<<
 
 A teleportation circle is a circular fixture, typically around 10 feet in diameter and inscribed with [[arcane|arcane magic]] sigils or imbued with a [[psionic|psionics]] imprint, which enables instantaneous transportation to another circle. 
 
 In [[Khorvaire]], teleportation circles are created and operated by [[dragonmark]]ed members of House [[Orien]], who use their [[Mark of Passage]] to activate a circle and link it to another circle with a known unique sigil sequence. A shimmering portal then opens, and anyone who steps through the portal in the next few seconds arrives at the destination circle. However, only very powerful wielders of the Mark of Passage are able to operate the circles, so the service is expensive. Orien's [[First Step]] program is actively researching how to expand and improve upon teleportation technology.
 
-In [[Riedra]], the [[Inspired]] have built a secret but extensive network of psionic teleportation circles that connect every bastion city and kintam (fortress), through the central hub of [[Durat Tal]]. 
+In [[Riedra]], the [[Inspired]] have built a secret but extensive network of psionic teleportation circles that connect every [[bastion city]] and kintam (fortress), through the central hub of [[Durat Tal]]. See the below section for more information.
 
 Other, vanished cultures also developed portal rituals and left teleportation circles behind. [[Dragon|dragon]]s, [[demon]]s, the [[wizard]]s of [[Ohr Kaluun]] in [[Sarlona]], the [[giant]]s of [[Xen'drik]]—all left teleportation circles in the world, waiting to be found.
 
 Talented [[wizard]]s, [[Orien]] heirs, [[psion]]s, or other such masters of instantaneous translocation can cast a [[rare-tier spell|teleportation circle (spell)]], spending about a minute and expending ritual components worth at least [[5c|money]], to make a makeshift teleportation circle wherever they are and link it to a known circle. The circle vanishes after ten seconds.
+
+!! Teleportation Circles in Riedra
+
+Swift transit is an area in which [[Riedra]] has a significant advantage over Khorvaire. Riedra's network of massive teleportation circles connect points in space;
+these operate very differently than the teleportation
+circle network House [[Orien]] is developing in [[Khorvaire]].
+Riedran psionic circles connect two specific gates. The
+circle in the fortress of Kintam Lar connects to the city
+of [[Durat Tal]] and that’s all; it can’t be adjusted to teleport
+to [[Dar Jin]]. While that’s inherently more limited than the
+typical teleportation circle, it has the enormous advantage of being always on. As long as the portal can draw power from the [[hanbalani alta]], it remains active, allowing the
+[[Inspired]] to move entire armies across the continent, or
+to transport vast quantities of food and supplies.
+
+[[Durat Tal]] is the central hub for this network—so in moving that army, it marches through the gate at Kintam Lar, arrives in Durat Tal, then enters another gate to, say, reinforce Kintam Keera in [[Borunan]]. The kintam fortresses and [[bastion cities|bastion city]] are thus connected by reliable teleportation networks, and caravans deliver goods or troops from these hubs to surrounding villages. By contrast, House [[Orien]] is developing a system that works using the [[teleportation circle spell|teleportation circle (spell)]]. This allows one
+Orien circle to connect to any other Orien circle... but an heir must have the ability to cast the spell to open the circle, and it only remains open for ten seconds. So currently the Orien system is a novelty—a way for wealthy clients to move swiftly, but not a system that can be used to move armies or replace the [[lightning rail]] as a means of transporting goods.
+
+It’s important to note that all [[Riedra]]n gates are heavily guarded and this service isn’t available to the general public; [[Riedrans]] aren’t supposed to travel. But this ability to swiftly move forces across the length of Riedra is one of the most powerful tools of the [[Inspired]].

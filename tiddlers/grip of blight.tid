@@ -1,13 +1,13 @@
 category: object
 color: #41D5E1
 created: 20211228181606727
-modified: 20220220231301000
+modified: 20221205062159298
 tags: [[punch weapon]] weapon recovery hindrance destruction arms accessory cursed
 tier: 4
 title: grip of blight
 type: text/vnd.tiddlywiki
 
-These black leather and bone chain gloves spread sickness and decay to anything they touch. While wearing the gloves, your unarmed strikes deal additional necrotic damage. Gain +1 additional [[impact]] if you hit a plant or [[plant creature]] with this attack.
+These black leather and bone chain gloves spread sickness and decay to anything they touch. While wearing the gloves, your unarmed strikes deal additional [[necrotic damage|damage type]]. Gain +1 additional [[impact]] if you hit a plant or [[plant creature]] with this attack.
 
 In addition, while wearing the gloves, you can cast one of the following spells from them: [[blight]], [[contagion]], or [[vampiric touch]]. Casting [[blight]] in this way requires you to touch the target, instead of its normal range of 30 feet. Once the gloves have been used to cast a spell, they can't be used to cast that spell again until the next dusk.
 

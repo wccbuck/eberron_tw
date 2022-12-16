@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210110053928779
-modified: 20210727192034707
+modified: 20221205060630590
 tags: transmutation evocation
 tier: 3
 title: storm sphere
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 A 20-foot-radius sphere of whirling air springs into existence, centered on a point you choose within 150 feet. The sphere remains for up to 1 minute, or until your concentration breaks. Each creature in the sphere is buffeted by strong winds.
 
-Until the spell ends, every few seconds, you can cause a bolt of lightning to leap from the center of the sphere toward one creature you choose within 60 feet of the center. You have [[advantage]] on the attempt if the target is in the sphere. If struck, a target takes a great deal of lightning damage.
+Until the spell ends, every few seconds, you can cause a bolt of lightning to leap from the center of the sphere toward one creature you choose within 60 feet of the center. You have [[advantage]] on the attempt if the target is in the sphere. If struck, a target takes a great deal of [[lightning damage|damage type]].

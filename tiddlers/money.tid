@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210409191449051
-modified: 20221127041909523
+modified: 20221204004341129
 tags: Storyloom
 title: money
 tooltip: documentation page for the use of currency in Storyloom and Eberron
@@ -78,16 +78,16 @@ The following services are provided by House [[Jorasco]].
 
 !! Adventuring Gear Costs
 
-Below are some example costs for armor and weapons in a typical city in [[Khorvaire]]. These costs reflect House [[Cannith]] standard prices; custom-made artisan prices may be higher.
+Below are some example costs for [[armor]] and weapons in a typical city in [[Khorvaire]]. These costs reflect House [[Cannith]] standard prices; custom-made artisan prices may be higher.
 
 !!! Armor
 
 |!Item |!Average Cost |
 |shield |1c |
-|leather armor |1c |
-|chain shirt, scale mail |5c |
-|splint armor |20c |
-|plate armor |150c |
+|light armor (leather, hide) |1c |
+|medium armor (chain shirt, scale mail) |5c |
+|heavy armor (splint armor, breastplate with chain) |20c |
+|full plate armor |150c |
 
 !!! Weapons
 
@@ -95,7 +95,7 @@ Below are some example costs for armor and weapons in a typical city in [[Khorva
 |dagger, spear, whip |0.2–0.5c |
 |mace, bow, axe, shortsword |1c |
 |longsword, warhammer, glaive |2c |
-|crossbow, greatsword, greataxe |4c |
+|[[crossbow]], greatsword, greataxe |4c |
 
 !! Mundane Item Costs
 

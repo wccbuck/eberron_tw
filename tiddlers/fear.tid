@@ -2,7 +2,7 @@ category: spell
 color: #B7A1E0
 created: 20201216174058699
 highertier: show
-modified: 20220824175128499
+modified: 20221205052515967
 tags: illusion
 tier: 3
 title: fear
@@ -15,6 +15,6 @@ You project a phantasmal image of a creature's worst fears. Each creature within
 
 !! Epic-Tier
 
-When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may extend the range to 120 feet, and afflicted targets suffer psychic damage.
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you may extend the range to 120 feet, and afflicted targets suffer [[psychic damage|damage type]].
 
 </$reveal>

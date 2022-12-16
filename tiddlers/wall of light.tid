@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210504035102239
-modified: 20210727192041347
+modified: 20221205061142114
 tags: evocation
 tier: 3
 title: wall of light
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 
 A shimmering wall of bright light appears at a point you choose within 120 feet. The wall appears in any orientation you choose: horizontally, vertically, or diagonally. It can be free floating, or it can rest on a solid surface. The wall can be up to 60 feet long, 10 feet high, and 5 feet thick. The wall blocks line of sight, but creatures and objects can pass through it. It emits bright light out to 120 feet and dim light for an additional 120 feet. It lasts for up to 10 minutes, or until your concentration is broken.
 
-When the wall appears, each creature in its area suffers radiant damage, may be blinded for up to 1 minute. 
+When the wall appears, each creature in its area suffers [[radiant damage|damage type]], may be blinded for up to 1 minute. 
 
 Until the spell ends, you can repeatedly launch a beam of radiance from the wall at one creature you can see within 60 feet of it. Whenever you do this, whether you hit or miss, reduce the length of the wall by 10 feet. If the wall's length drops to 0 feet, the spell ends.
 

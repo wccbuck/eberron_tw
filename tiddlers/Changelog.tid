@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.19.2
-modified: 20221201031226170
+currentversion: 1.20.0
+modified: 20221215235000852
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,49 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.20.0 <span style="font-weight:normal">(Dec 15, 2022)</span>
+
+Lore stuff:
+
+* Lots of [[Chronicles of Eberron|https://www.dmsguild.com/product/415474/Chronicles-of-Eberron]] content!
+** [[crossbow]]s and related items
+** Additions to [[aarakocra]], [[centaur]], [[genasi]], [[eneko]], [[grung]], [[kenku]]. Added new pages for [[dhampir]], [[firbolg]], and [[harengon]] (and [[talent]]s to match: [[Dhampir (talent)]], [[Firbolg (talent)]], [[Grung (talent)]], [[Harengon (talent)]]; also [[Eneko (talent)]])
+** Lots of [[Tairnadal]] / [[Spirits of the Past]] content. New pages: [[patron ancestor]] (and five examples), [[warband]], [[zaeltairn]], [[zaelantar]], [[zaelta]], [[zaelshin]], [[Oath of Veneration]], [[Maezan Shal]], [[Shanutar]]. Deleted the "Vadallia and Cardaen" culture page and split its content across other pages
+** Added stuff to [[Lorghalan]]. Renamed the city of Cornerstone to [[Hornstone]] because there is already a Cornerstone in Kythri and a Cornerstone district in Sharn. (Chose Hornstone because it's a synonym for "cornerstone" in Old English: "hyrnstan".) Also added new pages [[stonesinger]], [[Fleet of Lorghalan]], and [[Lorghalan Gnome]] (a new [[talent]]).
+** Added a bit to [[Pylas Pyrial]], reduced its population, downplayed the rivalry between it and [[Shae Loralyndar]]
+** Made separate [[Cazhaak Creed]] page, added some content to each of the [[Dark Six]], added new Dark Six spells, [[dark petitioner]] (with associated [[talent]]s), [[Reverse Speech]] talent, a new page for [[Thalanna]], [[Three Faces of Knowledge]], and other Dark Six related content
+** Added a little to [[Ashtakala]], including random denizen/encounter generators
+** Made additions to the following pages: [[necromancy]], [[vampire]], [[mummy]], [[Gath]], [[Odakyr Rites]], [[Mordain's Hall]], [[teleportation circle]]
+** Added [[rootbound]] creature
+** Added a new page for [[bastion city]] and linkified it everywhere
+** Small tweaks and additions to Riedran [[province|Sarlonan province]] pages
+* Added a bit to [[Windlost]]
+* Added a new [[trinket]] list pulled from 5e Eberron books
+* Renamed some [[Adar]]an places, inspired in part by Megan Caldwell's upcoming fan supplement for Adar:
+** il-Shakti → [[il-Shati]] (I prefer this over her "Ohr Adeer" since in my Eberron "Ohr" is more of a [[Riedran]] thing)
+** Hanuman → [[Havaluma]]
+** Bishma → [[Biivma]]
+** Shambala → [[Shavaala]] (I had this as "Sangala" but I like this better)
+** Loohar → [[Looyan]] (I prefer this over "Loona")
+** Khada → [[Kaadan]]
+** Jathara Sound → [[Jahara Sound]]
+** Not Adaran, but related: Akiak → [[Doriak]]
+* While I was at it I renamed the leader of [[Deathsgate Guild]] to [[Kash Droranath]] instead of "Kassh"
+* Added [[faerie frost]] (from Frostburn) and put it in [[Everice]]
+* Changed lizardfolk references in [[Ring of Storms]] to [[dragonborn]]
+
+[[Storyloom]] and TW stuff:
+
+* Added some [[Storyloom]] mechanics clarification to the [[armor]] page
+* Changed layout of [[character sheet template]]; made the stress and harm sections single rows, and made an option to add/subtract special and temporary [[stress]] and [[harm]]. Because they're now in a single row, I was able to clarify how [[magical healing]] works.
+* Added [[damage type]] page and linkified it everywhere
+* Linkified [[arcane magic]] in more places
+* Made default number of segments for a new [[progress clock]] 4 instead of 2
+* Fixed an error in [[Aasimar of the Silver Flame]] [[talent]]; once-per-day ability shouldn't deal fire damage
+* Added some example spellcasting consequences to the [[consequence]] page
+* Fixed a couple of random generators that weren't applying weights to outcomes properly
+* Added "object" category back onto some object tags; added "weapon" tag to weapon category pages like "crossbow", "sword" etc even if they were stubs
 
 !!! 1.19.2 <span style="font-weight:normal">(Nov 30, 2022)</span>
 

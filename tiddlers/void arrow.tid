@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20220105064726853
-modified: 20220221192501183
+modified: 20221205061116463
 tags: stealth weapon projectile
 tier: 2
 title: void arrow
 type: text/vnd.tiddlywiki
 
-This pitch-dark piece of ammunition is composed of densely packed shadows. A creature hit by this magic projectile suffers psychic damage instead of ordinary physical damage. This arrow makes no sound when it's fired or strikes a surface, leaves no discernible wounds, and vanishes immediately after hitting a creature.
+This pitch-dark piece of ammunition is composed of densely packed shadows. A creature hit by this magic projectile suffers [[psychic damage|damage type]] instead of ordinary physical damage. This arrow makes no sound when it's fired or strikes a surface, leaves no discernible wounds, and vanishes immediately after hitting a creature.

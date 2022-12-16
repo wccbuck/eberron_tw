@@ -3,10 +3,11 @@
         "created": "20201226223721641",
         "text": "Different kinds of magical liquids are grouped in the\ncategory of potions: brews made from enchanted herbs,\nwater from magical fountains or sacred springs, and\noils that are applied to a creature or object. Most potions\nconsist of one ounce of liquid.\n\nPotions are consumable [[magic item]]s. Drinking a\npotion or administering a potion to another character usually takes a few seconds; applying an oil might take a few minutes, as specified in its description. Once used, a potion takes effect immediately, and it is used up.\n\n!!! <<showitem-type>>",
         "title": "potion",
-        "modified": "20220805152302245",
+        "modified": "20221215054257039",
         "tags": "[[object type]]",
         "type": "text/vnd.tiddlywiki",
         "color": "#075157",
-        "tooltip": "a magical liquid, including brewed tinctures and oils "
+        "tooltip": "a magical liquid, including brewed tinctures and oils ",
+        "category": "object"
     }
 ]

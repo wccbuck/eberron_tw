@@ -2,7 +2,7 @@ category: object
 charges: 4
 color: #41D5E1
 created: 20211229232902665
-modified: 20220216235349679
+modified: 20221205054106897
 tags: bow weapon
 tier: 3
 title: longbow of dread
@@ -10,6 +10,6 @@ type: text/vnd.tiddlywiki
 
 This magic longbow is adorned with a bear skull and claws. The bow holds up to 4 charges, and regains 1 expended charge whenever you incapacitate or kill a creature with it (the creature must be no smaller than a [[goblin]]). For each charge the bow has, a small, etched line appears on the bear skull adorning the weapon. An etched line vanishes from the skull when its charge is expended.
 
-When you hit a creature with an arrow fired from this weapon, you can expend 1 of the charges to cause that creature to suffer additional psychic damage, and if they can't resist the bow's magic, the creature is frightened of you for up to 1 minute.
+When you hit a creature with an arrow fired from this weapon, you can expend 1 of the charges to cause that creature to suffer additional [[psychic damage|damage type]], and if they can't resist the bow's magic, the creature is frightened of you for up to 1 minute.
 
 <<itemcharges 4>>

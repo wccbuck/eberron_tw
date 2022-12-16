@@ -1,6 +1,6 @@
 category: talent
 created: 20211128080653309
-modified: 20211128082212091
+modified: 20221205044137919
 tags: sorcerer
 title: Metamagic
 type: text/vnd.tiddlywiki
@@ -12,4 +12,4 @@ As a [[sorcerer]], you have the ability to twist your spells to suit your needs.
 * ''Distant Spell.'' You may double the range of your spell. If the spell requires you to touch the target, the new range is 30 feet.
 * ''Extended Spell.'' If the spell has a duration of 1 minute or longer, you may double the duration.
 * ''Subtle Spell.'' You may cast your spell without making any sound or gesture.
-* ''Transmuted Spell.'' If your spell deals a type of damage, you may change that damage type to one of the following: acid, cold, fire, lightning, or poison.
+* ''Transmuted Spell.'' If your spell directly deals damage, you may change that [[damage type]] to one of the following: acid, cold, fire, lightning, or poison.

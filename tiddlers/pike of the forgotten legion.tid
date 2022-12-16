@@ -2,13 +2,13 @@ category: object
 charges: 6
 color: #41D5E1
 created: 20220102070403096
-modified: 20220221181835023
+modified: 20221205055039747
 tags: weapon spear summoning mobility
 tier: 5
 title: pike of the forgotten legion
 type: text/vnd.tiddlywiki
 
-This long thrusting spear has 6 charges and regains <<dr 1d4+2>> expended charges daily at dusk. While holding this pike, you can expend 1 charge to cast one of the following spells from it: [[mirror image]], [[phantom steed]], or [[speak with dead]], or expend 2 charges to cast [[spirit guardians]]; the spirits summoned in this way appear as spectral warriors and deal necrotic damage with their attacks.
+This long thrusting spear has 6 charges and regains <<dr 1d4+2>> expended charges daily at dusk. While holding this pike, you can expend 1 charge to cast one of the following spells from it: [[mirror image]], [[phantom steed]], or [[speak with dead]], or expend 2 charges to cast [[spirit guardians]]; the spirits summoned in this way appear as spectral warriors and deal [[necrotic damage|damage type]] with their attacks.
 
 Whenever you hit a creature with this pike, you can choose to summon a spectral warrior to harass that target for a few seconds, giving them [[disadvantage]] on any attempts made to oppose you. This property has no effect on [[undead]] creatures.
 

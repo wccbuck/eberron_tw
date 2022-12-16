@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220103213744565
-modified: 20220216233545981
+modified: 20221205060346252
 tags: weapon [[magical implement]] staff
 tier: 4
 title: staff of four seasons
@@ -11,7 +11,7 @@ Only a [[primal|primal magic]] spellcaster or a wielder of [[fey]] magic can [[a
 
 This magical staff changes with the seasons. You can spend 10 minutes concentrating on the staff to change it to a different season of your choice. It remains in this new form for the next 8 hours before reverting to the current season.
 
-When you physically attack with this staff, you deal extra damage to the target. The type depends on the season of the staff:
+When you physically attack with this staff, you deal extra damage to the target. The [[type|damage type]] depends on the season of the staff:
 
 * ''Autumn:'' necrotic damage
 * ''Spring:'' radiant damage

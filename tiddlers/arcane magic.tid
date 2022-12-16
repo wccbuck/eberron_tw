@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20201231200938517
-modified: 20220805023844991
+modified: 20221215231825332
 tags: 
 title: arcane magic
 tooltip: magic which acts according to the laws of science, tied to planes and ring of Siberys
@@ -15,8 +15,7 @@ what makes arcane magic the foundation of civilization in the
 [[Five Nations]]: it can be taught (as with schools for [[magewright]]s and [[wizard]]s), and once learned, it is entirely reliable. Arcane magic involves channeling ambient magical
 energy—the powers of the [[plane]]s, the emanations of the Ring
 of [[Siberys]]—and focusing it to alter reality. The components of
-a spell—like verbal incantations, somatic gestures, and focus
-items—help this process, but the most important element of
+a spell—like verbal incantations, somatic gestures, and [[focus items|magical implement]]—help this process, but the most important element of
 spellcasting is mental focus. Though a fighter could perfectly
 duplicate the words and gestures of a wizard, nothing would
 happen. You must cast the spell in your mind, harnessing and
@@ -24,4 +23,4 @@ shaping mystical energy, and this is dangerous and exhausting;
 this is why most spellcasters are limited in how many spells
 they can cast each day.
 
-See also [[arcane theory]].
+Arcane spells are typically grouped into categories known as [[spell school]]s. See also [[arcane theory]].

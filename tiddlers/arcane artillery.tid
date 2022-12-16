@@ -1,7 +1,7 @@
 category: object
 color: #1E868E
 created: 20201209014700240
-modified: 20220216231654078
+modified: 20221205051132252
 tags: weapon fixed [[magical implement]]
 tier: 0
 title: arcane artillery
@@ -54,7 +54,7 @@ missiles are often enchanted with spell effects that trigger
 when the bolt strikes its target. This effect is in addition to
 the standard damage inflicted by the siege engine.
 
-* //Explosive ammunition// affects a 30-foot radius sphere centered on the impact of the bolt. Typically, explosive ammunition deals fire damage, igniting flammable objects that aren't being worn or carried. However, [[Karrnath]]i //deathbolt//s deal necrotic damage and only harm living creatures, while [[Thrane]] //Tira's tears// deal radiant damage.
+* //Explosive ammunition// affects a 30-foot radius sphere centered on the impact of the bolt. Typically, explosive ammunition deals [[fire damage|damage type]], igniting flammable objects that aren't being worn or carried. However, [[Karrnath]]i //deathbolt//s deal necrotic damage and only harm living creatures, while [[Thrane]] //Tira's tears// deal [[radiant damage|damage type]].
 * //Summoning ammunition// conjures creatures around the point of impact. [[Aundair]]ian firestones produce a temporary flaming sphere that randomly rolls around the area of impact. [[Zil|Zilargo]] binders developed a more powerful form of this ammunition which conjures an [[elemental]] on detonation, but it is extremely costly and rare.
 * //Panic stones// affect all creatures within a 90-foot-radius sphere centered on the impact of the stone; those without high enough resolve drop whatever they are holding and flee in terror.
 

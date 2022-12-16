@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220715180542476
-modified: 20220715181350490
+modified: 20221205051741981
 tags: hindrance accessory body protection mobility
 tier: 4
 title: cloak of arachnida
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 
 This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:
 
-* You have resistance to poison damage.
+* You have resistance to [[poison damage|damage type]].
 * You can climb as fast as you can run.
 * You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
 * You can't be caught in webs of any sort and can move through webs without any difficulty.

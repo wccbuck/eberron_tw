@@ -1,7 +1,7 @@
 category: location
 color: #3B5C0A
 created: 20200417004231818
-modified: 20220828195443741
+modified: 20221209212723754
 polygons: 10.634,30.08 10.938,29.53 11.428,29.39 11.612,29.15 12.443,29.06 12.849,29.19 13.025,29.08 13.255,29.09 13.809,28.74 13.92,28.49 14.169,28.41 14.465,28.46 14.585,28.28 14.788,28.23 15.009,28.33 15.212,28.29 15.489,27.97 15.831,27.56 15.868,26.67 15.748,26.37 16.182,26.17 16.597,26.27 16.818,26.07 16.938,26.0 17.16,25.27 17.557,24.95 17.391,24.34 17.575,23.99 17.317,23.78 17.317,23.39 17.003,23.28 16.689,23.37 16.468,23.15 16.542,22.64 16.283,22.02 16.311,21.62 16.108,21.42 15.674,21.28 15.083,21.0 14.954,21.22 14.797,21.36 14.686,21.85 14.308,22.45 14.585,21.28 14.354,20.91 13.883,20.78 13.772,21.05 13.468,21.26 13.32,21.4 12.914,21.47 12.766,22.73 12.655,21.66 12.655,21.66 12.498,21.17 12.157,20.66 11.585,20.63 11.4,20.0 11.068,19.59 10.652,19.08 9.858,19.0 9.203,19.32 9.009,19.8 9.138,20.1 8.658,20.91 9.185,21.91 8.889,22.53 8.991,23.76
 style: {"color":"#482714","fillOpacity":"0","weight":2,"dashArray":"4, 9","opacity":"0.5"}
 tags: province Aerenal
@@ -9,7 +9,12 @@ title: North Aerenal
 tooltip: northern steppes of Aerenal, homeland of the Tairnadal elves
 type: text/vnd.tiddlywiki
 
-The northern steppes of [[Aerenal]] are the domain of
-the [[Tairnadal]] (primarily the [[Silaes Tairn]]), the warrior elves. Although much of their population now resides in [[Valenar]], many Tairnadal noncombatants—children,
-artisans, and the [[druid]]s who raise their remarkable
-[[beasts|Valenar beast]]—remain in Aerenal.
+The northern steppes of [[Aerenal]] are the domain of the [[Tairnadal]], the warrior elves. Although much of their population now resides in [[Valenar]], most of the Tairnadal armies as well as noncombatants—children, artisans, and the [[druid]]s who raise their remarkable [[beasts|Valenar beast]]—remain in Aerenal. 
+
+Among the [[Tairnadal]], the [[zaeltairn]] are nomadic while
+the [[zaelantar]] live in village communities. Three great
+Tairnadal cities stand in the northern region of Aerenal:
+
+* [[Var-Shalas]]
+* [[Shae Thoridor]]
+* [[Taer Senadal]]

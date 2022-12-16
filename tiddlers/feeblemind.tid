@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20210421042545494
-modified: 20210727192008065
+modified: 20221205052533398
 tags: enchantment psionics
 tier: 4
 title: feeblemind
 type: text/vnd.tiddlywiki
 
-You blast the mind of a creature that you can see within 150 feet, attempting to shatter its intellect and personality. The target suffers psychic damage, and if the target's intellect can't withstand your magic, it is severely damaged. The creature can't cast [[spell]]s, activate [[magic item]]s, understand [[language]], or communicate in any intelligible way. The creature can, however, identify its friends, follow them, and even protect them.
+You blast the mind of a creature that you can see within 150 feet, attempting to shatter its intellect and personality. The target suffers [[psychic damage|damage type]], and if the target's intellect can't withstand your magic, it is severely damaged. The creature can't cast [[spell]]s, activate [[magic item]]s, understand [[language]], or communicate in any intelligible way. The creature can, however, identify its friends, follow them, and even protect them.
 
 At the end of every 30 days, the creature can attempt to shake off the effects of this spell.
 

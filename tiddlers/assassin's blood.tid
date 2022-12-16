@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20201216222304718
-modified: 20220110034312658
+modified: 20221205051210641
 tags: poison
 tier: 2
 title: assassin's blood
 type: text/vnd.tiddlywiki
 
-A creature that ingests this poison and can't resist its effects suffers significant poison damage and has [[disadvantage]] on all attempts for 24 hours. 
+A creature that ingests this poison and can't resist its effects suffers significant [[poison damage|damage type]] and has [[disadvantage]] on all attempts for 24 hours. 

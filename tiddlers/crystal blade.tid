@@ -1,12 +1,12 @@
 category: object
 color: #41D5E1
 created: 20211027191921526
-modified: 20220217212910041
+modified: 20221205052121654
 tags: sword weapon
 tier: 3
 title: crystal blade
 type: text/vnd.tiddlywiki
 
-This magic sword's blade is fashioned from a crystal infused with pure radiance. When you attack with this sword, the target suffers additional radiant damage.
+This magic sword's blade is fashioned from a crystal infused with pure radiance. When you attack with this sword, the target suffers additional [[radiant damage|damage type]].
 
 While you’re holding the sword, you can choose to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet (or any range less than that), or to douse the light.

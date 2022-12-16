@@ -1,12 +1,12 @@
 category: object
 color: #41D5E1
 created: 20211221212913185
-modified: 20220217213045139
+modified: 20221205051736074
 tags: weapon whip
 tier: 3
 title: coldsnap
 type: text/vnd.tiddlywiki
 
-This icy whip deals extra cold damage to any target it hits. Creatures you hit with this whip that are not immune to cold suffer slowed movement speed for 5-10 seconds (as the spell [[ray of frost]]).
+This icy whip deals extra [[cold damage|damage type]] to any target it hits. Creatures you hit with this whip that are not immune to cold suffer slowed movement speed for 5-10 seconds (as the spell [[ray of frost]]).
 
 Once you [[attune|attunement]] yourself to this weapon, its normally frigid handle feels warm to the touch.

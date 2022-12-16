@@ -2,7 +2,7 @@ category: object
 charges: 4
 color: #41D5E1
 created: 20211221232055083
-modified: 20220828024921518
+modified: 20221205051748834
 tags: weapon [[couatl herald]] bow
 tier: 3
 title: couatl herald's reach
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 
 This wooden bow is carved to resemble a mighty [[couatl]], and was crafted in the fortress-citadels of the [[shulatlaca]]. 
 
-The bow has four charges, and regains <<dr 1d3+1>> expended charges daily at dawn. When you fire a projectile from this bow against a creature, you can expend 1 of the bow's charges to deal extra radiant damage with your attack, and attempt to pin one of the target creature's limbs with radiant tethers of magic, holding it to its body or to an adjacent surface for up to 1 minute.
+The bow has four charges, and regains <<dr 1d3+1>> expended charges daily at dawn. When you fire a projectile from this bow against a creature, you can expend 1 of the bow's charges to deal extra [[radiant damage|damage type]] with your attack, and attempt to pin one of the target creature's limbs with radiant tethers of magic, holding it to its body or to an adjacent surface for up to 1 minute.
 
 Depending on the pinned limb, the creature may fall over, be unable to move, or have [[disadvantage]] when attempting to use their pinned limb. A creature may be able to break the radiant bonds with a dedicated effort.
 

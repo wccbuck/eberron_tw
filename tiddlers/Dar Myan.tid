@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20210127215807893
-modified: 20220827210853277
+modified: 20221215214855771
 points: 17.188,207.6
 population: 97000
 style: {"color": "#8E0024"}
@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
 ''Local Ruler:'' Lord [[Baalnakosh]]<br/>
 ''Population:'' <<ntls>>
 
-Dar Myan is a bastion in [[Ghirvagura]]. Built on the
+Dar Myan is a [[bastion|bastion city]] in [[Ghirvagura]]. Built on the
 floodplain of the [[Koralanda River]], it is a center of distribution and agriculture, as well as the home of important
 [[Inspired]]. It has training facilities for both the [[Dreaming Dark]] and the [[Thousand Eyes]]. A major military installation also calls Dar Myan home, providing training
 for soldiers of the [[Savage Legion|Taskaan Legion]] and other military
@@ -30,7 +30,7 @@ Lord [[Baalnakosh]] of the [[Bountiful Horn]] ([[hashalaq]] [[Inspired]] [[psion
 aided by hundreds of [[Chosen]] and served by thousands
 of servants, agents, and troops.
 
-This city's description can be used as a template for other [[Riedra]]n bastion cities.
+This city's description can be used as a template for other [[Riedra]]n [[bastion cities|bastion city]].
 
 !! Notable Features
 
@@ -136,7 +136,7 @@ unwilling to aid intruders.
 
 Stealth, speed, and evasion are the best approaches.
 Hiding within the city is a possibility, but when the situation calms after a raid, [[Baalnakosh]] has his troops do a
-systematic search of the bastion.
+systematic search of the [[bastion|bastion city]].
 
 Within Dar Myan, intruders may encounter [[Bastion Guard]]s, eventually gaining the attention of specialist squads of [[psi warrior]]s or [[psion]]s (always [[Chosen]] or [[Inspired]], usually [[tsoreva]] or [[tsucora]]). A standing force of [[Taskaan|Taskaan Legion]] [[shifter]]s is also available. Finally, a troop of soldiers of the [[Sleeping Sword]] is largely made up of [[Chosen]] and [[Inspired]] [[psi warrior]]s and
 [[soul knives|soulknife]]. Such units are usually led by a [[tsucora dreamblade|tsucora]].

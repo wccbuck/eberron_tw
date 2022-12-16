@@ -1,16 +1,16 @@
 category: game mechanics
 created: 20221120230342871
 displaynameorigin: Drow
-modified: 20221129185922871
+modified: 20221207005350765
 nameorigin: Drow
 tags: 
 title: random name generator
 tooltip: tool for generating a random name based on country of origin
 type: text/vnd.tiddlywiki
-var1: Sahyolei
-var2: Kumulkoor
-var3: Xhuonha
-var4: Ulaj
+var1: Qaje
+var2: Men'mol
+var3: Naje
+var4: Sokosal
 
 Use this tool to generate names for characters in the world of Eberron. Select a "linguistic origin" from the drop-down list, then click "Generate Four Names". Please forgive any profane, inappropriate, or generally terrible names; this tool does not filter any "blacklist" words.
 

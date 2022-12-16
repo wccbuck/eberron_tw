@@ -1,0 +1,19 @@
+category: object
+color: #41D5E1
+created: 20221205003550795
+modified: 20221205030534266
+tags: projectile tool
+tier: 0
+title: spellbolt
+tooltip: crossbow bolt that delivers a single arcane spell
+type: text/vnd.tiddlywiki
+
+Developed by House [[Cannith]] near the end of the [[Last War]], a spellbolt functions as a sort of magical grenade. Each spellbolt’s arcane payload is triggered by the kinetic
+formula of a [[Cannith crossbow]] (Spark, Lightning, or Thunderbolt), allowing an archer to shoot a target and affect them with a spell. Effectively, a spellbolt is like a [[scroll|spell scroll]] or [[potion]]—a consumable [[magic item]] holding a single charge of a spell—with the advantage of delivering that effect at a longer range. 
+
+These bolts are a recent innovation, and House [[Cannith]] has thus far
+only created spellbolts using [[arcane|arcane magic]] [[spell]]s of up to [[uncommon tier|spell tier]]. Though spellbolts aren’t widespread in the [[Five Nations]], they have the same [[cost|money]] and [[rarity]] as a [[scroll|spell scroll]] of the same spell.
+
+|!Spellbolt |![[Rarity|rarity]] and [[Spell Tier|spell tier]] |
+|[[tier 1|spellbolt, tier 1]] |common |
+|[[tier 2|spellbolt, tier 2]] |uncommon |

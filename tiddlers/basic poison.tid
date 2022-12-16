@@ -1,11 +1,11 @@
 category: object
 color: #41D5E1
 created: 20211129195953254
-modified: 20220824212241401
+modified: 20221205051436427
 tags: poison
 tier: 1
 title: basic poison
 tooltip: a creature who is subjected to this poison, after about 20 seconds, suffers a small amount of poison damage and suffers disadvantage on all actions for several minutes
 type: text/vnd.tiddlywiki
 
-This poison can take a variety of forms: a pasty concoction of a toxic cactus fruit; the oily sap of a noxious mushroom; or perhaps the venomous saliva of a foul beast. A basic poison can be coated on a weapon or secretly added to a victim's drink. After about 20 seconds, the target suffers a small amount of poison damage, and experiences disorientation or nausea that imposes [[disadvantage]] on all actions for the next several minutes.
+This poison can take a variety of forms: a pasty concoction of a toxic cactus fruit; the oily sap of a noxious mushroom; or perhaps the venomous saliva of a foul beast. A basic poison can be coated on a weapon or secretly added to a victim's drink. After about 20 seconds, the target suffers a small amount of [[poison damage|damage type]], and experiences disorientation or nausea that imposes [[disadvantage]] on all actions for the next several minutes.

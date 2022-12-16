@@ -1,13 +1,13 @@
 category: object
 color: #41D5E1
 created: 20220104055058578
-modified: 20220221025647878
+modified: 20221205060949134
 tags: hindrance weapon
 tier: 2
 title: sundersludge net
 type: text/vnd.tiddlywiki
 
-This gelatinous web-like net is made from the enchanted remains of a [[gray ooze]]. The net's sticky composition makes it more difficult to escape than a mundane one. Creatures restrained by this net continuously suffer acid damage. Any nonmagical metal items or armor in contact with the net rapidly corrode.
+This gelatinous web-like net is made from the enchanted remains of a [[gray ooze]]. The net's sticky composition makes it more difficult to escape than a mundane one. Creatures restrained by this net continuously suffer [[acid damage|damage type]]. Any nonmagical metal items or armor in contact with the net rapidly corrode.
 
 You are immune to damage from the net while you are [[attuned|attunement]] to it. Picking up the net after throwing it renders it harmless until the next time you throw it. The net deals no acid damage if no creature is attuned to it.
 

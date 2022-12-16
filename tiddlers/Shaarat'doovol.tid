@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201210023311866
-modified: 20221121182529548
+modified: 20221205060211422
 tags: protection detection sword Dhakaan weapon
 tier: 5
 title: Shaarat'doovol
@@ -17,4 +17,4 @@ This magic weapon is immensely powerful under normal circumstances, but when you
 you and shields you from unnatural influences. While wielding
 this sword, it can choose to grant you the following benefits:
 you gain [[truesight]] with a range of 90 feet, you can't be charmed
-or frightened, and you have resistance to psychic damage.
+or frightened, and you have resistance to [[psychic damage|damage type]].

@@ -2,7 +2,7 @@ category: object
 charges: 4
 color: #41D5E1
 created: 20211228222035185
-modified: 20220216203041961
+modified: 20221205053724482
 tags: armor shield
 tier: 4
 title: infernal aegis
@@ -10,6 +10,6 @@ type: text/vnd.tiddlywiki
 
 While holding this shield, you can speak its command word to cause it to become wreathed in harmless, magical flames, as the spell [[continual flame]]. The flames last until you speak the command word again, or until you drop or doff the shield.
 
-While holding the shield, you also gain an [[advantage]] to resist fire damage. In addition, the shield has 4 charges, and regains <<dr 1d4>> expended charges daily at dawn. While the shield is ablaze, you can expend 1 charge to cast [[hellish rebuke]], or 2 charges to cast [[fire shield]] ("warm shield" only).
+While holding the shield, you also gain an [[advantage]] to resist [[fire damage|damage type]]. In addition, the shield has 4 charges, and regains <<dr 1d4>> expended charges daily at dawn. While the shield is ablaze, you can expend 1 charge to cast [[hellish rebuke]], or 2 charges to cast [[fire shield]] ("warm shield" only).
 
 <<itemcharges 4>>

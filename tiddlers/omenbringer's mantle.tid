@@ -1,12 +1,12 @@
 category: object
 color: #41D5E1
 created: 20211231073330554
-modified: 20220220233240117
+modified: 20221205062447638
 tags: body accessory protection summoning
 tier: 4
 title: omenbringer's mantle
 type: text/vnd.tiddlywiki
 
-This raven-feathered mantle is almost iridescent. While wearing this mantle, you have resistance to necrotic damage, and descend 10 feet per second whenever you fall, taking no damage from falling.
+This raven-feathered mantle is almost iridescent. While wearing this mantle, you have resistance to [[necrotic damage|damage type]], and descend 10 feet per second whenever you fall, taking no damage from falling.
 
 In addition, while wearing the mantle, you can cast the [[summon familiar]] spell from it. When you do, the spell requires no expenditure of ritual components, and the casting time is 10 seconds. The [[familiar]] takes the form of a raven. If the familiar is incapacitated, it can't be summoned again until the next dusk. Otherwise, the familiar remains so long as you are [[attuned|attunement]] to the mantle.

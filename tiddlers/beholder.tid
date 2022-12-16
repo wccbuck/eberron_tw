@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200423002333849
-modified: 20220805222546934
+modified: 20221205050225678
 tags: aberration
 tier: 4
 title: beholder
@@ -29,7 +29,7 @@ One glance at a beholder is enough to assess its foul and otherworldly nature. A
 A beholder's spheroid body levitates at all times, and its great bulging eye sits above a wide, toothy maw, while the smaller eyestalks that crown its body twist and turn to keep its foes in sight. When a beholder sleeps, it closes its central eye but leaves its smaller eyes open and alert. Each of these smaller eyes are capable of emitting a different ray of magical energy; see the eye rays table below. Its central eye emits a 150-foot cone of [[antimagic|antimagic field]].
 
 | !<<dr d12>> |!Eye Ray |
-| 1 |//Fulminating Ray:// cause fire and lightning damage to a creature. |
+| 1 |//Fulminating Ray:// cause fire and lightning [[damage|damage type]] to a creature. |
 | 2 |//Caustic Frost Ray:// cause acid and cold damage to a creature. |
 | 3 |//Charm Ray:// [[charm]] a creature for up to 1 hour, or until the beholder harms the creature. |
 | 4 |//Paralyzing Ray:// make a creature unable to move or speak for up to 1 minute. |

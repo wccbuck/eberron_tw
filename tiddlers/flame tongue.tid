@@ -1,11 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201218061122658
-modified: 20220824215933874
+modified: 20221205052801696
 tags: sword weapon
 tier: 3
 title: flame tongue
 tooltip: sword that can emit magical flames
 type: text/vnd.tiddlywiki
 
-By speaking this magic sword's command word, you can cause flames to erupt from the blade. While the sword is ablaze, it deals additional fire damage to any target it hits. The flames last until you speak the command word again or until you drop or sheathe the sword.
+By speaking this magic sword's command word, you can cause flames to erupt from the blade. While the sword is ablaze, it deals additional [[fire damage|damage type]] to any target it hits. The flames last until you speak the command word again or until you drop or sheathe the sword.

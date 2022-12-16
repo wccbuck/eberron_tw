@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210503033914569
-modified: 20210727192037748
+modified: 20221205054355555
 tags: [[primal magic]] evocation
 tier: 1
 title: thunderclap
 type: text/vnd.tiddlywiki
 
-You create a burst of thunderous sound that can be heard up to 100 feet away. Each other creature within 5 feet of you is subjected to damage.
+You create a burst of thunderous sound that can be heard up to 100 feet away. Each other creature within 5 feet of you is subjected to [[force damage|damage type]].

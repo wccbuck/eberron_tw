@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210412045526051
-modified: 20210727192033872
+modified: 20221205062600241
 tags: [[divine magic]]
 tier: 3
 title: spirit guardians
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 You call forth spirits to protect you. They flit around you to a distance of 15 feet for up to 10 minutes. Their spectral form appears [[angel]]ic, [[fey]], or [[fiend]]ish depending on the nature of your power.
 
-When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature's speed is halved in the area, and they are constantly attacked by the spirits, suffering radiant or necrotic damage.
+When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature's speed is halved in the area, and they are constantly attacked by the spirits, suffering [[radiant or necrotic damage|damage type]].

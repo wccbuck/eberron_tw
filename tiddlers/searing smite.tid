@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210505015819881
-modified: 20210727192030127
+modified: 20221205060012677
 tags: [[divine magic]]
 tier: 2
 title: searing smite
 type: text/vnd.tiddlywiki
 
-The next time you hit a creature with a weapon attack before this spell ends (up to 1 minute later), the weapon flares with white-hot intensity, and the attack deals extra fire damage to the target, and may cause the target to ignite in flames.
+The next time you hit a creature with a weapon attack before this spell ends (up to 1 minute later), the weapon flares with white-hot intensity, and the attack deals extra [[fire damage|damage type]] to the target, and may cause the target to ignite in flames.

@@ -1,11 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201216223523434
-modified: 20220110034314524
+modified: 20221205051623567
 tags: poison
 tier: 2
 title: burnt othur fumes
 type: text/vnd.tiddlywiki
 
-A creature that inhales this poison and can't resist its effects suffers significant poison damage to their lungs. The effect persists up to a couple of minutes after the initial attack, causing additional damage.
+A creature that inhales this poison and can't resist its effects suffers significant [[poison damage|damage type]] to their lungs. The effect persists up to a couple of minutes after the initial attack, causing additional damage.
 

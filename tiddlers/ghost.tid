@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20201217055913717
-modified: 20221103014221003
+modified: 20221205045243162
 tags: undead spirit
 tier: 2
 title: ghost
@@ -31,9 +31,9 @@ Ghosts usually don’t know that they’re ghosts. They linger because they’re
 
 Lingering ghosts typically dwell in the [[Ethereal Veil]], and aren't visible on the Material Plane while there; there could be ghosts around you right now, but you'd never know unless something pulls them across the Veil. They can possess living creatures, but often don't realize they are doing so, and simply believe the body is their own. The key to making encounters with ghosts interesting is to vary them based on the story and unique nature of the ghost.
 
-* To harm the ghost, you must recreate the circumstances of its original death. The man who died in fire might be immune to all damage types except fire. A noble who died in a fateful duel could be immune to all physical damage except from rapiers, and vulnerable to damage from the rapier that actually killed them.
+* To harm the ghost, you must recreate the circumstances of its original death. The man who died in fire might be immune to all [[damage type]]s except fire. A noble who died in a fateful duel could be immune to all physical damage except from rapiers, and vulnerable to damage from the rapier that actually killed them.
 * The ghost can’t attack. It can taunt and provoke, and it can counterattack, but if people simply ignore it, it can’t initiate violence.
-* The ghost might twist its face into a horrifying visage in a moment of anguish or rage; any who look upon it suffer psychic damage and may even instantly age 20 years (an effect which might be mitigated by a greater [[restoration]]).
+* The ghost might twist its face into a horrifying visage in a moment of anguish or rage; any who look upon it suffer [[psychic damage|damage type]] and may even instantly age 20 years (an effect which might be mitigated by a greater [[restoration]]).
 * When the ghost touches a target, the victim has a flash of its anchoring trauma, causing fear and psychic damage. Alternatively, it can cast [[phantasmal killer]] at will, drawing a victim into the nightmare of the ghost’s own death. 
 * Instead of possession, the ghost has the power to draw a single victim into the [[Ethereal Veil]]. The victim’s physical body remains on the Material Plane, but their consciousness and likeness are pulled into the Veil, where they can interact with it as if they were physically present. So the victim’s companions can see the character struggling with an unknown foe, but they can’t perceive the ghost or interact with it in any way.
 * Instead of possession, the ghost can cast [[dream]], targeting creatures across the Veil. It may target someone it identifies with, forcing them to suffer visions of the ghost’s demise, or it could target someone it blames for its tragedy.

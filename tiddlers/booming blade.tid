@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210503020929658
-modified: 20210727191958766
+modified: 20221205042002752
 tags: evocation
 tier: 1
 title: booming blade
 type: text/vnd.tiddlywiki
 
-This spell is cast by [[swordmage|eldritch knight]]s just before striking an enemy. Their blade becomes sheathed in booming energy, and when they strike an opponent with it, a peal of thunder echoes from the point of contact, and the target suffers vibrational damage. If the target moves over the next few seconds while the echoes are still rippling, they may suffer additional damage.
+This spell is cast by [[swordmage|eldritch knight]]s just before striking an enemy. Their blade becomes sheathed in booming energy, and when they strike an opponent with it, a peal of thunder echoes from the point of contact, and the target suffers vibrational [[force damage|damage type]]. If the target moves over the next few seconds while the echoes are still rippling, they may suffer additional damage.

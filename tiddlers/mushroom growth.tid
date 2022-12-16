@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20211226025004159
-modified: 20211226025717251
+modified: 20221205054909733
 tags: [[primal magic]] conjuration
 tier: 3
 title: mushroom growth
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 Choose up to three 10-foot diameter circles centered on points on the ground that you can see within 60 feet. Within those circles, clusters of noxious puffball mushrooms magically appear, and persist for up to 1 minute, at which point they wither and vanish.
 
-The affected area is thick with undergrowth and is difficult to traverse quickly. In addition, when a creature enters or spends a few seconds inside the affected area, they must resist the effects of the toxic spore clouds that rise from the mushrooms or else suffer poison damage.
+The affected area is thick with undergrowth and is difficult to traverse quickly. In addition, when a creature enters or spends a few seconds inside the affected area, they must resist the effects of the toxic spore clouds that rise from the mushrooms or else suffer [[poison damage|damage type]].

@@ -1,13 +1,14 @@
 [
     {
         "created": "20200420182229444",
-        "title": "Belew Yorgan",
         "text": "Commander Belew Yorgan is a [[dwarf]] who\nleads the [[Sword Point]] [[garrison|Sword Point Garrison]] in [[Middle Central]].\nHe does his best to serve the interests of the nobles\nand wealthy patrons in the [[Central Plateau]], and as a\nresult these wards are among the safest in [[Sharn]]. But\nYorgan's loyalties are first and foremost to his purse,\nand the troops under his command serve whoever's\npaying the most. ",
-        "modified": "20210727191957524",
+        "title": "Belew Yorgan",
+        "modified": "20221215233549880",
         "tags": "[[Sharn Watch]] dwarf humanoid Sharn",
         "type": "text/vnd.tiddlywiki",
         "article": "Commander ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "leader of the Sword Point garrison of the Sharn Watch"
     }
 ]

@@ -1,0 +1,17 @@
+category: spell
+color: #B7A1E0
+created: 20221212192419991
+modified: 20221212200345405
+tags: transmutation [[divine magic]]
+tier: 1
+title: Traveler's enigma
+tooltip: temporarily transform an object into a random trinket
+type: text/vnd.tiddlywiki
+var: A pair of bronze scissors in the shape of a pair of leaping dolphins
+
+You channel the chaotic power of the [[Traveler]]. A nonmagical object you touch is transformed into a random [[trinket]]. The object you touch must weigh less than 10
+pounds and be no more than 5 inches along any dimension. The transformation lasts for 1 minute, until you choose to dismiss the transformation, or until another creature touches the trinket.
+
+!! Random Trinket
+
+{{||trinket}}

@@ -1,11 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201210002411133
-modified: 20210727192000660
+modified: 20221205035806612
 tags: necromancy
 tier: 1
 title: chill touch
 type: text/vnd.tiddlywiki
 
-The spellcaster creates a ghostly, skeletal hand near a creature within 120 feet. The hand attempts to grab and cling to the target, assailing it with the chill of the grave. The hand clings for 10-20 seconds, during which time necrotic energy seeps into the target and prevents magical healing, and then the hand vanishes. The spell is particularly effective against [[undead]], making them sluggish and dizzy.
+The spellcaster creates a ghostly, skeletal hand near a creature within 120 feet. The hand attempts to grab and cling to the target, assailing it with the chill of the grave. The hand clings for 10-20 seconds, during which time necrotic energy seeps into the target and prevents [[magical healing]], and then the hand vanishes. The spell is particularly effective against [[undead]], making them sluggish and dizzy.
 

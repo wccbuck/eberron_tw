@@ -1,14 +1,14 @@
 category: spell
 color: #B7A1E0
 created: 20210421043216026
-modified: 20210727192026254
+modified: 20221205055350944
 tags: psionics
 tier: 5
 title: psychic chirurgery
 type: text/vnd.tiddlywiki
 
-You can repair psychic damage or grant another creature knowledge of powers you know, depending on the version of this power you manifest.
+You can repair [[psychic damage|damage type]] or grant another creature knowledge of powers you know, depending on the version of this power you manifest.
 
-//''Repair Psychic Damage.''// You can remove any compulsions, charms, or harmful mental effects affecting the subject, even personality-replacing conditions such as [[mind seed]]. These effects end or are negated as soon as this power is manifested. 
+//''Repair Psychic Damage.''// You can remove any compulsions, charms, or harmful mental effects affecting the subject, even personality-replacing conditions such as [[mind seed]]. These effects end or are negated as soon as this power is manifested. You also restore all [[harm]] that is psychic in nature.
 
 //''Transfer Knowledge.''// If desired, you can use this power to directly transfer knowledge of a power you know to another [[psionic|psionics]] character. You can give a character knowledge of a power of any tier that they can manifest.

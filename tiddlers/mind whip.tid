@@ -2,14 +2,14 @@ category: spell
 color: #B7A1E0
 created: 20210129054117669
 highertier: show
-modified: 20220220212251002
+modified: 20221205054837861
 tags: psionics
 tier: 2
 title: mind whip
 type: text/vnd.tiddlywiki
 
 You psychically lash out at one creature you can see
-within 90 feet. On a hit, the target suffers some psychic damage and is dazed for a few seconds.
+within 90 feet. On a hit, the target suffers some [[psychic damage|damage type]] and is dazed for a few seconds.
 
 <$reveal type="match" state="!!highertier" text="show">
 

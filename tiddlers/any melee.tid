@@ -1,8 +1,8 @@
 color: #1E868E
 created: 20220624012859215
 list: sword dagger axe hammer mace flail spear whip staff rod [[punch weapon]]
-modified: 20220805195458929
-tags: 
+modified: 20221215055921459
+tags: weapon
 title: any melee
 tooltip: tag for weapons which can take any melee form (not ranged)
 type: text/vnd.tiddlywiki

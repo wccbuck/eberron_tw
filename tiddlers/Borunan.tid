@@ -1,7 +1,7 @@
 category: location
 color: #3B5C0A
 created: 20210127050711498
-modified: 20220828194537054
+modified: 20221215214807226
 polygons: 23.095,182.32 22.717,182.7 22.403,183.01 22.108,183.33 21.775,183.69 21.637,183.98 21.646,184.3 21.6,184.79 21.471,185.12 21.12,185.34 20.769,185.6 20.225,185.47 19.846,185.57 19.329,185.69 18.96,185.84 18.748,186.18 18.443,186.49 17.908,186.74 17.529,186.82 17.142,187.12 16.735,187.37 16.228,187.4 15.72,187.35 15.258,187.52 14.825,187.81 14.409,187.95 13.994,187.9 13.311,188.01 12.895,188.13 12.618,188.4 12.36,188.68 11.982,188.88 11.769,189.0 12.194,189.51 12.462,189.96 12.831,190.25 13.052,190.67 13.163,191.24 13.089,191.55 13.477,191.85 13.671,192.28 13.994,192.48 14.289,192.82 14.474,193.04 14.778,193.41 14.935,193.74 15.138,193.93 15.351,194.06 15.618,194.38 15.96,194.65 16.218,194.74 16.542,194.66 17.095,194.3 17.538,193.93 18.102,193.5 18.48,193.09 18.877,192.65 19.302,192.24 19.597,192.05 19.735,191.77 20.058,191.68 20.437,191.64 20.742,191.5 20.797,191.29 20.982,191.15 21.203,191.29 21.535,191.23 21.858,191.14 22.292,191.2 22.615,191.07 22.911,190.78 23.511,190.62 24.175,190.52 24.914,190.43 25.486,190.36 26.049,190.33 26.788,190.37 27.471,190.35 27.923,190.39 28.255,190.23 28.671,190.19 29.04,190.43 29.252,190.4 29.465,190.44 29.742,190.54 30.0,190.72 30.231,190.72 30.415,190.49 30.471,190.24 30.406,190.06 30.397,189.75 30.637,189.4 30.923,189.09 31.052,188.65 31.209,188.36 31.32,187.87 31.449,187.45 31.726,187.07 32.095,186.8 32.529,186.78 32.871,186.84 33.129,186.56 33.249,186.22 33.222,185.78 33.028,185.18 32.825,184.75 32.52,184.3 32.317,183.92 32.178,183.55 32.252,183.19 32.114,182.89 31.772,182.87 31.542,183.19 31.218,183.46 30.942,183.57 30.535,183.53 30.092,183.21 29.751,182.95 29.428,182.62 29.252,182.39 28.948,182.42 28.68,182.59 28.228,182.39 27.711,182.39 26.991,182.35 26.16,182.39 25.505,182.38 24.849,182.36 24.24,182.35 23.751,182.15 23.418,181.87
 population: 480000
 style: {"fillOpacity":"0","opacity":"0"}
@@ -11,6 +11,13 @@ tooltip: province of Riedra, homeland of the ogres and oni
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>
+
+In Borunan, you might...
+
+* Be drawn into the schemes of [[oni]] and [[ogre]]s plotting [[rebellion|Horned Shadow]].
+* Find an ancient forge where oni crafted weapons for ogre champions.
+* Be forced into an extension of [[Shavarath]], where [[celestial]]s and [[fiend]]s fight an endless war.
+* Use a passage from [[Khyber]] to enter [[Riedra]].
 
 Borunan is homeland to [[ogre]]s. It's a barren and hostile
 region, spread across the [[Andnemun Desert]] and the
@@ -25,10 +32,11 @@ the ogres were brought under [[Riedra]]n rule and forcibly
 converted to the [[Path of Inspiration]]. Those who resisted
 were killed or driven into [[Syrkarn]], where they spawned
 the [[eneko]]. Today the ogres are a surprisingly peaceful folk,
-their warlike culture expunged by the [[Inspired]]. They are kept from the [[wild zone]]s that served as the strongholds of their ancestors, and largely kept from any form of war; they use their strength for manual labor as opposed to battle. Although
-ogres form the bulk of the population in Borunan, all
+their warlike culture expunged by the [[Inspired]]. They are kept from the [[wild zone]]s that served as the strongholds of their ancestors, and largely kept from any form of war; they use their strength for manual labor as opposed to battle. The [[oni]] are raised to believe in a twisted form of their actual history, and are taught that their duty is to redeem the fiend within them through their devoted service to the [[Inspired]]. This indoctrination has proven largely successful, and the [[Horned Guard]]—an elite corps of oni soldiers—is one of the most powerful weapons in the Riedran arsenal.
+
+Although ogres form the bulk of the population in Borunan, all
 villages have [[Chosen]] overseers, and [[human]] and [[shifter]]
-troops are found in the handful of bastion cities.
+troops are found in the handful of [[bastion cities|bastion city]].
 
 The people of Borunan tend to be cheerful and
 straightforward. Feats of strength are admired; a human

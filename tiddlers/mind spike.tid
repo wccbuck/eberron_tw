@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210505030252128
-modified: 20210727192021575
+modified: 20221205054851773
 tags: divination psionics
 tier: 2
 title: mind spike
 type: text/vnd.tiddlywiki
 
-You reach into the mind of one creature you can see within 60 feet. The target must resist your magic or else suffer psychic damage. On a success, you also always know the target's location until the spell ends (up to 1 hour, or until your concentration breaks), but only while the two of you are on the same [[plane]] of existence. While you have this knowledge, the target can't become hidden from you, and if it's invisible, it gains no benefit from that condition against you.
+You reach into the mind of one creature you can see within 60 feet. The target must resist your magic or else suffer [[psychic damage|damage type]]. On a success, you also always know the target's location until the spell ends (up to 1 hour, or until your concentration breaks), but only while the two of you are on the same [[plane]] of existence. While you have this knowledge, the target can't become hidden from you, and if it's invisible, it gains no benefit from that condition against you.

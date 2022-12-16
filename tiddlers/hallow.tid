@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210507211929087
-modified: 20220203211749120
+modified: 20221205045750494
 tags: [[divine magic]]
 tier: 3
 title: hallow
@@ -16,8 +16,8 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 * //''Courage.''// Affected creatures can't be frightened while in the area.
 * //''Darkness.''// Darkness fills the area. Normal light, as well as magical light created by spells of [[rare tier|spell tier]] or lower, can't illuminate the area.
 * //''Daylight.''// Bright light fills the area. Magical darkness created by spells of [[rare tier|spell tier]] or lower can't extinguish the light.
-* ''//Energy Protection.//'' Affected creatures in the area have resistance to one magical or elemental damage type of your choice.
-* //''Energy Vulnerability.''// Affected creatures in the area have vulnerability to one magical or elemental damage type of your choice.
+* ''//Energy Protection.//'' Affected creatures in the area have resistance to one magical or elemental [[damage type]] of your choice.
+* //''Energy Vulnerability.''// Affected creatures in the area have vulnerability to one magical or elemental [[damage type]] of your choice.
 * //''Everlasting Rest.''// Dead bodies interred in the area can't be turned into [[undead]].
 * //''Extradimensional Interference.''// Affected creatures can't move or travel using teleportation or by extradimensional or interplanar means.
 * //''Fear.''// Affected creatures are frightened while in the area.

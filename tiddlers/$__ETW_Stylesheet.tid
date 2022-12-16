@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20220805220232149
+modified: 20221203002038933
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -205,6 +205,11 @@ div.cs-input {
   border-color:  <<colour tiddler-subtitle-foreground>>;
 }
 
+.cs-ts-box-border {
+  border: 1px solid <<colour tiddler-controls-foreground>>;
+  border-radius: 5px;
+}
+
 input.cs-a {
   height: 1.5em;
   width: 3em;
@@ -234,6 +239,12 @@ label.cs-check input{
   height: 25px;
   width: 25px;
   margin: 0px 6px 6px 0px;
+}
+
+label.cs-check-small input{
+  height: 20px;
+  width: 20px;
+  margin: 0px 2px 6px 2px;
 }
 
 label.cs-check-special input{

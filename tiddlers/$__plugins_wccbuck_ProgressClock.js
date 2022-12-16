@@ -31,10 +31,10 @@ ProgressClock.prototype.render = function(parent,nextSibling) {
 	this.parentDomNode = parent;
     this.computeAttributes();
 	this.execute();
-    this.segments = this.getAttribute("segments","2");
+    this.segments = this.getAttribute("segments","4");
     this.tiddler = this.getAttribute("tiddler");
     this.color = this.getAttribute("color", "dimgray");
-    if(!this.segments) {this.segments="2"};
+    if(!this.segments) {this.segments="4"};
     var filledSegments = parseInt(this.getAttribute("filled", "0"));
     if(this.tiddler) {
         var tidtext = this.wiki.getTiddlerText(this.tiddler);

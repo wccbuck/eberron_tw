@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20220713000010689
-modified: 20220713000109006
+modified: 20221205054032336
 tags: protection tool
 tier: 3
 title: lightning rod
 type: text/vnd.tiddlywiki
 
-While holding this rod, you are resistant to lightning damage. In addition, whenever a bolt of lightning passes within 20 feet of you, you can bend its path so that it passes through you instead.
+While holding this rod, you are resistant to [[lightning damage|damage type]]. In addition, whenever a bolt of lightning passes within 20 feet of you, you can bend its path so that it passes through you instead.

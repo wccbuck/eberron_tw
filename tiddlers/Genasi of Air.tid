@@ -1,6 +1,6 @@
 category: talent
 created: 20211206052911706
-modified: 20220318195701233
+modified: 20221205053258245
 tags: genasi
 title: Genasi of Air
 type: text/vnd.tiddlywiki
@@ -9,5 +9,5 @@ xpcost: 1
 As an air [[genasi]], you gain the following benefits.
 
 * You can hold your breath indefinitely while you're not incapacitated.
-* You have [[advantage]] to resist lightning damage, and when resisting damage suffered from falling.
+* You have [[advantage]] to resist [[lightning damage|damage type]], and when resisting damage suffered from falling.
 * You may cast one of the following spells: [[gust]], [[gale]], [[jump]], [[feather fall]], [[levitate]], [[shocking grasp]], or [[zephyr step]].

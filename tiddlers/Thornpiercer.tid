@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220104185341911
-modified: 20220216232311133
+modified: 20221205060830185
 tags: whip sword dagger weapon
 tier: 5
 title: Thornpiercer
@@ -15,6 +15,6 @@ Each weapon option has a unique property:
 
 ''//Rapier.//'' Attacking with the rapier and rolling a [[critical success|full success]] grants +2 additional [[impact]] as the blade's thorns eviscerate the target.
 
-''//Shortsword.//'' Attacking with the shortsword has a chance of dealing poison damage and causing the target to become disoriented for up to 10 seconds.
+''//Shortsword.//'' Attacking with the shortsword has a chance of dealing [[poison damage|damage type]] and causing the target to become disoriented for up to 10 seconds.
 
 ''//Whip.//'' When you attack a creature with the thorn-covered whip, you can attempt to wrap the whip around it. If the target is human-sized or smaller, you can restrain a creature with the whip and detach it from the rose hilt, leaving you free to grow another weapon.

@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210425061452962
-modified: 20210727192004723
+modified: 20221205050241238
 tags: enchantment
 tier: 2
 title: dissonant whispers
 type: text/vnd.tiddlywiki
 
-You whisper a discordant melody that only one creature of your choice within 60 feet can hear (if it is able to hear), wracking it with terrible pain. The target must resist your enchantment or else it suffers psychic damage and is compelled to move as far as it can away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit.
+You whisper a discordant melody that only one creature of your choice within 60 feet can hear (if it is able to hear), wracking it with terrible pain. The target must resist your enchantment or else it suffers [[psychic damage|damage type]] and is compelled to move as far as it can away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit.

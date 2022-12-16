@@ -1,12 +1,12 @@
 category: spell
 color: #B7A1E0
 created: 20211120174159245
-modified: 20211120180324523
+modified: 20221205043457134
 tags: [[primal magic]] transmutation
 tier: 2
 title: burning blood
 type: text/vnd.tiddlywiki
 
-For up to 1 minute after casting this spell, any time you suffer physical damage such as piercing or slashing, you spray harmful fluids on all creatures within 5 feet of you. Creatures unable to dodge suffer one of the following damage types (your choice when you cast the spell): fire, acid, cold, or poison.
+For up to 1 minute after casting this spell, any time you suffer physical damage such as piercing or slashing, you spray harmful fluids on all creatures within 5 feet of you. Creatures unable to dodge suffer one of the following [[damage type]]s (your choice when you cast the spell): fire, acid, cold, or poison.
 
-When you take damage triggering this effect and make your [[attempt|Taking Action]], this spell wears off early as a possible [[consequence]].
+When you take damage while the spell is active and trigger this effect, this spell may wear off early as a possible [[consequence]].

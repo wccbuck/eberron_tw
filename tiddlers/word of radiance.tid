@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210503190245286
-modified: 20210727192042846
+modified: 20221205061207893
 tags: [[divine magic]]
 tier: 1
 title: word of radiance
 type: text/vnd.tiddlywiki
 
-You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within 5 feet must resist your magic or suffer radiant damage.
+You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within 5 feet must resist your magic or suffer [[radiant damage|damage type]].

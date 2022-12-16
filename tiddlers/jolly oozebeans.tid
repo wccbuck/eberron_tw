@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211227041918558
-modified: 20220708170942454
+modified: 20221205053758440
 tags: potion protection mobility invigoration
 tier: 2
 title: jolly oozebeans
@@ -14,7 +14,7 @@ You can only be under the effects of 1 oozebean at a time. Eating an oozebean wh
 
 |!<<dr d8>> |!Color |!Effect |
 | 1 |White |You can breathe underwater. |
-| 2 |Black |You have resistance to acid damage, and can safely eat otherwise inedible and nonpoisonous organic materials. |
+| 2 |Black |You have resistance to [[acid damage|damage type]], and can safely eat otherwise inedible and nonpoisonous organic materials. |
 | 3 |Blue |You sweat an acidic substance; grappling or being grappled deals acid damage to the other creature. |
 | 4 |Gray |You have [[advantage]] to resist being magically charmed or frightened. |
 | 5 |Gold |You can climb as fast as you can run. |

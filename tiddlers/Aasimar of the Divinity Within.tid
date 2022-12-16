@@ -1,7 +1,7 @@
 category: talent
 created: 20220216214653450
 creator: ziphion
-modified: 20220216214743639
+modified: 20221205051028303
 modifier: ziphion
 tags: aasimar [[Blood of Vol]]
 title: Aasimar of the Divinity Within
@@ -12,6 +12,6 @@ As an [[aasimar]], you gain mystical [[celestial]] benefits depending on the ori
 
 [[Seeker|Blood of Vol]] [[aasimar]] gain the following benefits.
 
-* You are resistant to necrotic and radiant damage.
+* You are resistant to [[necrotic and radiant damage|damage type]].
 * You can cast [[light]] as well as one [[common or uncommon tier|spell tier]] spell with the [[necromancy]] tag, or from the spell list for [[Life Domain]].
 * Once per day, you can awaken the power in your blood, causing a nimbus of crimson energy to flow out from you. For up to 1 minute, you shed dim light in a 10-foot radius, and gradually sap the life force of any creatures you choose within 30 feet, continuously dealing necrotic damage. When the transformation ends (either at the end of one minute or when you end it early), you stabilize all allies on the verge of death within 30 feet, as the spell [[spare the dying]].
