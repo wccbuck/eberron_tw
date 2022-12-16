@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210410050456841
-modified: 20220824201649529
+modified: 20221205050138148
 tags: conjuration
 tier: 4
 title: teleport
@@ -27,4 +27,4 @@ Sometimes a teleportation doesn't go well. Here are some possibilities for telep
 
 * ''Off Target'': You and your group (or the target object) appear a random distance away (5-20% of travel distance) from the destination in a random direction. For example, if you tried to travel 120 miles, landed off target, and were off target by 15 percent, that would be 18 miles. The GM determines the direction off target randomly by rolling a <<dr d8>> and designating 1 as north, 2 as northeast, 3 as east, and so on around the points of the compass. If you were teleporting to a coastal city and wound up 18 miles out at sea, you could be in trouble.
 * ''Similar Area.'' You and your group (or the target object) wind up in a different area that's visually or thematically similar to the target area. If you are heading for your home laboratory, for example, you might wind up in another wizard's laboratory or in an alchemical supply shop that has many of the same tools and implements as your laboratory. Generally, you appear in the closest similar place, but since the spell has no range limit, you could conceivably wind up anywhere on the plane.
-* ''Mishap.'' The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes considerable force damage.
+* ''Mishap.'' The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes considerable [[force damage|damage type]].

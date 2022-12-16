@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200415014832044
-modified: 20220919211605855
+modified: 20221201001504115
 tags: construct humanoid
 tier: 2
 title: warforged
@@ -88,7 +88,7 @@ Shield, Slash, Smith, Spike, Temple, Vault, Wall
 Most warforged are about the size of an athletic human, but weigh around 300 lbs. They can come in a variety of subtypes, including [[envoy]], [[skirmisher]], and [[juggernaut]].
 
 Warforged were created to have
-remarkable fortitude, granting them resistance to poison, immunity to disease, and no need to eat, drink, or breathe. Rather than sleeping, warforged spend at least six hours in an inactive, motionless state.
+remarkable fortitude, granting them resistance to poison, immunity to [[disease]], and no need to eat, drink, or breathe. Rather than sleeping, warforged spend at least six hours in an inactive, motionless state.
 In this state, they appear inert, but they are not unconscious, and can see and hear as normal. 
 
 A variety of [[magic item]]s have been designed to work exclusively for warforged, including [[docent]]s and [[armblade]]s.

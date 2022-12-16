@@ -1,8 +1,8 @@
-alternatetitle: lycanthrope werewolf wererat wereboar
+alternatetitle: lycanthrope
 category: creature
 color: #EA868F
 created: 20200422205105510
-modified: 20220825230135300
+modified: 20221125211702492
 tags: shapechanger humanoid monstrosity
 tier: 2
 title: therianthrope
@@ -16,7 +16,7 @@ Therianthropes can also shapeshift into a hybrid form of humanoid and beast, gra
 
 In addition to their natural weapons and vicious demeanors, therianthropes possess a trait that makes them much more dangerous than a mundane predator: they are ''immune to all physical damage'' from weapons that are not magical or [[silvered|silvered weapon]], even while they are in their humanoid forms.
 
-Werewolves are the most commonly known form of therianthrope (called "lycanthropes"), though werebears, boars, and rats are also common. But were-versions of bats, ravens, tigers, and other animals also exist.
+[[Werewolves|werewolf]] are the most commonly known form of therianthrope (called "lycanthropes"), followed closely by [[wererat]]s, though [[werebear]]s, [[boar|wereboar]]s, and [[tiger|weretiger]]s are also common. But were-versions of bats, ravens, and other animals also exist.
 
 Therianthropes (and later, [[shifter]]s) were the target of the [[Silver Crusade]] over a century ago. The survivors fled to the corners of [[Khorvaire]], including [[Droaam]], where they eventually formed the alliance known as the [[Great Pack]].
 
@@ -32,9 +32,8 @@ full control over their gifts, while therianthropes struggle with
 them. The beast within may shape a shifter's personality, but
 it doesn't overwhelm it. By contrast, therianthropy attempts
 to destroy the victim's original personality and can turn the
-most virtuous hero into a bloodthirsty murderer. Wererats
-and werewolves are cruel killers... but the totem spirit Grandmother Wolf
-doesn't encourage savagery, and Grandfather Rat doesn't
+most virtuous hero into a bloodthirsty murderer. [[Wererat|wererat]]s
+and [[werewolves|werewolf]] are cruel killers... but the [[totem spirit|Moonspeakers]] Grandmother Wolf doesn't encourage savagery, and Grandfather Rat doesn't
 urge murder. And perhaps most important of all: shifters
 themselves can become therianthropes. This isn't in their blood;
 therianthropy is a curse, and it can afflict them just like it can
@@ -52,14 +51,12 @@ The [[Silver Crusade]] began when a dark power surged in
 the Towering Wood, amplifying the power of therianthropy.
 The curse became more virulent. Victims fell prey to its
 power more quickly, guided by some dark power beyond the
-common evil of the curse. Within the Towering Woods, tribes of [[shifter]]s fought their corrupted kin. Beyond it, the farmers of
-[[Aundair]] were tormented by raiding wolves and boars. When
-the [[templar]]s responded, the beasts that were slain reverted to
+common evil of the curse. Within the Towering Woods, tribes of [[shifter]]s fought their corrupted kin. Beyond it, the farmers of [[Aundair]] were tormented by raiding wolves and boars. When the [[templar]]s responded, the beasts that were slain reverted to
 their natural forms, revealing that they were shifters. The word
 quickly spread: all shifters were weretouched, capable of turning
 into savage beasts. None could be trusted! Meanwhile, among
 the [[shifter]] tribes, scouts warned of atrocities committed by
-the foreign soldiers. In fact, the demagogues on both sides were wererats working to ensure that these possible allies would instead become bitter enemies... and the trick worked. Frightened templars and paranoid mobs slew many innocent shifters, and to this day the extremist sect known as the [[Pure Flame]] claims all shifters are servants of darkness.
+the foreign soldiers. In fact, the demagogues on both sides were [[wererat]]s working to ensure that these possible allies would instead become bitter enemies... and the trick worked. Frightened templars and paranoid mobs slew many innocent shifters, and to this day the extremist sect known as the [[Pure Flame]] claims all shifters are servants of darkness.
 
 The fact of the matter is that //therianthropy is a weapon//; it
 spreads through violence and turns its victims into killers. Its
@@ -87,6 +84,10 @@ are many shifters who indeed believe they are thin-blooded
 therianthropes. And the wounds caused by the [[Silver Crusade]]
 and the [[Pure Flame]] will never completely heal. But despite
 the stereotype, the shifters of the Towering Woods fear and
-fight evil therianthropes, and their tribes include rangers who specialize in hunting werewolves. Shifters and therianthropes resemble one another, but they are not the
+fight evil therianthropes, and their tribes include [[ranger]]s who specialize in hunting werewolves. Shifters and therianthropes resemble one another, but they are not the
 same—and shifters are just as vulnerable to the curse of
 therianthropy as humans are.
+
+!
+
+!!! <<showcreature-type>>

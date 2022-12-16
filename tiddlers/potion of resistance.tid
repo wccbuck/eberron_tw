@@ -1,10 +1,21 @@
 category: object
 color: #41D5E1
 created: 20201227052556974
-modified: 20220220053826706
+modified: 20221205034806795
 tags: potion protection
 tier: 2
 title: potion of resistance
 type: text/vnd.tiddlywiki
 
-When you drink this potion, you gain resistance to one type of damage (e.g. fire, lightning, necrotic) for 1 hour. The GM chooses the type or determines it randomly.
+When you drink this potion, you gain resistance to one [[type of damage|damage type]] (e.g. fire, lightning, necrotic) for 1 hour. The GM chooses the type or determines it randomly.
+
+| !<<dr d9>> |!Damage Resistance |
+| 1 |Acid |
+| 2 |Cold |
+| 3 |Fire |
+| 4 |Arcane Force |
+| 5 |Lightning |
+| 6 |Necrotic |
+| 7 |Poison |
+| 8 |Psychic |
+| 9 |Radiant |

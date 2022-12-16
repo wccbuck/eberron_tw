@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210421023818464
-modified: 20211228174228017
+modified: 20221205062142153
 tags: [[divine magic]]
 tier: 4
 title: forbiddance
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 
 This spell takes 10 minutes to cast, and requires [[holy water]], rare incense, and powdered gemstones worth at least [[100c|money]] (not expended). You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For up to 1 day, creatures can't teleport into the area or use portals, such as those created by the [[gate]] spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of a [[manifest zone]], the [[etherealness]] spell, or the [[plane shift]] spell.
 
-In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: [[aberration]]s, [[celestial]]s, [[elemental]]s, [[fey]], [[fiend]]s, and [[undead]], or any specific kind of [[immortal]]. The chosen creature takes heavy radiant or necrotic damage (your choice when you cast this spell) continuously within the spell's area.
+In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: [[aberration]]s, [[celestial]]s, [[elemental]]s, [[fey]], [[fiend]]s, and [[undead]], or any specific kind of [[immortal]]. The chosen creature takes heavy [[radiant or necrotic damage|damage type]] (your choice when you cast this spell) continuously within the spell's area.
 
 When you cast this spell, you can designate a password. A creature that speaks the password as it enters the area takes no damage from the spell.
 

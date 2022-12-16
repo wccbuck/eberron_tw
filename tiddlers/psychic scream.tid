@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210504043353802
-modified: 20210727192026267
+modified: 20221205055410791
 tags: psionics
 tier: 4
 title: psychic scream
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 You unleash the power of your mind to blast the intellect of up to ten creatures of your choice that you can see within 90 feet. Creatures incapable of understanding language are unaffected.
 
-Each target is subject suffers severe disorientation and extreme psychic damage. This spell can cause creatures' heads to explode.
+Each target is subject suffers severe disorientation and extreme [[psychic damage|damage type]]. This spell can cause creatures' heads to explode.

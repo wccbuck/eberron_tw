@@ -1,0 +1,13 @@
+category: phenomenon
+color: #432874
+created: 20221130234753491
+modified: 20221201002548593
+tags: disease
+title: sight rot
+type: text/vnd.tiddlywiki
+
+This painful infection causes bleeding from the eyes and eventually blinds the victim.
+
+A living creature that drinks water tainted by sight rot is at risk of becoming infected. Between 9 and 24 hours later (<<dr 2d8+8>>), the infected creature's vision starts to become blurry. The creature suffers [[disadvantage]] on any attempt that relies on sight. As symptoms progress, the creature suffers additional disadvantages, eventually blinding the victim; in its final stage, the victim's sight cannot be restored without a greater [[restoration]] or [[heal]].
+
+An infected creature cannot easily overcome this [[disease]] without specialized medical treatment or the [[restoration]] spell. A skilled [[herbalist|herbalism kit]] can scavenge for a rare flower called eyebright and create an ointment; applying this ointment to the eyes every day for three days is typically sufficient to cure the disease.

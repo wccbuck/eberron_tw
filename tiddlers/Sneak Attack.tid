@@ -1,0 +1,9 @@
+category: talent
+created: 20221125204612538
+modified: 20221125212805109
+tags: rogue
+title: Sneak Attack
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+Gain +1 [[impact]] or +1 die when you spend [[momentum]] on an attempt you make in combat using [[Fight|action]] + [[Guile|attribute]].

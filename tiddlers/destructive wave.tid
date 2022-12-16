@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210430042123127
-modified: 20210727192004339
+modified: 20221205052157340
 tags: [[divine magic]]
 tier: 3
 title: destructive wave
 type: text/vnd.tiddlywiki
 
-You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within 30 feet of you gets blasted with an explosive wave brimming with your choice of positive energy (radiant damage) or negative energy (necrotic damage). The targets might be knocked prone.
+You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within 30 feet of you gets blasted with an explosive wave brimming with your choice of positive energy ([[radiant damage|damage type]]) or negative energy (necrotic damage). The targets might be knocked prone.

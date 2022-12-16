@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210505044657567
-modified: 20210727192041394
+modified: 20221205061132315
 tags: conjuration [[primal magic]]
 tier: 3
 title: wall of water
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 You create a wall of water on the ground at a point you can see within 60 feet. You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall vanishes when the spell ends (10 minutes, or sooner if your concentration breaks). The wall's volume is difficult to move through.
 
-Any attempt to shoot a projectile or a fire-based spell through the wall to reach its target is at a [[disadvantage]] or reduced [[impact]]. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). When a frozen section of the wall is shattered or otherwise destroyed, the surrounding water doesn't fill it.
+Any attempt to shoot a projectile or a fire-based spell through the wall to reach its target is at a [[disadvantage]] or reduced [[impact]]. Spells that deal [[cold damage|damage type]] that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). When a frozen section of the wall is shattered or otherwise destroyed, the surrounding water doesn't fill it.

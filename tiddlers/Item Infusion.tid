@@ -1,6 +1,6 @@
 category: talent
 created: 20210726033734308
-modified: 20211201052943631
+modified: 20221205045710158
 tags: artificer
 title: Item Infusion
 type: text/vnd.tiddlywiki
@@ -11,9 +11,9 @@ Using magical [[artifice|artificer]], you can imbue mundane items with magical i
 !! Example Infusions
 
 * ''Bane Weapon.'' Increase [[impact]] by 1 when you use this weapon to attack one of the following specific creature types: [[aberration]]s, [[beast]]s, [[celestial]]s, [[dragon]]s, [[fiend]]s, [[giant]]s, or [[undead]].
-* ''Repeating Shot.'' Increase [[impact]] by 1 when you [[push yourself]] to attack rapidly with this self-loading ammunition-using weapon.
+* ''Repeating Shot.'' Increase [[impact]] by 1 when you [[push yourself]] to attack rapidly with this ammunition-using weapon. Bonus: if you load no ammunition into the weapon, it produces its own, automatically creating one magical projectile when you attack which vanishes on impact.
 * ''Enhanced Defense.'' Reduce [[risk]] by 1 while wearing this armor or using this shield to defend against one of the following kinds of attacks: slashing, bludgeoning, or piercing.
-* ''Resistant Armor.'' Reduce [[risk]] by 1 while wearing this armor to defend against one of the following damage types: acid, cold, fire, lightning, force, necrotic, poison, or psychic.
+* ''Resistant Armor.'' Reduce [[risk]] by 1 while wearing this armor to defend against one of the following [[damage type]]s: acid, cold, fire, lightning, force, necrotic, poison, or psychic.
 * ''Amplified Megaphone.'' Increase [[impact]] by 1 when you use this megaphone to inspire allies or send messages. 
 * ''Hover Boots.'' Reduce [[risk]] by 1 while wearing these boots when sneaking or falling.
 * ''Repulsion Shield.'' Improve [[impact]] by 1 when blocking an attack with this shield, as the imbued energies forcefully repel the attacker away from you.

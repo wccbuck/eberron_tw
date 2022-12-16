@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220102065903266
-modified: 20220216231559692
+modified: 20221205055014552
 tags: weapon projectile
 tier: 3
 title: phoenix arrow
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 This bolt or arrow is fletched with [[phoenix]] feathers and is magically bound to a small quiver. Once fired, the ammunition bursts into flames upon impact. After about 5 seconds, the arrow leaves behind a small pile of ash and reappears in its quiver.
 
-You can speak the ammunition's command word before firing to set it ablaze. If you fire it immediately afterward, the arrow causes additional fire damage to any target it hits, but turns to ash and returns before reaching its target if fired more than 30 feet away.
+You can speak the ammunition's command word before firing to set it ablaze. If you fire it immediately afterward, the arrow causes additional [[fire damage|damage type]] to any target it hits, but turns to ash and returns before reaching its target if fired more than 30 feet away.
 
 You can store up to 10 other arrows in the quiver, but you can only have one //phoenix arrow// bound to it at a time. Firing the arrow or bolt into an [[antimagic field]] renders it nonmagical while within the field, allowing the projectile to be permanently destroyed.

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220712235159277
-modified: 20220712235541066
+modified: 20221205044010649
 tags: weapon sword
 tier: 3
 title: prismatic blade
@@ -9,9 +9,9 @@ type: text/vnd.tiddlywiki
 
 This item appears to be a longsword hilt. While grasping the hilt, you can cause a blade of prismatic radiance to spring into existence, or make the blade disappear.
 
-When you strike a creature with this weapon, roll on the below table to determine the damage type. If you roll a [[critical success|full success]], the target may also be temporarily blinded by your attack.
+When you strike a creature with this weapon, roll on the below table to determine the [[damage type]]. If you roll a [[critical success|full success]], the target may also be temporarily blinded by your attack.
 
-|!<<dr d6>> |!Blade Color |!Damage Type |
+|!<<dr d6>> |!Blade Color |![[Damage Type|damage type]] |
 | 1 |Red |Fire |
 | 2 |Orange |Acid |
 | 3 |Yellow |Lightning |

@@ -2,7 +2,7 @@ category: location
 color: #96CC39
 created: 20200420022544987
 fmwvar: fmw-upper
-modified: 20210924200852617
+modified: 20221201010412198
 polygons: 20.085,-24.437 20.077,-24.439 20.067,-24.444 20.058,-24.45 20.049,-24.458 20.042,-24.467 20.042,-24.467 20.03,-24.45 20.011,-24.442 20.011,-24.442 20.027,-24.411 20.034,-24.405 20.044,-24.399 20.057,-24.391 20.068,-24.383 20.081,-24.416 20.085,-24.437
 style: {"color":"#6B001B","fillColor":"#B45545","fillOpacity":0.4}
 tags: district [[Upper Tavick's Landing]] Sharn
@@ -23,3 +23,5 @@ purchasing property in the district. It is filled with
 impressive mansions, along with a few smaller houses
 belonging to successful merchants, barristers, and
 politicians who haven't quite made it to the top yet.
+
+"Round Wind", an ancestral estate of House [[Cannith]], is located in Dalan's Refuge.

@@ -1,20 +1,23 @@
+alternatetitle: lesser greater
 category: spell
 color: #B7A1E0
 created: 20210207013108673
 highertier: show
-modified: 20220824163643497
+modified: 20221130220120122
 tags: abjuration
 tier: 2
 title: restoration
 tooltip: remove a temporary or mild affliction from a creature you touch
 type: text/vnd.tiddlywiki
 
-With a touch, you restore a creature's health by removing a temporary or mild affliction. These include temporary blindness or deafness, mild poisoning, or common diseases.
+With a touch, you restore a creature's health by removing a temporary or mild affliction. These include temporary blindness or deafness, mild poisoning, or common [[disease]]s. 
+
+When this spell is cast at uncommon-[[tier|spell tier]], it is sometimes referred to as "lesser restoration".
 
 <$reveal type="match" state="!!highertier" text="show">
 
 !! Rare-Tier
 
-When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may remove more serious afflictions, including petrification, curses, extreme exhaustion, or magical diseases. Performing a greater restoration requires the expenditure of material components worth about [[10c|money]].
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell (often called "greater restoration"), you may remove more serious afflictions, including petrification, curses, extreme exhaustion, or magical diseases. Performing a greater restoration requires the expenditure of material components worth about [[10c|money]].
 
 </$reveal>

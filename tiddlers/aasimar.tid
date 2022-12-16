@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20201216201008656
-modified: 20220828024443673
+modified: 20221205041813279
 tags: humanoid
 tier: 2
 title: aasimar
@@ -232,7 +232,7 @@ colors are dull, as if the light is being leached away from you,
 and your eyes are pure darkness. Your guide still inspires you
 to follow the principles of its plane of origin, but it's fighting
 against Mabar's overwhelming despair and a hunger to drain
-the light and life from mortal creatures; when you inflict necrotic damage to enemies, you're channeling this energy to your guide. Your guide might hope you can someday release it from Mabar,
+the light and life from mortal creatures; when you inflict [[necrotic damage|damage type]] to enemies, you're channeling this energy to your guide. Your guide might hope you can someday release it from Mabar,
 though no immortal has ever escaped its corruption before. Or
 it could simply encourage you to follow the general principles
 of its plane of origin—balanced against its growing hunger and

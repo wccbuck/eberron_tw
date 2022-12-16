@@ -1,0 +1,13 @@
+category: phenomenon
+color: #432874
+created: 20221130222839494
+modified: 20221130223050412
+tags: disease
+title: seizure sickness
+type: text/vnd.tiddlywiki
+
+This [[disease]]'s symptoms manifest <<dr 1d4>> hours after infection, unless the disease is inflicted by the [[contagion]] spell, in which case symptoms manifest after one minute. 
+
+The creature is overcome with shaking. The creature suffers a [[disadvantage]] on any attempt that requires physical dexterity or balance. If symptoms progress, the creature suffers an additional [[disadvantage]] on all attempts.
+
+The disease and its symptoms last for up to 7 days, though a healthy individual can shake the symptoms in as few as 3 days.

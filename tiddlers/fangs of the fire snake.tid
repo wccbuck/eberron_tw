@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20211128053108212
-modified: 20211128053413232
+modified: 20221205052509688
 tags: evocation
 tier: 2
 title: fangs of the fire snake
 type: text/vnd.tiddlywiki
 
-You cause tendrils of flame to stretch out from your fists and feet. For the next minute, your reach with unarmed strikes increases by 10 feet, and your strikes deal additional fire damage.
+You cause tendrils of flame to stretch out from your fists and feet. For the next minute, your reach with unarmed strikes increases by 10 feet, and your strikes deal additional [[fire damage|damage type]].

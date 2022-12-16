@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210126232607981
-modified: 20220827210404882
+modified: 20221215215159370
 points: 17.262,211.34
 population: 3155100
 style: {"color": "#8E0024"}
 tags: city Riedra Ghirvagura
 title: Durat Tal
+tooltip: capital of Riedra, largest city in the world
 type: text/vnd.tiddlywiki
 
 ''Ruler'': Lord [[Surasek]]<br/>
@@ -19,5 +20,5 @@ for the [[Guiding Path]], Durat Tal trains and houses a vast
 number of soldiers, which can be dispatched across the
 realm through psionic [[teleportation circle]]s. Durat Tal is the hub
 of the teleportation circle network, and most traffic between
-circle-equipped kintams and bastions passes through
+circle-equipped kintams and [[bastion|bastion city]]s passes through
 this city.

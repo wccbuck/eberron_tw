@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220126065432871
-modified: 20220216231614763
+modified: 20221205051640498
 tags: weapon projectile
 tier: 4
 title: cataclysm bolt
@@ -14,7 +14,7 @@ you hit with an attack using a cataclysm bolt, roll a d6 on the
 following table to determine its additional effect.
 
 | !<<dr d6>> |!Cataclysm Bolt Effect |
-| 1&#8209;2 |The bolt explodes in a blast of fire, dealing a great deal of fire damage to the target and each creature within 5 feet of it. |
+| 1&#8209;2 |The bolt explodes in a blast of fire, dealing a great deal of [[fire damage|damage type]] to the target and each creature within 5 feet of it. |
 | 3&#8209;4 |The bolt freezes the air around the target into jagged ice. The target and each creature within 5 feet of it suffers cold damage and may be restrained by the ice for up to 15 seconds. |
 | 5 |The bolt releases a pulse of necrotic energy. The target suffers necrotic damage and may be stunned and disoriented for up to 15 seconds. |
 | 6 |The bolt shatters in a burst of shrapnel, dealing a great deal of additional damage to the target. |

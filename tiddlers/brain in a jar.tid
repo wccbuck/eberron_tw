@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20220825193712987
-modified: 20220825195046418
+modified: 20221205051539302
 tags: undead
 tier: 2
 title: brain in a jar
@@ -17,4 +17,4 @@ The brain floats in a jar of solution, pulsating as it reacts to its surrounding
 
 !! Abilities
 
-A brain in a jar can detect the presence and location of any sapient creature within 300 feet of it, regardless of interposing barriers, unless the creature is protected by a [[mind blank]] spell. The brain has [[advantage]] to resist all spells and other magical effects. It can innately cast the following spells: [[chill touch]], [[detect thoughts]], [[mage hand]], [[zone of truth]], [[charm]], [[hold]], [[compulsion]], [[sleep]], and [[hideous laughter]]. Finally, a brain can emit a powerful mind blast, a 60-foot cone of psionic energy that deals psychic damage and stuns any creature in the area for up to 1 minute.
+A brain in a jar can detect the presence and location of any sapient creature within 300 feet of it, regardless of interposing barriers, unless the creature is protected by a [[mind blank]] spell. The brain has [[advantage]] to resist all spells and other magical effects. It can innately cast the following spells: [[chill touch]], [[detect thoughts]], [[mage hand]], [[zone of truth]], [[charm]], [[hold]], [[compulsion]], [[sleep]], and [[hideous laughter]]. Finally, a brain can emit a powerful mind blast, a 60-foot cone of psionic energy that deals [[psychic damage|damage type]] and stuns any creature in the area for up to 1 minute.

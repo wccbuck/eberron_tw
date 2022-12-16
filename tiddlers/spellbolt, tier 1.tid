@@ -1,0 +1,18 @@
+category: object
+color: #41D5E1
+created: 20221205001033502
+modified: 20221205030515418
+tags: projectile tool spellbolt
+tier: 1
+title: spellbolt, tier 1
+tooltip: crossbow bolt that delivers a common-tier arcane spell
+type: text/vnd.tiddlywiki
+
+A [[spellbolt]] is a [[crossbow]] bolt imbued with a single [[arcane|arcane magic]] [[spell]], which is activated by corresponding arcane sigils engraved into most modern
+[[Cannith crossbow]]s. The imbued spell must ordinarily be able to target a creature other than yourself, and it must be offensive in nature.
+
+This tier-{{!!tier}} [[spellbolt]] can be imbued with one arcane spell of ''<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>'' [[spell tier]].
+
+You can load the spellbolt into a [[Cannith]]-made [[crossbow]] and cast the spell imbued in the bolt, without the need to expend any other material components. When you do, the range of the spell is equal to the crossbow’s range instead of the spell’s usual range. 
+
+Once the imbued spell is cast, the spellbolt is destroyed and turns to dust.

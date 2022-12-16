@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211220211013539
-modified: 20220218214441924
+modified: 20221205051442944
 tags: hammer weapon tool destruction
 tier: 3
 title: battlebrew maul
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 The head of this massive hammer is an [[alchemical|alchemist]] keg that generates battlebrew liquor, a magical and acidic beverage that sends those who drink it into a rage. The keg holds up to 4 gallons of the liquor and creates 1 gallon each day, though it produces it even faster each time you use the maul in combat. A creature can remove or reattach the handle of the maul to the keg, which allows the keg to be tapped into a drinking vessel. 
 
-Drinking the battlebrew liquor causes a creature to suffer a small amount of acid damage. If they are not immune to poison, the creature then enters a frenzied state for several minutes, in which they cannot take any action that requires delicacy, calm, or patience; but any aggressive physical action they do take is performed with [[advantage]] and +1 [[impact]]. Feats of strength or athletics, heavy attacks, or intimidating shouts are all enhanced for the duration of the battlebrew frenzy. After the effects of the liquor wear off, the creature suffers 2 [[stress]].
+Drinking the battlebrew liquor causes a creature to suffer a small amount of [[acid damage|damage type]]. If they are not immune to poison, the creature then enters a frenzied state for several minutes, in which they cannot take any action that requires delicacy, calm, or patience; but any aggressive physical action they do take is performed with [[advantage]] and +1 [[impact]]. Feats of strength or athletics, heavy attacks, or intimidating shouts are all enhanced for the duration of the battlebrew frenzy. After the effects of the liquor wear off, the creature suffers 2 [[stress]].
 
-When used to strike a creature, the hammer may leak a bit of the battlebrew liquor onto the target of the attack, causing acid damage.
+When used to strike a creature, the hammer may leak a bit of the battlebrew liquor onto the target of the attack, causing [[acid damage|damage type]].

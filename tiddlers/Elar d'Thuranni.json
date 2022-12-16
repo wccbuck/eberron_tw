@@ -1,13 +1,14 @@
 [
     {
         "created": "20210212101049833",
-        "title": "Elar d'Thuranni",
         "text": "Baron Elar of House [[Thuranni]] is an enigmatic figure, driven and charismatic. It was Elar who ordered the extermination of the [[Paelion]] line, and who forced the [[Twelve]] to accept a new [[dragonmarked house]]. Always working to strengthen his\nline, Elar is willing to make great sacrifices to accomplish his goals, and he expects the same of those around him.\n\nElar’s connection to the [[Mark of Shadow]] is exceptionally strong. He is accompanied by two shadowy creatures named Wrem and Wrek, who serve as\nbodyguards and advisors; creatures as dark as night and as insubstantial as smoke. The origin of these spirits remains a mystery; some say that they are embodiments of the [[Mark of Shadow]] itself, made manifest to guide the baron.\n\nThe nature of Elar’s schemes could affect a Thuranni PC drawn into his service. If you decide that Elar seeks only to expand the influence of his family, PCs might be called upon to hunt down surviving [[Paelion]]s or to undermine House [[Phiarlan]].\nBut if you decide that Elar has ties to the Order of the [[Emerald Claw]]—or perhaps to the [[Queen of Shadows|Sul Khatesh]]—a PC might have to decide whether to embrace Elar’s purposes or challenge them.\n\nBaron Elar divides his time between the [[Regalport Enclave]] and the [[Thuranni]] outpost in the [[Dancing Shadows]] district of [[Sharn]].",
-        "modified": "20210727192006662",
+        "title": "Elar d'Thuranni",
+        "modified": "20221215234020567",
         "tags": "Thuranni elf humanoid [[Dancing Shadows]] Regalport Sharn",
         "type": "text/vnd.tiddlywiki",
         "article": "Baron ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "head of House Thuranni"
     }
 ]

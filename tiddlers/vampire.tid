@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200423001042848
-modified: 20220805215529653
+modified: 20221215015314071
 tags: shapechanger undead
 tier: 4
 title: vampire
@@ -12,10 +12,47 @@ Awakened to an endless night, vampires hunger for the life they have lost and sa
 
 Most of a vampire's victims become //vampire spawn//—ravenous creatures ([[tier 2|creature tier]]) with a vampire's hunger for blood, but under the control of the vampire that created them. If a true vampire allows a spawn to draw blood from its own body, the spawn transforms into a true vampire no longer under its master's control. Few vampires are willing to relinquish their control in this manner. Vampire spawn become free-willed when their creator dies. However, even if a spawn breaks free from a true vampire's control, weak-willed vampire spawn often devolve into feral predators, true monsters who see all living creatures as prey.
 
+!! Vampire Abilities and Weaknesses
+
+The following abilities and weaknesses apply to vampires created through the [[Qabalrin]] [[necromantic|necromancy]] tradition (see the Vampire Origins section below). Vampires of the [[Bone King]] or other entities may have different abilities or weaknesses.
+
+A vampire's abilities include the following: 
+
+* While a vampire is not in [[sunlight|Sun]] or running water, it can transform into a bat or a cloud of mist. If air can pass through a space, so can a vampire in mist form. A vampire can enter mist form instinctively (if able) when it is incapacitated, flying back to its resting place and recuperating.
+* Vampires are resistant to [[necrotic damage|damage type]] and all physical attacks that are non-magical.
+* Vampires also rapidly regenerate from harm. This effect can be suppressed if the vampire suffers [[radiant damage|damage type]] or comes into contact with [[holy water]].
+* A vampire can effortlessly climb along vertical and upside down surfaces such as ceilings.
+* A vampire can magically charm [[humanoid]]s. This is similar to the spell [[charm]], except the charmed target regards the vampire as a trusted friend to be heeded and protected, and the effect lasts up to 24 hours.
+* A vampire can magically summon swarms of bats, rats, or wolves, provided that the [[Sun]] isn't up.
+* A vampire has a powerful form of [[darkvision]], and is able to see clearly in pitch-black conditions.
+
+Vampires of the [[Qabalrin]] strain have the following weaknesses:
+
+* A vampire suffers harm (as radiant damage) whenever it is in [[sunlight|Sun]]; it also suffers [[disadvantage]] on all attempts.
+* A vampire suffers harm if it spends more than a few seconds in running water.
+* A vampire can't enter a residence without an invitation from one of the occupants. 
+* If a piercing weapon made of wood is driven into the vampire's heart while it is incapacitated in its resting place, the vampire is completely paralyzed until the stake is removed.
+
+As mentioned above, different strains of vampire have different abilities and weaknesses. For example, perhaps vampires of the [[Bone King]] are not harmed by running water, but are vulnerable to fire. The table below offers some ideas for interesting traits for vampires of different origins:
+
+| !<<dr d12>> |!Vampire Trait |
+| 1 |''//Cleansing Flame.//'' The vampire is vulnerable to fire. While it can see an open flame that's 3 feet tall or higher, it becomes frightened and distracted. (replaces running water weakness) |
+| 2 |''//Compulsive Counting.//'' If a creature casts seeds (or similar small object) in front of the vampire, the vampire feels a strong compulsion to stop whatever it's doing and count the seeds. |
+| 3 |''//Deathless Binding.//'' If a ring of [[targath]] is fixed around the vampire's finger, hands, or neck, the vampire becomes paralyzed until the ring is removed. (replaces stake through the heart weakness) |
+| 4 |''//Drawn to Decay.//'' If the vampire sees one or more creatures suffer [[necrotic damage|damage type]], it is drawn to the creature it saw suffer the most. The vampire must (if able) move as close as possible to the creature, avoiding obvious hazards, or suffer radiant damage. |
+| 5 |''//Keeper's Greed.//'' The vampire must accept any gift offered to it. |
+| 6 |''//Lunar Herding.//'' The vampire has [[disadvantage]] on all attempts on any night with more than one full [[moon]]. (replaces running water weakness) |
+| 7 |''//Never Look Back.//'' Once the vampire leaves a building, it can't reenter the building for 13 days. (replaces weakness requiring permission to enter a residence) |
+| 8 |''//Odds and Evens.//'' The vampire is vulnerable to being stabbed or pierced on each even-numbered day of the month, and immune to it on each odd-numbered day of the month. |
+| 9 |''//One for the Keeper.//'' If the vampire hears a creature speak a list of five connected things, it must either name a sixth connected thing, or suffer two [[stress]]. |
+| 10 |''//Perfect Etiquette.//'' When asked a question, if the vampire's name is spoken as part of the question, the vampire must truthfully answer. This answer can be brief or cryptic. (replaces weakness requiring permission to enter a residence) |
+| 11 |''//Slithering Shadow.//'' The vampire can become a poisonous snake, or a swarm of them. (replaces bat and mist form) |
+| 12 |''//Unfaceable.//'' The vampire is frightened of images of itself. |
+
 !! Vampire Origins
 
 Unlike [[zombie]]s and [[ghoul]]s, vampires are a form of [[undead]] that are never generated spontaneously by [[Mabar]]an [[manifest zone]]s; creating a vampire is an act of epic [[necromancy]] that infuses a [[humanoid]] creature with the power of [[Mabar]]. The first known vampires were created by the [[Qabalrin]] [[elves|elf]] during the [[Age of Giants]], and the line of [[Vol]] resurrected these techniques to create a number of vampire bloodlines on [[Aerenal]]. When the [[Undying Court]] eradicated the line of Vol, its allies were allowed to flee; some settled on the island of [[Farlnen]] and founded the [[Bloodsail Principality|Bloodsails]], while others spread west, mingling with the [[human]]s in what is now [[Karrnath]] and laying the foundation for the [[Blood of Vol]] faith. These elves brought vampires with them, and most vampires in [[Khorvaire]] can ultimately trace their bloodlines back to Aerenal. 
 
-One of the oldest vampires on [[Khorvaire]] is the [[hobgoblin]] [[dirge singer]] ''Iraala'' of the [[Kech Nasaar]], who became a vampire through dealings with the line of [[Vol]] before the [[Empire|Dhakaan]] fell, and even before the [[Mark of Death]] manifested. So even vampires who traces their lineage to the Kech Nasaar ultimately lead back to [[Aerenal]].
+One of the oldest vampires on [[Khorvaire]] is the [[hobgoblin]] [[dirge singer]] [[Iraala]] of the [[Kech Nasaar]], who became a vampire through dealings with the line of [[Vol]] before the [[Empire|Dhakaan]] fell, and even before the [[Mark of Death]] manifested. So even vampires who trace their lineage to the Kech Nasaar ultimately lead back to [[Aerenal]].
 
-[[Qabalrin]] techniques are the common source of vampires, but other paths exist. For example, the [[Bone King]] of [[Mabar]] can transform a mortal into a vampire. Such vampires cannot spawn other vampires; most instead transform victims into [[ghoul]]s. When they are destroyed, their spirits are drawn to the domain of the Bone King, where the exist as [[wraith]]s.
+[[Qabalrin]] techniques are the common source of vampires, but other paths exist. For example, the [[Bone King]] of [[Mabar]] can transform a mortal into a vampire. Such vampires cannot spawn other vampires; most instead transform victims into [[ghoul]]s. When they are destroyed, their spirits are drawn to the domain of the Bone King, where the exist as [[wraith]]s. Additionally, there are a few examples of devotees of the [[Keeper]] becoming vampires. These vampires do not create "spawn", and their hunger is a manifestation of the greed of the Keeper, and the souls of creatures they slay may be bound, similar to the effect of a [[Keeper's Fang]]. Other forms of vampire might exist, perhaps tied to [[Katashka]], the princes of [[Ohr Kaluun]], or an evil [[archfey]].

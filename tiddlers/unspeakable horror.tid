@@ -1,15 +1,15 @@
 category: creature
 color: #EA868F
 created: 20220825234934026
-modified: 20220826005648506
+modified: 20221213061321578
 tags: aberration
 tier: 3
 title: unspeakable horror
 type: text/vnd.tiddlywiki
-var1: boasts exposed entrails, bloated parasites, or a gelatinous shroud, perhaps because it is inside out. Any creature that touches the horror suffers acid damage.
-var2: ends in a poisonous, piercing barb###is a lumpy, bludgeoning appendage###
+var1: is armored in petrified wood, alien crystal, rusted mechanisms, sculpted stone, or an exoskeleton. It is well-protected against physical attacks, and it is immune to petrification.
+var2: is a corrosive pseudopod which deals acid damage###is a lumpy, bludgeoning appendage###
 var3: 2
-var4: acidic bile in a 60-foot-long, 5-foot-wide line.
+var4: a wave of perception-distorting energy; each creature within 30 feet that can't resist the reality-stealing hex suffers [[psychic damage|damage type]] and is temporarily blinded and deafened.
 
 Untold, half-formed entities dwell amid the twisted layers of [[Xoriat]], the yet-to-be-realized imaginings of the powers of the void and the remnants of ruined Material Planes. While such nightmares typically manifest as nothing more than impressions, whispers, or vaporous visions amid the fog, mysterious eddies sometimes gather such entities, forcing them into unique, misshapen bodies untethered from the laws of reason or reality. Such unspeakable horrors might slink forth into the Material Plane through [[manifest zone]]s to slake unnameable hungers.
 
@@ -25,7 +25,7 @@ You can also click the button below to generate a horror from all three tables. 
 <$button>
 <$action-chooserandom $filter="[[is armored in petrified wood, alien crystal, rusted mechanisms, sculpted stone, or an exoskeleton. It is well-protected against physical attacks, and it is immune to petrification.]] [[boasts spider-like legs, many-jointed appendages, or thrashing tentacles. It can move quickly, reaching speeds of 12 mph.]] [[is composed of a clot of boneless flesh, shadowy tendrils, or mist. It is amorphous and can squeeze through any opening at least 1 inch wide.]] [[boasts exposed entrails, bloated parasites, or a gelatinous shroud, perhaps because it is inside out. Any creature that touches the horror suffers acid damage.]]" $field="var1"/>
 <$action-chooserandom $filter="[[is a lumpy, bludgeoning appendage]] [[ends in a sharp blade made of bone]] [[is a corrosive pseudopod which deals acid damage]] [[is a grasping tentacle which can wrap around and restrain a creature]] [[ends in a poisonous, piercing barb]]" $field="var2" $unique="true" $number="2" $opt="hashes"/>
-<$action-chooserandom $filter="1 1 1 2" $field="var3"/>
+<$action-chooserandom $dataTiddler="$:/1112" $field="var3"/>
 <$action-chooserandom $dataTiddler="$:/UnspeakableHorrorHexBlast" $field="var4"/>
 
 Generate Unspeakable Horror

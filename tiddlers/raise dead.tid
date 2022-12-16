@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20200428222715898
-modified: 20220824202918836
+modified: 20221201002730841
 tags: [[divine magic]]
 tier: 3
 title: raise dead
@@ -12,7 +12,7 @@ This spell requires a one-hour ritual and [[50c|money]] worth of ritual componen
 
 You attempt to return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature's soul is both willing and at liberty to rejoin the body, the creature returns to life. 
 
-This spell also neutralizes any poisons and cures nonmagical diseases that affected the creature at the time it died. This spell doesn't, however, remove magical diseases, curses, or similar effects; if these aren't first removed prior to casting the spell, they take effect when the creature returns to life. The spell can't return an [[undead]] creature to life.
+This spell also neutralizes any poisons and cures nonmagical [[disease]]s that affected the creature at the time it died. This spell doesn't, however, remove magical diseases, curses, or similar effects; if these aren't first removed prior to casting the spell, they take effect when the creature returns to life. The spell can't return an [[undead]] creature to life.
 
 This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival—its head, for instance—the spell automatically fails.
 

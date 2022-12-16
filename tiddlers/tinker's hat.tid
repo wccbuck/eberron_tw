@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220202190819479
-modified: 20220221011807730
+modified: 20221205061013302
 tags: accessory head protection convenience
 tier: 3
 title: tinker's hat
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 This ridiculous-looking hat includes a transparent face shield as well as many compartments for supplies and tools. The compartments include spring-loaded appendages which can hold tools and retract when not in use. 
 
-While wearing this hat, you have resistance to acid damage, and you have [[advantage]] whenever you use [[tinker's tools]].
+While wearing this hat, you have resistance to [[acid damage|damage type]], and you have [[advantage]] whenever you use [[tinker's tools]].

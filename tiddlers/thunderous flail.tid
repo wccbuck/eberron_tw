@@ -2,13 +2,13 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20220104192811004
-modified: 20220218012902516
+modified: 20221205054536640
 tags: weapon flail
 tier: 3
 title: thunderous flail
 type: text/vnd.tiddlywiki
 
-This flail has 3 charges and regains <<dr 1d3>> expended charges each day at dawn. As long as the flail has at least one charge, you deal extra lightning damage to the first target you hit with it every 5 or so seconds.
+This flail has 3 charges and regains <<dr 1d3>> expended charges each day at dawn. As long as the flail has at least one charge, you deal extra [[lightning damage|damage type]] to the first target you hit with it every 5 or so seconds.
 
 You can expend 1 charge to cast the [[thunderwave]] spell. The ball of the flail is at the origin of the spell. You can use this immediately following an attack, creating a wave of thunderous force at the point of impact.
 

@@ -1,9 +1,62 @@
+category: object
 color: #1E868E
 created: 20220216231850875
-modified: 20220805194805488
-tags: 
+modified: 20221215055704771
+tags: weapon
 title: crossbow
-tooltip: tag for weapons that launch projectiles with a bow and trigger mechanism
+tooltip: tag for weapons that launch projectiles with a bow and trigger mechanism; also a page outlining modern crossbows in the Five Nations
 type: text/vnd.tiddlywiki
+
+A crossbow is a ranged weapon consisting of a bow (or //prod//) mounted horizontally on a main frame (or //tiller//), which is hand-held like the stock of a long firearm. The bowstring is released with a trigger mechanism, launching an arrow-like projectile called a //bolt// or //quarrel//.
+
+!! Crossbows in the Five Nations
+
+Crossbows have been used in [[Khorvaire]] since the time of [[Galifar I|Galifar Wynarn]] a millennium ago. These early crossbows had very limited range and a slow crank to reload; this device could loose a maximum of two bolts per minute.
+
+Centuries of engineering have produced a far superior version of the weapon, and by the first decade of the [[Last War]], the crossbow became a mainstay of the armies of the [[Five Nations]]. [[Thranish|Thrane]] soldiers typically used bows, and by the end of the war, [[Aundair]]ians were deploying [[wandslinger]]s on a wider scale, but the crossbow remained the common infantry weapon. The [[light crossbow]] was most popular, due to its simplicity and ease of use, while the [[heavy crossbow]] was used by elite troops. The lightweight [[hand crossbow]] has become popular in the last twenty years, particularly because it can be operated with one hand.
+
+Countless models of crossbows are found across [[Khorvaire]], but the following models stand out. 
+
+* the [[SAC-12]]
+* [[Cannith crossbow]]s (Spark, Lightning, and Thunderbolt)
+* the [[Passage Pistol]]
+* the [[Aram'kron]]
+
+!! Arcane Science
+
+The standard crossbow isn’t a magic weapon, but it can still operate using magical principles. In [[Eberron]], [[arcane magic]] is a science, and this manifests in many ways beyond arcane [[spell]]s. Magic can generate kinetic force; what if those principles were used to add force to a physical bolt instead of generating a bolt of pure force? 
+
+Consider the line of crossbows produced by House [[Cannith]]. The crossbow barrel interior and quarrels are both engraved with arcane sigils. When the quarrel moves against the barrel, the symbols create an arcane interaction—a formula that adds kinetic energy to the bolt. The only force the prod itself has to provide is the initial push of the bolt down the barrel, a spark that triggers the arcane interaction. 
+
+This also means a [[Cannith]] crossbow doesn’t look like a medieval crossbow. For example, the [[Thunderbolt|Cannith crossbow]] resembles a rifle; the longer the barrel, the longer the arcane interaction. In these crossbows, the “bow” is a relatively small component of the weapon.
+
+!! Crossbow Advancements
+
+Once we embrace the idea of the crossbow as a modern weapon that’s actively evolving, there are many ways one could improve on it. Consider the following ideas that GMs can introduce to their games.
+
+!!! Bayonets
+
+During the [[Last War]], the crossbow was the common infantry weapon in many of the [[Five Nations]]. While bayonets aren’t as effective as a stand-alone melee weapon, they provide crossbow-wielders with an attack they can use in close quarters without dropping their crossbow.
+
+!!! Reloading
+
+Modern crossbows already have an impressive rate of fire. However, a clever [[artificer]] might create a new innovation that allows the user loose multiple successive bolts without needing to manually load after each shot. Perhaps Starilaskur Arms has developed a [[hand crossbow]] that can hold six bolts for the [[King's Dark Lanterns]], or maybe [[Cannith East]] has developed a version of the [[Thunderbolt|Cannith crossbow]] that can hold fifteen bolts and is currently being tested by [[Karrnath]]'s elite forces. 
+
+!!! Silencers
+
+[[Illusion|illusion]] magic can create or dampen sound, so it’s easy
+to imagine a magical device attached to a crossbow,
+eliminating the sound produced by firing or loading the
+weapon. This [[crossbow silencer]] would prevent people
+from hearing the shot from a distance, and in combat,
+make it difficult for foes to locate a hidden archer.
+
+!!! Spellbolts
+
+Developed by House [[Cannith]] near the end of the [[Last War]], a [[spellbolt]] functions as a sort of magical grenade. Each spellbolt’s arcane payload is triggered by the kinetic
+formula of a Cannith crossbow, allowing an archer to shoot a target and affect them with a spell. Effectively, a spellbolt is like a [[scroll|spell scroll]] or [[potion]]—a consumable magic
+item holding a single charge of a spell—with the advantage of delivering that effect at a longer range.
+
+!
 
 !!! <<showitem-type>>

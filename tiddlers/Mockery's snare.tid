@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20221212190054851
+modified: 20221212190642770
+tags: abjuration [[divine magic]]
+tier: 2
+title: Mockery's snare
+type: text/vnd.tiddlywiki
+
+You imbue yourself or one willing creature you touch with the duplicitous power of [[Dol Azur|Mockery]], laying a trap to ensnare a foe in spectral bindings. The next time the imbued creature is hit with an attack by another creature up to 30 feet away within the next minute, the attacking creature must resist your magic or else suffer [[necrotic damage|damage type]] and become restrained until the spell ends up to a minute later.

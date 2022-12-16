@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Elvinor Elorrenthi d'Phiarlan",
         "tags": "bard elf Phiarlan humanoid Sharn",
-        "modified": "20220107013943425",
+        "modified": "20221215233810381",
         "color": "#FEA627",
         "category": "person",
-        "article": "Baron "
+        "article": "Baron ",
+        "tooltip": "head of House Phiarlan"
     }
 ]

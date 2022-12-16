@@ -1,7 +1,7 @@
 category: culture
 color: #0F5132
 created: 20210408165007631
-modified: 20220823174328453
+modified: 20221212005548172
 tags: 
 title: language
 tooltip: lists of the mortal and immortal languages spoken on Eberron
@@ -28,3 +28,9 @@ These languages developed naturally on Eberron from mortal cultures. Many of the
 The languages of [[immortal]]s are part of the fundamental structure of reality. As such, most words of power, including magic [[spell]]s that require a verbal component, are taken from these languages. These languages existed at the dawn of time and do not change (with the exception of [[Deep Speech]], which is constantly changing).
 
 <<list-links-article "[tag{!!title}category[culture]tag[immortal]sort[title]]">>
+
+!! Languages in the Storyloom System
+
+Player characters' ability to understand different languages in the [[Storyloom]] system should be another opportunity for great storytelling, not for throwing up frustrating obstacles to communication. Arriving in a new land with an unfamiliar language could prompt a group of adventurers to hire a local guide, or seek out some sort of [[comprehension magic|comprehend languages]], either of which could be the start of an adventure on their own.
+
+Upon [[character creation|Character Creation]], each player character should have access to two languages; typically this includes [[Common]] or similar local lingua franca. Additional languages might be granted by taking [[talent]]s such as [[Sage]], or by starting a [[long-term project|Missions and Downtime]] during downtime. A player character could even slowly learn a new language by taking [[Spellcaster]] talents; a [[wizard]] who knows a few [[arcane spells|arcane magic]] might have picked up a little [[Draconic]] in the process, and a [[druid]] with access to [[primal magic]] has some proficiency with [[Druidic]].

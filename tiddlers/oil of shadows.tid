@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20220715040051323
-modified: 20220715155554837
+modified: 20221205054941025
 tags: protection potion
 tier: 1
 title: oil of shadows
 type: text/vnd.tiddlywiki
 
-This inky oil can cover a human-sized or smaller creature, and takes a few minutes to apply. The affected creature loses any sunlight sensitivity it may possess, and any vulnerability to radiant damage. These effects last for 1 hour.
+This inky oil can cover a human-sized or smaller creature, and takes a few minutes to apply. The affected creature loses any sunlight sensitivity it may possess, and any vulnerability to [[radiant damage|damage type]]. These effects last for 1 hour.

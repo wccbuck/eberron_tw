@@ -2,13 +2,13 @@ category: spell
 color: #B7A1E0
 created: 20210110061439813
 highertier: show
-modified: 20220220214716461
+modified: 20221205045151492
 tags: transmutation
 tier: 3
 title: elemental bane
 type: text/vnd.tiddlywiki
 
-Choose one creature you can see within 90 feet, and choose one of the following damage types: acid, cold, fire, or lightning. If the target can't resist the spell, then for up to one minute, they are vulnerable to that damage type.
+Choose one creature you can see within 90 feet, and choose one of the following [[damage type]]s: acid, cold, fire, or lightning. If the target can't resist the spell, then for up to one minute, they are vulnerable to that damage type.
 
 <$reveal type="match" state="!!highertier" text="show">
 

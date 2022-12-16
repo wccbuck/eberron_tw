@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201224222331809
-modified: 20220221035944600
+modified: 20221205062247197
 tags: recovery [[any weapon]] weapon symbiont
 tier: 2
 title: hungry weapon
@@ -19,7 +19,7 @@ While [[attuned|attunement]] to and wielding this weapon, you choose to bond to 
 the following benefits:
 
 * The weapon is bound to your hand and can't be removed from your grasp, voluntarily or involuntarily. If it's a two-handed weapon, only one of your hands is bound to the weapon.
-* When you hit a creature with this weapon, you can choose to suffer one [[stress]] to drain the life from your foes. A successful attack deals additional necrotic damage with the attack, and and you recover a small amount of [[harm]].
+* When you hit a creature with this weapon, you can choose to suffer one [[stress]] to drain the life from your foes. A successful attack deals additional [[necrotic damage|damage type]] with the attack, and and you recover your left-most [[harm]] box, if it is filled.
 
 You can end the weapon's bond at will, causing the tendrils
 to retract so you can release the weapon. You can remain [[attuned|attunement]]

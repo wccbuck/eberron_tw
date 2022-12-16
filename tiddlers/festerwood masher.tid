@@ -2,12 +2,12 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20211226031036765
-modified: 20220217210425028
+modified: 20221205052619065
 tags: hammer weapon
 tier: 3
 title: festerwood masher
 type: text/vnd.tiddlywiki
 
-This warhammer is made of a dark wood with glowing yellow pustules filled with corrosive fluid on its ends. This hammer has three charges, and regains all expended charges daily at dusk. When you hit a creature or object with this hammer, you can expend one of the charges to release a burst of acid. When you do, the target suffers a great deal of acid damage. The acid is particularly potent against metal.
+This warhammer is made of a dark wood with glowing yellow pustules filled with corrosive fluid on its ends. This hammer has three charges, and regains all expended charges daily at dusk. When you hit a creature or object with this hammer, you can expend one of the charges to release a burst of acid. When you do, the target suffers a great deal of [[acid damage|damage type]]. The acid is particularly potent against metal.
 
 <<itemcharges 3>>

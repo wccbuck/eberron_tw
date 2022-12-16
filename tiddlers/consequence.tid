@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210103021548158
-modified: 20220805183448471
+modified: 20221205065246910
 tags: Storyloom [[Taking Action]]
 title: consequence
 tooltip: Storyloom mechanic: negative outcomes from an unsuccessful or partially successful attempt
@@ -27,3 +27,26 @@ This consequence represents trouble, mounting danger, or a new threat. The GM mi
 !!! Lost Opportunity
 
 This consequence represents shifting circumstances. You had an opportunity to achieve your goal with this action, but it slips away. To try again, you need to try something different—usually a new form of action or a change in circumstances. 
+
+!! Consequences when Casting Spells
+
+As an example of how consequences might come into play during a game, consider [[spellcasting|spell]]. When a player character attempts to cast a spell of a given [[tier|spell tier]], they need to make one or more attempts, and any of those attempts might result in consequences. These might take any of the following forms:
+
+* ''Lost Resource''
+** The spell takes more [[stress]] to cast than usual.
+** The ritual requires the expenditure of more material components.
+** If you are in a high-pressure situation such as combat, you suffer [[harm]] from an attack or hazard.
+* ''Reduced Impact''
+** The spell isn't ready yet, and you need to make another attempt to complete the casting.
+** The spell is completed, but its [[impact]] is reduced.
+** The spell's duration is reduced.
+* ''Higher Risk''
+** As any other attempt; highly context-dependent.
+* ''Complication''
+** Your fire spell ignites the curtains.
+** The target knows you tried to charm them.
+** You raised the dead, but it attracted attention from forces beyond the grave.
+* ''Lost Opportunity''
+** Your spell fizzles.
+** Your enemy drinks a potion of lightning resistance, making your lightning spells ineffective against them.
+** The ghost, beast, or immortal you were communing with knows less information than you'd hoped.

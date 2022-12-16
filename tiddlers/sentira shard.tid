@@ -1,0 +1,18 @@
+category: object
+color: #1E868E
+created: 20221215055553297
+modified: 20221215060555753
+tags: [[weapon enhancement]]
+title: sentira shard
+tooltip: item which can be equipped on a sentira lens weapon to enhance its power
+type: text/vnd.tiddlywiki
+
+A [[sentira lens]] is a weapon capable of delivering a blast of telepathic power. However, with more care during creation, [[Riedra]]n [[psionic|psionics]] [[artificer]]s have created shards of [[sentira]] with much more focused emotional resonance. When fitted to a [[sentira lens]], these shards can imbue a shot from a sentira lens with the emotion embedded in the ectoplasm during its creation. A sentira lens can only have one sentira shard attached at a time.
+
+Like sentira lenses, these shards aren't considered "magical", but still follow the normal rules for [[magic item]]s. 
+
+<<list-links-article "[tag{!!title}sort[title]]">>
+
+!
+
+!!! <<showitem-type>>

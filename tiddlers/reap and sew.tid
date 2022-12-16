@@ -2,13 +2,13 @@ category: object
 charges: 4
 color: #41D5E1
 created: 20220102232929507
-modified: 20220218174714766
+modified: 20221205031917273
 tags: weapon tool cursed crossbow convenience
 tier: 3
 title: reap and sew
 type: text/vnd.tiddlywiki
 
-While [[attuned|attunement]] to this crossbow, you can cast the [[mending]] cantrip at will. A special needle-like bolt is magically bound to the crossbow. When fired, the bolt leaves a faint thread of arcane energy behind it. The bolt returns to the crossbow and loads itself automatically after each attack.
+While [[attuned|attunement]] to this [[crossbow]], you can cast the [[mending]] cantrip at will. A special needle-like bolt is magically bound to the crossbow. When fired, the bolt leaves a faint thread of arcane energy behind it. The bolt returns to the crossbow and loads itself automatically after each attack.
 
 The crossbow has 4 charges and regains <<dr 1d4>> expended charges each day at dawn. When you fire the special bolt from this crossbow and hit a creature no larger than an [[ogre]], you can expend 1 charge to tether that creature to a point on the ground adjacent to it. If the creature isn't strong enough to break free of the arcane tether, they cannot move more than 10 feet away from that point for the next 10 seconds.
 

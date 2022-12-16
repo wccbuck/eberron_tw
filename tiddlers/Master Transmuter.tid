@@ -1,6 +1,6 @@
 category: talent
 created: 20211215065123672
-modified: 20211215065751704
+modified: 20221201002800216
 tags: wizard
 title: Master Transmuter
 type: text/vnd.tiddlywiki
@@ -11,6 +11,6 @@ xpcost: 2
 You can choose to consume the reserve of [[transmutation]] magic stored within your [[transmuter's stone|Transmuter's Stone]] in a single burst. When you do so, choose one of the following effects. Your transmuter's stone is destroyed and must be remade over the course of a new 8-hour ritual.
 
 * ''Major Transformation.'' You can transmute one nonmagical object—no larger than a 5-foot cube—into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.
-* ''Panacea.'' You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter's stone, and the creature recovers from all injury.
+* ''Panacea.'' You remove all curses, [[disease]]s, and poisons affecting a creature that you touch with the transmuter's stone, and the creature recovers from all injury.
 * ''Restore Life.'' You cast the [[raise dead]] spell on a creature you touch with the transmuter's stone, without expending [[stress]] or additional ritual components.
 * ''Restore Youth.'' You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by <<dr 3d10>> years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.

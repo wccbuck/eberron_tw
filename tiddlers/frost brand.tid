@@ -1,13 +1,13 @@
 category: object
 color: #41D5E1
 created: 20201228044545083
-modified: 20220221025540860
+modified: 20221205052836928
 tags: protection sword weapon
 tier: 4
 title: frost brand
 type: text/vnd.tiddlywiki
 
-When you hit with an attack using this magic sword, the target takes extra cold damage. In addition, while you hold the sword, you have resistance to fire.
+When you hit with an attack using this magic sword, the target takes extra [[cold damage|damage type]]. In addition, while you hold the sword, you have resistance to fire.
 
 In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 

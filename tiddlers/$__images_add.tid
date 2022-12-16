@@ -1,0 +1,12 @@
+caption: note
+created: 20221202235224409
+modified: 20221202235919076
+tags: $:/tags/Image
+title: $:/images/add
+type: text/vnd.tiddlywiki
+
+<svg class="tc-image-button" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24pt" height="24pt" viewBox="50 -20 600 600">
+<g id="surface1">
+  <path d="m171.82 42.312h356.36c32.398 0 59.504 26.445 59.504 59.504v356.36c0 32.398-27.109 59.504-59.504 59.504h-356.36c-33.059 0-59.504-27.109-59.504-59.504v-356.36c0-33.059 26.445-59.504 59.504-59.504zm228.1 91.238v96.527h95.867v99.836h-95.867v95.867h-99.836v-95.867h-96.527v-99.836h96.527v-96.527z" fill-rule="evenodd"/>
+</g>
+</svg>

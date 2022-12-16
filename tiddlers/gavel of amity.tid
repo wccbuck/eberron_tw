@@ -2,7 +2,7 @@ category: object
 charges: 5
 color: #41D5E1
 created: 20201227185225908
-modified: 20220218181018465
+modified: 20221205053323436
 tags: hammer weapon
 tier: 3
 title: gavel of amity
@@ -10,6 +10,6 @@ type: text/vnd.tiddlywiki
 
 This wooden gavel is nearly the size of a warhammer in human hands. 
 
-You can use the gavel to strike a point on a hard surface. The first time in the next minute that a creature within 60 feet of that point deals damage to another creature with an attack that hits, the attacker suffers psychic damage equal to the damage it dealt to the target. The gavel can create this effect 5 times each day before it must recharge overnight.
+You can use the gavel to strike a point on a hard surface. The first time in the next minute that a creature within 60 feet of that point deals damage to another creature with an attack that hits, the attacker suffers [[psychic damage|damage type]] equal to the damage it dealt to the target. The gavel can create this effect 5 times each day before it must recharge overnight.
 
 <<itemcharges 5>>

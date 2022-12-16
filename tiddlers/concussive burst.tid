@@ -1,11 +1,11 @@
 category: spell
 color: #B7A1E0
 created: 20201210010108873
-modified: 20210811022329498
+modified: 20221205051939206
 tags: evocation
 tier: 2
 title: concussive burst
 type: text/vnd.tiddlywiki
 
-A pulse of energy tears ripples through the air, dealing minor force damage over a wide area. The spellcaster chooses a point within 60 feet; each
+A pulse of energy tears ripples through the air, dealing minor [[force damage|damage type]] over a wide area. The spellcaster chooses a point within 60 feet; each
 creature within a 20-foot-radius sphere centered on that point experiences a deafening shockwave.

@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20221212185301952
+modified: 20221212185943191
+tags: necromancy [[divine magic]]
+tier: 2
+title: Keeper's vault
+type: text/vnd.tiddlywiki
+
+Channeling the greed of the [[Keeper]], you draw out a fragment of a living soul and bind it within a lantern. Choose a creature you can see within 60 feet of you that has a soul (e.g. isn’t an [[undead]] or [[construct]]), and extend an unlit lantern (worth at least [[1c|money]]) in the target's direction. For up to one minute, the lantern is ignited by the target’s soul and sheds dim light in a 30-foot radius. While the lantern is lit in this way, the target repeatedly suffers [[necrotic damage|damage type]].
+
+Until the spell ends, you can choose one creature you can see within 30 feet of you that has a soul. That creature experiences low-[[impact]] [[magical healing]], and the spell immediately ends. If the spell was active for a full minute, upgrade the magical healing to medium-impact.

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211027193526671
-modified: 20220217212459092
+modified: 20221205052350967
 tags: spear weapon
 tier: 5
 title: dragonlance
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 A dragonlance is a renowned weapon forged from rare metal with the aid of powerful artifacts associated with the [[Dragon Gods]], made to be wielded by a [[humanoid]]. Different lances are forged for use by foot soldiers (as pikes) and by riders (as lances), but the magical properties of the weapons are the same.
 
-[[Dragon|dragon]]s struck by this weapon suffer a great deal of additional arcane force damage.
+[[Dragon|dragon]]s struck by this weapon suffer a great deal of additional [[force damage|damage type]].

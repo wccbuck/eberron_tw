@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200417061751252
-modified: 20220302235547572
+modified: 20221121022844022
 tags: immortal aberration
 tier: 5
 title: daelkyr
@@ -21,8 +21,8 @@ of years old and the Gatekeepers are all but forgotten.
 beseech [[beholder]] priests for the blessings of [[Belashyrra]], the Lord of Eyes. And in the shadows of Khyber, the
 daelkyr are waiting. 
 
-<<<
-''The Six Daelkyr''<br/>
+!! The Six Daelkyr
+
 Six daelkyr are known on Eberron through their cults and
 legends, but other daelkyr surely
 lurk in the depths of Khyber. 
@@ -33,8 +33,6 @@ lurk in the depths of Khyber.
 * [[Kyrzin]]
 * [[Orlassk]]
 * [[Valaara]]
-
-<<<
 
 A daelkyr knows secrets mortals can’t comprehend and has
 plans they can’t understand. Some sages believe that the
@@ -50,7 +48,9 @@ all prior understanding and identity. While they may be
 enigmatic, the daelkyr are unquestionably evil; they shatter
 innocent lives and entire civilizations without any remorse.
 
-//''Held Loosely in Space.''// The daelkyr have lairs within
+!!! Held Loosely in Space
+
+The daelkyr have lairs within
 [[Khyber]], but these are no mere caverns. Each daelkyr's
 domain is a demiplane reflecting the twisted vision of its
 master. These realms are connected to the surface by
@@ -58,9 +58,9 @@ tunnels and chasms, but they defy conventional geography. Passages to [[Belashyr
 the [[Shadow Marches]], but tunnels also connect its realm
 to [[Xen'drik]]. Adventurers can potentially cross great distances quickly by passing through a daelkyr's domain.
 
-''//Unifying Theme.//'' Each daelkyr has a unique theme;
-[[Belashyrra]] is tied to sight. [[Valaara]] to insects, and [[Dyrrn]]
-to corruption and evolution. This theme is reflected in
+!!! Unifying Theme
+
+Each daelkyr has a unique theme; [[Belashyrra]] is tied to sight, [[Valaara]] to insects, and [[Dyrrn]] to corruption and evolution. This theme is reflected in
 the daelkyr’s appearance, in the minions it employs, and
 in the [[symbiont]]s it creates. If the daelkyr is an artist, the
 theme is its medium. If it’s a conqueror, the theme defines

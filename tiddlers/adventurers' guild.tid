@@ -2,7 +2,7 @@ category: organization
 color: #052c65
 created: 20210118055328229
 list-before: 
-modified: 20220823212831561
+modified: 20221121224734243
 tags: [[secret society]]
 title: adventurers' guild
 tooltip: an organization that provides adventurers opportunities for work and camaraderie
@@ -18,4 +18,4 @@ Adventurers' guilds are organizations that provide adventurers with opportunitie
 
 !! Adventurer's Guilds
 
-<<list-links-article "[tag{!!title}sort[title]]">>
+<<list-links-article "[tag{!!title}sort[relevance]]">>

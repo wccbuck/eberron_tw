@@ -2,7 +2,7 @@ category: spell
 color: #B7A1E0
 created: 20210809013613095
 highertier: show
-modified: 20220220212453526
+modified: 20221205060624117
 tags: [[primal magic]] transmutation
 tier: 2
 title: starry form
@@ -12,7 +12,7 @@ You transform yourself to take on a starry form. Your body becomes luminous; you
 
 Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form:
 
-* ''Archer.'' A constellation of an archer appears on you. Every few seconds, you can hurl a luminous arrow that deals radiant damage to creatures it strikes.
+* ''Archer.'' A constellation of an archer appears on you. Every few seconds, you can hurl a luminous arrow that deals [[radiant damage|damage type]] to creatures it strikes.
 * ''Chalice.'' A constellation of a life-giving goblet appears on you. Gain an [[advantage]] whenever you cast a healing [[spell]].
 * ''Dragon.'' A constellation of a wise [[dragon]] appears on you. Gain an [[advantage]] on any attempt to discern the truth or maintain concentration under stress.
 

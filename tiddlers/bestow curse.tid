@@ -2,7 +2,7 @@ category: spell
 color: #B7A1E0
 created: 20210412034609437
 highertier: show
-modified: 20220220214938359
+modified: 20221205061944239
 tags: necromancy [[divine magic]]
 tier: 3
 title: bestow curse
@@ -12,7 +12,7 @@ You touch a creature, and that creature must resist your magic or else become cu
 
 * Choose one [[action]] and one [[attribute]]. While cursed, the target has [[disadvantage]] when using that action or attribute.
 * While cursed, the target has [[disadvantage]] to perform any direct hostile action against you.
-* While the target is cursed, your attacks and spells deal extra necrotic damage to them.
+* While the target is cursed, your attacks and spells deal extra [[necrotic damage|damage type]] to them.
 
 A [[remove curse]] spell ends this effect. At the GM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The GM has final say on such a curse's effect.
 

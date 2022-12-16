@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Cathan ir'Demell",
         "tags": "humanoid human Sharn [[Lord Mayor of Sharn]]",
-        "modified": "20220325225741451",
+        "modified": "20221215234049681",
         "color": "#FEA627",
         "category": "person",
-        "article": "Lord Mayor "
+        "article": "Lord Mayor ",
+        "tooltip": "current Lord Mayor of Sharn"
     }
 ]

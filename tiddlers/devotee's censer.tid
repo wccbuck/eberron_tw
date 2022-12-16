@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210809045538907
-modified: 20220221023322171
+modified: 20221205052208198
 tags: recovery [[magical implement]] weapon flail [[holy symbol]]
 tier: 3
 title: devotee's censer
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 The rounded head of this flail is perforated with tiny
 holes, arranged in symbols and patterns. The flail
-counts as a [[holy symbol]] for a [[cleric]] or [[paladin]] wielder. When you hit with an attack using this magic flail, the target takes additional radiant damage.
+counts as a [[holy symbol]] for a [[cleric]] or [[paladin]] wielder. When you hit with an attack using this magic flail, the target takes additional [[radiant damage|damage type]].
 
 Once per day, you can speak the command word to cause the flail to emanate a thin cloud of incense out to 10 feet for 1 minute. Creatures in the incense rapidly recover from wounds (moderate-[[impact]] [[magical healing]]).

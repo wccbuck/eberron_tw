@@ -1,0 +1,16 @@
+alternatetitle: the shrieks
+category: phenomenon
+color: #432874
+created: 20221130212536933
+modified: 20221205051605193
+tags: disease
+title: cackle fever
+type: text/vnd.tiddlywiki
+
+This [[disease]] targets [[humanoid]]s, although [[gnome]]s are strangely immune. While in the grips of this disease, victims frequently succumb to fits of mad laughter, giving the disease its common name and its morbid nickname: "the shrieks."
+
+Symptoms manifest <<dr 1d4>> hours after infection and include persistent fever and disorientation. The creature suffers [[disadvantage]] on all attempts. Any event that causes the infected creature's heart rate to spike (including entering combat, suffering [[harm]], experiencing fear, or having a nightmare) has a chance of making the creature suffer [[psychic damage|damage type]] and become incapacitated with mad laughter for up to a minute.
+
+Humanoid creatures within 10 feet of an infected creature in the throes of mad laughter have a chance of becoming infected.
+
+The disease and its symptoms last for up to 7 days, though a healthy individual can shake the symptoms in as few as 3 days. If the disease advances to its final stage, the infected creature develops a random form of [[long-term madness]].

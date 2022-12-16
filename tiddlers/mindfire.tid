@@ -1,0 +1,13 @@
+category: phenomenon
+color: #432874
+created: 20221130222514347
+modified: 20221130222737339
+tags: disease
+title: mindfire
+type: text/vnd.tiddlywiki
+
+This [[disease]]'s symptoms manifest <<dr 1d4>> hours after infection, unless the disease is inflicted by the [[contagion]] spell, in which case symptoms manifest after one minute. 
+
+The creature's mind becomes feverish. The creature behaves unpredictably; in combat or other stressful situations, they act as if under the effects of the [[confusion]] spell. If symptoms progress, the creature has a harder time resisting their strange compulsions.
+
+The disease and its symptoms last for up to 7 days, though a healthy individual can shake the symptoms in as few as 3 days.

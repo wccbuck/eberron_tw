@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220128181718828
-modified: 20220707210059088
+modified: 20221205052811080
 tags: tool detection protection destruction
 tier: 3
 title: flamefriend lantern
@@ -13,7 +13,7 @@ While [[attuned|attunement]] to the lantern, you can verbally ask the [[elementa
 
 In addition, the [[fire elemental]] in the lantern can temporarily grant you a small fragment of its power. You can gain one of the following benefits of your choice for 1 hour:
 
-* You have resistance to fire damage.
+* You have resistance to [[fire damage|damage type]].
 * Whenever a creature hits you at close range, that creature suffers some fire damage.
 * You can cast the [[burning hands]] spell. Once you cast the spell, you can’t do so again until the next time you use this property of the lantern.
 

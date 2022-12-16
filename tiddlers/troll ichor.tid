@@ -1,13 +1,13 @@
 category: object
 color: #41D5E1
 created: 20220715032545215
-modified: 20220715033636174
+modified: 20221205061032610
 tags: potion recovery
 tier: 2
 title: troll ichor
 type: text/vnd.tiddlywiki
 
-After drinking this foul potion, your appearance changes to become slightly more [[troll]]-like, and you regenerate rapidly from injury. While the potion is active, your [[harm]] boxes clear over time, as specified in the below table (the harm boxes are numbered starting with the top left-most box, moving left to right). If you take acid or fire damage, this effect is suppressed for 30 seconds. The effect lasts for 1 hour. When the effect wears off, suffer 1 [[stress]].
+After drinking this foul potion, your appearance changes to become slightly more [[troll]]-like, and you regenerate rapidly from injury. While the potion is active, your [[harm]] boxes clear over time, as specified in the below table (the harm boxes are numbered starting with the left-most box, moving right). If you take [[acid or fire damage|damage type]], this effect is suppressed for 30 seconds. The effect lasts for 1 hour. When the effect wears off, suffer 1 [[stress]].
 
 |!Harm Box # |!Time to Clear |
 | 1 |1 minute |

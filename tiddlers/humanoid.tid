@@ -1,7 +1,7 @@
 category: creature
 color: #58151c
 created: 20200415015309474
-modified: 20210727192014057
+modified: 20221123221509900
 title: humanoid
 tooltip: human, elf, dwarf, orc, etc.
 type: text/vnd.tiddlywiki
@@ -20,4 +20,4 @@ Humanoids are the main peoples of Eberron, both civilized and savage, including 
 
 !! Exotic
 
-<<list-links-article "[tag{!!title}!var[common]!var[uncommon]category[creature]] -[tag{!!title}tagging[]category[creature]] +[sort[title]]">>
+<<list-links-article "[tag{!!title}!var[common]!var[uncommon]!tag[therianthrope]category[creature]] -[tag{!!title}tagging[]category[creature]] +[sort[title]]">>

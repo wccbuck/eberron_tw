@@ -2,7 +2,7 @@ category: location
 color: #96CC39
 created: 20200420064639615
 fmwvar: fmw-cogs
-modified: 20210924200306150
+modified: 20221129234222278
 polygons: 20.053,-24.664 20.057,-24.666 20.074,-24.672 20.081,-24.681 20.095,-24.692 20.118,-24.7 20.136,-24.706 20.167,-24.71 20.197,-24.712 20.214,-24.711 20.237,-24.704 20.258,-24.697 20.28,-24.695 20.295,-24.694 20.311,-24.686 20.334,-24.677 20.354,-24.67 20.371,-24.668 20.392,-24.668 20.403,-24.672 20.403,-24.672 20.375,-24.675 20.357,-24.681 20.331,-24.691 20.302,-24.698 20.265,-24.708 20.241,-24.723 20.214,-24.724 20.191,-24.724 20.191,-24.724 20.169,-24.725 20.151,-24.722 20.12,-24.716 20.098,-24.704 20.076,-24.691 20.058,-24.683 20.04,-24.677
 style: {"color":"#6B001B","fillColor":"#5F0018","fillOpacity":0.25}
 tags: Cliffside district Sharn
@@ -20,4 +20,6 @@ from tavern to bordello in search of a good time.<br/>
 ''Social Class:'' Lower class<br/>
 ''Neighbors:'' [[Grayflood]] (northwest); [[Ship's Towers]] (southwest); [[Mud Caves]] (southeast)
 
-Catering to the carnal desires of the clientele in [[Cliffside]], Sharn's Welcome is rough, dirty, and a haven for crime. Bordellos abound, but customers are often robbed, sometimes beaten, and occasionally killed.
+Also known as the docks of [[Cliffside]], this district is rough and dirty. Its taverns frequently host brawls, while the inns and bordellos offer travelers a wide variety of ways to be cheated or robbed.
+
+A party traveling to [[Stormreach]] by ship would likely depart from this district. As an example, the ship known as the [[Kraken's Wake]] frequently runs between the two cities, departing from Greenman Pier.

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220104232814802
-modified: 20220216202509634
+modified: 20221205060935997
 tags: armor head
 tier: 3
 title: vancian helm
@@ -13,4 +13,4 @@ Any creature can cast a spell of [[uncommon tier|spell tier]] into this helmet b
 
 When a spell is stored within the helmet, your eyes glow with a brilliant color of your choice while you wear it. While wearing this helmet, you can release any spell stored in it, and is treated as if you cast the spell. When a new spell is stored, the previously stored spell is lost.
 
-If you are wearing the helmet when a spell of [[rare tier|spell tier]] or higher is cast into the helm, the spell is expended without effect and you suffer some psychic damage. 
+If you are wearing the helmet when a spell of [[rare tier|spell tier]] or higher is cast into the helm, the spell is expended without effect and you suffer some [[psychic damage|damage type]]. 

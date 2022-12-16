@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220712005330620
-modified: 20220712005727144
+modified: 20221205055227250
 tags: destruction invigoration potion mobility
 tier: 2
 title: potion of aberrant transformation
@@ -11,7 +11,7 @@ When you drink this bitter potion, your body transforms in one of the following 
 
 | !<<dr d6>> |!Effect |
 | 1 |Several additional eyes grow on stalks from your head, and you can see in all directions. |
-| 2 |You gain the ability to conjure and wield a psychic whip, which deals psychic damage against living creatures you strike with it. |
+| 2 |You gain the ability to conjure and wield a psychic whip, which deals [[psychic damage|damage type]] against living creatures you strike with it. |
 | 3 |You gain the ability to spit acid up to 30 feet. |
 | 4 |Your arms are transformed into tentacles, which deal lightning damage to creatures you strike with them. |
 | 5 |Your hands are transformed into large, powerful pincers. |

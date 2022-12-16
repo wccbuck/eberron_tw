@@ -1,0 +1,42 @@
+category: phenomenon
+color: #432874
+created: 20221130212017066
+modified: 20221130222158203
+tags: 
+title: disease
+type: text/vnd.tiddlywiki
+
+A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon
+finds herself suffering from a wasting illness. A [[warlock]] offends some dark power and contracts a strange affliction that spreads whenever he casts spells.
+
+A simple outbreak might amount to little more than
+a small drain on party resources, curable by a casting
+of [[restoration]]. A more complicated outbreak can
+form the basis of one or more adventures as characters
+search for a cure, stop the spread of the disease, and
+deal with the consequences.
+
+A disease that does more than infect a few party
+members is primarily a plot device. The rules help
+describe the effects of the disease and how it can be
+cured, but the specifics of how a disease works aren't
+bound by a common set of rules. Diseases can affect
+any creature, and a given illness might or might not
+pass from one race or kind of creature to another. A
+plague might affect only [[construct]]s or [[undead]], or sweep
+through a [[halfling]] neighborhood but leave other races
+untouched. What matters is the story you want to tell.
+
+The examples in the list below illustrate the variety of ways disease can work in your game. Feel free to alter the mechanics, incubation times, symptoms, and other characteristics of these diseases to suit your campaign.
+
+!! Diseases in the Storyloom system
+
+Whenever a player character contracts a disease, the GM might set up a [[progress clock]] for overcoming the illness; if the disease's symptoms can get worse over time, they can set up a second one for the progression of symptoms. These progress clocks can have four to six segments depending on the disease's complexity. The player can make an [[attempt|Taking Action]] once each day to advance the first clock, with [[partial success]]es and [[bad outcome]]s advancing the second clock. The GM narrates how the disease is progressing based on how filled-in the symptoms' [[progress clock]] is.
+
+When making such an attempt, use the Vigor [[attribute]] (or Heart if the disease is spiritual in nature), and an [[action]] appropriate to how you're actively fighting the disease (usually Operate or Study). If another character is providing medical attention, you can use //their// [[action]] if they are proficient in it. If no one is actively doing something to combat the disease, just don't use an [[action]] for that attempt. Important note: if the disease's description says that it imposes [[disadvantage]] on all attempts performed by the infected creature, that disadvantage ''does not apply to this roll''.
+
+Many diseases can be cured with the [[restoration]] spell. If the disease is described as "magical", however, a greater restoration (rare-[[tier|spell tier]]) must be used.
+
+!! List of Diseases
+
+<<list-links-article "[tag{!!title}sort[title]]">>

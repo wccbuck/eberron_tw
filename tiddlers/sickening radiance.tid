@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210110051425420
-modified: 20210727192031862
+modified: 20221205060026347
 tags: evocation
 tier: 3
 title: sickening radiance
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 Dim, greenish light spreads within a 30-foot-radius sphere centered on a point you choose within 120 feet. The light spreads around corners, and it lasts until the spell ends.
 
-When a creature moves into the spell's area, it must resist the magic of the enervating light or suffer exhaustion and radiant damage. The creature also begins to glow with a dim, greenish light that prevents them from benefiting from invisibility.
+When a creature moves into the spell's area, it must resist the magic of the enervating light or suffer exhaustion and [[radiant damage|damage type]]. The creature also begins to glow with a dim, greenish light that prevents them from benefiting from invisibility.

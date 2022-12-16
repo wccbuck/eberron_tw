@@ -1,0 +1,13 @@
+category: phenomenon
+color: #432874
+created: 20221130221735536
+modified: 20221130221826770
+tags: disease
+title: flesh rot
+type: text/vnd.tiddlywiki
+
+This [[disease]]'s symptoms manifest <<dr 1d4>> hours after infection, unless the disease is inflicted by the [[contagion]] spell, in which case symptoms manifest after one minute. 
+
+The creature's flesh decays. The creature becomes hideous to look upon and is highly vulnerable to damage. If symptoms progress, the creature may suffer permanent scarring or other disfigurement.
+
+The disease and its symptoms last for up to 7 days, though a healthy individual can shake the symptoms in as few as 3 days.

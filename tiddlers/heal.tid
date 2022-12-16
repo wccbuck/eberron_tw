@@ -2,13 +2,13 @@ category: spell
 color: #B7A1E0
 created: 20210412193503044
 highertier: show
-modified: 20220220215627800
+modified: 20221201003238003
 tags: [[primal magic]] [[divine magic]]
 tier: 3
 title: heal
 type: text/vnd.tiddlywiki
 
-Choose a creature that you can see within 60 feet. A surge of positive energy washes through the creature, causing it to rapidly recover from serious injury (moderate-[[impact]] [[magical healing]]). This spell also ends blindness, deafness, and any diseases affecting the target. This spell works on [[warforged]] and [[deathless]] but has no effect on other [[construct]]s or [[undead]].
+Choose a creature that you can see within 60 feet. A surge of positive energy washes through the creature, causing it to rapidly recover from serious injury (moderate-[[impact]] [[magical healing]]). This spell also ends blindness, deafness, and any [[disease]]s affecting the target. This spell works on [[warforged]] and [[deathless]] but has no effect on other [[construct]]s or [[undead]].
 
 <$reveal type="match" state="!!highertier" text="show">
 

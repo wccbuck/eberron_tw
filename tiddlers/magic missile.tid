@@ -2,14 +2,14 @@ category: spell
 color: #B7A1E0
 created: 20201210042007272
 highertier: show
-modified: 20220824170449581
+modified: 20221205054710712
 tags: evocation
 tier: 2
 title: magic missile
 tooltip: fire three darts of magical force that almost never miss their marks
 type: text/vnd.tiddlywiki
 
-The spellcaster creates up to three glowing darts of magical force. Each dart targets a creature of their choice that they can see within 120 feet. A dart deals a small amount of force damage to its target. The darts all strike simultaneously, and the caster can direct them to hit one creature or several. This spell is highly accurate and almost never misses its marks.
+The spellcaster creates up to three glowing darts of magical force. Each dart targets a creature of their choice that they can see within 120 feet. A dart deals a small amount of [[force damage|damage type]] to its target. The darts all strike simultaneously, and the caster can direct them to hit one creature or several. This spell is highly accurate and almost never misses its marks.
 
 <$reveal type="match" state="!!highertier" text="show">
 

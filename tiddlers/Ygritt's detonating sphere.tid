@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20220202191801423
-modified: 20220218014404878
+modified: 20221205053134775
 tags: destruction tool [[alchemical explosive]]
 tier: 2
 title: Ygritt's detonating sphere
 type: text/vnd.tiddlywiki
 
-When this small silver sphere is thrown, it detonates on impact and deals acid damage and arcane force damage to all creatures within a 10-foot radius. The sphere can be retrieved and reused if it is boiled in water for 8 hours.
+When this small silver sphere is thrown, it detonates on impact and deals [[acid damage and force damage|damage type]] to all creatures within a 10-foot radius. The sphere can be retrieved and reused if it is boiled in water for 8 hours.

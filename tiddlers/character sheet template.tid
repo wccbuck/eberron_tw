@@ -1,7 +1,7 @@
 category: character sheet
 created: 20210802012325047
 mode: view
-modified: 20220720152714047
+modified: 20221204000050295
 title: character sheet template
 type: text/vnd.tiddlywiki
 
@@ -66,27 +66,10 @@ type: text/vnd.tiddlywiki
      </div>
   </div>
 
- <div class="cs-row">
-      <div class="cs-doublecolumn">
-<p class="cs-heading">[[Stress|stress]]</p>
-     </div>
-     <div class="cs-doublecolumn">
-<p class="cs-heading">[[Harm|harm]]</p>
-      </div>
-    <div class="cs-doublecolumn">
-<p class="cs-heading">[[Talents|talent]]</p>
-    </div>
-    <div class="cs-column">
-<div align="right">''[[XP|experience point]]:''</div>
-</div>
-<div class="cs-column">
-    <<cs-xp>>
-     </div>
-  </div>
-
   <div class="cs-row">
 	<div class="cs-column" style="align-self: flex-start;">
-        <<cs-checkboxes>>
+        <<cs-stressboxes>>
+        <<cs-harmboxes>>
 		<div class="cs-row">
 			<div class="cs-column" style="justify-content: flex-start;">
 				<div style="margin-right:25px;">
@@ -138,6 +121,17 @@ type: text/vnd.tiddlywiki
 		</div>
 	</div>
 	<div class="cs-column" style="align-self: flex-start;">
+      <div class="cs-row">
+        <div class="cs-doublecolumn">
+          <p class="cs-heading">[[Talents|talent]]</p>
+        </div>
+        <div class="cs-column">
+          <div align="right">''[[XP|experience point]]:''</div>
+        </div>
+        <div class="cs-column">
+    <<cs-xp>>
+        </div>
+       </div>
 		<div class="cs-row" style="align-items: flex-start;">
 			<<cs-talent-list>>
 		</div>

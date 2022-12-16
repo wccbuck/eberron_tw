@@ -1,0 +1,12 @@
+caption: note
+created: 20221202235001401
+modified: 20221202235951206
+tags: $:/tags/Image
+title: $:/images/subtract
+type: text/vnd.tiddlywiki
+
+<svg class="tc-image-button" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24pt" height="24pt" viewBox="50 -20 600 600">
+<g id="surface1">
+  <path d="m171.82 42.312h356.36c32.398 0 59.504 26.445 59.504 59.504v356.36c0 32.398-27.109 59.504-59.504 59.504h-356.36c-33.059 0-59.504-27.109-59.504-59.504v-356.36c0-33.059 26.445-59.504 59.504-59.504zm353.06 190.41v94.547h-349.75v-94.547z" fill-rule="evenodd"/>
+</g>
+</svg>

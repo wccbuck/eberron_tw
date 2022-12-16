@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210809041255407
-modified: 20210905190802247
+modified: 20221205051509517
 tags: conjuration
 tier: 5
 title: blade of disaster
@@ -10,6 +10,6 @@ type: text/vnd.tiddlywiki
 You create a blade-shaped planar rift about 3 feet
 long in an unoccupied space you can see within
 60 feet. The blade lasts for up to a minute, or until your concentration breaks. After you
-cast this spell, you can control the hovering blade at will, dealing reality-shattering amounts of force damage to whatever it strikes.
+cast this spell, you can control the hovering blade at will, dealing reality-shattering amounts of [[force damage|damage type]] to whatever it strikes.
 
 The blade can harmlessly pass through any barrier, including a [[wall of force]].

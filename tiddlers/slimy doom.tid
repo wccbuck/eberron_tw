@@ -1,0 +1,13 @@
+category: phenomenon
+color: #432874
+created: 20221130223103417
+modified: 20221130223348413
+tags: disease
+title: slimy doom
+type: text/vnd.tiddlywiki
+
+This [[disease]]'s symptoms manifest <<dr 1d4>> hours after infection, unless the disease is inflicted by the [[contagion]] spell, in which case symptoms manifest after one minute. 
+
+The creature begins to bleed uncontrollably. The creature has one less [[stress]] box for the duration of the illness. In addition, whenever the creature suffers [[harm]], they are stunned for a few seconds, unable to act. If symptoms progress, the creature loses one additional [[stress]] box.
+
+The disease and its symptoms last for up to 7 days, though a healthy individual can shake the symptoms in as few as 3 days.

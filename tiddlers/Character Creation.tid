@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210802005840339
-modified: 20220805184858830
+modified: 20221203001946787
 tags: Storyloom
 title: Character Creation
 tooltip: documentation page for the process of creating a Storyloom character
@@ -17,7 +17,7 @@ Alternatively, you can just use pencil and paper for everything!
 * Choose three [[actions or attributes|Actions and Attributes]] and click their checkbox to gain proficiency. Using an action or attribute you are proficient in grants you an additional die in your dice pool when [[making attempts|Taking Action]].
 * Choose [[talent]]s with costs that add up to 3 [[experience point]]s. If you take [[Spellcaster]] or something similar, add any [[spell]]s you gain access to. Also take note of any prerequisites the talents may require.
 * Choose two [[language]]s your character knows (typically [[Common]] and one other).
-* Add any items you want to start with (subject to GM approval). Examples: [[thieves' tools]], [[herbalism kit]], or [[explorer's pack]].
+* Add any items you want to start with (subject to GM approval). Examples: [[thieves' tools]], [[herbalism kit]], or [[explorer's pack]]. If you are equipped with [[armor]], click the <$button class=<<tv-config-toolbar-class>>>{{$:/images/add}}</$button> button under "special harm" to add your bonus [[harm]] box (see the [[armor]] page for more info).
 
 !! Group Creation
 

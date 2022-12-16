@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210402050941457
-modified: 20210727192009679
+modified: 20221201002202770
 tags: [[plant creature]]
 tier: 1
 title: gas spore
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 A gas spore is a spherical, balloon-like fungus that resembles a [[beholder]] from a distance, though its true nature becomes increasingly obvious as one approaches it. The monster possesses a blind central "eye" and rhizome growths sprouting from its upper surface, superficially resembling a beholder's eyestalks.
 
-A gas spore is a hollow shell filled with a lighter-than-air gas that enables it to float as a beholder does. Piercing the shell causes the creature to burst apart, releasing a cloud of deadly spores. A creature that inhales the spores becomes host to them, and is often dead within a day. Its corpse then becomes the spawning ground from which new gas spores arise.
+A gas spore is a hollow shell filled with a lighter-than-air gas that enables it to float as a beholder does. Piercing the shell causes the creature to burst apart, releasing a cloud of deadly spores. A creature that inhales the spores becomes [[host to them|disease]], and is often dead within a day. Its corpse then becomes the spawning ground from which new gas spores arise.
 
 [[Avassh]] created the first gas spores. Some scholars believe that this is a key to understanding the relationship between [[daelkyr]]—that the gas spores are in some way a reflection of the relationship between Avassh and [[Belashyrra]]—but there is a continuing debate as to whether this reflects cooperation or if it is a form of mockery or humor. 

@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210503030537892
-modified: 20210727192035522
+modified: 20221205060800573
 tags: conjuration
 tier: 1
 title: sword burst
 type: text/vnd.tiddlywiki
 
-You create a momentary circle of spectral blades that sweep around you. Each creature within 5 feet, other than you, must dodge the blades or suffer force damage.
+You create a momentary circle of spectral blades that sweep around you. Each creature within 5 feet, other than you, must dodge the blades or suffer [[force damage|damage type]].

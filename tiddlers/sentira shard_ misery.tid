@@ -1,0 +1,15 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20221215061324044
+modified: 20221215061515958
+tags: [[weapon enhancement]] accessory [[sentira shard]]
+tier: 3
+title: sentira shard: misery
+type: text/vnd.tiddlywiki
+
+For this [[sentira shard]]’s properties to work, it must be attached to a [[sentira lens]] weapon. You can attach it or remove it from a sentira lens with 10 minutes of work. A sentira lens can only have one sentira shard attached at a time.
+
+This shard moderately enhances the [[impact]] of attacks made with the attached [[sentira lens]]. Additionally, this shard has 3 charges, which it regains daily at dawn. When you hit a creature with an attack using this shard’s sentira lens, you can expend 1 charge to drench the target in misery. The target must resist this effect or else suffer [[disadvantage]] on all attempts for up to 10 seconds.
+
+<<itemcharges 3>>

@@ -1,12 +1,12 @@
 category: object
 color: #41D5E1
 created: 20220715221412469
-modified: 20220715221825062
+modified: 20221205060458435
 tags: protection destruction [[magical implement]] weapon staff
 tier: 4
 title: staff of fire
 type: text/vnd.tiddlywiki
 
-You are resistant to fire damage while you hold this staff.
+You are resistant to [[fire damage|damage type]] while you hold this staff.
 
 If you are a spellcaster, this staff allows you to cast the following spells using your own power: [[burning hands]], [[fireball]], [[wall of fire]], and [[incendiary cloud]]. You also gain one additional spellcasting [[stress]] box which you can only use to cast these spells.

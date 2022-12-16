@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210504032224041
-modified: 20210727192014929
+modified: 20221205053737949
 tags: [[primal magic]] transmutation
 tier: 4
 title: investiture of flame
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 Flames race across your body, shedding bright light in a 30-foot radius and dim light for an additional 30 feet for up to 10 minutes. The flames don't harm you. Until the spell ends, you gain the following benefits:
 
-* You are immune to fire damage and have resistance to cold damage.
+* You are immune to [[fire damage|damage type]] and have resistance to cold damage.
 * Creatures within five feet of you are subjected to extreme heat.
 * You can emit a beam of fire up to 15 feet long and 5 feet wide.

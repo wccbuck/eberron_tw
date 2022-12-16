@@ -1,5 +1,5 @@
 created: 20220107184850124
-modified: 20220110034612953
+modified: 20221205050425430
 tags: 
 title: $:/SpellScroll
 type: text/vnd.tiddlywiki
@@ -11,7 +11,7 @@ This tier-{{!!tier}} spell scroll allows you to cast one arcane spell of ''<$tra
 Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust. Rolling a [[bad outcome]] on a spell scroll might result in one of the following mishaps as a [[consequence]].
 
 |! <<dr d6>> |!Scroll Mishap |
-| 1 |A surge of magical energy deals arcane force damage to the caster. |
+| 1 |A surge of magical energy deals arcane [[force damage|damage type]] to the caster. |
 | 2 |The spell affects the caster or an ally (determined randomly) instead of the intended target, or it affects a random target nearby if the caster was the intended target. |
 | 3 |The spell affects a random location within the spell's range. |
 | 4 |The spell's effect is contrary to its normal one, but neither harmful nor beneficial. For instance, a [[fireball]] might produce an area of harmless cold. |

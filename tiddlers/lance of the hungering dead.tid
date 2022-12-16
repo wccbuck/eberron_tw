@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20211230002710981
-modified: 20220216235452329
+modified: 20221205062402206
 tags: spear weapon
 tier: 4
 title: lance of the hungering dead
 type: text/vnd.tiddlywiki
 
-This gruesome magical lance can drain the life force from another creature. When you strike a hostile living creature with this lance, you may deal additional necrotic damage, and gain a temporary extra [[harm]] box that lasts for 1 minute. You can use this property only when this extra harm box has been used or has expired.
+This gruesome magical lance can drain the life force from another creature. When you strike a hostile living creature with this lance, you may deal additional [[necrotic damage|damage type]], and gain a temporary extra [[harm]] box that lasts for 1 minute. You can use this property only when this extra harm box has been used or has expired.

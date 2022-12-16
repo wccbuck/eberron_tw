@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210422170525932
-modified: 20210731230607532
+modified: 20221205051042476
 tags: psionics evocation
 tier: 3
 title: arcane hand
@@ -11,7 +11,7 @@ You create a large hand of shimmering, translucent force in an unoccupied space 
 
 The hand is an object that can be attacked and can be damaged; when it is incapacitated, the spell ends. As long as the spell is active, you can move the hand around and cause any of the following effects with the hand:
 
-//''Clenched Fist.''// The hand strikes a creature or object within 5 feet of it, dealing force damage on a hit.
+//''Clenched Fist.''// The hand strikes a creature or object within 5 feet of it, dealing [[force damage|damage type]] on a hit.
 
 //''Forceful Hand.''// The hand attempts to push an adjacent creature in a direction you choose. 
 

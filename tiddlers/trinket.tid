@@ -1,17 +1,17 @@
 category: object
 color: #41D5E1
 created: 20210602173917791
-modified: 20220825190037228
+modified: 20221212200156077
 tags: tool
 tier: 0
 title: trinket
 tooltip: a simple item lightly touched by mystery
 type: text/vnd.tiddlywiki
-var: A small jewelry box made from the shell of a turtle
+var: A clockwork device that beats like a heart
 
 \define changedyes() <$action-setfield $tiddler="$:/TrinketTableName" changed="yes"/>
 \define tablename() {{!!caption}} ({{{ [<currentTiddler>indexes[]count[]] }}})
-A trinket is a simple item lightly touched by mystery. It could be a story hook, a key to a puzzle, or a mere curiosity. Click the button below to generate a random trinket. (The "Sora Esma" tables contain many trinkets directly pertaining to Eberron locations and lore.)
+A trinket is a simple item lightly touched by mystery. It could be a story hook, a key to a puzzle, or a mere curiosity. Click the button below to generate a random trinket. (The "Eberron" and "Sora Esma" tables contain many trinkets directly pertaining to Eberron locations and lore.)
 
 Select Trinket Table: <$select tiddler="$:/TrinketTableName" default="" actions=<<changedyes>>>
 <$list filter="[tag[trinket]!has[draft.of]sort[caption]]">

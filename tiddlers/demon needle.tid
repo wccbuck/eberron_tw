@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20210903202103478
-modified: 20220217212659497
+modified: 20221205062122607
 tags: spear weapon
 tier: 4
 title: demon needle
 type: text/vnd.tiddlywiki
 
-This short spear is made from the proboscis of a [[chasme]] and magically infused with abyssal spite. Any successful attack with this weapon deals additional necrotic damage, and wounds caused by this weapon do not heal unless the target is affected by a spell such as greater [[restoration]] or [[remove curse]].
+This short spear is made from the proboscis of a [[chasme]] and magically infused with abyssal spite. Any successful attack with this weapon deals additional [[necrotic damage|damage type]], and wounds caused by this weapon do not heal unless the target is affected by a spell such as greater [[restoration]] or [[remove curse]].

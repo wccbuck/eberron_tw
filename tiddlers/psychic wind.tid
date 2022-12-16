@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20220105223447077
-modified: 20220105231957282
+modified: 20221205055524605
 tags: 
 title: psychic wind
 type: text/vnd.tiddlywiki
@@ -42,11 +42,13 @@ If you are in the [[Astral Sea]] via [[astral projection]] and become incapacita
 
 * Low [[risk]]: 
 ** Stunned and disoriented for up to 1 minute.
-** Suffer 1 [[stress]] as psychic damage. 
+** Suffer 1 [[stress]]. 
 * Moderate [[risk]]: 
 ** Stricken with [[short-term madness]].
-** Suffer 2 [[stress]] as psychic damage.
+** Suffer 2 [[stress]].
+** Suffer 1 [[harm]] as [[psychic damage|damage type]].
 ** Unconscious for up to 5 minutes, though you can be shaken awake.
 * High [[risk]]: 
 ** Stricken with [[long-term madness]].
-** Suffer 3 [[stress]] as psychic damage.
+** Suffer 3 [[stress]].
+** Suffer 2 [[harm]] as psychic damage.

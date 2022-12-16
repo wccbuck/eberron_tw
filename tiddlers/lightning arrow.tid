@@ -1,12 +1,12 @@
 category: spell
 color: #B7A1E0
 created: 20210507203836710
-modified: 20210727192018899
+modified: 20221205054026019
 tags: [[primal magic]]
 tier: 3
 title: lightning arrow
 type: text/vnd.tiddlywiki
 
-The next time you launch a projectile (such as an arrow or a throwing knife) in the next minute, the projectile transforms into a bolt of lightning. On a hit, the target takes lightning damage instead of the weapon's normal damage.
+The next time you launch a projectile (such as an arrow or a throwing knife) in the next minute, the projectile transforms into a bolt of lightning. On a hit, the target takes [[lightning damage|damage type]] instead of the weapon's normal damage.
 
 Whether you hit or miss, the bolt of lightning may leap to multiple creatures within 10 feet of the target. The projectile then returns to its normal form.

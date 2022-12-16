@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210808200737146
-modified: 20220805185757502
+modified: 20221212005202488
 tags: Storyloom
 title: Missions and Downtime
 tooltip: documentation page for stages of play in the Storyloom system
@@ -18,7 +18,7 @@ When preparing for a mission, players should take a look at the Items section of
 
 Speaking of which: each character gains two [[story point]]s at the start of a mission, if they don't already have two.
 
-Typically, all involved characters gain an [[experience point]] after they have completed their mission.
+Typically, all involved characters gain an [[experience point]] after they have completed one or two missions (3-5 sessions).
 
 !! Downtime
 
@@ -43,7 +43,7 @@ Some of the below activities can be considered part of a ''long term project'', 
 ** You gain the information, but offend a sage or get kicked out of a library as a result.
 ** You learn information best not known; it may be cursed, sought by villains, or somehow [[dangerous|Shadow]] in yet-to-be-seen ways.
 * ''Selling an Artifact.'' Selling a valuable curio or [[magic item]] is not always an easy task. Con artists and thieves are always looking for an easy score, and there's no guarantee that a character will receive a good offer even if a legitimate buyer is found. For potential [[consequence]]s, the main risk is finding someone who wants the item but doesn't want to pay for it, whether that means being robbed or just underpaid. If you yourself obtained the item through underhanded means, you may risk being discovered by law enforcement or the original owners. See Buying a Magic Item above for more examples.
-* ''Training.'' Given enough free time and the services of an instructor, a character can learn a new [[spell]], pick up a [[language]], or some other useful ability. Usually this requires a [[progress clock]] for a long-term project. Possible [[consequence]]s include:
+* ''Training.'' Given enough free time and the services of an instructor, a character can learn a new [[spell]], pick up a [[language]], or some other useful ability. Usually this requires a [[progress clock]] for a long-term project. If you are attempting to gain a full [[experience point]]'s worth of training, double the number of progress clock segments. Possible [[consequence]]s include:
 ** Your instructor disappears; perhaps they are a wanted criminal, or they were kidnapped.
 ** Your training moves slowly and drains your stamina, reducing your available [[stress]] by 1 for a single mission.
 * ''Working.'' When all else fails, an adventurer can turn to an honest trade to earn a living. This activity represents a character's attempt to find temporary work. Success on the roll results in earning enough [[money]] for modest or even comfortable lifestyle spending during the time worked. Possible [[consequence]]s include:

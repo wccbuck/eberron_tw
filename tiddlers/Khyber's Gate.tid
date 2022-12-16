@@ -2,7 +2,7 @@ category: location
 color: #96CC39
 created: 20200413211523894
 fmwvar: fmw-cogs
-modified: 20210924200338909
+modified: 20221215230710744
 polygons: 20.108,-24.607 20.121,-24.599 20.136,-24.583 20.151,-24.546 20.174,-24.507 20.205,-24.474 20.244,-24.438 20.271,-24.404 20.275,-24.387 20.265,-24.38 20.262,-24.374 20.29,-24.364 20.313,-24.357 20.319,-24.369 20.297,-24.41 20.296,-24.443 20.316,-24.473 20.337,-24.486 20.367,-24.488 20.41,-24.48 20.426,-24.48 20.43,-24.489 20.412,-24.509 20.386,-24.527 20.36,-24.54 20.335,-24.552 20.308,-24.567 20.274,-24.587 20.245,-24.605 20.223,-24.616 20.19,-24.622 20.146,-24.612 20.107,-24.607
 style: {"color":"#6B001B","fillColor":"#470012","fillOpacity":0.25}
 tags: dungeon district Cogs Sharn
@@ -60,7 +60,7 @@ Khyber's Gate is part of the ruins of a goblin city that was abandoned thousands
 
 In Khyber's Gate, an adventurer should always be
 cautious—there's no telling when what appears to be a
-lowly [[goblin]] might turn out to be a [[vampire]], a [[wererat|therianthrope]],
+lowly [[goblin]] might turn out to be a [[vampire]], a [[wererat]],
 a [[rakshasa]], or an even more dangerous [[fiend]].
 
 !! Noteworthy Locations
@@ -68,6 +68,6 @@ a [[rakshasa]], or an even more dangerous [[fiend]].
 * [[Shamukaar]]. This is the most successful tavern in Khyber's Gate. The place is a safe haven for all within it, regardless of species or politics; once you make it through the door, you can breathe easy.
 * The [[Wounded Dragon]]. A small shop located behind Shamukaar, as well as the abode of the [[changeling]] [[artificer]] [[Mig]].
 * The [[Temple of the Six]]. A temple to the [[Dark Six]] and headquarters of [[Daask]].
-* The [[Citadel of the Closed Circle]]. Over 200 years ago, the last surviving members of the destroyed arcane order known as the [[Closed Circle]] were sealed in the order's fortress in the undercity.
+* The [[Citadel of the Closed Circle]]. Over 200 years ago, the last surviving members of the destroyed [[arcane order]] known as the [[Closed Circle]] were sealed in the order's fortress in the undercity.
 * The [[Workshop of Tyrial Dashar]]. This former workshop of a [[wizard]] is now a fortress inhabited by two [[rakshasa]]s working on behalf of the [[Lords of Dust]].
 

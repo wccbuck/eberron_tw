@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211226220113796
-modified: 20220220045807198
+modified: 20221205052824152
 tags: hammer tool weapon convenience
 tier: 5
 title: forgemaster's might
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 This monumental hammer blessed by the [[Sovereign|Sovereign Host]] [[Onatar]] requires a great deal of physical strength to wield. Gain +2 [[impact]] when striking [[construct]]s or structures with it. You also gain [[advantage]] when using [[smith's tools]] to make or repair an item when you use this hammer's head as the anvil.
 
-When you speak the hammer's command phrase, "light the forge", flames curl up and heat the hammer's anvil head. These flames shed bright light. While the hammer is lit, it deals additional fire damage to any target it hits, and ignores any resistance to fire a creature may have (but does not ignore immunity). The flames last until you speak the command word "quench", or until you drop or stow the hammer.
+When you speak the hammer's command phrase, "light the forge", flames curl up and heat the hammer's anvil head. These flames shed bright light. While the hammer is lit, it deals additional [[fire damage|damage type]] to any target it hits, and ignores any resistance to fire a creature may have (but does not ignore immunity). The flames last until you speak the command word "quench", or until you drop or stow the hammer.
 
 While you are [[attuned|attunement]] to this hammer, you can cast the spell [[mending]] at [[uncommon tier|spell tier]] for free at will. In addition, you can use the hammer to cast the spells [[creation]] or [[fabricate]] once per day each. When you do, the spells take only a few seconds to cast rather than their normal casting time. The materials you conjure with [[creation]] can be used for the [[fabricate]] spell, although those materials still have a limited duration.

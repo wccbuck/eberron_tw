@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210427182318418
-modified: 20210727191958242
+modified: 20221205051558851
 tags: [[divine magic]]
 tier: 3
 title: blinding smite
 type: text/vnd.tiddlywiki
 
-The next time you hit a creature with a weapon attack before this spell ends (up to 1 minute later), your weapon flares with bright light, and the attack deals extra radiant damage to the target. Additionally, the target must resist your magic or be blinded for up to a minute.
+The next time you hit a creature with a weapon attack before this spell ends (up to 1 minute later), your weapon flares with bright light, and the attack deals extra [[radiant damage|damage type]] to the target. Additionally, the target must resist your magic or be blinded for up to a minute.

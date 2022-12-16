@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211230012016316
-modified: 20220218221502672
+modified: 20221205054051576
 tags: tool hindrance
 tier: 3
 title: lightning pylons
@@ -11,4 +11,4 @@ These 3-foot-long rods normally come in sets of three. The pylons are tipped wit
 
 You can place a pylon upright, partially inserted into soft ground. If a pylon has an electrical charge, you can speak its command word if you're within 5 feet of it. When you do, that pylon is electrified for 1 minute and loses its electrical charge at the end of that minute. Any other pylon with an electrical charge placed within 20 feet of an electrified pylon also becomes electrified, creating a wall of lightning between them that is 10 feet tall and 1 foot thick. The wall is opaque and casts bright light out to 10 feet and dim light for an additional 10 feet. You can have up to 6 pylons connected in this way at one time. Electrified pylons are magically bound to the ground until they lose their charge.
 
-When the wall appears, each creature within its area is electrocuted if it can't dodge out of the way. Creatures that enter the wall or touch the electrified pylons also suffer this lightning damage.
+When the wall appears, each creature within its area is electrocuted if it can't dodge out of the way. Creatures that enter the wall or touch the electrified pylons also suffer this [[lightning damage|damage type]].

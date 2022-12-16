@@ -1,0 +1,13 @@
+category: phenomenon
+color: #432874
+created: 20221130223754324
+modified: 20221205051526339
+tags: disease
+title: bluerot
+type: text/vnd.tiddlywiki
+
+This [[disease]] targets [[humanoid]]s and is found in coastal areas. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back. This disease can be carried by [[undead]], and victims most often acquire it through wounds caused by infected creatures. 
+
+The disease's boils manifest in <<dr 1d4>> hours, causing the victim to temporarily lose one [[stress]] box. This is quickly followed by a fever and tingling in the extremities. An infected creature is vulnerable to [[radiant damage|damage type]] and, strangely, gains the ability to breathe underwater. If the disease's symptoms advance further, the boils burst and spread, causing 2 [[harm]] (necrotic damage) that cannot be healed until the disease is cured.
+
+The disease and its symptoms last for up to 7 days, though a healthy individual can shake the symptoms in as few as 3 days.

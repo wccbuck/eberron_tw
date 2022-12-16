@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Moren",
         "tags": "[[Lhazaar Sea]] undead [[death knight]] [[Ship of Bones]]",
-        "modified": "20220215184203102",
+        "modified": "20221121053241331",
         "color": "#8C4606",
         "category": "entity",
-        "article": "Prince "
+        "article": "Prince ",
+        "tooltip": "death knight pirate who sails the Lhazaar Sea on a ship of bones"
     }
 ]

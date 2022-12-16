@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210723174647353
-modified: 20220825180231494
+modified: 20221205051916684
 tags: construct
 title: clockwork
 type: text/vnd.tiddlywiki
@@ -15,7 +15,7 @@ A gnome artisan values an individualized clockwork more highly than a perfectly 
 | 2 |//''Sensors.''// The clockwork gains [[darkvision]] and gains [[advantage]] on perception-based actions. |
 | 3 |//''Improved Armor.''// The clockwork's armor is stronger than usual. |
 | 4 |//''Increased Speed.''// The clockwork can move faster than usual. |
-| 5 |//''Reinforced Construction.''// The clockwork has high resistance to force, lightning, and thunder damage. |
+| 5 |//''Reinforced Construction.''// The clockwork has high resistance to [[force and lightning damage|damage type]]. |
 | 6 |//''Self-Repairing.''// The clockwork slowly regenerates damage. This effect can be temporarily suppressed if the clockwork suffers lightning damage. |
 | 7 |//''Sturdy Frame.''// The clockwork's ability to stay upright and withstand falls and impacts is enhanced. |
 | 8 |//''Suction.''// The clockwork gains the ability to climb walls. |
@@ -25,7 +25,7 @@ A gnome artisan values an individualized clockwork more highly than a perfectly 
 | !<<dr d10>> |!Malfunction |
 | 1 |//''Faulty Sensors.''// The clockwork is sporadically blinded. |
 | 2 |//''Flawed Targeting.''// The clockwork often misses attacks. |
-| 3 |//''Ground Fault.''// The clockwork is particularly vulnerable to lightning damage. |
+| 3 |//''Ground Fault.''// The clockwork is particularly vulnerable to [[lightning damage|damage type]]. |
 | 4 |//''Imprinting Loop.''// The clockwork periodically mistakes random creatures it sees for its creator. |
 | 5 |//''Leaking Lubricant.''// The clockwork becomes increasingly exhausted and eventually grinds to a halt. |
 | 6 |//''Limited Steering.''// The clockwork has a difficult time making tight turns. |

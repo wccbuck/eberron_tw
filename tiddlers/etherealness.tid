@@ -2,7 +2,7 @@ category: spell
 color: #B7A1E0
 created: 20210412010703786
 highertier: show
-modified: 20221102160624302
+modified: 20221205050044360
 tags: conjuration
 tier: 4
 title: etherealness
@@ -15,7 +15,7 @@ While in the [[Ethereal Veil]], you can only affect and be affected by other cre
 
 You ignore all objects and effects that aren't in the Veil, allowing you to move through objects you perceive on the [[plane]] you originated from.
 
-When the spell ends, you immediately return to the plane you originated from in the spot you currently occupy. If you occupy the same spot as a solid object or creature when this happens, you are immediately shunted to the nearest unoccupied space that you can occupy and suffer force damage proportional to the distance you traveled.
+When the spell ends, you immediately return to the plane you originated from in the spot you currently occupy. If you occupy the same spot as a solid object or creature when this happens, you are immediately shunted to the nearest unoccupied space that you can occupy and suffer [[force damage|damage type]] proportional to the distance you traveled.
 
 This spell has no effect if you cast it while you are in the [[Ethereal Veil]] or under an effect that inhibits planar travel.
 

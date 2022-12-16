@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210409191449051
-modified: 20220805184909514
+modified: 20221204004341129
 tags: Storyloom
 title: money
 tooltip: documentation page for the use of currency in Storyloom and Eberron
@@ -24,7 +24,7 @@ If you are playing an urban campaign, you might consider an optional ''lifestyle
 |''Wealthy'' |81–300c |Life of luxury, rich enough for a small staff of servants (1-3) |
 |''Aristocratic'' |301+c |Dine at the finest restaurants, retain the finest tailors, have servants for your every need |
 
-To simplify bookkeeping, you can use a "stash" system. For every 20c that you have stashed in a bank, you earn 1c towards your lifestyle tier cost each month. In addition, for every 20c you have stashed, the amount of money considered "negligible" for you also increases by 1c. So if you have 100c stashed in a bank, you don't need to keep track of individual expenditures of 5c or less.
+To simplify bookkeeping, you can use a "stash" system. For every 50c that you have stashed in a bank, you earn 1c towards your lifestyle tier cost each month. In addition, for every 50c you have stashed, the amount of money considered "negligible" for you also increases by 1c. So if you have 250c stashed in a bank, you don't need to keep track of individual expenditures of 5c or less.
 
 !! Typical Wages and Salaries
 
@@ -78,16 +78,16 @@ The following services are provided by House [[Jorasco]].
 
 !! Adventuring Gear Costs
 
-Below are some example costs for armor and weapons in a typical city in [[Khorvaire]]. These costs reflect House [[Cannith]] standard prices; custom-made artisan prices may be higher.
+Below are some example costs for [[armor]] and weapons in a typical city in [[Khorvaire]]. These costs reflect House [[Cannith]] standard prices; custom-made artisan prices may be higher.
 
 !!! Armor
 
 |!Item |!Average Cost |
 |shield |1c |
-|leather armor |1c |
-|chain shirt, scale mail |5c |
-|splint armor |20c |
-|plate armor |150c |
+|light armor (leather, hide) |1c |
+|medium armor (chain shirt, scale mail) |5c |
+|heavy armor (splint armor, breastplate with chain) |20c |
+|full plate armor |150c |
 
 !!! Weapons
 
@@ -95,7 +95,7 @@ Below are some example costs for armor and weapons in a typical city in [[Khorva
 |dagger, spear, whip |0.2–0.5c |
 |mace, bow, axe, shortsword |1c |
 |longsword, warhammer, glaive |2c |
-|crossbow, greatsword, greataxe |4c |
+|[[crossbow]], greatsword, greataxe |4c |
 
 !! Mundane Item Costs
 

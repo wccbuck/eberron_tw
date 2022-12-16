@@ -1,12 +1,12 @@
 category: spell
 color: #B7A1E0
 created: 20210801190203672
-modified: 20210801190350158
+modified: 20221205054615420
 tags: conjuration
 tier: 3
 title: thunder step
 type: text/vnd.tiddlywiki
 
-You teleport yourself to an unoccupied space you can see within 90 feet. Immediately after you disappear, a thunderous boom sounds, and each creature within 10 feet of the space you left must resist the shockwave or suffer damage. The thunder can be heard from up to 300 feet away.
+You teleport yourself to an unoccupied space you can see within 90 feet. Immediately after you disappear, a thunderous boom sounds, and each creature within 10 feet of the space you left must resist the shockwave or suffer [[force damage|damage type]]. The thunder can be heard from up to 300 feet away.
 
 You can bring along objects as long as their weight doesn't exceed what you can carry. You can also teleport one willing creature of your size or smaller. The creature must be within 5 feet of you when you cast this spell, and there must be an unoccupied space within 5 feet of your destination space for the creature to appear in; otherwise, the creature is left behind.

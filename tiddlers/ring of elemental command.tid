@@ -2,7 +2,7 @@ category: object
 charges: 5
 color: #41D5E1
 created: 20220711190245707
-modified: 20220712164414765
+modified: 20221205055914689
 tags: mobility protection communication destruction accessory jewelry
 tier: 5
 title: ring of elemental command
@@ -21,21 +21,21 @@ While wearing this ring, you have [[advantage]] on any hostile or opposed action
 
 <$reveal type="match" state="!!var1" text="air">
 
-You can fly as fast as you can walk, and you can hover. Even while unconscious, you are always under the effect of the [[feather fall]] spell. You also have resistance to lightning damage. 
+You can fly as fast as you can walk, and you can hover. Even while unconscious, you are always under the effect of the [[feather fall]] spell. You also have resistance to [[lightning damage|damage type]]. 
 
 This ring has 5 charges, and regains <<dr 1d4+1>> expended charges daily at dawn.  You can expend 2 of the ring's charges to cast [[dominate]] on an [[air elemental]]. You can also cast the following spells from the ring, expending the necessary number of charges: [[lightning bolt]] (2 charges), [[gale]] (1 charge), or [[wind wall]] (2 charges).
 
 </$reveal>
 <$reveal type="match" state="!!var1" text="earth">
 
-You can move through solid earth or rock at about half your normal walking speed, and your movement is not hindered at all by areas of rubble, rocky terrain, or loose sand. You also have resistance to acid damage.
+You can move through solid earth or rock at about half your normal walking speed, and your movement is not hindered at all by areas of rubble, rocky terrain, or loose sand. You also have resistance to [[acid damage|damage type]].
 
 This ring has 5 charges, and regains <<dr 1d4+1>> expended charges daily at dawn.  You can expend 2 of the ring's charges to cast [[dominate]] on an [[earth elemental]]. You can also cast the following spells from the ring, expending the necessary number of charges: [[earth tremor]] (1 charge), [[stoneskin]] (2 charges), or [[wall of stone]] (2 charges).
 
 </$reveal>
 <$reveal type="match" state="!!var1" text="fire">
 
-You are nearly immune to fire damage.
+You are nearly immune to [[fire damage|damage type]].
 
 This ring has 5 charges, and regains <<dr 1d4+1>> expended charges daily at dawn.  You can expend 2 of the ring's charges to cast [[dominate]] on a [[fire elemental]]. You can also cast the following spells from the ring, expending the necessary number of charges: [[burning hands]] (1 charge), [[fireball]] (2 charges), or [[wall of fire]] (2 charges).
 
