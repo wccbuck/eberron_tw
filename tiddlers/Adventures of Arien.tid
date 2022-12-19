@@ -1,6 +1,6 @@
 category: note
 created: 20220208023535083
-modified: 20221217233653548
+modified: 20221219221427464
 tags: 
 title: Adventures of Arien
 type: text/vnd.tiddlywiki
@@ -17,9 +17,20 @@ The adventures of [[Arien Grimbold]]!
 
 Zarantyr 1 998 YK
 
+!!! TODO
+
+* Flesh out leadership and survival class scenes.
+* Work on Sejra scenes.
+* Work on Day of Mourning protest scene at Cannith factory.
+
 !!! Magic Items
 
 Need to come up with cool [[magic item]]s to give to Arien.
+
+Some fun fey options:
+
+* [[hinderling sword]]
+* [[backup weapon]]
 
 !!! Fey Adventures
 
@@ -31,10 +42,27 @@ Need to come up with cool [[magic item]]s to give to Arien.
 ** [[The Wonderful Toymaker|https://en.wikipedia.org/wiki/The_Wonderful_Toymaker]]
 *** [[https://www.gutenberg.org/files/30400/30400-h/30400-h.htm#chap05]]
 *** This is [[Granny Nightshade|Skabatha Nightshade]]
-** [[The Elves and the Shoemaker|https://en.wikipedia.org/wiki/The_Elves_and_the_Shoemaker]]. This is about little folks ([[sprite]]s? [[pixie]]s?) helping out a craftsman and his family. This could be a chance for Arien to shrink down to mouse size like Alita very much wants her to do
+** [[The Elves and the Shoemaker|https://en.wikipedia.org/wiki/The_Elves_and_the_Shoemaker]]. This is about little folks ([[sprite]]s? [[pixie]]s?) helping out a craftsman and his family (the Colworn family). This could be a chance for Arien to shrink down to mouse size like Alita very much wants her to do (need help from the [[Guild of Starlight and Shadows]] to shrink to mouse size)
+*** Some kind of little fey that likes to tinker? Could just be [[pixies|pixie]]
+*** Or, do something with [[brigganock]]s. They're little craftsmen/architects; focus on this element, not so much the mining element
+**** Names: Trig, Zarli, Oyla, Golmo, Obud (lives in a hut on a pony named Keg, lowers a rope ladder to get down from the saddle straps), Pim, Zwee
+*** https://en.wikipedia.org/wiki/Heinzelm%C3%A4nnchen
+*** https://en.wikipedia.org/wiki/Brownie_(folklore)
+*** Household spirit, helps with chores, but can be a nuisance if offended; can be disposed of by giving a new set of clothing (they resent this).
+*** Brownies are kind of exactly what I want, but I don't know about the name. The Scottish Gaelic names for them just mean "brown" and "hairy". However, if I plug in "brown" into the [[Tolkien elvish dictionary|https://www.elfdict.com/w/brown?include_old=1]], one of the entries is "varne"; so what about "varney"? Other names: Fenodyree ("fenAH-theree", "fenOH-theree")
+*** Perhaps a family once had some little fey in their house that would help them make their [insert item here]. They made little clothes for them, after which the fey left. (like the story.) Maybe the fey also took some expensive tools with them. They ask Arien to help them talk to the fey and apologize for the offense, try to make them come back. Arien shrinks down to mouse size and finds the fey. Turns out, they loved the clothes, but some OTHER issue is taking their attention which is why they left. Arien helps them with this. Or, they did hate the clothes, and that gift and the ensuing resentment sparked a different issue:
+**** The fey made a set of automatons ("autovarneys"? "autobrigganocks"?) to do THEIR chores for them because they got lazy, but now the automatons are out of control (sorcerer's apprentice style). Use [[clockwork]]s for inspiration
+*** [[ring of alarm]]. The spell [[alarm]] doesn't work on creatures smaller than a rat. THIS is why she needs to shrink down. At the end of the quest she can keep the ring
+*** Could be that [[Snarik the Mauve]] is to blame for some invention that caused this problem, and now he wants help fixing it. He's the one that shrinks down Arien and Dowin (and maybe [[Ervol]] as well). So the little fey got offended because the family (the Colworns) accidentally left out spoiled milk. They went to Snarik for help, and he said to leave them a gift, but do NOT leave them clothing! (Or he at least THINKS he told them not to leave them clothing... surely he did. Wait... hmm, maybe not). So Mrs. Colworn knit little caps and sweaters for the fey, which they hated, and they left. The family went back to Snarik, who made them little automatons, but the resentful fey claimed them for themselves so they wouldn't have to do their own chores. Every time the Colworns try to go into the shed where the fey/constructs dwell, they vanish (it's because of the [[alarm]]) so that's why the party needs to get small
+*** The fey have "lost their motivation" and have gotten lazy and fat, the automatons do everything for them. Party has to literally find the motivation, which is being guarded by the head automaton.
+*** Other possible threats:
+**** An alchemy table covered with random unfinished magical potions, [[random magical effect]] when they're spilled
+**** Check Michael Crichton's list of action sequences in Micro (https://www.michaelcrichton.com/micro/). Good ones include being carried away by ants, encountering [[bombadier beetles|https://en.wikipedia.org/wiki/Bombardier_beetle]], falling from a great height (but they're fine because they basically have [[feather fall]]), spiders/webs
+
 ** [[The Smith and the Devil|https://en.wikipedia.org/wiki/The_Smith_and_the_Devil]]
 *** Could link this to [[Granny Nightshade|Skabatha Nightshade]]/Wonderful Toymaker
 * A note on the [[Assembly]]: "An [[artificer]] could have been blessed by the [[Forge Maiden]]; their artifice isn't arcane science, they simply create impossible, whimsical things."
+* From WBtWL: A tiny [[clockwork]] toad that hops and croaks when placed on the ground. If any creature licks the toad, all other creatures are invisible to that creature for 1 hour.
 
 !!! Second Semester Courses
 
@@ -43,7 +71,7 @@ Set up a [[progress clock]] for each of Arien's classes
 !!!! Military
 
 * Ethics/Leadership (taught by Prior [[Hemdoth Aggan]])
-** Examine historical leaders like [[Galifar]] and [[Boranel|Boranel ir'Wynarn]]. What traits do effective leaders exhibit?
+** Examine historical leaders like [[Galifar]], [[Wroann|Wroann ir'Wynarn]], and [[Boranel|Boranel ir'Wynarn]]. What traits do effective leaders exhibit?
 ** Skills: administrative, interpersonal, conceptual. Creating a vision. Resolving conflict.
 ** Path-goal theory of motivation. Overcoming obstacles:
 *** Unclear Goals
@@ -55,6 +83,8 @@ Set up a [[progress clock]] for each of Arien's classes
 *** Lack of Challenge
 ** [[Analects of War]]
 ** https://community.plu.edu/~kaurinpa/doc/syllabus-phil224.doc
+*** Lucas and Rubel: The Moral Foundations of Leadership
+*** Rubel: [[Case Studies|https://www.powells.com/book/case-studies-in-ethics-for-military-leaders-9781256166184]]. "Military Means and Military Ends", "Major Knight", "Justice or Mercy", "Loyalty v. Honor"
 * Wilderness Survival (maybe taught by Preceptor [[Cadoc Belmin]])
 ** Cadoc mentions serving in the Battle of [[Greenhaunt]] in 923 YK, at age 16. That would have been 75 years ago. Might also mention the legend of [[Horas Calt]].
 ** Survival equipment/kits, signaling
@@ -67,7 +97,7 @@ Set up a [[progress clock]] for each of Arien's classes
 ** [[Breland]] and the anti-monarchy movement. [[Ruken ir'Clarn]]. Arien knows that name since he's the count of the region surrounding [[Mistmarsh]].
 ** [[Thrane]] and the theocracy, [[Diani ir'Wynarn]] and the "blood regents" and the Throneholders who want to put her back in power
 ** [[Karrnath]] and [[Kaius ir'Wynarn III]]. How he was the one who called the summit that led to the [[Treaty of Thronehold]]. Learn about the history of the [[Blood of Vol]] within the region
-** [[Cyre]], [[Darguun]], and [[Valenar]].
+** [[Cyre]], [[Darguun]], and [[Valenar]]. [[New Cyre]].
 ** [[Aundair]] and the [[Eldeen Reaches]].
 
 !!!! Religion
@@ -84,10 +114,10 @@ Set up a [[progress clock]] for each of Arien's classes
 ** How to use one's divine gifts to directly combat evil
 ** Sejra speaks about her own religious philosophy. She calls the class "Practical Theology".
 ** Categories:
-*** [[undead]]
 *** [[fiend]]s ([[demon]]s/[[devil]]s)
-*** a subset of "common" [[monstrosities|monstrosity]]
-*** [[aberration]]s
+*** [[undead]]
+*** [[therianthrope]]s. Mention [[silvered weapon]] as well as [[mithral]]
+*** some "common" [[monstrosities|monstrosity]] and [[aberration]]s
 
 !! Scenes
 
@@ -105,13 +135,21 @@ Set up a [[progress clock]] for each of Arien's classes
 Classes start. (scene 1/4)
 
 * Leadership
+** 
 * Survival
+** 
 * Politics of Khorvaire
+** Succession crisis of [[Galifar]] that sparked the [[Last War]], and where each of the [[Five Nations]] stand today on the question of reuniting the kingdom
+** [[Breland]] and the anti-monarchy movement. [[Ruken ir'Clarn]]. Arien knows that name since he's the count of the region surrounding [[Mistmarsh]].
 * World Religions
+** [[Silver Flame]] ([[Marrath]] mentions many Vassals believe the Flame to simply be the light of [[Dol Arrah]])
 * Bestiary
+** [[Sejra Whitebinder]] calls her class "Practical Theology"
+** [[fiend]]s ([[demon]]s/[[devil]]s)
 
 Other scenes
 
+* [[Snarik the Mauve]] training scene with [[fiend]]s, get to use some lessons from Bestiary
 * Olarune 20: [[Day of Mourning]] (4th anniversary)
 ** Many Cyran refugees in or near [[Starilaskur]], make this a thing. Maybe even the [[Mourning Dawn]] mounts a terrorist attack on a [[Cannith]] foundry? Or just protests, damaged property. Maybe Arien has to keep the crowd calm.
 
@@ -128,6 +166,9 @@ Classes scene 2/4
 Other scenes
 
 * Could have a training scene with a [[Cannith crossbow]], perhaps a gift from [[Haldon d'Cannith]] after calming the riot last month.
+* Some folks are excited about the [[Dinsiin Night Market|Dinsiin (Dyn Singh) Night Market adventure notes]] coming back next month
+* Scene where [[Sejra|Sejra Whitebinder]] is arguing with [[Cadoc Belmin]]
+* Lunch with [[Dowin Lin Adredar]]. He says he met [[Snarik the Mauve]] who apparently caused some issue with one of his inventions. Sounds like an opportunity for an adventure, but first they need to buy a rare item (setting up Dinsiin, and also the shrink adventure).
 * Therendor 15: [[Sun's Blessing]]
 ** Definitely do something for this day, it's also the anniversary of Thrane's big attack on Starilaskur
 
@@ -143,7 +184,9 @@ Classes scene 3/4
 
 Other scenes
 
-* [[Dyn Singh Night Market|Dinsiin (Dyn Singh) Night Market adventure notes]], possibly with [[Dowin Lin Adredar]]
+* [[Dinsiin Night Market|Dinsiin (Dyn Singh) Night Market adventure notes]], possibly with [[Dowin Lin Adredar]]
+* [[Sejra Whitebinder]] tells Arien that an oath need not be such a sacrifice as long as it focuses one's faith. She says not everything needs to be a sacrifice; that's just a very [[Dol Arrah]] way of looking at the paladin's oath, but there are other paths.
+* Shrink-down adventure with Dowin?
 
 !!! Dravago
 
@@ -157,6 +200,7 @@ Classes scene 4/4
 
 Other scenes
 
+* Swear the [[Oath of the Ancients]]
 * Dravago 26: [[Aureon's Crown]]
 
 !!! Nymm
@@ -170,8 +214,7 @@ In [[Nymm]] (June), it's going to be runnelberry season. There's going to be a h
 
 !!! Lharvion
 
-
-Fey scenes involving [[Dowin Lin Adredar]]
+* [[Old Man Cord]]?
 
 
 
