@@ -1,13 +1,14 @@
 [
     {
         "created": "20210314063043458",
-        "title": "Katanavash",
         "text": "The [[Riedra]]n consul to [[Stormreach]] is Lord Katanavash. Lord Katanavash can\nread objects and gaze into the past. He is studying\n[[Stormreach]], using his powers to discover facts about\nthe city’s past. Like most [[Inspired]] ambassadors, he has\nno direct connection with the [[Dreaming Dark]], and\nDreaming Dark agents avoid any contact with him; however, if it is truly necessary, he can provide support to Dreaming Dark operations.\n\nLord Katanavash is a handsome and charismatic man, but he prefers his visions of the past to the present and avoids social contact whenever possible. Nonetheless, he has developed a reputation as a charming mediator and shrewd merchant and has hosted a few gatherings over the years. His assistant and guardian [[Hope|Hope (changeling)]] is primarily responsible for coordinating those events.\n\n!! Adventure Hooks\n\n* Lord Katanavash often walks about the city incognito to make full use of object reading and sensitivity to psychic impressions. During one of his strolls, he passes by the party at precisely the moment he triggers an ancient trap set during the [[quori]] incursion. The adventurers and the ambassador are caught in an extradimensional deathtrap—can they use their combined skills to escape the deadly maze?\n* When adventurers return from an expedition, Lord Katanavash contacts them and asks if he can use object reading on relics they have recovered. He is willing to pay them for this service, or they can share in the knowledge he discovers.\n* Any encounter with Lord Katanavash could turn out to be a meeting with [[Hope|Hope (changeling)]], who could become a rival or a romantic interest for a [[changeling]] PC.",
-        "modified": "20210727192016281",
+        "title": "Katanavash",
+        "modified": "20221219023352384",
         "tags": "Inspired humanoid [[Riedran Consulate (Stormreach)]] Stormreach psion",
         "type": "text/vnd.tiddlywiki",
         "article": "Lord ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "Riedran ambassador to Stormreach"
     }
 ]
