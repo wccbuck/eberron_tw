@@ -1,13 +1,14 @@
 [
     {
         "created": "20201217201405021",
-        "title": "Azhalar",
         "text": "Sultan Azhalar of High Hearth stands at the top of the social\norder in the [[City of Brass]]. He has assembled the grandest armies and enjoys\ndisplays of martial might, including exotic engines of war. His\ngalas often involve gladiatorial matches or grand war games.",
-        "modified": "20210727191956667",
+        "title": "Azhalar",
+        "modified": "20221219023314053",
         "tags": "efreeti elemental genie immortal [[City of Brass]]",
         "type": "text/vnd.tiddlywiki",
         "article": "Sultan ",
         "category": "entity",
-        "color": "#8C4606"
+        "color": "#8C4606",
+        "tooltip": "current ruler of the City of Brass in Fernia"
     }
 ]

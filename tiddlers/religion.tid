@@ -1,6 +1,6 @@
 color: #052c65
 created: 20200417022452769
-modified: 20220823212146373
+modified: 20221218000009774
 tags: [[organization type]]
 title: religion
 tooltip: tag for religious organizations, as well as a summary of religion in Eberron
@@ -48,13 +48,13 @@ table offers ideas that can help shape your story.
 !! Religions in Eberron
 
 <ul>
-<$list filter="[tag[religion]] -[tag[religion]tagging[]] +[sort[title]]">
+<$list filter="[[Sovereign Host]] [[Silver Flame]] [[Blood of Vol]] [[Dark Six]] [[Undying Court]] [[Spirits of the Past]] [tag[religion]![Sovereign Host]![Silver Flame]![Blood of Vol]![Dark Six]![Undying Court]![Spirits of the Past]sort[relevance]] -[tag[religion]tagging[]]">
 <li>{{!!article}}<$link/></li>
 <ul>
-<$list filter="[tag<currentTiddler>tag[religion]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<$list filter="[tag<currentTiddler>tag[religion]] -[tag<currentTiddler>tag[religion]tagging[]] +[sort[title]]">
 <li>{{!!article}}<$link/></li>
 <ul>
-<$list filter="[tag<currentTiddler>tag[religion]] -[tag<currentTiddler>tagging[]]+[sort[title]]">
+<$list filter="[tag<currentTiddler>tag[religion]] -[tag<currentTiddler>tag[religion]tagging[]] +[sort[title]]">
 <li>{{!!article}}<$link/></li>
 </$list>
 </ul>
