@@ -1,0 +1,13 @@
+caption: Vehicles
+created: 20221219232713285
+mode: edit
+modified: 20221219232732027
+tags: 
+title: $:/MyVehicles
+type: text/vnd.tiddlywiki
+
+!!! Saved Vehicles
+
+<div class="cs-column" style="justify-content: flex-start;">
+<$macrocall $name="list-data-draggable" tiddler="$:/MyStuffData" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="100%" filter="[category[object]tag[vehicle]!tag[fixed]]"/>
+</div>

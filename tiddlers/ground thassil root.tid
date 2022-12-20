@@ -1,0 +1,11 @@
+category: object
+color: #41D5E1
+created: 20221220002246904
+modified: 20221220010123474
+tags: poison
+tier: 1
+title: ground thassil root
+tooltip: a creature who consumes this poison falls asleep for a few hours
+type: text/vnd.tiddlywiki
+
+A creature that consumes this flavorless blue powder must resist its effects or else fall unconscious for <<dr 1d4>> hours. The poison first kicks in <<dr 2d6>> minutes after ingesting it; the affected creature becomes increasingly drowsy over the course of 10 to 15 seconds before falling unconscious.

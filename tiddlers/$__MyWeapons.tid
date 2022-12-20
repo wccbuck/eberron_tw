@@ -1,0 +1,13 @@
+caption: Weapons
+created: 20221219232212391
+mode: edit
+modified: 20221219232229099
+tags: 
+title: $:/MyWeapons
+type: text/vnd.tiddlywiki
+
+!!! Saved Weapons
+
+<div class="cs-column" style="justify-content: flex-start;">
+<$macrocall $name="list-data-draggable" tiddler="$:/MyStuffData" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="100%" filter="[category[object]tag[weapon]!tag[fixed]]"/>
+</div>

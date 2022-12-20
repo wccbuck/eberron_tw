@@ -1,0 +1,13 @@
+caption: Fixed
+created: 20221219232734817
+mode: edit
+modified: 20221219232752191
+tags: 
+title: $:/MyFixed
+type: text/vnd.tiddlywiki
+
+!!! Saved Fixed Objects
+
+<div class="cs-column" style="justify-content: flex-start;">
+<$macrocall $name="list-data-draggable" tiddler="$:/MyStuffData" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="100%" filter="[category[object]tag[fixed]]"/>
+</div>

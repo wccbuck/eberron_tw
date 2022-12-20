@@ -1,0 +1,13 @@
+caption: Implements
+created: 20221219232240377
+mode: edit
+modified: 20221219232318911
+tags: 
+title: $:/MyImplements
+type: text/vnd.tiddlywiki
+
+!!! Saved Magical Implements
+
+<div class="cs-column" style="justify-content: flex-start;">
+<$macrocall $name="list-data-draggable" tiddler="$:/MyStuffData" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="100%" filter="[category[object]tag[magical implement]!tag[fixed]]"/>
+</div>
