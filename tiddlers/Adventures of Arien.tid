@@ -1,6 +1,7 @@
 category: note
 created: 20220208023535083
-modified: 20221219221427464
+modified: 20221220210141278
+showmore: hide
 tags: 
 title: Adventures of Arien
 type: text/vnd.tiddlywiki
@@ -17,11 +18,11 @@ The adventures of [[Arien Grimbold]]!
 
 Zarantyr 1 998 YK
 
+<a href="##scenes">Jump to scenes</a>
+
 !!! TODO
 
-* Flesh out leadership and survival class scenes.
-* Work on Sejra scenes.
-* Work on Day of Mourning protest scene at Cannith factory.
+* []
 
 !!! Magic Items
 
@@ -33,6 +34,17 @@ Some fun fey options:
 * [[backup weapon]]
 
 !!! Fey Adventures
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h4>(Show Notes)</h4>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h4>(Hide Notes)</h4>
+</$button>
 
 [[Dowin Lin Adredar]] is investigating these things
 
@@ -64,6 +76,9 @@ Some fun fey options:
 * A note on the [[Assembly]]: "An [[artificer]] could have been blessed by the [[Forge Maiden]]; their artifice isn't arcane science, they simply create impossible, whimsical things."
 * From WBtWL: A tiny [[clockwork]] toad that hops and croaks when placed on the ground. If any creature licks the toad, all other creatures are invisible to that creature for 1 hour.
 
+</$reveal>
+
+
 !!! Second Semester Courses
 
 Set up a [[progress clock]] for each of Arien's classes
@@ -71,97 +86,99 @@ Set up a [[progress clock]] for each of Arien's classes
 !!!! Military
 
 * Ethics/Leadership (taught by Prior [[Hemdoth Aggan]])
-** Examine historical leaders like [[Galifar]], [[Wroann|Wroann ir'Wynarn]], and [[Boranel|Boranel ir'Wynarn]]. What traits do effective leaders exhibit?
-** Skills: administrative, interpersonal, conceptual. Creating a vision. Resolving conflict.
-** Path-goal theory of motivation. Overcoming obstacles:
-*** Unclear Goals
-*** Unclear Direction
-*** Low Motivation
-*** Complex Task
-*** Simple Task
-*** Low Involvement
-*** Lack of Challenge
-** [[Analects of War]]
-** https://community.plu.edu/~kaurinpa/doc/syllabus-phil224.doc
-*** Lucas and Rubel: The Moral Foundations of Leadership
-*** Rubel: [[Case Studies|https://www.powells.com/book/case-studies-in-ethics-for-military-leaders-9781256166184]]. "Military Means and Military Ends", "Major Knight", "Justice or Mercy", "Loyalty v. Honor"
 * Wilderness Survival (maybe taught by Preceptor [[Cadoc Belmin]])
-** Cadoc mentions serving in the Battle of [[Greenhaunt]] in 923 YK, at age 16. That would have been 75 years ago. Might also mention the legend of [[Horas Calt]].
-** Survival equipment/kits, signaling
-** Creating fire/shelter, first aid, water procurement/treatment, food procurement (traps, snares, wild edibles), improvised equipment, natural hazards, navigation.
-** "Survival thinking": will to survive, situational awareness, assessment, prioritization
-** In times of extreme need, one's faith can reach new heights. As those touched by the divine, we can use our desperation to enhance our power, or gain new skills. Purifying water, creating food, overcoming a hazard, making a signal - any of these can be a gift of the divine in times of need.
-** End this course with a "field trip"
 * Politics of Khorvaire (taught by Master Yonz (human))
-** Succession crisis of [[Galifar]] that sparked the [[Last War]], and where each of the [[Five Nations]] stand today on the question of reuniting the kingdom
-** [[Breland]] and the anti-monarchy movement. [[Ruken ir'Clarn]]. Arien knows that name since he's the count of the region surrounding [[Mistmarsh]].
-** [[Thrane]] and the theocracy, [[Diani ir'Wynarn]] and the "blood regents" and the Throneholders who want to put her back in power
-** [[Karrnath]] and [[Kaius ir'Wynarn III]]. How he was the one who called the summit that led to the [[Treaty of Thronehold]]. Learn about the history of the [[Blood of Vol]] within the region
-** [[Cyre]], [[Darguun]], and [[Valenar]]. [[New Cyre]].
-** [[Aundair]] and the [[Eldeen Reaches]].
 
 !!!! Religion
 
 * World Religions (taught by Master [[Marrath]])
-** Specifics for Marrath’s outdated grammar opinions. They prefer irregular verbs: “Pleaded” should be “pled”, “dived” should be “dove”, “dwelled” should be “dwelt” (https://theenglishspace.com/grammar/glossary/irregular-verbs/unusual-irregular-verbs/) . But also, “an” instead of “a” before words that start with H, Verb-first questions like “Saw you that?” instead of “Did you see that?” Also they hate “progressive passive” sentence structure and prefers middle voice / passival. So “I was being trained” -> “I was training”. Other sentences like “The clothes were soaking” make sense in modern language, as opposed to the progressive passive “The clothes were being soaked”. But to Marrath, even sentences like “The house is being built” should be “The house is building”. “The meal is being eaten” should be “The meal is eating”. 
-** [[Silver Flame]]
-*** “everyone knows that in the dawn of time, demons ruled the world, the Sovereigns fought them, and the demons were bound by the Silver Flame. Because of this, some Vassals actually believe the Sovereigns created the Silver Flame—it’s just the light of Dol Arrah, and templars are fools for not seeing this.“
-** [[Blood of Vol]]
-** [[Undying Court]] and [[Spirits of the Past]]
-** [[Path of Inspiration]], [[druid]]ic faiths, [[Cults of the Dragon Below]]
 * Bestiary (taught by Visitant [[Sejra Whitebinder]])
-** Monsters/fiends and their weaknesses
-** How to use one's divine gifts to directly combat evil
-** Sejra speaks about her own religious philosophy. She calls the class "Practical Theology".
-** Categories:
-*** [[fiend]]s ([[demon]]s/[[devil]]s)
-*** [[undead]]
-*** [[therianthrope]]s. Mention [[silvered weapon]] as well as [[mithral]]
-*** some "common" [[monstrosities|monstrosity]] and [[aberration]]s
 
 !! Scenes
 
-[Todo]
+<a id="#scenes"></a>
 
 !!! Zarantyr
 
 * The arrival of [[Sejra Whitebinder]]
 ** The demon Sejra bound, "Ravan-Eth", was a [[vrock]] from [[Shavarath]] that was set loose in the [[Greenhaunt]] several years ago. This creature's release was inadvertently caused by the wizard Ulros Jholivei during an illegal arcane weapons test, the same event that destroyed [[Lorsanna]]'s village.
 * Training: [[crossbow]]s. Arien trains with a [[SAC-12]], manufactured right there in [[Starilaskur]].
-* Unity dinner scene with [[Lorsanna]] and [[Cadoc Belmin]]. Someone will say something about how [[half-elves|half-elf]] need to stick together. Lorsanna might make a scene and leave, because Jholivei was a half-elf, and her mission is fresh on her mind due to the arrival of Sejra. Belmin will express sympathies because of his own bitterness but believes community is the path to healing.
+* Unity dinner scene with [[Lorsanna]] and [[Cadoc Belmin]]. Someone (Fellise, the priest who blesses the wine) will say something about how [[half-elves|half-elf]] need to stick together. Lorsanna might make a scene and leave, because Jholivei was a half-elf, and her mission is fresh on her mind due to the arrival of Sejra. "A man, a Khoravar, summons a demon in my village; my father, my sister, my neighbors, die agonizing deaths; and you think there is any future where I break bread with this man?" Belmin will express sympathies because of his own bitterness but believes community is the path to healing. 
+** Other folks: Sovelom (who told the story of [[Old Man Cord]]), and Paela.
 
 !!! Olarune
 
 Classes start. (scene 1/4)
 
 * Leadership
-** 
+** The Martial Temple of Dol Arrah is not a Brelish officers academy. After you graduate from here, you will not be expected to take command of any unit of the army or navy. Some of you //will// move on to be officers, but as a cleric or paladin of the Martial Temple, you will be a divinely gifted soldier and independent agent serving the interest of Breland. But you may be expected to work //with// the army or navy, or in extreme circumstances, take command of a platoon if there is no one else to do so. The war is indeed over... but for how long, no one can say. We need to be ready for action, which means more than simply being ready to fight. Each one of you should understand what it takes to be an effective and ethical leader.
+** It is important to recognize that decisions in the military are often life-or-death. With the gravity of those decisions comes a heavy moral burden. One needs to be prepared not only to make moral decisions, but to handle the aftermath. 
+** If I may relay a short anecdote. One novice of the temple I taught years ago was a veteran soldier. When talking about moral conscience, she asked me, "When my enemy is standing in front of me sword in hand, you want me to stop and deal with my moral conscience?" I said "No, I want you to deal with your moral conscience here, today, in my class, so that when the enemy is before you, you will have already dealt with it."
+** Examine historical leaders like [[Galifar]], [[Wroann|Wroann ir'Wynarn]], and [[Boranel|Boranel ir'Wynarn]]. What traits do effective leaders exhibit?
+*** [[Galifar Wynarn]]: 
+**** Shared his vision of a united kingdom, convinced others to follow him with his passion and tenacity. Motivated and inspired others to do great things.
+**** His vision for the kingdom of Galifar—the system of laws, the outlawing of slavery, the expansion of education—the vision, and the drive to make it a reality, and, after beginning the campaign with conquest, the wisdom to switch to diplomacy to bring his vision to bear.
+*** [[Wroann ir'Wynarn]]:
+**** Also made hard decisions, choosing to reject [[Mishann ir'Wynarn]]'s claim to the crown of [[Galifar]] over principles of democracy
+**** Empowered others, lifting the voices of her people through the elected officials of [[Parliament|Breland Parliament]]
+**** Demonstrated integrity, principled, consistent
+*** [[Boranel ir'Wynarn]]:
+**** Leads by example: fought first-hand in the [[Last War]], defeated an [[ogre]] chieftain as settlers fled the western Barrens, won hearts and minds
+**** Made hard decisions: not least of which, offering sanctuary to not only [[Cyran|Cyre]] refugees but to the Cyran polity. He didn't need to do this, but he acted on his principles
+**** Demonstrated integrity (see above)
+**** Recognize success, and empowered others: takes note of accomplished patriots and rewards and elevates them
 * Survival
-** 
+** Survival equipment/kits, signaling
+** Creating fire/shelter, first aid, water procurement/treatment, food procurement (traps, snares, wild edibles), improvised equipment, natural hazards, navigation.
 * Politics of Khorvaire
 ** Succession crisis of [[Galifar]] that sparked the [[Last War]], and where each of the [[Five Nations]] stand today on the question of reuniting the kingdom
 ** [[Breland]] and the anti-monarchy movement. [[Ruken ir'Clarn]]. Arien knows that name since he's the count of the region surrounding [[Mistmarsh]].
 * World Religions
 ** [[Silver Flame]] ([[Marrath]] mentions many Vassals believe the Flame to simply be the light of [[Dol Arrah]])
+** [[Tira Miron]], [[Keeper of the Flame]], [[Council of Cardinals]]
 * Bestiary
+** Monsters/fiends and their weaknesses. How to use one's divine gifts to directly combat evil
 ** [[Sejra Whitebinder]] calls her class "Practical Theology"
 ** [[fiend]]s ([[demon]]s/[[devil]]s)
+*** What is the difference between fiends, demons, and devils? (note devils' resistance to all but silvered weapons)
+*** Key point: Fiends are [[immortal]], so their essence can never be fully destroyed, only bound. Stronger fiends may come back with the same memories, personality, name, as they had before.
+*** Learn about [[abjuration]] and binding; [[dispel immortal]]
 
 Other scenes
 
 * [[Snarik the Mauve]] training scene with [[fiend]]s, get to use some lessons from Bestiary
-* Olarune 20: [[Day of Mourning]] (4th anniversary)
-** Many Cyran refugees in or near [[Starilaskur]], make this a thing. Maybe even the [[Mourning Dawn]] mounts a terrorist attack on a [[Cannith]] foundry? Or just protests, damaged property. Maybe Arien has to keep the crowd calm.
+** There's an old (illusory) [[cleric]], not combat-ready, but who can cast [[dispel immortal]]. One must weaken the fiend and protect the old cleric as he binds it.
+
+Olarune 20: [[Day of Mourning]] (4th anniversary)
+
+* Many Cyran refugees in or near [[Starilaskur]]; a protest forms in Gorgon Gates. Novice-master [[Wroenna Lonn]] assigns some [[paladin]]s and novices to observe the crowd, including [[Arien|Arien Grimbold]].
+* ''Gorgon Gates.'' House [[Cannith]] [[enclave]] here, led by Viceroy [[Haldon d'Cannith]]. Glass, pottery, and [[magic item]]s produced here, and the district's "spires" (smokestacks) are always churning out thick smoke, which settles on the poor adjacent Rookery district.
+* Protesters hold signs that say
+** "Cannith Is To Blame"
+** "Reparations!!"
+** "Come out in the sun, [[Vampire Prince|Haldon d'Cannith]]!"
+** "[[Whitehearth]] Designed The [[Mourning]]" 
+** "We Deserve Answers"
+** "The [[Mourning]] Started In [[Making]]"
+* If things get bad, perhaps a few members of the newly formed [[Mourning Dawn]] terrorist group tries to blow up the enclave with [[blast disk]]s. In addition to destruction, they also are trying to rush in and grab crates full of [[Cannith crossbow]]s.
+** Upon being apprehended and interrogated, these terrorists claim to be financially supported by a mysterious benefactor.
 
 !!! Therendor
 
 Classes scene 2/4
 
 * Leadership
+** When assuming the responsibilities of command, we must consider the three-way moral problem: the mission, vs. the risks to soldiers, vs. the risk to innocent civilians. The [[Treaty of Thronehold]], as well as our consciences, obligate us not to harm innocent non-combatants. Sometimes, the most important consideration will be the greater good for the whole. At other times, the principle cannot be compromised. And sometimes, the primary consideration will be, "Can I, and the soldiers under my command, live with this decision?"
+** Do not forget that you are touched by the divine. Your faith has allowed you to create miracles. Even if you don't feel a close connection to [[Dol Arrah]], meditate on her, invoke her, beseech her. She is the Sovereign of Wisdom in War. She will help you find the honorable, just decision. Sometimes this moment of reflection and prayer will open your eyes to things you've been blinded to. Your training makes you stronger but it also shapes your expectations, and in times of chaos, sometimes we only see what we expect to see. Let Dol Arrah cut through the darkness and reveal the situation to you as it truly is.
+** Study the [[Treaty of Thronehold]] and what it says about protection of prisoners of war, protection of civilians, and treatment of the wounded
 * Survival
+** "Some wild places are touched by the [[fey]]; for example, the [[Greenhaunt]] is closely tied to the [[Endless Weald]] of [[Thelanis]]. If you are trying to survive in such lands, you had better stay on the good side of the [[Forest Queen]] and her agents. Don't kill beasts with magic or for sport; honor any [[fey]] who cross your path and offer assistance if they need it; and respect your environment. That's what served [[Horas Calt]], the infamous bandit king of the Whistling Woods; he had allies among the fey of the Greenhaunt, and that's largely why it took the [[Sentinel Marshals]] so many years to bring him down. Hell, it served me too, when I was sixteen during the Battle of Greenhaunt. [Note: That would have been 75 years ago.] If I didn't respect the forest, if I didn't beseech the [[firbolg]]s who protect it... we would have lost many more lives. ...Anyway. I'm off track."
 * Politics of Khorvaire
+** [[Cyre]], [[Darguun]], and [[Valenar]]. [[New Cyre]].
 * World Religions
+** [[Blood of Vol]]
 * Bestiary
+** [[undead]]
 
 Other scenes
 
@@ -170,17 +187,38 @@ Other scenes
 * Scene where [[Sejra|Sejra Whitebinder]] is arguing with [[Cadoc Belmin]]
 * Lunch with [[Dowin Lin Adredar]]. He says he met [[Snarik the Mauve]] who apparently caused some issue with one of his inventions. Sounds like an opportunity for an adventure, but first they need to buy a rare item (setting up Dinsiin, and also the shrink adventure).
 * Therendor 15: [[Sun's Blessing]]
-** Definitely do something for this day, it's also the anniversary of Thrane's big attack on Starilaskur
+** The Temple holds a big festival, celebrating peace. Folks from the other four nations are expressly invited to the celebration, as it is a time for enemies to set aside their differences and commune.
+** However, it is also the anniversary of [[Thrane]]'s attack on [[Starilaskur]]. It was over eighty years ago, but many Brelish still curse Thrane on this day. So not many Thranish folks are in attendance.
+** The city guard and a division of the [[Redcloak Battalion]] is here keeping an eye on the crowd due to the terrorist threat last month.
+** The event includes various speakers, as well as a performance of ''Five Lives'', a bitter reflection on the tragedy of the [[Last War]], as seen through the eyes of five soldiers. Written by up-and-coming [[Sharn]] playwright [[Luca Syara]].
+
 
 !!! Eyre
 
 Classes scene 3/4
 
 * Leadership
+** Case study: Leave No One Behind
+
+<<<
+
+One of the most difficult moral decisions of command is to what degree to uphold the code "Leave No One Behind". How many healthy soldiers will I risk to bring home one wounded (or dead) soldier?
+
+[WIP]
+
+[A soldier goes missing in a dangerous manifest zone with minimal visibility. You send in a squad to look for him. They don't return. Do you send another squad? They're ready to go in an instant, they're trained and eager to save lives. But if you send them in, and they also vanish, how will you explain to their families? Every second counts.]
+
+<<<
+
 * Survival
+** "Survival thinking": will to survive, situational awareness, assessment, prioritization
+** In times of extreme need, one's faith can reach new heights. As those touched by the divine, we can use our desperation to enhance our power, or gain new skills. Purifying water, creating food, overcoming a hazard, making a signal—any of these can be a gift of the divine in times of need.
 * Politics of Khorvaire
+** [[Thrane]] and the theocracy, [[Diani ir'Wynarn]] and the "blood regents" and the Throneholders who want to put her back in power. [[Thaliost]]. Present Thrane as an unstable nation on the verge of a possible rift.
 * World Religions
+** [[Undying Court]] and [[Spirits of the Past]]
 * Bestiary
+** [[therianthrope]]s. Mention [[silvered weapon]] as well as [[mithral]]
 
 Other scenes
 
@@ -193,10 +231,44 @@ Other scenes
 Classes scene 4/4
 
 * Leadership
+** Case Study: Justice vs. Mercy.
+
+<<<
+You’re a commanding officer of a warship, and two soldiers have come to the captains mast for a non-judicial proceeding for the same offense. They were both on personal leave before the ship was scheduled to depart at 0800 on that particular morning. They were required to be aboard by 0700. However, they both took the same Orien carriage to the docks, which got stuck in traffic, and arrived at the pier 25 minutes after the ship departed. As captain, you have authority to decide their punishment.
+
+The maximum punishment you can give at a non-judicial proceeding is:
+
+* 45 days restriction (forbidden to leave the ship, extra duty after-hours)
+* Forfeiture of ½ of one month’s pay for 3 months
+* Reduction in rank one pay grade
+
+The “standard” punishment for missing ship’s movement is:
+
+* 30 days restriction
+* Forfeiture of ½ of one month’s pay for 2 months
+* If there was another mast offense in the last 12 months, reduction in rank
+
+Profile of accused:
+
+* Petty officer Barnaby: 24-year-old bachelor, known as a “wild man”. Has been to non-judicial proceedings twice in the last 3 years (charges of: disrespect towards a superior officer, and drunk and disorderly ashore). His division officer says he does a barely marginal job, and gets in trouble ashore frequently.
+* Petty officer Goodman: 29 years old, married with 4 children, ages 1 month to 9 years. He has never been to captains mast. His division officer says he is extremely responsible and always does his job well. He also volunteers aboard ship tutoring sailors, and serves as the ship’s drug abuse counselor.
+
+# What punishment do you give each sailor? Do you give them the same punishment, or different? Why?
+# What were the considerations in your decision in order of priority?
+
+<<<
 * Survival
+** Field trip (do this scene last)
 * Politics of Khorvaire
+** [[Karrnath]] and [[Kaius ir'Wynarn III]]. How he was the one who called the summit that led to the [[Treaty of Thronehold]]. Learn about the history of the [[Blood of Vol]] within the region
+** [[Aundair]] and the [[Eldeen Reaches]].
 * World Religions
+** [[Path of Inspiration]], [[druid]]ic faiths, [[Cults of the Dragon Below]]
 * Bestiary
+** some "common" [[monstrosities|monstrosity]] and [[aberration]]s
+
+Survival class field trip. Each student has a [[pop-up tent]], [[explorer's kit]], [[herbalism kit]], and [[healer's kit]]. Goal is to survive in the wilderness for one week, but are only give 3 days rations. A [[Tharashk]] hunter is standing by to search for any novices who go missing. Perhaps each novice also has a flare that sends a mental ping to that hunter, if a novice is in danger.
+
 
 Other scenes
 
