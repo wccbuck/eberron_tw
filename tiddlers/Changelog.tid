@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.20.1
-modified: 20221219032208014
+currentversion: 1.20.2
+modified: 20221220023038488
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,15 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.20.2 <span style="font-weight:normal">(Dec 19, 2022)</span>
+
+* Added subcategories to [[My Stuff]] (under My Items)
+* Changed the [[aid]] spell to be more akin to the 3.5E version (single target, morale boost). Also added [[potion of aid]].
+* Changed [[rarity]] of [[potion of water breathing]] to common.
+* Added [[ground thassil root]] and [[pit toxin]] poisons
+* Added a few fey items: [[feywine raisin]], [[night's mantle]], [[pixie music box]]
+* Added [[grig]] creature
 
 !!! 1.20.1 <span style="font-weight:normal">(Dec 18, 2022)</span>
 

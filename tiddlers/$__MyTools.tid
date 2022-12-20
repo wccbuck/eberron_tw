@@ -1,0 +1,14 @@
+caption: Tools
+created: 20221219232610729
+mode: edit
+modified: 20221219232922420
+tags: 
+title: $:/MyTools
+type: text/vnd.tiddlywiki
+
+\define toolsubfilter() [tag[tool]] [tag[scroll]] [tag[equipment pack]]
+!!! Saved Tools (Tools, Scrolls, Equipment Packs)
+
+<div class="cs-column" style="justify-content: flex-start;">
+<$macrocall $name="list-data-draggable" tiddler="$:/MyStuffData" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="100%" filter="[category[object]subfilter<toolsubfilter>!tag[fixed]]"/>
+</div>

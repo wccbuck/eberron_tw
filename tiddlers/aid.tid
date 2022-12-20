@@ -1,10 +1,19 @@
 category: spell
 color: #B7A1E0
 created: 20210501025623091
-modified: 20210727191953741
-tags: abjuration
+highertier: show
+modified: 20221219234516206
+tags: [[divine magic]] abjuration
 tier: 2
 title: aid
 type: text/vnd.tiddlywiki
 
-Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within 30 feet. Each target gains an extra temporary [[harm]] box for eight hours.
+Your spell bolsters your allies with toughness and resolve. You or one living creature you touch gains an [[advantage]] to resist fear or despair for the next 10 minutes. In addition, the target gains an extra temporary [[harm]] box which lasts for up to eight hours (or until it is filled).
+
+<$reveal type="match" state="!!highertier" text="show">
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as an rare-[[tier|spell tier]] spell, you may target up to three creatures within 30 feet, and the [[advantage]] to resist fear or despair lasts for 1 hour.
+
+</$reveal>

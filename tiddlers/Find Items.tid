@@ -1,7 +1,7 @@
 caption: Items
 created: 20201208004157407
 limit50: [limit[50]]
-modified: 20220218171620889
+modified: 20221219233400446
 tags: 
 title: Find Items
 type: text/vnd.tiddlywiki
@@ -32,7 +32,7 @@ See also the [[magic item]] and [[trinket]] pages.
 				</$list>
 			</$select>
 			</$vars>
-            &nbsp;&nbsp;<$checkbox tiddler="$:/config/Manager/Rarity0" field="text" unchecked="[!tier[0]]" checked="[is[tiddler]]">&nbsp;Include "—"</$checkbox>
+            &nbsp;&nbsp;<span title="Include items that have no defined rarity"><$checkbox tiddler="$:/config/Manager/Rarity0" field="text" unchecked="[!tier[0]]" checked="[is[tiddler]]">&nbsp;Include "—"</$checkbox></span>
 		</div>
 		<div class="tc-manager-control">
 			Object type: <$select tiddler="$:/config/Manager/ObjectType" default="">

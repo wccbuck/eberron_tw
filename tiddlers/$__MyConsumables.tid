@@ -1,0 +1,14 @@
+caption: Consumables
+created: 20221219232331316
+mode: edit
+modified: 20221219232456258
+tags: 
+title: $:/MyConsumables
+type: text/vnd.tiddlywiki
+
+\define consumablesubfilter() [tag[potion]] [tag[poison]] [tag[food]] [tag[drug]]
+!!! Saved Consumables (Potions, Poisons, Food, Drugs)
+
+<div class="cs-column" style="justify-content: flex-start;">
+<$macrocall $name="list-data-draggable" tiddler="$:/MyStuffData" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="100%" filter="[category[object]subfilter<consumablesubfilter>!tag[fixed]]"/>
+</div>
