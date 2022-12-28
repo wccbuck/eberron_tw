@@ -1,11 +1,11 @@
 color: #1E868E
 created: 20220218021018295
-modified: 20220805192947873
+modified: 20221223184351921
 tags: 
 title: weapon enhancement
 tooltip: tag for items which enhance the properties of a weapon
 type: text/vnd.tiddlywiki
 
-This tag indicates a [[tool]] or [[accessory]] that enhances the power or capabilities of a weapon.
+This [[item usage tag]] indicates a [[tool]] or [[accessory]] that enhances the power or capabilities of a weapon.
 
 !!! <<showitem-type>>

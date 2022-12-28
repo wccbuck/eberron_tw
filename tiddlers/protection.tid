@@ -1,11 +1,11 @@
 color: #1E868E
 created: 20220218020221991
-modified: 20220805145935637
+modified: 20221223184226424
 tags: 
 title: protection
 tooltip: tag for an item that is used to protect creatures from harm
 type: text/vnd.tiddlywiki
 
-This tag indicates a [[tool]] or [[accessory]] that is used to protect one or more creatures from harm.
+This [[item usage tag]] indicates a [[tool]] or [[accessory]] that is used to protect one or more creatures from harm.
 
 !!! <<showitem-type>>

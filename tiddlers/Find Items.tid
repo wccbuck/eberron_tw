@@ -1,7 +1,7 @@
 caption: Items
 created: 20201208004157407
 limit50: [limit[50]]
-modified: 20221219233400446
+modified: 20221223185112551
 tags: 
 title: Find Items
 type: text/vnd.tiddlywiki
@@ -41,17 +41,23 @@ See also the [[magic item]] and [[trinket]] pages.
 					<option value=<<tag>>><$text text=<<tag>>/></option>
 				</$list>
 			</$select>
+            &nbsp;Usage Tag: <$select tiddler="$:/config/Manager/ObjectTag3" default="">
+				<option value="">---</option>
+				<$list filter="[list[item usage tag]sort[title]]" variable="tag">
+					<option value=<<tag>>><$text text=<<tag>>/></option>
+				</$list>
+			</$select>
         </div>
 		<div class="tc-manager-control">
             Tag 1: <$select tiddler="$:/config/Manager/ObjectTag" default="">
 				<option value="">---</option>
-				<$list filter="[category[object]tag:strict{$:/config/Manager/ObjectType}has[tier]tags[]!title{$:/config/Manager/ObjectType}!title{$:/config/Manager/ObjectTag2}] [{$:/config/Manager/ObjectTag}!is[blank]] +[sort[title]]" variable="tag">
+				<$list filter="[category[object]tag:strict{$:/config/Manager/ObjectType}has[tier]tags[]!title{$:/config/Manager/ObjectType}!title{$:/config/Manager/ObjectTag2}!list[item usage tag]] [{$:/config/Manager/ObjectTag}!is[blank]] +[sort[title]]" variable="tag">
 					<option value=<<tag>>><$text text=<<tag>>/></option>
 				</$list>
 			</$select>
             &nbsp;Tag 2: <$select tiddler="$:/config/Manager/ObjectTag2" default="">
 				<option value="">---</option>
-				<$list filter="[category[object]tag:strict{$:/config/Manager/ObjectType}subfilter<obj-tag>has[tier]tags[]!title{$:/config/Manager/ObjectType}!title{$:/config/Manager/ObjectTag}] [{$:/config/Manager/ObjectTag2}!is[blank]] +[sort[title]]" variable="tag">
+				<$list filter="[category[object]tag:strict{$:/config/Manager/ObjectType}subfilter<obj-tag>has[tier]tags[]!title{$:/config/Manager/ObjectType}!title{$:/config/Manager/ObjectTag}!list[item usage tag]] [{$:/config/Manager/ObjectTag2}!is[blank]] +[sort[title]]" variable="tag">
 					<option value=<<tag>>><$text text=<<tag>>/></option>
 				</$list>
 			</$select>
@@ -59,7 +65,7 @@ See also the [[magic item]] and [[trinket]] pages.
 		<div class="tc-manager-control">
 			Exclude tag: <$select tiddler="$:/config/Manager/ExcludeObjectTag" default="">
 				<option value="">---</option>
-				<$list filter="[category[object]tag:strict{$:/config/Manager/ObjectType}has[tier]tags[]!title{$:/config/Manager/ObjectType}!title{$:/config/Manager/ObjectTag}!title{$:/config/Manager/ObjectTag2}] [{$:/config/Manager/ExcludeObjectTag}!is[blank]] +[sort[title]]"  variable="tag">
+				<$list filter="[category[object]tag:strict{$:/config/Manager/ObjectType}has[tier]tags[]!title{$:/config/Manager/ObjectType}!title{$:/config/Manager/ObjectTag}!title{$:/config/Manager/ObjectTag2}!title{$:/config/Manager/ObjectTag3}] [{$:/config/Manager/ExcludeObjectTag}!is[blank]] +[sort[title]]"  variable="tag">
 					<option value=<<tag>>><$text text=<<tag>>/></option>
 				</$list>
 			</$select>
@@ -77,7 +83,7 @@ See also the [[magic item]] and [[trinket]] pages.
 		</div>
 		<div class="tc-manager-control">
 		<$button><<resetobjects>>Reset All Fields</$button> <$button>
-<$action-chooserandom $filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/ObjectType}subfilter<obj-tag>subfilter<obj-tag2>!tag{$:/config/Manager/ExcludeObjectTag}subfilter{$:/config/Manager/Rarity}subfilter{$:/config/Manager/Rarity0}category[object]]" $nav="true"/>Open Random</$button>
+<$action-chooserandom $filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/ObjectType}subfilter<obj-tag>subfilter<obj-tag2>tag:strict{$:/config/Manager/ObjectTag3}!tag{$:/config/Manager/ExcludeObjectTag}subfilter{$:/config/Manager/Rarity}subfilter{$:/config/Manager/Rarity0}category[object]]" $nav="true"/>Open Random</$button>
 		</div>
 		<div class="tc-manager-control" align="right">
 			<$list filter={{$:/config/Manager/LimitObject}} variable="count">
@@ -91,7 +97,7 @@ See also the [[magic item]] and [[trinket]] pages.
 	<div class="tc-manager-list">
 		<table class="manager-table">
 		<tr><th align="left" class="th-sticky">Item</th><th align="left" width="100px" class="th-sticky">Rarity</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
-		<$list filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/ObjectType}subfilter<obj-tag>subfilter<obj-tag2>!tag{$:/config/Manager/ExcludeObjectTag}subfilter{$:/config/Manager/Rarity}subfilter{$:/config/Manager/Rarity0}category[object]sort[title]order{$:/config/Manager/ObjectSortOrder}sort{$:/config/Manager/ObjectSort}order{$:/config/Manager/ObjectSortOrder}subfilter{$:/config/Manager/LimitObject!!limit50}]">
+		<$list filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/ObjectType}subfilter<obj-tag>subfilter<obj-tag2>tag:strict{$:/config/Manager/ObjectTag3}!tag{$:/config/Manager/ExcludeObjectTag}subfilter{$:/config/Manager/Rarity}subfilter{$:/config/Manager/Rarity0}category[object]sort[title]order{$:/config/Manager/ObjectSortOrder}sort{$:/config/Manager/ObjectSort}order{$:/config/Manager/ObjectSortOrder}subfilter{$:/config/Manager/LimitObject!!limit50}]">
 		<tr><td><$link/></td>
 		<td>
 			<$transclude tiddler="$:/RarityNames" index={{!!tier}}/>

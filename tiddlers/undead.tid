@@ -1,15 +1,25 @@
 category: creature
 color: #58151c
 created: 20200418052523838
-modified: 20220805023240663
+modified: 20221223180947165
 title: undead
-tooltip: once-living creature animated by a supernatural force
+tooltip: once-living creature animated by a supernatural force, or the incorporeal spirit of a dead creature
 type: text/vnd.tiddlywiki
 
-Undead are once-living creatures that have been magically animated, or the incorporeal [[spirit]]s of dead creatures. Through the use of [[necromancy]], undead must be infused with the essence of either the plane of [[Mabar]] or the plane of [[Irian]]. 
+Undead are once-living creatures that have been magically animated, or the incorporeal [[spirit]]s of dead creatures. Some undead are formed spontaneously, such as [[ghost]]s and [[ghoul]]s; this is more likely to happen in [[manifest zone]]s to [[Mabar]] or [[Dolurrh]], or when those [[plane]]s are coterminous. Undead created through the use of [[necromancy]] must be infused with the essence of either the plane of [[Mabar]] or the plane of [[Irian]]. 
 
-Mabaran necromancy can create walking corpses such as [[zombie]]s and skeletons, as well as powerful creatures such as [[vampire]]s and [[lich]]es. This form of undead is commonly used as a tool by the followers of the [[Blood of Vol]] and members of the Order of the [[Emerald Claw]], and the nation of [[Karrnath]] even used animated corpses as soldiers in the [[Last War]] in order to protect their living combatants from the perilous front lines. Undead created by [[Mabar]]an [[necromancy]] must be sustained by feeding off of the living, a process which some say could potentially siphon away the very life force of Eberron.
+Mabaran necromancy can create walking corpses such as [[zombie]]s and skeletons, as well as powerful creatures such as [[vampire]]s, [[mummies|mummy]], and [[lich]]es. This form of undead is commonly used as a tool by the followers of the [[Blood of Vol]] and members of the Order of the [[Emerald Claw]], and the nation of [[Karrnath]] even used animated corpses as [[soldiers|Karrnathi undead]] in the [[Last War]] in order to protect their living combatants from the perilous front lines. Undead created by [[Mabar]]an [[necromancy]] must be sustained by feeding off of the living, a process which some say could potentially siphon away the very life force of Eberron.
 
 [[Irian]] [[necromancy]] can create undead known as [[deathless]], such as the members of the [[Undying Court]], the honored ancestors of [[Aerenal]] who rule the [[elven|elf]] nation and shape their people's destiny. These undead are sustained by the devotion of their descendents, and have no need for blood or life energy as other undead do.
+
+Some [[overlord]]s of the Material Plane, such as [[Katashka]] and [[Dral Khatuur]], can also create undead. These creatures are infused with negative energy much like [[Mabar]]an undead, but this energy originates from the overlords themselves, not Mabar.
+
+!! The Reality of Undead
+
+In the world of [[Eberron]], the existence of undead isn’t urban legend, but indisputable
+fact. [[Karrnath]] fielded [[legions of the dead|Karrnathi undead]] during the [[Last War]]. [[Ghoul|ghoul]]s are a persistent menace. It’s public record that entire villages have been destroyed by [[wight]]s. The Church of the [[Silver Flame]], in addition to being a religion, is also a volunteer militia prepared to protect innocents against the undead and
+other unnatural threats. Because of the efforts of the [[templar]]s of the Silver Flame and the [[paladin]]s of [[Dol Arrah]], most people in the [[Five Nations]] can reasonably hope they’ll never personally be menaced by undead. And most people haven’t actually seen a [[vampire]], let alone a [[lich]]—but they still know that these things are real.
+
+!
 
 !!! <<showcreature-type>>

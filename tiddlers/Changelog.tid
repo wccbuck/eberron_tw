@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.20.2
-modified: 20221220023038488
+currentversion: 1.20.3
+modified: 20221228230044437
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,23 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.20.3 <span style="font-weight:normal">(Dec 28, 2022)</span>
+
+* Added a bit to the [[undead]] page
+* Categorized [[item usage tag]]s into their own page, and made a separate tag selector on Find Items for these
+* The page for [[Kellas ir'Moran]] referred to [[Valenar]] 13 years before it existed; I fixed that
+* Added a bit to [[Vralkek]]
+* Added some player considerations on the [[Dol Arrah]] page
+* Added culture pages: 
+** [[Culture of Aundair]]
+** [[Culture of Breland]]
+** [[Culture of Thrane]]
+** [[Culture of Karrnath]]
+* Removed "Five Nations in 500 YK" map since it wasn't accurate
+* Added a bit more content to the pages of some [[Five Nations]] monarchs, mainly from the 4E campaign guide. Added a new page for [[Bortan ir'Wynarn]] (Boranel's son)
+* Added a bit to [[Noldrunhold]]
+* Significantly shrank the size of the [[Vermishards]] on the map. I made them a lot bigger previously to match the larger size of [[Metrol]] compared to the tiny city of the Five Nations map, but in so doing, I made them like 3 miles wide. They were more plateaus than towers. This way they match official descriptions better.
 
 !!! 1.20.2 <span style="font-weight:normal">(Dec 19, 2022)</span>
 
@@ -1177,7 +1194,7 @@ Miscellaneous:
 
 * Fixed "Find On Map" bug
 * Fixed animation scroll bug when closing tiddler
-* Made a "Galifar in 500YK" map and put it on the [[Five Nations]] and [[Galifar]] pages
+* Made a "Galifar in 500YK" map and put it on the [[Five Nations]] and [[Galifar]] pages (edit 12/28/22: removed this as it wasn't accurate)
 * Added [[blessing tree]]
 
 !!! 1.6.2 <span style="font-weight:normal">(Aug 29, 2021)</span>

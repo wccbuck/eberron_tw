@@ -1,10 +1,12 @@
 category: object
 color: #075157
 created: 20210718033310978
-modified: 20221215054257035
+modified: 20221223185626373
 tags: [[object type]]
 title: accessory
-tooltip: wearable item
+tooltip: tag for a wearable item that isn't necessarily armor
 type: text/vnd.tiddlywiki
+
+This is a tag for a wearable [[item|magic item]] that isn't necessarily armor.
 
 !!! <<showitem-type>>
