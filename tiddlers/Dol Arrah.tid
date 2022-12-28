@@ -1,7 +1,7 @@
 category: entity
 color: #8C4606
 created: 20200420211204563
-modified: 20220806215436403
+modified: 20221228193125689
 tags: [[Sovereign Host]] deity
 title: Dol Arrah
 tooltip: Sovereign of honor, wisdom, sacrifice, and the Sun
@@ -16,7 +16,7 @@ type: text/vnd.tiddlywiki
 <div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
 </$vars>
 
-Dol Arrah is the Sovereign of [[Sun]] and Sacrifice, the sun that drives away the darkness. She stands for wisdom in war and for those who fight with honor, pursue justice, and make sacrifices for the greater good. She is also the patron of [[paladin]]s, as well as peacemakers and diplomats. 
+Dol Arrah is the Sovereign of [[Sun]] and Sacrifice, the sun that drives away the darkness. She stands for wisdom in war and for those who fight with honor, pursue justice, and make sacrifices for the greater good. She is also the patron of [[paladin]]s, as well as generals, strategists, peacemakers, and diplomats. 
 
 To a lesser extent, she is also the patron of explorers, who bring the light of knowledge to dark places, and to all who revere the sun. Temples and shrines built to honor Dol Arrah often have large east-facing windows to let in the light of dawn. Dol Arrah also aids [[Arawai]] by lighting her way during the growing season. 
 
@@ -29,6 +29,32 @@ Dol Arrah's teachings are:
 According to the [[Pyrinean Creed]], Dol Arrah is the sister of [[Dol Dorn]] and the [[Mockery]].
 
 Notable temples of Dol Arrah in the [[Five Nations]] include the [[Citadel of the Sun]] located in [[Hope's Peak]] in [[Sharn]], and the [[Martial Temple of Dol Arrah]] in [[Starilaskur]].
+
+!! Playing a Paladin or Cleric of Dol Arrah
+
+Unlike a [[templar]] of the [[Silver Flame]], whose guiding principle is to defend the innocent against supernatural threats, a [[paladin]] of Dol Arrah //inspires//—they lead others into battle and to inspire them to fight with honor. Such [[paladin]]s might choose an [[Oath of Devotion]] or [[Oath of Glory]]. A [[cleric]] of Dol Arrah might choose the divine domain of [[War|War Domain]], [[Life|Life Domain]], [[Light|Light Domain]], or even [[Peace|Peace Domain]]; Dol Arrah also guides mediators and diplomats who prevent unnecessary bloodshed.
+
+If you’re playing a character devoted to Dol Arrah, remember that she doesn’t exist in isolation; she’s part of the [[Sovereign Host]], an interconnected pantheon whose members govern different situations. Dol Arrah may urge you to fight for justice, but it’s [[Onatar]] who puts steel in your hand and [[Dol Dorn]] who gives you the strength to swing it; for that matter, it’s [[Aureon]]’s laws that establish the nature of justice. If you are a servant of Dol Arrah, you have a special connection to the Warrior Sun that’s stronger than that of most people; she has called you to service and charged you to fight in her name. But you should still honor //all// of the Sovereigns in their place and time, and you may consider your [[spell]]s as originating from any of the Sovereigns when appropriate. When you issue a [[command]], you speak with [[Aureon]]’s voice. When you use [[summon steed]], you are calling on [[Balinor]]. When you cast [[bless]], you might ask [[Olladra]] for good fortune. 
+
+Beyond that, part of your duty as a champion of Dol Arrah is to embody her values: to stand up for justice, to spread light, and to inspire others to act with honor and wisdom. The [[Mockery]] might reveal the quickest path to victory, but Dol Arrah shows her champions how to win without compromising their morals, even if it requires risk or sacrifice.
+
+!!! What's Your War?
+
+While there are chivalric orders specifically devoted to [[Dol Arrah]], she doesn’t have a large standing force like the [[templar]]s of the [[Silver Flame]], because in the [[Vassal|Sovereign Host]] view, //all// soldiers are guided by Dol Arrah. When Dol Arrah chooses a champion and grants them [[divine power|divine magic]], there is a purpose to the power that she grants. Her divine champions aren’t generally charged to wander around looking for random injustice. When she calls a [[paladin]] or [[cleric]], she calls them to challenge a specific injustice, to defeat a specific enemy, to win a specific war. Consider the following possibilities:
+
+* You must defeat [[Breggan|Breggan Blackcrown]], the bandit queen of the [[Company of the Black Crown]]. 
+* You must overthrow [[Mika Rockface]] and help another person (a player character?) claim the [[Cloudreaver Principality|Cloudreavers]]. 
+* You must help the [[Boromar Clan]] defeat [[Daask]], or vice versa.
+* You must drive the [[Tairnadal]] from [[Valenar]]. 
+* You must defeat the Order of the [[Emerald Claw]] and destroy [[Lady Illmarrow]]. 
+* You must reunite the [[Eldeen Reaches]] and [[Aundair]]. 
+* You must restore the nation of [[Cyre]].
+
+The idea of Dol Arrah supporting the [[Boromar Clan]] or [[Daask]] may seem strange, but remember that Dol Arrah is present in //every// battle; if she appoints a champion to take a side, it’s because she has declared the cause to be just and because she expects her champion to fight with honor. She may order her [[paladin]] to fight alongside the Boromar Clan, but that doesn’t mean they should embrace the treacherous tactics of the Boromars; on the contrary, the champion should //inspire// the Boromars to be better, to show them how to win their war with honor. 
+
+The player and GM should work together to decide the nature of the character's war, and how important it will be to the campaign. Each adventure might be a clear battle in that war; alternatively, most adventures might just serve to hone the champion's skills, or to acquire allies. The GM must also consider how best to fit the other player characters into this war; you don't want one character to have a driving, overarching goal that no one else cares about. The player and GM must also decide how to proceed when a champion wins their war. Does the champion receive a new, even greater mission? Or are they allowed to rest, laying down their divine powers and obligations?
+
+As always, keep in mind that the Sovereigns don't manifest physically in [[Eberron]]. One's divine mission is a matter of faith, and the Sovereigns speak to Vassals through instinct and intuition. A champion may simply //know// what their mission is with a supernatural certainty; for example, when they hear [[Mika Rockface]], they simply know it is their destiny to bring her down. Alternatively, when they see Mika, they may see a vision of a bloody sword hanging over her, and when they see the player character destined to become prince of the [[Cloudreavers]], they see a crown floating over their head. Finally, the champion may have a [[celestial]] intermediary, such as a [[Shavaran|Shavarath]] [[angel]] who serves "Honor-In-War" and who feels compelled to guide the champion through their mission. This guide may appear in visions, or may be contacted directly through spells like [[commune]].
 
 !! {{!!title}} in Other Traditions
 

@@ -1,5 +1,5 @@
 created: 20201208005116699
-modified: 20220823211853828
+modified: 20221223185453180
 tags: $:/tags/Macro
 title: $:/core/macros/managermacros
 type: text/vnd.tiddlywiki
@@ -52,6 +52,7 @@ type: text/vnd.tiddlywiki
 <$action-setfield $tiddler="$:/config/Manager/ObjectType" text=""/>
 <$action-setfield $tiddler="$:/config/Manager/ObjectTag" text=""/>
 <$action-setfield $tiddler="$:/config/Manager/ObjectTag2" text=""/>
+<$action-setfield $tiddler="$:/config/Manager/ObjectTag3" text=""/>
 <$action-setfield $tiddler="$:/config/Manager/ExcludeObjectTag" text=""/>
 \end
 

@@ -2,7 +2,7 @@ category: event
 color: #A3CFBB
 created: 20210708190323839
 day: 6
-modified: 20211107002710033
+modified: 20221223204042005
 month: 5
 tags: [[Silver Flame]] holiday
 title: Baker's Night
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 ''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 On this night, families
-and friends gather to share magniﬁcent pastries and similar treats, prepared by bakers and confectioners faithful
+and friends gather to share magnificent pastries and similar treats, prepared by bakers and confectioners faithful
 to the [[Silver Flame]]. This is one of the most popular Flame holidays, particularly among children, yet it is also the least
 understood. It has been a tradition since the earliest days
 of the church, yet not even the [[Cathedral of the Silver Flame]] in

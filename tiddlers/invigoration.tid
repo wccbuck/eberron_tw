@@ -1,11 +1,11 @@
 color: #1E868E
 created: 20220220055956663
-modified: 20220805154544728
+modified: 20221223184210257
 tags: 
 title: invigoration
 tooltip: tag for an item which enhances the user's physical or magical capabilities
 type: text/vnd.tiddlywiki
 
-This tag indicates a [[potion]], [[tool]], or [[accessory]] that is used to enhance a creature's natural physical or magical capabilities, such as raw strength, stamina, or spellcasting power. This tag may have some overlap with the [[mobility]] and [[recovery]] tags.
+This [[item usage tag]] indicates a [[potion]], [[tool]], or [[accessory]] that is used to enhance a creature's natural physical or magical capabilities, such as raw strength, stamina, or spellcasting power. This tag may have some overlap with the [[mobility]] and [[recovery]] tags.
 
 !!! <<showitem-type>>

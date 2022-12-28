@@ -1,10 +1,12 @@
 category: object
 color: #075157
 created: 20210718033332609
-modified: 20221215054257040
+modified: 20221223185651753
 tags: [[object type]]
 title: tool
 tooltip: tag for items with a utilitarian purpose
 type: text/vnd.tiddlywiki
+
+This is a tag for an [[item|magic item]] with a utilitarian purpose.
 
 !!! <<showitem-type>>

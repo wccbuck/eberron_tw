@@ -1,11 +1,11 @@
 color: #1E868E
 created: 20220218014420426
-modified: 20220805145828151
+modified: 20221223184337298
 tags: 
 title: stealth
 tooltip: tag for an item that helps the user avoid detection
 type: text/vnd.tiddlywiki
 
-This tag indicates a [[tool]] or [[accessory]] which helps the user avoid detection. This includes items that use [[illusion]]s or other magical means to give others a false impression of reality.
+This [[item usage tag]] indicates a [[tool]] or [[accessory]] which helps the user avoid detection. This includes items that use [[illusion]]s or other magical means to give others a false impression of reality.
 
 !!! <<showitem-type>>

@@ -1,11 +1,11 @@
 color: #1E868E
 created: 20220218022048337
-modified: 20220805155620704
+modified: 20221223184233158
 tags: 
 title: storage
 tooltip: tag for an item which is used to store other items
 type: text/vnd.tiddlywiki
 
-This tag indicates a [[tool]] or [[accessory]] that is used to store other items. This includes extradimensional items such as the [[bag of holding]].
+This [[item usage tag]] indicates a [[tool]] or [[accessory]] that is used to store other items. This includes extradimensional items such as the [[bag of holding]].
 
 !!! <<showitem-type>>
