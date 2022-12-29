@@ -1,11 +1,11 @@
 add: 
-average: 7
+average: 6.5
 component: Dice Roller
 created: 20200410014544149
-dicestring: 2d6
+dicestring: d12
 max: 12
-modified: 20221220002640748
-result: 2 1
+modified: 20221229214707976
+result: 10
 title: $:/alerts/Dice
 type: text/vnd.tiddlywiki
 

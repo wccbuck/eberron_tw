@@ -1,6 +1,6 @@
 category: note
 created: 20220208023535083
-modified: 20221228232752754
+modified: 20221229215136216
 showmore: hide
 tags: 
 title: Adventures of Arien
@@ -22,8 +22,6 @@ The adventures of [[Arien Grimbold]]!
 
 !!! TODO
 
-* Conversations about Dinsiin Market. What does Snarik need? Why is Dowin helping? Is he mostly curious?
-* Flesh out "No one left behind" case study (just a bit)
 * Finish Dinsiin adventure
 * Find a way to include Kupo the [[couatl]] more. Maybe he helps during Dinsiin adventure?
 * When does [[Argonth]] move across the country? Could be a scene where they watch it go
@@ -32,10 +30,11 @@ The adventures of [[Arien Grimbold]]!
 
 Need to come up with cool [[magic item]]s to give to Arien.
 
+Just a nice-quality common-[[rarity]] sword made by Starilaskur Arms that self-cleans?
+
 Some fun fey options:
 
 * [[hinderling sword]]
-* [[backup weapon]]
 * [[ring of alarm]] in shrink adventure
 * Maybe [[jolly oozebeans]] in Dinsiin
 
@@ -108,18 +107,18 @@ Set up a [[progress clock]] for each of Arien's classes
 
 Classes scene 2/4
 
-* Leadership
+* Leadership (Prior [[Hemdoth Aggan]])
 ** When assuming the responsibilities of command, we must consider the three-way moral problem: the mission, vs. the risks to soldiers, vs. the risk to innocent civilians. The [[Treaty of Thronehold]], as well as our consciences, obligate us not to harm innocent non-combatants. Sometimes, the most important consideration will be the greater good for the whole. At other times, the //principle// cannot be compromised. And sometimes, the primary consideration will be, "Can I, and the soldiers under my command, live with this decision?"
 ** Do not forget that you are touched by the divine. Your faith has allowed you to create miracles. Even if you don't feel a close connection to [[Dol Arrah]]: meditate on her, invoke her, beseech her. She is the Sovereign of Wisdom in War. She will help you find the honorable, just decision. Sometimes this moment of reflection and prayer will open your eyes to things you've been blinded to. Your training makes you stronger but it also shapes your expectations, and in times of chaos, sometimes we only see what we expect to see. Let Dol Arrah cut through the darkness and reveal the situation to you as it truly is.
 ** Study the [[Treaty of Thronehold]] and what it says about protection of prisoners of war, protection of civilians, and treatment of the wounded
-* Survival
+* Survival (Preceptor [[Cadoc Belmin]])
 ** "Some wild places are touched by the [[fey]]; for example, the [[Greenhaunt]] is closely tied to the [[Endless Weald]] of [[Thelanis]]. If you are trying to survive in such lands, you had better stay on the good side of the [[Forest Queen]] and her agents. Don't kill beasts with magic or for sport; honor any [[fey]] who cross your path and offer assistance if they need it; and respect your environment. That's what served [[Horas Calt]], the infamous bandit king of the Whistling Woods; he had allies among the fey of the Greenhaunt, and that's largely why it took the [[Sentinel Marshals]] so many years to bring him down. Hell, it served me too, when I was sixteen during the Battle of Greenhaunt. [Note: That would have been 75 years ago.] If I didn't respect the forest, if I didn't beseech the [[firbolg]]s who protect it... we would have lost many more lives. ...Anyway. I'm off track."
-* Politics of Khorvaire
+* Politics of Khorvaire (Master Yonz (human))
 ** [[Cyre]], [[Darguun]], and [[Valenar]]. [[New Cyre]].
-* World Religions
+* World Religions (Master [[Marrath]])
 ** [[Blood of Vol]]
-* Bestiary
-** [[undead]]. Differentiate between "spontaneous undead" (which form in [[manifest zone]]s and during coterminous periods with Mabar and Dolurrh) vs undead created through the use of [[necromancy]]. Sejra says there's also [[deathless]], but they're an entirely different category and you won't typically be fighting them anyway.
+* Bestiary (Visitant [[Sejra Whitebinder]])
+** [[undead]]. Differentiate between "spontaneous undead" (which form in [[manifest zone]]s and during coterminous periods with [[Mabar]] and [[Dolurrh]]) vs undead created through the use of [[necromancy]]. Sejra says there's also [[deathless]], but they're an entirely different category and you won't typically be fighting them anyway.
 *** Spontaneous undead (any of these can be created too):
 **** [[ghoul]]s
 **** [[ghost]]s
@@ -137,6 +136,8 @@ Other scenes
 * Some folks are excited about the [[Dinsiin Night Market|Dinsiin (Dyn Singh) Night Market adventure notes]] coming back next month
 * Scene where [[Sejra|Sejra Whitebinder]] is arguing with [[Cadoc Belmin]]
 * Lunch with [[Dowin Lin Adredar]]. He says he met [[Snarik the Mauve]] who apparently caused some issue with one of his inventions. Sounds like an opportunity for an adventure, but first they need to buy a rare item (setting up Dinsiin, and also the shrink adventure).
+** Snarik is making a "Metamorphic Spatial Condenser", and he needs a "Symphonious Gyroscopic Stabilizer" for it.
+** Dowin is curious about Snarik's magic and wants to help in order to learn more about his particular brand of [[Sympathetic Theory]]. He says other members of the [[Guild of Starlight and Shadows]] have fascinating "magical thinking" style of artifice; one bakes mystical pies, another sews shadows together.
 * Therendor 15: [[Sun's Blessing]]
 ** The Temple holds a big festival, celebrating peace. Folks from the other four nations are expressly invited to the celebration, as it is a time for enemies to set aside their differences and commune.
 ** However, it is also the anniversary of [[Thrane]]'s attack on [[Starilaskur]]. It was over eighty years ago, but many Brelish still curse Thrane on this day. So not many Thranish folks are in attendance.
@@ -144,34 +145,37 @@ Other scenes
 ** The event includes various speakers, as well as a performance of ''Five Lives'', a bitter reflection on the tragedy of the [[Last War]], as seen through the eyes of five soldiers. Written by up-and-coming [[Sharn]] playwright [[Luca Syara]].
 ** A young, haughty [[Aundair]]ian [[eldritch knight]] of the [[Knights Arcane]] named Firmand challenges Arien to a duel. It's seen as poor taste since the holiday is supposed to celebrate peace, but the knight asserts this is just friendly competition.
 *** Taunts Arien, saying how Aundair's martial capabilities vast exceed Breland's. How Aundair's [[wandslinger]]s far outstrip Breland's, and even their paladins are mightier. He says how absurd it is that Breland would be home to the Martial Temple of Dol Arrah; he laughs as he says it's ridiculous to think that the skeptical Brelish would have faith in anything other than cold hard cash.
-*** He can cast [[booming blade]], [[blade ward]], [[absorb elements]], [[shocking grasp]], and [[lightning lure]].
+*** He can cast [[booming blade]], [[shocking grasp]], and [[lightning lure]]. He also has [[Weapon Bond]].
 
 !!! Eyre
 
 Classes scene 3/4
 
-* Leadership
+* Leadership (Prior [[Hemdoth Aggan]])
 ** Case study: Leave No One Behind
 
 <<<
 
 One of the most difficult moral decisions of command is to what degree to uphold the code "Leave No One Behind". How many healthy soldiers will I risk to bring home one wounded (or dead) soldier?
 
-[WIP]
+You are in command of a platoon of soldiers, made up of five squads of eight soldiers. You are charged with a patrol mission along the edge of the [[Mournland]]. A thick fog rises, and you receive a report that one of your soldiers has gone missing. You send one of your squads to search for the missing soldier. Because of the thick fog, the squad and the main company will use bugles to communicate.
 
-[A soldier goes missing in a dangerous manifest zone with minimal visibility. You send in a squad to look for him. They don't return. Do you send another squad? They're ready to go in an instant, they're trained and eager to save lives. But if you send them in, and they also vanish, how will you explain to their families? Every second counts.]
+After one hour, the squad stops responding to bugle calls. 
+
+All of your soldiers are well trained, ready to go in an instant, and eager to find their missing companions. Do you send in another search squad? If you send them, what will you do if they too go missing? Do you instead cut your losses? Regardless of your choice, how will you explain your choice to the families of the missing? Every second counts.
 
 <<<
 
-* Survival
+* Survival (Preceptor [[Cadoc Belmin]])
 ** "Survival thinking": will to survive, situational awareness, assessment, prioritization
 ** In times of extreme need, one's faith can reach new heights. As those touched by the divine, we can use our desperation to enhance our power, or gain new skills. Purifying water, creating food, overcoming a hazard, making a signal—any of these can be a gift of the divine in times of need.
-* Politics of Khorvaire
+* Politics of Khorvaire (Master Yonz (human))
 ** [[Thrane]] and the theocracy, [[Diani ir'Wynarn]] and the "blood regents" and the Throneholders who want to put her back in power. [[Thaliost]]. Present Thrane as an unstable nation on the verge of a possible rift.
-* World Religions
+* World Religions (Master [[Marrath]])
 ** [[Undying Court]] and [[Spirits of the Past]]
-* Bestiary
+* Bestiary (Visitant [[Sejra Whitebinder]])
 ** [[therianthrope]]s. Mention [[silvered weapon]] as well as [[mithral]]
+** [[Silver Crusade]]
 
 Other scenes
 
@@ -184,7 +188,7 @@ Other scenes
 
 Classes scene 4/4
 
-* Leadership
+* Leadership (Prior [[Hemdoth Aggan]])
 ** Case Study: Justice vs. Mercy.
 
 <<<
@@ -211,14 +215,14 @@ Profile of accused:
 # What were the considerations in your decision in order of priority?
 
 <<<
-* Survival
+* Survival (Preceptor [[Cadoc Belmin]])
 ** Field trip (do this scene last)
-* Politics of Khorvaire
+* Politics of Khorvaire (Master Yonz (human))
 ** [[Karrnath]] and [[Kaius ir'Wynarn III]]. How he was the one who called the summit that led to the [[Treaty of Thronehold]]. Learn about the history of the [[Blood of Vol]] within the region
 ** [[Aundair]] and the [[Eldeen Reaches]].
-* World Religions
+* World Religions (Master [[Marrath]])
 ** [[Path of Inspiration]], [[druid]]ic faiths, [[Cults of the Dragon Below]]
-* Bestiary
+* Bestiary (Visitant [[Sejra Whitebinder]])
 ** some "common" [[monstrosities|monstrosity]] and [[aberration]]s
 
 Survival class field trip. Each student has a [[pop-up tent]], [[explorer's pack]], [[herbalism kit]], and [[healer's kit]]. Goal is to survive in the wilderness for one week, but are only give 3 days rations. A [[Tharashk]] hunter is standing by to search for any novices who go missing. Perhaps each novice also has a flare that sends a mental ping to that hunter, if a novice is in danger.
