@@ -1,11 +1,13 @@
 category: note
 created: 20221216183023016
-modified: 20221230011136111
+modified: 20221230211640132
 tags: [[Adventures of Arien]]
 title: Dinsiin (Dyn Singh) Night Market adventure notes
 type: text/vnd.tiddlywiki
 
 Based on the "Salted Legacy" adventure in Journeys through the Radiant Citadel. The night market in [[Starilaskur]] opens in mid-Eyre each year and runs until mid-Sypheros ([[Khorvaire calendar]]). Nights get too cold the rest of the year.
+
+<a href="##marketgames">Jump to market games</a>
 
 !! Summary
 
@@ -117,6 +119,8 @@ The shop owner speculates other vendors would view Arien as more than just a vis
 
 !! Market Games
 
+<a id="#marketgames"></a>
+
 Arien can increase her renown among the Dinsiin Night Market's vendors by participating in the Market Games. Renown is a numerical value that starts at zero. Each Market Game grants 1 renown for winning the event, and participating in all three grants 1 renown since the locals respect her tenacity (3 renown max). The vendors grow more willing to share information with Arien as her renown increases (see the "What Vendors Know" section below).
 
 All Arien needs to do to participate in a Market Game is show up at an event tent and ask to compete. The games run several times throughout the evening. 
@@ -126,7 +130,7 @@ After each Market Game, or whenever Arien is away from the Tyenmo and Zunguun sh
 | !<<dr d4>> |!Market Mischief |
 | 1 |A fire at Zunguun Family Seafood causes the stall's right leg to collapse. The stall is now crooked. |
 | 2 |Two dozen vanilla buns are missing from Vada's Otherworldly Goods. A trail of powdered sugar leads to Tyenmo Noodles. |
-| 3 |Gammon spots a large wok and many utensils from Tyenmo Noodles at Zunguun Family Seafood (or vice versa.)
+| 3 |Gammon spots a large wok and many utensils from Tyenmo Noodles at Zunguun Family Seafood (or vice versa.) |
 | 4 |A considerable amount of money was stolen from either the Tyenmo or Zunguun shop. |
 
 The Market Games take place inside three golden tents located in the Event Grounds, which are situated in the center of the Dinsiin Night Market. Vendors sponsor events to advertise their wares and attract visitors to the market. The current sponsor of each tent decides how its interior is arranged. The following three events are now being hosted:
@@ -137,7 +141,48 @@ The Market Games take place inside three golden tents located in the Event Groun
 
 !!! Annarik Family Pepper Challenge
 
-[WIP]
+The Spicy Brothers, [[Kelber|Kelber Annarik]] and Vi Annarik, are energetic and eccentric lovers of all things spicy. They sponser the Annarik Family Pepper Challenge in the southwest event tent. This test of fortitude and willpower was created by their father years ago, and it's a tradition they've kept up now that they own the family business.
+
+One of the Spicy Brothers' assistants, a human garbed in garish red-and-green uniform, welcomes characters who seek to participate in the Annarik Family Pepper Challenge. The assistant outlines the rules:
+
+* Participants sit at a table with a basket of mixed peppers and several pitchers of milk.
+* During each of the event's rounds, participants must select one pepper from the basket and eat it.
+* Any participant who reaches for the milk or leaves the table is eliminated.
+* The last participant remaining is the winner! (Alternatively, all remaining participants after six rounds are considered winners.)
+
+Violence and magic are not permitted during the event, but no one checks for magical effects cast prior to the competition.
+
+If Arien agrees to the rules, the assistant asks her to wait a few moments for the next event to begin. Three other contenders join the event from the audience (or these could be friends of Arien).
+
+After a short wait, the participants are escorted into the main area of the tent.
+
+<<<
+A crowd applauds from nearby bleachers as you're led into the broad, open space of the event tent. Before you is a square table bearing a massive basket of colorful peppers and several pitchers of milk.
+
+"Welcome, challengers, to the Annarik Family Pepper Challenge!" shouts a bombastic announcer standing near the table and wearing a red, pepper-themed costume. "I'm your host, Vi Annarik! Is everybody ready to Greet. The. Heat!?"
+<<<
+
+The challengers are directed to sit at the table. As soon as they're seated, Vi briefly recaps the rules and asks if there are any questions. Once any questions are addressed, the challenge begins.
+
+!!!! Running the Challenge
+
+The challenge unfolds over up to six rounds, with challengers eating their peppers one at a time. Each participating character must choose a pepper from the basket and eat it. The peppers are from the Spicy Brothers' unique stock, and nothing about them reveals their taste or intensity (though Arien might make an attempt to identify them with Study+Intellect). A random pepper is chosen from the table below (or the GM chooses based on the success of Arien's identify attempt). Arien then makes an Operate+Vigor attempt. Start a six-segment [[progress clock]]. If her attempt is a [[full success]], she manages to eat the pepper with no trouble. On a [[partial success]], she eats the pepper but fills the progress clock according to the pepper's spiciness. On a [[bad outcome]], she fills the progress clock AND increases the [[risk]] for each future pepper. (Only once during the competition, Arien can choose to take a point of [[harm]] instead of filling the progress clock.) If the progress clock fills completely, Arien either reflexively reaches for the milk or leaves the table. Either way, she loses.
+
+Vi offers color commentary during the event, encouraging the crowd to cheer participants and daring competitors to take dramatic bites.
+
+| !<<dr d10>> |!Spicy Pepper |
+| 1 |''Dud!'' This pepper is not a pepper, but a cherry tomato. Automatic success. |
+| 2-5 |''Common Pepper.'' Risk: low (1 segment on progress clock). |
+| 6-7 |''Sweet Heat Pepper.'' Risk: moderate (2 segments). This pepper is hot but delicious. You do not have elevated risk when eating this pepper if you would normally have it as a result of eating a previous pepper. |
+| 8 |''Burning Waves Pepper.'' Risk: low. The heat from this pepper comes in waves; you must make two attempts against this pepper (or one [[critical|full success]]). |
+| 9 |''Flamethrower.'' Risk: moderate. If you get a [[partial success]] or [[bad outcome]] against this pepper, you belch or gasp spice into the air. Another participant suffers increase risk on their next attempt. |
+| 10 |''Skull-Face Pepper.'' Risk: high. The spice is intense. For an instant, every participant's face looks like a skull to you. This is unsettling but has no other effect. |
+
+!!!! Ending the Challenge
+
+When only one participant remains (or six rounds pass), the challenge ends. Winners and losers alike are rewarded with big bowls of creamy yogurt. Any character who wins the challenge gains 1 renown with the Dinsiin Night Market's vendors.
+
+After the challenge is completed, Arien can ask Vi for information about the thefts (see the "What Vendors Know" section below). Soon after Arien starts questioning Vi or as she leaves the tent, Kelber arrives with news regarding trouble in the market. Roll on the Market Mischief table above to determine what has transpired.
 
 !!! Battle Prawn Challenge
 
