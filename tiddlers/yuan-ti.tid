@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210112064116895
-modified: 20220829034626069
+modified: 20230104005539097
 tags: shapechanger humanoid monstrosity
 title: yuan-ti
 tooltip: vicious snakelike humanoid
@@ -13,6 +13,14 @@ var3: ya
 Yuan-ti are devious serpent folk devoid of compassion. A yuan-ti views the world and the events of its own life with such extreme pragmatism that it is nearly impossible to manipulate, influence, or control by nonmagical means, even as it seeks to control other creatures through terror, pleasure, and awe.
 
 No two yuan-ti look exactly the same. Both the snakelike and the humanlike portions of a yuan-ti's anatomy exhibit a wide variety of shapes and colorations. Because a yuan-ti's appearance is mostly inherited, in small settlements all the yuan-ti look somewhat alike, while larger settlements see more intermixing, which produces a wider range of results.
+
+!! Links to Headers
+* <<scrollToHeader "Origins of the Yuan-Ti">>
+** <<scrollToHeader "Evil by Nature?">>
+* <<scrollToHeader "Yuan-Ti Names">>
+* <<scrollToHeader "Alternative: Yuan-Ti as a New Mutation">>
+* <<scrollToHeader "Types of Yuan-ti">>
+* <<scrollToHeader "Notes">>
 
 !! Origins of the Yuan-Ti
 

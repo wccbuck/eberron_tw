@@ -2,7 +2,7 @@ alternatetitle: drakatha
 category: creature
 color: #EA868F
 created: 20210207085610657
-modified: 20220805222124234
+modified: 20230104002713731
 tags: humanoid dragon
 tier: 1
 title: dragonborn
@@ -11,6 +11,14 @@ type: text/vnd.tiddlywiki
 var: uncommon
 
 "Born of [[dragon]]s", as their name proclaims, the dragonborn ([[Draconic]]: //drakatha//) walk proudly through a world that greets them with fearful incomprehension. While they originated in the mysterious continent of [[Argonnessen]], they are known to the people of [[Khorvaire]] as one of the "[[scales]]" of [[Q'barra]].
+
+!! Links to Headers
+* <<scrollToHeader "Dragonborn Biology">>
+* <<scrollToHeader "Dragonborn of Argonnessen">>
+* <<scrollToHeader "Exodus to Q'barra">>
+* <<scrollToHeader "The Clans of Ka'rhashan">>
+* <<scrollToHeader "Q'barran Dragonborn Culture">>
+* <<scrollToHeader "Notes">>
 
 !! Dragonborn Biology
 

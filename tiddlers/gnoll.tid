@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200423050207895
-modified: 20220729164226112
+modified: 20230104004137508
 tags: humanoid monstrosity
 tier: 2
 title: gnoll
@@ -17,6 +17,17 @@ Since standing together and being bound by this
 any other force, and have never sought to conquer.
 Instead, they sell their services as hunters and soldiers, serving all warlords. The gnolls are trusted
 across [[Droaam]]. 
+
+!! Links to Headers
+* <<scrollToHeader "Gnoll Characteristics">>
+** <<scrollToHeader "Lifespan">>
+** <<scrollToHeader "Bone Eaters">>
+** <<scrollToHeader "Pack Instincts">>
+** <<scrollToHeader "Casual Aggression">>
+** <<scrollToHeader "Cunning Hunters">>
+** <<scrollToHeader "Working Relationships">>
+** <<scrollToHeader "Communication and Names">>
+* <<scrollToHeader "Notes">>
 
 !! Gnoll Characteristics
 

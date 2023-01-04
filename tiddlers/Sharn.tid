@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200410005743410
-modified: 20221121184643601
+modified: 20230103234212114
 points: 20.188,-24.47
 population: 2542200
 style: {"color": "#8E0024"}
@@ -43,6 +43,35 @@ discovered in a floating mansion. A [[Cannith]] [[artificer]] is
 experimenting with a planar gateway—and something is
 about to go terribly wrong. All of these adventures and a
 hundred more are waiting in the City of Towers.
+
+!! Links to Headers
+* <<scrollToHeader "The Shape of Sharn">>
+** <<scrollToHeader "Aftermath of War">>
+*** <<scrollToHeader "Physical Damage">>
+*** <<scrollToHeader "Psychological Scars">>
+*** <<scrollToHeader "Shortages">>
+*** <<scrollToHeader "Refugees and Victims">>
+* <<scrollToHeader "Guide to the City">>
+** <<scrollToHeader "Watch your Step!">>
+** <<scrollToHeader "Communication Services">>
+** <<scrollToHeader "Spellcasting Services">>
+** <<scrollToHeader "Education and Research">>
+** <<scrollToHeader "Shopping Centers">>
+** <<scrollToHeader "Dining">>
+** <<scrollToHeader "Entertainment">>
+*** <<scrollToHeader "Theater and Music">>
+*** <<scrollToHeader "Sports and Games">>
+** <<scrollToHeader "Healing">>
+** <<scrollToHeader "Temples and Shrines">>
+** <<scrollToHeader "Holidays">>
+** <<scrollToHeader "Guilds and Groups">>
+*** <<scrollToHeader "Adventurers' Guilds">>
+*** <<scrollToHeader "The Circle of Song">>
+*** <<scrollToHeader "Arcane Orders">>
+** <<scrollToHeader "City Government">>
+** <<scrollToHeader "Criminal Services">>
+* <<scrollToHeader "Streets of Sharn">>
+* <<scrollToHeader "Notes">>
 
 ! The Shape of Sharn
 
@@ -120,7 +149,7 @@ factors of supply and demand also play into smuggling
 and the black market; some desirable goods might be
 available only through the [[Boromar Clan]].
 
-!! Refugees and Victims
+!!! Refugees and Victims
 
 [[Cyran|Cyre]] refugees have filled the district of [[High Walls]] in [[Lower Tavick's Landing]] beyond capacity, and Sharn is
 also home to a significant number of refugees from elsewhere in [[Breland]]—people whose homes and villages

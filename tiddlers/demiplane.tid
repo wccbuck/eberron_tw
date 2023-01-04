@@ -1,7 +1,7 @@
 category: location
 color: #092F1E
 created: 20201216232908690
-modified: 20220806184046163
+modified: 20230104001529212
 tags: 
 title: demiplane
 tooltip: pocket of strange reality located in Khyber, including the hearts of overlords and the prisons of the daelkyr
@@ -49,6 +49,13 @@ even suns in the sky, but they'll be entirely unfamiliar.
 While there's no common theme that unites all demiplanes,
 there are three common categories of demiplane: hearts,
 prisons, and shadows.
+
+!! Links to Headers
+* <<scrollToHeader "Heart Demiplanes">>
+* <<scrollToHeader "Prison Demiplanes">>
+* <<scrollToHeader "Shadow Demiplanes">>
+* <<scrollToHeader "House Orien and Demiplanes">>
+* <<scrollToHeader "Notes">>
 
 !! Heart Demiplanes
 

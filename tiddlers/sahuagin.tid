@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200428213236609
-modified: 20220805222041254
+modified: 20230103233730658
 tags: humanoid
 tier: 1
 title: sahuagin
@@ -19,6 +19,12 @@ The sahuagin inhabit the ocean depths surrounding
 gains power and knowledge by eating other intelligent creatures, which can make a trip to their empire a dangerous experience. 
 
 Some sahuagin tribes can't be reasoned with; they attack any who attempt to pass through Shargon's Teeth to reach the jungles of [[Xen'drik]]. Other tribes, however, make a living by selling their services as guides and leading ships through the hard-to-navigate waterway. These friendlier sahuagin regularly trade with and assist explorers and merchants from [[Khorvaire]], and many people in [[Sharn]] have standing deals with these tribes.
+
+!! Links to Headers
+* <<scrollToHeader "Sahuagin Biology">>
+* <<scrollToHeader "Non-Dominion Sahuagin">>
+* <<scrollToHeader "Sahuagin and Malenti Adventurers">>
+* <<scrollToHeader "Notes">>
 
 !! Sahuagin Biology
 

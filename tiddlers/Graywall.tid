@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200415203428235
-modified: 20221123221827659
+modified: 20230104000135210
 points: 33.517,-28.88
 population: 34800
 style: {"color": "#8E0024"}
@@ -33,6 +33,17 @@ this monstrous alliance to survive a year, but it has endured for over a decade.
 cunning stonework of the [[medusa]]s. One such town lies on the border of Droaam and [[Breland]], carved from the foothills of the [[mountains|Graywall Mountains]] from which it
 takes its name. This is Graywall, city of monsters
 and gateway to [[Droaam]].
+
+!! Links to Headers
+* <<scrollToHeader "Why Come to Graywall?">>
+* <<scrollToHeader "Life in Graywall">>
+** <<scrollToHeader "Law and Order">>
+** <<scrollToHeader "Entertainment">>
+* <<scrollToHeader "The Shape of Graywall">>
+** <<scrollToHeader "Architecture and Appearance">>
+* <<scrollToHeader "Districts of Graywall">>
+* <<scrollToHeader "Forces within Graywall">>
+* <<scrollToHeader "Notes">>
 
 !! Why Come to Graywall?
 

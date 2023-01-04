@@ -1,7 +1,7 @@
 category: cosmology
 color: #432874
 created: 20200417054704127
-modified: 20210727192006540
+modified: 20230104003602391
 title: Eberron
 tooltip: the planet; the Material Plane; the name of one of the Progenitor Dragons
 type: text/vnd.tiddlywiki
@@ -17,6 +17,12 @@ The world of Eberron has a rich history built on heroic
 deeds, evolving magic, and the wounds of a long, devastating war. Action, adventure, good, evil, and a thousand
 shades of gray paint the landscape in broad strokes. Ancient mysteries await discovery so they can influence the
 world and its people. 
+
+!! Links to Headers
+* <<scrollToHeader "Five Things to Know">>
+* <<scrollToHeader "Brief History of Eberron">>
+* <<scrollToHeader "Eberron's Plane of Existence">>
+* <<scrollToHeader "Notes">>
 
 !! Five Things to Know
 

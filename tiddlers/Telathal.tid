@@ -2,7 +2,7 @@ alternatetitle: Korrandar
 category: location
 color: #3B5C0A
 created: 20210127062920306
-modified: 20220828040751660
+modified: 20230103233007264
 points: 8.47,197.23
 style: {"color": "#40262D"}
 tags: Adar dungeon monument
@@ -17,6 +17,21 @@ the most unforgiving type. The supernatural energy surrounding the
 mountain could also result in sudden squalls of blood
 snow, death hail, and howl of the north, as well as ebony
 ice and rare pools and rivulets of coldfire.
+
+!! Links to Headers
+* <<scrollToHeader "Spheres of Telathal">>
+** <<scrollToHeader "Test of the Messenger">>
+** <<scrollToHeader "Test of Fate">>
+** <<scrollToHeader "Test of Wealth">>
+** <<scrollToHeader "Test of the North Wind">>
+** <<scrollToHeader "Test of Death">>
+** <<scrollToHeader "Test of Tales">>
+** <<scrollToHeader "Test of Justice">>
+** <<scrollToHeader "Test of the Firelord">>
+** <<scrollToHeader "Test of Life">>
+** <<scrollToHeader "Test of Power">>
+** <<scrollToHeader "Chamber of the Teeth">>
+* <<scrollToHeader "Notes">>
 
 !! Spheres of Telathal
 

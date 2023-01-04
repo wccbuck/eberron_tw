@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210126054359896
-modified: 20221215215423072
+modified: 20230103214553436
 tags: [[eldritch machine]] tool communication
 tier: 0
 title: hanbalani alta
@@ -16,7 +16,7 @@ masses of humans, and in so doing, to prevent change in
 [[Dal Quor]]. Most importantly, the hanbalani are slowly bringing [[Dal Quor]] into alignment with [[Eberron]], repairing the damage inflicted by the [[giant]]s [[ages ago|Age of Giants]]. Already, the [[quori]] are able to possess willing humans. As more monoliths are built, quori might be able to possess other willing creatures, and [[manifest zone]]s tied to [[Dal Quor]] could appear across the world. Eventually, the quori should be able to
 physically manifest on [[Eberron]].
 
-Along with the functions detailed in the Monolith Features section below, these are the known functions of the hanbalani, but they could just be the beginning. The
+Along with the functions detailed in the <<scrollToHeader "Monolith Features">> section below, these are the known functions of the hanbalani, but they could just be the beginning. The
 monoliths might be physically transforming Eberron
 into a replica of [[Dal Quor]] or granting [[quori]] the ability
 to rapidly regenerate their [[psionic|psionics]] power.
@@ -30,6 +30,16 @@ find that shutting down a monolith is a vital step in any
 sort of plan involving a [[Riedra]]n city. Alternatively, PCs
 could join a group of [[Doriak]] or [[kalashtar]] commandos on
 a mission to destroy as many hanbalani as possible.
+
+!! Links to Headers
+* <<scrollToHeader "Monolith Features">>
+** <<scrollToHeader "Shell">>
+** <<scrollToHeader "Core">>
+** <<scrollToHeader "Controls">>
+* <<scrollToHeader "Special Situations">>
+** <<scrollToHeader "Creatures">>
+** <<scrollToHeader "Under Construction">>
+* <<scrollToHeader "Notes">>
 
 !! Monolith Features
 
@@ -134,7 +144,7 @@ remote monolith ceases working, [[Inspired]] agents come
 and wipe out any creatures in the vicinity, so inhabitants
 are likely to oppose intruders looking to harm a wilderness monolith.
 
-As indicated in the "Controls" section above, a character can use the controls to lure psionic creatures to a monolith. This call has a range of 1 mile, but it is not
+As indicated in the <<scrollToHeader "Controls">> section above, a character can use the controls to lure psionic creatures to a monolith. This call has a range of 1 mile, but it is not
 a compulsion—non-sapient creatures usually respond, but cleverer creatures can choose not to. This tool is often useful to the [[Inspired]] or [[quori]]. If the call is not expected or
 planned, they send troops to investigate. 
 

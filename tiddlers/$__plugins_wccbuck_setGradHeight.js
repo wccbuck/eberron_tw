@@ -21,16 +21,23 @@ exports.name = "setGradHeight";
 exports.params = [];
 
 function setheight(self, titlebar){
-    setTimeout(() => { 
+    setTimeout(() => {
         try{
     	    var newTop= String(titlebar.offsetHeight + 27) + "px";
-        
+            var headerScrollMarginTop = String(titlebar.offsetHeight + 40) + "px";
+
             var titlegradient = document.querySelector("div[data-tiddler-title=\""+self.getVariable("currentTiddler").replaceAll('"', '\\"')+"\"] div.title-gradient");
             if (titlegradient) titlegradient.style.top = newTop;
+
+            var tiddlerDiv = document.querySelector("div[data-tiddler-title=\""+self.getVariable("currentTiddler").replaceAll('"', '\\"')+"\"]");
+            var headers = tiddlerDiv.querySelectorAll("h1, h2, h3, h4, h5, h6");
+            for (let i = 1; i < headers.length; i++){
+                headers[i].style.scrollMarginTop = headerScrollMarginTop;
+            }
         } catch(err) {
             console.log(err);
         }
-    }, 10);
+    }, 50);
 }
 
 /*

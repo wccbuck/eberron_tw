@@ -1,11 +1,26 @@
 category: culture
 color: #A3CFBB
 created: 20210126183443306
-modified: 20221215184859781
+modified: 20230104000229654
 tags: Riedra
 title: Riedrans
 tooltip: citizens of Riedra, driven by devotion to the nation and to the Inspired
 type: text/vnd.tiddlywiki
+
+!! Links to Headers
+* <<scrollToHeader "The People of Riedra">>
+* <<scrollToHeader "Riedran Names and Speech">>
+** <<scrollToHeader "Phrases">>
+* <<scrollToHeader "Riedran Religion">>
+* <<scrollToHeader "Riedran Style">>
+** <<scrollToHeader "Art">>
+** <<scrollToHeader "Architecture">>
+** <<scrollToHeader "Cuisine">>
+** <<scrollToHeader "Fashion">>
+* <<scrollToHeader "Rebellion in Paradise">>
+* <<scrollToHeader "Notes">>
+
+!! The People of Riedra
 
 The hallmark of all people of [[Riedra]] is devotion, unswerving dedication to country, companions, and work. Each Riedran's
 path has been laid out by those wiser than she is, and it

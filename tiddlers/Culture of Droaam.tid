@@ -1,7 +1,7 @@
 category: culture
 color: #A3CFBB
 created: 20210110204825373
-modified: 20221212223403970
+modified: 20230104000718413
 tags: Droaam
 title: Culture of Droaam
 tooltip: page outlining the language, economy, religion, and other cultural elements of the nation of monsters
@@ -43,6 +43,16 @@ Sora Kell are legends, that they possess untold powers, and that
 [[Sora Teraza]] knows what the future holds. Most truly believe that
 Droaam has a grand destiny, that they'll defy the expectations
 of the world, and that together, they'll build something glorious.
+
+!! Links to Headers
+* <<scrollToHeader "Language">>
+* <<scrollToHeader "Cruel World">>
+* <<scrollToHeader "Droaam's Economy">>
+* <<scrollToHeader "Religion">>
+* <<scrollToHeader "Cuisine">>
+* <<scrollToHeader "Medicine">>
+* <<scrollToHeader "Entertainment">>
+* <<scrollToHeader "Notes">>
 
 !! Language
 

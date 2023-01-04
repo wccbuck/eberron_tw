@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210301202916475
-modified: 20210727192033782
+modified: 20230104004751870
 tags: monstrosity
 tier: 4
 title: sphinx
@@ -10,6 +10,12 @@ type: text/vnd.tiddlywiki
 In sacred isolation, a sphinx guards the secrets and treasures of the ancients. As it calmly regards each new party that comes before it, the bones of supplicants and quest seekers that failed to pass its tests lie scattered around its lair. Its great wings sweep along its flanks, its tawny leonine body rippling with muscle and possessed of forepaws powerful enough to tear a humanoid in half.
 
 Sphinxes test the worth of those who seek the treasures of the first [[ages|era]], whether forgotten secrets or mighty spells, artifacts or magical gateways. Creatures that choose to face a sphinx's test are bound to that test unto death, and only those worthy will survive it. The rest the sphinx destroys.
+
+!! Links to Headers
+* <<scrollToHeader "Androsphinx">>
+* <<scrollToHeader "Gynosphinx">>
+* <<scrollToHeader "Mysteries of the Sphinx">>
+* <<scrollToHeader "Notes">>
 
 !! Androsphinx
 

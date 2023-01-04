@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.20.3
-modified: 20221228230044437
+currentversion: 1.20.4
+modified: 20230103220311614
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,13 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.20.4 <span style="font-weight:normal">(Jan xx, 2023)</span>
+
+* Added a "scroll to header" feature. This allows me to have little tables of contents for long pages with links to specific headers, making navigation a lot easier. I can also link to specific sections on pages. This feature works much smoother than Tiddlywiki's default anchor links feature.
+* Renamed "Gordion rope" to "[[Gordian rope]]" (typo)
+* Made [[Chalice Lake]] properly connect to its rivers on the map
+* 
 
 !!! 1.20.3 <span style="font-weight:normal">(Dec 28, 2022)</span>
 
@@ -997,7 +1004,7 @@ Miscellaneous:
 * Added some items from [[Varsil's Low-Powered Magic Items|https://www.gmbinder.com/share/-Mm0qFjS6b9TslU1WpH-]]
 ** [[doubled sack]]
 ** [[fire blind]]
-** [[Gordion rope]]
+** [[Gordian rope]] (edit 1/1/23: this used to be named "Gordion rope")
 ** [[illusory bait]]
 ** [[loyal caltrops]]
 ** [[memory locket]]

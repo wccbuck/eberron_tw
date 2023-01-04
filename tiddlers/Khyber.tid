@@ -1,7 +1,7 @@
 category: cosmology
 color: #432874
 created: 20200417010428598
-modified: 20221201000915858
+modified: 20230104003852283
 title: Khyber
 tooltip: the Dragon Below, the realm under the surface, domain of demiplanes
 type: text/vnd.tiddlywiki
@@ -18,6 +18,15 @@ Eberron. This might be myth and metaphor, but it's also
 a description of fact: there are worlds within the world,
 realms inhabited by [[aberration]]s, [[fiend]]s, and all manner
 of monsters.
+
+!! Links to Headers
+* <<scrollToHeader "Overview">>
+* <<scrollToHeader "Khyber's Influence in Khorvaire">>
+** <<scrollToHeader "Trinkets from Khyber">>
+* <<scrollToHeader "Demiplanes of Khyber">>
+* <<scrollToHeader "Notes">>
+
+!! Overview
 
 Any time someone descends below the surface of the
 world, they enter Khyber, the "Underdark". But the underworld takes two

@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414232527235
-modified: 20221125211941810
+modified: 20230103234622685
 tags: humanoid
 tier: 1
 title: dwarf
@@ -31,6 +31,13 @@ descended from exiles driven from the realm below—which was later destroyed by
 in the [[Mror Holds]], many dwarves cherish the idea of returning to the subterranean reaches and reestablishing
 their ancient nation, restoring them to a greatness they
 have all but forgotten. 
+
+!! Links to Headers
+* <<scrollToHeader "Dwarven Biology">>
+* <<scrollToHeader "Dwarves of the Mror Holds">>
+* <<scrollToHeader "Dwarves of the Five Nations">>
+* <<scrollToHeader "Dwarves and Dragonmarks">>
+* <<scrollToHeader "Notes">>
 
 !! Dwarven Biology
 

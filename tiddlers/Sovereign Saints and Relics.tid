@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20221031233633224
-modified: 20221104195337076
+modified: 20230104000009875
 tags: [[Sovereign Host]]
 title: Sovereign Saints and Relics
 tooltip: random tables for generating saints and relics of the Sovereign Host
@@ -18,7 +18,12 @@ The [[Pyrinean|Pyrinean Creed]] faith doesn’t believe that these people contin
 
 In addition, some Sovereign saints still live, such as [[Daca]] in [[High Hope]], [[Sharn]]. Perhaps the small village you’re passing through turns out to be home to Davan the Old, a devotee of [[Arawai]] who is said to have brought an end to a terrible plague!
 
-!!! Saints and Relics Table
+!! Links to Headers
+* <<scrollToHeader "Saints and Relics Table">>
+* <<scrollToHeader "Using the Table">>
+* <<scrollToHeader "Notes">>
+
+!! Saints and Relics Table
 
 | !<<dr d20>> |!Name |!Trait |!Tied To |!Relic |!Associated With A... |
 | 1 |Asta |The Old |[[Arawai]] |Favored Weapon<br/>(see below) |Plague |

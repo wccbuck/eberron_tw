@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200415192622286
-modified: 20210727192007434
+modified: 20230104002339339
 points: 42.526,1.52
 style: {"color": "#40262D"}
 tags: Cyre Mournland ruin
@@ -16,6 +16,17 @@ steel bark. [[Skycoaches|skycoach]] carried smiths and [[magewright]]s
 from forge to forge, and an iridescent dome protected the city from storms and harsh winds. On the proving grounds of the [[Cannith]] [[creation forge]]s, cadres of newborn [[warforged]] learned the combat skills that would prepare them for active duty.
 
 Then came the [[Mourning]]. Every mortal in Eston died that day... and the magic truly came to life.
+
+!! Links to Headers
+* <<scrollToHeader "State of the City">>
+** <<scrollToHeader "The Fury of Shavarath">>
+** <<scrollToHeader "Living Spells">>
+* <<scrollToHeader "Eston's Forges">>
+** <<scrollToHeader "The Free Forge">>
+** <<scrollToHeader "War Games">>
+** <<scrollToHeader "The Becoming God">>
+* <<scrollToHeader "Other Adventure Ideas">>
+* <<scrollToHeader "Notes">>
 
 !! State of the City
 

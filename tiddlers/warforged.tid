@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200415014832044
-modified: 20221201001504115
+modified: 20230104005137279
 tags: construct humanoid
 tier: 2
 title: warforged
@@ -20,6 +20,14 @@ var: uncommon
 The warforged are [[construct]]s built to fight in the [[Last War]]. While the first warforged were mindless automatons, House [[Cannith]] devoted vast resources to improving these steel soldiers. An unexpected breakthrough by [[Aaren d'Cannith]] thirty years ago produced sapient soldiers, giving rise to what some have only grudgingly accepted as a new species. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond
 war. A warforged can be a steadfast ally, a cold-hearted
 killer, or a visionary in search of meaning. 
+
+!! Links to Headers
+* <<scrollToHeader "Living Steel and Stone">>
+* <<scrollToHeader "Warforged Personality">>
+* <<scrollToHeader "Quirks">>
+* <<scrollToHeader "Warforged Names">>
+* <<scrollToHeader "Warforged Traits">>
+* <<scrollToHeader "Notes">>
 
 !! Living Steel and Stone
 

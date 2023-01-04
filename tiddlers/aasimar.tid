@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20201216201008656
-modified: 20221205041813279
+modified: 20230103203643280
 tags: humanoid
 tier: 2
 title: aasimar
@@ -42,6 +42,22 @@ you. There could be prophecies you're expected to fulfill. Or you
 could be targeted by enemies you never knew you had; perhaps
 the [[Lords of Dust]] need the blood of a Sovereign aasimar to
 complete a ritual that's performed only once in a generation. 
+
+!! Links to Headers
+* <<scrollToHeader "Aasimar Origins">>
+* <<scrollToHeader "Faiths and Aasimar">>
+** <<scrollToHeader "The Blood of Vol">>
+** <<scrollToHeader "The Silver Flame">>
+** <<scrollToHeader "The Sovereign Host">>
+** <<scrollToHeader "The Undying Court">>
+* <<scrollToHeader "Planetouched Aasimar">>
+** <<scrollToHeader "Daanvi">>
+** <<scrollToHeader "Fernia">>
+** <<scrollToHeader "Irian">>
+** <<scrollToHeader "Mabar">>
+** <<scrollToHeader "Shavarath">>
+** <<scrollToHeader "Syrania">>
+* <<scrollToHeader "Notes">>
 
 !! Aasimar Origins
 
@@ -86,6 +102,8 @@ converse with it directly. Is your guide primarily concerned with
 your own ascension? Or is it driven by the Seeker principles of
 protecting your community and opposing death?
 
+See also the [[talent]] [[Aasimar of the Divinity Within]].
+
 !!! The Silver Flame
 
 The [[Silver Flame]] is the most common source of aasimar in
@@ -109,6 +127,8 @@ ascended spirit of [[Tira Miron]]. The primary purpose of the
 Flame is to protect the innocent from supernatural threats. Is
 this what your guide encourages you to do? Or do you have a
 greater purpose?
+
+See also the [[talent]] [[Aasimar of the Silver Flame]].
 
 !!! The Sovereign Host
 
@@ -160,6 +180,8 @@ you trance. Your ancestor was once mortal themselves, and your
 relationship may be more direct and personal than the typical
 relationship between aasimar and guide.
 
+See also the [[talent]] [[Aasimar of the Undying Court]].
+
 !! Planetouched Aasimar
 
 When you were born, you were imbued with a sliver of the
@@ -204,6 +226,8 @@ you to provide comfort to the frightened and to battle forces
 of darkness. Fernian aasimar are often [[sorcerer]]s wielding
 elemental flame.
 
+See also the [[talent]] [[Aasimar of Fernia]].
+
 !!! [[Irian]]
 
 You're bound to an angel of light, a spirit that inspires
@@ -221,6 +245,8 @@ also direct you to battle the forces of [[Mabar]]—life-draining
 [[Lhazaar Principalities]] is an Irian aasimar who has risen
 to rule the principality he calls the [[Heavenly Fleet]].
 
+See also the [[talent]] [[Aasimar of Irian]].
+
 !!! [[Mabar]]
 
 You're connected to an angel that's trapped in
@@ -237,6 +263,8 @@ though no immortal has ever escaped its corruption before. Or
 it could simply encourage you to follow the general principles
 of its plane of origin—balanced against its growing hunger and
 despair. 
+
+See also the [[talent]] [[Aasimar of Mabar]].
 
 !!! [[Shavarath]]
 

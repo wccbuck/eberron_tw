@@ -2,11 +2,25 @@ category: phenomenon
 color: #432874
 created: 20200414215001795
 list: [[aberrant dragonmark]] [[Mark of Death]] [[Mark of Detection]] [[Mark of Finding]] [[Mark of Handling]] [[Mark of Healing]] [[Mark of Hospitality]] [[Mark of Making]] [[Mark of Passage]] [[Mark of Scribing]] [[Mark of Sentinel]] [[Mark of Shadow]] [[Mark of Storm]] [[Mark of Warding]]
-modified: 20220805200521607
+modified: 20230103235545924
 tags: 
 title: dragonmark
 tooltip: hereditary mark of magical power, and the basis of the dragonmarked houses' economic power
 type: text/vnd.tiddlywiki
+
+A dragonmark is a tattoo-like mark that spontaneously manifests on members of specific [[humanoid]] families and grants these individuals magical powers. The twelve [[dragonmarked house]]s have used these powers to establish monopolies on many industries across [[Khorvaire]]. 
+
+!! Links to Headers
+* <<scrollToHeader "Overview">>
+* <<scrollToHeader "Dragonmarks and Backgrounds">>
+* <<scrollToHeader "The Powers of the Mark">>
+* <<scrollToHeader "Dragonmark Appearance">>
+* <<scrollToHeader "Dragonmark Manifestation and the Prophecy">>
+* <<scrollToHeader "Siberys Dragonmarks">>
+* <<scrollToHeader "Dragonmarks and Sarlona">>
+* <<scrollToHeader "Notes">>
+
+!! Overview
 
 A [[halfling]] healer touches a dying man; the mark on her
 forehead blazes with blue fire as his wounds close and
@@ -38,6 +52,8 @@ to establish powerful monopolies. For example, only
 House [[Lyrandar]] heirs with the [[Mark of Storm]] can
 pilot [[airship]]s. This control over vital services gives the
 houses tremendous power. 
+
+In addition to the twelve "true" dragonmarks, occasionally a humanoid will develop what is known as an [[aberrant dragonmark]]. See the [[aberrant dragonmark]] page for more information.
 
 !! Dragonmarks and Backgrounds
 

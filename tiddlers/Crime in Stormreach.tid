@@ -1,7 +1,7 @@
 category: culture
 color: #A3CFBB
 created: 20210303060927023
-modified: 20210727192002520
+modified: 20230104002901027
 tags: Stormreach
 title: Crime in Stormreach
 type: text/vnd.tiddlywiki
@@ -10,6 +10,14 @@ The only justice in [[Stormreach]] is justice you make for yourself, or justice 
 of making a living. Victims of violent crime are blamed
 for their own fate by some citizens and are a source of
 amusement for others.
+
+!! Links to Headers
+* <<scrollToHeader "Law and Order">>
+** <<scrollToHeader "Iron Watch">>
+** <<scrollToHeader "Magistrates">>
+** <<scrollToHeader "Inquisitives">>
+* <<scrollToHeader "Crime">>
+* <<scrollToHeader "Notes">>
 
 !! Law and Order
 

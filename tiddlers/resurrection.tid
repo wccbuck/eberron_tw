@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201231191403499
-modified: 20221201001740933
+modified: 20230103191942664
 tags: [[divine magic]] necromancy
 tier: 4
 title: resurrection
@@ -18,4 +18,4 @@ This spell closes all mortal wounds and restores any missing body parts.
 
 Coming back from the dead is an ordeal. The target must spend at least a week recovering before returning to their former strength. In addition, casting this spell to restore life to a creature that has been dead for one year or longer taxes the spellcaster greatly. For up to 24 hours, you can't cast spells again, and are at a [[disadvantage]] for all actions.
 
-Performing this spell is risky; drawing a spirit back from [[Dolurrh]] might catch the attention of a Dolurrhi [[marut]], or even bring back the wrong spirit, causing a ghost to manifest or ending up with a hostile personality in your friend's body. This is why [[Jorasco]] healers capable of resurrection typically cast [[augury]] first, and will refuse service if the result is "woe". For more information, see the "Concerning Resurrection" section of [[Dolurrh]].
+Performing this spell is risky; drawing a spirit back from [[Dolurrh]] might catch the attention of a Dolurrhi [[marut]], or even bring back the wrong spirit, causing a ghost to manifest or ending up with a hostile personality in your friend's body. This is why [[Jorasco]] healers capable of resurrection typically cast [[augury]] first, and will refuse service if the result is "woe". For more information, see the <<navAndScrollToHeader "Dolurrh" "Concerning Resurrection">> section of [[Dolurrh]].

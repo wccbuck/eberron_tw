@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201231191809711
-modified: 20221201001853831
+modified: 20230103192030141
 tags: [[divine magic]]
 tier: 5
 title: true resurrection
@@ -16,4 +16,4 @@ This spell closes all wounds, neutralizes any poison, cures all [[disease]]s, an
 
 The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
-Performing this spell is risky; drawing a spirit back from [[Dolurrh]] might catch the attention of a Dolurrhi [[marut]], or even bring back the wrong spirit, causing a ghost to manifest or ending up with a hostile personality in your friend's body. This is why [[Jorasco]] healers capable of resurrection typically cast [[augury]] first, and will refuse service if the result is "woe". For more information, see the "Concerning Resurrection" section of [[Dolurrh]].
+Performing this spell is risky; drawing a spirit back from [[Dolurrh]] might catch the attention of a Dolurrhi [[marut]], or even bring back the wrong spirit, causing a ghost to manifest or ending up with a hostile personality in your friend's body. This is why [[Jorasco]] healers capable of resurrection typically cast [[augury]] first, and will refuse service if the result is "woe". For more information, see the <<navAndScrollToHeader "Dolurrh" "Concerning Resurrection">> section of [[Dolurrh]].

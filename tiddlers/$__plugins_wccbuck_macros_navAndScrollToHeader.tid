@@ -1,0 +1,7 @@
+created: 20230103191529118
+modified: 20230103191627694
+tags: $:/tags/Macro
+title: $:/plugins/wccbuck/macros/navAndScrollToHeader
+type: text/vnd.tiddlywiki
+
+\define navAndScrollToHeader(to, header) <$button class="tc-btn-invisible tc-tiddlylink"><$action-scroll-to-header $to="$to$" $header="$header$"/>$header$</$button>

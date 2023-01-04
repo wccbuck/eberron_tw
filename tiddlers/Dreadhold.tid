@@ -1,7 +1,7 @@
 category: location
 color: #3B5C0A
 created: 20200416211644806
-modified: 20220824223828766
+modified: 20230104004617900
 points: 59.151,40.56
 style: {"color": "#732873"}
 tags: island fortress [[Lhazaar Principalities]] mine Kundarak enclave
@@ -19,6 +19,18 @@ number sent here for wartime atrocities. Most of the dwarves
 consider a tour of duty at Dreadhold to be tantamount to
 exile, but the bearers of the [[Mark of Warding]] make sure the
 prison stays secure despite the bleakness of the place. The prison is supported by the small garrison town of [[Gaolgate]].
+
+!! Links to Headers
+* <<scrollToHeader "Guards and Wardens">>
+* <<scrollToHeader "The Wards">>
+** <<scrollToHeader "The Red Ward">>
+** <<scrollToHeader "The Golden Ward">>
+** <<scrollToHeader "The Stone Ward">>
+** <<scrollToHeader "The Deep Ward">>
+** <<scrollToHeader "The Vaults">>
+* <<scrollToHeader "The Defenses of Dreadhold">>
+* <<scrollToHeader "Notable Prisoners of Dreadhold">>
+* <<scrollToHeader "Notes">>
 
 !! Guards and Wardens
 
