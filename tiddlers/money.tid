@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210409191449051
-modified: 20221204004341129
+modified: 20230105212336090
 tags: Storyloom
 title: money
 tooltip: documentation page for the use of currency in Storyloom and Eberron
@@ -11,6 +11,22 @@ The [[Storyloom]] system doesn't keep track of every single coin your character 
 Other denominations include ''sovereigns'' (indicated with an "s" symbol), which are equal to 5 crowns, and ''galifars'' ("g"), which are equal to 5 sovereigns. At your table, you can indicate these currencies with copper, silver, and gold coin tokens for crowns, sovereigns, and galifars, respectively.
 
 Carrying around 10c or more in coin tends to be rather bulky; each footstep likely results in a noisy jangling. If you are a customer of a [[Kundarak]] bank, you can receive a [[Sivis]]-notarized [[letter of credit]] for a specific amount of money, designated for a specific person or organization.
+
+!! Links to Headers
+* <<scrollToHeader "Lifestyle">>
+* <<scrollToHeader "Typical Wages and Salaries">>
+* <<scrollToHeader "Service Costs">>
+** <<scrollToHeader "Communication and Security">>
+** <<scrollToHeader "Healing Services">>
+** <<scrollToHeader "Transportation">>
+* <<scrollToHeader "Adventuring Gear Costs">>
+** <<scrollToHeader "Armor">>
+** <<scrollToHeader "Weapons">>
+* <<scrollToHeader "Mundane Item Costs">>
+** <<scrollToHeader "Food">>
+** <<scrollToHeader "Other Items">>
+* <<scrollToHeader "Magic Item Costs">>
+* <<scrollToHeader "Notes">>
 
 !! Lifestyle
 

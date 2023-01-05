@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200417001429458
-modified: 20221209075735992
+modified: 20230103233258096
 points: 29.954,21.92
 population: 95300
 style: {"color": "#8E0024"}
@@ -26,6 +26,17 @@ Vadallia’s quarters are austere, but the palace’s regal
 courtyard with its towering columns evokes memories of the forests of [[Aerenal]] and the great city of [[Shae Cairdal]].
 
 In addition to the royal palace, outposts of most [[dragonmarked house]]s, and a [[market|Peasants' Market]] where foreigners sell their wares, Taer Valaestas hosts the primary [[temple|Temple of the Ages]] of the [[Keepers of the Past|Spirits of the Past]] and a vast arena used for horse training, races, and other displays of equestrian skill.
+
+!! Links to Headers
+* <<scrollToHeader "Entering the City">>
+* <<scrollToHeader "The People of Taer Valaestas">>
+** <<scrollToHeader "Elves">>
+** <<scrollToHeader "Khoravar">>
+** <<scrollToHeader "Humans">>
+** <<scrollToHeader "Other Races">>
+* <<scrollToHeader "The Law in Taer Valaestas">>
+* <<scrollToHeader "Adventure Hooks">>
+* <<scrollToHeader "Notes">>
 
 !! Entering the City
 

@@ -1,7 +1,7 @@
 category: person
 color: #FEA627
 created: 20210202021259893
-modified: 20221215231234927
+modified: 20230104001007606
 tags: [[Forest of Flesh]] aberration elf wizard humanoid
 title: Mordain the Fleshweaver
 tooltip: powerful and infamous wizard who lives in exile in western Droaam, known for his disturbing attempts to master daelkyr magic
@@ -14,6 +14,14 @@ Mordain the Fleshweaver, one of the most powerful [[wizard]]s in history and the
 have attempted to imprison Mordain for his disturbing attempts
 to master the magic of the [[daelkyr]], few have the
 power to directly oppose him.
+
+!! Links to Headers
+* <<scrollToHeader "Lore of the Fleshweaver">>
+* <<scrollToHeader "Using the Fleshweaver">>
+** <<scrollToHeader "Mordain as Villain">>
+** <<scrollToHeader "Mordain as Ally">>
+** <<scrollToHeader "Secret Origin">>
+* <<scrollToHeader "Notes">>
 
 !! Lore of the Fleshweaver
 

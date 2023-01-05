@@ -1,5 +1,5 @@
 created: 20210716184529564
-modified: 20221215235326444
+modified: 20230105234701468
 tags: Readme
 title: References
 tooltip: list of sources used in the Eberron TW
@@ -137,3 +137,4 @@ In no particular order.
 !! Miscellaneous
 
 * Thank you to Sylvain Comte and his work on the [[leaflet tiddlywiki plugin|http://sycom.github.io/TiddlyWiki-Plugins/#Leaflet%20maps%20plugin]]; it was a big help in my development of my own map widget.
+* Also thank you to [[Azgaar|https://github.com/Azgaar]] for their work on the [[names generator|https://github.com/Azgaar/Fantasy-Map-Generator/blob/master/modules/names-generator.js]] used in [[AFMG|https://azgaar.github.io/Fantasy-Map-Generator/]], as inspiration for my [[random name generator]].

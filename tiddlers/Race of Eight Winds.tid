@@ -2,11 +2,11 @@ category: event
 color: #A3CFBB
 created: 20200410025234668
 day: 23
-modified: 20221129215938954
+modified: 20230105191634579
 month: 7
 tags: sport Sharn
 title: Race of Eight Winds
-tooltip: most popular sporting event in Sharn and perhaps all of Khorvaire, centuries-old tradition
+tooltip: aerial race, most popular sporting event in Sharn and perhaps all of Khorvaire, centuries-old tradition
 type: text/vnd.tiddlywiki
 
 ''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
@@ -25,6 +25,13 @@ and probably torn apart by an angry mob.
 
 The Race of Eight Winds brings spectators, tourists, and gamblers from across [[Khorvaire]], and it also presents a host of opportunities for adventurers.
 The victorious rider receives a [[50 crown|money]] purse at the end of the race, as well as a [[grant of land|title deed]] elsewhere in [[Breland]], donated by one of [[Sharn]]'s [[noble families|Nobility of the Five Nations]]. 
+
+!! Links to Headers
+* <<scrollToHeader "History and Structure">>
+* <<scrollToHeader "The Rules">>
+* <<scrollToHeader "Using the Race of Eight Winds">>
+* <<scrollToHeader "The Beasts">>
+* <<scrollToHeader "Notes">>
 
 !! History and Structure
 

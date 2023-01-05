@@ -2,7 +2,7 @@ alternatetitle: Iolokar
 category: location
 color: #4C8201
 created: 20210317220605964
-modified: 20221201004937724
+modified: 20230104001345960
 points: -19.0,-262.34
 population: 230000
 style: {"color": "#8E0024"}
@@ -55,6 +55,16 @@ Though its walls and buildings are reinforced by arcane
 power, they were raised one stone at a time. However,
 within these nondescript apartments of multicolored
 marble can be found collected lore rivaling that of [[Morgrave|Morgrave University]], [[Wynarn|University of Wynarn]], and [[Korranberg|Library of Korranberg]] combined—all the product of a humble working-class people whose lives more closely resemble those of lords and kings.
+
+!! Links to Headers
+* <<scrollToHeader "Life in Io'lokar">>
+** <<scrollToHeader "Commerce">>
+** <<scrollToHeader "Magic">>
+* <<scrollToHeader "Getting There">>
+* <<scrollToHeader "The City Wards">>
+* <<scrollToHeader "Features of the City">>
+* <<scrollToHeader "Notable Io'lokari">>
+* <<scrollToHeader "Notes">>
 
 !! Life in Io'lokar
 

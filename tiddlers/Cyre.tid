@@ -1,7 +1,7 @@
 category: location
 color: #3B5C0A
 created: 20200414204903370
-modified: 20221215231317098
+modified: 20230103234554417
 population: 8000000
 style: {"fillOpacity":"0","opacity":"0"}
 tags: nation Khorvaire
@@ -51,6 +51,15 @@ prefer to focus on the future instead of trying to reclaim
 the past. As a Cyran, you should decide whether you
 hold tight to your national identity, or instead consider
 yourself to be an expatriate without a nation. 
+
+!! Links to Headers
+* <<scrollToHeader "Interesting Things About Cyre (the Mournland)">>
+* <<scrollToHeader "Cyran Characters">>
+* <<scrollToHeader "Before the Last War">>
+** <<scrollToHeader "Outer Cyre">>
+* <<scrollToHeader "During the Last War">>
+* <<scrollToHeader "Aftermath of the Last War">>
+* <<scrollToHeader "Notes">>
 
 !! Interesting Things About Cyre (the Mournland)
 

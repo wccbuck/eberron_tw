@@ -1,10 +1,14 @@
 category: game mechanics
 created: 20210331200737600
-modified: 20221103012504411
+modified: 20230104004504570
 tags: Storyloom
 title: Taking Action
 tooltip: documentation page for the core attempt mechanic in Storyloom
 type: text/vnd.tiddlywiki
+
+<<<
+To jump down to the Summary section, click here: <<scrollToHeader "Action Summary">>
+<<<
 
 Whenever you want to do something that has the potential to be dangerous or troublesome, you have to [[roll dice|Dice Roller]] to determine whether you succeed, and to what extent you succeed. You roll a number of six-sided dice, and read the single highest result.
 

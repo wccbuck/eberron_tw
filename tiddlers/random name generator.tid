@@ -1,16 +1,16 @@
 category: game mechanics
 created: 20221120230342871
 displaynameorigin: Breland
-modified: 20221230002919702
+modified: 20230105233916042
 nameorigin: Breland
-tags: 
+tags:
 title: random name generator
 tooltip: tool for generating a random name based on country of origin
 type: text/vnd.tiddlywiki
-var1: Lonn
-var2: Annarik
-var3: Helfen
-var4: Smythton
+var1: Thornnam
+var2: Rivera
+var3: Shelton
+var4: Auden
 
 Use this tool to generate names for characters in the world of Eberron. Select a "linguistic origin" from the drop-down list, then click "Generate Four Names". Please forgive any profane, inappropriate, or generally terrible names; this tool does not filter any "blacklist" words.
 
@@ -211,7 +211,7 @@ The source name list I use to generate these names includes canon examples of [[
 
 The source name list I use to generate these names includes canon examples of [[shifter]]s of the [[Tashana Tundra]], as well as many Inuit names.
 
-These names are only the individual's name. A Tashana shifter's full name is their tribe name followed by their individual name, separated by a hyphen. Each name is then shortened to one or two syllables in most social situations. So Telaani-Marqussek (Marqussek of tribe Telaani) might be informally known as Tel-Marq. 
+These names are only the individual's name. A Tashana shifter's full name is their tribe name followed by their individual name, separated by a hyphen. Each name is then shortened to one or two syllables in most social situations. So Telaani-Marqussek (Marqussek of tribe Telaani) might be informally known as Tel-Marq.
 
 ''Tribal Names: ''Agalak, Ahnakik, Annakuk, Chikuq, Chok, Ekchuaq, Hey, Iglogaq, Illiivaq, Iping, Kakrayak, Kingudlerq, Kulutiq, Mantok, Massapok, Naartoq, Nanik, Nukiliq, Nutaak, Oonayak, Palak, Peqartoq, Putyuq, Saqani, Telaani, Tuluqarak, Yaqone.
 
@@ -233,6 +233,6 @@ Note that any names ending in "oor" would not likely be used by the [[Sulatar]];
 
 This tool uses a Markov-chain-like approach to generating names, heavily inspired by the [[names generator|https://github.com/Azgaar/Fantasy-Map-Generator/blob/master/modules/names-generator.js]] used in [[Azgaar's Fantasy Map Generator|https://azgaar.github.io/Fantasy-Map-Generator/]]. In fact, I used that very site to generate the lists of syllables used for each linguistic origin (I put a `console.log(JSON.stringify(chain))` in the calculateChain function and just copied and pasted the output). For an example set of syllable lists, see [[$:/DarguunNameChains]].
 
-Essentially, a starting "syllable" is randomly chosen from a list. We look at the last letter of that syllable, and pull up a new list of potential syllables that tend to follow that letter. Some of those potential syllables are just an empty string (""), indicating the end of the name. Grab a random syllable from that list and repeat until we get a "" or we reach a certain maximum length. 
+Essentially, a starting "syllable" is randomly chosen from a list. We look at the last letter of that syllable, and pull up a new list of potential syllables that tend to follow that letter. Some of those potential syllables are just an empty string (""), indicating the end of the name. Grab a random syllable from that list and repeat until we get a "" or we reach a certain maximum length.
 
 There are other complications, like getting rid of non-approved duplicates, or occasionally jumping to a different syllable list; feel free to check out the source code at [[$:/plugins/wccbuck/action-generate-name.js]].

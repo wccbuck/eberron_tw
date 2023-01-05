@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20221125225603581
-modified: 20221127182805185
+modified: 20230103213334366
 points: 68.83,-6.82
 style: {"color": "#40262D"}
 tags: dungeon ruin Frostfell
@@ -16,6 +16,18 @@ Then all contact was lost.
 It was another century before a second expedition finally made a successful trip to Feoral and returned to speak of it. They told tales of a graveyard of ships, haunted vessels frozen deep into the ice; packs of arctic wolves that called out in an unknown tongue; and the old colony itself, cold and dead. The wind whispered with a lulling voice, and the darkness was deeper that nature should allow. The explorers left swiftly before the cursed land could claim them.
 
 There are many treasures in Sunless Feoral. The [[snow sapphire]]s and other gems that first lured the miners to the region. Ancient maps and texts assembled by the sages of the colony, which could prove invaluable to those who wish to explore the greater [[Frostfell]]. And the answer to the mystery: what destroyed Feoral? What force did the miners unleash from beneath the ice, and how has it twisted this frozen land?
+
+!! Links to Headers
+* <<scrollToHeader "Background">>
+* <<scrollToHeader "Getting to Feoral">>
+* <<scrollToHeader "The Lay of the Land">>
+** <<scrollToHeader "A Graveyard of Ships">>
+** <<scrollToHeader "Wolves that Speak">>
+** <<scrollToHeader "The Wind and the Darkness">>
+* <<scrollToHeader "The Lost Colony">>
+** <<scrollToHeader "The Mine">>
+* <<scrollToHeader "Treasures of Feoral">>
+* <<scrollToHeader "Notes">>
 
 !! Background
 
@@ -46,7 +58,7 @@ While Feoral sits above the prison of [[Dral Khatuur]], a GM can use Feoral with
 
 !! The Lay of the Land
 
-Once Feoral was on the coast of the [[Frostfell]]. But time and magic has caused the shape of the land to shift, and now the colony is 20 miles inland. As the party approaches the region, they will see that the land is hidden beneath a permanent shroud of thick, dark clouds—a blanket of darkness that spreads out in a thirty-mile radius from Feoral, and which resists all winds. Even in the seasons when the sun shines, the region beneath the cloud has only shadowy illumination; in the half of the year when the sun hides its face from the Frostfell, the land is left in total darkness. At night, an even deeper darkness grips the land around Feoral—a supernatural darkness that neither torchlight or [[darkvision]] can penetrate. (See "The Wind and the Darkness" section below.) Within this area, any attempt to magically control the wind or weather will fail; the spellcaster can feel a stronger force at work in the region, something more powerful than any mortal [[wizard]].
+Once Feoral was on the coast of the [[Frostfell]]. But time and magic has caused the shape of the land to shift, and now the colony is 20 miles inland. As the party approaches the region, they will see that the land is hidden beneath a permanent shroud of thick, dark clouds—a blanket of darkness that spreads out in a thirty-mile radius from Feoral, and which resists all winds. Even in the seasons when the sun shines, the region beneath the cloud has only shadowy illumination; in the half of the year when the sun hides its face from the Frostfell, the land is left in total darkness. At night, an even deeper darkness grips the land around Feoral—a supernatural darkness that neither torchlight or [[darkvision]] can penetrate. (See <<scrollToHeader "The Wind and the Darkness">> section below.) Within this area, any attempt to magically control the wind or weather will fail; the spellcaster can feel a stronger force at work in the region, something more powerful than any mortal [[wizard]].
 
 The approach to the Frostfell is a chilling one. Most of the journey across the [[Bitter Sea]] will be in cold weather (0–40 degrees Fahrenheit). During last hundred miles of the approach, the temperature drops below zero degrees. The water is choked with icebergs and smaller chunks of ice, and the journey is a hazardous one for fragile ships or inexperienced sailors. An [[airship]] can avoid the icebergs, but bitter snowstorms and potential whiteout conditions make it a dangerous option, and there has been one unconfirmed report of an [[elemental]] breaking free of its [[bonds|elemental binding]] over the Bitter Sea. There are unpredictable forces at work in the region, and House [[Lyrandar]] will be loathe to place one of its airships at risk.  
 

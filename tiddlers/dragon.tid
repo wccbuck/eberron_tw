@@ -1,7 +1,7 @@
 category: creature
 color: #58151c
 created: 20200419053402840
-modified: 20221205045840863
+modified: 20230103212746251
 title: dragon
 tooltip: legendary winged serpentine creature with innate magical power
 type: text/vnd.tiddlywiki
@@ -14,7 +14,7 @@ are either aloof and unapproachable, or they are curious
 and manipulative, pulling strings behind the scenes or
 trying to influence the world in arcane ways.
 
-In addition to deadly tooth and claw and tail, dragons wield the ability to exhale jets of raw elemental energy. These breath weapons are fearsome, but take up to a minute to recharge after use. See the //Colors and Breath Weapons// section below for more information. Dragons also possess [[darkvision]] as well as short-range [[blindsight]], and many can innately cast [[arcane|arcane magic]] spells.
+In addition to deadly tooth and claw and tail, dragons wield the ability to exhale jets of raw elemental energy. These breath weapons are fearsome, but take up to a minute to recharge after use. See the <<scrollToHeader "Colors and Breath Weapons">> section below for more information. Dragons also possess [[darkvision]] as well as short-range [[blindsight]], and many can innately cast [[arcane|arcane magic]] spells.
 
 Most dragons live on the mystery-shrouded continent
 of [[Argonnessen]] and avoid contact with those they see as
@@ -30,6 +30,15 @@ of these could be an antagonist if the adventure you're
 crafting calls for a cruel dragon.
 
 The dragons of Eberron aren't restricted in alignment—good [[red dragon]]s and evil [[gold dragon]]s are equally common. Most dragons tend toward neutrality. Even those with good alignments often don't consider the impact of their actions on lesser beings; if a [[Chamber]] dragon must destroy a [[human]] village to foil the plans of a [[demon]], it will do so without hesitation. 
+
+!! Links to Headers
+* <<scrollToHeader "Dragon Names">>
+* <<scrollToHeader "Colors and Breath Weapons">>
+* <<scrollToHeader "Dragon Age Categories">>
+* <<scrollToHeader "Origin of the Dragons">>
+* <<scrollToHeader "Psionics and Dragons">>
+* <<scrollToHeader "Draconic Creatures">>
+* <<scrollToHeader "Notes">>
 
 !! Dragon Names
 
@@ -96,8 +105,6 @@ By contrast, the mysterious [[gem dragon]]s possess a powerful and innate psioni
 
 !! Draconic Creatures
 
-Some creatures share a common ancestry with true dragons, or perhaps are [[fey]] reflections of dragons, but are not true dragons themselves. Below are some examples.
-
-<<list-links-article "[tag{!!title}category[creature]!title[black dragon]!title[brass dragon]!title[blue dragon]!title[bronze dragon]!title[green dragon]!title[copper dragon]!title[red dragon]!title[gold dragon]!title[white dragon]!title[silver dragon]!title[gem dragon]] -[[gem dragon]tagging[]] +[sort[title]]">>
+Some creatures share a common ancestry with true dragons, or perhaps are [[fey]] reflections of dragons, but are not true dragons themselves. These include [[wyvern]]s, [[kobold]]s, [[dragonborn]], [[dragon turtle]]s, and [[pseudodragon]]s.
 
 !!! <<showcreature-type>>

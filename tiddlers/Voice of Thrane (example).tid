@@ -1,11 +1,17 @@
 category: document
 created: 20210906080815021
-modified: 20220107033004859
+modified: 20230103222627317
 tags: newspaper [[Five Voices]] Thrane
 title: Voice of Thrane (example)
 type: text/vnd.tiddlywiki
 
 The following is an example issue of the //Voice of Thrane//, a [[Five Voices]] publication distributed across [[Thrane]].
+
+!! Links to Headers
+* <<scrollToHeader "Silver Flame's Crisis of Faith!">>
+* <<scrollToHeader "Are You a Six Fanatic?">>
+* <<scrollToHeader "Do They Know the War is Over?">>
+* <<scrollToHeader "Notes">>
 
 <div style="text-align:justify; text-justify: inter-word;">
 

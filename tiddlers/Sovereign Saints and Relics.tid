@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20221031233633224
-modified: 20221111062142686
+modified: 20230104000009875
 tags: [[Sovereign Host]]
 title: Sovereign Saints and Relics
 tooltip: random tables for generating saints and relics of the Sovereign Host
@@ -12,13 +12,18 @@ var3: [[Sovereign Host]]
 var4: lock of hair
 var5: war or battlefield
 
-Some followers of the [[Sovereign Host]] form an especially close bond to the Sovereigns, and are capable of performing miracles or sharing the blessings of the Host with others. These chosen few are colloquially known as "saints". 
+Some followers of the [[Sovereign Host]] form an especially close bond to the Sovereigns, and are capable of performing miracles or sharing the blessings of the Host with others. These chosen few are colloquially known as "saints".
 
-The [[Pyrinean|Pyrinean Creed]] faith doesn’t believe that these people continue to affect the world after death. The Sovereigns are always with us; you don’t need Saint Isti to bless your blade, because [[Dol Dorn]] and [[Dol Arrah]] are with you right now. However, saints of the [[Sovereign Host]] have certainly left their mark on the world. People still tell stories of Saint Isti the Beacon, and how she defeated hordes of [[undead]] with her shining blade. There’s a battlefield named after her, and her sword is one of the great treasures of the Sovereign Temple of [[Passage]]. You won’t call on Saint Isti to intervene on your behalf, but you might invoke her as an inspiring example, or seek out her undead-smiting blade, or stumble into a cemetery dedicated to her memory. 
+The [[Pyrinean|Pyrinean Creed]] faith doesn’t believe that these people continue to affect the world after death. The Sovereigns are always with us; you don’t need Saint Isti to bless your blade, because [[Dol Dorn]] and [[Dol Arrah]] are with you right now. However, saints of the [[Sovereign Host]] have certainly left their mark on the world. People still tell stories of Saint Isti the Beacon, and how she defeated hordes of [[undead]] with her shining blade. There’s a battlefield named after her, and her sword is one of the great treasures of the Sovereign Temple of [[Passage]]. You won’t call on Saint Isti to intervene on your behalf, but you might invoke her as an inspiring example, or seek out her undead-smiting blade, or stumble into a cemetery dedicated to her memory.
 
 In addition, some Sovereign saints still live, such as [[Daca]] in [[High Hope]], [[Sharn]]. Perhaps the small village you’re passing through turns out to be home to Davan the Old, a devotee of [[Arawai]] who is said to have brought an end to a terrible plague!
 
-!!! Saints and Relics Table
+!! Links to Headers
+* <<scrollToHeader "Saints and Relics Table">>
+* <<scrollToHeader "Using the Table">>
+* <<scrollToHeader "Notes">>
+
+!! Saints and Relics Table
 
 | !<<dr d20>> |!Name |!Trait |!Tied To |!Relic |!Associated With A... |
 | 1 |Asta |The Old |[[Arawai]] |Favored Weapon<br/>(see below) |Plague |
@@ -74,4 +79,4 @@ Generate Sovereign Saint
 
 !!! Example Interpretation
 
-//Jurian the Unseen, Saint of Boldrei, associated with a Ring and a Plague.// Saint Jurian had a ring of invisibility and traveled unseen through villages that had been sealed up due to fear of the plague, whispering messages of hope or bringing tiny gifts that lifted the spirits of those left to die, giving them the strength to fight the plague. It’s believed he eventually succumbed to the plague, but no one knows; if he died, he was still wearing his ring, and his body was never found. 
+//Jurian the Unseen, Saint of Boldrei, associated with a Ring and a Plague.// Saint Jurian had a ring of invisibility and traveled unseen through villages that had been sealed up due to fear of the plague, whispering messages of hope or bringing tiny gifts that lifted the spirits of those left to die, giving them the strength to fight the plague. It’s believed he eventually succumbed to the plague, but no one knows; if he died, he was still wearing his ring, and his body was never found.

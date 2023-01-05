@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210425041844363
-modified: 20210727192028088
+modified: 20230103191957207
 tags: [[divine magic]]
 tier: 3
 title: revivify
@@ -11,4 +11,4 @@ This spell requires [[30c|money]] worth of ritual components, which are expended
 
 You touch a creature that has died within the last minute. That creature returns to life, with all but 1 [[harm]] box filled in. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.
 
-Performing this spell is risky; see the "Concerning Resurrection" section of [[Dolurrh]].
+Performing this spell is risky; see the <<navAndScrollToHeader "Dolurrh" "Concerning Resurrection">> section of [[Dolurrh]].

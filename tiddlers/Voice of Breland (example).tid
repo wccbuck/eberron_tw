@@ -1,6 +1,6 @@
 category: document
 created: 20210906073609851
-modified: 20220318174346501
+modified: 20230103222050701
 tags: newspaper [[Five Voices]] Breland
 title: Voice of Breland (example)
 type: text/vnd.tiddlywiki
@@ -8,6 +8,17 @@ type: text/vnd.tiddlywiki
 The following is an example issue of the //Voice of Breland//, a [[Five Voices]] publication distributed across [[Breland]].
 
 <div style="text-align:justify; text-justify: inter-word;">
+
+!! Links to Headers
+* <<scrollToHeader "Watch Commander or Crime Lord?">>
+* <<scrollToHeader "Blood Addicts' Dragon Drug">>
+* <<scrollToHeader "Lies on Trial! Karrn Spy Faces Justice">>
+* <<scrollToHeader "Pauper Prince Plots Bandit Barony">>
+* <<scrollToHeader "Korranberg Chronicle Exposed!">>
+* <<scrollToHeader "Corpse Cleric Condemns Claw">>
+* <<scrollToHeader "The Kalashtar Prophecy You Can't Ignore!">>
+* <<scrollToHeader "Is Your Neighbor a Cyran Invader?">>
+* <<scrollToHeader "Notes">>
 
 !! Watch Commander or Crime Lord?
 

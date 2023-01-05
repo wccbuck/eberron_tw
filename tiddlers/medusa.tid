@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200423003320414
-modified: 20221212230004699
+modified: 20230104002742552
 tags: humanoid monstrosity
 tier: 3
 title: medusa
@@ -10,6 +10,15 @@ type: text/vnd.tiddlywiki
 var: uncommon
 
 Medusas are scaly monstrous humanoids with writhing serpents in place of hair. They are known and feared for their gaze, which can turn any creature who meets it to [[stone|flesh to stone]].
+
+!! Links to Headers
+* <<scrollToHeader "Overview">>
+* <<scrollToHeader "History of the Medusas">>
+* <<scrollToHeader "Whispers in the Stone">>
+* <<scrollToHeader "Medusa Names">>
+* <<scrollToHeader "Notes">>
+
+!! Overview
 
 The [[Gatekeepers]] claim that medusas were created by the [[daelkyr]] [[Orlassk]], but the medusa priests of [[Cazhaak Draal]] offer their devotions to the [[Shadow]]. They claim that the Shadow shaped many of the creatures [[human]]s see as monsters, giving the [[harpy]] her deadly voice, hiding the [[displacer beast]] from its foes, and healing the wounds of the [[troll]]. These priests view the deities of the [[Sovereign Host]] as the true evil, comparing the exile of the Shadow to the fear with which many humans respond to medusas and other monsters.
 

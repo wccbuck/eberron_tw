@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20200428222715898
-modified: 20221201002730841
+modified: 20230103191702534
 tags: [[divine magic]]
 tier: 3
 title: raise dead
@@ -18,4 +18,4 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target must spend at least a week recovering before returning to their former strength.
 
-Performing this spell is risky; drawing a spirit back from [[Dolurrh]] might catch the attention of a Dolurrhi [[marut]], or even bring back the wrong spirit, causing a [[ghost]] to manifest or ending up with a hostile personality in your friend's body. This is why [[Jorasco]] healers capable of resurrection typically cast [[augury]] first, and will refuse service if the result is "woe". For more information, see the "Concerning Resurrection" section of [[Dolurrh]].
+Performing this spell is risky; drawing a spirit back from [[Dolurrh]] might catch the attention of a Dolurrhi [[marut]], or even bring back the wrong spirit, causing a [[ghost]] to manifest or ending up with a hostile personality in your friend's body. This is why [[Jorasco]] healers capable of resurrection typically cast [[augury]] first, and will refuse service if the result is "woe". For more information, see the <<navAndScrollToHeader "Dolurrh" "Concerning Resurrection">> section of [[Dolurrh]].

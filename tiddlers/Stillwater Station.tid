@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20210324010235990
-modified: 20210727192034403
+modified: 20230103233537932
 points: 36.065,10.4
 style: {"color": "#CA5700"}
 tags: town Mournland
@@ -32,6 +32,14 @@ dominion in the Mournland.
 
 Yet even in this cursed and blasted land, at least one
 small community is tenaciously holding its ground.
+
+!! Links to Headers
+* <<scrollToHeader "The Founding of Stillwater Station">>
+* <<scrollToHeader "The Shape of Stillwater">>
+* <<scrollToHeader "The Station Market">>
+** <<scrollToHeader "Merchants">>
+* <<scrollToHeader "Adventure Hooks">>
+* <<scrollToHeader "Notes">>
 
 !! The Founding of Stillwater Station
 

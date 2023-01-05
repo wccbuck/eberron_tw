@@ -1,6 +1,6 @@
 category: miscellaneous
 created: 20201222081940370
-modified: 20221121184912761
+modified: 20230103214144634
 tags: Sharn
 title: Wards of Sharn
 type: text/vnd.tiddlywiki
@@ -50,10 +50,17 @@ of what to expect there. A district in [[Upper Central]] will
 typically be well kept and swarming with guards, while
 a district in [[Lower Dura]] will be squalid and dangerous. 
 
+!! Links to Headers
+* <<scrollToHeader "Getting Around">>
+** <<scrollToHeader "Travel Time">>
+* <<scrollToHeader "Important Districts">>
+* <<scrollToHeader "Dungeons of Sharn">>
+* <<scrollToHeader "Notes">>
+
 !! Getting Around
 
 Sharn is an enormous city, and traveling on foot from
-one side of the city to the other can be time-consuming; see the "Travel Time" section below. In addition, not all the quarters of Sharn are linked to one another by
+one side of the city to the other can be time-consuming; see the <<scrollToHeader "Travel Time">> section below. In addition, not all the quarters of Sharn are linked to one another by
 bridges. The connections that do exist include these:
 
 * [[Central Plateau]] has bridges that lead to [[Northedge]] and [[Menthis|Menthis Plateau]].
@@ -110,13 +117,12 @@ In summary:
 !! Important Districts
 
 |!&nbsp; |![[Central Plateau]] |![[Dura]] |![[Menthis Plateau]] |![[Northedge]] |![[Tavick's Landing]] |
+|!Above the city |[[Skyway]] |<|<|<|<|
 |![[Upper|upper ward]] |[[Highest Towers]], [[Korranath]], [[Mithral Tower]], [[Platinum Heights]], [[Skysedge Park]] |[[Clifftop]], [[Daggerwatch]], [[Highhold]], [[Highwater]], [[Hope's Peak]], [[Overlook]] |[[Den'iyas]], [[Ivy Towers]], [[Seventh Tower]], [[University District]] |[[Crystal Bridge]], [[Oak Towers]], [[Shae Lias]] |[[Copper Arch]], [[Ocean View]], [[Silvergate]], [[Sunrise]], [[Twelve Pillars]] |
 |![[Middle|middle ward]] |[[Ambassador Towers]], [[Dragon Towers]], [[Sovereign Towers]], [[Sword Point]], [[Tradefair]] |[[The Bazaar|Bazaar]], [[Broken Arch]], [[Hareth's Folly]], [[Rattlestone]], [[Stormhold]], [[Tumbledown]], [[Underlook]] |[[Cassan Bridge]], [[Everbright]], [[Little Plains]], [[Smoky Towers]], [[Warden Towers]] |[[High Hope]], [[Holdfast]] |[[Cornerstone]], [[Deathsgate]], [[Grawand]], [[Tavick's Market]] |
 |![[Lower|lower ward]] |[[Boldrei's Hearth]], [[Olladra's Kitchen]] |[[Callestan]], [[Fallen]], [[Gate of Gold]], [[Malleon's Gate]], [[Oldkeep]], [[Precarious]], [[The Stores|Stores]] |[[Downstairs]], [[Firelight]], [[Torchfire]] |[[Longstairs]], [[North Market]], [[Stoneyard]] |[[Black Arch]], [[Cogsgate]], [[Dragoneyes]], [[High Walls]], [[Terminus]], [[Wroann's Gate]] |
-|!The [[Cogs]] |[[Ashblack]], [[Blackbones]], [[Khyber's Gate]] |<|<|<|<|
-
-Above the city: [[Skyway]]<br/>
-[[Cliffside]] (on the banks of the [[Dagger|Dagger River]], bordering [[Dura]]): [[Grayflood]], [[Mud Caves]], [[Sharn's Welcome]], [[Ship's Towers]]
+|![[Cliffside]] |[[Grayflood]], [[Mud Caves]], [[Sharn's Welcome]], [[Ship's Towers]] |<|<|<|<|
+|!The&nbsp;[[Cogs]] |[[Ashblack]], [[Blackbones]], [[Khyber's Gate]] |<|<|<|<|
 
 To see all locations in Sharn in a complete bulleted list, see [[Locations in Sharn]].
 

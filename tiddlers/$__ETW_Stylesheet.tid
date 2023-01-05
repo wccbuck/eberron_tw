@@ -1,8 +1,12 @@
 created: 20200212174048601
-modified: 20221203002038933
+modified: 20230103205240645
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
+
+h1, h2, h3, h4, h5, h6 {
+    scroll-margin-top: 80px;
+}
 
 table.manager-table
 {
