@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210808004911470
-modified: 20220824220553669
+modified: 20230105210315810
 tags: toolset [[equipment pack]]
 tier: 1
 title: herbalism kit
@@ -12,3 +12,5 @@ This kit contains a variety of
 instruments such as clippers, mortar and pestle, and
 pouches and vials used by herbalists to create remedies
 and potions. It is also useful for identifying herbs and poisonous plants.
+
+A [[gleaner]] might use an herbalism kit as a [[magical implement]] to cast their spells.

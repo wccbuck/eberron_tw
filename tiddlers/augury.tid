@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201216163606242
-modified: 20220824163950894
+modified: 20230105211051102
 tags: [[divine magic]] divination
 tier: 2
 title: augury
@@ -18,3 +18,7 @@ By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or 
 The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
 
 If you cast the spell two or more times within 24 hours, there is an increasing chance for each casting after the first that you get a random reading (<<dr 1d4>>, where 1=Weal, etc). The GM makes this roll in secret.
+
+!! Augury in the Five Nations
+
+In [[Khorvaire]], oracles are a type of [[magewright]] that can be found in any major city. Every oracle has a preferred method of divination. Some use cards, others use bones or dice. But the spell //augury// is the bread and butter of the oracle. Most oracles can use augury to make predictions stretching further into the future than the spell normally allows (such as a day, or a week), but they may be limited in the subjects they can predict—some oracles only make predictions related to agriculture, while others discuss romance.

@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
 currentversion: 1.20.4
-modified: 20230103220311614
+modified: 20230105231111550
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -11,12 +11,14 @@ type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 
-!!! 1.20.4 <span style="font-weight:normal">(Jan xx, 2023)</span>
+!!! 1.20.4 <span style="font-weight:normal">(Jan 5, 2023)</span>
 
-* Added a "scroll to header" feature. This allows me to have little tables of contents for long pages with links to specific headers, making navigation a lot easier. I can also link to specific sections on pages. This feature works much smoother than Tiddlywiki's default anchor links feature.
+* Added a "scroll to header" feature. This allows me to have little tables of contents for long pages with links to specific headers, making navigation a lot easier. I can also link to specific sections on pages. This feature works much smoother than Tiddlywiki's default anchor links feature. In addition to links within a page (like with tables of contents), I can also link to headers on other pages; e.g. I can link a specific section of the [[Xoriat]] page like this: <<navAndScrollToHeader "Xoriat" "Denizens">>
 * Renamed "Gordion rope" to "[[Gordian rope]]" (typo)
 * Made [[Chalice Lake]] properly connect to its rivers on the map
-* 
+* Added [[truthteller]] and [[orb of time]] from ExE
+* Added some common magic items inspired by the "minor property" table of the 5e DMG: [[beacon weapon]], [[delver's amulet]], [[gleaming weapon]]
+* Added a little to [[Etrigani]]
 
 !!! 1.20.3 <span style="font-weight:normal">(Dec 28, 2022)</span>
 
