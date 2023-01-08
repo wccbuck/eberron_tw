@@ -1,6 +1,6 @@
 category: note
 created: 20220208023535083
-modified: 20221230204339579
+modified: 20230105235651860
 showmore: hide
 tags: 
 title: Adventures of Arien
@@ -16,9 +16,21 @@ The adventures of [[Arien Grimbold]]!
 
 998 YK
 
-!! Session 8
+!! Links to Headers
+* <<scrollToHeader "Session 8">>
+** <<scrollToHeader "TODO">>
+** <<scrollToHeader "Magic Items">>
+** <<scrollToHeader "Fey Adventures">>
+** <<scrollToHeader "Second Semester Courses">>
+* <<scrollToHeader "Scenes">>
+** <<scrollToHeader "Therendor">>
+** <<scrollToHeader "Eyre">>
+** <<scrollToHeader "Dravago">>
+** <<scrollToHeader "Nymm">>
+** <<scrollToHeader "Lharvion">>
+** <<scrollToHeader "Barrakas">>
 
-<a href="##scenes">Jump to scenes</a>
+!! Session 8
 
 !!! TODO
 
@@ -30,7 +42,7 @@ The adventures of [[Arien Grimbold]]!
 
 Need to come up with cool [[magic item]]s to give to Arien.
 
-Just a nice-quality common-[[rarity]] sword made by Starilaskur Arms that self-cleans?
+* a nice-quality [[gleaming weapon]] (sword) made by Starilaskur Arms.
 
 Some fun fey options:
 
@@ -100,8 +112,6 @@ Set up a [[progress clock]] for each of Arien's classes
 * Bestiary (taught by Visitant [[Sejra Whitebinder]])
 
 !! Scenes
-
-<a id="#scenes"></a>
 
 !!! Therendor
 

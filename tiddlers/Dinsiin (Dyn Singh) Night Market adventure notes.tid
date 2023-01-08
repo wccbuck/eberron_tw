@@ -1,13 +1,34 @@
 category: note
 created: 20221216183023016
-modified: 20221230211640132
+modified: 20230108065507530
 tags: [[Adventures of Arien]]
 title: Dinsiin (Dyn Singh) Night Market adventure notes
 type: text/vnd.tiddlywiki
 
 Based on the "Salted Legacy" adventure in Journeys through the Radiant Citadel. The night market in [[Starilaskur]] opens in mid-Eyre each year and runs until mid-Sypheros ([[Khorvaire calendar]]). Nights get too cold the rest of the year.
 
-<a href="##marketgames">Jump to market games</a>
+!! Links to Headers
+* <<scrollToHeader "Summary">>
+* <<scrollToHeader "Background">>
+* <<scrollToHeader "Hooks">>
+* <<scrollToHeader "Market Info">>
+** <<scrollToHeader "Exploring the Market">>
+** <<scrollToHeader "Caught in the Middle">>
+** <<scrollToHeader "Kelber Approaches">>
+* <<scrollToHeader "Market Investigations">>
+** <<scrollToHeader "Learning More">>
+* <<scrollToHeader "Market Games">>
+** <<scrollToHeader "Annarik Family Pepper Challenge">>
+** <<scrollToHeader "Battle Prawn Challenge">>
+** <<scrollToHeader "Hide-and-Seek Challenge">>
+* <<scrollToHeader "What Vendors Know">>
+** <<scrollToHeader "Vi Annarik">>
+** <<scrollToHeader "Madam Kulp">>
+** <<scrollToHeader "Sid Squid">>
+** <<scrollToHeader "Other Vendors">>
+* <<scrollToHeader "Revealing the Plot">>
+* <<scrollToHeader "Misc Notes">>
+
 
 !! Summary
 
@@ -119,9 +140,7 @@ The shop owner speculates other vendors would view Arien as more than just a vis
 
 !! Market Games
 
-<a id="#marketgames"></a>
-
-Arien can increase her renown among the Dinsiin Night Market's vendors by participating in the Market Games. Renown is a numerical value that starts at zero. Each Market Game grants 1 renown for winning the event, and participating in all three grants 1 renown since the locals respect her tenacity (3 renown max). The vendors grow more willing to share information with Arien as her renown increases (see the "What Vendors Know" section below).
+Arien can increase her renown among the Dinsiin Night Market's vendors by participating in the Market Games. Renown is a numerical value that starts at zero. Each Market Game grants 1 renown for winning the event, and participating in all three grants 1 renown since the locals respect her tenacity (3 renown max). The vendors grow more willing to share information with Arien as her renown increases (see <<scrollToHeader "What Vendors Know">>).
 
 All Arien needs to do to participate in a Market Game is show up at an event tent and ask to compete. The games run several times throughout the evening. 
 
@@ -135,9 +154,9 @@ After each Market Game, or whenever Arien is away from the Tyenmo and Zunguun sh
 
 The Market Games take place inside three golden tents located in the Event Grounds, which are situated in the center of the Dinsiin Night Market. Vendors sponsor events to advertise their wares and attract visitors to the market. The current sponsor of each tent decides how its interior is arranged. The following three events are now being hosted:
 
-* ''Annarik Family Pepper Challenge.'' A test of endurance hosted by the Spicy Brothers.
-* ''Battle Prawn Challenge.'' A cooking competition hosted by Sid Squid of the Trusty Leek.
-* ''Hide-and-Seek Challenge.'' A game hosted by Madam Kulp's Silk.
+* <<scrollToHeader "Annarik Family Pepper Challenge">>. A test of endurance hosted by the Spicy Brothers.
+* <<scrollToHeader "Battle Prawn Challenge">>.  A cooking competition hosted by Sid Squid of the Trusty Leek.
+* <<scrollToHeader "Hide-and-Seek Challenge">>.  A game hosted by Madam Kulp's Silk.
 
 !!! Annarik Family Pepper Challenge
 
@@ -182,15 +201,56 @@ Vi offers color commentary during the event, encouraging the crowd to cheer part
 
 When only one participant remains (or six rounds pass), the challenge ends. Winners and losers alike are rewarded with big bowls of creamy yogurt. Any character who wins the challenge gains 1 renown with the Dinsiin Night Market's vendors.
 
-After the challenge is completed, Arien can ask Vi for information about the thefts (see the "What Vendors Know" section below). Soon after Arien starts questioning Vi or as she leaves the tent, Kelber arrives with news regarding trouble in the market. Roll on the Market Mischief table above to determine what has transpired.
+After the challenge is completed, Arien can ask Vi for information about the thefts (see <<scrollToHeader "Vi Annarik">> section below). Soon after Arien starts questioning Vi or as she leaves the tent, Kelber arrives with news regarding trouble in the market. Roll on the Market Mischief table above (<<scrollToHeader "Market Games">>) to determine what has transpired.
 
 !!! Battle Prawn Challenge
 
-[WIP]
+Sid Squid's Trusty Leek sponsors Battle Prawns: The Shrimpening. Sid's shrimp cakes were voted best dish during a festival competition last year. This challenge, held in the northern event tent, tests participants' inventiveness and versatility as they prepare giant versions of his signature dish.
+
+The tent is decorated in a nautical theme, heavy on rope decor and brass fixtures. Sid ([[human]]) and five assistance, all wearing yellow chef's outfits, eagerly invite visitors to participate in Battle Prawns. If Arien asks, Sid explains the challenge is simple: assist in making a gigantic shrimp cake in record time. Participants must rapidly prepare prawn meat and chop beans for the sous-chefs. If they perform these preparations fast enough, they might complete the recipe in record time. Unless Arien specifically asks, no one mentions the unusual prawns used in this challenge.
+
+Participants are invited to don yellow aprons that match those of Sid and Sid's assistance. The next challenge begins shortly.
+
+!!!! Battle Arena
+
+<div align="center">
+[img[https://i.postimg.cc/rmL5cB9f/battle-prawns.png]]
+</div>
+
+Sid's assistance lead participating characters into the main part of the tent. Read or paraphrase the following.
+
+<<<
+Excited onlookers crowd the bleachers within this vast, open tent. One half of the space is crowded with cooking tools: a pair of oversized woks and two long cutting stations containing bundles of foot-long green beans. The other side holds a pool-sized glass tank filled with water. The water churns as large, shadowy shapes move within.
+<<<
+
+The western half of the arena holds the cooking implements and ingredients needed to prepare the shrimp cakes; the eastern half contains a 10-foot-tall tank of water and several gigantic jagged koi prawns. Steps at either end lead to the top of the tank.
+
+Participating characters are directed to take places near the preparation tables at the center of the tent. Sid welcomes the crowd and enthusiastically announces they'll prepare giant shrimp cakes—hopefully, in record time. Sid directs the audience's attention to two special ingredients: delicious green tree beans and giant, jagged koi prawns.
+
+!!!! Running the Challenge
+
+One of Sid's assistance explains what participants need to do in more detail than before: prepare a bundle of green tree beans and slay a jagged koi prawn. If Arien can perform both tasks in less than a minute and thirty seconds, she wins the challenge. While Sid works the crowd, the assistants can answer any questions with details from this section. The assistance direct participants not to move from the preparation tables until Sid gives the signal.
+
+* ''//Bean Preparation://'' Massive bundles of green tree beans cover both preparation tables. Participants must chop or mash the beans with the various cooking knives at the table, their own tools, or other methods. A pile is rendered unusable if it takes any amount of acid, fire, lightning, necrotic, or radiant damage (see [[damage type]]). Once a pile of beans has been chopped, the sous-chefs add the prepared beans to the woks.
+* ''//Prawn Preparation://'' The large tank contains four 8-foot-long jagged koi prawns. Arien must slay one of the prawns. Waiting sous-chefs then fish the prawn out and drag it to a wok. The prawns are not initially hostile but defend themselves if they take damage. Attackers might have [[disadvantage]] to attack from outside the water. If the prawns seriously injure a participant, Sid ends the challenge while the sous-chefs get any wounded participants to safety.
+
+Once any questions are answered, Sid's sous-chefs position themselves around the large woks, ready to transform the ingredients into the final dish. Sid leads the audience in counting down: "Three... two... one... start!"
+
+!!!! Ending the Challenge
+
+If Arien (and her co-participant, if any) completed both tasks in less than 1:30, the shrimp cakes are made in record time. Arien gains 1 renown with the market's vendors. If the challenge took longer, Sid's crew and the audience remain in high spirits as they eat the delicious shrimp cakes, but Arien gains no renown.
+
+As Sid thanks the characters for participating, trouble befalls the market vendors. Roll on the Market Mischief table above (<<scrollToHeader "Market Games">>) to determine what has transpired.
+
+See also what Sid knows: <<scrollToHeader "Sid Squid">>
 
 !!! Hide-and-Seek Challenge
 
 [WIP]
+
+<div align="center">
+[img[https://i.postimg.cc/g0h3Cz3w/hide-and-seek.png]]
+</div>
 
 !! What Vendors Know
 
