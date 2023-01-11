@@ -1,6 +1,6 @@
 category: note
 created: 20221216183023016
-modified: 20230108065507530
+modified: 20230111041037281
 tags: [[Adventures of Arien]]
 title: Dinsiin (Dyn Singh) Night Market adventure notes
 type: text/vnd.tiddlywiki
@@ -27,8 +27,9 @@ Based on the "Salted Legacy" adventure in Journeys through the Radiant Citadel. 
 ** <<scrollToHeader "Sid Squid">>
 ** <<scrollToHeader "Other Vendors">>
 * <<scrollToHeader "Revealing the Plot">>
+** <<scrollToHeader "Rivals Explode">>
+* <<scrollToHeader "Conclusion">>
 * <<scrollToHeader "Misc Notes">>
-
 
 !! Summary
 
@@ -105,9 +106,9 @@ The arguing kobold woman notices you and turns from her son and the irate gnome 
 Both women turn towards each other again, quarreling anew over what they'll offer you to help them.
 <<<
 
-Kusa and Lamai argue in front of Arien, upping their offers to include as much as [[10c|money]] as well as increasingly grandiose delicacies and family cooking secrets, such as a feast of thrice-fried liontrout, or the secret of making bewildering mobius noodles. Both vendors are eager to prove the other is to blame for the vandalism and sabotage both of their market stalls have been suffering. Neither has entertained the notion that someone else might be to blame for their ill fortune or that other shops might also be affected.
+Kusa and Lamai argue in front of Arien, upping their offers to include as much as [[6c|money]] as well as increasingly grandiose delicacies and family cooking secrets, such as a feast of thrice-fried liontrout, or the secret of making bewildering mobius noodles. Both vendors are eager to prove the other is to blame for the vandalism and sabotage both of their market stalls have been suffering. Neither has entertained the notion that someone else might be to blame for their ill fortune or that other shops might also be affected.
 
-Kusa and Lamai stop bickering either when the characters interrupt them or when their argument meets an appropriately ludicrous climax. At this point, Arien can choose to ally with one or the other for a 10c reward and a lifetime supply of free meals at their employer's cart (or she can offer to investigate on behalf of both of them). The request from either vendor is the same: investigate the shopkeepers' stands and the surrounding market and prove their rival is sabotaging them. The shopkeeper will take any evidence the characters find, present it to the Dinsiin Merchant Collective that oversees the market, and have their rival banned from the market. If Arien doesn't want to pick sides but agree to investigate, both shopkeepers convince themselves they've successfully hired her.
+Kusa and Lamai stop bickering either when the characters interrupt them or when their argument meets an appropriately ludicrous climax. At this point, Arien can choose to ally with one or the other for a 6c reward and a lifetime supply of free meals at their employer's cart (or she can offer to investigate on behalf of both of them). The request from either vendor is the same: investigate the shopkeepers' stands and the surrounding market and prove their rival is sabotaging them. The shopkeeper will take any evidence the characters find, present it to the Dinsiin Merchant Collective that oversees the market, and have their rival banned from the market. If Arien doesn't want to pick sides but agree to investigate, both shopkeepers convince themselves they've successfully hired her.
 
 If Arien refuses to get involved, one of the shopkeepers approaches her later under calmer circumstances, restating their concerns about their shop's safety while making their offer again.
 
@@ -207,9 +208,9 @@ After the challenge is completed, Arien can ask Vi for information about the the
 
 Sid Squid's Trusty Leek sponsors Battle Prawns: The Shrimpening. Sid's shrimp cakes were voted best dish during a festival competition last year. This challenge, held in the northern event tent, tests participants' inventiveness and versatility as they prepare giant versions of his signature dish.
 
-The tent is decorated in a nautical theme, heavy on rope decor and brass fixtures. Sid ([[human]]) and five assistance, all wearing yellow chef's outfits, eagerly invite visitors to participate in Battle Prawns. If Arien asks, Sid explains the challenge is simple: assist in making a gigantic shrimp cake in record time. Participants must rapidly prepare prawn meat and chop beans for the sous-chefs. If they perform these preparations fast enough, they might complete the recipe in record time. Unless Arien specifically asks, no one mentions the unusual prawns used in this challenge.
+The tent is decorated in a nautical theme, heavy on rope decor and brass fixtures. Sid ([[human]]) and five assistants, all wearing yellow chef's outfits, eagerly invite visitors to participate in Battle Prawns. If Arien asks, Sid explains the challenge is simple: assist in making a gigantic shrimp cake in record time. Participants must rapidly prepare prawn meat and chop beans for the sous-chefs. If they perform these preparations fast enough, they might complete the recipe in record time. Unless Arien specifically asks, no one mentions the unusual prawns used in this challenge.
 
-Participants are invited to don yellow aprons that match those of Sid and Sid's assistance. The next challenge begins shortly.
+Participants are invited to don yellow aprons that match those of Sid and Sid's assistants. The next challenge begins shortly.
 
 !!!! Battle Arena
 
@@ -217,7 +218,7 @@ Participants are invited to don yellow aprons that match those of Sid and Sid's 
 [img[https://i.postimg.cc/rmL5cB9f/battle-prawns.png]]
 </div>
 
-Sid's assistance lead participating characters into the main part of the tent. Read or paraphrase the following.
+Sid's assistants lead participating characters into the main part of the tent. Read or paraphrase the following.
 
 <<<
 Excited onlookers crowd the bleachers within this vast, open tent. One half of the space is crowded with cooking tools: a pair of oversized woks and two long cutting stations containing bundles of foot-long green beans. The other side holds a pool-sized glass tank filled with water. The water churns as large, shadowy shapes move within.
@@ -229,7 +230,7 @@ Participating characters are directed to take places near the preparation tables
 
 !!!! Running the Challenge
 
-One of Sid's assistance explains what participants need to do in more detail than before: prepare a bundle of green tree beans and slay a jagged koi prawn. If Arien can perform both tasks in less than a minute and thirty seconds, she wins the challenge. While Sid works the crowd, the assistants can answer any questions with details from this section. The assistance direct participants not to move from the preparation tables until Sid gives the signal.
+One of Sid's assistants explains what participants need to do in more detail than before: prepare a bundle of green tree beans and slay a jagged koi prawn. If Arien can perform both tasks in less than 90 seconds, she wins the challenge. (if she has help, shorten the time to 1 minute.) While Sid works the crowd, the assistants can answer any questions with details from this section. The assistants direct participants not to move from the preparation tables until Sid gives the signal.
 
 * ''//Bean Preparation://'' Massive bundles of green tree beans cover both preparation tables. Participants must chop or mash the beans with the various cooking knives at the table, their own tools, or other methods. A pile is rendered unusable if it takes any amount of acid, fire, lightning, necrotic, or radiant damage (see [[damage type]]). Once a pile of beans has been chopped, the sous-chefs add the prepared beans to the woks.
 * ''//Prawn Preparation://'' The large tank contains four 8-foot-long jagged koi prawns. Arien must slay one of the prawns. Waiting sous-chefs then fish the prawn out and drag it to a wok. The prawns are not initially hostile but defend themselves if they take damage. Attackers might have [[disadvantage]] to attack from outside the water. If the prawns seriously injure a participant, Sid ends the challenge while the sous-chefs get any wounded participants to safety.
@@ -242,15 +243,51 @@ If Arien (and her co-participant, if any) completed both tasks in less than 1:30
 
 As Sid thanks the characters for participating, trouble befalls the market vendors. Roll on the Market Mischief table above (<<scrollToHeader "Market Games">>) to determine what has transpired.
 
-See also what Sid knows: <<scrollToHeader "Sid Squid">>
+What Sid knows: <<scrollToHeader "Sid Squid">>
 
 !!! Hide-and-Seek Challenge
 
-[WIP]
+The Hide-and-Seek Challenge is sponsored by Madam Kulp, who creates luxurious fashions from silk spun by tut-krogh caterpillars. Her event takes place in the eastern event tent. This challenge doesn't have an audience.
+
+When Arien enters the tent, read or paraphrase the following:
+
+<<<
+Seated near the center of this sizable empty tent is a wizened [[gnome]] at work amid tangles of colorful yarn. Several fuzzy, kitten-sized blue caterpillars drowse on her, nestled in her clothing and hair. The gnome peers up and says, "Welcome! I am Madam Kulp. Are you hare to play hide-and-seek with my gentle friends?"
+<<<
+
+Madam Kulp is an elderly [[gnome]] woman. If the characters accept her challenge, she hops up and opens a trapdoor at the center of the tent. A ladder descends into a dark, messy room full of boxes and furniture.
+
+Madam Kulp explains that below are a series of rooms where several tut-krogh caterpillars are hiding. Her challenge is simple: descend the ladder and bring back three caterpillars within 2 minutes. (If Arien has someone helping, she must bring four caterpillars in 90 seconds.) Participants can use magical assistance as long as the caterpillars aren't harmed—Madam Kulp is adamant about the caterpillars' safety. If Arien agrees to these rules, she may descend into the maze when she is ready.
+
+!!!! Running the Challenge
+
+Once Arien has descended the ladder, read the following:
+
+<<<
+The ladder descends into a dimly lit room smelling of dust and sweet spices. Musty furniture and crates are strewn about the space. A door leads north.
+<<<
 
 <div align="center">
 [img[https://i.postimg.cc/g0h3Cz3w/hide-and-seek.png]]
 </div>
+
+The challenge area includes seven rooms. Unlocked doors connect the spaces, all of which are filled with colorful but worthless clutter. The doors are rickety and fit loosely in their frames, allowing tut-krogh caterpillars to move between the rooms unimpeded. Area H1 is lit by a lantern shedding dim light; the other areas are dark.
+
+When the last participant reaches the bottom of the ladder, Madam Kulp shouts, "Ready? Go!" 
+
+Four tut-krogh caterpillars hide among the cluttered rooms, one each in areas H3, H4, H5, and H7. Once a character finds a tut-krogh, they can try to convince the caterpillar to come with them, or try to grab it; a failed attempt to grab a caterpillar causes it to flee to an adjoining room.
+
+!!!! Ending the Challenge
+
+The challenge ends either when Arien (+ assistance) brings three (or four) caterpillars to area H1 or after the time limit passes, whichever occurs first.
+
+If Arien successfully completes the challenge, the shop owner is delighted and declares her a winner. Gain 1 renown with the market's vendors.
+
+If Arien fails, Madam Kulp invites them into the tent and commiserates that tut-krogh caterpillars are tricky creatures. She invites her to try the challenge again later. 
+
+What Kulp knows: <<scrollToHeader "Madam Kulp">>
+
+Soon after leaving the tent, Arien learns that a misfortune has befallen a market vendor. Roll on the Market Mischief table above (<<scrollToHeader "Market Games">>) to determine what has transpired.
 
 !! What Vendors Know
 
@@ -258,23 +295,71 @@ Vendors in the Dinsiin Night Market know a great deal about the market's inner w
 
 !!! Vi Annarik
 
-[WIP]
+[[Kelber|Kelber Annarik]]'s twin and co-owner of Spicy Brothers, Vi Annarik loves what he does. He knows nothing about Kelber's plans but can be convinced to share the gossip in the below table.
+
+| !Renown |!Gossip |
+| 0 |Vi shares that he and Kelber had a fight earlier but doesn't reveal why. |
+| 1 |Vi explains he is getting married and moving to [[Xandrar]] where his betrothed lives. |
+| 2 |Vi confides that Kelber is angry about Vi's impending marriage. Kelber told Vi he's making a mistake by leaving the family business. |
+| 3 |After Vi told Kelber he was getting married, Kelber took an extra day to perform the regular supply run. He returned with an extra crate that he keeps in the Spicy Brothers' private tent. | 
 
 !!! Madam Kulp
 
-[WIP]
+Madam Kulp is a gnome seamster who works with the silk of tut-krogh caterpillars. She can share the gossip in the below table.
+
+| !Renown |!Gossip |
+| 0 |Madam Kulp makes a blunt comment about the characters' demeanor or appearance. |
+| 1 |Madam Kulp says her tut-krogh caterpillars become nervous whenever she walks them around the Tyenmo or Zunguun stalls. |
+| 2 |Madam Kulp believes [[Lamai|Lamai Tyenmo]] and [[Kusa|Kusa Zunguun]] would never intentionally harm one another, due to the damage their families' feud caused their parents. |
+| 3 |Madam Kulp thinks [[Kelber|Kelber Annarik]] has some kind of strange toy collection. She saw him winding up a toy and whispering to it, but her eyes aren't so good. | 
 
 !!! Sid Squid
 
-[WIP]
+Sid Squid ([[human]]) owns the Trusty Leek, a stall near whichever shop hired the characters. They are the head of one of the market's newest families—a squad of Brelish veterans turned business owners. Sid can share the gossip in the below table.
+
+| !Renown |!Gossip |
+| 0 |Sid changes the subject to relate a story from their army days. |
+| 1 |Sid explains that a few vendors like to see the Zunguun and Tyenmo families fight. If the two get along, it could strain other vendors who have ongoing deals with both families. |
+| 2 |Sid overheard [[Kelber|Kelber Annarik]] talking about buying a family business to run, which is against market tradition. |
+| 3 |Sid saw Kelber covertly peering at the Zunguun family's stall right before a sabotage occurred. | 
 
 !!! Other Vendors
 
-[WIP]
+Many vendors within the Dinsiin Night Market have general knowledge about the Tyenmo and Zunguun families as well as recent thefts in the market. These vendors can share the gossip below.
+
+| !Renown |!Gossip |
+| 0 |The vendor changes the subject, directing the characters' attentions toward their goods. |
+| 1 |The vendor notes disturbances at the Tyenmo and Zunguun businesses cause quite the commotion. |
+| 2 |The vendor says some people believe the Tyenmo and Zunguun shops are haunted, or cursed. Passersby claim to have heard a strange mechanical buzzing or whirring sound, but  seen no source for it. |
+| 3 |The vendor describes seeing a small toy appear out of thin air, fall to the floor, and vanish near the Tyenmo or Zunguun tent. |
 
 !! Revealing the Plot
 
-[WIP]
+After Arien completes a few Market Games and makes inquiries around the market, she likely learns the following facts:
+
+* No one has seen members of either the Tyenmo family or the Zunguun family sabotaging the other family's stand.
+* Vi is leaving the market, making [[Kelber|Kelber Annarik]]'s future uncertain.
+* Kelber is behaving strangely and seems fixated on the Tyenmo and Zunguun stands.
+
+If Arien takes information pointing toward Kelber to either [[Lamai Tyenmo]] or [[Kusa Zunguun]], the aggrieved vendor listens but remains fixated on her rival. Neither believes someone else is responsible unless the culprit confesses, Arien presents accounts from other vendors, or Arien reveals a windling.
+
+If Arien suspects [[Kelber Annarik]] of inflaming the Tyenmo-Zunguun rivalry, she might investigate him further. The Annarik brothers have a tent for storing supplies and conducting business next to their Spicy Brothers stall. Arien might be able to slip into that tent. The tent contains business records, cots for both brothers, crates of supplies... and one colorful crate full of windlings.
+
+Arien can convince Kelber to confess by presenting all three of the following rumors to him (or two and succeeding on an intimidation or persuasion attempt). If Arien does so, Kelber confesses to everything.
+
+* ''Brother Leaving.'' If Arien asks Kelber about his brother leaving the market, he grows agitated and notes that he's felt betrayed by his brother since Vi decided to abandon their business.
+* ''Buying Businesses.'' If Arien presses Kelber about him buying either Tyenmo Noodles of Zunguun Family Seafood, he explains he's looking out for his future. He doesn't care that there's no precedent for buying a family business.
+* ''Strange Toys.'' If asked about the box of windlings in the Spicy Brothers tent or reports of him winding one up, Kasem grows flustered and claims he's a collector of wind-up toys, a hobby he's a little embarrassed to admit.
+
+!!! Rivals Explode
+
+If Arien fails at the Market Games or reaches dead ends in her investigations, the Tyenmo-Zunguun rivalry comes to a head when Lamai and Kusa get into a public scrap at one of their stands. While the shop vendors fight, Arien notices Kelber watching with a smile, then sneakily picking up a wind-up key. She can confront him at that point and convince him to confess to everything.
+
+!! Conclusion
+
+The adventure ends when Kelber's plot—and potentially the windlings—are revealed to [[Lamai Tyenmo]] or [[Kusa Zunguun]]. If Arien hasn't already confronted Kelber, Lamai or Kusa finds him and publicly accuses him of sabotaging her stall. If the vendors are backed up by Arien, witness claims, and evidence, Kelber quickly confesses. Market guards usher Kelber from the market and forbid him from returning unless Arien intercedes on his behalf. If Arien advocates for Kelber, another vendor offers to adopt him into their family if he promises no more deceit. (Doseth.)
+
+In the aftermath, Kusa and Lamai are quick to apologize to one another and reconcile their differences. They thank Arien and award her 6c and a lifetime of meals from their stalls.
 
 !! Misc Notes
 
