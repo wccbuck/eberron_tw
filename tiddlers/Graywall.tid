@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200415203428235
-modified: 20230104000135210
+modified: 20230130210015298
 points: 33.517,-28.88
 population: 34800
 style: {"color": "#8E0024"}
@@ -18,7 +18,6 @@ type: text/vnd.tiddlywiki
 
 //"Are you hungry, little one?" the [[manticore]] rumbled. Blood dripped onto the stones as he spoke. "You're welcome to a leg. I assume you don't want an arm."//
 
-''Nation'': [[Droaam]]<br/>
 ''Ruler:'' [[Xorchylic]]<br/>
 ''Population:'' <<ntls>>; an additional 2,500 laborers camped in the [[Stone Pits]]
 

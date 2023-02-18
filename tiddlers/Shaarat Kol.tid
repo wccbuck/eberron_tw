@@ -1,11 +1,76 @@
+alternatetitle: City of Goblins
 category: location
 color: #4C8201
 created: 20210326014926129
-modified: 20210727192030509
+modified: 20230215225926670
 points: 27.0,-31.75
-style: {"color": "#732873"}
-tags: fortress Droaam
+population: 6600
+style: {"color": "#8E0024"}
+tags: fortress Droaam city
 title: Shaarat Kol
 type: text/vnd.tiddlywiki
 
-The fortress-town of Shaarat Kol is the seat of the small domain of the [[Droaam]] [[warlord]] [[Kethelrax the Cunning]].
+''Ruler:'' [[Kethelrax the Cunning]]<br/>
+''Population:'' <<ntls>>
+
+The fortress-city of Shaarat Kol is the seat of the small domain of the [[warlord]] [[Kethelrax the Cunning]]. This "City of Goblins" is located in southeastern [[Droaam]], set against and into the western face of the [[Graywall Mountains]]. 
+
+!! Links to Headers
+* <<scrollToHeader "Overview">>
+* <<scrollToHeader "Interesting Things About Shaarat Kol">>
+* <<scrollToHeader "Above and Below">>
+** <<scrollToHeader "Upper City">>
+** <<scrollToHeader "Undercity">>
+* <<scrollToHeader "People of Shaarat Kol">>
+* <<scrollToHeader "Shaarat Kol and the Five Nations">>
+* <<scrollToHeader "Notes">>
+
+!! Overview
+
+Like [[Cazhaak Draal]], Shaarat Kol is built on the foundations of an ancient [[Dhakaan]]i city; unlike Cazhaak Draal, much of the original city remains intact. The name "Shaarat Kol" is [[Goblin]] for "Forge-city of Swords", and it was once an industrial center of the Empire of [[Dhakaan]], home to some of their greatest [[forge adepts|artificer]] (//daashor//). The city was either abandoned or completely depopulated during the wars with the [[daelkyr]]. Despite the damage of battle and the passage of time, the above-ground portions of the old city have remained largely habitable over the millennia. An [[ogre]] chieftain built a simple fortress within the ruins several hundred years ago, which also persists to this day.
+
+But much of Shaarat Kol's ancestor city was built underground, and in its last days, its gates were sealed with both [[arcane lock]]s and [[adamantine]] bars. None of the chibs or chieftains who claimed the fortress on the surface were ever able to delve below. None, at least, until [[Kethelrax the Cunning]]. In [[985 YK|Khorvaire calendar]], Kethelrax was merely the leader of a band of [[goblin]]s and [[kobold]]s who hid in the [[Graywall Mountains]] and raided the brutish chibs of the Barrens. [[Sora Katra]] came to Kethelrax's camp, shared with him the [[Daughters'|Daughters of Sora Kell]] vision for a united [[Droaam]], and urged him to seize the fortress to the south. The following month, Kethelrax led his followers in a daring attack against the [[ogre]]s and their [[ettin]] chib who held the ruins of Shaarat Kol. The Goblin Prince won the day and claimed the fortress after a vicious fight. Then, using knowledge [[Sora Katra]] had shared with him, Kethelrax was able to open the gates of the old undercity and discover the true face of Shaarat Kol.
+
+The undercity was mostly intact when Kethelrax opened its gates, and contained resources untouched for thousands of years; while some had been lost to time, [[adamantine]] doesn't rust like iron. However, the ancient daashors left countless traps along with their treasures before the city was sealed. Many wonders surely remain to be found in Shaarat Kol, but claiming them is a slow and dangerous process. Today, almost 13 years since the gates were unsealed, the denizens of Shaarat Kol have only reclaimed an estimated 20% of the ancient city.
+
+!! Interesting Things About Shaarat Kol
+
+* The <<scrollToHeader Undercity>> of Shaarat Kol holds undiscovered wonders. There could be an armory stocked with [[Dhakaan]]i artifacts, or the forge that was used to make them. There are certainly opportunities here for adventurers willing to brave the countless traps. But those who dig deeper might find that there are [[daelkyr]] forces left behind as well—as the [[Mror|Mror Holds]] found when they [[dug too deep|Realm Below]] into their ancient past.
+* The [[Heirs of Dhakaan]] may be interested in reclaiming Shaarat Kol, or at least recovering relics from the Undercity. This could lead to a deadly conflict between [[Kethelrax|Kethelrax the Cunning]] and the Kech Dhakaan. Agents of the [[Shaarat'khesh|Khesh'dar]] are likely already hidden among the people of Shaarat Kol, evaluating the situation and passing information to the clans.
+* [[Kethelrax|Kethelrax the Cunning]] rose to power by fighting other chibs. He’s made many enemies, most especially [[Rhesh Turakbar]]. Any of these foes could attempt to assassinate Kethelrax or sabotage Shaarat Kol. 
+
+!! Above and Below
+
+Shaarat Kol is essentially split into two cities: the <<scrollToHeader "Upper City">>, home to most of the population, and the vast <<scrollToHeader "Undercity">>, where [[Kethelrax|Kethelrax the Cunning]] holds court.
+
+!!! Upper City
+
+The Upper City of Shaarat Kol lies on the surface, and is rapidly expanding, with new buildings constructed in the [[Droaam]]ite style seen in [[Graywall]] and the [[Great Crag]]. Most of the population (see <<scrollToHeader "People of Shaarat Kol">>) lives in the Upper City, where most business takes place.
+
+The Upper City is a haven for trade, and is known for the vast ''Goblin Market'', which is even larger than the famous [[Bloody Market|Roar]] of [[Graywall]]. All manner of independent artisans, hunters, and [[magewright]]s sell goods and services here. Visitors can hire mercenaries, buy plunder from raiders, find trinkets scavenged from [[Dhakaan]]i ruins, or acquire dangerous imports from the [[Venomous Demesne]]. The Market is located in a wide plaza surrounded by tents and temporary housing. 
+
+Roughly two-thirds of the permanent structures in the Upper City are built for the comfort of small creatures, with another third of the city being designed to accommodate human-sized and larger creatures. [[Kethelrax|Kethelrax the Cunning]] has dedicated Shaarat Kol as a haven for [[goblin]]s and [[kobold]]s, who have long been oppressed in [[Droaam]]; he’s building this city first and foremost for his people.
+
+!!! Undercity
+
+The Undercity of Shaarat Kol lies beyond the ancient gates. This is where [[Kethelrax|Kethelrax the Cunning]] holds court, and where his most loyal and talented followers dwell. Should there ever be a serious attack, Kethelrax could seal the gates—and when those gates were last sealed, they held off intruders for thousands of years.
+
+The Undercity uses the intact infrastructure of the ancient [[Dhakaan]]i industrial center. It contains mines, foundries, and forges, and Kethelrax and his people are working to restore these facilities. While some of the great [[daashors|artificer]] were [[hobgoblin]]s, the golin’dar ([[goblin]]s) were the primary artificers of the empire, and much of the old city was designed for their comfort. 
+
+As noted above, the process of reclaiming the Undercity is slow, but teams of dungeoneers are always exploring new sections, disabling traps and defenses, and renovating old manufactories. Today, Kethelrax has restored a foundry and an ore processing facility, and his artificers are learning a great deal about the processes the [[Dhakaan]]i used to create and work [[adamantine]]. The lost secrets of Shaarat Kol could play a very important role in the future of [[Droaam]].
+
+!! People of Shaarat Kol
+
+[[Goblin|goblin]]s and [[kobold]]s make up nearly 90% of the population of Shaarat Kol. Many of these were formerly subjugated by brutal chibs, and either fled on their own or were released from their bondage by the [[Daughters of Sora Kell]] and allowed to go to Shaarat Kol. There is a tremendous sense of camaraderie among the people of the city; they're always working together and helping their neighbors. The city watch is small (in membership as well as stature), but wherever trouble arises, a mob of citizens will come together to deal with the problem. 
+
+Shaarat Kol has a number of large trade schools which teach the skills needed to use the facilities of the Undercity, and [[Kethelrax|Kethelrax the Cunning]] has brought in mentors from the Khaar'paal [[kobold]]s of the [[Graywall Mountains]] to help his kobold population harness their [[sorcerous|sorcerer]] potential. As a result, Shaarat Kol has far more [[magewright]]s than any other city in [[Droaam]]. The city is still growing and finding its footing, but it has more casual comforts than one can find even in the [[Great Crag]]. 
+
+The denizens of Shaarat Kol have largely embraced the [[faith of the Cazhaak Six|Cazhaak Creed]], and many attend a temple maintained by the [[medusa]] priest Shalaasa and a number of Khaar'paal [[adept]]s. 
+
+In general, Shaarat Kol is one of the safest cities in [[Droaam]], as long as you don’t start any trouble. On the other hand, because of the camaraderie among the small denizens, the criminals and con artists of Shaarat Kol ply their trade on the visiting tall-folk; keep an extra eye on your purse, and don’t buy a deed to a [[byeshk]] mine, no matter how good the price is.
+
+!! Shaarat Kol and the Five Nations
+
+Unlike [[Graywall]], Shaarat Kol has made little effort to welcome the [[Five Nations]]. There’s no [[Orien trade road|Orien trade roads]] and no [[dragonmarked|dragonmarked house]] outposts in the City of Goblins. The coastline to the south is rocky and dangerous, and it is difficult for large ships to land. [[Kethelrax|Kethelrax the Cunning]] is actively working to build a safe port, so that Shaarat Kol can rival [[Vralkek]] as an important shipping destination. For now, there are a few safe havens for those who know them, but they only support small ships. 
+
+As a result, most of the easterners who come to Shaarat Kol are smugglers. All kinds of valuable goods are available in the Goblin Market, including many that are taxed or prohibited in the [[Five Nations]]. Some smugglers use hidden paths through the [[Graywall Mountains]], while others dare the dangerous coastline in small boats. While [[Kethelrax|Kethelrax the Cunning]] and the [[Daughters|Daughters of Sora Kell]] haven’t tried to bring the [[dragonmarked house]]s to Shaarat Kol, the Goblin Prince is happy to deal with legitimate traders, hence his work on the port; but he wants to finish securing the <<scrollToHeader Undercity>> and unlocking its potential before bringing easterners into the city in large numbers.

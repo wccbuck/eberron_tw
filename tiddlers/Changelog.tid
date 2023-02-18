@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.20.4
-modified: 20230105231111550
+currentversion: 1.20.5
+modified: 20230218002118721
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,17 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.20.5 <span style="font-weight:normal">(Feb 17, 2023)</span>
+
+* Added [[unbreakable weapon]]
+* Added to [[Atur]]
+** New pages: [[Great Hall of Feast and Fortune]], [[Ministry of the Dead]], [[Vaults of the Dead]], [[Nighthold]], [[Old Bones (tavern)]]
+* Added to [[Kethelrax the Cunning]] and [[Shaarat Kol]]
+* Added to [[Rhesh Turakbar]] and [[Turakbar's Fist]]. Changed "Haalrac" to "[[Hunrut]]", since searching for Haalrac turns up a bunch of results for [[Kech Ghaalrac]].
+** New pages: [[Hunrut]], [[Byraka]], [[Ghwyyr]], [[Haakar]]
+* Added the [[talent]]s [[Jack-Of-All-Trades]] and [[Dilettante Spellcaster]]
+* Added clarifying language to some [[Storyloom]] game mechanics
 
 !!! 1.20.4 <span style="font-weight:normal">(Jan 5, 2023)</span>
 
@@ -852,7 +863,7 @@ Miscellaneous:
 !!! 1.11.3 <span style="font-weight:normal">(Dec 6, 2021)</span>
 
 * Added [[talent]]s:
-** [[Aasimar (talent)]]
+** Aasimar (talent) (Feb 27, 2022: Removed this talent and split it into several)
 ** [[Bugbear (talent)]]
 ** [[Envoy Specialist]]
 ** [[Genasi of Air]]

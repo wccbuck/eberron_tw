@@ -1,14 +1,14 @@
 category: creature
 color: #EA868F
 created: 20201221225048387
-modified: 20220824223227458
+modified: 20230206194227245
 tags: undead
 tier: 2
 title: Karrnathi undead
 tooltip: undead soldier who once formed the elite core of the army of Karrnath
 type: text/vnd.tiddlywiki
 
-[[Undead|undead]] soldiers form the elite core of the army of [[Karrnath]]. Fearless and tireless, they are a terrifying sight on the battlefield. With the end of the [[Last War]], most Karrnathi undead have been sealed in vaults below the city of [[Atur]]. However, the Karrnathi army keeps numerous undead in its service, while others have been commandeered by the Order of the [[Emerald Claw]].
+[[Undead|undead]] soldiers form the elite core of the army of [[Karrnath]]. Fearless and tireless, they are a terrifying sight on the battlefield. With the end of the [[Last War]], most Karrnathi undead have been sealed in [[vaults|Vaults of the Dead]] below the city of [[Atur]]. While the vast majority of the Karrnathi undead are sealed away, the Atur Watch has a significant corps of these sentient undead, and they can also be found protecting the [[Ministry of the Dead]], the palace of [[Nighthold]] in [[Atur]], [[Fort Bones]], and other important locations. 
 
 The Karrnathi undead are created using a set of magical rituals known as the [[Odakyr Rites]], and bear little resemblance to the people they were in life. They are imbued with what the Rites refer to as "malign intelligence", allowing them to make tactical decisions and operate without direct guidance. These undead are content to stand motionless and silent for days, and can see in perfect darkness. They show no emotion, and certainly no mercy or compassion. Undead soldiers kill any opposing forces—including civilians among those forces—unless given explicit instructions to the contrary.
 
@@ -30,3 +30,5 @@ is forged for them and fitted to their fleshless bones.
 [[Fort Bones]] operates a small forge for this purpose,
 though most of this armor is created at the Night Forge
 of [[Atur]].
+
+Some Karrnathi undead have been commandeered by the Order of the [[Emerald Claw]].

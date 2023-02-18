@@ -1,13 +1,14 @@
 [
     {
         "created": "20210323212308479",
+        "text": "The heart of the [[Calabas]] of [[Graywall]] is a vast\nplaza. It takes its name from the statue at its center,\nwhich is of a rampant liondrake roaring at the sky.\nThe beast is the sigil of House [[Tharashk]] and reflects\ntheir power in this district, the headquarters of the [[Liondrake's Roar]]. Aside from its scenic value, at night the Roar plays host to the ''Bloody Market''. All manner of monstrous merchants come to sell their wares to travelers and tourists. Smiths\nand artisans from [[Bloodstone]] and [[Little Graywall]]\nbring their mundane goods, but astute shoppers\nmight find stolen goods, relics recovered from [[Dhakaan]]i ruins, treasures stripped from fallen soldiers, or any number of other surprises.",
         "title": "Roar",
-        "text": "The heart of the [[Calabas]] of [[Graywall]] is a vast\nplaza. It takes its name from the statue at its center,\nwhich is of a rampant liondrake roaring at the sky.\nThe beast is the sigil of House [[Tharashk]] and reflects\ntheir power in this district, the headquarters of the [[Liondrake's Roar]]. Aside from its scenic value, at night the Roar plays host to the ''Goblin Market''. All manner of monstrous merchants come to sell their wares to travelers and tourists. Smiths\nand artisans from [[Bloodstone]] and [[Little Graywall]]\nbring their mundane goods, but astute shoppers\nmight find stolen goods, relics recovered from [[Dhakaan]]i ruins, treasures stripped from fallen soldiers, or any number of other surprises.",
-        "modified": "20210727192028783",
+        "modified": "20230215220848986",
         "tags": "Graywall Calabas market park",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "location",
-        "color": "#A3DB62"
+        "color": "#A3DB62",
+        "alternatetitle": "Bloody Market"
     }
 ]

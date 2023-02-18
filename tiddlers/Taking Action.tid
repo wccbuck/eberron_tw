@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210331200737600
-modified: 20230104004504570
+modified: 20230217232511061
 tags: Storyloom
 title: Taking Action
 tooltip: documentation page for the core attempt mechanic in Storyloom
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 To jump down to the Summary section, click here: <<scrollToHeader "Action Summary">>
 <<<
 
-Whenever you want to do something that has the potential to be dangerous or troublesome, you have to [[roll dice|Dice Roller]] to determine whether you succeed, and to what extent you succeed. You roll a number of six-sided dice, and read the single highest result.
+As a player in a [[Storyloom]] game, whenever you want your character to do something that has the potential to be dangerous or troublesome, you have to [[roll dice|Dice Roller]] to determine whether you succeed, and to what extent you succeed. You roll a number of six-sided dice, and read the single highest result.
 
 * If the highest die is a 6, it's a [[full success]]—you accomplish what you set out to do. Typically this means you suffer no [[consequence]]s or gain some additional advantage. If you roll more than one 6, that's a ''critical success''.
 * If the highest die is a 4 or 5, that's a [[partial success]]—you accomplish what you set out to do, but there are [[consequence]]s, such as [[stress]], reduced [[impact]], or a complication.
@@ -19,6 +19,10 @@ Whenever you want to do something that has the potential to be dangerous or trou
 If you ever need to make a roll but you have zero or negative dice, roll two dice and take the single lowest result.
 
 To determine your pool of dice for a roll, it’s as simple as answering the following question: “What do you do, and what are you using to do it?” Start with 1 die. Then, look at your character’s most relevant [[action]] (what do you do?) and [[attribute]] (what do you use to do it?); add a die to your dice pool for each of these which you are proficient in. You can also spend [[momentum]] to add dice to your pool. Some [[talent]]s and [[item|magic item]]s also add dice to your pool for certain specific actions. This is sometimes called [[advantage]]. Rarely, magical effects or other factors can remove one die from your pool; this is sometimes called [[disadvantage]]. 
+
+So based on the in-fiction approach a character is taking to perform a given action, that character's player decides which [[action and attribute|Actions and Attributes]] to use for the dice roll. The GM (game master) can offer suggestions for which action and attribute make narrative sense, but the player, not the GM, has final say on which action and attributes they will use. However, the GM ultimately decides the positive and/or negative outcomes of an attempt; see the <<scrollToHeader "Dice Pool, Risk, Impact">> section below for more information. 
+
+Generally speaking, [[Storyloom]] is a game system which assumes the player characters have baseline competence in any action that would sensibly align with their background. If there is no in-universe justification for a character to be able to overcome a particular obstacle, the GM can set the obstacle at a higher [[challenge tier|Challenge Tiers]], creating a smaller, more manageable goal that must be achieved before the original obstacle can be addressed. 
 
 Like [[Blades in the Dark|https://bladesinthedark.com/basics]] and other "Powered by the Apocalypse" games, ''the GM does not roll dice to take actions. Only the players do.'' So enemies, NPCs, and the like only "act" in the sense that their actions and decisions are narrated depending on the results of the players' dice rolls. 
 
@@ -31,7 +35,7 @@ Certain spells, items, and magical effects in the game might describe how they r
 
 Every attempt you make has three properties: dice pool, [[risk]], and [[impact]].
 
-The size of your dice pool affects how likely it is to succeed. This is the number of 6-sided dice you actually roll. As mentioned above, you start with one die in your pool, then add more for using [[action]]s and [[attribute]]s in which you are proficient, and additional dice for spent [[momentum]], [[talent]] bonuses, and other effects.
+The size of your dice pool affects how likely your attempt is to succeed. This is the number of 6-sided dice you actually roll. As mentioned above, you start with one die in your pool, then add more for using [[action]]s and [[attribute]]s in which you are proficient, and additional dice for spent [[momentum]], [[talent]] bonuses, and other effects.
 
 The [[risk]] associated with an attempt determines how bad the [[consequence]]s are for a [[partial success]] or [[bad outcome]]. Risk does not play a part in the event of a [[full success]]. These consequences can include taking [[stress]] or losing [[momentum]]. Risk can be low, moderate (default), or high.
 
