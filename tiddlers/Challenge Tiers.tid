@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20220502034136035
-modified: 20220805184840819
+modified: 20230217232714389
 tags: Storyloom
 title: Challenge Tiers
 tooltip: documentation page for handling tiered challenges
@@ -19,3 +19,10 @@ When facing a higher-tier challenge, the player characters can create an opportu
 In each one of these cases, the GM will create a new challenge with a [[progress clock]] that the player characters can attempt to [[overcome]]. Once that progress clock is complete, the characters can now be considered at one higher "tier" than they were before for dealing with the original challenge.
 
 As a rule of thumb, one challenge tier is approximately three to five times more difficult than the tier below it. This is the same rule of thumb used to differentiate [[creature tier]]s, and that's by design. An ordinary soldier facing off against an angry wolf (creature tier 1) might consider that a "moderate" challenge (moderate [[impact]] and [[risk]] for most actions). But if they are facing off against four angry wolves, or against a massive [[dire wolf]], they are going to need to even the odds if they hope to make it out alive.
+
+<<<
+''A Note on Assumed Player Character Expertise''<br/>
+Generally speaking, [[Storyloom]] is a game system which assumes the player characters have baseline competence in any action that would sensibly align with their background. A soldier who prefers a spear still knows how to use a crossbow, even if they aren't exceedingly proficient at it. An [[alchemist]] likely knows how to use [[brewer's supplies]]. A [[bard]] can probably passingly play any common musical instrument. In cases where expertise is questionable, GM might increase the [[risk]] or decrease the [[impact]] of an attempt, but the player character can still make the attempt directly. Alternatively, with GM permission, a player might spend a [[story point]] to declare a minor story detail, that they have the specific expertise they need.
+
+But in cases where a player character clearly has no expertise they could reasonably leverage to solve a problem, the GM can raise the challenge tier of the attempt. For example, let's say the player characters are a group of former-soldiers-turned-adventurers, and they have stumbled across an abandoned [[forgehold]] filled with [[construct]]s that have gone violently haywire. They need to send a magical "disable" signal throughout the facility using the forgehold's main console, but none of the player characters has any clue how to operate it. Thus, using the console is set at a higher challenge tier, and the party must now solve the problem of "figure out how to use the console" before they can proceed. Perhaps a full user's manual can be found in the head artificer's office, but the party must overcome great danger to make it there. The GM can set up a new [[progress clock]] for the challenge of obtaining the user's manual, and once that's complete, the party can attempt to use the main console.
+<<<

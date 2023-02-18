@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20200422220344926
-modified: 20221215011257171
+modified: 20230206185812032
 tags: [[spell school]]
 title: necromancy
 tooltip: school of magic which manipulates the forces of death
@@ -29,10 +29,12 @@ to inter their dead and find the manipulation of corpses to be
 disrespectful and revolting.
 
 While necromancy itself isn’t illegal under the [[Code of Galifar]], grave robbing certainly is. An officer of the law in the [[Five Nations]] could demand that a necromancer present proof of their ownership of the corpses in their [[undead]] entourage—though
-most officers rarely do so. In [[Karrnath]], necromancers authorized by the Ministry of the Dead are issued warrants that authorize them to “compel the corpse of any Karrnathi citizen into service,” so their ownership is easy to establish as legitimate. Likewise, priests of the [[Blood of Vol]] have long raised the corpses of followers of the faith, so their claims generally go undisputed. However, if you kill someone then raise them as a [[zombie]], the [[Sharn Watch]] might not be able to prove you killed that person, but they can certainly prosecute you as a corpse robber! This usually results in a fine and the confiscation (and destruction) of the zombie.
+most officers rarely do so. In [[Karrnath]], necromancers authorized by the [[Ministry of the Dead]] are issued warrants that authorize them to “compel the corpse of any Karrnathi citizen into service,” so their ownership is easy to establish as legitimate. Likewise, priests of the [[Blood of Vol]] have long raised the corpses of followers of the faith, so their claims generally go undisputed. However, if you kill someone then raise them as a [[zombie]], the [[Sharn Watch]] might not be able to prove you killed that person, but they can certainly prosecute you as a corpse robber! This usually results in a fine and the confiscation (and destruction) of the zombie.
 
 [[Atur]] in [[Karrnath]] is the primary center for necromantic
 research in the [[Five Nations]] (see [[Atur Academy]]), but [[Arcanix]] has its own school of
 necromancy—albeit its smallest and least funded. This school primarily focuses on [[Dolurrh]]i necromancy, such as the [[speak with dead]] spell, rather than on offensive magic or the creation of [[undead]].
+
+!
 
 !!! <<showspells-school {{!!title}}>>

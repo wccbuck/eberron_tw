@@ -1,34 +1,26 @@
 category: location
 color: #4C8201
 created: 20200416204415062
-modified: 20220828204121513
+modified: 20230216213632041
 points: 49.865,7.76
 population: 63000
 style: {"color": "#8E0024"}
 tags: city Karrnath
 title: Atur
-tooltip: Grand Duchy of Karrnath, the City of Knight, public stronghold of the Blood of Vol faith
+tooltip: Grand Duchy of Karrnath, the City of Night, public stronghold of the Blood of Vol faith
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>
 
 Known as the City of Night, the Grand Duchy of Atur stands in the shadow of the
 [[Ashen Spires]], cloaked in mist from the [[Karrn Falls|Karrn River]]. For all but a few hours each day, Atur lies shrouded in gloom, a nearly perpetual twilight that gives the
-city its moniker. Oddly, during the day’s brightest
-times, the city is quiet, seemingly deserted. Only at
-night does Atur come fully to life.
+city its moniker. Oddly, during the day’s brightest times, the city is quiet, seemingly deserted, except perhaps some [[undead]] performing manual labor. Only at night does Atur come fully to life.
 
-This atmosphere suits the people. At night, they
-frolic in fest halls and taverns, sampling the forbidden
-delights of Atur’s infamous bordellos. Even King [[Kaius|Kaius ir'Wynarn III]]
-is not immune to the city’s allure, and he finds refuge
-in Nighthold, a royal complex where he sometimes
-holds court.
+This atmosphere suits the people. At night, they frolic in fest halls and taverns, sampling the forbidden delights of Atur’s infamous bordellos. Even King [[Kaius|Kaius ir'Wynarn III]] is not immune to the city’s allure, and he finds refuge in [[Nighthold]], a royal complex where he sometimes holds court.
 
-Beneath the hustle and bustle of this curious community lie the Vaults of the Dead, where [[Karrnath]]’s [[undead|Karrnathi undead]] legions await the day when war rages anew.
-Overlooking the city is the huge [[Crimson Monastery]],
-one of the greatest bastions of the [[Blood of Vol]] in the
-nation.
+Beneath the hustle and bustle of this curious community lie the [[Vaults of the Dead]], where [[Karrnath]]’s [[undead|Karrnathi undead]] legions await the day when war rages anew. Overlooking the city is the huge [[Crimson Monastery]], one of the greatest bastions of the [[Blood of Vol]] in the nation.
+
+While Atur is a stronghold of the [[Seekers|Blood of Vol]], it's not exclusively tied to the faith. Atur is home to the [[Great Hall of Feast and Fortune]], one of the grandest temples of [[Olladra]] in the [[Five Nations]], and [[Boldrei]] is also celebrated as a patron of the city. 
 
 The [[True Shapers]], a large [[enclave]] of House [[Thuranni]], is located in Atur, as is the [[Atur Academy]] of [[necromancy]].
 
@@ -37,3 +29,17 @@ The [[True Shapers]], a large [[enclave]] of House [[Thuranni]], is located in A
 Atur was the first "palatinate" or grand duchy of [[Galifar]], and as such maintained a degree of independence from the kingdom, allowing them to enforce local laws and practice customs that might be at odds with those of the surrounding kingdom. Today, Atur maintains this status within the nation of [[Karrnath]]. This region’s independence was negotiated long ago in recognition for the work it does in containing the dangerous influence of the powerful [[Mabar]]an [[manifest zone]] at the heart of the region, and was reinforced in agreements with [[Kaius I|Kaius ir'Wynarn I]] in exchange for the support of Atur’s elite [[necromancers|necromancy]]. 
 
 Because of this, Atur remains a public stronghold of the [[Blood of Vol]] even after Regent [[Moranna|Moranna ir'Wynarn]] and [[Kaius III|Kaius ir'Wynarn III]] turned against the faith. Atur is still home to the finest [[necromancers|necromancy]] in the nation, and most of [[Karrnath]]’s [[undead troops|Karrnathi undead]] are stored in its vaults. There are warlords who despise the [[Blood of Vol]] or who fear that the undead it maintains could be turned against the nation. But these nobles know that seizing Atur would prove disastrous unless they had the knowledge necessary to contain the power of the [[manifest zone]], and so the City of Night remains inviolate.
+
+!! A Celebration of Life
+
+Some who hear the name "City of Night" assume it must be a grim, miserable place. Nothing could be further from the truth. Atur is a city that looks death in the eye and laughs; it chooses to celebrate life before this absurd world takes it away. Contrasting with the surrounding nation of [[Karrnath]], known for its stoic and austere [[culture|Culture of Karrnath]], Atur is a place that glorifies all the joys of life. Food, sex, art—all are enshrined and elevated in a spectrum of delights. The city is filled with festival halls, taverns, theaters, and bordellos of all descriptions. Some taverns are so fine, a typical adventurer has no hope to be let through the door, and some of [[Thuranni]]'s finest artists only perform at the grand Palace of Shadows. And the city certainly has seedy elements; if you're looking for decadence, you can find it. But across the spectrum, the City of Night seeks to present the joys of life at the highest quality.
+
+The hedonistic culture of Atur has evolved over the course of a thousand years, running at odds to the stoic persona of the typical [[Karrn|Culture of Karrnath]]; as such, the City of Night a common destination for Karrns to escape their lives for a few days, and tourism is the primary industry. Rest assured—what happens in Atur, stays in Atur.
+
+!! Undead in Atur
+
+Thanks to the influence of the [[Blood of Vol]], [[undead]] are a common sight in Atur. The Seekers have no taboo around the use of corpses, and most are happy to donate their remains to serve the greater good. As a result, [[zombie]]s and skeletons can be found performing menial tasks and manual labor across the city. Because they serve many different functions, they’re generally painted to indicate their service; blood-red for those associated with the [[Crimson Monastery]] or other temples, dark green for sanitation, black and gold for those tied to the city watch, blue for those tied to commerce. These [[undead]] possess limited intelligence, and are managed by ''Bone Wranglers'', specialized [[magewright]]s who effectively "program" the undead. So a sanitation skeleton is programmed to collect garbage and dispose of it, but it can show limited initiative to overcome obstacles.
+
+The [[Crimson Monastery]] has its own contingent of [[undead]]—[[Seeker|Blood of Vol]] martyrs who have devoted their endless lives to service to their faith. Most of these are [[oathbound|mummy]], a form of mummy. These sapient undead are sustained by the oaths they've sworn to uphold and the restrictions placed upon them; many can't actually leave the Crimson Monastery, while others are bound to their service but can roam the city. Oathbound can also be found in other roles in the city; see the [[Old Bones|Old Bones (tavern)]], the oldest tavern in Atur. Unlike the programmed undead and [[Karrnathi undead]], oathbound do maintain memories of their former lives, but their oaths place considerable limitations on their activities.
+
+A number of businesses in Atur cater specifically to [[undead]]. [[Oathbound|mummy]] can’t eat or drink and don’t experience physical pleasure, but they can still feel desire. ''Second Life'' is an oathbound salon, while ''Eulogies'' is an entertainment venue specializing in storytelling and roleplaying, helping the oathbound remember joys they can no longer experience directly.
