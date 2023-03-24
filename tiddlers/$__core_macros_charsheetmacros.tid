@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20230316211845597
+modified: 20230324214254100
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -143,16 +143,16 @@ type: text/vnd.tiddlywiki
 <<cs-field "desc" "Description" "Description Aspect">>
   </div></div>
   <div class="cs-row"><div class="cs-column">
-<<cs-field "desc" "Ideal" "Ideal Aspect">>
+<<cs-field "ideal" "Ideal" "Ideal Aspect">>
   </div></div>
   <div class="cs-row"><div class="cs-column">
-<<cs-field "desc" "Flaw" "Flaw Aspect">>
+<<cs-field "flaw" "Flaw" "Flaw Aspect">>
   </div></div>
   <div class="cs-row"><div class="cs-column">
-<<cs-field "desc" "Bond 1" "Bond Aspect">>
+<<cs-field "bond1" "Bond 1" "Bond Aspect">>
   </div></div>
   <div class="cs-row"><div class="cs-column">
-<<cs-field "desc" "Bond 2" "Bond Aspect">>
+<<cs-field "bond2" "Bond 2" "Bond Aspect">>
   </div></div>
 \end
 
