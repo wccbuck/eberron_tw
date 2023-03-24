@@ -1,12 +1,12 @@
 category: talent
 created: 20210726060340405
-modified: 20211128070032167
+modified: 20230306233341387
 tags: druid
 title: Wild Shape (talent)
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-Three times per day, you can assume the shape of any [[beast]] of [[creature tier]] ''1'' or less that you have seen before. If the chosen beast can fly, it must be creature tier 0. The transformation lasts for up to an hour, or earlier if you are knocked unconscious.
+Three times per day, you can assume the shape of any [[beast]] of [[creature tier]] ''1'' or less that you have seen before. If the chosen beast can fly, or if it is smaller than 2 feet in all dimensions, it must be creature tier 0. You can't transform into a creature that is smaller than 1 foot in all dimensions with this talent. The transformation lasts for up to an hour, or earlier if you are knocked unconscious.
 
 <<<
 ''Alternative Version''<br/>

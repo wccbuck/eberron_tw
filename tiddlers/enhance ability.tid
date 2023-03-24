@@ -2,7 +2,7 @@ category: spell
 color: #B7A1E0
 created: 20210428063946751
 highertier: show
-modified: 20220220212437088
+modified: 20230317050936136
 tags: transmutation [[primal magic]]
 tier: 2
 title: enhance ability
@@ -11,11 +11,14 @@ type: text/vnd.tiddlywiki
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends (10 minutes, or until your concentration breaks).
 
 //''Bear's Endurance.''// The target gains an extra temporary [[stress]] box.<br/>
-//''Bull's Strength.''// The target has [[advantage]] on attempts using ''Vigor''.<br/>
-//''Cat's Grace.''// The target has [[advantage]] on attempts using ''Focus''. Alternatively, it doesn't take damage from falling 20 feet or less if it isn't incapacitated.<br/>
-//''Eagle's Splendor. ''//The target has [[advantage]] on attempts using ''Heart''.<br/>
+//''Bull's Strength.''// The target has [[advantage]] on attempts using ''Force''.<br/>
+//''Cat's Grace.''// The target has [[advantage]] on attempts using ''Caution''. Alternatively, it doesn't suffer [[harm]] from falling 20 feet or less if it isn't incapacitated.<br/>
+//''Eagle's Splendor. ''//The target has [[advantage]] on attempts using ''Flair''.<br/>
 //''Fox's Cunning.''// The target has [[advantage]] on attempts using ''Guile''.<br/>
-//''Owl's Wisdom.''// The target has [[advantage]] on attempts using ''Intellect''.
+//''Owl's Wisdom.''// The target has [[advantage]] on attempts using ''Savvy''.<br/>
+//''Hare's Alacrity.''// The target has [[advantage]] on attempts using ''Speed''.
+
+See also [[approach]].
 
 <$reveal type="match" state="!!highertier" text="show">
 

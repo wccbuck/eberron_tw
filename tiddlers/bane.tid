@@ -2,13 +2,13 @@ category: spell
 color: #B7A1E0
 created: 20210412052639258
 highertier: show
-modified: 20220220203233126
+modified: 20230317044420546
 tags: [[divine magic]]
 tier: 2
 title: bane
 type: text/vnd.tiddlywiki
 
-You choose up to three creatures that you can see within 30 feet. If they cannot resist your magic, for the next minute, whenever a target makes an attempt using a specific [[action]] or [[attribute]] (your choice), they have [[disadvantage]].
+You choose up to three creatures that you can see within 30 feet. If they cannot resist your magic, for the next minute, whenever a target makes an attempt using a specific [[approach]] (your choice), they have [[disadvantage]].
 
 <$reveal type="match" state="!!highertier" text="show">
 

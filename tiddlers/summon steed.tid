@@ -2,7 +2,7 @@ category: spell
 color: #B7A1E0
 created: 20210429184422869
 highertier: show
-modified: 20220220212307339
+modified: 20230322214851584
 tags: [[divine magic]]
 tier: 2
 title: summon steed
@@ -20,6 +20,6 @@ You can't have more than one steed bonded by this spell at a time. You can choos
 
 !! Rare-Tier
 
-When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, the spirit steed can take on a more powerful form ([[creature tier]] ''2''), such as that of a [[griffon]], a [[pegasus]], a [[peryton]], a [[dire wolf]], a rhinoceros, a saber-toothed tiger, or another form approved by the GM.
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, the spirit steed can take on a more powerful form ([[creature tier]] ''2''), such as that of a [[griffon]], a [[pegasus]], a [[dire wolf]], a rhinoceros, a saber-toothed tiger, or another form approved by the GM.
 
 </$reveal>

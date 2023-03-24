@@ -1,13 +1,14 @@
 [
     {
         "created": "20210212090040031",
-        "title": "Liondrake's Roar",
         "text": "A new branch of House [[Tharashk]], the Liondrake’s Roar was established to broker the services of monstrous mercenaries from [[Droaam]].\nThe group includes soldiers and laborers, and it is through this service that\nsome of these creatures have become\nmore common in the wider world.\nThanks to the Roar, [[ogre]] laborers can\nbe seen hauling goods in many western\ncities—places where before the war,\nthey would likely have been attacked on\nsight. A portion of the profits returns to the\n[[Daughters of Sora Kell]]; the hags believe that the Roar\nwill raise Droaam’s standing in the eyes of the world.\n\nThe Liondrakes also serve as constables and guards in the [[Calabas]] of [[Graywall]], which also houses the organization's [[headquarters|Tharashk Enclave (Graywall)]], as well in as the [[Tharashk]] headquarters of [[Zarash'ak]].",
-        "modified": "20210727192018963",
+        "title": "Liondrake's Roar",
+        "modified": "20230322194456193",
         "tags": "[[law enforcement]] [[mercenary troop]] [[trade guild]] Tharashk",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "trade guild of House Tharashk which brokers the services of monstrous mercenaries from Droaam"
     }
 ]

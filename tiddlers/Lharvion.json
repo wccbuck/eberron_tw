@@ -1,13 +1,14 @@
 [
     {
         "created": "20201226054517786",
-        "title": "Lharvion",
         "text": "''Color:'' Dull white with large black chasm crossing it<br/>\n''Associated [[Dragonmark|dragonmark]]:'' [[Detection|Mark of Detection]]<br/>\n''Associated [[Plane|plane]]:'' [[Xoriat]]<br/>\n''Associated [[Month|Khorvaire calendar]]:'' 7th\n\nThis moon features a 750-mile-long black chasm, and, when viewed from [[Eberron]], the full disk of Lharvion resembles a slitted eye. Many superstitions exist about the baleful influence of this moon, and strange occurrences and calamities seem to happen when the Eye of Lharvion is full in the sky. The druids believe that children of Lharvion possess unnatural insights, and gifted diviners and researchers are often born in this month.",
-        "modified": "20210727192018685",
+        "title": "Lharvion",
+        "modified": "20230324195603242",
         "tags": "moon",
         "type": "text/vnd.tiddlywiki",
         "article": "the Eye, ",
         "category": "cosmology",
-        "color": "#432874"
+        "color": "#432874",
+        "tooltip": "moon associated with Xoriat; 7th month of the year"
     }
 ]

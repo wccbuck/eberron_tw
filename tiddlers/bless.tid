@@ -2,13 +2,13 @@ category: spell
 color: #B7A1E0
 created: 20210412050158091
 highertier: show
-modified: 20220220203433864
+modified: 20230317044551560
 tags: [[divine magic]]
 tier: 2
 title: bless
 type: text/vnd.tiddlywiki
 
-You bless up to three creatures of your choice within 30 feet. For the next minute, whenever a target makes an attempt using a specific [[action]] or [[attribute]] (your choice), they have [[advantage]].
+You bless up to three creatures of your choice within 30 feet. For the next minute, whenever a target makes an attempt using a specific [[approach]] (your choice), they have [[advantage]].
 
 <$reveal type="match" state="!!highertier" text="show">
 

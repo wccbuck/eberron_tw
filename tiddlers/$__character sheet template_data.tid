@@ -1,10 +1,17 @@
+caution: 0
 created: 20211126225920648
-modified: 20221203002114498
+fight: 0
+flair: 0
+force: 0
+guile: 0
+modified: 20230316203058109
 momentum: 0
 num-sh: 0
 num-ss: 0
 num-ts: 0
+savvy: 0
 sp: 1
+speed: 0
 tags: 
 title: $:/character sheet template/data
 type: text/vnd.tiddlywiki

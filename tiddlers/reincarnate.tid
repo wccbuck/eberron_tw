@@ -1,12 +1,12 @@
 category: spell
 color: #B7A1E0
 created: 20210428054345961
-modified: 20230103191824180
+modified: 20230315211843425
 tags: [[primal magic]]
 tier: 3
 title: reincarnate
 type: text/vnd.tiddlywiki
-var: eladrin
+var: half-orc
 
 This spell requires a one-hour ritual and [[100c|money]] worth of ritual components, which are expended.
 
@@ -16,7 +16,7 @@ The magic fashions a new body for the creature to inhabit, which likely causes t
 
 <<<
 <$button>
-<$action-chooserandom $filter="[category[creature]tag[humanoid]has[var]!has[article]!tag[monstrosity]!tag[construct]] [[goblin]] [[hobgoblin]] [[bugbear]] -[[goblinoid]]" $field="var"/>
+<$action-chooserandom $filter="[category[creature]tag[humanoid]has[var]!has[article]!tag[monstrosity]!tag[construct]] [[goblin]] [[hobgoblin]] [[bugbear]] -[[goblinoid]] -[[kalashtar]]" $field="var"/>
 Random Race
 </$button>
 

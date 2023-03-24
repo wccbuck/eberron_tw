@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210401220254117
-modified: 20220805185656252
+modified: 20230317213743419
 tags: [[Taking Action]] Storyloom
 title: progress clock
 tooltip: Storyloom mechanic: tracking tool for the completion of tasks
@@ -77,6 +77,8 @@ A progress clock is a way to track an ongoing effort against an obstacle or the 
 The GM decides the size of the progress clock when they set up the obstacle. The number of segments is more a question of pacing than challenge; challenges that shouldn't take too much of the group's time might be four or six segments, while more moderate-length challenges can be eight or even twelve segments.
 
 By design, completing a progress clock requires multiple successful attempts. Obstacles that can be completed with a single action probably don't need progress clocks made for them; the GM should just ask for a roll and judge the outcome based on the result. (Such rolls can be considered 2-segment progress clocks if a visual aid is needed.)
+
+Completely filling in a progress clock clears the obstacle. If a character "overfills" a progress clock that has four or more segments using a particularly successful [[overcome]] attempt, they typically gain 1 [[momentum]].
 
 Clocks should be labeled in a way that describes the obstacle to be overcome, not the method used to overcome it. A clock indicating a tall fence should read "Tall Fence", not "Climb the Fence". Let the PCs decide how they approach an obstacle.
 

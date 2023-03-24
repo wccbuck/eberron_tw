@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211220193608430
-modified: 20220220235442777
+modified: 20230312050212760
 tags: accessory jewelry convenience
 tier: 3
 title: Basco's handy bangle
@@ -9,4 +9,4 @@ type: text/vnd.tiddlywiki
 
 This shiny platinum bangle is inlaid with arcane runes that seem to be written by different hands. Labels can be read behind each of the adorning runes on the inside of the bangle. You can touch one of the runes and say the command phrase, "I can do this," to gain an [[advantage]] when using or operating the rune's associated tool or instrument while wearing the bangle for the next 24 hours. The rune glows with arcane energy while in effect. Once a rune is activated in this way, it can't be activated again until <<dr 1d4+1>> days have passed.
 
-There are 10 runes on the bangle that can be activated in this way, which correspond to the following proficiencies: [[alchemist's supplies]], [[carpenter's tools]], [[cook's utensils]], musical instruments (drum, flute, lute, lyre), [[navigator's tools]], [[smith's tools]], [[tailor's tools]], [[thieves' tools]], [[tinker's tools]], and water-based vehicles.
+There are 10 runes on the bangle that can be activated in this way, which correspond to the following proficiencies: [[alchemist's supplies]], [[carpenter's tools]], [[cook's utensils]], [[musical instrument]]s (specifically drums, flutes, lutes, or lyres), [[navigator's tools]], [[smith's tools]], [[tailor's tools]], [[thieves' tools]], [[tinker's tools]], and water-based vehicles.

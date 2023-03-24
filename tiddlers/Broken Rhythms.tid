@@ -1,10 +1,10 @@
 category: phenomenon
 color: #432874
 created: 20220803203245051
-modified: 20220806203208033
+modified: 20230317041619298
 tags: [[universal property]] Kythri
 title: Broken Rhythms
 tooltip: universal property: characters can't take the same action twice in a row
 type: text/vnd.tiddlywiki
 
-While on a [[plane]] with this property, a creature can't take the exact same [[action]] twice in a row. This means if a character makes an attempt using "Fight", they can't make a Fight attempt again until they make an attempt using a different action.
+While on a [[plane]] with this property, a creature can't use the exact same [[approach]] twice in a row. This means if a character makes an attempt using "Force", they can't use Force again until they make an attempt using a different approach.

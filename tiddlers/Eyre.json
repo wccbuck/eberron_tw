@@ -1,13 +1,14 @@
 [
     {
         "created": "20201226054012335",
-        "title": "Eyre",
         "text": "''Color:'' Silver<br/>\n''Associated [[Dragonmark|dragonmark]]:'' [[Making|Mark of Making]]<br/>\n''Associated [[Plane|plane]]:'' [[Fernia]]<br/>\n''Associated [[Month|Khorvaire calendar]]:'' 4th\n\nWhen Eyre is full, a keen-eyed observer can pick out on its surface a shadowy shape that vaguely resembles an anvil. According to [[druid]]ic belief, those born under Eyre inherit a solid, practical nature and a gift for nature crafts. Some smiths will wait until Eyre is full to work on especially difficult projects, and House [[Cannith]] [[enclave]]s often hold celebrations when the Anvil is full in the sky.",
-        "modified": "20210727192007680",
+        "title": "Eyre",
+        "modified": "20230324195544358",
         "tags": "moon",
         "type": "text/vnd.tiddlywiki",
         "article": "the Anvil, ",
         "category": "cosmology",
-        "color": "#432874"
+        "color": "#432874",
+        "tooltip": "moon associated with Fernia; 4th month of the year"
     }
 ]

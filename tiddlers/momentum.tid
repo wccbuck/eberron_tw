@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210401202519601
-modified: 20221205044554667
+modified: 20230317213412728
 tags: [[Taking Action]] Storyloom
 title: momentum
 tooltip: Storyloom mechanic: spend this resource to gain +1d or +1 impact on a roll; gain this resource with "boost"
@@ -8,10 +8,10 @@ type: text/vnd.tiddlywiki
 
 Momentum is a resource that represents the advantages a player character has accumulated over the course of a scene. It can be represented by a pool of dice (ideally a different color than the dice used by the players) that can be pulled from when a player wants to improve one of their [[overcome]] rolls. Each player has their own pool of momentum, which ''can't be higher than five''.
 
-You typically add momentum to the pool by using the [[boost]] action, adding momentum to your own character or another player's on a success. Other ways of gaining momentum include "overfilling" a [[progress clock]] (gain 1 momentum if an overcome fills more segments of the clock than needed to complete it), as an additional benefit for a [[critical success|full success]], or other ways as determined by the GM. 
+You typically add momentum to the pool by using the [[boost]] action, adding momentum to your own character or another player's on a success. Other ways of gaining momentum include "overfilling" a [[progress clock]] of size 4 or greater (gain 1 momentum if an overcome fills more segments of the clock than needed to complete it), as an additional benefit for a [[critical success|full success]], or other ways as determined by the GM. 
 
-You lose momentum by spending it after an [[overcome]] roll, either choosing to spend the point on an additional six-sided die roll, or on increasing the [[impact]] of the attempt by one level (or reducing [[risk]] by one level). You can also lose momentum as a [[consequence]] from an [[overcome]] roll. Finally, momentum usually persists across scenes, but is reset to 0 after a downtime.
+You lose momentum by spending it after an [[overcome]] roll, either choosing to spend the point on an additional six-sided die roll, or on increasing the [[impact]] of the attempt by one level (or reducing [[risk]] by one level). You can also lose momentum as a [[consequence]] from an [[overcome]] roll. Finally, momentum is typically reset to 0 when characters rest long enough to recover [[stress]].
 
 When you want to spend momentum on an attempt made by your character, you can spend up to ''all'' of your accumulated momentum on one attempt, but you can ''only use momentum from your own pool''. 
 
-You can also gain "temporary" momentum by [[pushing yourself|push yourself]] (1 momentum) or by spending a [[story point]] (3 momentum). "Temporary" here means that this momentum is not added to the pool, but immediately applied to the preceding attempt.
+You can also gain "temporary" momentum after an attempt by [[pushing yourself|push yourself]] (1 momentum) or by spending a [[story point]] (3 momentum). "Temporary" here means that this momentum is not added to the pool, but immediately applied to the preceding attempt.

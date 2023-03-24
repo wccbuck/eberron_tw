@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.20.5
-modified: 20230218002118721
+currentversion: 1.21.0
+modified: 20230324211552120
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,29 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.21.0 <span style="font-weight:normal">(Mar 24, 2023)</span>
+
+Big [[Storyloom]] change: actions and attributes have been replaced with [[approach]]es. Making attempts now works a bit differently; see [[Taking Action]] for updated details. The [[character sheet template]] has also been updated to reflect these changes.
+
+Other Storyloom changes:
+
+* Added a size limitation to [[Wild Shape (talent)]]
+* Added +1 [[impact]] to [[Bushwhacker]] and [[Quick Formation]] [[talent]]s. Since the effect is limited to [[boost]]s, these talents were weaker than other "gain an advantage in this specific circumstance" talents.
+* Changed bonus for [[Cutting Words]] talent: +2 [[impact]] instead of [[advantage]]
+* Changed the effect of the [[thwackstaff]]: no more automatic counterattacks
+
+Lore changes and additions:
+
+* Added a lot to [[Castle Arakhain]]
+** New pages: [[Beggar Dane (Swords of Liberty)]], [[ghost tiger]], [[Brela ir'Wynarn]], [[Cavril "Collar" Blackwood]], [[Mistress Green]]
+* Added to [[ogre]], [[cyclops]], [[peryton]], [[demonglass]], and [[Frostmantle]]
+* Removed [[kalashtar]] from the possible list of humanoids for the [[reincarnate]] spell
+* Added tooltips to each of the [[moon]]s
+
+Known issues:
+
+* Sometimes when closing a tiddler, the page will scroll to a seemingly random point. It's supposed to scroll to the last link you clicked on, as long as you haven't closed another tiddler since clicking a link. However, something's not quite right with the feature, and it may be related to the scroll-to-header feature. I've got my eye on it.
 
 !!! 1.20.5 <span style="font-weight:normal">(Feb 17, 2023)</span>
 
@@ -148,6 +171,19 @@ Lore stuff:
 * Adjusted the boundaries between the [[Lhazaar Sea]], [[Sea of Rage]], and [[Dragonreach]]. Somehow I missed that [[Adder Bay]] is supposed to be part of the Lhazaar Sea.
 * Renamed some javascript plugins I made, added 'wccbuck' to the title
 
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
+
 !!! 1.18.8 <span style="font-weight:normal">(Nov 11, 2022)</span>
 
 * Fixed typos and mistakes
@@ -271,19 +307,6 @@ Tweaks, bug fixes, and smaller additions:
 * Fixed an error in [[Analects of War]]; they are only 2000 years old, not 3000
 * Made [[Tain Gala]] quarterly instead of monthly. I could have sworn I already made this change but apparently not
 * Fixed a very common typo throughout the document: "worshippers", "worshipping" etc have had one "p" removed
-
-!
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
-</$button>
 
 !!! 1.17.4 <span style="font-weight:normal">(Aug 12, 2022)</span>
 
@@ -424,9 +447,9 @@ Tweaks, bug fixes, and smaller additions:
 ** Added profession tag for certain [[talent]]s. (EDIT 1.17.1: renamed to [[background]])
 ** Added macro for "Find talents tagged with [title]".
 * [[Storyloom]] rules and mechanics:
-** Changed rules for [[Actions and Attributes]]. Now, instead of having a score for each of your [[action]]s and [[attribute]]s, you just have a check box: proficient, or not. Your dice pool always starts with 1, and then you add 1 more die if you are proficient with the action and/or attribute you've chosen, up to a total of 3 (before we bring in bonuses for [[talent]]s, [[momentum]], etc).
+** Changed rules for [[Actions and Attributes]]. Now, instead of having a score for each of your [[action]]s and [[attribute]]s, you just have a check box: proficient, or not. Your dice pool always starts with 1, and then you add 1 more die if you are proficient with the action and/or attribute you've chosen, up to a total of 3 (before we bring in bonuses for [[talent]]s, [[momentum]], etc). (edit: actions/attributes were removed in 1.21.0)
 ** Added rules for [[Challenge Tiers]]. These include clarifications for setting [[impact]] and [[risk]].
-** Added another [[talent]] that's vital for long-term character advancement in light of the change to actions and attributes: [[Action/Attribute Mastery]].
+** Added another [[talent]] that's vital for long-term character advancement in light of the change to actions and attributes: [[Action/Attribute Mastery]]. (edit: removed in 1.21.0)
 ** Changed [[momentum]] rules. Each player now has their own pool of momentum, rather than having one shared pool. That rule never really made sense.
 * Lore changes/additions based on recent KB writings on the [[Eldeen Reaches]]:
 ** Added a bunch of new content to the [[Towering Wood]] page.

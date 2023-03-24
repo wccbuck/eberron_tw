@@ -1,6 +1,6 @@
 category: talent
 created: 20220719231442088
-modified: 20220720163037388
+modified: 20230317040728520
 tags: background
 title: Guild Artisan
 type: text/vnd.tiddlywiki
@@ -8,7 +8,7 @@ xpcost: 1
 
 You are a member of an [[artisan's guild|trade guild]], skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.
 
-Gain [[advantage]] when using one of the [[toolset]]s or other equipment associated with your [[trade guild]] (choose one from the table below when you take this talent). In addition, as an established and respected member of your [[trade guild]], gain [[advantage]] when using the Sway [[action]] with a person associated with your guild. 
+Gain [[advantage]] when using one of the [[toolset]]s or other equipment associated with your [[trade guild]] (choose one from the table below when you take this talent). In addition, as an established and respected member of your [[trade guild]], gain [[advantage]] when asking for favors from a person associated with your guild. 
 
 |!Trade Guild |!Tool Options |
 |[[Fabricators Guild]] or<br/>[[Tinkers Guild]] |[[alchemist's supplies]], [[carpenter's tools]], [[potter's tools]], [[tinker's tools]], [[tailor's tools]], or [[smith's tools]] |
