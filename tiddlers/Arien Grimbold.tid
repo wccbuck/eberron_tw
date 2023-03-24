@@ -1,7 +1,7 @@
 category: character sheet
-created: 20221216043545538
+created: 20230324214616976
 mode: view
-modified: 20230201060849992
+modified: 20230324214945829
 tags: 
 title: Arien Grimbold
 type: text/vnd.tiddlywiki
@@ -15,60 +15,9 @@ type: text/vnd.tiddlywiki
     </div>
   </div>
 <h2></h2>
-  <div class="cs-row">
-      <div class="cs-column">
-<p class="cs-heading">[[Actions|action]]</p>
-     </div>
-     <div class="cs-column">
-<p class="cs-heading">[[Attributes|attribute]]</p>
-      </div>
-    <div class="cs-doublecolumn">
-<p class="cs-heading">[[Aspects|aspect]]</p>
-    </div>
-  </div>
-
-  <div class="cs-row">
-      <<cs-attr-act "fight" "Fight">>
-      <<cs-attr-act "focus" "Focus">>
-      <div class="cs-quadcolumn">
-<<cs-field "desc" "Description" "Description Aspect">>
-     </div>
-  </div>
-
-  <div class="cs-row">
-      <<cs-attr-act "move" "Move">>
-      <<cs-attr-act "guile" "Guile">>
-    <div class="cs-quadcolumn">
-<<cs-field "ideal" "Ideal" "Ideal Aspect">>
-     </div>
-  </div>
-
-  <div class="cs-row">
-      <<cs-attr-act "operate" "Operate">>
-      <<cs-attr-act "heart" "Heart">>
-    <div class="cs-quadcolumn">
-<<cs-field "flaw" "Flaw" "Flaw Aspect">> 
-     </div>
-  </div>
-
-  <div class="cs-row">
-      <<cs-attr-act "study" "Study">>
-      <<cs-attr-act "intellect" "Intellect">>
-    <div class="cs-quadcolumn">
-<<cs-field "bond1" "Bond 1" "Bond Aspect">>  
-     </div>
-  </div>
-
-  <div class="cs-row">
-      <<cs-attr-act "sway" "Sway">>
-      <<cs-attr-act "vigor" "Vigor">>
-    <div class="cs-quadcolumn">
-<<cs-field "bond2" "Bond 2" "Bond Aspect">>
-     </div>
-  </div>
-
-  <div class="cs-row">
+<div class="cs-row">
 	<div class="cs-column" style="align-self: flex-start;">
+        <<cs-approaches>>
         <<cs-stressboxes>>
         <<cs-harmboxes>>
 		<div class="cs-row">
@@ -122,6 +71,7 @@ type: text/vnd.tiddlywiki
 		</div>
 	</div>
 	<div class="cs-column" style="align-self: flex-start;">
+      <<cs-aspects>>
       <div class="cs-row">
         <div class="cs-doublecolumn">
           <p class="cs-heading">[[Talents|talent]]</p>
