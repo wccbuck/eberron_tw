@@ -1,13 +1,14 @@
 [
     {
         "created": "20201226053834420",
-        "title": "Therendor",
         "text": "''Color:'' Blue-gray<br/>\n''Associated [[Dragonmark|dragonmark]]:'' [[Healing|Mark of Healing]]<br/>\n''Associated [[Plane|plane]]:'' [[Syrania]]<br/>\n''Associated [[Month|Khorvaire calendar]]:'' 3rd\n\nTherendor is the \"brother moon\" of [[Barrakas]], sharing a similar but narrower orbit with the Lantern Moon. The [[Seren]]s and [[druid]]s maintain that natural medicines concocted when Therendor is full and [[Barrakas]] is new are more potent. Those born in the month of Therendor are thought to be gentle and empathetic; priests, mediators, and healers often have Therendor as their ascendant moon.",
-        "modified": "20210727192037176",
+        "title": "Therendor",
+        "modified": "20230324195737510",
         "tags": "moon",
         "type": "text/vnd.tiddlywiki",
         "article": "the Healer, ",
         "category": "cosmology",
-        "color": "#432874"
+        "color": "#432874",
+        "tooltip": "moon associated with Syrania; 3rd month of the year"
     }
 ]

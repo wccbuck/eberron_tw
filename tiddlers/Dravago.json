@@ -1,13 +1,14 @@
 [
     {
         "created": "20201226054141219",
-        "title": "Dravago",
         "text": "''Color:'' Lavender<br/>\n''Associated [[Dragonmark|dragonmark]]:'' [[Handling|Mark of Handling]]<br/>\n''Associated [[Plane|plane]]:'' [[Risia]]<br/>\n''Associated [[Month|Khorvaire calendar]]:'' 5th\n\nLarge and lavender, Dravago is a striking image in the sky. Its orbit typically keeps it at a distance from other moons, and old legends say that it is herding the rest and keeping them in motion. Children of Dravago are said to be more comfortable with animals and plants than with people—gifted herders, handlers, and farmers, but often awkward in social situations. Some say that stones from Dravago occasionally fall to Eberron, and alchemists have long claimed that this \"purple dust of Dravago\" holds remarkable magical properties.",
-        "modified": "20210727192005596",
+        "title": "Dravago",
+        "modified": "20230324195523460",
         "tags": "moon",
         "type": "text/vnd.tiddlywiki",
         "article": "the Herder, ",
         "category": "cosmology",
-        "color": "#432874"
+        "color": "#432874",
+        "tooltip": "moon associated with Risia; 5th month of the year"
     }
 ]

@@ -1,0 +1,66 @@
+category: game mechanics
+created: 20230317210236282
+modified: 20230324184324484
+tags: Storyloom
+title: approach
+tooltip: Storyloom mechanic: the manner or style by which a character makes an attempt. Force, Savvy, Flair, Guile, Speed, Caution
+type: text/vnd.tiddlywiki
+
+Approaches describe the style used by a player character whenever they [[take action|Taking Action]] in the [[Storyloom]] system. Approaches help all the players at the table visualize the action, and they also provide a mechanical benefit for roleplaying in line with a character's personality and modus operandi. 
+
+!! Links to Headers
+* <<scrollToHeader "Overview">>
+* <<scrollToHeader "Approach Descriptions">>
+** <<scrollToHeader "Force and Savvy">>
+** <<scrollToHeader "Flair and Guile">>
+** <<scrollToHeader "Speed and Caution">>
+* <<scrollToHeader "Approach Scores">>
+* <<scrollToHeader "Notes">>
+
+!! Overview
+
+There are six approaches in the [[Storyloom]] system: ''Force'', ''Savvy'', ''Flair'', ''Guile'', ''Speed'', and ''Caution.'' Each approach has an opposite. Whenever a player character makes an attempt, the player chooses ''two'' approaches that best describe how their character is accomplishing this task, as long as the two they choose are not opposites. Each player character has a set of preferred approaches which improve the results of their attempts, a feature which encourages good roleplaying. See <<scrollToHeader "Approach Scores">> for more information.
+
+The player's choices serve as a guide for the GM in determining [[impact]] and [[risk]] for the attempt. For example, using Speed instead of Caution might increase both risk and impact by 1. If a player character is using an intrinsically more risky or less impactful approach ill-suited for the task at hand, such as loudly running through an enemy fortress (e.g. Flair + Speed) when stealth is called for, the GM is free to adjust risk and impact separately to reflect that fact. 
+
+Additionally, the player's choices of approaches also help the GM decide the nature of any [[consequence]]s the character may suffer as a result of the attempt. For example, let's say a player character wants to overcome a locked door obstacle using Force+Caution, attempting to knock the door open with a single well-placed kick. If they roll the dice and get a [[partial success]], that means the character achieves their goal, but at some cost. The GM can look at the player's chosen approaches, Force and Caution, and might decide the character was //too forceful//, causing collateral damage or perhaps hurting their foot. Or perhaps they were //too cautious//, taking too much time, or reducing their [[impact]] to avoid self-injury (requiring a second attempt). If instead the character got a [[bad outcome]] on the roll, the GM might decide they weren't forceful or cautious //enough//, hurting their foot AND failing to open the door. For more ideas on ways to narrate the outcomes of different approaches, see the next section.
+
+!! Approach Descriptions
+
+!!! Force and Savvy
+
+The ''Force'' and ''Savvy'' approaches are on opposite ends of the "cleverness" spectrum. When choosing Force to attempt a challenge, a player character is following the most direct and simple path to success, utilizing brute strength, endurance, or brusque self-assurance. By contrast, a character choosing Savvy analyzes the variables before them and calculates the most efficient path to success, utilizing intellect, improvisation, or finesse. 
+
+* When facing an opponent in combat, a Savvy approach would be finding and exploiting a weakness in their fighting style; Force would launch a heavy frontal assault.
+* When engaging in a verbal duel of wits, Savvy would subtly compare the opponent to a bumbling fool from a folk story familiar to the audience; Force would call the opponent ugly, perhaps with expletives thrown in.
+* When standing at a control panel and attempting to stop an out-of-control mechanism, Savvy would try to analyze the arrangement of the levers and dials to deduce the shutdown sequence; Force would push every button and hope for the best. (Or perhaps smash the console with a hammer.)
+
+Potential [[consequence]]s of using Force include collateral damage, having one's strength redirected or used against them, or simply being outmatched in a plain contest of strength. Potential consequences of using Savvy include being "too clever for one's own good" with respect to authority or social connections, or being caught completely by surprise when a well-thought-out plan goes awry.
+
+!!! Flair and Guile
+
+The ''Flair'' and ''Guile'' approaches are on opposite ends of the "loudness" spectrum. When choosing Flair to attempt a challenge, a player character is drawing attention to themselves and evoking a response in others, utilizing charisma, panache, or boldness. By contrast, a character choosing Guile seeks to avoid attention in one or more ways, masking their actions or intentions, utilizing stealth, deceit, or misdirection.
+
+* When making preparations the day before a battle, a Flair approach would be to give an inspiring speech that encourages the soldiers; a Guile approach would be to sabotage the enemy's siege equipment.
+* When extracting information from a person, Flair might use direct intimidation, while Guile would hide their intentions and manipulate the person using deception.
+* When attempting to obtain an artifact in a museum, a character might use Flair to distract the security guard, while a different character uses Guile to sneak up and snatch the item.
+
+Potential [[consequence]]s of using Flair include drawing //too much// attention, or an unintended variety of attention; or perhaps your inspiring speech made those oppressed townsfolk a little //too// confident in their fighting abilities. Potential consequences of using Guile include reduced [[impact]] or lost opportunities out of fear of being discovered, or appearing "shifty" in the eyes of observers, or leaning too heavily on a deception you don't realize has already been shattered.
+
+!!! Speed and Caution
+
+The ''Speed'' and ''Caution'' approaches are on opposite ends of the "quickness" spectrum. When choosing Speed to attempt a challenge, a player character leads the charge, taking initiative and utilizing reflexes, instinct, and ardor. By contrast, a character choosing Caution takes the time to do things the "right way", paying close attention to detail and utilizing awareness, preparation, and patience. 
+
+* When in a boxing match, a character using Speed would go for the first punch; Caution would entail hanging back and watching for an opening in the opponent's defense.
+* When searching for an impostor among allies, Speed would trust their gut and make a quick decision, while Caution would carefully gather evidence and plan for contingencies.
+* When chasing a person on horseback, Speed would spur on their mount and outpace the target; Caution would keep an eye open for shortcuts, or opportunities to slow down the target.
+
+Potential [[consequence]]s of using Speed include missing crucial details, overshooting one's goals, or leaning too heavily on instincts. Potential consequences of using Caution include missed opportunities, lost momentum, or letting anxiety lead one to false conclusions.
+
+!! Approach Scores
+
+Each approach on a [[character sheet|character sheet template]] has an associated score. This number indicates how much additional [[impact]] or reduced [[risk]] a character can apply to an [[overcome]] or [[boost]] attempt using that approach. The number also indicates how many additional dice a player can roll for a [[boost]] attempt (maximum 2 extra dice).
+
+Players can choose any two approaches they like when making attempts, even if those approaches don't perfectly suit the situation. A character with a point in Flair tends to solve problems in a flashy way, and the system rewards them for that. However, a player won't always be able to just choose their best approaches for every action they take. Keep in mind that the chosen approaches must accurately reflect the nature of the action described. If a player is describing their character sneaking past a group of guards, they must use the Guile approach, not Flair; their second approach choice can further describe just how quickly or cleverly they are sneaking.
+
+At [[character creation|Character Creation]], consider each of the opposite pairs listed above and assign one point to your preferred approach. You should have three approaches at "1" and three approaches at "0". As your character advances over time, you can continue to increase your approach scores; see [[experience point]].

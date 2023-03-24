@@ -1,13 +1,14 @@
 [
     {
         "created": "20201226054926102",
-        "title": "Sypheros",
         "text": "''Color:'' Smoky gray<br/>\n''Associated [[Dragonmark|dragonmark]]:'' [[Shadow|Mark of Shadow]]<br/>\n''Associated [[Plane|plane]]:'' [[Mabar]]<br/>\n''Associated [[Month|Khorvaire calendar]]:'' 10th\n\nSypheros is a dim [[moon]], and people often find it difficult to spot in the night sky. Recent observations using powerful spyglasses have confirmed that a jagged crack runs down the center of the moon, as if the moon is splitting in two. Many believe that children born in the month of Sypheros inherit a shifty, untrustworthy nature, and parents often seek to time pregnancies to avoid this month. However, the [[druid]]s say that the children of Sypheros are not evil; rather, they are comfortable with the shadows and can face them without fear.",
-        "modified": "20210727192035716",
+        "title": "Sypheros",
+        "modified": "20230324195717608",
         "tags": "moon",
         "type": "text/vnd.tiddlywiki",
         "article": "the Shadow, ",
         "category": "cosmology",
-        "color": "#432874"
+        "color": "#432874",
+        "tooltip": "moon associated with Mabar; 10th month of the year"
     }
 ]

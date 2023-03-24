@@ -1,13 +1,13 @@
 category: talent
 created: 20221212200434291
 list: guidance [[dancing lights]] [[prayer of divination]] contagion augury friends [[bestow curse]] [[cure wounds]] [[spirit guardians]] message [[spare the dying]] thaumaturgy [[true strike]] [[Traveler's enigma]] [[Devourer's teeth]] [[Fury's chorus]] [[Keeper's vault]] [[Mockery's snare]] [[Shadow's echo]] gloom blacksteel [[shadow step]] [[miser's envy]] suggestion charm invisibility [[shadow blade]] fear [[cause fear]] hex [[enemies abound]]
-modified: 20221212231546455
+modified: 20230317043043040
 tags: rogue [[dark petitioner]]
 title: Dark Petitioner (talent)
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-As a [[dark petitioner]], gain one of the [[common-tier|spell tier]] [[spell]]s from the below list. In addition, whenever you spend [[momentum]] on an attempt you make using [[Fight|action]] + [[Guile|attribute]] against an enemy who is significantly enfeebled (e.g. blinded, deafened, terrified, poisoned, restrained), gain +1 [[impact]].
+As a [[dark petitioner]], gain one of the [[common-tier|spell tier]] [[spell]]s from the below list. In addition, whenever you spend [[momentum]] on an attempt using [[Guile|approach]] in combat to harm an enemy who is significantly enfeebled (e.g. blinded, deafened, terrified, poisoned, restrained), gain +1 [[impact]].
 
 !! Dark Petitioner Spell List
 

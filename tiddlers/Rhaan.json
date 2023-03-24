@@ -1,13 +1,14 @@
 [
     {
         "created": "20201226054806875",
-        "title": "Rhaan",
         "text": "''Color:'' Pale blue<br/>\n''Associated [[Dragonmark|dragonmark]]:'' [[Scribing|Mark of Scribing]]<br/>\n''Associated [[Plane|plane]]:'' [[Thelanis]]<br/>\n''Associated [[Month|Khorvaire calendar]]:'' 9th\n\nThe smallest of [[Eberron]]'s [[moon]]s, Rhaan looks more like a bright star. When viewed with a spyglass, one may see a series of ridges that vaguely resemble scribblings on a page. The [[druid]]s say that Rhaan empowers creative thought, and they believe that dancers, musicians, poets, and artists of all stripes draw inspiration from the Book.",
-        "modified": "20210727192028101",
+        "title": "Rhaan",
+        "modified": "20230324195702084",
         "tags": "moon",
         "type": "text/vnd.tiddlywiki",
         "article": "the Book, ",
         "category": "cosmology",
-        "color": "#432874"
+        "color": "#432874",
+        "tooltip": "moon associated with Thelanis; 9th month of the year"
     }
 ]

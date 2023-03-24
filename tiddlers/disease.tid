@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20221130212017066
-modified: 20221130222158203
+modified: 20230317043732769
 tags: 
 title: disease
 type: text/vnd.tiddlywiki
@@ -31,9 +31,9 @@ The examples in the list below illustrate the variety of ways disease can work i
 
 !! Diseases in the Storyloom system
 
-Whenever a player character contracts a disease, the GM might set up a [[progress clock]] for overcoming the illness; if the disease's symptoms can get worse over time, they can set up a second one for the progression of symptoms. These progress clocks can have four to six segments depending on the disease's complexity. The player can make an [[attempt|Taking Action]] once each day to advance the first clock, with [[partial success]]es and [[bad outcome]]s advancing the second clock. The GM narrates how the disease is progressing based on how filled-in the symptoms' [[progress clock]] is.
+Whenever a player character contracts a disease, the GM might set up a [[progress clock]] for overcoming the illness; if the disease's symptoms can get worse over time, they can set up a second one for the progression of symptoms. These progress clocks can have four to six segments depending on the disease's complexity. The player can make an [[overcome]] once each day to advance the first clock, with [[partial success]]es and [[bad outcome]]s advancing the second clock. The GM narrates how the disease is progressing based on how filled-in the symptoms' [[progress clock]] is.
 
-When making such an attempt, use the Vigor [[attribute]] (or Heart if the disease is spiritual in nature), and an [[action]] appropriate to how you're actively fighting the disease (usually Operate or Study). If another character is providing medical attention, you can use //their// [[action]] if they are proficient in it. If no one is actively doing something to combat the disease, just don't use an [[action]] for that attempt. Important note: if the disease's description says that it imposes [[disadvantage]] on all attempts performed by the infected creature, that disadvantage ''does not apply to this roll''.
+When making a disease recovery attempt, you can't use any [[approach]] points to improve your result. However, you can spend [[momentum]] on the attempt, and characters with appropriate medical training can perform ordinary [[boost]] attempts to grant you that momentum. Important note: if the disease's description says that it imposes [[disadvantage]] on all attempts performed by the infected creature, that disadvantage ''does not apply to disease recovery attempts''.
 
 Many diseases can be cured with the [[restoration]] spell. If the disease is described as "magical", however, a greater restoration (rare-[[tier|spell tier]]) must be used.
 

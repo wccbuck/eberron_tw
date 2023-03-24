@@ -30,9 +30,11 @@ function setheight(self, titlebar){
             if (titlegradient) titlegradient.style.top = newTop;
 
             var tiddlerDiv = document.querySelector("div[data-tiddler-title=\""+self.getVariable("currentTiddler").replaceAll('"', '\\"')+"\"]");
-            var headers = tiddlerDiv.querySelectorAll("h1, h2, h3, h4, h5, h6");
-            for (let i = 1; i < headers.length; i++){
-                headers[i].style.scrollMarginTop = headerScrollMarginTop;
+            if (tiddlerDiv) {
+                var headers = tiddlerDiv.querySelectorAll("h1, h2, h3, h4, h5, h6");
+                for (let i = 1; i < headers.length; i++){
+                    headers[i].style.scrollMarginTop = headerScrollMarginTop;
+                }
             }
         } catch(err) {
             console.log(err);

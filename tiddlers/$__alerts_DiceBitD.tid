@@ -1,10 +1,17 @@
-actiontype: overcome
+actiontype: boost
 component: Dice Roller
 created: 20210810021010090
+<<<<<<< HEAD
 impact: 2
 modified: 20220208065209130
 pool: 3
 result: 3 1 3
+=======
+impact: 1
+modified: 20230317160108558
+pool: 3
+result: 5 4 1
+>>>>>>> main
 risk: 2
 title: $:/alerts/DiceBitD
 type: text/vnd.tiddlywiki

@@ -1,12 +1,28 @@
 category: creature
 color: #EA868F
 created: 20210504060302349
-modified: 20210727192024730
+modified: 20230322221535974
 tags: monstrosity
 tier: 2
 title: peryton
 type: text/vnd.tiddlywiki
 
-The peryton is a bizarre creature that blends the body and wings of a bird of prey with the head of a stag. Its strangest feature is its shadow, which appears [[humanoid]] rather than reflecting the creature's physical form. Sages postulate that the first perytons were [[human]]s or [[elves|elf]] transformed by a hideous curse or magical experiment, but [[bard]]s tell a different tale of a man whose infidelity caused his scorned wife to cut out the heart of her younger, more beautiful rival and consume it in a ritual intended to forever win her husband's heart. The ritual succeeded until the woman's villainy was exposed. She was hanged for her crime, but the lingering magic of her foul ritual caused the carrion birds that feasted on her corpse to transform into the first perytons. Whatever the truth, perytons can understand [[Sylvan]] and perhaps [[Common]] or [[Aerenese]], but cannot speak.
+The peryton is a bizarre creature that blends the body and wings of a bird of prey with the head of a stag. It feasts upon those it kills, particularly favoring the hearts of its prey. Its strangest feature is its shadow, which appears [[humanoid]] rather than reflecting the creature's physical form. Perytons can also understand [[Common]] and [[Aerenese]], but cannot speak. They are only found in a small region in central [[Karrnath]], and seem to have first appeared a little over two decades ago.
 
-Perytons roost atop mountain ridges and lair in high caves. They prey on creatures living or wandering in the vales below, and travelers on lonely mountain roads learn to keep a wary eye on the sky. Because non-magical weapons are less effective against perytons, the folk of the mountains know to avoid confrontations with these monsters at all costs.
+Perytons roost atop mountain ridges and lair in high caves. They prey on creatures living or wandering in the vales below, and travelers on lonely mountain roads learn to keep a wary eye on the sky. Non-magical weapons are less effective against perytons; piercing or cutting one of these monsters reveals a shadowy form beneath their fur and feathers. Because of this, the folk of the region know to avoid confrontations with these monsters at all costs.
+
+Some legends postulate that the first perytons were [[human]]s or [[elves|elf]] transformed by a hideous curse or magical experiment. Another legend tells a tale of a man whose infidelity caused his scorned wife to cut out the heart of her younger, more beautiful rival and consume it in a ritual intended to forever win her husband's heart. The ritual succeeded, but afflicted her with a curse which slowly transformed her into the first peryton.
+
+In truth, the appearance of the perytons has its origins in the [[Shadow Schism]] between the [[dragonmarked house]]s [[Phiarlan]] and [[Thuranni]]. An unusual region exists in central [[Karrnath]]—perhaps a [[manifest zone]], or perhaps the forgotten workings of an [[overlord]]. Whatever the case, whenever a person is murdered here, any carrion birds who feast on their corpse can consume their very essence. Twenty-six years ago, a family of [[Paelion]] [[elves|elf]] who bore the [[Mark of Shadow]] lived in this region, and were slain by [[Thuranni]] agents as part of their operation to exterminate the line. The assassins knew nothing of the regional curse, and left the corpses to rot. But the Paelion shadows lingered, vengeful and strong... and when the crows consumed these shadows, they became monstrous perytons.
+
+A peryton's shadow has the appearance of an [[elf]], and is always visible regardless of the ambient light. This shadow is a fragment of a slain [[Paelion]], which grants the monstrosity its intelligence and understanding of language, but a peryton's sentience is a deranged blend of elvish memories and bestial instinct. It is a terrifying hunter that can predict and anticipate [[humanoid]] behavior, and understands concepts like houses, weapons, and tools. A peryton is driven by its hunger both for humanoid hearts and for vengeance, but it can't fully remember its reasons for craving vengeance, or what proper vengeance would look like. If somehow an adventurer could find a way to dull that consuming hunger, it's possible that a peryton could regain the sapience and personality of the elf within its shadow—perhaps even remembering lost details pertaining to the bloody events that sparked the [[Shadow Schism]]. Or perhaps by listening intently to the haunting songs of a peryton's shadow, one might discover a clue to finding a hidden [[Paelion]] vault...
+
+The shadows of different perytons often exhibit different magical traits; see the below table for some possible options.
+
+| !<<dr 1d6>> |!Peryton Shadow Traits |
+| 1 |The shadow can speak [[Aerenese]], and may sing traditional [[Phiarlan]] songs. This is instinctive and isn't consciously controlled by the peryton itself. |
+| 2 |The shadow can take on other shapes, as the spell [[lesser illusion]]. |
+| 3 |The shadow is aggressive and can cast [[chill touch]]. |
+| 4 |If the peryton is slain, its [[shadow]] lingers. |
+| 5 |The shadow guides the peryton, providing it with [[darkvision]] with a range of 120 feet. |
+| 6 |The peryton can unleash its shadow to cast [[darkness]] once per day. |

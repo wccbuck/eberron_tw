@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220104193826910
-modified: 20220708181208922
+modified: 20230324183113338
 tags: staff weapon
 tier: 2
 title: thwackstaff
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 
 This festive quarterstaff is decorated with ribbons and other glittering ornamentation. It is perfectly balanced as a dance baton. Gain an [[advantage]] on attempts made to put on an entertaining performance using the quarterstaff.
 
-Whenever you attempt to [[boost]] by parrying an attack with this weapon and get a [[full success]], you may immediately deal a low-[[impact]] blow to that same opponent as a counterattack.
+Whenever you spend [[momentum]] on an attack with this weapon using [[Flair|approach]] and get a [[full success]], gain +1 [[impact]].
 
 <div align="right">
 //A swing and a smack,//<br/>

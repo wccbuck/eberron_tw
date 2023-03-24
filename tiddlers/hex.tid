@@ -2,13 +2,13 @@ category: spell
 color: #B7A1E0
 created: 20210427162303293
 highertier: show
-modified: 20220220211332098
+modified: 20230317044722736
 tags: enchantment
 tier: 2
 title: hex
 type: text/vnd.tiddlywiki
 
-You place a curse on a creature that you can see within 90 feet. Choose one [[action]] or [[attribute]] when you cast the spell. For up to 1 hour (or until your concentration breaks), the target has [[disadvantage]] on attempts made with the chosen action or attribute.
+You place a curse on a creature that you can see within 90 feet. Choose one [[approach]] when you cast the spell. For up to 1 hour (or until your concentration breaks), the target has [[disadvantage]] on attempts made with the chosen approach.
 
 A [[remove curse]] cast on the target ends this spell early.
 

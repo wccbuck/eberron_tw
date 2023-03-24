@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20221204000455433
+modified: 20230316211845597
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -96,45 +96,64 @@ type: text/vnd.tiddlywiki
 </div>
 \end
 
-\define cs-attr-act(field, fieldlabel)
-<div class="cs-column">
-<div class="cs-attr-act-label">$fieldlabel$</div>
+\define cs-approachrow(field1, fieldlabel1, field2, fieldlabel2)
+<div class="cs-row" style="margin-top:10px;margin-bottom:13px;">
+<div class="cs-doublecolumn">
+<div class="cs-approach-label">$fieldlabel1$</div>
 </div>
-<div class="cs-column" style="align-items:center;">
+<div class="cs-column" style="margin-right:25px;align-items:end;">
 <$reveal type="nomatch" state="!!mode" text="edit">
-<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="$field$" class="cs-check" disabled="yes"/>
+<p class="cs-approach">{{$:/$(currentTiddler)$/data!!$field1$}}</p>
 </$reveal>
 <$reveal type="match" state="!!mode" text="edit">
-<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="$field$" class="cs-check"/>
+<$edit-text tiddler="$:/$(currentTiddler)$/data" field="$field1$" tag=input type="number" class="cs-a" size=2/>
 </$reveal>
-     </div>
+</div>
+<div class="cs-column">
+⟷
+</div>
+<div class="cs-doublecolumn">
+<div class="cs-approach-label">$fieldlabel2$</div>
+</div>
+<div class="cs-column" style="margin-right:25px;align-items:end;">
+<$reveal type="nomatch" state="!!mode" text="edit">
+<p class="cs-approach">{{$:/$(currentTiddler)$/data!!$field2$}}</p>
+</$reveal>
+<$reveal type="match" state="!!mode" text="edit">
+<$edit-text tiddler="$:/$(currentTiddler)$/data" field="$field2$" tag=input type="number" class="cs-a" size=2/>
+</$reveal>
+</div>
+</div>
 \end
 
-\define cs-checkboxes()
-<div class="cs-row">
-            <div class="cs-column">
-				<div>
-		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s1" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s3" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s5"class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s7"class="cs-check-special"/>
-				</div>
-            </div>
-            <div class="cs-column">
-				 <div>
-		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h1" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h3" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h5" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h7"class="cs-check-special"/>
-				</div>
-            </div>
-        </div>
-		<div class="cs-row">
-			<div class="cs-column">
-				<div>
-		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s2" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s4" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s6"class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s8"class="cs-check-special"/>
-				</div>
-			</div>
-			<div class="cs-column">
-				<div>
-		<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h2" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h4" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h6" class="cs-check"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h8"class="cs-check-special"/>
-				</div>
-			</div>
-		</div>
+\define cs-approaches()
+  <div class="cs-row">
+    <p class="cs-heading">[[Approaches|approach]]</p> 
+  </div>
+<<cs-approachrow "force" "Force" "savvy" "Savvy">>
+<<cs-approachrow "flair" "Flair" "guile" "Guile">>
+<<cs-approachrow "speed" "Speed" "caution" "Caution">>
+\end
+
+\define cs-aspects()
+  <div class="cs-row">
+    <p class="cs-heading">[[Aspects|aspect]]</p> 
+  </div>
+  <div class="cs-row"><div class="cs-column">
+<<cs-field "desc" "Description" "Description Aspect">>
+  </div></div>
+  <div class="cs-row"><div class="cs-column">
+<<cs-field "desc" "Ideal" "Ideal Aspect">>
+  </div></div>
+  <div class="cs-row"><div class="cs-column">
+<<cs-field "desc" "Flaw" "Flaw Aspect">>
+  </div></div>
+  <div class="cs-row"><div class="cs-column">
+<<cs-field "desc" "Bond 1" "Bond Aspect">>
+  </div></div>
+  <div class="cs-row"><div class="cs-column">
+<<cs-field "desc" "Bond 2" "Bond Aspect">>
+  </div></div>
 \end
 
 \define cs-stressboxes()
@@ -150,7 +169,7 @@ type: text/vnd.tiddlywiki
   </div>
   <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px;" title="special stress">
 <div class="cs-row" style="justify-content: center; align-items: end;">
-          <p class="new-note" style="margin:0px;"><span class="cs-attr-act-label" >S</span> <$button class=<<tv-config-toolbar-class>> tooltip="add special stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ss=<<num-ss-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove special stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ss=<<num-ss-dn>>/>{{$:/images/subtract}}</$button></p>
+          <p class="new-note" style="margin:0px;"><span class="cs-approach-label" >S</span> <$button class=<<tv-config-toolbar-class>> tooltip="add special stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ss=<<num-ss-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove special stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ss=<<num-ss-dn>>/>{{$:/images/subtract}}</$button></p>
         </div>
     <div class="cs-row" style="justify-content: center; align-items: end;">
 <$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-ss" text="1">
@@ -163,7 +182,7 @@ type: text/vnd.tiddlywiki
   </div>
   <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px 25px 2px 2px;" title="temporary stress">
 <div class="cs-row" style="justify-content: center; align-items: end;">
-          <p class="new-note" style="margin:0px;"><span class="cs-attr-act-label">T</span> <$button class=<<tv-config-toolbar-class>> tooltip="add temporary stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ts=<<num-ts-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove temporary stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ts=<<num-ts-dn>>/>{{$:/images/subtract}}</$button></p>
+          <p class="new-note" style="margin:0px;"><span class="cs-approach-label">T</span> <$button class=<<tv-config-toolbar-class>> tooltip="add temporary stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ts=<<num-ts-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove temporary stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ts=<<num-ts-dn>>/>{{$:/images/subtract}}</$button></p>
         </div>
     <div class="cs-row" style="justify-content: center; align-items: end;">
 <$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-ts" text="1">
@@ -191,7 +210,7 @@ type: text/vnd.tiddlywiki
   </div>
   <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px;" title="special harm">
 <div class="cs-row" style="justify-content: center; align-items: end;">
-          <p class="new-note" style="margin:0px;"><span class="cs-attr-act-label" >S</span> <$button class=<<tv-config-toolbar-class>> tooltip="add special harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-sh=<<num-sh-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove special harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-sh=<<num-sh-dn>>/>{{$:/images/subtract}}</$button></p>
+          <p class="new-note" style="margin:0px;"><span class="cs-approach-label" >S</span> <$button class=<<tv-config-toolbar-class>> tooltip="add special harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-sh=<<num-sh-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove special harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-sh=<<num-sh-dn>>/>{{$:/images/subtract}}</$button></p>
         </div>
     <div class="cs-row" style="justify-content: center; align-items: end;">
 <$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-sh" text="1">
@@ -204,7 +223,7 @@ type: text/vnd.tiddlywiki
   </div>
   <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px 25px 2px 2px;" title="temporary harm">
 <div class="cs-row" style="justify-content: center; align-items: end;">
-          <p class="new-note" style="margin:0px;"><span class="cs-attr-act-label">T</span> <$button class=<<tv-config-toolbar-class>> tooltip="add temporary harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-th=<<num-th-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove temporary harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-th=<<num-th-dn>>/>{{$:/images/subtract}}</$button></p>
+          <p class="new-note" style="margin:0px;"><span class="cs-approach-label">T</span> <$button class=<<tv-config-toolbar-class>> tooltip="add temporary harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-th=<<num-th-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove temporary harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-th=<<num-th-dn>>/>{{$:/images/subtract}}</$button></p>
         </div>
     <div class="cs-row" style="justify-content: center; align-items: end;">
 <$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-th" text="1">
@@ -299,11 +318,11 @@ type: text/vnd.tiddlywiki
 \end
 
 \define cs-momentum()
-<div class="cs-quadcolumn">
+<div class="cs-hexcolumn">
 <$range tiddler="$:/$(currentTiddler)$/data" field="momentum" min="0" max="5" default="0" increment="1"/></div>
-<div class="cs-column" style="align-items:center; margin-bottom:10px;">
+<div class="cs-column" style="align-items:end; margin-bottom:10px;margin-right:25px;">
 <$vars momentum={{{ [{$:/$(currentTiddler)$/data!!momentum}else[0]] }}}>
-<p class="cs-attr-act"><<momentum>></p></$vars>
+<p class="cs-approach"><<momentum>></p></$vars>
 </div>
 \end
 

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201210060451571
-modified: 20220216210959022
+modified: 20230317041239825
 tags: accessory head
 tier: 2
 title: Aereni mask
@@ -12,5 +12,5 @@ lines, and the guidance it offers comes from spirits of that line.
 You can't [[attune|attunement]] to the mask unless those spirits judge you
 worthy to wear it.
 
-An Aereni mask is imbued with one [[action]] when it is created. While wearing the mask, when you make an attempt using that [[action]], add 1 [[impact]].
+An Aereni mask is imbued with one [[approach]] when it is created. While wearing the mask, when you make an attempt using that [[approach]], add 1 [[impact]].
 

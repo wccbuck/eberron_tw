@@ -5,11 +5,12 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Hunt",
         "tags": "[[Sovereign Host]] Balinor holiday",
-        "modified": "20220203225124889",
+        "modified": "20230324195317395",
         "month": "8",
         "day": "4",
         "color": "#A3CFBB",
         "category": "event",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "annual festival celebrating Balinor as Lord of Horn and Hunt"
     }
 ]
