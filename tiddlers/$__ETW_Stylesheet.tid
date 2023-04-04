@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20230316211830989
+modified: 20230329195406258
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -185,6 +185,8 @@ button.copy-clipboard svg:hover {stroke: <<colour tiddler-controls-foreground-ho
 	font-size: 2em;
     color: <<colour tiddler-title-foreground>>;
     margin: 0px;
+    width: 0.8em;
+    text-align: center;
 }
 
 .cs-heading {
