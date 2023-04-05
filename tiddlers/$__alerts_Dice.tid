@@ -4,8 +4,8 @@ component: Dice Roller
 created: 20200410014544149
 dicestring: d10
 max: 10
-modified: 20230201055851797
-result: 5
+modified: 20230405041432022
+result: 8
 title: $:/alerts/Dice
 type: text/vnd.tiddlywiki
 

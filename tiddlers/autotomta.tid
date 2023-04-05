@@ -1,9 +1,9 @@
 category: creature
 color: #EA868F
 created: 20230404161118044
-enhancement: //''Increased Speed.''// The clockwork can move faster than usual.
-malfunction: //''Leaking Lubricant.''// The clockwork becomes increasingly exhausted and eventually grinds to a halt.
-modified: 20230404162103059
+enhancement: //''Vocal Resonator.''// The clockwork gains the ability to speak rudimentary [[Common]] or [[Zilasalza]] (creator's choice).
+malfunction: //''Overheats.''// The clockwork randomly becomes incapacitated for a few seconds at a time.
+modified: 20230405025120720
 tags: construct clockwork
 tier: 0
 title: autotomta
