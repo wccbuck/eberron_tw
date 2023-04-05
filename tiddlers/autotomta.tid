@@ -1,0 +1,28 @@
+category: creature
+color: #EA868F
+created: 20230404161118044
+enhancement: //''Increased Speed.''// The clockwork can move faster than usual.
+malfunction: //''Leaking Lubricant.''// The clockwork becomes increasingly exhausted and eventually grinds to a halt.
+modified: 20230404162103059
+tags: construct clockwork
+tier: 0
+title: autotomta
+type: text/vnd.tiddlywiki
+
+This tiny [[clockwork]] automaton was created by [[Snarik the Mauve]] as a replacement for the troupe of house spirits who once tidied a workshop each night, but who had left after being given an offensive gift. The autotomta stands just 2 inches tall, and is [[creature tier]] 0 for a humanoid-sized creature; however, if shrunk down to mouse size, the creature tier becomes 1 or even 2.
+
+Autotomtas are designed to automatically repair themselves once destroyed. The quickest way to disable all autotomtas in an area is to read aloud their self-destruct command phrase.
+
+!! Clockwork Enhancement and Malfunction
+
+<<<
+<$button>
+<$action-chooserandom $dataTiddler="$:/ClockworkEnhancements" $field=enhancement/>
+<$action-chooserandom $dataTiddler="$:/ClockworkMalfunctions" $field=malfunction/>
+Generate
+</$button>
+
+''Enhancement: '' {{!!enhancement}}
+
+''Malfunction: '' {{!!malfunction}}
+<<<

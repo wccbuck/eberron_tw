@@ -1,6 +1,6 @@
 category: note
 created: 20230306231653030
-modified: 20230404025459433
+modified: 20230404174225051
 tags: [[Adventures of Arien]]
 title: The Fey of Colworn Clothiers
 type: text/vnd.tiddlywiki
@@ -24,7 +24,7 @@ An adventure in which Arien must be shrunk down to mouse size!
 
 !! Summary
 
-[]
+In this adventure, the PCs are shrunk down to 1/50th their normal dimensions and sent to resolve the mystery of a magically sealed alchemical workshop. Along the way, they will encounter tiny clockwork constructs, waltzing mice, resentful house spirits who have lost their motivation, and a mischievous [[grig]].
 
 !! Background
 
@@ -32,7 +32,7 @@ An adventure in which Arien must be shrunk down to mouse size!
 
 The Colworns were blessed by the presence of a little troupe of [[fey]] house spirits (tomtas, basically [[chwinga]]s but 2 inches tall instead of 6) who helped them clean and organize their shop each night. In exchange, the Colworns left out a little saucer of porridge, and the arrangement was beneficial for everyone. One day, the clothiers decided to reward the tomtas with tiny caps and sweaters—but the fey were greatly offended by this. The tomtas vanished.
 
-The clothiers asked their tenant, [[Snarik|Snarik the Mauve]], for help. Instead of helping them make amends with the fey, Snarik instead made them a set of tiny [[clockwork]] automatons to take their place; he called them "autotomtas". They served their purpose well for a time. However, the resentful tomtas (who secretly dwelled in Snarik's workshop) claimed the constructs for themselves, ordering them to fetch them precious trinkets and delicacies. 
+The clothiers asked their tenant, [[Snarik|Snarik the Mauve]], for help. Instead of helping them make amends with the fey, Snarik instead made them a set of tiny [[clockwork]] automatons to take their place; he called them "[[autotomta]]s". They served their purpose well for a time. However, the resentful tomtas (who secretly dwelled in Snarik's workshop) claimed the constructs for themselves, ordering them to fetch them precious trinkets and delicacies. 
 
 Unbeknownst to anyone, a mischievous [[grig]] observed all these goings-on with much delight. As the tomtas began to grow bored of their new "toys" and contemplated making amends with the Colworns, the grig cast an enchantment on the tomtas which stripped them of their motivation; it has literally has been taken from them, crystallized into a solid bauble and hidden away. The constructs see to the tomtas' every need, whom have grown lazy and fat. The grig also magically sealed the entrance to the workshop so that none might enter and spoil the fun.
 
@@ -42,144 +42,157 @@ Having completed his "Metamorphic Spatial Condenser," [[Snarik the Mauve]] enlis
 
 Snarik has seen mice enter and exit the workshop, so he suspects the abjuration that blocks entry into the workshop only works on creatures larger than mice.
 
-Snarik also warns the party about the constructs, and how they may take hostile action against the party. They've been designed to self-repair, so if it becomes truly necessary, the party can send a self-destruct command to all autotomtas by shouting out a command word. Unfortunately Snarik forgot the command word, but it's printed in his journal, which is on his desk.
+Snarik also warns the party about the constructs, and how they may take hostile action against the party. They've been designed to self-repair, so if it becomes truly necessary, the party can send a self-destruct command to all [[autotomta]]s by shouting out a command phrase. Unfortunately Snarik forgot the command phrase, but it's written in his journal, which is on his desk.
 
 !! Entering the Workshop
 
-[shrink down to 1/50 size, so like 1.3 inches]
+Arien, Dowin, and Snarik travel to the back lot of Colworn Clothiers in Lorikur Heights, where the sealed shed is located. The shed is about 10' by 12'. Snarik has his Metamorphic Spatial Condenser in tow, rolling it on wagon wheels into position. He draws a chalk circle on the ground, then has Arien and Dowin each wear a strange helmet attached to the machine via a coiled cable, and hold onto an electrode. He spritzes them with a liquid that smells like grapefruit and grass clippings, then runs to his machine, flips some switches, and twists some dials. The machine begins to spin up.
 
-Note: mass doesn’t drop proportionally. Instead of 1/50^3, it drops by 1/50^2 (so 1/2500). This means Arien might weigh ~24 grams or 0.8 oz. That way she won't just blow away from a breeze.
+"Dynamo disks are spinning smoothly, thanks to that Symphonious Gyroscopic Stabilizer you guys procured for me! Looks like all systems are operational!" He rests his hand on a large lever switch. "Are you ready?"
 
-[enter under door]
+He flips the switch. Arien and Dowin shrink down to 1/50th of their normal size. Arien is about 1.3 inches tall, and Dowin is about 0.9 inches. Note: mass doesn't drop proportionally. Instead of dropping by 1/50^^3^^, it drops by 1/50^^2^^ (so 1/2500). So Arien weighs ~24 g or 0.85 oz; Dowin weighs about 8 g or 0.29 oz. That way they won't just blow away from a breeze.
 
-[fight constructs]
+Arien and Dowin enter under the door, which is located on the right side of a 10' wall. When they enter, they can look around the massive room to see a table in the center of the room, next to which is what looks like a spinning wheel. To the left is a cabinet, and to the right is a bookshelf. Piles of fabric and wooden spindles of fibers lay in the corners of the room. More gargantuan furniture can be glimpsed further in.
 
-[hear grig's song, stanza 1]
+However, before they can investigate further, a group of clockwork [[autotomta]]s scuttles up and attack!
 
-[WIP]
+As they fight the constructs, they hear fiddle music playing. 
 
-Meet the mice. The mice tell Dowin (who can speak to small mammals) about the [[grig]], who they call the “Gentleman”. They love to dance to his songs.
+After defeating them, the party hears the music change to a quick waltz. It's coming from the left section of the room, and when they look, they can see a group of mice dancing in little circles to the music. They then hear singing, but the source of the music is obscured behind a crate. <<scrollToHeader "Stanza 1">>
+
+The party presumably moves towards the music. If Arien needs more reason to do so, Dowin says he, as a Shimmerwood [[gnome]], has the ability to speak to small mammals, so he might be able to ask the mice what's going on here.
+
+The source of the music is about 7 feet away, and the stanza takes about 1 minute for the creature to finish singing. If Arien and Dowin walk at a brisk pace, they can travel about 7 feet per minute; if Arien sprints, perhaps she can cover that same distance in only 15-20 seconds.
+
+As they approach, the singing creature finishes the stanza and leaps away, jumping on top of the table in the center of the room. They get a glimpse of him as he dives out of sight; he looks like a massive cricket! Well, massive by their standards. It looks about the size of a housecat, so about 10 times larger than Arien.
+
+Meet the mice. The mice tell Dowin (who can speak to and understand small mammals) about the [[grig]], who they call the “Gentleman”. They love to dance to his songs. They can also tell Dowin that the tomtas are all in the larder, the cabinet nearby.
+
+The party can go to the larder, or try to climb the central table (jump to <<scrollToHeader "The Workbench">>), or try to climb the bookshelf to get a better view (jump to <<scrollToHeader "The Desk">>).
 
 !! The Larder
 
-[tomtas are here]
+The mice can lead the party through the adjacent junk pile to a cracked hole in the wall of the larder. It's a tight squeeze, but Arien and Dowin can fit through. 
 
-[WIP]
+Upon arriving, the party sees the tomtas lounging about. They're 2-inch tall humanoid figures (so a little taller than Arien/Dowin), with spindly limbs, wild hair, and now, big round bellies. The [[autotomta]]s are feeding them cheese and olives and nuts. They also have set up a little wine-making station (a press that squashes one grape or blackberry at a time). They could put it in a magical tiny jug and cork it, causing it to ferment very quickly. (This was a gift from the grig.) Maybe the wine is fed to the fey to make them drunk.
 
-Here the autotomtas have set up a little wine-making station (a press that squashes one grape or blackberry at a time). They could put it in a magical tiny jug and cork it, causing it to ferment very quickly. (This was a gift from the grig.) Maybe the wine is fed to the fey to make them drunk. The mice have a secret path to get in here.
+The autotomtas are very busy and might not notice the party, especially if they're stealthy, or disguise themselves as tomtas. 
 
-Might encounter some ants here.
+Talking to the tomtas reveals that they've lost all motivation to do anything but lounge about, but it's not so bad since they have everything they need. They remember helping the Colworns with their chores fondly, and remember wanting to reach out to them and accept their apology, but then they lost their motivation.
 
-Can get to the workbench by climbing to the top of the larder, leaping from there to the nearby [[cleansing stone]] next to a basin stand, onto a chair, then onto the workbench.
+''Tomta names:'' Lug, Daillac, Levic, Cov, Sodoi, Bingith, Lallam
 
-If tomtas get their motivation back, one of them can make Arien and Dowin invisible, which will help them infiltrate. However once Arien & Dowin get to the desk, the big bad has a [[clockwork faefly]] that can cast [[faerie fire]], making invisible creatures outlined in light.
+Can get to the workbench from here by climbing to the top of the larder, leaping from there to the nearby [[cleansing stone]] next to a basin stand, onto a chair, then onto the workbench.
+
+If tomtas get their motivation back, one of them can make Arien and Dowin invisible, which will help them infiltrate onto the desk. However, once Arien & Dowin get to the desk, the big bad has a [[clockwork faefly]] that can cast [[faerie fire]], making invisible creatures outlined in light.
 
 !! The Desk
 
-[WIP]
-
 Microscope, ink pot, quills, glassware
 
-Hard to climb the desk's legs, but one could get here by climbing onto a pile of swathes of cloth and spindles of fibers, and from there onto a bookshelf nearby. However, there are spiderwebs here - maybe spiders. From the bookshelf, one can leap to the desk.
+Hard to climb the desk's legs, but one could get here by climbing onto a tipped-over spindle or bolt of cloth, and from there onto the bookshelf it's leaning against. However, there are spiderwebs here - maybe spiders. From the bookshelf, one can leap to the desk. One can also look out over the room and get a good view of everything.
 
 Could also get here by moving from the larder, to the [[cleansing stone]], to the basin stand, to the glassware shelves, to the desk. However, the grig might make some mischief and cause Arien and/or Dowin to fall into a round-bottom flask.
 
-There’s a [[clockwork faefly]] up on the desk that can temporarily reveal invisible things and creatures ([[faerie fire]] spell effect)
+In the corner of the messy desk sits Snarik's notebook, but many [[autotomta]]s guard it. There’s also [[clockwork faefly]] up on the desk that can temporarily reveal invisible things and creatures ([[faerie fire]] spell effect).
+
+Opening the notebook is tricky at small size. Once they find the command phrase ("beggar thy neighbors, letter of marque; set down your labors, and put out your spark"), Arien can read it aloud using [[thaumaturgy]]. Doing this causes all of the [[autotomta]]s in the shed to fall apart and clatter to the ground.
 
 !! The Workbench
 
-[centrifuge, alchemical liquids]
+This circular workbench in the center of the room is where the [[grig]] spends most of his time. He can see well the goings-on of the room from this central location, and enjoys making up songs about the things he sees.
 
-[WIP]
-
-Trying to get up the table leg is tricky; the staircase suddenly becomes a slide and Arien/Dowin slide down to the bottom. If they try to climb, their hands might stick with pine sap.
+Trying to get up onto the workbench is tricky. A staircase is carved into the table leg, but it suddenly becomes a slide if Arien/Dowin try to ascend it, and they slide down to the bottom. If they try to climb, their hands might stick with pine sap.
 
 Can potentially get here by leaping from the top of the larder to the [[cleansing stone]], then to a chair near the workbench, then onto the workbench. 
 
-Alchemy mishaps: Things the potions on the alchemy workbench do when tipped over.
+On top of the table is a group of [[autotomta]]s which attack intruders on sight. In addition, many alchemical potions and ingredients sit in corked bottles and glass containers throughout the table. Any of these liquids, when tipped over, may cause one of the following effects.
 
-* The liquid creates an explosion of purple smoke that causes sneezing.
-* The liquid immediately becomes thick, sticky, flammable webbing.
-* The liquid forms into a tentacled [[ooze]] creature and scuttles away. It scrambles about, attacking any creature it comes into contact with, for 1 minute, after which it reverts to a normal liquid.
-* The liquid emits fumes; any creature which inhales these fumes may fall under the effects of the spell [[confusion]].
-* The liquid is extremely magnetic, pulling ferrous metal towards it.
-* The liquid rapidly crystalizes, and sharp spikes protrude up from the surface.
-* The liquid hisses and rapidly evaporates, leaving behind a grey, chalky precipitate.
-* The liquid causes hair to grow rapidly on any creature on which it spills.
-* The liquid causes any copper-based metals to rapidly patina on contact. The patina is greenish-blue, and causes the autotomtas to lose some mobility and dexterity.
-* The liquid is a [[potion of healing]], and imparts low-impact [[magical healing]] upon contact with a living creature.
+| !<<dr d10>> |!Potion Effect |
+| 1 |The liquid creates an explosion of purple smoke that causes sneezing. |
+| 2 |The liquid immediately becomes thick, sticky, flammable webbing. |
+| 3 |The liquid forms into a tentacled [[ooze]] creature and scuttles away. It scrambles about, attacking any creature it comes into contact with, for 1 minute, after which it reverts to a normal liquid. |
+| 4 |The liquid emits fumes; any creature which inhales these fumes may fall under the effects of the spell [[confusion]]. |
+| 5 |The liquid is extremely magnetic, pulling ferrous metal towards it. |
+| 6 |The liquid rapidly crystalizes, and sharp spikes protrude up from the surface. |
+| 7 |The liquid hisses and rapidly evaporates, leaving behind a grey, chalky precipitate. |
+| 8 |The liquid causes hair to grow rapidly on any creature on which it spills. |
+| 9 |The liquid causes any copper-based metals to rapidly patina on contact. The patina is greenish-blue, and causes the autotomtas to lose some mobility and dexterity. |
+| 10 |The liquid is a [[potion of healing]], and imparts low-impact [[magical healing]] upon contact with a living creature. |
 
 The centrifuge is a converted spinning wheel. If the party tries to get the motivation but the grig is still around, he'll hop on the spinning wheel and start pedaling, causing the centrifuge to spin while Arien/Dowin climbs on it.
 
 !! The Grig's Song
 
+[img[https://i.postimg.cc/XJgHhkjh/Fiddling-grig.webp]]
+
 !!! Stanza 1
 
-“The tale of the tomtas of Clothiers Colworn,
+“The tale of the tomtas of Clothiers Colworn,<br/>
 Will fill one with laughter, even the forlorn!
 
-The wee fey were eager to help with the chores,
+The wee fey were eager to help with the chores,<br/>
 To clean up the workshop, and organize drawers!
 
-The fey wanted nothing in return except,
+The fey wanted nothing in return except,<br/>
 A saucer of porridge while the Colworns slept.
 
-But one day, the well-meaning Mrs. did knit,
+But one day, the well-meaning Mrs. did knit,<br/>
 Small caps and small sweaters and left them as gifts.
 
-The tomtas were outraged, and took great offense,
+The tomtas were outraged, and took great offense,<br/>
 Preferring their nudeness, they quickly fled thence!
 
-Distressed by this outcome, the Colworns addressed
+Distressed by this outcome, the Colworns addressed<br/>
 The Mallow Inventor to help with this mess!
 
-The warlock did puzzle, and ponder and brood,
+The warlock did puzzle, and ponder and brood,<br/>
 To build a replacement for fey servitude.”
 
 !!! Stanza 2
 
-“The Mauve made a host of wee automatons,
+“The Mauve made a host of wee automatons,<br/>
 Diminutive constructs made of burnished bronze.
 
-These clockwork attendants were programmed to serve,
+These clockwork attendants were programmed to serve,<br/>
 And nightly would tidy the workshop with verve.
 
-Now, all of the tomtas, who hid in this shed,
+Now, all of the tomtas, who hid in this shed,<br/>
 Watched all this unfold with resentment and dread.
 
-“How could they replace us?” the fey did bemoan,
+“How could they replace us?” the fey did bemoan,<br/>
 And onto the Colworns’ chores, added their own.
 
-They ordered the constructs to clean the workshop,
+They ordered the constructs to clean the workshop,<br/>
 And fetch them fine trinkets and feed them gumdrops!
 
-And thus the constructs became too occupied,
+And thus the constructs became too occupied,<br/>
 To fulfill the tasks for which they’d been designed.
 
-They served the fat tomtas, met their every whim,
+They served the fat tomtas, met their every whim,<br/>
 While I watched and laughed with mirth filled to the brim!”
 
 !!! Stanza 3
 
-“Before long, the tomtas grew restless and bored,
+“Before long, the tomtas grew restless and bored,<br/>
 And sought to rebuild their old Colworn accord.
 
-But I was unwilling to let the fun end,
+But I was unwilling to let the fun end,<br/>
 Nor cast out the constructs, my new silly friends.
 
-I played a soft dirge that was numbing and mild,
+I played a soft dirge that was numbing and mild,<br/>
 And all of the tomtas, they harkened and smiled.
 
-The fey lay recumbent, with lead-lidded eyes,
+The fey lay recumbent, with lead-lidded eyes,<br/>
 And their motivation swiftly crystallized.
 
-I snatched up this bauble, which shimmered surreal,
+I snatched up this bauble, which shimmered surreal,<br/>
 And hid it on top of a strange spinning wheel.
 
-And lastly, I sealed up this shed like a fort,
+And lastly, I sealed up this shed like a fort,<br/>
 To block any meddlers who’d spoil the sport!
 
-So each day I laugh with my waltzing mouse chums,
+So each day I laugh with my waltzing mouse chums,<br/>
 At once-eager servants, turned do-nothing bums!”
 
 !! Facing the Grig
@@ -187,41 +200,43 @@ At once-eager servants, turned do-nothing bums!”
 The grig presents a riddle to the party. If they can guess his name, he'll release the seal and leave this place.
 
 <<<
-If you wish me to yield, simply tell me my name.
-Very straightforward are the rules to my game.
-Every sentence contains a clue in disguise.
+If you wish me to yield, simply tell me my name.<br/>
+Very straightforward are the rules to my game.<br/>
+Every sentence contains a clue in disguise.<br/>
 Now look to the front within your mind’s eyes.
 <<<
 
 (Read the first letter of each line.)
 
 <<<
-You’ve determined my first name, well done, however,
+You’ve determined my first name, well done, however,<br/>
 Now guess my middle name, to prove you are clever!
 
-Strange how words can have two meanings.
-My middle name is also alive and breathing.
-Perched in the trees, shrouded in black.
-Intelligence is not something it lacks.
-Four letters in total, one syllable is all.
+Strange how words can have two meanings.<br/>
+My middle name is also alive and breathing.<br/>
+Perched in the trees, shrouded in black.<br/>
+Intelligence is not something it lacks.<br/>
+Four letters in total, one syllable is all.<br/>
 My name can speak, but it mostly says “caw”.
 <<<
 
 (Crow.)
 
 <<<
-Excellent work, but you’re not done just yet.
+Excellent work, but you’re not done just yet.<br/>
 My last name is tricky, guess that and you’re set!
 
-For your final challenge, look for your cue,
-And know that this riddle was made just for you.
-Heed these words, look with more than your eye,
-For in this message, five clues reside.
-These clues the characters in my last name,
+For your final challenge, look for your cue,<br/>
+And know that this riddle was made just for you.<br/>
+Heed these words, look with more than your eye,<br/>
+For in this message, five clues reside.<br/>
+These clues the characters in my last name,<br/>
 Made from words and letters that sound the same.
 <<<
 
 (Find the words that sound like letters when spoken aloud.)
+
+After guessing the grig's name, he laughs and says, "Well, I suppose this game has run its course. And for causing real hardship, I show true remorse. But the big folk are so fun to toy with and tease; Let's meet again someday over wine and cheese!" And with that, he plays a little musical chirp with his forewing, and the magical seal over the shed sparkles and dissolves. Iven springs up, clambers up the chimney, and vanishes out of sight.
 
 !! Conclusion
 
