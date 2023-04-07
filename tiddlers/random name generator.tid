@@ -1,16 +1,16 @@
 category: game mechanics
 created: 20221120230342871
-displaynameorigin: Breland
-modified: 20230116194130805
-nameorigin: Breland
+displaynameorigin: Darguun
+modified: 20230407221537442
+nameorigin: Darguun
 tags: 
 title: random name generator
 tooltip: tool for generating a random name based on country of origin
 type: text/vnd.tiddlywiki
-var1: Dalla
-var2: Vorj
-var3: Pavenyaras
-var4: Ithin
+var1: Aas
+var2: Duur
+var3: Azaan
+var4: Iraa
 
 Use this tool to generate names for characters in the world of Eberron. Select a "linguistic origin" from the drop-down list, then click "Generate Four Names". Please forgive any profane, inappropriate, or generally terrible names; this tool does not filter any "blacklist" words.
 

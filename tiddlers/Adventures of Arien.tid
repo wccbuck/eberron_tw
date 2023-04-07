@@ -1,7 +1,6 @@
 category: note
 created: 20220208023535083
-modified: 20230405020659553
-showmore: hide
+modified: 20230407222448072
 tags: 
 title: Adventures of Arien
 type: text/vnd.tiddlywiki
@@ -17,10 +16,10 @@ The adventures of [[Arien Grimbold]]!
 998 YK
 
 !! Links to Headers
-* <<scrollToHeader "Session 10">>
+* <<scrollToHeader "Brainstorming">>
+* <<scrollToHeader "Session 11">>
 ** <<scrollToHeader "TODO">>
 ** <<scrollToHeader "Magic Items">>
-** <<scrollToHeader "Fey Adventures">>
 ** <<scrollToHeader "Second Semester Courses">>
 * <<scrollToHeader "Scenes">>
 ** <<scrollToHeader "Eyre">>
@@ -29,63 +28,47 @@ The adventures of [[Arien Grimbold]]!
 ** <<scrollToHeader "Lharvion">>
 ** <<scrollToHeader "Barrakas">>
 
-!! Session 10
+!! Brainstorming
+
+Wilderness survival field trip. Folks get in pairs and are assigned a section of wilderness they need to survive in for 7 days. 
+
+Arien and [[Lorsanna]] get paired up. While they're out there, Lorsanna opens up a bit and tells Arien her story. 
+
+On day 4 or 5, Kupo the [[couatl]] indicates to Arien that something is going on in the woods. Turns out, a cult of the [[Grim King|Katashka]] is out here up to no good. They're rummaging around in an old [[Dhakaan]]i ruin, looking for a weapon of the [[Kech Nasaar]] that was deemed too horrifying even for them to use and sealed away millennia ago. Perhaps an ulgurstasta. Or a document/tool that would help them summon one (e.g. the Apostolic Scrolls). Could be called "Volaan Kurar"—words of death. I like that; a fragment of the Volaan Kurar was said to be buried here.
+
+And get this: the cult is led by the [[Prophet]]! Who was hanged for his crimes in [[Nelview]], but has come back as a fear eater [[ghast|ghoul]]. Come up with another name for him; perhaps "Haris Vemodin". Other folks who are here:
+
+* A finger keeper ghast (Arien has to contend with [[crawling claw]]s). Name this guy Filge, like the Age of Worms necromancer guy
+* Neddie, a henchman of Ulros Jholivei (see [[Lorsanna]])... this could be too much. Too many characters, too much of a coincidence.
+* Perhaps a [[goblin]] historian of some kind, named Kalaad
+* Misc [[ghoul]]s and nameless goons
+
+Canon Emerald Claw members that I could potentially use for this cult:
+
+* Krael Kavarat, a human [[vampire]]. Tall and muscular, wears plate armor, clean shaven with long blonde hair
+* [[Demise]]
+* [[Garrow]]
+* Mallora, a necromancer
+* Keltis Doran, a cleric
+
+Other potential ideas:
+
+[[https://paizo.com/download/dungeon/AgeofWormsOverload.pdf]]
+
+!! Session 11
 
 !!! TODO
 
-* Find a way to include Kupo the [[couatl]] more. Maybe he provides an occasional [[detect immortal]] or similar divination for Arien.
+* Survival field trip adventure
+** Starts with a few survival challenges, but then Arien stumbles across a scheme of the Order of the [[Emerald Claw]]. Kupo helps her discover this, on like day 3. 
+** Kupo should provide an occasional [[detect immortal]] or similar [[divination]] for Arien.
+* [[Aureon's Crown]] scene or adventure
 * When does [[Argonth]] move across the country? Could be a scene where they watch it go
+* [[Old Man Cord]]?
 
 !!! Magic Items
 
-* [[clockwork faefly]] in shrink adventure
-* Maybe [[jolly oozebeans]] in Dinsiin
-
-!!! Fey Adventures
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h4>(Show Notes)</h4>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h4>(Hide Notes)</h4>
-</$button>
-
-[[Dowin Lin Adredar]] is investigating these things
-
-* [[Dinsiin Night Market|Dinsiin (Dyn Singh) Night Market adventure notes]]
-* [[Old Man Cord]]
-* Look up fairy/folk tales (specifically about artisans/makers) and make them Eberrony.
-** [[The Wonderful Toymaker|https://en.wikipedia.org/wiki/The_Wonderful_Toymaker]]
-*** [[https://www.gutenberg.org/files/30400/30400-h/30400-h.htm#chap05]]
-*** This is [[Granny Nightshade|Skabatha Nightshade]]
-** [[The Elves and the Shoemaker|https://en.wikipedia.org/wiki/The_Elves_and_the_Shoemaker]]. This is about little folks ([[sprite]]s? [[pixie]]s?) helping out a craftsman and his family (the Colworn family). This could be a chance for Arien to shrink down to mouse size like Alita very much wants her to do (need help from the [[Guild of Starlight and Shadows]] to shrink to mouse size)
-*** Make mice feature prominently; Dowin can talk to them
-*** Some kind of little fey that likes to tinker? Could just be [[pixies|pixie]]
-*** Or, do something with [[brigganock]]s. They're little craftsmen/architects; focus on this element, not so much the mining element
-**** Names: Trig, Zarli, Oyla, Golmo, Obud (lives in a hut on a pony named Keg, lowers a rope ladder to get down from the saddle straps), Pim, Zwee
-*** https://en.wikipedia.org/wiki/Heinzelm%C3%A4nnchen
-*** https://en.wikipedia.org/wiki/Brownie_(folklore)
-*** Household spirit, helps with chores, but can be a nuisance if offended; can be disposed of by giving a new set of clothing (they resent this).
-*** Brownies are kind of exactly what I want, but I don't know about the name. The Scottish Gaelic names for them just mean "brown" and "hairy". However, if I plug in "brown" into the [[Tolkien elvish dictionary|https://www.elfdict.com/w/brown?include_old=1]], one of the entries is "varne"; so what about "varney"? Other names: Fenodyree ("fenAH-theree", "fenOH-theree")
-*** Perhaps a family once had some little fey in their house that would help them make their [insert item here]. They made little clothes for them, after which the fey left. (like the story.) Maybe the fey also took some expensive tools with them. They ask Arien to help them talk to the fey and apologize for the offense, try to make them come back. Arien shrinks down to mouse size and finds the fey. Turns out, they loved the clothes, but some OTHER issue is taking their attention which is why they left. Arien helps them with this. Or, they did hate the clothes, and that gift and the ensuing resentment sparked a different issue:
-**** The fey made a set of automatons ("autovarneys"? "autobrigganocks"?) to do THEIR chores for them because they got lazy, but now the automatons are out of control (sorcerer's apprentice style). Use [[clockwork]]s for inspiration
-*** [[ring of alarm]]. The spell [[alarm]] doesn't work on creatures smaller than a rat. THIS is why she needs to shrink down. At the end of the quest she can keep the ring
-*** Could be that [[Snarik the Mauve]] is to blame for some invention that caused this problem, and now he wants help fixing it. He's the one that shrinks down Arien and Dowin (and maybe [[Ervol]] as well). So the little fey got offended because the family (the Colworns) accidentally left out spoiled milk. They went to Snarik for help, and he said to leave them a gift, but do NOT leave them clothing! (Or he at least THINKS he told them not to leave them clothing... surely he did. Wait... hmm, maybe not). So Mrs. Colworn knit little caps and sweaters for the fey, which they hated, and they left. The family went back to Snarik, who made them little automatons, but the resentful fey claimed them for themselves so they wouldn't have to do their own chores. Every time the Colworns try to go into the shed where the fey/constructs dwell, they vanish (it's because of the [[alarm]]) so that's why the party needs to get small
-*** The fey have "lost their motivation" and have gotten lazy and fat, the automatons do everything for them. Party has to literally find the motivation, which is being guarded by the head automaton.
-*** Other possible threats:
-**** An alchemy table covered with random unfinished magical potions, [[random magical effect]] when they're spilled. Maybe that doesn’t make sense in a clothing-maker’s shed; instead, perhaps dyes
-**** Check Michael Crichton's list of action sequences in Micro (https://www.michaelcrichton.com/micro/). Good ones include being carried away by ants (or having important items being carried away), encountering [[bombadier beetles|https://en.wikipedia.org/wiki/Bombardier_beetle]], falling from a great height (but they're fine because they basically have [[feather fall]]), spiders/webs
-** [[The Smith and the Devil|https://en.wikipedia.org/wiki/The_Smith_and_the_Devil]]
-*** Could link this to [[Granny Nightshade|Skabatha Nightshade]]/Wonderful Toymaker
-* A note on the [[Assembly]]: "An [[artificer]] could have been blessed by the [[Forge Maiden]]; their artifice isn't arcane science, they simply create impossible, whimsical things."
-* From WBtWL: A tiny [[clockwork]] toad that hops and croaks when placed on the ground. If any creature licks the toad, all other creatures are invisible to that creature for 1 hour.
-
-</$reveal>
-
+* 
 
 !!! Second Semester Courses
 
@@ -106,12 +89,7 @@ Set up a [[progress clock]] for each of Arien's classes
 
 !!! Eyre
 
-* Dinsiin (finished)
-* 2 class scenes
-* Have a conversation with [[Wroenna Lonn]] about oaths again, and this time, have her focus on what is Arien’s “war”. It’s okay if Arien doesn’t know.
-* Sword training (opportunity to advance Weapon Expertise clock)
-* 1 class scene (still need to do leadership and politics)
-* [[The Fey of Colworn Clothiers]]
+* 2 class scenes: leadership and politics
 * [[Sejra Whitebinder]] tells Arien that an oath need not be such a sacrifice as long as it focuses one's faith. She says not everything needs to be a sacrifice; that's just a very [[Dol Arrah]] way of looking at the paladin's oath, but there are other paths.
 
 !!!! Classes scene 3/4
@@ -131,18 +109,17 @@ All of your soldiers are well trained, ready to go in an instant, and eager to f
 
 <<<
 
-* Survival (Preceptor [[Cadoc Belmin]])
-** "Survival thinking": will to survive, situational awareness, assessment, prioritization
-** In times of extreme need, one's faith can reach new heights. As those touched by the divine, we can use our desperation to enhance our power, or gain new skills. Purifying water, creating food, overcoming a hazard, making a signal—any of these can be a gift of the divine in times of need.
 * Politics of Khorvaire (Master Yonz (human))
 ** [[Thrane]] and the theocracy, [[Diani ir'Wynarn]] and the "blood regents" and the Throneholders who want to put her back in power. [[Thaliost]]. Present Thrane as an unstable nation on the verge of a possible rift.
-* World Religions (Master [[Marrath]])
-** [[Undying Court]] and [[Spirits of the Past]]
-* Bestiary (Visitant [[Sejra Whitebinder]])
-** [[therianthrope]]s. Mention [[silvered weapon]] as well as [[mithral]]
-** [[Silver Crusade]]
 
 !!! Dravago
+
+* Dravago 6: [[Baker's Night]]. [[Silver Flame]] holiday
+** Maybe some folks bring some baked treats to the Martial Temple? Not a huge Silver Flame following in Starilaskur, but there are definitely some faithful here
+* Class scenes (not survival)
+* Survival field trip
+* Swear the [[Oath of the Ancients]]
+* Dravago 26: [[Aureon's Crown]]
 
 !!!! Classes scene 4/4
 
@@ -184,12 +161,6 @@ Profile of accused:
 ** some "common" [[monstrosities|monstrosity]] and [[aberration]]s
 
 Survival class field trip. Each student has a [[pop-up tent]], [[explorer's pack]], [[herbalism kit]], and [[healer's kit]]. Goal is to survive in the wilderness for one week, but are only give 3 days rations. A [[Tharashk]] hunter is standing by to search for any novices who go missing. Perhaps each novice also has a flare that sends a mental ping to that hunter, if a novice is in danger.
-
-
-!!!! Other scenes
-
-* Swear the [[Oath of the Ancients]]
-* Dravago 26: [[Aureon's Crown]]
 
 !!! Nymm
 
