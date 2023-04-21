@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220107191523893
-modified: 20220824204725509
+modified: 20230413205457702
 tags: tool scroll
 tier: 0
 title: spell scroll
@@ -16,3 +16,14 @@ A spell [[scroll]] bears the words of a single [[arcane|arcane magic]] spell, wr
 |[[tier 3|spell scroll, tier 3]] |rare |
 |[[tier 4|spell scroll, tier 4]] |epic |
 |[[tier 5|spell scroll, tier 5]] |legendary |
+
+!! Scribing a Spell Scroll
+
+As described in [[Missions and Downtime]], an [[arcane|arcane magic]] spellcaster can transfer a [[spell]] they know to a scroll. The specific work time and [[costs|money]] associated with this process depends on the scroll tier, as shown in the table below. These times and costs may be increased as a result of [[consequence]]s on the downtime attempt.
+
+|!Spell Scroll |!Average Completion Time |!Average [[Cost|money]] |
+|[[tier 1|spell scroll, tier 1]] |1 day | 1c|
+|[[tier 2|spell scroll, tier 2]] |3 days | 10c|
+|[[tier 3|spell scroll, tier 3]] |2 weeks | 80c|
+|[[tier 4|spell scroll, tier 4]] |8 weeks | 1000c|
+|[[tier 5|spell scroll, tier 5]] |32 weeks | 5000c|

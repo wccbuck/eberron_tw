@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210401201336213
-modified: 20230321025320684
+modified: 20230418152046604
 tags: [[Taking Action]] Storyloom
 title: overcome
 tooltip: Storyloom mechanic: attempt to directly solve a problem or overcome an obstacle; contrast with "boost"
@@ -8,8 +8,8 @@ type: text/vnd.tiddlywiki
 
 Pick a lock, calm a crowd, take cover from an explosion, clash with an opponent—whenever you need to do something like this and there’s something standing between you and your goals, you'll need to ''overcome'' that obstacle. The overcome action is one of two types of actions in the [[Storyloom]] system (the other being [[boost]]).
 
-To make an overcome attempt, first choose two [[approach]]es, and discuss with the GM what the [[impact]] (degree of success) and [[risk]] (severity of consequences) of the attempt will be. Adjust your impact and risk using your approach scores, pick up two six-sided dice (or more if you have [[advantage]]s), and roll them. Your highest die result determines the outcome. A [[full success]] (6) or [[partial success]] (4 or 5) grants you what you wanted, applying your [[impact]] to advance a [[progress clock]] or otherwise describe how successful you were, while a [[partial success]] or [[bad outcome]] results in [[consequence]]s based on the roll's [[risk]]. See [[Taking Action]] for more information.
+To make an overcome attempt, first choose two [[approach]]es, and discuss with the GM what the [[impact]] (degree of success) and [[risk]] (severity of consequences) of the attempt will be. Adjust your impact and risk using your approach scores, pick up ''two six-sided dice'' (or more if you have [[advantage]]s), and roll them. Your highest die result determines the outcome. A [[full success]] (6) or [[mixed success]] (4 or 5) grants you what you wanted, applying your [[impact]] to advance a [[progress clock]] or otherwise describe how successful you were, while a [[mixed success]] or [[bad outcome]] results in [[consequence]]s based on the roll's [[risk]]. See [[Taking Action]] for more information.
 
-Unlike [[boost]]s, you cannot use your [[approach]] scores to add additional dice to your dice pool when making an overcome attempt. However, overcome attempts can be improved by spending [[momentum]]. After rolling your dice, you can choose to spend a point of momentum to pick up another six-sided die and roll it. In this way, you might be able to upgrade a [[bad outcome]] to a [[partial success]], or a partial to a [[full success]]. Or, if you're happy with your initial roll result, you can spend a point of momentum to improve your [[impact]], filling in an additional [[progress clock]] segment.
+You can improve the results of an overcome attempt by spending [[momentum]]. After rolling your dice, you can choose to spend a point of momentum to pick up another six-sided die and roll it. In this way, you might be able to upgrade a [[bad outcome]] to a [[mixed success]], or a mixed to a [[full success]]. Or, if you're happy with your initial roll result, you can spend a point of momentum to improve your [[impact]], filling in an additional [[progress clock]] segment.
 
 Completing a progress clock with “overfill” (e.g. applying 3 impact to a progress clock with 2 segments remaining) typically grants a player character +1 [[momentum]].

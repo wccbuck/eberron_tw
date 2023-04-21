@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210808200737146
-modified: 20230104002522243
+modified: 20230413200741366
 tags: Storyloom
 title: Missions and Downtime
 tooltip: documentation page for stages of play in the Storyloom system
@@ -11,6 +11,15 @@ The [[Storyloom]] system is designed for telling great stories. Sometimes, such 
 !! Links to Headers
 * <<scrollToHeader "Missions">>
 * <<scrollToHeader "Downtime">>
+** <<scrollToHeader "Carousing">>
+** <<scrollToHeader "Buying Magic Items">>
+** <<scrollToHeader "Creating Items">>
+** <<scrollToHeader "Scribing Spell Scrolls">>
+** <<scrollToHeader "Community Service">>
+** <<scrollToHeader "Research">>
+** <<scrollToHeader "Selling an Artifact">>
+** <<scrollToHeader "Training">>
+** <<scrollToHeader "Working">>
 * <<scrollToHeader "Notes">>
 
 !! Missions
@@ -33,26 +42,62 @@ Downtime allows the player characters to recover from [[harm]] they've suffered 
 
 Some of the below activities can be considered part of a ''long term project'', where the GM sets up a [[progress clock]] and the characters make progress on the project over several downtimes. A long-term project can cover a wide variety of activities, like doing research into an arcane ritual, investigating a mystery, or establishing someone’s trust.
 
-* ''Carousing.'' Between adventures, who wouldn't want to relax with a few drinks and a group of friends at a tavern? This downtime activity can also lead to the creation of new friendly contacts that can come to your aid in a time of need, or present new mission opportunities. When making this attempt, some possible [[consequence]]s of the roll include:
-** Lost [[money]], either by spending too much, by losing a big game of [[Three-Dragon Ante]], by being pickpocketed, by agreeing to take on someone's debts, etc.
-** Lost reputation, either by publicly doing something embarrassing, by insulting someone important, by cavorting with the "wrong people", etc.
-** Inconvenient commitments, either to go on a quest, to get married, to duel a knight, etc.
-* ''Buying Magic Items.'' Purchasing a specific [[magic item]] sometimes requires time and money to seek out and contact people willing to sell. Even then, there's no guarantee the item desired will be available. When making this attempt, some possible [[consequence]]s of the roll include:
-** The item costs more than expected.
-** The item is cursed, or a fake, or tied to a cult, or in some way complicates the players' lives.
-** The seller disappears or is killed before the sale.
-* ''Creating Items.'' A character who has the time, the money, and the needed tools can use downtime to craft armor, weapons, clothing, or other kinds of gear. Creating [[magic item]]s might result in more interesting challenges. Creating a set of [[air-step armor]] might require the essence of an [[air elemental]]. Crafting a [[staff of charming]] might require the cooperation of a specific [[arcanaloth]], who will help only if the characters complete a task for it. Making a [[staff of power]] might hinge on acquiring a piece of an ancient stone that was once touched by a godlike [[solar]]—a stone how guarded by a suspicious [[sphinx]]. For more detailed instructions for making a magic item, and consequences that might arise, see the [[magic item]] page.
-* ''Community Service.'' A character may want to spend their downtime giving back to their community, perhaps by volunteering at a local temple, by working their trade and donating their creations, or some other means. These activities have similar potential [[consequence]]s as carousing or working, but may gain you favors from those who appreciate your charity, whether they be locals or [[immortal]] beings watching in secret.
-* ''Research.'' Forewarned is forearmed. The research downtime activity allows a character to delve into lore concerning a monster, a location, a [[magic item]], the [[Draconic Prophecy]], or some other particular topic. Typically the character needs access to a library, a laboratory, a sage mentor, or similar resource. Successful attempts grant you useful information. Some possible [[consequence]]s of the roll include:
-** Some of the information you learn is false or misleading.
-** You gain the information, but offend a sage or get kicked out of a library as a result.
-** You learn information best not known; it may be cursed, sought by villains, or somehow [[dangerous|Shadow]] in yet-to-be-seen ways.
-* ''Selling an Artifact.'' Selling a valuable curio or [[magic item]] is not always an easy task. Con artists and thieves are always looking for an easy score, and there's no guarantee that a character will receive a good offer even if a legitimate buyer is found. For potential [[consequence]]s, the main risk is finding someone who wants the item but doesn't want to pay for it, whether that means being robbed or just underpaid. If you yourself obtained the item through underhanded means, you may risk being discovered by law enforcement or the original owners. See Buying a Magic Item above for more examples.
-* ''Training.'' Given enough free time and the services of an instructor, a character can learn a new [[spell]], pick up a [[language]], or some other useful ability. Usually this requires a [[progress clock]] for a long-term project. If you are attempting to gain a full [[experience point]]'s worth of training, double the number of progress clock segments. Possible [[consequence]]s include:
-** Your instructor disappears; perhaps they are a wanted criminal, or they were kidnapped.
-** Your training moves slowly and drains your stamina, reducing your available [[stress]] by 1 for a single mission.
-* ''Working.'' When all else fails, an adventurer can turn to an honest trade to earn a living. This activity represents a character's attempt to find temporary work. Success on the roll results in earning enough [[money]] for modest or even comfortable lifestyle spending during the time worked. Possible [[consequence]]s include:
-** Your pay is reduced.
-** Your recovery of [[harm]], if any, is reduced, or you suffer harm on the job.
-** Your work exhausts you, reducing your available [[stress]] by 1 for a single mission.
-** You gain a problematic relationship, such as a crime ring attempting to extort your business, a customer with a powerful family taking a dislike to you, or an employer who is involved in a dark cult.
+!!! Carousing
+
+Between adventures, who wouldn't want to relax with a few drinks and a group of friends at a tavern? This downtime activity can also lead to the creation of new friendly contacts that can come to your aid in a time of need, or present new mission opportunities. When making this attempt, some possible [[consequence]]s of the roll include:
+
+* Lost [[money]], either by spending too much, by losing a big game of [[Three-Dragon Ante]], by being pickpocketed, by agreeing to take on someone's debts, etc.
+* Lost reputation, either by publicly doing something embarrassing, by insulting someone important, by cavorting with the "wrong people", etc.
+* Inconvenient commitments, either to go on a quest, to get married, to duel a knight, etc.
+
+!!! Buying Magic Items
+
+Purchasing a specific [[magic item]] sometimes requires time and money to seek out and contact people willing to sell. Even then, there's no guarantee the item desired will be available. When making this attempt, some possible [[consequence]]s of the roll include:
+
+* The item costs more than expected.
+* The item is cursed, or a fake, or tied to a cult, or in some way complicates the players' lives.
+* The seller disappears or is killed before the sale.
+
+!!! Creating Items
+
+A character who has the time, the money, and the needed tools can use downtime to craft armor, weapons, clothing, or other kinds of gear. Creating [[magic item]]s might result in more interesting challenges. Creating a set of [[air-step armor]] might require the essence of an [[air elemental]]. Crafting a [[staff of charming]] might require the cooperation of a specific [[arcanaloth]], who will help only if the characters complete a task for it. Making a [[staff of power]] might hinge on acquiring a piece of an ancient stone that was once touched by a godlike [[solar]]—a stone how guarded by a suspicious [[sphinx]]. For more detailed instructions for making a magic item, and consequences that might arise, see the [[magic item]] page.
+
+!!! Scribing Spell Scrolls
+
+Similar to creating a magic item, an [[arcane|arcane magic]] spellcaster can transfer a [[spell]] they know to a [[scroll|spell scroll]] during downtime. The specific work time and costs associated with this process depends on the [[spell tier]]; details can be found on the [[spell scroll]] page. Possible [[consequence]]s might include:
+
+* Increased cost or time required.
+* Errors in scribing, which will cause unforeseen side effects when the spell is cast.
+* You gain the attention of an unfriendly organization or individual.
+
+!!! Community Service
+
+A character may want to spend their downtime giving back to their community, perhaps by volunteering at a local temple, by working their trade and donating their creations, or some other means. These activities have similar potential [[consequence]]s as carousing or working, but may gain you favors from those who appreciate your charity, whether they be locals or [[immortal]] beings watching in secret.
+
+!!! Research
+
+Forewarned is forearmed. The research downtime activity allows a character to delve into lore concerning a monster, a location, a [[magic item]], the [[Draconic Prophecy]], or some other particular topic. Typically the character needs access to a library, a laboratory, a sage mentor, or similar resource. Successful attempts grant you useful information. Some possible [[consequence]]s of the roll include:
+
+* Some of the information you learn is false or misleading.
+* You gain the information, but offend a sage or get kicked out of a library as a result.
+* You learn information best not known; it may be cursed, sought by villains, or somehow [[dangerous|Shadow]] in yet-to-be-seen ways.
+
+!!! Selling an Artifact 
+
+Selling a valuable curio or [[magic item]] is not always an easy task. Con artists and thieves are always looking for an easy score, and there's no guarantee that a character will receive a good offer even if a legitimate buyer is found. For potential [[consequence]]s, the main risk is finding someone who wants the item but doesn't want to pay for it, whether that means being robbed or just underpaid. If you yourself obtained the item through underhanded means, you may risk being discovered by law enforcement or the original owners. See <<scrollToHeader "Buying Magic Items">> above for more examples.
+
+!!! Training
+
+Given enough free time and the services of an instructor, a character can learn a new [[spell]], pick up a [[language]], or some other useful ability. Usually this requires a [[progress clock]] for a long-term project. If you are attempting to gain a full [[experience point]]'s worth of training, double the number of progress clock segments. Possible [[consequence]]s include:
+
+* Your instructor disappears; perhaps they are a wanted criminal, or they were kidnapped.
+* Your training moves slowly and drains your stamina, reducing your available [[stress]] by 1 for a single mission.
+
+!!! Working
+
+When all else fails, an adventurer can turn to an honest trade to earn a living. This activity represents a character's attempt to find temporary work. Success on the roll results in earning enough [[money]] for modest or even comfortable lifestyle spending during the time worked. Possible [[consequence]]s include:
+
+* Your pay is reduced.
+* Your recovery of [[harm]], if any, is reduced, or you suffer harm on the job.
+* Your work exhausts you, reducing your available [[stress]] by 1 for a single mission.
+* You gain a problematic relationship, such as a crime ring attempting to extort your business, a customer with a powerful family taking a dislike to you, or an employer who is involved in a dark cult.

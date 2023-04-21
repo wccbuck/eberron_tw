@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210409191449051
-modified: 20230105212336090
+modified: 20230413204021548
 tags: Storyloom
 title: money
 tooltip: documentation page for the use of currency in Storyloom and Eberron
@@ -33,12 +33,12 @@ Carrying around 10c or more in coin tends to be rather bulky; each footstep like
 If you are playing an urban campaign, you might consider an optional ''lifestyle'' rule. Below are the approximate costs per month of living of one person at different lifestyle levels:
 
 |!Lifestyle |!Monthly&nbsp;Cost |!Description |
-|''Squalid'' |1–5c |Shelter from the elements, but in a desperate environment |
-|''Poor'' |6–15c |Simple food and lodgings, threadbare clothing |
-|''Modest'' |16–40c |Renting a house in an older part of town, simple clothing, don't go hungry |
-|''Comfortable'' |41–80c |Own a cottage in a middle-class neighborhood, nicer clothing |
-|''Wealthy'' |81–300c |Life of luxury, rich enough for a small staff of servants (1-3) |
-|''Aristocratic'' |301+c |Dine at the finest restaurants, retain the finest tailors, have servants for your every need |
+|''Squalid'' | 1–5c|Shelter from the elements, but in a desperate environment |
+|''Poor'' | 6–15c|Simple food and lodgings, threadbare clothing |
+|''Modest'' | 16–40c|Renting a house in an older part of town, simple clothing, don't go hungry |
+|''Comfortable'' | 41–80c|Own a cottage in a middle-class neighborhood, nicer clothing |
+|''Wealthy'' | 81–300c|Life of luxury, rich enough for a small staff of servants (1-3) |
+|''Aristocratic'' | 301+c|Dine at the finest restaurants, retain the finest tailors, have servants for your every need |
 
 To simplify bookkeeping, you can use a "stash" system. For every 50c that you have stashed in a bank, you earn 1c towards your lifestyle tier cost each month. In addition, for every 50c you have stashed, the amount of money considered "negligible" for you also increases by 1c. So if you have 250c stashed in a bank, you don't need to keep track of individual expenditures of 5c or less.
 
@@ -47,13 +47,13 @@ To simplify bookkeeping, you can use a "stash" system. For every 50c that you ha
 The following table provides estimates for monthly wages or salaries for a variety of occupations in a typical city in [[Khorvaire]].
 
 |!Occupation |!Monthly Wage |
-|common laborer |15c |
-|bricklayer, mason, artisan,<br/>carpenter, smith |20–25c |
-|farm hand, sailor |10c |
-|low-rank commissioned officer |40c |
-|office clerk |30c |
-|senior office clerk |50c |
-|rising professional |150c |
+|common laborer | 15c|
+|bricklayer, mason, artisan,<br/>carpenter, smith | 20–25c|
+|farm hand, sailor | 10c|
+|low-rank commissioned officer | 40c|
+|office clerk | 30c|
+|senior office clerk | 50c|
+|rising professional | 150c|
 
 !! Service Costs
 
@@ -62,35 +62,35 @@ Below are some example costs for a variety of services available in the [[Five N
 !!! Communication and Security
 
 |!Service |!Average Cost |
-|[[arcane lock]] ([[Kundarak]]) |2c |
-|courier service ([[Orien]]) |0.02c per mile |
-|[[glyph of warding]] ([[Kundarak]]) |35c |
-|[[illusory script]] ([[Sivis]]) |2c |
-|mail service ([[Orien]]) |0.001c per mile |
-|[[message station|speaking stone]] ([[Sivis]]) |0.02c per word |
-|translation ([[Sivis]]) |0.002c per word |
+|[[arcane lock]] ([[Kundarak]]) | 2c|
+|courier service ([[Orien]]) | (per mile) 0.02c|
+|[[glyph of warding]] ([[Kundarak]]) | 35c|
+|[[illusory script]] ([[Sivis]]) | 2c|
+|mail service ([[Orien]]) | (per mile) 0.001c|
+|[[message station|speaking stone]] ([[Sivis]]) | (per word) 0.02c|
+|translation ([[Sivis]]) | (per word) 0.002c|
 
 !!! Healing Services
 
 The following services are provided by House [[Jorasco]].
 
 |!Service |!Average Cost |
-|minor nonmagical care |0.3c |
-|major nonmagical care |1c per day |
-|[[cure wounds]] |3c |
-|[[restoration]] |5c |
-|[[remove curse]] |7c |
-|greater [[restoration]] |25c |
-|[[raise dead]] |75c |
+|minor nonmagical care | 0.3c|
+|major nonmagical care | (per day) 1c|
+|[[cure wounds]] | 3c|
+|[[restoration]] | 5c|
+|[[remove curse]] | 7c|
+|greater [[restoration]] | 25c|
+|[[raise dead]] | 75c|
 
 !!! Transportation
 
 |!Service |!Average Cost |!Speed |
-|[[airship]] ([[Lyrandar]]) |0.1c per mile |20 mph |
-|[[elemental galleon]] ([[Lyrandar]]) |0.02–0.05c per mile |10 mph |
-|[[lightning rail]] ([[Orien]]) |0.02–0.05c per mile |30 mph |
-|[[magebred|magebreeding]] coach ([[Orien]]) |0.03c per mile |5 mph |
-|[[teleportation circle]] ([[Orien]]) |250c |instant |
+|[[airship]] ([[Lyrandar]]) | (per mile) 0.1c|20 mph |
+|[[elemental galleon]] ([[Lyrandar]]) | (per mile) 0.02–0.05c|10 mph |
+|[[lightning rail]] ([[Orien]]) | (per mile) 0.02–0.05c|30 mph |
+|[[magebred|magebreeding]] coach ([[Orien]]) | (per mile) 0.03c|5 mph |
+|[[teleportation circle]] ([[Orien]]) | 250c|instant |
 
 !! Adventuring Gear Costs
 
@@ -99,19 +99,19 @@ Below are some example costs for [[armor]] and weapons in a typical city in [[Kh
 !!! Armor
 
 |!Item |!Average Cost |
-|shield |1c |
-|light armor (leather, hide) |1c |
-|medium armor (chain shirt, scale mail) |5c |
-|heavy armor (splint armor, breastplate with chain) |20c |
-|full plate armor |150c |
+|shield | 1c|
+|light armor (leather, hide) | 1c|
+|medium armor (chain shirt, scale mail) | 5c|
+|heavy armor (splint armor, breastplate with chain) | 20c|
+|full plate armor | 150c|
 
 !!! Weapons
 
 |!Item |!Average Cost |
-|dagger, spear, whip |0.2–0.5c |
-|mace, bow, axe, shortsword |1c |
-|longsword, warhammer, glaive |2c |
-|[[crossbow]], greatsword, greataxe |4c |
+|dagger, spear, whip | 0.2–0.5c|
+|mace, bow, axe, shortsword | 1c|
+|longsword, warhammer, glaive | 2c|
+|[[crossbow]], greatsword, greataxe | 4c|
 
 !! Mundane Item Costs
 
@@ -120,43 +120,43 @@ Below are some example costs for a variety of objects in a typical city in [[Kho
 !!! Food
 
 |!Item |!Average Cost |
-|30 loaves of bread |1c |
-|3 gallons of beer |1c |
-|4 pounds of tea |1c |
-|20 pounds of dried fruit |1c |
-|100 pieces of fresh fruit |1c |
-|40 pounds of sugar |1c |
-|160 pounds (barrel) of flour |1–2c |
-|160 pounds (barrel) of pork or beef |3c |
-|160 pounds (barrel) of ginger,<br/>cinnamon, or pepper |7–10c |
+|30 loaves of bread | 1c|
+|3 gallons of beer | 1c|
+|4 pounds of tea | 1c|
+|20 pounds of dried fruit | 1c|
+|100 pieces of fresh fruit | 1c|
+|40 pounds of sugar | 1c|
+|160 pounds (barrel) of flour | 1–2c|
+|160 pounds (barrel) of pork or beef | 3c|
+|160 pounds (barrel) of ginger,<br/>cinnamon, or pepper | 7–10c|
 
 !!! Other Items
 
 |!Item |!Average Cost |
-|plain gold ring |0.6c |
-|umbrella |0.5c |
-|nice overcoat |4c |
-|silk hat |1c |
-|riding/work horse |10–20c |
-|fine saddle horse |40–70c |
-|saddle and harness |5–10c |
-|cow |3c |
-|bull |8c |
-|carriage |15c |
-|bound book |1c |
-|[[spellbook]] |5c |
-|[[potion of healing]] |5c |
-|most [[toolset]]s |1–2c |
-|[[poisoner's kit]], [[alchemist's supplies]] |5c |
+|plain gold ring | 0.6c|
+|umbrella | 0.5c|
+|nice overcoat | 4c|
+|silk hat | 1c|
+|riding/work horse | 10–20c|
+|fine saddle horse | 40–70c|
+|saddle and harness | 5–10c|
+|cow | 3c|
+|bull | 8c|
+|carriage | 15c|
+|bound book | 1c|
+|[[spellbook]] | 5c|
+|[[potion of healing]] | 4c|
+|most [[toolset]]s | 1–2c|
+|[[poisoner's kit]], [[alchemist's supplies]] | 5c|
 
 !! Magic Item Costs
 
 The cost of [[magic item]]s in a typical city in [[Khorvaire]] is contingent on their [[rarity]].
 
 |!Rarity |!Cost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-|''Common'' |1–10c |
-|''Uncommon'' |11–50c |
-|''Rare'' |51–500c |
-|''Epic'' |501–5000c |
-|''Legendary'' |5001+c |
+|''Common'' | 1–10c|
+|''Uncommon'' | 11–50c|
+|''Rare'' | 51–500c|
+|''Epic'' | 501–5000c|
+|''Legendary'' | 5001+c|
 

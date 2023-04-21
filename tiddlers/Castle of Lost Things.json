@@ -1,13 +1,14 @@
 [
     {
         "created": "20201224215237043",
-        "title": "Castle of Lost Things",
         "text": "The [[Forgotten Prince]] dwells in the Castle of Lost Things in\n[[Thelanis]]. The castle seems to be its own distinct [[layer]] of\nThelanis; if it exists in some other realm, its location has been\nforgotten. There are no doors that allow exit from the castle,\nand all windows are sealed and show scenes of places that\nhave been forgotten. The only way to enter or leave the castle\nis through magic, whether by [[spell]], through a [[manifest zone]],\nor through a portal. Such portals can take many forms, such as\na simple burlap sack; normal people forget the location of a portal within an hour of discovering it, though player characters and other remarkable people could be\nimmune to this effect. It's possible characters could discover\nthat what they assumed to be a normal [[bag of holding]] can\nserve as a portal to the Castle of Lost Things.",
-        "modified": "20210727192000132",
+        "title": "Castle of Lost Things",
+        "modified": "20230421181239300",
         "tags": "Thelanis barony",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "location",
-        "color": "#3B5C0A"
+        "color": "#3B5C0A",
+        "tooltip": "Thelanis barony of the Forgotten Prince"
     }
 ]

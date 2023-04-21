@@ -1,9 +1,47 @@
+alternatetitle: the Velvet Blade
 category: entity
 color: #8C4606
 created: 20210330043054861
-modified: 20220317184916836
+modified: 20230418152453154
 tags: fiend immortal incubus/succubus
 title: Thelestes
+tooltip: the Velvet Blade, succubus who delights in murder, serves the Oathbreaker
 type: text/vnd.tiddlywiki
 
-Thelestes wields powers far beyond those of her sister [[succubi|incubus/succubus]]. She came to [[Eberron]] twenty thousand years ago, fleeing a bitter feud with one of the [[Dark Power]]s of [[Mabar]] and their circle of [[ultroloth]]s, and once the [[overlord]]s are freed, she intends to wreak her revenge on the realm of darkness. Her first loyalty is to [[Eldrantulku]] the Oathbreaker and his [[prakhutu]] [[Kashtarhak]], but Thelestes might lend her skills to the schemes of any of the councilors of the [[Lords of Dust]]. She also maintains identities in House [[Phiarlan]], House [[Thuranni]], and many criminal organizations throughout the world, as she takes pleasure in watching mortal corruption and death.
+//At first, there seems to be little to draw the eye to this young elf; her cloak is gray and stained by the weather, draped over a white blouse and peasant breeches. Then she smiles at you, and a thrill runs through you—despite her inconspicuous appearance, she has a magnetism that goes far deeper than simple looks.//
+
+//She takes a step towards you, moving with a dancer’s grace. As she does, everything about her changes. Her short blond hair takes on a brilliant red hue, spreading around her head and shoulders like a wild wreath of flame. Her features and figure seem to become sharper and more defined, and an instant later she has become a creature of flawless beauty. Leathery wings unfold from beneath her cloak, and she twirls one end of a long, glittering chain that has appeared in her hands. The rattling links of the chain sound like music, and she laughs as she dances towards you.//
+
+! 
+
+Thelestes, the Velvet Blade, is a [[fiend]] of murder and death. A [[succubus|incubus/succubus]] with powers far beyond those of her siblings, she danced through the darkness of [[Mabar]] for eons until a bitter feud with a powerful cabal of [[ultroloth]]s forced her to flee her home [[plane]]. She traveled the planes searching for allies, until she finally discovered the [[Lords of Dust]] on [[Eberron]]. Thelestes believes that the [[overlord]]s of the [[first age|Age of Demons]] can grant her the power she needs to defeat her enemies in Mabar. She is patient, and prepared to wait another thousand years if she must; in the meantime, she is enjoying the schemes of the [[Bleak Council]].
+
+While Thelestes has sworn her service to [[Eldrantulku]] the Oathbreaker and his [[prakhutu]] [[Kashtarhak]], she often lends her talents to other members of the Council of [[Ashtakala]], and she could be found working with any of the [[Lords of Dust]].
+
+Thelestes maintains cover identities in House [[Phiarlan]], House [[Thuranni]], and criminal organizations across [[Khorvaire]]. She prefers the form of a young [[elven|elf]] woman, as her [[mask of the misplaced aura]] allows her to maintain this disguise in the face of [[divination]] magic, but when dealing with unsophisticated operations (the typical street gang isn’t likely to have access to [[true seeing]]) she can assume any form.
+
+Thelestes often performs assassinations in the service of these groups; after all, the plans of the [[Lords of Dust]] can take centuries to unfold, and she prefers to kill more frequently. However, she rarely reveals the full extent of her abilities in these situations: her goal is to present herself as skilled and capable, but not so skilled as to draw the attention of the [[house|dragonmarked house]] barons. 
+
+!! Personality
+
+Thelestes is a master deceiver, and she can wear any face that suits her purposes. She is an immortal spirit of murder, and takes pleasure in plotting the careful and calculated destruction of others. Take note that she is an incarnation of murder, not simply slaughter; the preparation and deception involved in her work is just as important to her as the eventual slaying. Thelestes is ageless and ancient, and has slain [[goblin]] kings and [[dragon]] warriors. When dealing with mortals, she searches for weaknesses and considers how she might eventually kill them; useful allies will be spared for the present, but when Thelestes shows her true colors, mortals can feel the creeping chill of prey in the presence of an unstoppable predator.
+
+While murder is her greatest joy and her true source of sustenance, Thelestes does derive some lesser satisfaction from the seduction of mortals. Often this leads to death, either at the end of her chain, or under her life-draining kiss... but sometimes, she is satisfied to let her victim know how close they came to their doom, and releasing them to start her hunt anew.
+
+!! Tactics
+
+Given any opportunity, Thelestes will take as much time as she needs to stalk and study her prey, using [[invisibility]], [[detect thoughts]], and [[charm]]. She will seize on any weakness she can potentially exploit, physical or psychological. She may impersonate an ally, charm friends or hirelings, or employ poison to quietly incapacitate bodyguards, but she will rarely attack a target without a plan of action. Thelestes' ability to fly provides her another advantage, and she can conjure ranged weapons if it suits her needs.
+
+The Velvet Blade is a cautious and intelligent opponent. She has a keen sense of the odds of a conflict, and if the tide turns against her, she will immediately teleport away. She has eternity on her side, and will always flee to fight another day if she believes that she is in danger.
+
+Thelestes' resistance to physical damage and rapid healing might threaten her ability to maintain a disguise, but she is very good at feigning injury.
+
+!! Adventure Seeds
+
+The Velvet Blade is a powerful foe who can be deployed against any epic-level party that has chosen to challenge the [[Lords of Dust]]. But there are many ways to use her early in a campaign. Consider the following ideas.
+
+* While in her lesser guises, Thelestes rarely reveals her full powers; she may flee from a fight she could easily win to maintain her cover. As such, she can make an excellent recurring villain—seeming just as powerful as she wants to be, all the while gathering information about the PCs and determining how they might play a role in her long-term plans. She could be one of the party's trusted and valuable allies, and simultaneously one of their greatest foes; the truth will only come out when [[Eldrantulku]]'s plans are finally brought to light.
+* In a [[Sharn]] campaign, you could make the House [[Tarkanan]] fixer [[Charisma]] one of Thelestes' cover identities.
+* A member of House [[Phiarlan]] or [[Thuranni]] is drawn into a conflict between the houses. Is Thelestes the ally who helps him in the battle? The agent of the opposing house sworn to hunt him down? Or both?
+* Some people believe they have guardian angels. Thelestes is an angel of death. She monitors a number of families across [[Khorvaire]], and when members of these bloodlines reach a certain age, she kills them. An ally of the party (or perhaps an actual player character) is a member of one of these families; he doesn't know why or how, but he knows that no man of his bloodline has lived past the age of 33. He has one month to go; can the adventurers find a way to keep him alive? 
+* Thelestes still has enemies in [[Mabar]]. She could attempt to use planar explorers as tools in her feud—or the party could be caught in the middle of a [[yugoloth]] incursion, especially if the party has come to see the disguised Thelestes as an ally.

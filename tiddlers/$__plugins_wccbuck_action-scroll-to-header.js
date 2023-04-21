@@ -59,7 +59,7 @@ ScrollToHeaderWidget.prototype.invokeAction = function(triggeringWidget,event) {
 	event = event || {};
 	var bounds = triggeringWidget && triggeringWidget.getBoundingClientRect && triggeringWidget.getBoundingClientRect(),
 		suppressNavigation = event.metaKey || event.ctrlKey || (event.button === 1);
-	var navigateTo = this.actionTo === undefined ? this.getVariable("currentTiddler") : this.actionTo
+	var navigateTo = this.actionTo === undefined ? this.getVariable("currentTiddler") : this.actionTo;
 
 	this.dispatchEvent({
 		type: "tm-navigate",

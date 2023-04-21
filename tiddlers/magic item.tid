@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20200417064035970
-modified: 20221215054532305
+modified: 20230413203521293
 title: magic item
 tooltip: an object imbued with magic, grants capabilities to its user
 type: text/vnd.tiddlywiki
@@ -55,14 +55,14 @@ It's possible to find a rare component even when you aren't looking for one. You
 
 !!! Creation
 
-Once you have your [[schema]], an appropriate [[toolset]], and any rare components, you're ready to begin. You must pay the basic costs of materials and services required to make the item. And you must spend a significant amount of time working on it; creating a legendary item could take a year of effort!
+Once you have your [[schema]], an appropriate [[toolset]] (e.g. [[tinker's tools]], [[herbalism kit]]) and any rare components, you're ready to begin. You must pay the basic costs of materials and services required to make the item. And you must spend a significant amount of time working on it; creating a legendary item could take a year of effort!
 
 |!Item [[Rarity|rarity]] |!Average Completion Time* |!Average [[Cost|money]]* |
-|common |1 week |5c |
-|uncommon |2 weeks |20c |
-|rare |10 weeks |200c |
-|epic |25 weeks |2,000c |
-|legendary |50 weeks |10,000c |
+|common |1 week | 2c|
+|uncommon |2 weeks | 20c|
+|rare |10 weeks | 150c|
+|epic |25 weeks | 1,500c|
+|legendary |50 weeks | 7,500c|
 
 &nbsp;* Halved for a consumable item such as a [[potion]] or [[alchemical explosive]].
 

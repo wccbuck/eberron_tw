@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210401202052675
-modified: 20230321030527762
+modified: 20230418151635883
 tags: [[Taking Action]] Storyloom
 title: boost
 tooltip: Storyloom mechanic: increase momentum, grant yourself an advantage to increase your odds of success on a later "overcome" attempt
@@ -8,8 +8,8 @@ type: text/vnd.tiddlywiki
 
 Throw sand in an opponent’s eyes, set something on fire, discover the weakness of a monster, taunt someone with predisposition to a bad temper—whenever you want to do one of these things to improve your odds of reaching your goals, you are ''boost''ing your narrative momentum. The boost action is one of two types of actions in the [[Storyloom]] system (the other being [[overcome]]).
 
-Successful boost attempts don't advance any [[progress clock]]s; instead, you or a character of your choice gains [[momentum]] equal to your [[impact]] level; you can spend this momentum on a later [[overcome]] attempt. Alternatively, a successful boost attempt can change the fiction of the scene such that the situation is less [[risk]]y or is otherwise more favorable to you. 
+Successful boost attempts don't advance any [[progress clock]]s; instead, you or a character of your choice gains [[momentum]] equal to your [[impact]] level, which you can spend on a later [[overcome]] attempt. As a side benefit, a successful boost attempt can change the fiction of the scene such that the situation is less [[risk]]y or is otherwise more favorable to you. 
 
-To make a boost attempt, first choose two [[approach]]es, and discuss with the GM what the [[impact]] (degree of success) and [[risk]] (severity of consequences) of the attempt will be. Look at your approach scores; for each point (up to 2), you can add an additional six-sided die to your dice pool, increasing your odds of success. Any remaining approach points can be used to adjust impact and risk. Finally, pick up two six-sided dice, plus your one or two bonus dice from your approaches, plus any additional you might have from [[advantage]]s, and roll them. Your highest die result determines the outcome. A [[full success]] (6) or [[partial success]] (4 or 5) grants you what you wanted, granting yourself or an ally [[momentum]] equal to your [[impact]], while a [[partial success]] or [[bad outcome]] results in [[consequence]]s based on the roll's [[risk]]. See [[Taking Action]] for more information.
+To make a boost attempt, first choose two [[approach]]es, and discuss with the GM what the [[impact]] (degree of success) and [[risk]] (severity of consequences) of the attempt will be. Adjust your impact and risk using your approach scores, pick up ''three six-sided dice'' (or more if you have [[advantage]]s), and roll them. Your highest die result determines the outcome. A [[full success]] (6) or [[mixed success]] (4 or 5) grants you what you wanted, granting yourself or an ally [[momentum]] equal to your [[impact]], while a [[mixed success]] or [[bad outcome]] results in [[consequence]]s based on the roll's [[risk]]. See [[Taking Action]] for more information.
 
 Unlike [[overcome]] attempts, you cannot spend [[momentum]] to improve the results of [[boost]] attempts.

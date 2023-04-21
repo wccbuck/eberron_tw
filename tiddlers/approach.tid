@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20230317210236282
-modified: 20230324184324484
+modified: 20230418151602995
 tags: Storyloom
 title: approach
 tooltip: Storyloom mechanic: the manner or style by which a character makes an attempt. Force, Savvy, Flair, Guile, Speed, Caution
@@ -23,7 +23,7 @@ There are six approaches in the [[Storyloom]] system: ''Force'', ''Savvy'', ''Fl
 
 The player's choices serve as a guide for the GM in determining [[impact]] and [[risk]] for the attempt. For example, using Speed instead of Caution might increase both risk and impact by 1. If a player character is using an intrinsically more risky or less impactful approach ill-suited for the task at hand, such as loudly running through an enemy fortress (e.g. Flair + Speed) when stealth is called for, the GM is free to adjust risk and impact separately to reflect that fact. 
 
-Additionally, the player's choices of approaches also help the GM decide the nature of any [[consequence]]s the character may suffer as a result of the attempt. For example, let's say a player character wants to overcome a locked door obstacle using Force+Caution, attempting to knock the door open with a single well-placed kick. If they roll the dice and get a [[partial success]], that means the character achieves their goal, but at some cost. The GM can look at the player's chosen approaches, Force and Caution, and might decide the character was //too forceful//, causing collateral damage or perhaps hurting their foot. Or perhaps they were //too cautious//, taking too much time, or reducing their [[impact]] to avoid self-injury (requiring a second attempt). If instead the character got a [[bad outcome]] on the roll, the GM might decide they weren't forceful or cautious //enough//, hurting their foot AND failing to open the door. For more ideas on ways to narrate the outcomes of different approaches, see the next section.
+Additionally, the player's choices of approaches also help the GM decide the nature of any [[consequence]]s the character may suffer as a result of the attempt. For example, let's say a player character wants to overcome a locked door obstacle using Force+Caution, attempting to knock the door open with a single well-placed kick. If they roll the dice and get a [[mixed success]], that means the character achieves their goal, but at some cost. The GM can look at the player's chosen approaches, Force and Caution, and might decide the character was //too forceful//, causing collateral damage or perhaps hurting their foot. Or perhaps they were //too cautious//, taking too much time, or reducing their [[impact]] to avoid self-injury (requiring a second attempt). If instead the character got a [[bad outcome]] on the roll, the GM might decide they weren't forceful or cautious //enough//, hurting their foot AND failing to open the door. For more ideas on ways to narrate the outcomes of different approaches, see the next section.
 
 !! Approach Descriptions
 
@@ -59,7 +59,7 @@ Potential [[consequence]]s of using Speed include missing crucial details, overs
 
 !! Approach Scores
 
-Each approach on a [[character sheet|character sheet template]] has an associated score. This number indicates how much additional [[impact]] or reduced [[risk]] a character can apply to an [[overcome]] or [[boost]] attempt using that approach. The number also indicates how many additional dice a player can roll for a [[boost]] attempt (maximum 2 extra dice).
+Each approach on a [[character sheet|character sheet template]] has an associated score. This number indicates how much additional [[impact]] or reduced [[risk]] a character can apply to an [[overcome]] or [[boost]] attempt using that approach.
 
 Players can choose any two approaches they like when making attempts, even if those approaches don't perfectly suit the situation. A character with a point in Flair tends to solve problems in a flashy way, and the system rewards them for that. However, a player won't always be able to just choose their best approaches for every action they take. Keep in mind that the chosen approaches must accurately reflect the nature of the action described. If a player is describing their character sneaking past a group of guards, they must use the Guile approach, not Flair; their second approach choice can further describe just how quickly or cleverly they are sneaking.
 

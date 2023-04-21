@@ -1,13 +1,14 @@
 [
     {
         "created": "20201216182853710",
+        "text": "Developed during the [[Last War]] in [[Thrane]], this small order of [[adept]]s and\n[[artificer]]s crafts [[magic item]]s drawing on the power of the [[Silver Flame]]. While it creates magic items of all kinds, the Crucible primarily develops and manufactures weapons powered by [[divine magic]]. These include divine versions of [[blast disk]]s, and [[arcane artillery]] which flings bolts of blinding silver energy; operating a Thranish [[siege staff]] would require entirely different training, as well as a faithful invocation of the Flame. In place of [[breath of Siberys]] as ammunition, some Thranish artillery utilize a special powder literally infused with faith, produced in factory-temples.\n\nThe Crucible also developed the substance known as [[silverburn]].\n\nKeep in mind that the Crucible is a somewhat recent development of wartime innovation and the industrialization of the [[Silver Flame]] faith. Just as there are many devotees of the Flame who disapprove of the theocracy of [[Thrane]], there are many who disapprove of this divine industrialization.",
         "title": "Crucible (organization)",
-        "text": "Developed during the [[Last War]] in [[Thrane]], this small order of [[adept]]s and\n[[artificer]]s crafts [[magic item]]s drawing on the power of the [[Silver Flame]]. They developed the substance known as [[silverburn]] several decades ago.",
-        "modified": "20210727192002669",
+        "modified": "20230417195716560",
         "tags": "artificer Thrane",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "Thranish organization that creates divine magic items, especially weapons"
     }
 ]

@@ -1,0 +1,13 @@
+category: spell
+color: #B7A1E0
+created: 20230416224104684
+modified: 20230416230514214
+tags: [[primal magic]] enchantment
+tier: 2
+title: beastspite
+tooltip: makes animals hostile to target
+type: text/vnd.tiddlywiki
+
+You place a curse upon a creature within 120 feet. If they cannot resist your spell, for the next hour, any [[beast]]s of [[creature tier]] ''2'' or lower who are not intelligent enough to speak a language are immediately hostile to the target. Exactly how the animals behave is up to the GM, but generally, predators and combat-trained animals likely attack, while timid animals likely flee or hide. A mount beast such as a horse will likely attempt to throw the target creature off.
+
+Animals with which the target has a magical or supernatural connection, such as those affected by the [[animal friendship]] spell, are unaffected by the beastspite spell. At the GM's discretion, other creatures with strong connections to the target, such as a trusted guard dog, might act distressed and confused around the target creature, but not outright hostile.

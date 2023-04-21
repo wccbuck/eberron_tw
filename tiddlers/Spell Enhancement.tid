@@ -1,0 +1,14 @@
+category: talent
+created: 20230413172130697
+modified: 20230413172536415
+tags: 
+title: Spell Enhancement
+tooltip: talent which allows a player character to cast common/uncommon spells at one tier higher
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+The Spell Enhancement [[talent]] allows you to cast any common or uncommon [[tier|spell tier]] spells you know at one tier higher. This means you can cast a common spell as an uncommon, or an uncommon as a rare. Some spells, like [[guidance]] or [[charm]], have specific instructions on what a higher-tier version of that spell can do. Others, such as [[scorching ray]], are simply more powerful and destructive at higher tiers.
+
+You may only enhance spells you can cast using your own power; any spell effect you trigger by spending charges of a [[magic item]] cannot be enhanced to a higher tier using this talent.
+
+See also [[Spell Enhancement 2]] and [[Spell Enhancement 3]].

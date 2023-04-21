@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211225190256762
-modified: 20221201002228515
+modified: 20230418151603038
 tags: convenience [[magical implement]] tool tome
 tier: 4
 title: edible book of recipes
@@ -15,4 +15,4 @@ In addition, you can use this book as a [[spellcasting focus|magical implement]]
 
 The book can hold up to 50 pages. A book found as treasure might have <<dr 3d10+10>> blank pages, as well as <<dr 1d10>> filled pages containing complex recipes.
 
-When all the pages have been removed from the book, or when you attempt to rebind it before it is empty, the [[consequence]] of a [[failed roll|bad outcome]] or [[partial success]] might cause the tome to burst into flame and emit a powerful aroma of wine and fine cooking. The smell remains for 30 days. After 1 minute, the book's tattered remains transform into a bountiful meal, conjuring a [[heroes' feast]] as if cast by the spell. The book is then destroyed. If this does not occur, an empty book can be rebound using fine paper.
+When all the pages have been removed from the book, or when you attempt to rebind it before it is empty, the [[consequence]] of a [[failed roll|bad outcome]] or [[mixed success]] might cause the tome to burst into flame and emit a powerful aroma of wine and fine cooking. The smell remains for 30 days. After 1 minute, the book's tattered remains transform into a bountiful meal, conjuring a [[heroes' feast]] as if cast by the spell. The book is then destroyed. If this does not occur, an empty book can be rebound using fine paper.

@@ -2,7 +2,7 @@ category: object
 charges: 2
 color: #41D5E1
 created: 20211226221559712
-modified: 20220110034318866
+modified: 20230418151603038
 tags: tool
 tier: 2
 title: fortune's fivepence
@@ -10,6 +10,6 @@ type: text/vnd.tiddlywiki
 
 This copper coin, blessed by the [[Sovereign|Sovereign Host]] [[Olladra]], has a smiling woman's face on one side (heads) and a scowling woman's face on the other (tails). While you're within 30 feet of the coin, you can summon it either to your hand or pocket by speaking its command word.
 
-This coin has 2 charges. You can attempt to regain expended charges once every 24 hours by flipping a coin. The coin gains all expended charges if it's heads, or none if it's tails. When the coin is on your person and you make an [[attempt|Taking Action]] that results in a [[partial success]] or [[bad outcome]], you can expend 1 of the coin's charges to channel its magic and forge your own luck. When you do, flip a coin. If it's heads, roll an extra die and add it to your results pool. If it's tails, remove your highest die from your results pool instead. 
+This coin has 2 charges. You can attempt to regain expended charges once every 24 hours by flipping a coin. The coin gains all expended charges if it's heads, or none if it's tails. When the coin is on your person and you make an [[attempt|Taking Action]] that results in a [[mixed success]] or [[bad outcome]], you can expend 1 of the coin's charges to channel its magic and forge your own luck. When you do, flip a coin. If it's heads, roll an extra die and add it to your results pool. If it's tails, remove your highest die from your results pool instead. 
 
 <<itemcharges 2>>

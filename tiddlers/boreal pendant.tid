@@ -2,7 +2,7 @@ category: object
 charges: 6
 color: #41D5E1
 created: 20211221053905642
-modified: 20220220062314865
+modified: 20230418151602997
 tags: communication accessory jewelry hindrance
 tier: 3
 title: boreal pendant
@@ -17,6 +17,6 @@ The snowflake has 6 charges, and regains <<dr 1d4+1>> expended charges daily at 
 * [[hypnotic pattern]] (2 charges)
 * [[ice storm]] (2 charges)
 
-If you expend the pendant's last charge,  the [[consequence]] of a [[failed roll|bad outcome]] or [[partial success]] causes the snowflake to melt into a puddle of water. After 1 year, the pendant reforms around the magical golden brackets that held it in place.
+If you expend the pendant's last charge,  the [[consequence]] of a [[failed roll|bad outcome]] or [[mixed success]] causes the snowflake to melt into a puddle of water. After 1 year, the pendant reforms around the magical golden brackets that held it in place.
 
 <<itemcharges 6>>

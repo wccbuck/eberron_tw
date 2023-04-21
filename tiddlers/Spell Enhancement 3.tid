@@ -1,0 +1,16 @@
+category: talent
+created: 20230413172802278
+modified: 20230413173013537
+tags: 
+title: Spell Enhancement 3
+tooltip: talent which allows a player character to cast epic spells at legendary tier
+type: text/vnd.tiddlywiki
+xpcost: 3
+
+''Prerequisite:'' At least one [[epic-tier|spell tier]] [[spell]].
+
+This [[talent]] allows you to cast any epic-[[tier|spell tier]] spells you know at one tier higher (legendary). Some spells, like [[etherealness]] or [[conjure celestial]], have specific instructions on what a higher-tier version of that spell can do. Others, such as [[fire storm]], are simply more powerful and destructive at higher tiers.
+
+You may only enhance spells you can cast using your own power; any spell effect you trigger by spending charges of a [[magic item]] cannot be enhanced to a higher tier using this talent.
+
+See also [[Spell Enhancement]] and [[Spell Enhancement 2]].

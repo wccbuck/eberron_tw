@@ -151,7 +151,9 @@ NavigatorWidget.prototype.handleNavigateEvent = function(event) {
 	event = $tw.hooks.invokeHook("th-navigating",event);
 	if(event.navigateTo) {
         this.navigateTo = event.navigateTo;
-        this.navigateFromNode = event.navigateFromNode;
+        if (event.navigateFromTitle !== event.navigateTo) {
+            this.navigateFromNode = event.navigateFromNode;
+        }
 		this.addToStory(event.navigateTo,event.navigateFromTitle);
 		if(!event.navigateSuppressNavigation) {
 			this.addToHistory(event.navigateTo,event.navigateFromClientRect);

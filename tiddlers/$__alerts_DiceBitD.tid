@@ -8,9 +8,13 @@ pool: 3
 result: 3 1 3
 =======
 impact: 1
-modified: 20230317160108558
+modified: 20230418151330809
 pool: 3
+<<<<<<< HEAD
 result: 5 4 1
+>>>>>>> main
+=======
+result: 5 2 2
 >>>>>>> main
 risk: 2
 title: $:/alerts/DiceBitD
@@ -35,7 +39,7 @@ Things go well. You accomplish what you set out to accomplish, either with no as
   <$reveal type="lt" text="6" default=<<loresult>>>
     <$reveal type="gt" text="3" default=<<loresult>>>
 
-<h1 class="alert-h1">[[Partial Success|partial success]]</h1>
+<h1 class="alert-h1">[[Mixed Success|mixed success]]</h1>
 
 You do what you were trying to do, but there are [[consequence]]s.
 
@@ -64,7 +68,7 @@ You succeeded, but you need to spend [[momentum]] to make any progress.
 [[overcome]]: Mark 1 section of the [[progress clock]].
       </$reveal>
       <$reveal type="nomatch" text="overcome" state="!!actiontype">
-[[boost]]: Gain 1 [[momentum]], or change the scene slightly in a way that reduces your [[risk]] by 1 level.
+[[boost]]: Gain 1 [[momentum]].
       </$reveal>
 
     </$reveal>
@@ -75,7 +79,7 @@ You succeeded, but you need to spend [[momentum]] to make any progress.
 [[overcome]]: Mark 2 sections of the [[progress clock]]. Gain 1 [[momentum]] if you overfill the clock.
       </$reveal>
       <$reveal type="nomatch" text="overcome" state="!!actiontype">
-[[boost]]: Gain 2 [[momentum]], or change the scene in a way that reduces your [[risk]] by 2 levels.
+[[boost]]: Gain 2 [[momentum]], or gain 1 momentum and change the scene in a way that reduces your [[risk]] by 1 level.
       </$reveal>
 
     </$reveal>
@@ -173,7 +177,7 @@ Things go well. You accomplish what you set out to accomplish, either with no as
   <$reveal type="lt" text="6" default=<<hiresult>>>
     <$reveal type="gt" text="3" default=<<hiresult>>>
 
-<h1 class="alert-h1">[[Partial Success|partial success]]</h1>
+<h1 class="alert-h1">[[Mixed Success|mixed success]]</h1>
 
 You do what you were trying to do, but there are [[consequence]]s.
 
@@ -201,7 +205,7 @@ You succeeded, but you need to spend [[momentum]] to make any progress.
 [[overcome]]: Mark 1 section of the [[progress clock]].
       </$reveal>
       <$reveal type="nomatch" text="overcome" state="!!actiontype">
-[[boost]]: Gain 1 [[momentum]], or change the scene slightly in a way that reduces your [[risk]] by 1 level.
+[[boost]]: Gain 1 [[momentum]].
       </$reveal>
 
     </$reveal>
@@ -212,7 +216,7 @@ You succeeded, but you need to spend [[momentum]] to make any progress.
 [[overcome]]: Mark 2 sections of the [[progress clock]]. Gain 1 [[momentum]] if you overfill the clock.
       </$reveal>
       <$reveal type="nomatch" text="overcome" state="!!actiontype">
-[[boost]]: Gain 2 [[momentum]], or change the scene in a way that reduces your [[risk]] by 2 levels.
+[[boost]]: Gain 2 [[momentum]], or gain 1 momentum and change the scene in a way that reduces your [[risk]] by 1 level.
       </$reveal>
 
     </$reveal>

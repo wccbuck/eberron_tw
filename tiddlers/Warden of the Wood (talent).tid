@@ -1,0 +1,31 @@
+category: talent
+created: 20230417181809037
+list: [[remove curse]] antipathy/sympathy restoration dominate revivify [[pass without trace]] [[beast sense]] [[create bonfire]] augury whirlwind [[wind walk]] shapechange [[grasping vine]] [[wind wall]] [[summon beasts]] polymorph [[guardian of nature]] [[wrath of nature]] [[wall of thorns]] barkskin [[beast bond]] [[animate plant]] [[wild cunning]] [[warding wind]] [[purify food and drink]] [[spike growth]] [[enhance ability]] [[ensnaring strike]] entangle gust gale goodberry awaken shillelagh [[thorn whip]] [[healing spirit]] [[druid grove]] heal [[transport via plants]] [[cure wounds]] [[tree stride]] beastspite [[speak with animals]] [[speak with plants]] reincarnate [[animal friendship]] [[animal messenger]] [[conjure woodland beings]] [[dispel magic]] [[commune with nature]] [[detect poison and disease]] druidcraft blight [[control weather]]
+modified: 20230417185244114
+tags: Spellcaster druid [[Wardens of the Wood]]
+title: Warden of the Wood (talent)
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]] talent rules. A [[druid]] of the [[Wardens of the Wood]] might choose from the following spells.
+
+!! {{!!title}} Spell List
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>

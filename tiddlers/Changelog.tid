@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.21.0
-modified: 20230324211552120
+currentversion: 1.21.1
+modified: 20230421190538992
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,30 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.21.1 <span style="font-weight:normal">(Apr 21, 2023)</span>
+
+* Simplified [[boost]] mechanics. No more adding to your dice pool based on the [[approach]]es you choose. Instead, [[overcome]] attempts use two dice, and boosts use three. As normal, you can add dice to your pool before the roll using [[advantage]]s and after by [[pushing yourself|push yourself]] or spending [[story point]]s.
+* Renamed "partial success" to [[mixed success]].
+* Simplified the [[Spellcaster]] [[talent]]s; now they're only used for adding spells, not enhancing them to a higher tier. Enhancing spells can now be done by taking the talent [[Spell Enhancement]]. Doing so allows you to cast ALL your common/uncommon spells at one tier higher. Less bookkeeping this way.
+* Also removed the confusing 2/4-segment progress clock on the [[spell tier]] page; made casting higher-tier spells more straightforward.
+* Added talents: [[Special Stress: Bad Outcomes]], [[Warden of the Wood (talent)]]
+* Added items: [[tanglefoot bag]], [[resilient document]], [[mask of the misplaced aura]], [[electric caltrops]], [[lucky stray ammunition]], [[Phiarlan hydra]]
+* Added spell: [[beastspite]]
+* Added creatures: [[ulgurstasta]], [[nilbog]], [[vargouille]]
+* Added a new set of [[trinket]]s from [[Nerzugal's Game Master Toolkit|https://www.drivethrurpg.com/product/202858/Nerzugals-Game-Master-Toolkit]]
+* Added [[Hissing Chorus]]
+* Added to [[Thelestes]], using content from [[this old write-up|https://web.archive.org/web/20160816161103/http://www.bossythecow.com/Thelestes%20v2.pdf]]
+* Added more info to [[adept]] and [[Crucible (organization)]]
+* Added more info to [[Azazar]]
+* Added to [[Fortune's Fool]]
+* On the [[banderhobb]] page, swapped the creature's connection with [[Mabar]] to the [[First Night]]
+* Made [[daggerhawk]]s unable to support a human in flight, but they can support a smaller humanoid
+* Renamed "Ja'khor" to "[[Va'khor]]". The name is supposed to translate to "Blackbloods", but "Ja" literally means "bright".
+* Fixed a mistake in [[mask of the pact bearer]]; accidentally had a rare-tier spell in there. Swapped [[cloudkill]] for [[hellish rebuke]].
+* Also fixed scroll-to-last-clicked-link behavior (known issue from 1.21.0).
+* On pages that start with a description, added a divider between the "flavor text" and the main body of the text
+* Character sheet css tweaks
 
 !!! 1.21.0 <span style="font-weight:normal">(Mar 24, 2023)</span>
 
@@ -32,7 +56,7 @@ Lore changes and additions:
 
 Known issues:
 
-* Sometimes when closing a tiddler, the page will scroll to a seemingly random point. It's supposed to scroll to the last link you clicked on, as long as you haven't closed another tiddler since clicking a link. However, something's not quite right with the feature, and it may be related to the scroll-to-header feature. I've got my eye on it.
+* Sometimes when closing a tiddler, the page will scroll to a seemingly random point. It's supposed to scroll to the last link you clicked on, as long as you haven't closed another tiddler since clicking a link. However, something's not quite right with the feature, and it may be related to the scroll-to-header feature. I've got my eye on it. (fixed in v1.21.1)
 
 !!! 1.20.5 <span style="font-weight:normal">(Feb 17, 2023)</span>
 
@@ -94,7 +118,7 @@ Lore stuff:
 
 * Lots of [[Chronicles of Eberron|https://www.dmsguild.com/product/415474/Chronicles-of-Eberron]] content!
 ** [[crossbow]]s and related items
-** Additions to [[aarakocra]], [[centaur]], [[genasi]], [[eneko]], [[grung]], [[kenku]]. Added new pages for [[dhampir]], [[firbolg]], and [[harengon]] (and [[talent]]s to match: [[Dhampir (talent)]], [[Firbolg (talent)]], [[Grung (talent)]], [[Harengon (talent)]]; also [[Eneko (talent)]])
+** Additions to [[aarakocra]], [[centaur]], [[genasi]], [[eneko]], [[grung]], [[kenku]]. Added new pages for [[dhampir]], [[firbolg]], and [[harengon]] (and [[talent]]s to match: [[Dhampir (talent)]], [[Firbolg (talent)]], [[Grung (talent)]], [[Harengon (talent)]], [[Eneko (talent)]])
 ** Lots of [[Tairnadal]] / [[Spirits of the Past]] content. New pages: [[patron ancestor]] (and five examples), [[warband]], [[zaeltairn]], [[zaelantar]], [[zaelta]], [[zaelshin]], [[Oath of Veneration]], [[Maezan Shal]], [[Shanutar]]. Deleted the "Vadallia and Cardaen" culture page and split its content across other pages
 ** Added stuff to [[Lorghalan]]. Renamed the city of Cornerstone to [[Hornstone]] because there is already a Cornerstone in Kythri and a Cornerstone district in Sharn. (Chose Hornstone because it's a synonym for "cornerstone" in Old English: "hyrnstan".) Also added new pages [[stonesinger]], [[Fleet of Lorghalan]], and [[Lorghalan Gnome]] (a new [[talent]]).
 ** Added a bit to [[Pylas Pyrial]], reduced its population, downplayed the rivalry between it and [[Shae Loralyndar]]
