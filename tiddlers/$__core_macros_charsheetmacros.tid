@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20230324214254100
+modified: 20230413165607655
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -106,7 +106,7 @@ type: text/vnd.tiddlywiki
 <p class="cs-approach">{{$:/$(currentTiddler)$/data!!$field1$}}</p>
 </$reveal>
 <$reveal type="match" state="!!mode" text="edit">
-<$edit-text tiddler="$:/$(currentTiddler)$/data" field="$field1$" tag=input type="number" class="cs-a" size=2/>
+<$edit-text tiddler="$:/$(currentTiddler)$/data" field="$field1$" tag=input type="number" class="cs-a" size=2 max="9" min="0"/>
 </$reveal>
 </div>
 <div class="cs-column">
@@ -120,7 +120,7 @@ type: text/vnd.tiddlywiki
 <p class="cs-approach">{{$:/$(currentTiddler)$/data!!$field2$}}</p>
 </$reveal>
 <$reveal type="match" state="!!mode" text="edit">
-<$edit-text tiddler="$:/$(currentTiddler)$/data" field="$field2$" tag=input type="number" class="cs-a" size=2/>
+<$edit-text tiddler="$:/$(currentTiddler)$/data" field="$field2$" tag=input type="number" class="cs-a" size=2 max="9" min="0"/>
 </$reveal>
 </div>
 </div>

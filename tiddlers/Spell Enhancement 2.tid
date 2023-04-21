@@ -1,0 +1,16 @@
+category: talent
+created: 20230413172509476
+modified: 20230413172734236
+tags: 
+title: Spell Enhancement 2
+tooltip: talent which allows a player character to cast rare spells at epic tier
+type: text/vnd.tiddlywiki
+xpcost: 2
+
+''Prerequisite:'' At least one [[rare-tier|spell tier]] [[spell]].
+
+This [[talent]] allows you to cast any rare-[[tier|spell tier]] spells you know at one tier higher (epic). Some spells, like [[dominate]] or [[polymorph]], have specific instructions on what a higher-tier version of that spell can do. Others, such as [[fireball]], are simply more powerful and destructive at higher tiers.
+
+You may only enhance spells you can cast using your own power; any spell effect you trigger by spending charges of a [[magic item]] cannot be enhanced to a higher tier using this talent.
+
+See also [[Spell Enhancement]] and [[Spell Enhancement 3]].

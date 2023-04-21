@@ -1,14 +1,18 @@
 category: object
 color: #41D5E1
 created: 20220722211626312
-modified: 20220824203914615
+modified: 20230413195259448
 tags: tool
 tier: 1
 title: spellbook
 tooltip: book that records a wizard's spells
 type: text/vnd.tiddlywiki
 
-Essential for [[wizard]]s, a [[spellbook]] is typically a leather-bound tome with 100 blank vellum pages suitable for recording [[spell]]s. However, many wizards carry spellbooks of an unusual sort. See the table below for some ideas for unique spellbooks.
+Essential for [[wizard]]s, a [[spellbook]] is typically a leather-bound tome with 100 blank vellum pages suitable for recording [[spell]]s. A spellbook can assist with the casting of certain ritual spells; see the talent [[Ritual Casting]] for more information.
+
+Typically spellbooks cannot themselves be used as [[magical implement]]s (known as [[tome]]s), as their primary purpose is the storage of arcane knowledge and not the focusing of a wizard's power. But exceptions exist, such as the [[arcane grimoire]]. 
+
+Many wizards carry spellbooks of an unusual sort. See the table below for some ideas for unique spellbooks.
 
 | !<<dr d6>> |!Spellbook |
 | 1 |A tome with pages that are thin sheets of metal, spells etched into them with acid |
@@ -17,5 +21,3 @@ Essential for [[wizard]]s, a [[spellbook]] is typically a leather-bound tome wit
 | 4 |Small stones inscribed with spells and kept in a cloth bag |
 | 5 |A scorched book, ravaged by [[dragon]] fire, with the script of your spells barely visible on its pages |
 | 6 |A tome full of black pages whose writing is visible only in dim light or darkness |
-
-Typically spellbooks cannot themselves be used as [[magical implement]]s (known as [[tome]]s), as their primary purpose is the storage of arcane knowledge and not the focusing of a wizard's power. But exceptions exist, such as the [[arcane grimoire]]. 

@@ -2,7 +2,7 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20210103022835708
-modified: 20220221022336993
+modified: 20230418151603043
 tags: entertainment [[magical implement]] wand
 tier: 1
 title: wand of swaying
@@ -10,6 +10,6 @@ type: text/vnd.tiddlywiki
 
 This wand has 3 charges. While holding it, you can expend 1 of its charges and cause plants in a 30-foot radius, centered on yourself, to sway as if in the wind.
 
-The wand regains all expended charges daily at dawn. If you expend the wand's last charge,  the [[consequence]] of a [[failed roll|bad outcome]] or [[partial success]] may result in the wand crumbling to ashes.
+The wand regains all expended charges daily at dawn. If you expend the wand's last charge,  the [[consequence]] of a [[failed roll|bad outcome]] or [[mixed success]] may result in the wand crumbling to ashes.
 
 <<itemcharges 3>>

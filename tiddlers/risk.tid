@@ -1,14 +1,14 @@
 category: game mechanics
 created: 20210401190251509
-modified: 20220805183408448
+modified: 20230421183524638
 tags: [[Taking Action]] Storyloom
 title: risk
 tooltip: Storyloom mechanic: severity of consequences for a partial success or failed attempt
 type: text/vnd.tiddlywiki
 
-The risk associated with an [[attempt|Taking Action]] determines how bad the [[consequence]]s are for a [[partial success]] or [[bad outcome]]. Risk does not play a part in the event of a [[full success]]. These consequences can include taking [[stress]] or losing [[momentum]]. Risk can be low, moderate (default), or high.
+The risk associated with an [[attempt|Taking Action]] determines how bad the [[consequence]]s are for a [[mixed success]] or [[bad outcome]]. Risk does not play a part in the event of a [[full success]]. These consequences can include taking [[stress]] or losing [[momentum]]. Risk can be low, moderate (default), high, or extreme.
 
-GMs set the risk level of each attempt the player characters make, but PCs can reduce their risk by sacrificing [[impact]] or changing the context of the scene in their favor. See [[Challenge Tiers]] for more information.
+GMs set the risk level of each attempt the player characters make, but PCs can reduce their risk by sacrificing [[impact]] or changing the context of the scene in their favor. Regardless of the situation, risk should never be zero; if there really is no risk, then no dice should be rolled, and the player character just does the thing they intend to do. GMs should also avoid setting risk higher than extreme, and should consider creating a smaller prerequisite challenge to level the playing field; see [[Challenge Tiers]] for more information.
 
 Take note that [[consequence]]s for an attempt should not negate the success. For example, consequences for [[boost]]ing (that is, increasing [[momentum]]) typically should not include losing momentum.
 
@@ -18,19 +18,19 @@ The below examples of different [[consequence]]s for different levels of risk sh
 
 You act on your terms. You leverage a dominant situation.
 
-* [[partial success]]: You hesitate. Withdraw and try a different approach, or else do it with a minor [[consequence]]: a minor complication occurs, your [[impact]] is reduced by 1, you suffer 1 [[stress]] or [[harm]], you lose 1 [[momentum]], or your risk level increases to moderate. 
+* [[mixed success]]: You hesitate. Withdraw and try a different approach, or else do it with a minor [[consequence]]: a minor complication occurs, your [[impact]] is reduced by 1, you suffer 1 [[stress]] or [[harm]], you lose 1 [[momentum]], or your risk level increases to moderate. 
 * [[bad outcome]]: You falter. Press on by seizing a high-risk opportunity, or withdraw and try a different approach.
 
 !!! Moderate Risk (default)
 
 You go head to head. You act under fire. You take a chance. This is the default risk level for most attempts.
 
-* [[partial success]]: You do it, but there’s a [[consequence]]: you suffer 2 [[stress]] or [[harm]], you lose 2 [[momentum]], a complication occurs, your [[impact]] is reduced by 1 or 2, or you end up in a high-risk position.
+* [[mixed success]]: You do it, but there’s a [[consequence]]: you suffer 2 [[stress]] or [[harm]], you lose 2 [[momentum]], a complication occurs, your [[impact]] is reduced by 1 or 2, or you end up in a high-risk position.
 * [[bad outcome]]: Things go badly. You suffer 2 [[stress]] or [[harm]], you lose 2 [[momentum]], a complication occurs, you end up in a high-risk position, or you lose this opportunity.
 
 !!! High Risk
 
 You overreach your capabilities. You're in serious trouble.
 
-* [[partial success]]: You do it, but there’s a [[consequence]]: you suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious complication occurs, or you have significantly reduced [[impact]].
+* [[mixed success]]: You do it, but there’s a [[consequence]]: you suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious complication occurs, or you have significantly reduced [[impact]].
 * [[bad outcome]]: Things are bad. You suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious complication occurs, or you lose this opportunity for action.

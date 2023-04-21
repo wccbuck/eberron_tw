@@ -1,13 +1,13 @@
 category: object
 color: #41D5E1
 created: 20210602173917791
-modified: 20221212200156077
+modified: 20230413222009637
 tags: tool
 tier: 0
 title: trinket
 tooltip: a simple item lightly touched by mystery
 type: text/vnd.tiddlywiki
-var: A clockwork device that beats like a heart
+var: An iron ingot engraved in [[Orcish]] with a [[Jhorash'tar]] vow
 
 \define changedyes() <$action-setfield $tiddler="$:/TrinketTableName" changed="yes"/>
 \define tablename() {{!!caption}} ({{{ [<currentTiddler>indexes[]count[]] }}})

@@ -1,7 +1,7 @@
 category: occupation
 color: #A3CFBB
 created: 20210412021212243
-modified: 20220826213654813
+modified: 20230417193939700
 tags: magewright
 title: adept
 tooltip: a magewright who channels divine magic instead of arcane
@@ -9,6 +9,16 @@ type: text/vnd.tiddlywiki
 
 An adept is a kind of [[magewright]] who uses [[divine magic]] rather than [[arcane magic]] to perform their spells. They are able to touch the divine, but not with the full power of a [[cleric]], just as the magewright understands some of the principles of magic but not so well as the [[wizard]]. The term is not common in every community; some simply use the term "magewright", while others just use "priest". 
 
-Adepts might include a faithful [[Silver Flame]] friar whose devotion allows them to heal the sick; an oracle who asks the divine for guidance; or a priest who can imbue a religious [[ceremony]] with divine power. In some cases, the spells of an adept can even be used to power [[magic item]]s; for example, see the [[Crucible|Crucible (organization)]].
+Adepts might include a faithful [[Silver Flame]] friar whose devotion allows them to heal the sick; an oracle who asks the divine for guidance; or a priest who can imbue a religious [[ceremony]] with divine power.
 
 See also [[gleaner]], a magewright who channels [[primal magic]].
+
+!! Adepts of the Sovereigns and Flame
+
+Generally speaking, Vassals (followers of the [[Sovereign Host]]) can't //choose// to become an adept; they are merely called or blessed by one of the Sovereigns. A person can pray to [[Aureon]] for guidance, but they can't demand that he grant them the gift of prophecy. Faith in the Sovereigns is personal, not transactional. As such, adepts are much more rare than arcane [[magewright]]s in nations where the [[Sovereign Host]] is the dominant religion. 
+
+By contrast, the [[Silver Flame]] is an impersonal and omnipresent force that holds ancient evils at bay, and it is available for people of faith to reach out and use. The people of [[Thrane]] are raised with this concept. The Silver Flame is a tool, like the bow; where some Thranes become master archers, serving as [[templar]]s or in village militias, others turn to the tool of prayer and harness the power of the Flame. Thus, many important services provided by arcane [[magewright]]s in other nations are provided by Flame adepts in Thrane. These adepts include healers and oracles, but even launderers who use the power of the Flame to cleanse dirty clothes, or locksmiths who channel the Flame to cast [[arcane lock]], or entertainers who draw on the Flame to amplify their voices or create music.
+
+Adepts of the [[Silver Flame]] still need faith to channel their power, and must believe they are using their gift for the good of their community. For them, performing their trade is an expression of their faith.
+
+The spells of an adept can even be used to power [[magic item]]s. A Vassal adept of [[Onatar]] may possess [[smith's tools]] that grant bonuses to their craft, or an adept of [[Boldrei]] may bake muffins that provide an [[enhance ability]] effect when eaten. But adepts of the [[Silver Flame]] take the creation of magic items empowered by [[divine magic]] to an industrial scale. For example, see the [[Crucible|Crucible (organization)]].

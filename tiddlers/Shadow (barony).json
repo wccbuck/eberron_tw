@@ -5,10 +5,11 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Shadow (barony)",
         "tags": "Thelanis barony",
-        "modified": "20221121061618306",
+        "modified": "20230421181330407",
         "color": "#3B5C0A",
         "category": "location",
         "article": "the ",
-        "alternatetitle": "Whitestone"
+        "alternatetitle": "Whitestone",
+        "tooltip": "also known as Whitestone, the Thelanis barony of the Lady in Shadow"
     }
 ]

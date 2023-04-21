@@ -1,24 +1,22 @@
 category: talent
 created: 20210725173949205
-modified: 20220825231625786
+modified: 20230413175809879
 title: Spellcaster
 tooltip: talent which allows a player character to cast spells (2 common/uncommon or 1 rare)
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-The Spellcaster [[talent]] allows you to cast [[spell]]s. Choose ''any two'' of the following options:
+The Spellcaster [[talent]] allows you to cast [[spell]]s. When you take this talent, you gain spells according to the table below such that the total number of "spell points" adds up to ''4'':
 
-* Gain one [[common- or uncommon-tier|spell tier]] spell.
-* Gain the ability to cast two spells you already know (common or uncommon only) at one [[tier|spell tier]] higher. Some spells, like [[guidance]] or [[charm]], have specific instructions on what a higher-tier version of that spell can do. Others, such as [[scorching ray]], are simply more powerful and destructive at higher tiers.
-* Gain two highly niche common- or uncommon-tier spells, or one highly niche rare-tier spell; this is highly dependent on your campaign and subject to GM approval. Examples include [[blessed birth]] or [[hide from dragons]]—spells that might only be useful in very specific and unlikely circumstances. A spell that is very mechanically similar to another spell you already have might also be considered for this option.
+| ![[Spell Tier|spell tier]] | !Spell Points |
+| Common or Uncommon | 2 (or 1; see below) |
+| Rare | 4 |
 
-So you could choose to gain two new cantrips, or "upgrade" four uncommon-tier spells you already had, or gain one new spell and upgrade two you already had, or some other combination of the above.
+Typically, a player character who takes this talent gains two common- or uncommon-tier spells, or a single rare-tier spell.
 
-Alternatively, instead of choosing two of the above options, you may choose the following option:
+Subject to GM approval, you might only need to spend 1 of your four spell points on a common- or uncommon-tier spell if it is highly niche. Examples include [[blessed birth]] or [[hide from dragons]]—spells that might only be useful in very specific and unlikely circumstances. Also, a spell that is very mechanically similar to another spell you already have might also be considered for this option.
 
-* Gain one [[rare-tier|spell tier]] spell.
-
-You can take this talent multiple times to gain access to more spells. Gain access to higher-tier spells by taking the [[Spellcaster 2]] or [[Spellcaster 3]] talents.
+You can take this talent multiple times to gain access to more spells. Gain access to higher-tier spells by taking the [[Spellcaster 2]] or [[Spellcaster 3]] talents. To cast spells you already know at a higher tier, consider the [[Spell Enhancement]] talent.
 
 !! Specific Archetypes
 

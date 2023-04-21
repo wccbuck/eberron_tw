@@ -1,12 +1,12 @@
 category: game mechanics
 created: 20210401192736920
-modified: 20220805183311900
+modified: 20230421183707815
 tags: [[Taking Action]] Storyloom
 title: impact
 tooltip: Storyloom mechanic: how much progress a successful attempt will grant you
 type: text/vnd.tiddlywiki
 
-Your [[attempt|Taking Action]]s' [[impact]] level determines how much you're able to accomplish with a successful roll ([[full success]] or [[partial success]]). If you're using a [[progress clock]] to track your progress towards a goal, impact helps determine how many segments of the clock to fill in. Impact does not play a part in the event of a [[bad outcome]]. Depending on the context, you may end up with a zero [[impact]] (requiring the spending of [[momentum]] to make any progress).
+Your [[attempt|Taking Action]]s' [[impact]] level determines how much you're able to accomplish with a successful roll ([[full success]] or [[mixed success]]). If you're using a [[progress clock]] to track your progress towards a goal, impact helps determine how many segments of the clock to fill in. Impact does not play a part in the event of a [[bad outcome]]. Depending on the context, you may end up with zero [[impact]] even on a success, requiring the spending of [[momentum]] to make any progress.
 
 GMs set the impact level of each attempt the player characters make, but PCs can improve their impact by increasing their [[risk]] or changing the context of the scene in their favor. See [[Challenge Tiers]] for more information.
 
@@ -15,12 +15,12 @@ The below examples of different results for different levels of impact should be
 !!! Low Impact
 
 * [[overcome]]: Mark 1 section of the [[progress clock]].
-* [[boost]]: Gain 1 momentum, or change the scene slightly in a way that reduces your [[risk]] by 1 level.
+* [[boost]]: Gain 1 momentum.
 
 !!! Moderate Impact (default)
 
 * [[overcome]]: Mark 2 sections of the [[progress clock]]. Gain 1 [[momentum]] if you overfill the clock.
-* [[boost]]: Gain 2 momentum, or change the scene in a way that reduces your [[risk]] by 2 levels.
+* [[boost]]: Gain 2 momentum, or gain 1 momentum and change the scene in a way that reduces your [[risk]] by 1 level.
 
 !!! High Impact
 

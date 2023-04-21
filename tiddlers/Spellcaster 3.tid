@@ -1,24 +1,20 @@
 category: talent
 created: 20211127002130508
-modified: 20220825231800937
+modified: 20230413181248082
 title: Spellcaster 3
 tooltip: talent which allows a player character to cast spells (4 rare, 2 epic, or 1 legendary)
 type: text/vnd.tiddlywiki
 xpcost: 3
 
-''Prerequisite:'' Another [[talent]] which grants you access to at least one [[spell]].
+''Prerequisite:'' Any two other [[talent]]s which either grant you access to [[spell]]s, or allow you to cast them at a higher [[tier|spell tier]].
 
-The Spellcaster [[talent]] allows you to cast [[spell]]s. Choose ''any two'' of the following options:
+The Spellcaster [[talent]] allows you to cast [[spell]]s. When you take this talent, you gain spells according to the table below such that the total number of "spell points" adds up to ''4'':
 
-* Gain one [[epic-tier|spell tier]] spell.
-* Gain two [[rare-tier|spell tier]] spells.
-* Gain the ability to cast two epic-tier spells you already know at one [[tier|spell tier]] higher. 
-* Gain the ability to cast four rare-tier spells you already know at one tier higher.
+| ![[Spell Tier|spell tier]] | !Spell Points |
+| Rare | 1 |
+| Epic | 2 |
+| Legendary | 4 |
 
-So you could choose to gain two new epic-tier spells, or gain one epic and two rare spells, or "upgrade" four epic-tier spells you already had, or some other combination of the above.
+So a player character who takes this talent might choose four rare-tier spells, or two epic, or one epic and two rare, or one legendary spell.
 
-Alternatively, instead of choosing two of the above options, you may choose the following option:
-
-* Gain one [[legendary-tier|spell tier]] spell.
-
-You can take this talent multiple times to gain access to more spells. See also the [[Spellcaster]] and [[Spellcaster 2]] talents.
+You can take this talent multiple times to gain access to more spells. See also the [[Spellcaster]] and [[Spellcaster 2]] talents. To cast spells you already know at a higher tier, consider the [[Spell Enhancement 2]] or [[Spell Enhancement 3]] talents.

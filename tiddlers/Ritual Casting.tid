@@ -1,6 +1,6 @@
 category: talent
 created: 20211128042714888
-modified: 20220722212727878
+modified: 20230413195146221
 tags: wizard warlock
 title: Ritual Casting
 type: text/vnd.tiddlywiki
@@ -8,6 +8,6 @@ xpcost: 1
 
 If you are a [[wizard]], you have a [[spellbook]] filled with arcane minutia and mysteries. If you are a [[warlock]], you have formed a pact with a powerful [[immortal]] who has granted you a grimoire called a Book of Shadows. 
 
-With this book of ancient secrets in hand, you may cast any [[uncommon- or higher-tier|spell tier]] spell you know with [[advantage]] and expending one less [[stress]] per attempt, as long as you add an hour to the normal casting time preparing and performing the ritual.
+With this book of ancient secrets in hand, you may cast any [[uncommon- or higher-tier|spell tier]] spell you know with [[advantage]] and expending one less [[stress]] per cast, as long as you add an hour to the normal casting time preparing and performing the ritual.
 
 In addition, gain two [[uncommon-tier|spell tier]] spells that you can ''only'' cast as one-hour rituals as described above.

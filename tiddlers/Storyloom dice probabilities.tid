@@ -1,14 +1,14 @@
 category: game mechanics
 created: 20230317000329590
-modified: 20230317001304221
+modified: 20230421182438616
 tags: 
 title: Storyloom dice probabilities
 tooltip: table of probabilities for different dice pools
 type: text/vnd.tiddlywiki
 
-The following table shows the probabilities for the four possible outcomes of a [[Storyloom]] dice roll (see [[Taking Action]]). It also shows the overall probability of achieving one's goals ("Success" column, which includes critical, [[full success]], and [[partial success]]), and the overall probability of suffering [[consequence]]s ("Consequences" column, which includes [[partial success]] and [[bad outcome]]).
+The following table shows the probabilities for the four possible outcomes of a [[Storyloom]] dice roll for different dice pool sizes (see [[Taking Action]]). It also shows the overall probability of achieving one's goals ("Success" column, which includes critical, [[full success]], and [[mixed success]]), and the overall probability of suffering [[consequence]]s ("Consequences" column, which includes [[mixed success]] and [[bad outcome]]).
 
-|!Dice Pool |!Critical |!Full Success |!Partial Success |!Bad Outcome |! |!Success |!Consequences |
+|!Dice Pool |!Critical |!Full Success |!Mixed Success |!Bad Outcome |! |!Success |!Consequences |
 | 0 | 0%| 2.8%| 22.2%| 75%|| 25%| 97.2%|
 | 1 | 0%| 16.7%| 33.3%| 50%|| 50%| 83.3%|
 | 2 | 2.8%| 27.8%| 44.4%| 25%|| 75%| 69.4%|

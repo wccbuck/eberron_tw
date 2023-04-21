@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20230417180439557
+modified: 20230418151603038
+tags: weapon projectile
+tier: 1
+title: lucky stray ammunition
+type: text/vnd.tiddlywiki
+
+Whenever you fire this ammunition and miss your intended target, the projectile will redirect itself towards a nearby foe, or another foe along your line of sight to the target within range. Mechanically, this means you have -1 [[risk]] for any "reduced impact" [[consequence]]s of [[mixed success]]es whenever you are facing multiple foes.

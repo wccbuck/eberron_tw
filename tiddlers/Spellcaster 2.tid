@@ -1,6 +1,6 @@
 category: talent
 created: 20211127001616165
-modified: 20220825231730836
+modified: 20230413181442238
 title: Spellcaster 2
 tooltip: talent which allows a player character to cast spells (6 common/uncommon, 2 rare, or 1 epic)
 type: text/vnd.tiddlywiki
@@ -8,19 +8,15 @@ xpcost: 2
 
 ''Prerequisite:'' Another [[talent]] which grants you access to at least one [[spell]].
 
-The Spellcaster [[talent]] allows you to cast [[spell]]s. Choose ''any two'' of the following options:
+The Spellcaster [[talent]] allows you to cast [[spell]]s. When you take this talent, you gain spells according to the table below such that the total number of "spell points" adds up to ''6'':
 
-* Gain one [[rare-tier|spell tier]] spell.
-* Gain three [[common- or uncommon-tier|spell tier]] spells.
-* Gain the ability to cast two rare-tier spells you already know at one [[tier|spell tier]] higher. Some spells, like [[dominate]] or [[polymorph]], have specific instructions on what a higher-tier version of that spell can do. Others, such as [[fireball]], are simply more powerful and destructive at higher tiers.
-* Gain the ability to cast six common- or uncommon-tier spells you already know at one tier higher.
+| ![[Spell Tier|spell tier]] | !Spell Points |
+| Common or Uncommon | 1 |
+| Rare | 3 (or 2; see below) |
+| Epic | 6 |
 
-So you could choose to gain two new rare-tier spells, or "upgrade" four rare-tier spells you already had, or gain one new spell and upgrade two you already had.
+So a player character who takes this talent could gain six common- or uncommon-tier spells, or two rare-tier spells, or one rare-tier and three (un)common-tier spells, or one epic-tier spell.
 
-At the GM's approval, you might be able to gain more spells than listed above if the spells you choose are thematically and mechanically very similar. For example, if you choose [[fear]] and [[phantasmal killer]] for your two rare-tier spells, the GM might let you also gain one common-tier spell.
+Subject to GM approval, you might only need to spend 2 of your six spell points on a rare-tier spell if it is thematically and mechanically very similar to another rare-tier spell you know. For example, if you choose [[fear]] and [[phantasmal killer]] with this talent, the GM might let you also gain a new common- or uncommon-tier spell.
 
-Alternatively, instead of choosing two of the above options, you may choose the following option:
-
-* Gain one [[epic-tier|spell tier]] spell.
-
-You can take this talent multiple times to gain access to more spells. See also the [[Spellcaster]] and [[Spellcaster 3]] talents.
+You can take this talent multiple times to gain access to more spells. See also the [[Spellcaster]] and [[Spellcaster 3]] talents. To cast spells you already know at a higher tier, consider the [[Spell Enhancement]] or [[Spell Enhancement 2]] talents.

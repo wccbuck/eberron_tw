@@ -1,12 +1,12 @@
 category: game mechanics
 created: 20210103021548158
-modified: 20221205065246910
+modified: 20230418151603035
 tags: Storyloom [[Taking Action]]
 title: consequence
 tooltip: Storyloom mechanic: negative outcomes from an unsuccessful or partially successful attempt
 type: text/vnd.tiddlywiki
 
-Whenever you earn a [[partial success]] or [[failure|bad outcome]] for a roll, you typically suffer some sort of consequence. There are five categories of consequences.
+Whenever you earn a [[mixed success]] or [[failure|bad outcome]] for a roll, you typically suffer some sort of consequence. There are five categories of consequences.
 
 !!! Lost Resource
 
@@ -14,7 +14,7 @@ This consequence represents a sacrifice of a limited character resource. Most of
 
 !!! Reduced Impact
 
-This consequence represents impaired performance. The PC's action isn't as effective as they'd anticipated. You hit him, but it's only a flesh wound. She accepts the forged invitation, but she'll keep her eye on you throughout the night. You're able to scale the wall, but it's slow going—you're only halfway up. This consequence essentially reduces the [[impact]] level of the PC's action by one after all other factors are accounted for.
+This consequence represents impaired performance. The PC's action isn't as effective as they'd anticipated. You hit him, but it's only a flesh wound. She accepts the forged invitation, but she'll keep her eye on you throughout the night. You're able to scale the wall, but it's slow going—you're only halfway up. This consequence essentially reduces the [[impact]] level of the PC's action by one (or more) after all other factors are accounted for.
 
 !!! Higher Risk
 
@@ -26,7 +26,7 @@ This consequence represents trouble, mounting danger, or a new threat. The GM mi
 
 !!! Lost Opportunity
 
-This consequence represents shifting circumstances. You had an opportunity to achieve your goal with this action, but it slips away. To try again, you need to try something different—usually a new form of action or a change in circumstances. 
+This consequence represents shifting circumstances. You had an opportunity to achieve your goal with this action, but it slips away. To try again, you need to try something different—usually a different [[approach]] or a change in circumstances. 
 
 !! Consequences when Casting Spells
 
@@ -34,7 +34,7 @@ As an example of how consequences might come into play during a game, consider [
 
 * ''Lost Resource''
 ** The spell takes more [[stress]] to cast than usual.
-** The ritual requires the expenditure of more material components.
+** The ritual requires the expenditure of more material components (if applicable).
 ** If you are in a high-pressure situation such as combat, you suffer [[harm]] from an attack or hazard.
 * ''Reduced Impact''
 ** The spell isn't ready yet, and you need to make another attempt to complete the casting.
