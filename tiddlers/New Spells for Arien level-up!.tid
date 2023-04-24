@@ -1,0 +1,29 @@
+created: 20230421213325789
+list: [[divine smite]] [[branding smite]] [[compelled duel]] [[turn undead]] [[divine favor]] [[ensnaring strike]] [[misty step]] [[shield of faith]] [[speak with animals]] [[thunderous smite]] [[turn the unholy]] [[wrathful smite]] [[banishing smite]] [[blinding smite]] [[commune with nature]] [[crusader's mantle]] [[holy weapon]] [[plant growth]] [[protection from energy]] [[tree stride]] [[summon steed]] [[control flames]] [[create bonfire]] thunderclap [[flame blade]] [[heat metal]] [[Ashardalon's stride]] [[fire shield]] [[flame strike]] [[burning hands]]
+modified: 20230421214026009
+tags: 
+title: New Spells for Arien level-up!
+type: text/vnd.tiddlywiki
+
+You've taken the [[Oath of the Ancients]]! You have 2 [[experience point]]s; spending both of them lets you take new spells from your oath, plus upgrade your [[Spellcaster]] talent to [[Spellcaster 2]]. This means you can either choose two new rare-tier spells, ''or'' one rare-tier spell and //three// uncommon or common spells.
+
+Here's a list of suggested spells to choose from:
+
+<table class="manager-table">
+	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<$list filter="[list[]] +[sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>
