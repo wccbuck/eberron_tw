@@ -1,9 +1,10 @@
 category: occupation
 color: #A3CFBB
 created: 20210412024943594
-modified: 20221104061829605
+modified: 20230424180639422
 tags: magewright
 title: gleaner
+tooltip: a magewright who channels primal magic instead of arcane
 type: text/vnd.tiddlywiki
 
 A gleaner possesses the supernatural gift to interact with the natural world. Their [[magic|primal magic]] is similar to that of the [[druid]], but more limited. A gleaner cannot choose their magical abilities: these blessings are the gifts of nature, and must be discovered and honed over time. 

@@ -1,13 +1,46 @@
 category: object
 color: #41D5E1
 created: 20200415012709563
-modified: 20220824205156093
+modified: 20230425175700685
 tags: vehicle
 tier: 0
 title: skycoach
 tooltip: flying vehicle resembling a small boat, popular in Sharn
 type: text/vnd.tiddlywiki
+var1: An elderly
+var2: [[gnome]]
+var3: who has an interesting hobby.
 
-Skycoaches are flying vehicles resembling small boats that range from rowboat-sized skycars to longship-scale tour coaches. They are often found in [[Sharn]], where the magical properties of that city's [[manifest zone]] aids their flight, but they were also seen in cities such as [[Eston]] in [[Cyre]] before the [[Mourning]].
+Skycoaches are flying vehicles resembling small boats that range from rowboat-sized skycars to longship-scale tour coaches. They are an iconic element of [[Sharn]], the City of Towers, where the magical properties of that city's [[manifest zone]] enable their flight. Skycoaches taken outside the city slowly lose power and descend to the surface. Similar vehicles also called skycoaches were seen in cities such as [[Eston]] in [[Cyre]] before the [[Mourning]], but they were much less common, and operated on entirely different arcane principles (more akin to [[carpets of flying|carpet of flying]]).
 
-The [[Silverstreak Skycoach Rental Company]] is one of many businesses in Sharn where skycoaches can be hired, located in [[Lyrandar Tower]], [[Highest Towers]].
+[[Sharn]] skycoaches have hulls of [[soarwood]]. The weight of passengers and other trappings prevents a coach from being naturally buoyant, but they are astonishingly lightweight. The interior of the hull is engraved and inlaid with arcane patterns which channel the motive energy that drives the coach. Skycoaches are controlled using an linked pair of magic items: a [[sky medallion]], and a //medallion anchor//. The anchor is a metal plate affixed to the coach, while the medallion itself is worn by the pilot. While [[attuned|attunement]] to the medallion, the pilot has easy, reliable control of the linked coach. A sky medallion also works similarly to a [[feather token]], protecting skycoach pilots from lethal falls. Without a medallion, a trained person might be able to control a skycoach, but it's much more challenging and dangerous.
+
+[[Sky medallion|sky medallion]]s are forged in [[Sharn]] and are carefully regulated by the [[city government|Sharn Council]]. Medallions are bought from the city and registered with the city, and transferring ownership of one is a formal process that must be properly documented and approved by the original owner. The [[City Council|Sharn Council]] evaluates the total number of skycoaches operating in the city once per decade (currently around 750), but it’s actually quite rare for the city to issue new medallions; as a rule, if you want to run a skycoach in [[Sharn]], you have to either inherit a medallion, or buy one from a current owner. Even if one happens to fall into your hands, if you can’t prove that the original owner voluntarily transferred it to you, the city will reclaim it and sell it at auction.
+
+For a breakdown of travel times and costs in [[Sharn]], including by skycoach, see the <<navAndScrollToHeader "Wards of Sharn" "Travel Time">> section of [[Wards of Sharn]].
+
+!! Skycoach Companies
+
+The skycoach business has deep roots in the city of [[Sharn]]. A handful of one-coach operations exist, such as [[Dael Tantein]], "the Sphinx," who has been flying his coach for over five hundred years. But most coaches are operated by larger companies. A few example skycoach companies in Sharn are listed below, from largest to smallest:
+
+* The [[Swan]], based in [[Dura]] (over one third of Sharn's skycoaches)
+* The [[Silverstreak Skycoach Rental Company]], based in [[Middle Central]]
+* The [[Gold Line]], based in [[Skyway]]
+* [[Aureon's Flight]], based in [[Menthis Plateau]]
+* [[Roo]], based in [[Malleon's Gate]]
+* [[Eagle's Claw]], based in [[Middle Dura]]
+
+!! Skycoach Pilots
+
+Skycoach pilots are often colorful characters. The company they work for may suggest characteristics of a pilot—[[Gold Line]] pilots are usually more “respectable” than [[Swan]] pilots, and Gold Liners know the best restaurants in [[Skyway]] while the Swan can take you to the dingiest dives in [[Lower Dura]]. But company aside, the Generate Coach Pilot button below can help you quickly create an interesting pilot.
+
+<$button>
+<$action-chooserandom $filter="[[An elderly]] [[A young]] [[A talkative]] [[A sullen]] [[A curious]] [[A rude]] [[A helpful]] [[A creepy]]" $field="var1"/>
+<$action-chooserandom $dataTiddler="$:/SkycoachPilotRandomCreature" $field="var2"/>
+<$action-chooserandom $dataTiddler="$:/SkycoachPilotRandomQuirk" $field="var3"/>
+Generate Coach Pilot
+</$button>
+
+<<<
+''Skycoach Pilot:'' {{!!var1}} {{!!var2}} {{!!var3}}
+<<<

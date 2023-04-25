@@ -2,9 +2,10 @@ alternatetitle: acid cold fire force lightning necrotic poison psychic radiant
 category: phenomenon
 color: #432874
 created: 20221205034528463
-modified: 20221205055121095
+modified: 20230424071412881
 tags: 
 title: damage type
+tooltip: documentation page for types of damage, e.g. fire, lightning, psychic, etc.
 type: text/vnd.tiddlywiki
 
 Damaging [[spell]]s and other effects that cause [[harm]] deal different types of damage. Different effects may interact with specific damage types; for example, [[shambling mound]]s are immune to lightning damage, and spells that deal fire damage are enhanced in some [[Fernia]]n [[manifest zone]]s. In addition, recovering from [[harm]] caused by each of these damage types often requires different kinds of medical attention; treating a burn is very different than administering an antidote, not to mention the treatment of mental injuries.

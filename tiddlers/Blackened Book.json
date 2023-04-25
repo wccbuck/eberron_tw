@@ -1,13 +1,14 @@
 [
     {
         "created": "20200420181421178",
-        "title": "Blackened Book",
         "text": "The Blackened Book is a special division of the [[Sharn Watch]]. It is an elite core of [[abjurers|abjuration]] and\n[[diviners|divination]], charged with investigating and containing\nmagical threats. These [[wizard]]s are highly dedicated\nto their work and their city, and generally don't take\nbribes. It's up to the higher-ups, however, to decide what\nmissions to assign to the Blackened Book; if there's a\ncase that a noble doesn't want investigated, it probably won't be.\n\nLady Warden [[Maira ir'Talan]] leads the Blackened Book.",
-        "modified": "20210727191957951",
+        "title": "Blackened Book",
+        "modified": "20230424175521698",
         "tags": "[[intelligence agency]] [[Sharn Watch]] [[law enforcement]]",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "tooltip": "special division of the Sharn Watch which deals with magical threats"
     }
 ]

@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Defenders Guild",
         "tags": "[[mercenary troop]] Deneith [[trade guild]]",
-        "modified": "20220320205417760",
+        "modified": "20230424180027389",
         "color": "#9EC5FE",
         "category": "organization",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "elite bodyguard firm, operated by House Deneith"
     }
 ]

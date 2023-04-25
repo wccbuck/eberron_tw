@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20210427160915391
-modified: 20210727191954383
+modified: 20230424034420464
 tags: enchantment
 tier: 4
 title: antipathy/sympathy
 type: text/vnd.tiddlywiki
 
-This spell attracts or repels creatures of your choice. You target something within 60 feet, either an object or creature no larger than 15 feet in any dimension, or an area that is no larger than a 200-foot cube. Then specify a kind of intelligent creature, such as [[red dragon]]s, [[goblin]]s, or [[vampire]]s. You invest the target with an aura that either attracts or repels the specified creatures for ten days. Choose antipathy or sympathy as the aura's effect.
+This spell, which takes about 1 hour to cast, attracts or repels creatures of your choice. You target something within 60 feet, either an object or creature no larger than 15 feet in any dimension, or an area that is no larger than a 200-foot cube. Then specify a kind of intelligent creature, such as [[red dragon]]s, [[goblin]]s, or [[vampire]]s. You invest the target with an aura that either attracts or repels the specified creatures for ten days. Choose antipathy or sympathy as the aura's effect.
 
 //''Antipathy.''// The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must resist your enchantment or become frightened. The creature remains frightened while it can see the target or is within 60 feet of it. While frightened by the target, the creature is compelled to move to the nearest safe spot from which it can't see the target. 
 

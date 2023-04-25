@@ -2,13 +2,13 @@ category: spell
 color: #B7A1E0
 created: 20210501020719606
 highertier: show
-modified: 20220220215655483
+modified: 20230424041228014
 tags: conjuration [[divine magic]]
 tier: 4
 title: conjure celestial
 type: text/vnd.tiddlywiki
 
-After a one-minute ritual, you summon a [[celestial]] of <<showcreature-lteq "creature tier 3 or lower" 3 celestial>>, such as a [[couatl]], which appears in an unoccupied space that you can see within 90 feet. The celestial disappears when it is incapacitated or when the spell ends (up to 1 hour).
+This spell takes about one minute to cast. You summon a [[celestial]] of <<showcreature-lteq "creature tier 3 or lower" 3 celestial>>, such as a [[couatl]], which appears in an unoccupied space that you can see within 90 feet. The celestial disappears when it is incapacitated or when the spell ends (up to 1 hour).
 
 The [[celestial]] is friendly to you and your companions for the duration of the spell. It obeys any verbal commands that you issue to it, as long as they don't violate its ethics. If you don't issue any commands to the celestial, it defends itself from hostile creatures but otherwise takes no actions.
 

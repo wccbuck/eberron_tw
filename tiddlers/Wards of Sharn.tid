@@ -1,9 +1,21 @@
 category: miscellaneous
 created: 20201222081940370
-modified: 20230103214144634
+modified: 20230424053527861
 tags: Sharn
 title: Wards of Sharn
 type: text/vnd.tiddlywiki
+
+This page details the shape of [[Sharn]], transportation around the City of Towers, and notable districts.
+
+!! Links to Headers
+* <<scrollToHeader "Summary">>
+* <<scrollToHeader "Getting Around">>
+** <<scrollToHeader "Travel Time">>
+* <<scrollToHeader "Important Districts">>
+* <<scrollToHeader "Dungeons of Sharn">>
+* <<scrollToHeader "Notes">>
+
+!! Summary
 
 [[Sharn]] is a vertical city, and elevation is an indicator of
 status and wealth. Each quarter is roughly divided into
@@ -50,12 +62,7 @@ of what to expect there. A district in [[Upper Central]] will
 typically be well kept and swarming with guards, while
 a district in [[Lower Dura]] will be squalid and dangerous. 
 
-!! Links to Headers
-* <<scrollToHeader "Getting Around">>
-** <<scrollToHeader "Travel Time">>
-* <<scrollToHeader "Important Districts">>
-* <<scrollToHeader "Dungeons of Sharn">>
-* <<scrollToHeader "Notes">>
+See <<scrollToHeader "Important Districts">> below for more detail.
 
 !! Getting Around
 
@@ -98,7 +105,11 @@ For a speedier journey through the streets, House [[Orien]] manages a system of 
 
 Smaller, one-person carriages and rickshaws are half the price, an amount which almost always rounds to zero crowns for mechanical purposes.
 
-Flight is, of course, the fastest way to get around in Sharn, cutting travel time down to one-fourth of the walking pace (5 minutes per district). In addition, districts that are adjacent but not connected by bridges (such as [[Clifftop]] and [[Shae Lias]], or the [[Bazaar]] and [[Dava Gate]]) can be considered connected when flying. The most common form of aerial transport is the [[skycoach]]; four-person [[skycoach]]es can be rented out from businesses such as the [[Silverstreak Skycoach Rental Company]] for [[0.2c|money]] per district (rounded to the nearest crown), or 3c per hour. Thus, a Silverstreak [[skycoach]] journey from [[Clifftop]] to [[Deathsgate]] would cost 2c and take 40 minutes. (Flying offers no shortcut in this case; cutting straight from [[Dura]] to [[Central Plateau]] still requires travelers to pass through eight districts.)
+''Flight'' is, of course, the fastest way to get around in Sharn, cutting travel time down to one-fourth of the walking pace (5 minutes per district). In addition, districts that are adjacent but not connected by bridges (such as [[Clifftop]] and [[Shae Lias]], or the [[Bazaar]] and [[Dava Gate]]) can be considered connected when flying. 
+
+The most common form of aerial transport is the [[skycoach]]. Four-person skycoaches typically cost [[0.2c|money]] per district (rounded to the nearest crown). Thus, a [[skycoach]] journey from [[Clifftop]] to [[Deathsgate]] would cost 2c and take 40 minutes. (Flying offers no shortcut in this case; cutting straight from [[Dura]] to [[Central Plateau]] still requires travelers to pass through eight districts.)
+
+Some companies, such as [[Silverstreak|Silverstreak Skycoach Rental Company]], even let groups rent four-person skycoaches for extended periods (along with a qualified driver); this service costs 3c per hour.
 
 One-person flying options are only 0.1c per district. Options include rowboat-sized [[skycoaches|skycoach]], but many flying mounts, including [[hippogriff]]s, [[griffon]]s, [[glidewing]]s, and [[giant owl]]s, can also be found for hire around the city. 
 

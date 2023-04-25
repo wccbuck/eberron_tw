@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200410005743410
-modified: 20230103234212114
+modified: 20230424065815647
 points: 20.188,-24.47
 population: 2542200
 style: {"color": "#8E0024"}
@@ -87,7 +87,7 @@ their fortune in the grandest city in Eberron.
 Sharn stands above the [[Dagger River]] and its eastern tributary, the Hilt. It's an important port for anyone dealing with [[Aerenal]], [[Xen'drik]], or [[Sarlona]]. Mountains line the shores of the Dagger, and Sharn can't spread out. So
 instead it has grown ever upward.
 
-Sharn sits within a [[manifest zone]] linked to [[Syrania]], the Azure Sky. This manifest zone enhances magic related to flying and levitation, which makes many of Sharn's magical wonders possible. The vast majority of the [[magic item]]s used within the city to facilitate flight only function because of the manifest zone, and work less well or not at all beyond its boundaries.
+Sharn sits within a [[manifest zone]] linked to [[Syrania]], the Azure Sky. This manifest zone enhances magic related to flying and levitation, which makes many of Sharn's magical wonders possible. For example, the city's tallest spires are supported by architectural structures called "floating buttresses," which channel the magical energies of Syrania to keep the upper levels of the towers suspended in the air. The vast majority of the [[magic item]]s used within the city to facilitate flight only function because of the manifest zone, and work less well or not at all beyond its boundaries.
 
 The city is primarily made up of these quarters:
 
@@ -97,11 +97,7 @@ The city is primarily made up of these quarters:
 * [[Northedge]]
 * [[Tavick's Landing]]
 
-At the hub of each of these quarters is a cluster of
-enormous core towers. A web of bridges and platforms
-connects many of these vast spires, and smaller turrets
-sprout from the edges of the core towers. The district of
-[[Skyway]] floats above the highest towers, while the tunnels of the [[Cogs]] stretch out below the lower city.
+At the hub of each of these quarters is a cluster of enormous core towers. A web of bridges and platforms connects many of these vast spires, and smaller turrets sprout from the edges of the core towers. The district of [[Skyway]] floats above the highest towers, while the tunnels of the [[Cogs]] stretch out below the lower city.
 
 In between those extremes, each of the quarters is
 divided into an [[upper ward]], a [[middle ward]], and a [[lower ward]]. Each ward is made up of a number of districts, so that the location of a place in Sharn can be expressed

@@ -1,13 +1,13 @@
 category: spell
 color: #B7A1E0
 created: 20210415185804749
-modified: 20221205062627552
+modified: 20230424040104477
 tags: abjuration
 tier: 4
 title: symbol
 type: text/vnd.tiddlywiki
 
-This spell requires and consumes a quantity of powdered gemstones worth at least [[100c|money]]. When you cast this spell, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book, a scroll, or a treasure chest). If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
+This spell requires and consumes a quantity of powdered gemstones worth at least [[100c|money]], and takes one minute to cast. When you cast this spell, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book, a scroll, or a treasure chest). If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
 The glyph is nearly invisible, requiring a very keen eye to find it. It persists until triggered or dispelled.
 
