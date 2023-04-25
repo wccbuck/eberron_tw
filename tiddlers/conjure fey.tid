@@ -2,13 +2,13 @@ category: spell
 color: #B7A1E0
 created: 20210421012127649
 highertier: show
-modified: 20220220214852324
+modified: 20230424041054674
 tags: [[primal magic]] conjuration
 tier: 3
 title: conjure fey
 type: text/vnd.tiddlywiki
 
-You call forth a [[fey]] creature, or a fey spirit that takes the form of a [[beast]], of <<showcreature-lteq "creature tier 2" 2 fey>>. It appears within an unoccupied space you can see within 90 feet. The fey creature disappears when it is incapacitated or after 1 hour. 
+This spell takes about one minute to cast. You call forth a [[fey]] creature, or a fey spirit that takes the form of a [[beast]], of <<showcreature-lteq "creature tier 2" 2 fey>>. It appears within an unoccupied space you can see within 90 feet. The fey creature disappears when it is incapacitated or after 1 hour. 
 
 The fey creature is friendly to you and your companions for the full duration. It obeys any verbal commands that you issue to it, as long as they don't violate its moral code as defined by its story. If you don't issue any commands to the fey creature, it defends itself from hostile creatures but otherwise takes no actions.
 

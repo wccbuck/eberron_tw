@@ -2,13 +2,13 @@ category: spell
 color: #B7A1E0
 created: 20210504055518725
 highertier: show
-modified: 20220220215503470
+modified: 20230424041616456
 tags: [[primal magic]] conjuration
 tier: 3
 title: conjure woodland beings
 type: text/vnd.tiddlywiki
 
-You summon three to five [[fey]] creatures, or fey spirits that take the forms of [[beast]]s, of <<showcreature-lteq "creature tier 1" 1 fey>> that appear in unoccupied spaces that you can see within 60 feet. The creatures disappear when they are incapacitated or after 1 hour. 
+This spell takes about one minute to cast. You summon three to five [[fey]] creatures, or fey spirits that take the forms of [[beast]]s, of <<showcreature-lteq "creature tier 1" 1 fey>> that appear in unoccupied spaces that you can see within 60 feet. The creatures disappear when they are incapacitated or after 1 hour. 
 
 The summoned creatures are friendly to you and your companions for the full duration. They obey any verbal commands that you issue to them, as long as they don't violate their moral code as defined by their story or core concept. If you don't issue any commands to the fey creatures, they defend themselves from hostile creatures but otherwise take no actions.
 

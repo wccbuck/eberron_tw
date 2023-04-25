@@ -1,16 +1,18 @@
 created: 20220805021301716
 list: [[Find Items]] [[Find Places]] [[Find Organizations]] [[Eberron TW Updater]] [[Find People/Entities]] [[Find Creatures]] [[Find Talents]] [[Find Miscellaneous]] [[Find Spells]] [[Tiddlers with duplicate tooltips]] [[Find Things]] [[short-term madness]] [[long-term madness]]
-modified: 20221108225415415
+modified: 20230424071127749
 tags: 
 title: $:/ListWithXs
 type: text/vnd.tiddlywiki
 
-\define numbacklinks() [backlinks[]] [tagging[]] +[count[]]
-\define listfilter() [!is[system]!has[tooltip]!list[$:/ListWithXs]subfilter<ppl-ent>]
+\define numbacklinks() [backlinks[]] +[count[]]
+\define listfilter() [!is[system]!has[tooltip]!list[$:/ListWithXs]]
 \define listfilterlimit() $(listfilter)$ +[!sortsub:number<numbacklinks>limit[20]]
 \define listfiltercount() $(listfilter)$ +[count[]]
 
+List of tiddlers with no tooltip, sorted by number of backlinks
+
 <$list filter=<<listfilterlimit>>>
-<$button><$action-listops $tiddler="$:/ListWithXs" $subfilter="[<currentTiddler>]"/>X</$button> <$link/><br/></$list>
+<$button><$action-listops $tiddler="$:/ListWithXs" $subfilter="[<currentTiddler>]"/>X</$button> <$link/> (<$count filter="[<currentTiddler>backlinks[]]"/>)<br/></$list> 
 
 {{{ [subfilter<listfiltercount>] }}}

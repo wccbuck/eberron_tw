@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20221123222822873
-modified: 20221123223242257
+modified: 20230424171856461
 tags: shapechanger humanoid monstrosity therianthrope
 tier: 2
 title: wererat
+tooltip: second most common therianthrope after werewolf, humanoid cursed to transform into a scheming disease-spreading monster
 type: text/vnd.tiddlywiki
 
 Wererats are cunning [[therianthrope]]s with sly, avaricious

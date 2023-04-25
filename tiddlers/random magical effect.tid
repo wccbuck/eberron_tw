@@ -2,19 +2,20 @@
 category: phenomenon
 color: #432874
 created: 20210108063641067
-d10: 1
-d20: 10
-d35: 15
-d4: 4
-d50: 30
-d7: 6
-duration: 10 minutes
-effect: All within 50 yards are now wearing tap-shoes.
-l_duration: 4 hours
-modified: 20230402042012482
-s_duration: 30 seconds
+d10: 8
+d20: 15
+d35: 30
+d4: 3
+d50: 10
+d7: 3
+duration: 20 minutes
+effect: All cloth within 50 yards is scrubbed clean.
+l_duration: 6 hours
+modified: 20230424180527962
+s_duration: 5 seconds
 tags: 
 title: random magical effect
+tooltip: random generator for unpredictable magical side effects
 type: text/vnd.tiddlywiki
 
 <$button>

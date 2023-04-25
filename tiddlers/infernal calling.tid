@@ -2,13 +2,13 @@ category: spell
 color: #B7A1E0
 created: 20210108193521826
 highertier: show
-modified: 20220220214758355
+modified: 20230424040359172
 tags: conjuration
 tier: 3
 title: infernal calling
 type: text/vnd.tiddlywiki
 
-Uttering a dark incantation and sacrificing a ruby or other valuable item worth at least [[100c|money]], you summon a [[devil]] from a [[demiplane]] of [[Khyber]] or another [[plane]] of existence. You choose the devil's type, which must be one of <<showcreature-lteq "creature tier 2 or lower" 2 devil>>, such as a [[barbed devil]] or a [[bearded devil]]. The devil appears in an unoccupied space that you can see within 90 feet. The devil disappears when it is incapacitated or when the spell ends up to 1 hour later (or if your concentration breaks).
+This spell takes about one minute to cast. Uttering a dark incantation and sacrificing a ruby or other valuable item worth at least [[100c|money]], you summon a [[devil]] from a [[demiplane]] of [[Khyber]] or another [[plane]] of existence. You choose the devil's type, which must be one of <<showcreature-lteq "creature tier 2 or lower" 2 devil>>, such as a [[barbed devil]] or a [[bearded devil]]. The devil appears in an unoccupied space that you can see within 90 feet. The devil disappears when it is incapacitated or when the spell ends up to 1 hour later (or if your concentration breaks).
 
 The [[devil]] is unfriendly toward you and your companions. It is under the GM's control and acts according to its nature, which might result in its attacking you if it thinks it can prevail, or trying to tempt you to undertake an evil act in exchange for limited service.
 

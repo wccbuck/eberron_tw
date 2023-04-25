@@ -1,13 +1,13 @@
 [
     {
-        "created": "20220320210535841",
-        "text": "The Silverstreak Skycoach Rental Company, located in [[Lyrandar Tower]], operates a fleet of twenty [[skycoach]]es, five to ten of which are rented out to single parties for extended periods of time. The rest hover near the skyways and balconies in search\nof people who need transportation to other areas within\nthe city. See [[Wards of Sharn]] for a breakdown of travel costs.\n\nSerra Narim, a classy, red-haired human woman in her mid-thirties, started this company five years ago and still heads it today.\n\n!! Adventure Hook\n\n* The PCs stumble across a dead body in a less-traveled area. Investigation reveals that the corpse is that of a driver for the Silverstreak Skycoach Rental Company. Even more troubling is the fact that neither the driver nor his coach have been reported missing—in fact, both are still in service.",
-        "type": "text/vnd.tiddlywiki",
+        "created": "20230424050510808",
+        "text": "The Silverstreak Skycoach Rental Company, located in [[Lyrandar Tower]] in [[Central Plateau]], [[Sharn]], operates a fleet of about one hundred [[skycoach]]es, up to half of which are rented out (along with qualified pilots) to single parties for extended periods of time. This service allows a group to have access to a personal skycoach for days or even weeks at a time. The rest hover near the skyways and balconies in search of people who need transportation to other areas within the city. See the <<navAndScrollToHeader \"Wards of Sharn\" \"Travel Time\">> section of [[Wards of Sharn]] for a breakdown of travel costs.\n\n[[Serra Narim]], a classy, red-haired [[human]] woman in her mid-thirties, started this company five years ago and still heads it today.\n\n!! Adventure Hook\n\n* The PCs stumble across a dead body in a less-traveled area. Investigation reveals that the corpse is that of a driver for the Silverstreak Skycoach Rental Company. Even more troubling is the fact that neither the driver nor his coach have been reported missing—in fact, both are still in service.",
         "title": "Silverstreak Skycoach Rental Company",
-        "tags": "Sharn [[Lyrandar Tower]] shop",
-        "modified": "20220320223255829",
-        "color": "#A3DB62",
-        "category": "location",
-        "article": "the "
+        "modified": "20230425171547302",
+        "tags": "business Sharn skycoach [[Lyrandar Tower]]",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "organization",
+        "color": "#9EC5FE"
     }
 ]

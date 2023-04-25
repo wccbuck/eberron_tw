@@ -1,12 +1,12 @@
 category: spell
 color: #B7A1E0
 created: 20210801003820535
-modified: 20210801003904256
+modified: 20230424040650861
 tags: divination
 tier: 4
 title: Medani foresight
 type: text/vnd.tiddlywiki
 
-You gain a limited ability to see into the immediate future. For 1 hours, you can't be surprised and you have a large [[advantage]] on all attempts. This spell immediately ends if you cast it again before its duration ends.
+You gain a limited ability to see into the immediate future. This spell takes about one minute to cast. For 1 hour, you can't be surprised and you have a large [[advantage]] on all attempts. This spell immediately ends if you cast it again before its duration ends.
 
 (See also [[foresight]].)

@@ -2,13 +2,13 @@ category: spell
 color: #B7A1E0
 created: 20210501024500495
 highertier: show
-modified: 20220220214824478
+modified: 20230424040035145
 tags: transmutation
 tier: 3
 title: tiny servant
 type: text/vnd.tiddlywiki
 
-You touch up to three nonmagical objects no more than two feet in any dimension that aren't attached to another object or a surface and aren't being carried by another creature. The targets animate and sprout little arms and legs, becoming [[construct]] creatures under your control for eight hours. After the spell ends, or if it is incapacitated, a creature reverts to its original form. The creature has [[blindsight]] out to 60 feet, and is blind beyond this radius.
+This spell takes about one minute to cast. You touch up to three nonmagical objects no more than two feet in any dimension that aren't attached to another object or a surface and aren't being carried by another creature. The targets animate and sprout little arms and legs, becoming [[construct]] creatures under your control for eight hours. After the spell ends, or if it is incapacitated, a creature reverts to its original form. The creature has [[blindsight]] out to 60 feet, and is blind beyond this radius.
 
 You can mentally command the creature if it is within 120 feet of you. (If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.) You decide what action the creature will take and where it will move, or you can issue a simple, general command, such as to fetch a key, stand watch, or stack some books. If you issue no commands, the servant does nothing other than defend itself against hostile creatures. However, the creature is not really built for combat; two or three such constructs fighting together count as one [[creature tier]] ''1'' threat. Once given an order, the servant continues to follow that order until its task is complete.
 

@@ -2,14 +2,14 @@ category: spell
 color: #B7A1E0
 created: 20210428030947618
 highertier: show
-modified: 20220824174917521
+modified: 20230424041034255
 tags: conjuration
 tier: 3
 title: conjure minor elementals
 tooltip: summon 3 to 5 tier-1 elementals for up to 1 hour
 type: text/vnd.tiddlywiki
 
-You summon between three and five <<showcreature-lteq "tier 1 elementals" 1 elemental>> (such as [[mephit]]s) that appear in unoccupied spaces that you can see within 90 feet.
+This spell takes about one minute to cast. You summon between three and five <<showcreature-lteq "tier 1 elementals" 1 elemental>> (such as [[mephit]]s) that appear in unoccupied spaces that you can see within 90 feet.
 
 An [[elemental]] summoned by this spell disappears when it is incapacitated or when the spell ends after 1 hour (or your concentration breaks).
 

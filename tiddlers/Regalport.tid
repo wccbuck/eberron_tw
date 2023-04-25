@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200416211815109
-modified: 20210820071944722
+modified: 20230424175618115
 points: 58.865,46.87
 population: 16500
 style: {"color": "#8E0024"}
 tags: [[Lhazaar Principalities]] city Greentarn
 title: Regalport
+tooltip: nominal capital of the Lhazaar Principalities, seat of the Seadragons
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

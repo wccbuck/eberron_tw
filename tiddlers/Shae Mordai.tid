@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200417004140353
-modified: 20210820065256447
+modified: 20230424173138463
 points: 2.022,25.95
 population: 210000
 style: {"color": "#8E0024"}
 tags: city Aerenal fortress
 title: Shae Mordai
+tooltip: the City of the Dead, the spiritual capital of Aerenal and seat of the Undying Court
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

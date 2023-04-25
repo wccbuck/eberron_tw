@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.21.1
-modified: 20230421190538992
+currentversion: 1.21.2
+modified: 20230425180020281
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,17 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.21.2 <span style="font-weight:normal">(Apr 25, 2023)</span>
+
+* Added to [[skycoach]]. New related pages:
+** [[sky medallion]], [[Serra Narim]], the [[Swan]], [[Andala Undalon]], the [[Gold Line]], [[Aureon's Flight]], [[Roo]], [[Eagle's Claw]], [[Dael Tantein]]
+* Related: multiplied the number of coaches owned by [[Silverstreak Skycoach Rental Company]] by 5. (20 → 100)
+* Fixed some typos in [[soarsled]] page
+* Added a bit about "floating buttresses" to [[Sharn]]. I know KB likes the "flying buttress" joke, but that term means something specific and non-magical not only in our world, but also in canon Eberron (see [[Cathedral of the Silver Flame]]). So I've renamed the magical one "floating" instead of "flying."
+* Added appropriate cast times to [[antipathy/sympathy]], [[create homunculus]], [[scrying]], [[planar ally]], [[mirage arcane]], [[hallucinatory terrain]], [[guards and wards]], [[control weather]], [[clairvoyance]], [[prayer of healing]], [[wind walk]], [[tsunami]], [[tiny servant]], [[symbol]], [[symbol]], [[regeneration]], [[phantom steed]], [[infernal calling]], [[illusory script]], [[foresight]], [[Medani foresight]], [[dream]], [[conjure minor elementals]], [[conjure fey]], [[conjure woodland beings]], [[conjure astral construct]].
+* Replaced some "he or she"s with "they"s
+* Added some more tooltips
 
 !!! 1.21.1 <span style="font-weight:normal">(Apr 21, 2023)</span>
 

@@ -2,12 +2,13 @@ alternatetitle: Irsthaana
 category: location
 color: #4C8201
 created: 20210127011336645
-modified: 20221206173850652
+modified: 20230424072540116
 points: -3.646,181.03
 population: 5000
 style: {"color": "#8E0024"}
 tags: city Syrkarn Lamecha
 title: Ardhmen
+tooltip: small port city of Syrkarn
 type: text/vnd.tiddlywiki
 
 ''Ruler:'' Sahar [[Opilano]]<br/>

@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20221123221028425
-modified: 20221123221519618
+modified: 20230424171701674
 tags: shapechanger humanoid monstrosity therianthrope
 tier: 2
 title: werewolf
+tooltip: most common form of therianthrope, humanoid cursed to transform into a savage predator
 type: text/vnd.tiddlywiki
 
 A werewolf is a savage predator, the most common form of [[therianthrope]]. In its humanoid form, a werewolf has heightened senses, a fiery temper, and

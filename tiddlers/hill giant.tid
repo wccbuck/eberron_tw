@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210108201543018
-modified: 20220127193049864
+modified: 20230424170702215
 tags: giant
 tier: 2
 title: hill giant
+tooltip: stocky 16-foot-tall giant, tend to be dim-witted
 type: text/vnd.tiddlywiki
 
 Hill [[giant]]s are brutes that hunt, forage, and raid in constant search of food. They resemble huge, squat [[human]]s or [[half-orc]]s, and have a reputation for being selfish and dim-witted. Their average height is around 16 feet.

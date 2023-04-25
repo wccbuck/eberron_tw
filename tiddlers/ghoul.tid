@@ -1,10 +1,11 @@
 category: creature
 color: #EA868F
 created: 20210218181351559
-modified: 20221215012214971
+modified: 20230424072437108
 tags: undead
 tier: 1
 title: ghoul
+tooltip: undead menace, feeds on dead humanoid flesh
 type: text/vnd.tiddlywiki
 
 //The [[halfling]]s of the [[Talenta Plains]] tell the stories of the Hungry Hunter, Orlasca. The greatest hunter of his age, Orlasca swore to eat every creature that he killed. When he was forced to kill another halfling, his oath compelled him to consume his enemy… and he developed an insatiable appetite for halfling flesh. After he slew his own tribe, Orlasca was finally slain. But so great was his hunger that his spirit lingered, slipping into the forms of weaker creatures and trying to work its way up to halfling form. A great Talenta taboo is to never consume the flesh of a creature that eats its own kind—because that allows the spirit of Orlasca to pass into you and transform you.//
