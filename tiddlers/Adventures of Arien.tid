@@ -1,6 +1,6 @@
 category: note
 created: 20220208023535083
-modified: 20230425182342001
+modified: 20230430222337509
 tags: 
 title: Adventures of Arien
 type: text/vnd.tiddlywiki
@@ -17,48 +17,17 @@ The adventures of [[Arien Grimbold]]!
 
 !! Links to Headers
 * <<scrollToHeader "Brainstorming">>
-* <<scrollToHeader "Session 11">>
+* <<scrollToHeader "Session 12">>
 ** <<scrollToHeader "TODO">>
 ** <<scrollToHeader "Magic Items">>
 ** <<scrollToHeader "Second Semester Courses">>
 * <<scrollToHeader "Scenes">>
-** <<scrollToHeader "Eyre">>
 ** <<scrollToHeader "Dravago">>
 ** <<scrollToHeader "Nymm">>
 ** <<scrollToHeader "Lharvion">>
 ** <<scrollToHeader "Barrakas">>
 
 !! Brainstorming
-
-!!! Wilderness survival field trip
-
-Folks get in pairs and are assigned a section of wilderness they need to survive in for 7 days. 
-
-Arien and [[Lorsanna]] get paired up. While they're out there, Lorsanna opens up a bit and tells Arien her story. 
-
-It turns out, Belmin has made the environment harsher than normal to really test the students. So they have to face some big threats. Maybe something that consumes or spoils food, or a creature that makes obnoxious sounds at night that interrupts sleep. (Disease? [[flameworm fever]]?) Perhaps also [[stirge]]s, and an angry [[owlbear]].
-
-On day 4 or 5, Kupo the [[couatl]] indicates to Arien that something is going on in the woods. Turns out, a cult of the [[Grim King|Katashka]] is out here up to no good. They're rummaging around in an old [[Dhakaan]]i ruin, looking for a weapon of the [[Kech Nasaar]] that was deemed too horrifying even for them to use and sealed away millennia ago. Perhaps an [[ulgurstasta]]. Or a document/tool that would help them summon one (e.g. the Apostolic Scrolls). A fragment of the Volakurar ("words of death") was said to be buried here.
-
-Dhakaani ruin warning brainstorming:
-
-* “Tohiish Guur”: “Dangerous span”, “Dangerous ongoing”
-* “Toh Kurar Shi Anaa”: beware, death begins again
-* “Skiir Alkhuul”: run far away
-
-And get this: the cult is led by the [[Prophet]]! Who was hanged for his crimes in [[Nelview]], but has come back as a fear eater [[ghast|ghoul]]. Come up with another name for him; perhaps "Haris Vemodin". Other folks who are here:
-
-* A finger keeper ghast (Arien has to contend with [[crawling claw]]s). Name this guy Filge, like the Age of Worms necromancer guy
-* Perhaps a [[goblin]] historian of some kind, named Kalaad
-* Misc [[ghoul]]s, [[zombie]]s, and nameless goons
-
-Perhaps there’s a trap deep in the temple that causes the cult’s [[zombie]]s to turn on them. In fact, if Haris et al capture Arien and Lorsanna, he might force them to go through the ruins and kind of serve as fodder for the traps. He had planned on using mindless undead, but some magical effect in the ruins keeps turning their undead against them.
-
-There are also goblinoid skeletons here that raise up and attack intruders.
-
-Other potential ideas:
-
-[[https://paizo.com/download/dungeon/AgeofWormsOverload.pdf]]
 
 !!! "Level Up"
 
@@ -74,13 +43,12 @@ One of her spells should be some kind of abjuration. I want an opportunity for t
 
 Spell suggestions: [[New Spells for Arien level-up!]]
 
-!! Session 11
+!! Session 12
 
 !!! TODO
 
-* Survival field trip adventure
-** Starts with a few survival challenges, but then Arien stumbles across a scheme of a cult of [[Katashka]]. Kupo helps her discover this, on like day 4 or 5. 
-** Kupo should provide an occasional [[detect immortal]] or similar [[divination]] for Arien.
+* Make a scene surrounding the swearing of the [[Oath of the Ancients]]
+* Kupo should provide an occasional [[detect immortal]] or similar [[divination]] for Arien.
 * [[Aureon's Crown]] scene or adventure
 * When does [[Argonth]] move across the country? Could be a scene where they watch it go
 * [[Old Man Cord]]?
@@ -106,80 +74,12 @@ Set up a [[progress clock]] for each of Arien's classes
 
 !! Scenes
 
-!!! Eyre
-
-* 2 class scenes: leadership and politics
-* [[Sejra Whitebinder]] tells Arien that an oath need not be such a sacrifice as long as it focuses one's faith. She says not everything needs to be a sacrifice; that's just a very [[Dol Arrah]] way of looking at the paladin's oath, but there are other paths.
-
-!!!! Classes scene 3/4
-
-* Leadership (Prior [[Hemdoth Aggan]])
-** Case study: Leave No One Behind
-
-<<<
-
-One of the most difficult moral decisions of command is to what degree to uphold the code "Leave No One Behind". How many healthy soldiers will I risk to bring home one wounded (or dead) soldier?
-
-You are in command of a platoon of soldiers, made up of five squads of eight soldiers. You are charged with a patrol mission along the edge of the [[Mournland]]. A thick fog rises, and you receive a report that one of your soldiers has gone missing. You send one of your squads to search for the missing soldier. Because of the thick fog, the squad and the main company will use bugles to communicate.
-
-After one hour, the squad stops responding to bugle calls.
-
-All of your soldiers are well trained, ready to go in an instant, and eager to find their missing companions. Do you send in another search squad? If you send them, what will you do if they too go missing? Do you instead cut your losses? Regardless of your choice, how will you explain your choice to the families of the missing? Every second counts.
-
-<<<
-
-* Politics of Khorvaire (Master Yonz (human))
-** [[Thrane]] and the theocracy, [[Diani ir'Wynarn]] and the "blood regents" and the Throneholders who want to put her back in power. [[Thaliost]]. Present Thrane as an unstable nation on the verge of a possible rift.
-
 !!! Dravago
 
-* Dravago 6: [[Baker's Night]]. [[Silver Flame]] holiday
-** Maybe some folks bring some baked treats to the Martial Temple? Not a huge Silver Flame following in Starilaskur, but there are definitely some faithful here
-* Class scenes (not survival)
-* Survival field trip
+* Scene at the crossroads meeting place to wrap up the survival challenge. Arien and Lorsanna have this Filge guy with them, definitely gotta explain that. Belmin is there, as is a [[Tharashk]] tracker
 * Swear the [[Oath of the Ancients]]
+* Training for [[Weapon Expertise]]
 * Dravago 26: [[Aureon's Crown]]
-
-!!!! Classes scene 4/4
-
-* Leadership (Prior [[Hemdoth Aggan]])
-** Case Study: Justice vs. Mercy.
-
-<<<
-You’re a commanding officer of a warship, and two soldiers have come to the captains mast for a non-judicial proceeding for the same offense. They were both on personal leave before the ship was scheduled to depart at 0800 on that particular morning. They were required to be aboard by 0700. However, they both took the same Orien carriage to the docks, which got stuck in traffic, and arrived at the pier 25 minutes after the ship departed. As captain, you have authority to decide their punishment.
-
-The maximum punishment you can give at a non-judicial proceeding is:
-
-* 45 days restriction (forbidden to leave the ship, extra duty after-hours)
-* Forfeiture of ½ of one month’s pay for 3 months
-* Reduction in rank one pay grade
-
-The “standard” punishment for missing ship’s movement is:
-
-* 30 days restriction
-* Forfeiture of ½ of one month’s pay for 2 months
-* If there was another mast offense in the last 12 months, reduction in rank
-
-Profile of accused:
-
-* Petty officer Barnaby: 24-year-old bachelor, known as a “wild man”. Has been to non-judicial proceedings twice in the last 3 years (charges of: disrespect towards a superior officer, and drunk and disorderly ashore). His division officer says he does a barely marginal job, and gets in trouble ashore frequently.
-* Petty officer Goodman: 29 years old, married with 4 children, ages 1 month to 9 years. He has never been to captains mast. His division officer says he is extremely responsible and always does his job well. He also volunteers aboard ship tutoring sailors, and serves as the ship’s drug abuse counselor.
-
-# What punishment do you give each sailor? Do you give them the same punishment, or different? Why?
-# What were the considerations in your decision in order of priority?
-
-<<<
-* Survival (Preceptor [[Cadoc Belmin]])
-** Field trip (do this scene last)
-* Politics of Khorvaire (Master Yonz (human))
-** [[Karrnath]] and [[Kaius ir'Wynarn III]]. How he was the one who called the summit that led to the [[Treaty of Thronehold]]. Learn about the history of the [[Blood of Vol]] within the region
-** [[Aundair]] and the [[Eldeen Reaches]].
-* World Religions (Master [[Marrath]])
-** [[Path of Inspiration]], [[druid]]ic faiths, [[Cults of the Dragon Below]]
-* Bestiary (Visitant [[Sejra Whitebinder]])
-** some "common" [[monstrosities|monstrosity]] and [[aberration]]s
-
-Survival class field trip. Each student has a [[pop-up tent]], [[explorer's pack]], [[herbalism kit]], and [[healer's kit]]. Goal is to survive in the wilderness for one week, but are only give 3 days rations. A [[Tharashk]] hunter is standing by to search for any novices who go missing. Perhaps each novice also has a flare that sends a mental ping to that hunter, if a novice is in danger.
 
 !!! Nymm
 
@@ -204,7 +104,7 @@ In [[Nymm]] (June), it's going to be runnelberry season. There's going to be a h
 
 Names for other students:
 
-* Frutch, Verbane, Sandis, Teldovoor, Balabar, Todrik, Cesaria, Ravinia
+* Verbane, Sandis, Teldovoor, Todrik, Cesaria, Ravinia
 * [[https://blog.reedsy.com/character-name-generator/medieval/old-english/]]
 
 Arien's buddies:
