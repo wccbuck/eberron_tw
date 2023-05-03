@@ -1,11 +1,15 @@
 created: 20230421213325789
-list: [[divine smite]] [[branding smite]] [[compelled duel]] [[turn undead]] [[divine favor]] [[ensnaring strike]] [[misty step]] [[shield of faith]] [[speak with animals]] [[thunderous smite]] [[turn the unholy]] [[wrathful smite]] [[banishing smite]] [[blinding smite]] [[commune with nature]] [[crusader's mantle]] [[holy weapon]] [[plant growth]] [[protection from energy]] [[tree stride]] [[summon steed]] [[control flames]] [[create bonfire]] thunderclap [[flame blade]] [[heat metal]] [[Ashardalon's stride]] [[fire shield]] [[flame strike]] [[burning hands]]
-modified: 20230421214026009
+list: [[divine smite]] [[calm emotions]] [[branding smite]] [[compelled duel]] [[turn undead]] [[divine favor]] [[ensnaring strike]] [[misty step]] [[shield of faith]] [[speak with animals]] [[thunderous smite]] [[turn the unholy]] [[wrathful smite]] [[banishing smite]] [[blinding smite]] [[commune with nature]] [[crusader's mantle]] [[holy weapon]] [[plant growth]] [[protection from energy]] [[tree stride]] [[summon steed]] [[control flames]] thunderclap [[flame blade]] [[heat metal]] [[Ashardalon's stride]] [[fire shield]] [[flame strike]]
+modified: 20230503014303854
 tags: 
 title: New Spells for Arien level-up!
 type: text/vnd.tiddlywiki
 
 You've taken the [[Oath of the Ancients]]! You have 2 [[experience point]]s; spending both of them lets you take new spells from your oath, plus upgrade your [[Spellcaster]] talent to [[Spellcaster 2]]. This means you can either choose two new rare-tier spells, ''or'' one rare-tier spell and //three// uncommon or common spells.
+
+New spell: hold unholy. Works like [[hold immortal]] but only works on fiends and undead.
+
+Also add hold portal
 
 Here's a list of suggested spells to choose from:
 
