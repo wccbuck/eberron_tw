@@ -1,0 +1,13 @@
+category: spell
+color: #B7A1E0
+created: 20230503143320279
+modified: 20230503144153186
+tags: abjuration
+tier: 2
+title: hold portal
+tooltip: temporarily magically lock a door
+type: text/vnd.tiddlywiki
+
+Choose a door, gate, window, or shutter made of wood, metal, or stone within 60 feet and speak a command word. This spell magically holds that portal shut, just as if it were securely closed and normally locked. The spell lasts for 10 minutes, or until the portal is forced open (either by physical force, or a spell like [[knock]] or [[dispel magic]]).
+
+For a similar spell with permanent duration, see [[arcane lock]].

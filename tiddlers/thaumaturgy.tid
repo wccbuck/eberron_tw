@@ -2,7 +2,7 @@ category: spell
 color: #B7A1E0
 created: 20210410004857760
 highertier: show
-modified: 20220719022034628
+modified: 20230503144411951
 tags: [[divine magic]]
 tier: 1
 title: thaumaturgy
@@ -23,12 +23,12 @@ You can have up to three of this spell's 1-minute effects active at a time, and 
 
 !! Uncommon-Tier
 
-When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may have up to five of its 1-minute effects active at a time, and may do any of the following:
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, the range of the spell increases to 60 feet, you may have up to five of its 1-minute effects active at a time, and you may do any of the following:
 
 * Change your voice to sound more angelic or more demonic for 1 minute. 
 * Amplify your voice up to four times as loud as normal for 1 minute.
 * Cause tremors strong enough to rattle objects without seriously damaging them.
-* Instantaneously open or close any number of unlocked doors and windows within 30 feet.
+* Instantaneously open or close any number of unlocked doors and windows within 60 feet.
 * Extend the duration of any of this spell's cantrip-level effects to 1 hour.
 
 </$reveal>

@@ -2,7 +2,7 @@ category: spell
 color: #B7A1E0
 created: 20210425074452303
 highertier: show
-modified: 20220220212848306
+modified: 20230503145142408
 tags: evocation transmutation [[primal magic]]
 tier: 1
 title: gust
@@ -22,7 +22,8 @@ When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may 
 
 * One [[human]]-sized or smaller creature that you choose must withstand the winds or be pushed up to 15 feet away from you.
 * One [[ogre]]- or [[troll]]-sized creature that you choose must withstand the winds or be pushed up to 5 feet away from you.
-* Affect all objects, gases and creatures within a 10-foot cone (a combination of the first two effects).
+* Affect all objects, gases and creatures within a 10-foot cone (an upgrade of the second cantrip-level effect).
 * By aiming a gust at the ground below you, you extend the distance of a jump by 10 feet.
+* Perform any of the cantrip-level effects described above, but in any horizontal direction, not just away from you.
 
 </$reveal>

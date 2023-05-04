@@ -1,0 +1,19 @@
+category: spell
+color: #B7A1E0
+created: 20230503142558271
+highertier: show
+modified: 20230503143203018
+tags: transmutation
+tier: 1
+title: stick
+type: text/vnd.tiddlywiki
+
+You magically affix one object you touch to another object. The two items are held together by five pounds of force, so they can be separated by very little direct effort; an object more than five pounds in weight becomes detached under the force of its own gravity. When the objects are separated, the spell ends.
+
+<$reveal type="match" state="!!highertier" text="show">
+
+!! Uncommon-Tier
+
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you can affix two objects together with twenty pounds of force.
+
+</$reveal>

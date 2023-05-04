@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201210052119099
-modified: 20220824174820953
+modified: 20230503144042306
 tags: abjuration
 tier: 2
 title: arcane lock
@@ -10,4 +10,6 @@ type: text/vnd.tiddlywiki
 
 Casting this spell requires at least [[1c|money]] worth of gold dust, which the spell consumes. You touch a closed door, window, gate, chest, or other entryway, and it becomes locked until it is dispelled. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting [[knock]] on the object suppresses arcane lock for 10 minutes, as does the use of an [[arcane key]].
 
-While affected by this spell, the object is more difficult to break or force open.
+While affected by this spell, the object is more difficult to break or force open than if it were normally locked.
+
+For a similar spell that costs no spell components, see [[hold portal]].
