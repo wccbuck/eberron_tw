@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20211123220244535
-modified: 20211123220917711
+modified: 20230501155411933
 tags: [[divine magic]]
 tier: 2
 title: abjure enemy
 type: text/vnd.tiddlywiki
 
-You raise a holy symbol and speak a prayer of denunciation. Choose one creature within 60 feet of you that you can see that isn't immune to being frightened. Gain [[advantage]] if your target is a [[fiend]] or [[undead]]. If the target cannot resist your magic, it is stricken with fear, suffering [[disadvantage]] on all attempts as long as it can see you, and it is unable to willingly move from its spot. This effect lasts for 1 minute or until it suffers [[harm]].
+You raise a [[holy symbol]] and speak a prayer of denunciation. Choose one creature within 60 feet of you that you can see that isn't immune to being frightened. Gain [[advantage]] if your target is a [[fiend]] or [[undead]]. If the target cannot resist your magic, it is stricken with fear, suffering [[disadvantage]] on all attempts as long as it can see you, and it is unable to willingly move from its spot. This effect lasts for 1 minute or until it suffers [[harm]].

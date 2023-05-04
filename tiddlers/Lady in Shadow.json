@@ -1,13 +1,14 @@
 [
     {
         "created": "20201223005637634",
+        "text": "The Lady in Shadow is the [[archfey]] representing the witch who stands outside society, possessing dangerous knowledge and power. She curses those who offend her or steal her things, but her knowledge can be quite valuable—if she is approached with care. Her [[barony]] is the [[Shadow|Shadow (barony)]].",
         "title": "Lady in Shadow",
-        "text": "The Lady in Shadow is the [[archfey]] representing the witch who stands outside\nsociety, possessing dangerous knowledge and power.\nShe curses those who offend her or steal her things,\nbut her knowledge can be quite valuable—if she is\napproached with care. Her [[barony]] is the [[Shadow|Shadow (barony)]].",
-        "modified": "20210727192018002",
+        "modified": "20230503215137586",
         "tags": "archfey fey immortal Thelanis",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "entity",
-        "color": "#8C4606"
+        "color": "#8C4606",
+        "tooltip": "archfey witch who offers knowledge and power for a price"
     }
 ]
