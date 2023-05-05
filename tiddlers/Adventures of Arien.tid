@@ -1,6 +1,6 @@
 category: note
 created: 20220208023535083
-modified: 20230430222337509
+modified: 20230505214035815
 tags: 
 title: Adventures of Arien
 type: text/vnd.tiddlywiki
@@ -29,57 +29,39 @@ The adventures of [[Arien Grimbold]]!
 
 !! Brainstorming
 
-!!! "Level Up"
-
-Arien already has 1 [[experience point]] and she'll get another after the field trip. She'll also be taking [[Oath of the Ancients]], which will account for 1 of them. She could potentially use the other to upgrade [[Spellcaster]] to [[Spellcaster 2]]. (note she'll also be getting [[Weapon Expertise]] soon.)
-
-If she goes for this, she'll be able to gain new spells in one of the following combinations. Recall that she needs to keep the spells she has under Spellcaster (thaumaturgy/searing smite) but we could basically move them over to her Oath of the Ancients.
-
-* One epic-tier spell
-* Two rare-tier spells
-* One rare-tier spell and 3 common/uncommon spells
-
-One of her spells should be some kind of abjuration. I want an opportunity for the Silver Flame to manifest for her.
-
-Spell suggestions: [[New Spells for Arien level-up!]]
+* Kupo should provide an occasional [[detect immortal]] or similar [[divination]] for Arien.
 
 !! Session 12
 
 !!! TODO
 
 * Make a scene surrounding the swearing of the [[Oath of the Ancients]]
-* Kupo should provide an occasional [[detect immortal]] or similar [[divination]] for Arien.
-* [[Aureon's Crown]] scene or adventure
+* [[Aureon's Crown]] scene or adventure. It's the traditional time for students to advance or graduate, so we could merge this with oath-swearing scene
 * When does [[Argonth]] move across the country? Could be a scene where they watch it go
-* [[Old Man Cord]]?
+* Runnelberry season adventure (jungle ankheg)
 
 !!! Magic Items
 
 * 
-
-!!! Second Semester Courses
-
-Set up a [[progress clock]] for each of Arien's classes
-
-!!!! Military
-
-* Ethics/Leadership (taught by Prior [[Hemdoth Aggan]])
-* Wilderness Survival (taught by Preceptor [[Cadoc Belmin]])
-* Politics of Khorvaire (taught by Master Yonz (human))
-
-!!!! Religion
-
-* World Religions (taught by Master [[Marrath]])
-* Bestiary (taught by Visitant [[Sejra Whitebinder]])
 
 !! Scenes
 
 !!! Dravago
 
 * Scene at the crossroads meeting place to wrap up the survival challenge. Arien and Lorsanna have this Filge guy with them, definitely gotta explain that. Belmin is there, as is a [[Tharashk]] tracker
+* Do a training roll for Dravago ([[Weapon Expertise]])
+* Final Grades:
+** Ethics and Leadership: A-
+** Wilderness Survival: A+
+** Politics of Khorvaire: B-
+** World Religions: A+
+** Bestiary: A-
 * Swear the [[Oath of the Ancients]]
-* Training for [[Weapon Expertise]]
-* Dravago 26: [[Aureon's Crown]]
+* Dravago 26: [[Aureon's Crown]]. Maybe this is the day she swears the Oath. Other folks also "graduate":
+** [[Roak]] swears the [[Oath of Glory]]
+** [[Turanank]] swears the [[Oath of Devotion]], learns [[dispel immortal]] from [[Sejra Whitebinder]]
+** [[Ervol]] takes up the [[War Domain]]
+** [[Lorsanna]] swears the [[Oath of Vengeance]]
 
 !!! Nymm
 
@@ -95,6 +77,7 @@ In [[Nymm]] (June), it's going to be runnelberry season. There's going to be a h
 !!! Lharvion
 
 * [[Old Man Cord]]?
+* Or, could do <<navAndScrollToHeader "Future Adventure Prep" "Mistmarsh">> adventure
 
 !!! Barrakas
 
