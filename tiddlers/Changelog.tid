@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.21.3
-modified: 20230504234313866
+currentversion: 1.21.4
+modified: 20230517221948117
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,17 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.21.4 <span style="font-weight:normal">(May xx, 2023)</span>
+
+* Created a [[language translator]]! [WIP]
+* Changed "Mjordai" language name to [[Dethek]]
+* Changed the [[Zilargo]] town "Tzanthus" to "[[Szanthus]]." I wanted to highlight the "sz" phoneme in their language, since I added it to their language translator / gibberish generator.
+* Added Quechua names to the [[Syrkarn]] part of the [[random name generator]].
+* Added spells [[calculate]] and [[deadweight]]
+* Added items [[ripplebark]] and [[gaeth'ad]]
+* Added material spellcasting component to [[tiny hut]]
+* Improved how tooltips look. I experimented with adding a filtered list of tags to the tooltip, but it slowed things down to a crawl.
 
 !!! 1.21.3 <span style="font-weight:normal">(May 04, 2023)</span>
 
@@ -326,7 +337,7 @@ Maybe a controversial change: ''I changed some Sarlonan names and words'' for my
 
 * ''Corvagura'' has been renamed [[Ghirvagura]]. I always thought Corvagura sounded too much like "Khorvaire" when spoken aloud, for place names with no common etymological root.
 * ''Nulakesh'' has been renamed [[Nulakaz]]. "Nulakesh" just sounds so much like an [[overlord]] name (Sul Khatesh, Rak Tulkhesh). Also added [[Nulakazi]] language page; for my Eberron, this language takes phonological inspiration from Old Persian.
-* ''Khalesh'' has been renamed [[Caleshaz]]. Too many "Kh" names, honestly. I always got it mixed up with [[Khunan]]. Also very similar to Sul Khatesh. This way it sounds a little more "Nahuatl"; in my Eberron, the words [[couatl]], [[tlexolotl]], and other Mesoamerican loan words originate from old Caleshaz. 
+* ''Khalesh'' has been renamed [[Caleshaz]]. Too many "Kh" names, honestly. I always got it mixed up with [[Khunan]]. Also very similar to Sul Khatesh. This way it sounds a little bit more "Nahuatl"; in my Eberron, the words [[couatl]], [[tlexolotl]], and other Mesoamerican loan words originate from old Caleshaz.
 * ''Shulassakar'' have been renamed [[shulatlaca]]. The -ar ending for a tribe of people seems like a [[Khorvaire]] thing, based on native peoples there like the "dar" ([[Dhakaani]]), as well as -ar names for Talenta families (Boromar, Halamar, Toralamar) and the [[Jhorash'tar]] orcs. The shulatlaca have roots in old [[Caleshaz]] so I made them sound more "Nahuatl". (I know that [[Qaltiar]], [[Sulatar]], and [[kalashtar]] are outliers to my Khorvaire -ar theory; I'm assuming those names are the [[Common]] terms for those folks, and they have their own names for themselves.)
 * ''Korrandar'' has been renamed [[Telathal]]. Korrandar was always a terrible name; it doesn't sound Adaran or Quor or Draconic at all. Korranberg, Kol Korran, Korranath, "dar" (goblins); it sounds 100% Khorvairian. How did I get "Telathal"? I plugged "Korrandar" into a "Common to Quor" gibberish generator and that's what popped out.
 * ''Helkashtai'' was renamed [[Helkatash]] since she is an [[Inspired]], not a [[kalashtar]] of the Kashtai line. 

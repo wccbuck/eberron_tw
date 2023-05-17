@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20230413165045878
+modified: 20230510173719260
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -338,6 +338,12 @@ input.cs-newsegments {
 .cs-notes {
   width: 100%;
   height: 150px !important;
+  resize: none;
+}
+
+.translator-text-box {
+  width: 100%;
+  height: 100px !important;
   resize: none;
 }
 
