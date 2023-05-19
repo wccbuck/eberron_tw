@@ -1,7 +1,8 @@
+alternatetitle: Dhak
 category: culture
 color: #A3CFBB
 created: 20210408194814878
-modified: 20221205032622610
+modified: 20230519054528019
 tags: language
 title: Goblin
 tooltip: "Dhak", common language of Darguun, widely spoken throughout Khorvaire
@@ -12,4 +13,6 @@ var: major
 
 Goblin has long been the common language of trade, especially in [[Droaam]]. A pidgin language called [[Gutterspeak]] spoken in the [[Cogs]] of [[Sharn]] is a fusion of Goblin with smatterings of many other language groups.
 
-While specific accents vary across [[Khorvaire]], one common element of Dhak-speakers speaking [[Common]] is the transformation of the "F" sound into a "V" or sometimes a sharp "H" sound, and the "TH" sound into a "T" or "D", since the Goblin language does not include those particular phonemes.
+While specific accents vary across [[Khorvaire]], one common element of Dhak-speakers speaking [[Common]] is the transformation of the "F" sound into a "V" or sometimes a sharp "H" sound, since the Goblin language does not include that particular phoneme.
+
+To translate text into {{!!title}}, or generate authentic-sounding {{!!title}} gibberish, see the [[language translator]].

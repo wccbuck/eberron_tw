@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414230807420
-modified: 20230104003655602
+modified: 20230510214758873
 tags: humanoid
 tier: 1
 title: gnome
@@ -22,6 +22,7 @@ Many gnomes have an innate ability to conjure small illusory sounds, equivalent 
 
 !! Links to Headers
 * <<scrollToHeader "Gnomes of Zilargo">>
+** <<scrollToHeader "Zil Names">>
 * <<scrollToHeader "Gnomes of the Five Nations">>
 * <<scrollToHeader "Gnomes and Dragonmarks">>
 * <<scrollToHeader "Notes">>
@@ -67,9 +68,9 @@ in Zilargo. If you are working for the Trust, you could
 have a specific mission, but you could also be a sleeper
 agent—gathering information and allies until you're activated and you are put to your intended use.
 
-//''Zil Names.''// Zil society is divided into major houses,
-each of which is composed of multiple families. Each
-gnome carries the name of a house and of a family in addition to a personal name. For example, [[Alina Lorridan Lyrris]] and Tallian Talius Lyrris are members of different families (Lorridan and Talius) within House Lyrris. Gnome names are long and lyrical; a Zil proverb claims "the sweetest song is the name of a friend." Personal and clan names are usually at least three syllables long, and there is a strong tradition of alliteration. 
+!!! Zil Names
+
+Zil society is divided into major houses, each of which is composed of multiple families. Each gnome carries the name of a house and of a family in addition to a personal name. For example, [[Alina Lorridan Lyrris]] and Tallian Talius Lyrris are members of different families (Lorridan and Talius) within House Lyrris. Gnome names are long and lyrical; a Zil proverb claims "the sweetest song is the name of a friend." Personal and clan names are usually at least three syllables long, and there is a strong tradition of alliteration. 
 
 !! Gnomes of the Five Nations
 
