@@ -1,10 +1,12 @@
 category: culture
 color: #A3CFBB
 created: 20220523005554267
-modified: 20230517212128120
+modified: 20230519054725827
 tags: language
 title: Syrk
 tooltip: language of Syrkarn in Sarlona
 type: text/vnd.tiddlywiki
 
 Syrk is the language spoken by the [[people|Syrks]] of [[Syrkarn]]. It descends from [[Riedran]], [[Khunanese]], and [[Cul'sir Giant|Giant]].
+
+To translate text into {{!!title}}, or generate authentic-sounding {{!!title}} gibberish, see the [[language translator]].

@@ -1,7 +1,7 @@
 category: culture
 color: #A3CFBB
 created: 20210408211309003
-modified: 20230515190317329
+modified: 20230519054658487
 tags: language
 title: Zilasalza
 tooltip: Gnomish, language of Zilargo
@@ -10,3 +10,5 @@ type: text/vnd.tiddlywiki
 Zilasalza is the old language spoken by the [[gnome]]s of [[Zilargo]]. It derives from [[Sylvan]], though it also is influenced by [[Dhakaani]] and contains loan words from [[Primordial]] as well as [[Dethek]], owing to the gnomes' long-standing trade activity with the [[dwarves|dwarf]] of the [[Mror Holds]]. 
 
 Today, most [[gnome]]s of [[Zilargo]] speak [[Common]], but still often use Zilasalza amongst themselves to prevent eavesdropping.
+
+To translate text into {{!!title}}, or generate authentic-sounding {{!!title}} gibberish, see the [[language translator]].

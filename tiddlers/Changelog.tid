@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
 currentversion: 1.21.4
-modified: 20230517221948117
+modified: 20230519202139611
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -11,9 +11,9 @@ type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 
-!!! 1.21.4 <span style="font-weight:normal">(May xx, 2023)</span>
+!!! 1.21.4 <span style="font-weight:normal">(May 19, 2023)</span>
 
-* Created a [[language translator]]! [WIP]
+* Created a [[language translator]]! Transform anything you type into something that could plausibly be a translation into your chosen fantasy language. Ten languages to choose from, and possibly more on the way.
 * Changed "Mjordai" language name to [[Dethek]]
 * Changed the [[Zilargo]] town "Tzanthus" to "[[Szanthus]]." I wanted to highlight the "sz" phoneme in their language, since I added it to their language translator / gibberish generator.
 * Added Quechua names to the [[Syrkarn]] part of the [[random name generator]].
