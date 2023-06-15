@@ -1,0 +1,731 @@
+[
+    {
+        "title": "$:/config/Tiddlers/TitleLinks",
+        "fromPageRect": {
+            "top": 249.296875,
+            "left": 1230,
+            "width": 183.515625,
+            "right": 1413.515625,
+            "bottom": 269.296875,
+            "height": 20
+        }
+    },
+    {
+        "title": "$:/_sq/Stories/divertTiddlerMacro",
+        "fromPageRect": {
+            "top": 623.296875,
+            "left": 1230,
+            "width": 220.390625,
+            "right": 1450.390625,
+            "bottom": 643.296875,
+            "height": 20
+        }
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/divertTiddlerMacro'"
+    },
+    {
+        "title": "$:/_sq/Stories/divertTiddlerMacro"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/divertTiddlerMacro'"
+    },
+    {
+        "title": "$:/_sq/Stories/divertTiddlerMacro"
+    },
+    {
+        "title": "$:/_sq/Stories/divertTiddlerEditMacro",
+        "fromPageRect": {
+            "top": 319.296875,
+            "left": 1230,
+            "width": 245.53125,
+            "right": 1475.53125,
+            "bottom": 339.296875,
+            "height": 20
+        }
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/divertTiddlerEditMacro'"
+    },
+    {
+        "title": "$:/_sq/Stories/divertTiddlerEditMacro"
+    },
+    {
+        "title": "$:/_sq/Stories/Templates/StoryToggleMenu",
+        "fromPageRect": {
+            "top": 537.296875,
+            "left": 1230,
+            "width": 283.546875,
+            "right": 1513.546875,
+            "bottom": 557.296875,
+            "height": 20
+        }
+    },
+    {
+        "title": "$:/_sq/Stories/Templates/StoryTogglePageControl",
+        "fromPageRect": {
+            "top": 297.296875,
+            "left": 1230,
+            "width": 326.734375,
+            "right": 1556.734375,
+            "bottom": 317.296875,
+            "height": 20
+        }
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/Templates/StoryTogglePageControl'"
+    },
+    {
+        "title": "$:/_sq/Stories/Templates/StoryTogglePageControl"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/Templates/StoryTogglePageControl'"
+    },
+    {
+        "title": "$:/_sq/Stories/Templates/StoryTogglePageControl"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/Templates/StoryTogglePageControl'"
+    },
+    {
+        "title": "$:/_sq/Stories/Templates/StoryTogglePageControl"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/Templates/StoryToggleMenu'"
+    },
+    {
+        "title": "$:/_sq/Stories/Templates/StoryToggleMenu"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/Templates/StoryToggleMenu'"
+    },
+    {
+        "title": "$:/_sq/Stories/Templates/StoryToggleMenu"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/divertTiddlerEditMacro'"
+    },
+    {
+        "title": "$:/_sq/Stories/divertTiddlerEditMacro"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/Templates/StoryTogglePageControl'"
+    },
+    {
+        "title": "$:/_sq/Stories/Templates/StoryTogglePageControl"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/Templates/StoryTogglePageControl'"
+    },
+    {
+        "title": "$:/_sq/Stories/Templates/StoryTogglePageControl"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/Templates/StoryTogglePageControl'"
+    },
+    {
+        "title": "$:/_sq/Stories/Templates/StoryTogglePageControl"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/Templates/StoryToggleMenu'"
+    },
+    {
+        "title": "$:/_sq/Stories/Templates/StoryToggleMenu"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/Templates/StoryToggleMenu'"
+    },
+    {
+        "title": "$:/_sq/Stories/Templates/StoryToggleMenu"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/Templates/StoryTogglePageControl'"
+    },
+    {
+        "title": "$:/_sq/Stories/Templates/StoryTogglePageControl"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/divertTiddlerEditMacro'"
+    },
+    {
+        "title": "$:/_sq/Stories/divertTiddlerEditMacro"
+    },
+    {
+        "title": "$:/core/ui/SideBar/Open",
+        "fromPageRect": {
+            "top": 337.296875,
+            "left": 1230,
+            "width": 161.8125,
+            "right": 1391.8125,
+            "bottom": 357.296875,
+            "height": 20
+        }
+    },
+    {
+        "title": "Draft of '$:/core/ui/SideBar/Open'"
+    },
+    {
+        "title": "$:/core/ui/SideBar/Open"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/divertTiddlerEditMacro'"
+    },
+    {
+        "title": "$:/_sq/Stories/divertTiddlerEditMacro"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/divertTiddlerEditMacro'"
+    },
+    {
+        "title": "$:/_sq/Stories/divertTiddlerEditMacro"
+    },
+    {
+        "title": "TiddlyBlink"
+    },
+    {
+        "title": "Stories-overview",
+        "fromPageRect": {
+            "top": 1035.921875,
+            "left": 1190,
+            "width": 101.6875,
+            "right": 1291.6875,
+            "bottom": 1054.921875,
+            "height": 19
+        }
+    },
+    {
+        "title": "$:/.giffmex/Customize.TiddlyBlink",
+        "fromPageRect": {
+            "top": 735.625,
+            "left": 107.5,
+            "width": 145.171875,
+            "right": 252.671875,
+            "bottom": 755.625,
+            "height": 20
+        }
+    },
+    {
+        "title": "$:/.giffmex/meta/hack.tiddlyblink",
+        "fromPageRect": {
+            "top": 757.625,
+            "left": 107.5,
+            "width": 129.59375,
+            "right": 237.09375,
+            "bottom": 777.625,
+            "height": 20
+        }
+    },
+    {
+        "title": "TiddlyBlink",
+        "fromPageRect": {
+            "top": 161.296875,
+            "left": 221.953125,
+            "width": 71.859375,
+            "right": 293.8125,
+            "bottom": 181.296875,
+            "height": 20
+        }
+    },
+    {
+        "title": "TiddlyBlink",
+        "fromPageRect": {
+            "top": 161.296875,
+            "left": 221.953125,
+            "width": 71.859375,
+            "right": 293.8125,
+            "bottom": 181.296875,
+            "height": 20
+        }
+    },
+    {
+        "title": "Stories-overview",
+        "fromPageRect": {}
+    },
+    {
+        "title": "Draft of 'Stories-overview'"
+    },
+    {
+        "title": "Stories-overview"
+    },
+    {
+        "title": "Draft of 'Stories-overview'"
+    },
+    {
+        "title": "Stories-overview"
+    },
+    {
+        "title": "Draft of 'Stories'"
+    },
+    {
+        "title": "Plugin maker",
+        "fromPageRect": {
+            "top": 481.34375,
+            "left": 2259,
+            "width": 80.890625,
+            "right": 2339.890625,
+            "bottom": 500.34375,
+            "height": 19
+        }
+    },
+    {
+        "title": "Draft of 'Plugin maker'"
+    },
+    {
+        "title": "Plugin maker"
+    },
+    {
+        "title": "Stories",
+        "fromPageRect": {
+            "top": 296.84375,
+            "left": 2259,
+            "width": 41.453125,
+            "right": 2300.453125,
+            "bottom": 315.84375,
+            "height": 19
+        }
+    },
+    {
+        "title": "Plugin maker",
+        "fromPageRect": {
+            "top": 501.34375,
+            "left": 2259,
+            "width": 80.890625,
+            "right": 2339.890625,
+            "bottom": 520.34375,
+            "height": 19
+        }
+    },
+    {
+        "title": "Draft of 'Plugin maker'"
+    },
+    {
+        "title": "Plugin maker"
+    },
+    {
+        "title": "Draft of 'Stories'"
+    },
+    {
+        "title": "Stories"
+    },
+    {
+        "title": "$:/_sq/Stories/config/Settings",
+        "fromPageRect": {
+            "top": 360.171875,
+            "left": 1245,
+            "width": 182.21875,
+            "right": 1427.21875,
+            "bottom": 379.171875,
+            "height": 19
+        }
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/config/Settings'"
+    },
+    {
+        "title": "$:/_sq/Stories/config/Settings"
+    },
+    {
+        "title": "$:/_sq/Stories/config/Settings",
+        "fromPageRect": {
+            "top": 360.171875,
+            "left": 1245,
+            "width": 182.21875,
+            "right": 1427.21875,
+            "bottom": 379.171875,
+            "height": 19
+        }
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/config/Settings'"
+    },
+    {
+        "title": "$:/_sq/Stories/config/Settings"
+    },
+    {
+        "title": "Draft of 'Stories'"
+    },
+    {
+        "title": "Stories"
+    },
+    {
+        "title": "Draft of 'Stories'"
+    },
+    {
+        "title": "Stories"
+    },
+    {
+        "title": "Draft of 'Stories'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories",
+        "fromPageRect": {
+            "top": 463.734375,
+            "left": 2321.1875,
+            "width": 476.734375,
+            "right": 2797.921875,
+            "bottom": 482.734375,
+            "height": 19
+        }
+    },
+    {
+        "title": "Draft of 'Pack stories to plugin'"
+    },
+    {
+        "title": "Pack stories to plugin"
+    },
+    {
+        "title": "Stories-overview"
+    },
+    {
+        "title": "Draft of 'Stories changelog'"
+    },
+    {
+        "title": "Stories changelog"
+    },
+    {
+        "title": "$:/plugins/sq/Stories",
+        "fromPageRect": {
+            "top": 573.203125,
+            "left": 2255.625,
+            "width": 127.640625,
+            "right": 2383.265625,
+            "bottom": 592.203125,
+            "height": 19
+        }
+    },
+    {
+        "title": "$:/_sq/Stories/widgets/action-addtohistory",
+        "fromPageRect": {
+            "top": 1023.453125,
+            "left": 1194.5,
+            "width": 263.703125,
+            "right": 1458.203125,
+            "bottom": 1042.453125,
+            "height": 19
+        }
+    },
+    {
+        "title": "Draft of 'Pack stories to plugin'"
+    },
+    {
+        "title": "Pack stories to plugin"
+    },
+    {
+        "title": "$:/_sq/Stories/widgets/action-addtohistory",
+        "fromPageRect": {
+            "top": 653.453125,
+            "left": 1194.5,
+            "width": 263.703125,
+            "right": 1458.203125,
+            "bottom": 672.453125,
+            "height": 19
+        }
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories'"
+    },
+    {
+        "title": "Draft of 'Stories changelog'"
+    },
+    {
+        "title": "Stories_changelog"
+    },
+    {
+        "title": "Draft of 'Stories_changelog'"
+    },
+    {
+        "title": "$:/_sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/_sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of 'Pack stories to plugin'"
+    },
+    {
+        "title": "Pack stories to plugin"
+    },
+    {
+        "title": "Draft of 'Pack stories to plugin'"
+    },
+    {
+        "title": "Pack stories to plugin"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of 'Pack stories to plugin'"
+    },
+    {
+        "title": "Pack stories to plugin"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "$:/config/_sq/Stories/story2/EditTemplate",
+        "fromPageRect": {
+            "top": 242.78125,
+            "left": 1226.5,
+            "width": 273.875,
+            "right": 1500.375,
+            "bottom": 262.78125,
+            "height": 20
+        }
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of 'Pack stories to plugin'"
+    },
+    {
+        "title": "Pack stories to plugin"
+    },
+    {
+        "title": "Draft of 'Pack stories to plugin'"
+    },
+    {
+        "title": "Pack stories to plugin"
+    },
+    {
+        "title": "$:/config/sq/Stories/story2/EditTemplate",
+        "fromPageRect": {
+            "top": 242.78125,
+            "left": 1226.5,
+            "width": 267.65625,
+            "right": 1494.15625,
+            "bottom": 262.78125,
+            "height": 20
+        }
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "$:/config/sq/Stories/storyRiverRatio",
+        "fromPageRect": {
+            "top": 330.78125,
+            "left": 1302.75,
+            "width": 235.375,
+            "right": 1538.125,
+            "bottom": 350.78125,
+            "height": 20
+        }
+    },
+    {
+        "title": "$:/config/sq/Stories/story2-fontsize",
+        "fromPageRect": {
+            "top": 220.78125,
+            "left": 1522.875,
+            "width": 234.171875,
+            "right": 1757.046875,
+            "bottom": 240.78125,
+            "height": 20
+        }
+    },
+    {
+        "title": "Draft of '$:/config/sq/Stories/story2-fontsize'"
+    },
+    {
+        "title": "$:/config/sq/Stories/story2/fontsize-title"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Draft of '$:/plugins/sq/Stories/changelog'"
+    },
+    {
+        "title": "$:/plugins/sq/Stories/changelog"
+    },
+    {
+        "title": "Daskaran",
+        "fromPageRect": {
+            "top": 301.6875,
+            "left": 924.546875,
+            "width": 66.765625,
+            "right": 991.3125,
+            "bottom": 318.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "Daskaran",
+        "fromPageRect": {
+            "top": 441.6875,
+            "left": 924.546875,
+            "width": 66.765625,
+            "right": 991.3125,
+            "bottom": 458.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "timeline shortening equation",
+        "fromPageRect": {
+            "top": 416.6875,
+            "left": 743.421875,
+            "width": 32.546875,
+            "right": 775.96875,
+            "bottom": 433.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'timeline shortening equation'"
+    },
+    {
+        "title": "timeline shortening equation"
+    },
+    {
+        "title": "Draft of 'timeline shortening equation'"
+    },
+    {
+        "title": "timeline shortening equation"
+    },
+    {
+        "title": "Draft of 'timeline shortening equation'"
+    },
+    {
+        "title": "timeline shortening equation"
+    },
+    {
+        "title": "Draft of 'timeline shortening equation'"
+    },
+    {
+        "title": "timeline shortening equation"
+    },
+    {
+        "title": "Draft of 'timeline shortening equation'"
+    },
+    {
+        "title": "timeline shortening equation"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Eberron TW Updater",
+        "fromPageRect": {
+            "top": 156.546875,
+            "left": 754.5625,
+            "width": 146.859375,
+            "right": 901.421875,
+            "bottom": 173.546875,
+            "height": 17
+        }
+    }
+]

@@ -3,14 +3,14 @@ category: game mechanics
 created: 20230509205613057
 displaylanguage: Goblin
 language: Goblin
-modified: 20230519202051722
+modified: 20230607220807766
 scrambling: enabled
 tags: 
 title: language translator
 tooltip: tool for translating text into an Eberron language, or generate gibberish that sounds about right
 translatetext: Hello! This is an example sentence, which is translated into gibberish below.
 type: text/vnd.tiddlywiki
-var1: __Saa__! Dhaask oc gor ebor draagash, haj oc shepundaan aj khuuzesac jhaksuuzh.
+var1: __Saa__! Kar oz er onor twodrash, dhot oz thikeshten kat dhoshenshaat hanshar.
 
 \define translateActions() <$action-generate-gibberish $language={{!!language}} $text=<<actionValue>> $field="var1" $scrambling={{!!scrambling}}/>
 \define translateActions2() <$action-generate-gibberish $language={{!!language}} $text={{!!translatetext}} $field="var1" $scrambling={{!!scrambling}}/><$action-setfield displaylanguage={{!!language}}/>
@@ -107,13 +107,13 @@ Details on specific language considerations can be found on the [[github issue p
 
 !! Disable Syllable Shuffling
 
-This tool does not know what a plural is, nor a verb tense. Plugging in "friend" and "friends" into the Goblin translator will give you "ghaam" and "thech," two entirely different words. This is due to an intentional design decision to make unrelated but similarly-spelled English words like "friend" and "fried" translate to different-sounding words (in this example, "ghaam" and "mal"). 
+This tool does not know what a plural is, nor a verb tense. Plugging in "friend" and "friendly" into the Goblin translator will give you "drest" and "hombii," two entirely different words. This is due to an intentional design decision to make unrelated but similarly-spelled English words like "friend" and "fried" translate to different-sounding words (in this example, "drest" and "bic"). 
 
-However, you might actually want words that are similarly-spelled in English to be similarly-spelled in Goblin. With this feature disabled, "friends" sounds plausibly related to "friend" ("tar" vs "tan"), but also to "fried" (which also translates to "tan").
+However, you might actually want words that are similarly-spelled in English to be similarly-spelled in Goblin. With this feature disabled, "friendly" sounds plausibly related to "friend" ("tambii" vs "taaj"), but also to "fried" ("taahn").
 
-|!Shuffling Enabled? |!Friend |!Friends |!Fried |
-| Yes |ghaam |thech |mal |
-| No |tar |tan |tan |
+|!Shuffling Enabled? |!Friend |!Friendly |!Fried |
+| Yes |drest |hombii |bic |
+| No |taaj |tambii |taahn |
 
 Note that even with the feature disabled, sometimes you'll still see the entire translated word drastically change as you type, if the language is linguistically related to Common or another language.
 

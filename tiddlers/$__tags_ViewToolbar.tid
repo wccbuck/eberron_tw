@@ -1,5 +1,5 @@
 created: 20200410032440122
-list: $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/add-to-my-stuff $:/core/ui/Buttons/info $:/core/ui/Buttons/new-here $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/clone $:/core/ui/Buttons/export-tiddler $:/core/ui/Buttons/edit $:/core/ui/Buttons/delete $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/core/ui/Buttons/open-window $:/core/ui/Buttons/close-others $:/core/ui/Buttons/fold $:/plugins/wccbuck/ui/Buttons/list-of-headers $:/core/ui/Buttons/close $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold-bar
-modified: 20230103231606954
+list: $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/add-to-my-stuff $:/core/ui/Buttons/info $:/core/ui/Buttons/new-here $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/clone $:/core/ui/Buttons/export-tiddler $:/core/ui/Buttons/edit $:/core/ui/Buttons/delete $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/core/ui/Buttons/open-window $:/core/ui/Buttons/close-others $:/core/ui/Buttons/fold $:/plugins/wccbuck/ui/Buttons/list-of-headers $:/_sq/Stories/divertTiddlerMacro $:/core/ui/Buttons/close $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold-bar
+modified: 20230529162509716
 title: $:/tags/ViewToolbar
 type: text/vnd.tiddlywiki

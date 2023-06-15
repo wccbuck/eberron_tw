@@ -1,6 +1,6 @@
 caption: {{$:/language/SideBar/Open/Caption}}
 created: 20210214055509796
-modified: 20210727191952141
+modified: 20230529162040538
 tags: $:/tags/SideBar
 title: $:/core/ui/SideBar/Open
 type: text/vnd.tiddlywiki
@@ -10,6 +10,7 @@ type: text/vnd.tiddlywiki
 
 \define drop-actions()
 <$action-listops $tiddler=<<tv-story-list>> $subfilter="+[insertbefore:currentTiddler<actionTiddler>]"/>
+<$action-listops $tiddler=<<_otherStory>> $subfilter="-[<actionTiddler>]"/>
 \end
 
 \define placeholder()
@@ -26,10 +27,11 @@ $button$
 </$droppable>
 \end
 
-<div class="tc-sidebar-tab-open">
+\define open-tiddler-list()
+<div class="tc-sidebar-tab-open sq-sidebar-open">
 <$list filter="[list<tv-story-list>]" history=<<tv-history-list>> storyview="pop">
 <div class="tc-sidebar-tab-open-item">
-<$macrocall $name="droppable-item" button="""<$button message="tm-close-tiddler" tooltip={{$:/language/Buttons/Close/Hint}} aria-label={{$:/language/Buttons/Close/Caption}} class="tc-btn-invisible tc-btn-mini tc-small-gap-right">{{$:/core/images/close-button}}</$button>&nbsp;<$link><span style="font-weight:normal;">{{!!article}}</span>{{!!title}}</$link>"""/>
+<$macrocall $name="droppable-item" button="""<$button message="tm-close-tiddler" tooltip={{$:/language/Buttons/Close/Hint}} aria-label={{$:/language/Buttons/Close/Caption}} class="tc-btn-invisible tc-btn-mini">{{$:/core/images/close-button}}</$button>&nbsp;<$link class="tc-sidebar-lists"><span style="font-weight:normal;">{{!!article}}</span>{{!!title}}</$link>"""/>
 </div>
 </$list>
 <$tiddler tiddler="">
@@ -38,3 +40,29 @@ $button$
 </div>
 </$tiddler>
 </div>
+\end
+
+''Left Column''
+<$set name="_otherStory" filter="[enlist{$:/_sq/Stories/StoriesList!!list}] -[<tv-story-list>]" select="0">
+<<open-tiddler-list>>
+</$set>
+<div class="sq-twostoriesonly">
+
+---
+
+''Right Column''
+<$set name="_otherStory" value=<<tv-story-list>> >
+<$set name="tv-story-list"  filter="[enlist{$:/_sq/Stories/StoriesList!!list}] -[<tv-story-list>]" select="0">
+<$set name="tv-history-list"  filter="[enlist{$:/_sq/Stories/HistoriesList!!list}] -[<tv-history-list>]" select="0">
+<$navigator story=<<tv-story-list>>  history=<<tv-history-list>> >
+<<open-tiddler-list>>
+</$navigator>
+</$set>
+</$set>
+</$set>
+
+</div>
+
+---
+
+<$transclude tiddler="$:/_sq/Stories/Templates/StoryToggleMenu"/>

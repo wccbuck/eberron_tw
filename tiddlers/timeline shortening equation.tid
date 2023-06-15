@@ -1,0 +1,42 @@
+created: 20230606030358359
+modified: 20230615205957714
+title: timeline shortening equation
+tooltip: More than 1300 years ago: Adjusted year = √(2600*(original year - 650))
+type: text/vnd.tiddlywiki
+
+In the [[Eberron Tiddlywiki|Readme]], the [[timeline of Eberron|era]] has been shortened to reduce the implausibility of all the millennia-spanning kingdoms of antiquity. Older dates are adjusted more dramatically than more recent dates. Dates that are 1300 or fewer years ago are unchanged, so as to preserve the "998 YK" default campaign starting year, as well as the [[Riedra]]n calendar conversion (so the present year in Riedra is still 1300 Unity). But all timeline events that occurred more than 1300 years ago are adjusted according to the following formula:
+
+<<<
+!!! Adjusted year = √(2600*(original year - 650))
+<<<
+
+Major consequences of this adjustment:
+
+* The [[Age of Demons]] was only 16,000 years ago, not 100,000.
+* The [[Age of Giants]] only lasted 4,000 years, not 40,000.
+* The Empire of [[Dhakaan]] only lasted 3,000 years, not 11,000.
+* [[Lhazaar]]'s expedition and the first human settlement of [[Khorvaire]] occurred 2,500 years ago, not 3,000.
+
+!! FAQs
+
+!!! Why shorten the timeline?
+
+I'm not the first person to point out how oddly stretched-out the timeline of Eberron is. Keith Baker himself, the creator of the setting, has said on multiple occasions that, if he could change anything fundamental about Eberron, he'd shorten the timeline. The scale of history just doesn't make sense in multiple places. Consider [[Dhakaan]]: canonically, the empire lasts 11,000 years, more than the entirety of human civilization. And four thousand years of that is //after the Xoriat incursion//, a cataclysmic event which was supposed to be the reason the empire fell. "Weakened by the war with the daelkyr, and cursed by the Kapaa'vola, the Empire of Dhakaan is shattered by infighting and civil strife, eventually leading to the collapse of the goblinoid civilization." Four //thousand// years later? 160 generations removed? I'm sorry, but that doesn't make any sense whatsoever. There's no way the empire would be just slowly crumbling that entire time, but not actually collapse for four entire Roman Empires.
+
+!!! Keith Baker has also said he'd shorten the timeline of Galifar specifically; why did you keep the last 1300 years unchanged?
+
+The biggest reason is that changing the timeline of Galifar would be too disruptive. As an example: the canon starting date for a typical campaign is 998 YK, e.g. 998 years since the founding of the kingdom of Galifar. I like the ring of "998 YK," and it's kind of a key soundbite of the setting. 
+
+Now, at least one person out there has made a version of the timeline in which 998 YK indicates 998 years since [[Karrn the Conqueror]], and the kingdom of [[Galifar]] was founded only about 450 years ago. So in principle you could still keep that year while squashing Galifar's somewhat hyper-extended history. And I agree with many others that one could easily cut several hundred years out of the history of Galifar without really removing anything substantive. 
+
+But the span of the kingdom is baked into other elements of the setting. For example, the Year of Blood and Fire (see [[Tira Miron]]) needs to be longer ago than the normal lifespan of an [[elf]], so that the story hooks of [[Miron's Tears]] and [[Samyr Kes]] make sense. If you shorten Galifar's history, does that mean the Year of Blood and Fire happens in old pre-Galifar Daskara? But if you do that, you have to change the sequence of events that set Thrane on a course towards theocracy. If you start pulling at one thread, the whole sweater starts to come undone, and by the time you put it back together, it doesn't really feel like Eberron anymore.
+
+And honestly, the most egregious parts of the timeline are pre-Galifar. The timeline feels more and more stretched the further back you go. That's the main issue I tried to address with this timeline adjustment equation.
+
+!!! The giants have centuries-long lifespans, why shouldn't they have an empire that lasts 40 millennia?
+
+Because they canonically started pounding on the control panel of the laws of physics almost immediately after the dragons first made contact. They're like the krogan from Mass Effect, nuking themselves almost to extinction after the salarians "culturally uplifted" them. It's a miracle the giants' civilization even lasted 2000 years after that, much less 20,000.
+
+!!! How could Argonnessen have gone from an Age of Demons battlefield wasteland to having a post-scarcity society in just a few dragon generations?
+
+Because 16,000 years is still an absurdly long time, even if it's about six long-lived dragon lifespans back to back, and dragons are very smart and powerful. I don't have any issue wrapping my head around this one. 

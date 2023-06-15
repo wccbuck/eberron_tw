@@ -16,12 +16,16 @@ Keep in mind that much of this material has been altered, in small or large ways
 * I have also renamed characters whose very-similar-sounding names would lead to confusion. In Sharn, Caskar Halavik is a city councilor friendly to Boromar Clan; "Cask" is the Boromar Clan's chief alchemist, and "Castar" is the Boromar Clan's intelligence expert. If one is running a campaign heavily featuring the Boromars, these names are just too similar. I have renamed Cask "Mig" and Castar "Korbis Kan Nezzelech".
 * I have rewritten large chunks of older material pertaining to the Blood of Vol, the Emerald Claw, and Lady Illmarrow to align with more recent writings on these topics.
 * Almost all listed city populations are, in my mind, far too small. In many ways, the world of Eberron reflects a level of civilization and (magical) technology akin to the 19th century in our world, and I believe city populations should reflect that. I have multiplied most populations by 5 or more.
+* New as of version 1.22.0: The canon timeline of Eberron is kind of absurd. Keith Baker himself has said many times that if he could make any significant change to the world of Eberron, he would shorten the scale of history. As an example, the Empire of Dhakaan canonically lasts 11,000 years. That's the same length as the entirety of human history in our world! Thus, I've made the decision to shorten the timeline in this document. All years older than 1300 years ago are adjusted using the following equation:
+    * Adjusted year = √(2600*(original year - 650))
 
 This document is a mostly complete database of all things Eberron, and I still periodically add to it. However, please note that I have deliberately omitted certain content which I feel to be antithetical to the core concept of the setting as laid out by [Keith Baker](http://keith-baker.com). Among the excluded content are large swaths of the books *Five Nations*, *Forge of War*, *Explorer's Handbook*, *Faiths of Eberron*, and other core canon Eberron materials.
 
 ## How do I use this?
 
 Using Tiddlywiki might take some getting used to; reading this [short tutorial](https://opensource.com/article/19/2/tiddlywiki) might help you find your footing. Note that while the site works fine on mobile, it was designed for desktop.
+
+I've also added a two-column plugin, so you can have two "story rivers" side by side. Shift-click a link to open it in the opposite column, or click the "divert" button on the title bar (looks like an arrow curving left or right) to push a page to the opposite column. Hide or show the right column by going to the "open" tab of the sidebar and clicking the "columns" button at the bottom of the section.
 
 As for checking out the tons and tons of Eberron content in this database, I'd start with the **Map** in the sidebar if you haven't already!
 

@@ -23,15 +23,29 @@ exports.params = [];
 function setheight(self, titlebar){
     setTimeout(() => {
         try{
-    	    var newTop= String(titlebar.offsetHeight + 27) + "px";
-            var headerScrollMarginTop = String(titlebar.offsetHeight + 40) + "px";
-
-            var titlegradient = document.querySelector("div[data-tiddler-title=\""+self.getVariable("currentTiddler").replaceAll('"', '\\"')+"\"] div.title-gradient");
+            let newTop, headerScrollMarginTop, titlegradient, tiddlerDiv;
+            const thisStory = self.getVariable("tv-story-list");
+            if (thisStory !== "$:/StoryList"){
+                tiddlerDiv = document.querySelector("section.tc-story-river.tc-storytwo-river div[data-tiddler-title=\""+self.getVariable("currentTiddler").replaceAll('"', '\\"')+"\"]");
+                titlegradient = tiddlerDiv.querySelector("div.title-gradient");
+                if (!titlebar || !titlebar.offsetHeight){
+                    titlebar = tiddlerDiv.querySelector("div.tc-tiddler-title");
+                }
+                newTop= String(titlebar.offsetHeight + 13) + "px";
+                headerScrollMarginTop = String(titlebar.offsetHeight + 26) + "px";
+            } else {
+                tiddlerDiv = document.querySelector("section.tc-story-river:not(.tc-storytwo-river) div[data-tiddler-title=\""+self.getVariable("currentTiddler").replaceAll('"', '\\"')+"\"]");
+                titlegradient = tiddlerDiv.querySelector("div.title-gradient");
+                if (!titlebar || !titlebar.offsetHeight){
+                    titlebar = tiddlerDiv.querySelector("div.tc-tiddler-title");
+                }
+                newTop= String(titlebar.offsetHeight + 27) + "px";
+                headerScrollMarginTop = String(titlebar.offsetHeight + 40) + "px";
+            }
+    	    
             if (titlegradient) titlegradient.style.top = newTop;
-
-            var tiddlerDiv = document.querySelector("div[data-tiddler-title=\""+self.getVariable("currentTiddler").replaceAll('"', '\\"')+"\"]");
-            if (tiddlerDiv) {
-                var headers = tiddlerDiv.querySelectorAll("h1, h2, h3, h4, h5, h6");
+            if (tiddlerDiv && headerScrollMarginTop) {
+                const headers = tiddlerDiv.querySelectorAll("h1, h2, h3, h4, h5, h6");
                 for (let i = 1; i < headers.length; i++){
                     headers[i].style.scrollMarginTop = headerScrollMarginTop;
                 }
@@ -40,18 +54,27 @@ function setheight(self, titlebar){
             console.log(err);
         }
     }, 50);
+    return titlebar.offsetHeight;
 }
 
 /*
 Run the macro
 */
 exports.run = function() {
-    var titlebar = document.querySelector("div[data-tiddler-title=\""+this.getVariable("currentTiddler").replaceAll('"', '\\"')+"\"] div.tc-tiddler-title");
-    var self = this;
-    setheight(self, titlebar);
+    let titlebar;
+    const self = this;
+    const thisStory = self.getVariable("tv-story-list");
+    if (thisStory !== "$:/StoryList"){
+        titlebar = document.querySelector("section.tc-story-river.tc-storytwo-river div[data-tiddler-title=\""+this.getVariable("currentTiddler").replaceAll('"', '\\"')+"\"] div.tc-tiddler-title");
+    } else {
+        titlebar = document.querySelector("section.tc-story-river:not(.tc-storytwo-riverdiv) [data-tiddler-title=\""+this.getVariable("currentTiddler").replaceAll('"', '\\"')+"\"] div.tc-tiddler-title");
+    }
+    let titlebarHeight = setheight(self, titlebar);
     const ro = new ResizeObserver(entries => {
       for (let entry of entries) {
-        setheight(self, titlebar);
+        if (titlebar.offsetHeight !== titlebarHeight){
+            titlebarHeight = setheight(self, titlebar);
+        }
       }
     });
 

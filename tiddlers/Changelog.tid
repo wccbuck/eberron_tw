@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.21.4
-modified: 20230519202139611
+currentversion: 1.22.0
+modified: 20230615215238828
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,37 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.22.0 <span style="font-weight:normal">(June 15, 2023)</span>
+
+Added a second story river! Now the Eberron TW has two columns, so users can look at two pages (or even the same page) side-by-side. I'm really looking forward to using this feature when prepping and running games as a GM. This enhancement is thanks to [[Saq's Stories plugin|https://giffmex.org/stroll/stroll.html#%24%3A%2Fplugins%2Fsq%2FStories]]. I had to tweak some things to make it work with my scroll-to-header feature and custom title bars, but I think it's all working! 
+
+Here's how it works:
+
+* Shift-click a link to open it in the opposite column. You can also click the "divert" button on the title bar (<$button class=<<tv-config-toolbar-class>>>{{$:/_sq/Stories/icons/divert-left.svg}}</$button> or <$button class=<<tv-config-toolbar-class>>>{{$:/_sq/Stories/icons/divert-right.svg}}</$button>) to push a page to the opposite column.
+* Like you could before, you can reorder your open pages by dragging and dropping their titles in the "open" tab of the sidebar, but now, you can also drag a title from one column to the other in this way.
+* Hide or show the right column by going to the "open" tab of the sidebar and clicking the <span class="sq-twostoriesonly"><$button class="tc-btn-invisible tc-btn-storytwotoggle">{{$:/_sq/Stories/icons/bars-empty.svg}}</$button></span> button.
+* Resize the sidebar (and thus the two columns relative to the sidebar) by hovering your cursor on the left side of the sidebar; you should see a blue line, which you can drag to resize.
+
+Another big change: ''I have compressed the Eberron timeline''. The length of the timeline of this world, just like the original 3.5E world map, was expanded to a huge degree to make the world feel more "epic." And as a result, just as with the world map, there are absurdly large stretches where nothing happens. The Empire of [[Dhakaan]] lasts 11,000 years? The same length as the entirety of human history in our world? That's really hard to justify!
+
+So I've shortened all timeline dates older than 1300 years ago. I kept the last 1300 years as-is because shortening the lifespan of [[Galifar]] would cause lots of issues and confusion with various dates, and I wanted the current year to remain 998 YK in Khorvaire, and 1300 Unity in [[Riedra]]. The equation I used to adjust the dates can be found [[here|timeline shortening equation]].
+
+With this change, the Empire of Dhakaan was founded 6300 years ago, and fell apart 3300 years ago. (A 3000-year-long empire is still massive.) More recent events are less shifted; for example, Lhazaar's expedition in canon was 3000 years ago, but in this document, it was only 2500 years ago. The [[Age of Demons]] was only 16,000 years ago, not 100,000.
+
+This update also includes the following changes and additions:
+
+* Tweaked the [[language translator]], added some missing words to the [[Dethek]] and [[Goblin]] dictionaries. I also added a whole bunch of Goblin words from a work-in-progress lexicon that [[Jerrod Taylor|https://www.dmsguild.com/browse.php?author=Jarrod%20Taylor]] is working on.
+* Added some example [[warforged]] names from the 4E Eberron Player's Guide
+* Added a little to [[Haruuc Shaarat'kor]]
+* Removed "lightning is extra effective if used against metal armor" mechanics from certain spell effects and magic items
+* Added the [[Consuming Storm]] overlord
+* Added the event [[Madness of Yaruun]]
+* Made the [[Hourglass Coven]] lesser [[archfey]] instead of some confusing nonsense about how they might someday become archfey
+* Increased the ranges for age categories of [[dragon]]s; now "ancient" starts at 1000, not 800.
+* Reduced the population of [[Daskaran]] to better fit its lore
+* Added a little info on food and drink to the Five Nations Culture pages, and also added the following new pages:
+** [[Blink Dog Brew]], [[Mror mushroom brew]], [[waterhouse]], [[preserving pine]]
 
 !!! 1.21.4 <span style="font-weight:normal">(May 19, 2023)</span>
 
@@ -191,6 +222,19 @@ Lore stuff:
 * Fixed a couple of random generators that weren't applying weights to outcomes properly
 * Added "object" category back onto some object tags; added "weapon" tag to weapon category pages like "crossbow", "sword" etc even if they were stubs
 
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
+
 !!! 1.19.2 <span style="font-weight:normal">(Nov 30, 2022)</span>
 
 * Improved the [[random name generator]] further, mostly the [[drow]] name generator
@@ -230,19 +274,6 @@ Lore stuff:
 * Increased the amount of [[money]] you need to have "stashed" to increase passive spending power (20c → 50c per 1c)
 * Adjusted the boundaries between the [[Lhazaar Sea]], [[Sea of Rage]], and [[Dragonreach]]. Somehow I missed that [[Adder Bay]] is supposed to be part of the Lhazaar Sea.
 * Renamed some javascript plugins I made, added 'wccbuck' to the title
-
-!
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
-</$button>
 
 !!! 1.18.8 <span style="font-weight:normal">(Nov 11, 2022)</span>
 
