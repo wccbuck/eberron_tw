@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20210317203643566
-modified: 20210727192032119
+modified: 20230620170822444
 polygons: -38.695,94.18 -39.009,94.96 -39.572,95.25 -40.08,95.51 -40.477,96.45 -40.708,97.49 -40.662,98.4 -40.302,99.53 -39.591,99.71 -39.286,100.11 -38.806,100.38 -38.622,100.93 -38.142,100.89 -37.855,99.58 -37.449,99.02 -36.858,98.45 -36.065,97.9 -36.157,97.46 -36.535,97.07 -36.748,96.48 -37.126,95.93 -37.68,95.36 -38.077,94.44
 style: {"color":"#4D382C","fillColor":"#6B5334","fillOpacity":"0.5"}
 tags: mountains Argonnessen Thousand
 title: Silverclaw Peak
+tooltip: mountain in the Thousand Flights in Argonnessen
 type: text/vnd.tiddlywiki
 
 Silverclaw Peak is a mountain located in the [[Thousand]] Flights of [[Argonnessen]]. The ice sheet around the base of the peak

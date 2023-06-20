@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404225955483
-modified: 20210727192028051
+modified: 20230616174739465
 points: 23.935,-14.75
 style: {"color": "#CA5700"}
 tags: Zilargo town
 title: Reven
+tooltip: town in Zilargo
 type: text/vnd.tiddlywiki
 
 Reven is a village in [[Zilargo]], near the border with [[Breland]].

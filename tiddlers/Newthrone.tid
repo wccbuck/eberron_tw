@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200416215645276
-modified: 20210820072250089
+modified: 20230616191042492
 points: 37.615,30.74
 population: 125000
 style: {"color": "#8E0024"}
 tags: [[New Galifar]] city Q'barra
 title: Newthrone
+tooltip: capital of New Galifar, largest city in Q'barra
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

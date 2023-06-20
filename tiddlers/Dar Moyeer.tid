@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210821193401509
-modified: 20221215214446247
+modified: 20230620153828642
 points: 28.662,166.42
 style: {"color": "#8E0024"}
 tags: city Riedra Rhiavhaar
 title: Dar Moyeer
+tooltip: bastion city in Rhiavhaar, Riedra
 type: text/vnd.tiddlywiki
 
 Dar Moyeer is a [[bastion city]] in [[Rhiavhaar]], [[Riedra]], on the shores of [[Rhialuun]].

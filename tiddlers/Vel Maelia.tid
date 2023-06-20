@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20210221221110446
-modified: 20210727192040753
+modified: 20230620055836383
 polylines: 10.486,24.29 10.652,24.22 10.782,24.08 10.892,23.95 11.068,23.92 11.262,23.89 11.409,23.76 11.557,23.69 11.695,23.78|11.502,24.57 11.52,24.38 11.585,24.27 11.705,24.12 11.705,24.01 11.686,23.84 11.723,23.76 11.815,23.69 11.898,23.69 11.954,23.61 12.018,23.49 12.148,23.43 12.314,23.44 12.415,23.41 12.452,23.3 12.48,23.13 12.517,22.99 12.582,22.94 12.738,22.99 12.794,22.97 12.831,22.89 12.757,22.74
 style: {"color":"#294975","fillColor":"#abcaf5","fillOpacity":"1"}
 tags: Aerenal river
 title: Vel Maelia
+tooltip: river in Aerenal
 type: text/vnd.tiddlywiki
 
 Vel Maelia, a river in [[North Aerenal]], flows into the [[Thunder Sea]].

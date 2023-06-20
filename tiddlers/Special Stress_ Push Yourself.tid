@@ -1,8 +1,9 @@
 approach: Force
 category: talent
 created: 20210726015701938
-modified: 20230317042019089
+modified: 20230620203435807
 title: Special Stress: Push Yourself
+tooltip: talent that grants you an additional special stress box that you can only use when pushing yourself using a particular approach
 type: text/vnd.tiddlywiki
 xpcost: 1
 

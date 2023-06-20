@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210204045005717
-modified: 20210727192037407
+modified: 20230616175416450
 points: 36.351,-36.76
 style: {"color": "#CA5700"}
 tags: town Droaam
 title: Thrakelorn
+tooltip: village in Droaam, seat of Drul Kantar's domain
 type: text/vnd.tiddlywiki
 
 This village in [[Droaam]] is the seat of the fiefdom of the [[oni]] [[warlord]] [[Drul Kantar]].

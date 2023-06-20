@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404234904972
-modified: 20210727191954022
+modified: 20230616182959938
 points: 49.486,-19.48
 style: {"color": "#CA5700"}
 tags: [[Eldeen Reaches]] town
 title: Alvirad
+tooltip: town in the Eldeen Reaches
 type: text/vnd.tiddlywiki
 
 Alvirad is a village in the [[Eldeen Reaches]] north of the [[Mosswood]].

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210905234451016
-modified: 20210905234536343
+modified: 20230616175502898
 points: 53.5,5.46
 style: {"color": "#CA5700"}
 tags: Karrnath town
 title: Haupberg Crossing
+tooltip: town in Karrnath
 type: text/vnd.tiddlywiki
 
 Haupberg Crossing is a town near the northern shore of [[Karrnath]].

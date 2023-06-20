@@ -1,8 +1,9 @@
 category: talent
 created: 20210726074902766
-modified: 20230413171939149
+modified: 20230620203112380
 tags: wizard
 title: Arcane Tradition
+tooltip: talent for wizards which grants benefits to specializing in a particular spell school
 type: text/vnd.tiddlywiki
 xpcost: 1
 

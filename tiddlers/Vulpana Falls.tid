@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20210121201559120
-modified: 20220126015031903
+modified: 20230620164757140
 polylines: 6.111,202.04 6.397,201.86 7.412,201.76 8.095,202.23 8.52,202.6 8.991,202.74 9.434,202.61 10.034,202.87 10.671,203.04 11.132,202.85 11.492,203.12
 style: {"color":"#294975","fillColor":"#abcaf5","fillOpacity":"1"}
-tags: river Sarlona
+tags: river Sarlona Adar Riedra
 title: Vulpana Falls
+tooltip: river that forms part of the boundary between Riedra and Adar
 type: text/vnd.tiddlywiki
 
 Vulpana Falls is a river in [[Sarlona]] that forms part of the border between [[Riedra]] and [[Adar]]. It empties into [[Varuz Bay]].

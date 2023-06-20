@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210317211535793
-modified: 20210727192013035
+modified: 20230616183019088
 points: 45.803,-18.84
 style: {"color": "#CA5700"}
 tags: [[Eldeen Reaches]] town
 title: Havenglen
+tooltip: town in the Eldeen Reaches
 type: text/vnd.tiddlywiki
 
 Havenglen is a small village in the [[Eldeen Reaches]], located between the [[Wolfwood]] and [[Lake Galifar]].

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210330001115183
-modified: 20220301165757878
+modified: 20230616192015341
 points: 50.548,34.45
 style: {"color": "#8E0024"}
 tags: city [[Mror Holds]] Narathun
 title: Shadowspire
+tooltip: capital of clan Narathun in the Mror Holds
 type: text/vnd.tiddlywiki
 
 Shadowspire is the capital of the [[Narathun]] [[clan|Mror clan]] of the [[Mror Holds]]. In the modern age, the [[dragonmarked house]]s and traditions of [[Galifar]] have brought [[magewright]]s to all holds. But its oracles are still respected, and the Ebon Library of

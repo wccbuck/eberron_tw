@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404225824291
-modified: 20210727192024151
+modified: 20230616174629210
 points: 22.182,-10.48
 style: {"color": "#CA5700"}
 tags: Zilargo town
 title: Oskilor
+tooltip: town in Zilargo
 type: text/vnd.tiddlywiki
 
 Oskilor is a large town in [[Zilargo]].

@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210127194040284
-modified: 20220329221603804
+modified: 20230620045545343
 points: 0.7,194.53
 population: 4500
 style: {"color": "#CA5700"}
 tags: town Adar
 title: Xephanan
+tooltip: strange city of stone, tree, and crystal in Adar, home to xephs
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

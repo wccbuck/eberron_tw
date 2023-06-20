@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210322025815433
-modified: 20230517052728874
+modified: 20230620054724258
 points: 27.683,-22.6
 population: 11700
 style: {"color": "#8E0024"}
 tags: Breland city
 title: Galethspyre
+tooltip: city in Breland on the Dagger River, named after strange 600-foot-high sliver of blue stone
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

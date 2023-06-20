@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210325183910315
-modified: 20210727191953981
+modified: 20230616174801585
 points: 31.597,21.31
 style: {"color": "#CA5700"}
 tags: town Valenar
 title: Alioran
+tooltip: town in Valenar
 type: text/vnd.tiddlywiki
 
 Alioran is a mostly [[human]] village in [[Valenar]]. They speak a mixture of [[Common]] and the tongue their ancestors carried from [[Khunan]].

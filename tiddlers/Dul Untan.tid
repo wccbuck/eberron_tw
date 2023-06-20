@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210821193022442
-modified: 20230517052728874
+modified: 20230616181703967
 points: 30.554,181.1
 style: {"color": "#8E0024"}
 tags: city Riedra Caleshaz
 title: Dul Untan
+tooltip: bastion city in Riedra
 type: text/vnd.tiddlywiki
 
 Dar Untan is a [[bastion city]] in [[Caleshaz]], [[Riedra]], near the [[Kelshak Mountains]].

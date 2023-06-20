@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210821193226551
-modified: 20230517052728874
+modified: 20230620154112252
 points: 29.631,177.41
 style: {"color": "#8E0024"}
 tags: city Riedra Caleshaz
 title: Dul Ayeer
+tooltip: bastion city in Caleshaz, Riedra
 type: text/vnd.tiddlywiki
 
 Dar Ayeer is a [[bastion city]] in [[Caleshaz]], [[Riedra]].

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210206233720856
-modified: 20210727192009316
+modified: 20230616173847357
 points: 49.874,31.74
 style: {"color": "#8E0024"}
 tags: city [[Mror Holds]] [[Toldorath and Tordannon]]
 title: Frosthaven
+tooltip: city in the Mror Holds, capital of clans Toldorath and Tordannon
 type: text/vnd.tiddlywiki
 
 This city is the capital of Clans [[Toldorath and Tordannon]], located near the shores of [[Mirror Lake]]. Some of the finest healers in the [[Mror Holds]] historically came from this city, and even today, Frosthaven's [[Jorasco]] [[enclave]] is well-renowned for clinical research using local medicinal herbs and expertise.

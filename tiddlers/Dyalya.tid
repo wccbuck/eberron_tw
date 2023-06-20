@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20220329222412716
-modified: 20220329222420007
+modified: 20230616174513822
 points: -0.69,201.4
 style: {"color": "#CA5700"}
 tags: town Adar
 title: Dyalya
+tooltip: town in Adar
 type: text/vnd.tiddlywiki
 
 {{!!title}} is a town in [[Adar]].

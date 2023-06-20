@@ -1,8 +1,9 @@
 category: talent
 created: 20211128042714888
-modified: 20230413195146221
+modified: 20230620203313823
 tags: wizard warlock
 title: Ritual Casting
+tooltip: talent which lets you enhance a spell you cast if you add an hour to its casting time; also grants you two spells you can only cast in this way
 type: text/vnd.tiddlywiki
 xpcost: 1
 

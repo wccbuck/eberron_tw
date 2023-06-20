@@ -1,1 +1,16 @@
-{"created": "20210115035647653", "title": "Wynarn River", "text": "The Wynarn River, named after the [[royal family|Wynarn family]] of [[Khorvaire]], flows from [[Lake Galifar]] to the [[Eldeen Bay]]. It forms the natural border between the nations of [[Aundair]] and the [[Eldeen Reaches]].", "modified": "20210727192043054", "tags": "river Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polylines": "45.268,-16.67 45.489,-16.68 45.572,-16.57 45.655,-16.46 45.794,-16.38 46.098,-16.25 46.274,-16.13 46.338,-15.98 46.394,-15.81 46.477,-15.72 46.551,-15.62 46.551,-15.47 46.523,-15.32 46.551,-15.16 46.671,-15.03 46.837,-15.0 46.985,-15.0 47.114,-15.1 47.243,-15.15 47.4,-15.15 47.538,-15.1 47.585,-14.99 47.686,-14.82 47.797,-14.66 47.889,-14.52 47.982,-14.51 48.166,-14.43 48.295,-14.43 48.369,-14.47 48.452,-14.4 48.563,-14.43 48.637,-14.5 48.738,-14.51 48.822,-14.56 48.905,-14.57 49.034,-14.53 49.098,-14.57 49.182,-14.63 49.292,-14.65 49.422,-14.55 49.532,-14.5 49.625,-14.37 49.634,-14.18 49.68,-14.04 49.855,-14.0 49.975,-13.94 50.105,-13.89", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}
+[
+    {
+        "created": "20210115035647653",
+        "text": "The Wynarn River, named after the [[royal family|Wynarn family]] of [[Khorvaire]], flows from [[Lake Galifar]] to the [[Eldeen Bay]]. It forms the natural border between the nations of [[Aundair]] and the [[Eldeen Reaches]].",
+        "title": "Wynarn River",
+        "modified": "20230620163535634",
+        "tags": "[[Eldeen Reaches]] river Khorvaire Aundair",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polylines": "45.268,-16.67 45.489,-16.68 45.572,-16.57 45.655,-16.46 45.794,-16.38 46.098,-16.25 46.274,-16.13 46.338,-15.98 46.394,-15.81 46.477,-15.72 46.551,-15.62 46.551,-15.47 46.523,-15.32 46.551,-15.16 46.671,-15.03 46.837,-15.0 46.985,-15.0 47.114,-15.1 47.243,-15.15 47.4,-15.15 47.538,-15.1 47.585,-14.99 47.686,-14.82 47.797,-14.66 47.889,-14.52 47.982,-14.51 48.166,-14.43 48.295,-14.43 48.369,-14.47 48.452,-14.4 48.563,-14.43 48.637,-14.5 48.738,-14.51 48.822,-14.56 48.905,-14.57 49.034,-14.53 49.098,-14.57 49.182,-14.63 49.292,-14.65 49.422,-14.55 49.532,-14.5 49.625,-14.37 49.634,-14.18 49.68,-14.04 49.855,-14.0 49.975,-13.94 50.105,-13.89",
+        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}",
+        "tooltip": "river that forms the border between Aundair and the Eldeen Reaches"
+    }
+]

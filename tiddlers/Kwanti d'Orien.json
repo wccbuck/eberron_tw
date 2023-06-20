@@ -1,13 +1,14 @@
 [
     {
         "created": "20210212064744836",
-        "title": "Kwanti d'Orien",
         "text": "Baron Kwanti, patriarch of House [[Orien]], is a dynamic, energetic human who hates to stay in one place. He spends most of his time on his personal\n[[lightning rail]] coach, the Silver Unicorn, traveling from\nenclave to enclave to monitor affairs. Despite his wanderlust, he is a clever businessman. It was Kwanti who diverted funding to the [[First Step]] program. Now he’s\nsearching for a way to get enough funds to repair the\n[[lightning rail]] lines shattered during the war, and to\ncreate new lines to bypass the [[Mournland]]. He could\nbe a patron for a group of PCs, if he comes up with an\nadventure that could bring profit to the house; a party\nworking for the baron would have full access to the\n[[lightning rail]], caravans, and [[teleportation circle]]s.",
-        "modified": "20210727192017871",
+        "title": "Kwanti d'Orien",
+        "modified": "20230620205633785",
         "tags": "Orien human humanoid Passage",
         "type": "text/vnd.tiddlywiki",
         "article": "Baron ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "head of House Orien"
     }
 ]

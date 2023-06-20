@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20210221220654057
-modified: 20210727192040729
+modified: 20230620055704001
 polylines: 9.397,27.14 9.268,27.19 9.185,27.33 8.991,27.46 8.788,27.71 8.548,27.81 8.418,27.84 8.326,27.93 8.095,27.97 7.975,27.91 7.772,28.04 7.514,28.06 7.237,27.96 6.942,27.86 6.812,27.89 6.702,27.79 6.591,27.88 6.462,27.91 6.268,28.07 6.009,28.24 5.788,28.35 5.631,28.32 5.502,28.42
 style: {"color":"#294975","fillColor":"#abcaf5","fillOpacity":"1"}
 tags: Aerenal river
 title: Vel Kathur
+tooltip: river in Aerenal
 type: text/vnd.tiddlywiki
 
 Vel Kathur flows south from the hills of [[North Aerenal]], past the western edge of the [[Madwood]], and into the [[Madwood Gulf]].

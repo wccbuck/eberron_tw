@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20200417001241872
-modified: 20210727192022077
+modified: 20230616181926692
 points: 31.154,22.77
 style: {"color": "#CA5700"}
 tags: Valenar town
 title: Moonshadow
+tooltip: town in Valenar, mostly Khoravar
 type: text/vnd.tiddlywiki
 
 A peaceful [[Khoravar|half-elf]] village built on the [[Old Road]],

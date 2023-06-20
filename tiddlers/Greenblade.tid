@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404235258553
-modified: 20210727192011444
+modified: 20230616183015809
 points: 37.782,-24.74
 style: {"color": "#CA5700"}
 tags: [[Eldeen Reaches]] town
 title: Greenblade
+tooltip: town in the Eldeen Reaches
 type: text/vnd.tiddlywiki
 
 Greenblade is a village in the [[Eldeen Reaches]] on the trade road between [[Sylbaran]] and [[Erlaskar]].

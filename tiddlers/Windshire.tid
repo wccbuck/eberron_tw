@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404235856101
-modified: 20210727192042701
+modified: 20230616175133220
 points: 46.357,-14.68
 style: {"color": "#CA5700"}
 tags: town Aundair
 title: Windshire
+tooltip: town in Aundair
 type: text/vnd.tiddlywiki
 
 Windshire is a town in [[Aundair]], famous for [[Windshire rainbow wine]], which changes color and flavor as one consumes a glass.

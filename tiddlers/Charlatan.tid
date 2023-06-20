@@ -1,8 +1,9 @@
 category: talent
 created: 20220720170317310
-modified: 20220720182024535
+modified: 20230620202232296
 tags: background
 title: Charlatan
+tooltip: talent which grants advantage when grifting a person or identifying their desires
 type: text/vnd.tiddlywiki
 xpcost: 1
 

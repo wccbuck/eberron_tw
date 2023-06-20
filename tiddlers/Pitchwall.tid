@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210207214736840
-modified: 20210727192025059
+modified: 20230616174824857
 points: 35.345,28.62
 style: {"color": "#CA5700"}
 tags: Q'barra town Hope
 title: Pitchwall
+tooltip: town in Q'barra
 type: text/vnd.tiddlywiki
 
 Pitchwall is a small prospecting town [[Hope]], [[Q'barra]], located near the [[Stormhorn Clanhold]].

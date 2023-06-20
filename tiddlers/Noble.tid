@@ -1,8 +1,9 @@
 category: talent
 created: 20211129224848177
-modified: 20220720163037397
+modified: 20230620202942297
 tags: background
 title: Noble
+tooltip: talent which grants an additional language, and elevated status in high society
 type: text/vnd.tiddlywiki
 xpcost: 1
 

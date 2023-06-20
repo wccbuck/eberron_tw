@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210208050703819
-modified: 20230609201816300
+modified: 20230620045654926
 points: 48.997,-4.04
 population: 18000
 style: {"color": "#8E0024"}
 tags: Thrane city
 title: Daskaran
+tooltip: city in Thrane, once the heart of pre-Galifar nation of Daskara
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

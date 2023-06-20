@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210905234540364
-modified: 20210905234619477
+modified: 20230616175458646
 points: 54.67,10.11
 style: {"color": "#CA5700"}
 tags: Karrnath town
 title: Crystal Tide
+tooltip: town in Karrnath
 type: text/vnd.tiddlywiki
 
 Crystal Tide is a town near the northern shore of [[Karrnath]].

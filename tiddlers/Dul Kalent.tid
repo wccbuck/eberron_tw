@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210129211206115
-modified: 20221215214542177
+modified: 20230620154226222
 points: 19.348,211.48
 style: {"color": "#8E0024"}
 tags: city Riedra Ghirvagura
 title: Dul Kalent
+tooltip: bastion city in Ghirvagura, Riedra, headquarters of the Industrious Forge
 type: text/vnd.tiddlywiki
 
 This massive [[bastion city]] in [[Ghirvagura]], [[Riedra]] is in the Sphere of [[Surasek]]. Lord [[Malukath]] guides the [[Industrious Forge]] from this city.

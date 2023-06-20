@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210201191717699
-modified: 20221123073830538
+modified: 20230620055126173
 points: 37.865,-11.84
 population: 4600
 style: {"color": "#CA5700"}
 tags: Breland town
 title: Cragwar
+tooltip: town and military outpost in Breland near the Blackcaps
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

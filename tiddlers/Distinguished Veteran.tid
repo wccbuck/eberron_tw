@@ -1,8 +1,9 @@
 category: talent
 created: 20211129231726689
-modified: 20220720163037374
+modified: 20230620202843969
 tags: background
 title: Distinguished Veteran
+tooltip: talent which grants elevated status among those who recognize your rank, and advantage when using knowledge of your military organization
 type: text/vnd.tiddlywiki
 xpcost: 1
 

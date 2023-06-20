@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404234832297
-modified: 20210727192021282
+modified: 20230616183022523
 points: 51.849,-17.49
 style: {"color": "#CA5700"}
 tags: [[Eldeen Reaches]] town
 title: Merylsward
+tooltip: town in the Eldeen Reaches
 type: text/vnd.tiddlywiki
 
 Merylsward is a town in the [[Eldeen Reaches]] near [[Eldeen Bay]].

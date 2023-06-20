@@ -1,1 +1,16 @@
-{"created": "20210204053407976", "title": "Stone Cage Mountains", "text": "The Stone Cage Mountains in the western reaches of the [[Demon Wastes]] are named for their peculiar shape; the peaks are thin and narrow, and resemble worked iron.", "modified": "20210727192034452", "tags": "mountains [[Demon Wastes]] Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "44.815,-47.32 45.065,-46.97 45.397,-46.63 45.646,-46.17 45.886,-46.0 46.071,-45.64 46.209,-45.27 46.403,-45.01 46.532,-44.57 46.698,-44.29 46.828,-43.91 46.855,-43.53 46.689,-43.33 46.357,-43.16 46.145,-42.92 45.978,-42.63 45.803,-42.25 45.683,-42.21 45.628,-42.49 45.591,-42.93 45.517,-43.06 45.508,-43.36 45.646,-43.68 45.498,-43.89 45.425,-44.15 45.295,-44.45 45.185,-44.8 45.028,-45.15 44.788,-45.4 44.631,-45.72 44.594,-46.08 44.677,-46.22 44.806,-46.47 44.769,-46.71 44.677,-46.97 44.603,-47.28 44.658,-47.42", "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}"}
+[
+    {
+        "created": "20210204053407976",
+        "text": "The Stone Cage Mountains in the western reaches of the [[Demon Wastes]] are named for their peculiar shape; the peaks are thin and narrow, and resemble worked iron.",
+        "title": "Stone Cage Mountains",
+        "modified": "20230620170340751",
+        "tags": "mountains [[Demon Wastes]] Khorvaire",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polygons": "44.815,-47.32 45.065,-46.97 45.397,-46.63 45.646,-46.17 45.886,-46.0 46.071,-45.64 46.209,-45.27 46.403,-45.01 46.532,-44.57 46.698,-44.29 46.828,-43.91 46.855,-43.53 46.689,-43.33 46.357,-43.16 46.145,-42.92 45.978,-42.63 45.803,-42.25 45.683,-42.21 45.628,-42.49 45.591,-42.93 45.517,-43.06 45.508,-43.36 45.646,-43.68 45.498,-43.89 45.425,-44.15 45.295,-44.45 45.185,-44.8 45.028,-45.15 44.788,-45.4 44.631,-45.72 44.594,-46.08 44.677,-46.22 44.806,-46.47 44.769,-46.71 44.677,-46.97 44.603,-47.28 44.658,-47.42",
+        "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}",
+        "tooltip": "mountain range in the Demon Wastes"
+    }
+]

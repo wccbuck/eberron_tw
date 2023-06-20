@@ -1,10 +1,11 @@
 category: location
 color: #4C8201
 created: 20210127194154160
-modified: 20220329221339218
+modified: 20230620044746565
 population: 27960
 tags: city Adar
 title: Zi'til'natek
+tooltip: ancient city-hive of dromites, located under Malshashar in Adar
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

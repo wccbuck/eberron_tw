@@ -1,15 +1,16 @@
 [
     {
         "created": "20210121215026578",
-        "title": "Qitha River",
         "text": "The Qitha River in [[Syrkarn]] flows from the [[Tese Hills]] into the [[Jahara Sound]]. It forms part of the border between the provinces of [[Khunan]] and [[Lamecha]].",
-        "modified": "20221206174018612",
-        "tags": "Syrkarn river Sarlona",
+        "title": "Qitha River",
+        "modified": "20230620164327874",
+        "tags": "Syrkarn river Sarlona Khunan Lamecha",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "location",
         "color": "#3B5C0A",
         "polylines": "7.302,178.76 7.209,179.32 7.385,179.7 7.311,180.14 7.468,180.61 7.477,180.99 7.625,181.37 7.338,181.84 7.108,182.47 6.831,183.07 6.415,183.8 5.862,184.36",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
+        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}",
+        "tooltip": "river in Syrkarn that forms part of the border between Khunan and Lamecha"
     }
 ]

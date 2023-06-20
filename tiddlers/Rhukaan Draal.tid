@@ -1,20 +1,18 @@
 category: location
 color: #4C8201
 created: 20200415192154640
-modified: 20230528175335898
+modified: 20230620054130543
 points: 27.092,0.12
 population: 120000
 style: {"color": "#8E0024"}
 tags: city Darguun
 title: Rhukaan Draal
+tooltip: capital of Darguun
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>
 
-The largest city in [[Darguun]] serves as the seat of Lhesh
-[[Haruuc Shaarat'kor]]. As the hub for trade, travel, and
-diplomacy, it also a provides a haven for fugitives and
-smugglers.
+The largest city in [[Darguun]] serves as the seat of Lhesh [[Haruuc Shaarat'kor]]. As the hub for trade, travel, and diplomacy, it also provides a haven for fugitives and smugglers.
 
 The heart of Rhukaan Draal was once a frontier [[Cyran|Cyre]] market town; over the
 last two decades, it has grown into a sprawling [[goblinoid]]

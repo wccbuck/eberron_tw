@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210207030017902
-modified: 20210727192015224
+modified: 20230616175512631
 points: 50.972,22.36
 style: {"color": "#CA5700"}
 tags: Karrnath town
 title: Irontown
+tooltip: town in Karrnath
 type: text/vnd.tiddlywiki
 
 Irontown is a mining town in [[Karrnath]], located near the shores of [[Lake Dark]].

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20220329222237103
-modified: 20220329222246550
+modified: 20230616174515332
 points: -0.36,193.24
 style: {"color": "#CA5700"}
 tags: town Adar
 title: Honsaa
+tooltip: town in Adar
 type: text/vnd.tiddlywiki
 
 {{!!title}} is a town in [[Adar]].

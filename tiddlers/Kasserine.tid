@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210325184237081
-modified: 20210727192016239
+modified: 20230616174627390
 points: 29.612,19.7
 style: {"color": "#CA5700"}
 tags: town Valenar
 title: Kasserine
+tooltip: town in Valenar
 type: text/vnd.tiddlywiki
 
 Kasserine is a remote village in [[Valenar]].

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210221052146346
-modified: 20210727192026374
+modified: 20230616180949720
 points: 3.305,20.37
 style: {"color": "#CA5700"}
 tags: town Aerenal
 title: Pylas Zirinth
+tooltip: town in Aerenal, seat of Tolaen line, center of Aerenal's exotic lumber industry
 type: text/vnd.tiddlywiki
 
 The port town of Pylas Zirinth, located in the [[Jungle of Daggers|Dajar Orioth]] on [[Aerenal]], is the seat of the [[Aereni noble line]] of [[Tolaen]]. The town is dominated by the exotic lumber industry of Aerenal.

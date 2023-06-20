@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Trelib d'Medani",
         "tags": "half-elf Medani humanoid Wroat",
-        "modified": "20230416002954110",
+        "modified": "20230620205259003",
         "color": "#FEA627",
         "category": "person",
-        "article": "Baron "
+        "article": "Baron ",
+        "tooltip": "head of House Medani"
     }
 ]

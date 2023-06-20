@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210206231649660
-modified: 20210820072142013
+modified: 20230616191937730
 points: 55.089,22.06
 population: 97500
 style: {"color": "#8E0024"}
 tags: city [[Mror Holds]] enclave Kundarak
 title: Korunda Gate
+tooltip: city in the Mror Holds, seat of House Kundarak
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210205190706978
-modified: 20210727192025015
+modified: 20230616175059964
 points: 60.757,46.88
 style: {"color": "#CA5700"}
 tags: [[Lhazaar Principalities]] town Orgalos
 title: Piritar
+tooltip: town in the Lhazaar Principalities
 type: text/vnd.tiddlywiki
 
 This small port town in [[Orgalos]] receives much trade with the nation of [[Riedra]] across the [[Lhazaar Sea]].

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20220329221933190
-modified: 20220329221942273
+modified: 20230616174519952
 points: 9.0,199.97
 style: {"color": "#CA5700"}
 tags: town Adar
 title: Migraam
+tooltip: town in Adar
 type: text/vnd.tiddlywiki
 
 {{!!title}} is a town in [[Adar]].

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20220826055118054
-modified: 20220826055143342
+modified: 20230616174602871
 points: 32.11,-29.9
 style: {"color": "#CA5700"}
 tags: town Droaam
 title: Sar'uul
+tooltip: town in Droaam
 type: text/vnd.tiddlywiki
 
 Sar'uul is a town in [[Droaam]].

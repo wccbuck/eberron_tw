@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210405001009822
-modified: 20210727191956306
+modified: 20230616174620004
 points: 44.658,-5.4
 style: {"color": "#CA5700"}
 tags: town Thrane
 title: Athandra
+tooltip: town in Thrane
 type: text/vnd.tiddlywiki
 
 Athandra is a large town in [[Thrane]].

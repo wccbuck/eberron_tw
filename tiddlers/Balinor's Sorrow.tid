@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20210208011902656
-modified: 20210727191956882
+modified: 20230620171037680
 polygons: 28.486,-45.88 28.311,-45.77 28.145,-45.54 28.135,-45.35 27.96,-45.09 27.618,-45.06 27.268,-45.02 26.834,-44.79 26.769,-44.53 26.769,-44.14 27.111,-43.75 27.415,-43.52 27.858,-43.21 28.089,-43.03 28.505,-42.85 28.892,-42.81 29.308,-42.69 29.603,-42.43 29.982,-42.17 30.305,-42.07 30.702,-42.01 31.025,-42.07 31.283,-42.3 31.375,-42.54 31.523,-42.73 31.56,-43.04 31.468,-43.49 31.237,-44.04 31.228,-44.41 31.283,-44.75 31.329,-45.0 31.2,-45.29 30.997,-45.42 30.683,-45.5 30.415,-45.45 30.018,-45.41 29.686,-45.5 29.271,-45.68 28.966,-45.77 28.745,-45.86
 style: {"color":"#333C1A","fillColor":"#66883F","fillOpacity":"0.8"}
 tags: [[Shadow Marches]] forest Khorvaire
 title: Balinor's Sorrow
+tooltip: forest in the southern Shadow Marches
 type: text/vnd.tiddlywiki
 
 Balinor's Sorrow is a forest in the southern tip of [[Shadow Marches]], near the town of [[Urthhold]]. It is named after the [[Sovereign|Sovereign Host]] [[Balinor]].

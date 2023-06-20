@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200417021717513
-modified: 20221122174245191
+modified: 20230620211822518
 points: -49.126,-86.46
 population: 25600
 style: {"color": "#8E0024"}
 tags: city Xen'drik fortress
 title: Dar Qat
+tooltip: Riedran colony in western Xen'drik
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

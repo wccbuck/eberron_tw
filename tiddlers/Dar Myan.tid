@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210127215807893
-modified: 20230104003107470
+modified: 20230620153925131
 points: 17.188,207.6
 population: 97000
 style: {"color": "#8E0024"}
 tags: Ghirvagura city Riedra
 title: Dar Myan
+tooltip: bastion city in Ghirvagura, Riedra
 type: text/vnd.tiddlywiki
 
 ''Country:'' [[Riedra]]<br/>

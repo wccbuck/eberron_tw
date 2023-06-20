@@ -3,13 +3,14 @@
         "created": "20210210014808165",
         "text": "The Dreadwood is the forest that completely covers [[Dreadwood Isle]] in the [[Lhazaar Principalities]]. The forest lies close to [[Mabar]] and [[Dolurrh]], and strange [[ghost]]s and hungry [[shadow]]s lurk in its depths.",
         "title": "Dreadwood",
-        "modified": "20221209223303108",
-        "tags": "forest [[Dreadwood Isle]] Khorvaire",
+        "modified": "20230620171114911",
+        "tags": "[[Lhazaar Principalities]] forest [[Dreadwood Isle]] Khorvaire",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "location",
         "color": "#3B5C0A",
         "polygons": "39.96,42.89 39.951,42.6 39.803,42.38 39.508,42.3 39.212,42.19 38.871,42.04 38.575,42.02 38.252,41.97 37.948,41.9 37.662,41.94 37.495,42.08 37.422,42.43 37.246,42.65 37.218,42.9 37.283,43.22 37.431,43.5 37.708,43.89 37.902,44.23 37.846,44.44 37.975,44.72 38.243,44.99 38.511,44.87 38.797,44.88 38.982,44.63 39.138,44.54 39.452,44.37 39.554,44.17 39.535,43.81 39.6,43.56 39.849,43.22",
-        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}"
+        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}",
+        "tooltip": "forest that covers Dreadwood Isle in the Lhazaar Principalities"
     }
 ]

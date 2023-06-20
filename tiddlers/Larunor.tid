@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210405000325943
-modified: 20210727192018295
+modified: 20230616175118368
 points: 39.425,-12.35
 style: {"color": "#CA5700"}
 tags: town Aundair
 title: Larunor
+tooltip: town in Aundair
 type: text/vnd.tiddlywiki
 
 Larunor is a village in [[Aundair]], south of the [[Eldritch Groves]].

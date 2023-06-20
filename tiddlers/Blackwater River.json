@@ -4,12 +4,13 @@
         "text": "The Blackwater River in [[Khorvaire]] flows from the [[Blackwater Lake]] into [[Azure Bay]]. It forms part of the border between [[Droaam]] and the [[Shadow Marches]]. It is a slow-moving river that flows through the [[Vile Marsh]], and its water is darkly stained and acidic from tannins absorbed from decaying vegetation.\n\nA unique [[aberration]] known as [[Ughothka]] roams the region of the Blackwater.",
         "type": "text/vnd.tiddlywiki",
         "title": "Blackwater River",
-        "tags": "Khorvaire river",
-        "modified": "20221205215031445",
+        "tags": "Khorvaire river [[Shadow Marches]] Droaam",
+        "modified": "20230620163747955",
         "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}",
         "polylines": "31.643,-41.75 31.717,-41.85 31.818,-42.01 31.975,-42.13 32.197,-42.27 32.372,-42.19 32.594,-42.13 32.797,-42.06 33.046,-41.86 33.037,-41.71 33.111,-41.64 33.249,-41.7 33.415,-41.74 33.517,-41.78 33.591,-41.87 33.72,-41.89 33.886,-41.74 34.052,-41.67 34.191,-41.5 34.329,-41.5 34.422,-41.27 34.634,-41.09 34.754,-40.89 34.8,-40.69 34.948,-40.68 35.012,-40.63 35.123,-40.43",
         "color": "#3B5C0A",
         "category": "location",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "river that forms part of the border between the Shadow Marches and Droaam"
     }
 ]

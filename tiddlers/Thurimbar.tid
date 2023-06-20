@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20200417002551331
-modified: 20210727192037875
+modified: 20230616173924219
 points: 20.686,-5.94
 style: {"color": "#8E0024"}
 tags: Zilargo city
 title: Thurimbar
+tooltip: city in Zilargo, rich musical culture
 type: text/vnd.tiddlywiki
 
 This port city draws musicians and artists from across

@@ -2,12 +2,13 @@ alternatetitle: Karhashan
 category: location
 color: #4C8201
 created: 20210207063511520
-modified: 20221201005328675
+modified: 20230616191641154
 points: 41.012,32.71
 population: 45000
 style: {"color": "#8E0024"}
 tags: city Q'barra
 title: Ka'rhashan
+tooltip: city in Q'barra, largest dragonborn community in Khorvaire
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

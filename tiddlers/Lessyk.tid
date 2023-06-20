@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210405000832616
-modified: 20210727192018632
+modified: 20230616174621482
 points: 40.006,-2.69
 style: {"color": "#CA5700"}
 tags: town Thrane
 title: Lessyk
+tooltip: town in Thrane
 type: text/vnd.tiddlywiki
 
 Lessyk is a town in [[Thrane]].

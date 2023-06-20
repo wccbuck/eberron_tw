@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210128164622575
-modified: 20230104004724682
+modified: 20230620045733352
 points: 21.914,189.55
 style: {"color": "#CA5700"}
 tags: Riedra town Borunan mine
 title: Mokush
+tooltip: ogre mining town in Borunan
 type: text/vnd.tiddlywiki
 
 Mokush is a town of [[ogre]]s and [[oni]] on the

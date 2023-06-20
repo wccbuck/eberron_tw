@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210405001457446
-modified: 20210727192003320
+modified: 20230616174620772
 points: 46.763,-5.22
 style: {"color": "#CA5700"}
 tags: town Thrane
 title: Danthaven
+tooltip: town in Thrane
 type: text/vnd.tiddlywiki
 
 Danthaven is a large town in [[Thrane]].

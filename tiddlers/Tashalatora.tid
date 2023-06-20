@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210127192835940
-modified: 20220329221223604
+modified: 20230620045456483
 points: 9.05,202.34
 population: 20700
 style: {"color": "#8E0024"}
 tags: city fortress Adar
 title: Tashalatora
+tooltip: temple-keep of Adar, home to some of the mightiest warriors of Adar
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

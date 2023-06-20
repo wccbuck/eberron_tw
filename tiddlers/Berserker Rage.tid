@@ -1,8 +1,9 @@
 category: talent
 created: 20210726051058675
-modified: 20230317045622625
+modified: 20230620202405775
 tags: barbarian
 title: Berserker Rage
+tooltip: talent which lets you enter the frenzied rage of a barbarian
 type: text/vnd.tiddlywiki
 xpcost: 1
 

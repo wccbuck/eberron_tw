@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210204045122156
-modified: 20210820071633407
+modified: 20230616185029481
 points: 32.197,-33.46
 population: 3000
 style: {"color": "#CA5700"}
 tags: town Droaam
 title: Znir
+tooltip: heart of gnoll territories in Droaam, and site of the yearly renewal of the Znir Pact
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

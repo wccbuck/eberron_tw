@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210220001827603
-modified: 20221209073443783
+modified: 20230620050212448
 points: 9.655,22.01
 population: 115000
 style: {"color": "#8E0024"}
 tags: city Aerenal fortress
 title: Shae Thoridor
+tooltip: port city in North Aerenal, home to many Tairnadal "zaelantar" (peaceful souls)
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

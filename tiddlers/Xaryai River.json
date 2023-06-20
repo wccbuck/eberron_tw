@@ -5,11 +5,12 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Xaryai River",
         "tags": "Adar river Sarlona",
-        "modified": "20221206174037220",
+        "modified": "20230620055507458",
         "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}",
         "polylines": "0.843,194.327 0.747,194.292 0.611,194.303 0.51,194.186 0.385,194.216 0.277,194.324 0.147,194.344 -0.065,194.18 -0.155,194.017 -0.261,194.004 -0.448,193.782 -0.539,193.482 -0.704,193.283 -0.678,192.831 -0.684,192.314 -0.798,192.04 -0.852,191.84 -1.127,191.698 -1.315,191.451 -1.695,191.3 -1.95,191.382",
         "color": "#3B5C0A",
         "category": "location",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "river in Adar, flows through Xephanan"
     }
 ]

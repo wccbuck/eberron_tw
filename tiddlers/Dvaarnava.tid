@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210127185911223
-modified: 20220329210555497
+modified: 20230620043445877
 points: -9.49,195.79
 population: 13460
 style: {"color": "#8E0024"}
 tags: city fortress Adar
 title: Dvaarnava
+tooltip: temple-keep of Adar, Adar's only seaport
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

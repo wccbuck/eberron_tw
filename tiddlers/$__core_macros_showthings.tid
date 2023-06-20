@@ -1,11 +1,11 @@
 created: 20200223062944506
-modified: 20230519054406461
+modified: 20230620161808100
 tags: $:/tags/Macro
 title: $:/core/macros/showthings
 type: text/vnd.tiddlywiki
 
 \define showcreature-lteq(phrase cr type)
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resetcreatures>>
 <$action-setfield $tiddler="$:/config/Manager/CreatureTag" text=<<__type__>>/>
 <$vars tid="$:/config/Manager/CreatureTier">
@@ -21,7 +21,7 @@ $phrase$
 </$button>
 \end
 \define showcreature-gteq(phrase cr type)
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resetcreatures>>
 <$action-setfield $tiddler="$:/config/Manager/CreatureTag" text=<<__type__>>/>
 <$vars tid="$:/config/Manager/CreatureTier">
@@ -37,7 +37,7 @@ $phrase$
 </$button>
 \end
 \define showcreature-type()
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;" >
 <<resetcreatures>>
 <$action-setfield $tiddler="$:/config/Manager/CreatureTag" text={{!!title}}/>
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Creatures"/>
@@ -47,7 +47,7 @@ Find creatures tagged as "{{!!title}}"
 \end
 
 \define showspells(text)
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resetspells>>
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Spells"/>
 <$action-navigate $to="Find Things"/>
@@ -56,7 +56,7 @@ $text$
 \end
 
 \define showitems(text)
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resetobjects>>
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Items"/>
 <$action-navigate $to="Find Things"/>
@@ -65,7 +65,7 @@ $text$
 \end
 
 \define showtalents(text)
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resettalents>>
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Talents"/>
 <$action-navigate $to="Find Things"/>
@@ -74,7 +74,7 @@ $text$
 \end
 
 \define showspells-school(school)
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resetspells>>
 <$action-setfield $tiddler="$:/config/Manager/SpellTag" text=$school$/>
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Spells"/>
@@ -84,7 +84,7 @@ Find $school$ spells
 \end
 
 \define showitem-type()
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resetobjects>>
 <$action-setfield $tiddler="$:/config/Manager/ObjectTag" text={{!!title}}/>
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Items"/>
@@ -94,7 +94,7 @@ Find items tagged as "{{!!title}}"
 \end
 
 \define showplace-type()
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resetplaces>>
 <$action-setfield $tiddler="$:/config/Manager/LocationTag" text={{!!title}}/>
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Places"/>
@@ -104,7 +104,7 @@ Find places tagged as "{{!!title}}"
 \end
 
 \define showorg-type()
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resetorgs>>
 <$action-setfield $tiddler="$:/config/Manager/OrgTag" text={{!!title}}/>
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Organizations"/>
@@ -114,7 +114,7 @@ Find organizations tagged as "{{!!title}}"
 \end
 
 \define showpplent-type()
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resetpplents>>
 <$action-setfield $tiddler="$:/config/Manager/PplEntTag" text={{!!title}}/>
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find People/Entities"/>
@@ -124,7 +124,7 @@ Find people tagged as "{{!!title}}"
 \end
 
 \define showevent-type()
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resetmisc>>
 <$action-setfield $tiddler="$:/config/Manager/MiscCat" text="[category[event]]"/>
 <$action-setfield $tiddler="$:/config/Manager/MiscTag" text={{!!title}}/>
@@ -135,7 +135,7 @@ Find events tagged as "{{!!title}}"
 \end
 
 \define showentertainment-type()
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resetmisc>>
 <$action-setfield $tiddler="$:/config/Manager/MiscCat" text="[category[entertainment]]"/>
 <$action-setfield $tiddler="$:/config/Manager/MiscTag" text={{!!title}}/>
@@ -146,7 +146,7 @@ Find entertainment tagged as "{{!!title}}"
 \end
 
 \define showtalent-type()
-<$button class="tc-btn-invisible tc-tiddlylink">
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resetplaces>>
 <$action-setfield $tiddler="$:/config/Manager/TalentTag" text={{!!title}}/>
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Talents"/>
@@ -156,7 +156,7 @@ Find talents tagged as "{{!!title}}"
 \end
 
 \define showmisccat()
-<$button class="tc-btn-invisible subtitlelink">
+<$button class="tc-btn-invisible subtitlelink" style="text-align:left;">
 <<resetmisc>>
 <$action-setfield $tiddler="$:/config/Manager/MiscCat" text="[category[$(cat)$]]"/>
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Miscellaneous"/>
@@ -166,7 +166,7 @@ $(cat)$
 \end
 
 \define showitemcat()
-<$button class="tc-btn-invisible subtitlelink">
+<$button class="tc-btn-invisible subtitlelink" style="text-align:left;">
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Items"/>
 <$action-navigate $to="Find Things"/>
 {{!!category}}
@@ -174,7 +174,7 @@ $(cat)$
 \end
 
 \define showplacecat()
-<$button class="tc-btn-invisible subtitlelink">
+<$button class="tc-btn-invisible subtitlelink" style="text-align:left;">
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Places"/>
 <$action-navigate $to="Find Things"/>
 {{!!category}}
@@ -182,7 +182,7 @@ $(cat)$
 \end
 
 \define showspellcat()
-<$button class="tc-btn-invisible subtitlelink">
+<$button class="tc-btn-invisible subtitlelink" style="text-align:left;">
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Spells"/>
 <$action-navigate $to="Find Things"/>
 {{!!category}}
@@ -190,7 +190,7 @@ $(cat)$
 \end
 
 \define showcreaturecat()
-<$button class="tc-btn-invisible subtitlelink">
+<$button class="tc-btn-invisible subtitlelink" style="text-align:left;">
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Creatures"/>
 <$action-navigate $to="Find Things"/>
 {{!!category}}
@@ -198,7 +198,7 @@ $(cat)$
 \end
 
 \define showpplentcat()
-<$button class="tc-btn-invisible subtitlelink">
+<$button class="tc-btn-invisible subtitlelink" style="text-align:left;">
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find People/Entities"/>
 <$action-navigate $to="Find Things"/>
 {{!!category}}
@@ -206,7 +206,7 @@ $(cat)$
 \end
 
 \define showorgcat()
-<$button class="tc-btn-invisible subtitlelink">
+<$button class="tc-btn-invisible subtitlelink" style="text-align:left;">
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Organizations"/>
 <$action-navigate $to="Find Things"/>
 {{!!category}}
@@ -214,7 +214,7 @@ $(cat)$
 \end
 
 \define showtalentcat()
-<$button class="tc-btn-invisible subtitlelink">
+<$button class="tc-btn-invisible subtitlelink" style="text-align:left;">
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Talents"/>
 <$action-navigate $to="Find Things"/>
 {{!!category}}

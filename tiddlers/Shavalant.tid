@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210322031145799
-modified: 20221122070905891
+modified: 20230616185613246
 points: 35.538,-24.43
-population: 4100
+population: 2460
 style: {"color": "#CA5700"}
 tags: Breland town
 title: Shavalant
+tooltip: town in Breland, effectively ruled by House Vadalis
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404225629383
-modified: 20220121180516183
+modified: 20230616174726811
 points: 26.178,-7.25
 style: {"color": "#CA5700"}
 tags: Zilargo town
 title: Dragonroost
+tooltip: town in Zilargo
 type: text/vnd.tiddlywiki
 
 Dragonroost is a town in [[Zilargo]]. It is home to a large number of refugees from [[Cyre]], who settled here after the events of the [[Mourning]].

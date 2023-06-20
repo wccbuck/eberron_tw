@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20221208182703086
-modified: 20221208183410980
+modified: 20230620053743577
 points: 35.53,-38.89
 style: {"color": "#CA5700"}
 tags: town Droaam
 title: Holondon Holt
+tooltip: town of harengons in Droaam
 type: text/vnd.tiddlywiki
 
 The sprawling burrow-hall known as Holondon Holt lies

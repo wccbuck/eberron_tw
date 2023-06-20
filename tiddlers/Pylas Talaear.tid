@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200417003906806
-modified: 20210906083902927
+modified: 20230620045931976
 points: 0.166,19.84
 population: 50000
 style: {"color": "#8E0024"}
 tags: city Aerenal
 title: Pylas Talaear
+tooltip: port city in Aerenal, primary point of contact with the outside world
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

@@ -2,12 +2,13 @@ alternatetitle: the Stonelands
 category: location
 color: #4C8201
 created: 20200415204623774
-modified: 20230611045206031
+modified: 20230620053719604
 points: 39.471,-35.47
 population: 16500
 style: {"color": "#8E0024"}
 tags: city Droaam ruin
 title: Cazhaak Draal
+tooltip: city of medusas in Droaam, seat of the Queen of Stone
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

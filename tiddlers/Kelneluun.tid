@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20210121234318587
-modified: 20210727192016594
+modified: 20230620161009129
 polygons: 39.591,149.85 39.397,150.2 39.323,150.72 39.037,151.09 39.083,152.11 39.305,152.29 39.36,152.61 39.203,153.06 39.36,153.69 39.397,154.35 39.0,155.04 39.065,155.52 39.185,155.95 39.683,155.95 39.868,156.12 40.265,156.5 40.763,156.82 40.966,156.75 41.271,156.87 41.465,156.7 41.548,155.98 41.585,155.58 41.778,155.4 41.991,155.14 42.212,155.24 42.425,154.88 42.609,154.34 42.886,153.84 42.969,153.24 43.089,152.63 42.969,152.09 42.554,151.65 42.083,151.01 41.686,150.63 41.188,150.45 40.846,150.06 40.809,149.7 40.643,149.35 40.255,149.21 39.591,149.85
 style: {"color":"#294975","fillColor":"#abcaf5","fillOpacity":"1"}
 tags: lake Riedra Sarlona
 title: Kelneluun
+tooltip: large lake in Riedra
 type: text/vnd.tiddlywiki
 
 Kelneluun is a large inland sea in central [[Sarlona]], located in the [[Riedra]]n province of [[Dor Maleer]] amidst the [[Frostwall Mountains]] and [[Paqaa Mountains]].

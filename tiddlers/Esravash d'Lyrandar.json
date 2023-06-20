@@ -1,13 +1,14 @@
 [
     {
         "created": "20210212054920374",
-        "title": "Esravash d'Lyrandar",
         "text": "Within the house, the title given the head of House [[Lyrandar]] is\n“Firstborn.” Because she is the youngest leader of a [[dragonmarked house]], Lyrandar elders sometimes call Esravash “Just-born” behind her back. But what an elder sees as impetuous, a teenage Lyrandar sailor calls bold. Esravash is adored by the rank-and-file members of the [[Windwrights Guild]] in particular.\n\nEsravash’s immediate goal is to expand elemental [[airship]] service as much as possible, building docking towers in more cities and paying House [[Cannith]] and the [[gnome]]s of [[Zilargo]] for more elemental airships. To finance these plans, Esravash scrutinizes the house’s bottom line, and she doesn’t tolerate shipping losses.\n\nEsravash plans to stop losses to the pirates of the [[Lhazaar Principalities]]. [[Elemental galleon|elemental galleon]]s are now fitted with catapults, and House [[Lyrandar]]’s spies are busy following the rumors of experimental, magic naval weapons said to have been developed by [[Aundair]] and [[Karrnath]] near the end of the [[Last War]].",
-        "modified": "20210727192007391",
+        "title": "Esravash d'Lyrandar",
+        "modified": "20230620205738521",
         "tags": "Lyrandar half-elf humanoid Stormhome",
         "type": "text/vnd.tiddlywiki",
         "article": "Baron ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "head of House Lyrandar"
     }
 ]

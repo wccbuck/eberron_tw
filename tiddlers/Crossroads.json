@@ -5,12 +5,13 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Crossroads",
         "tags": "[[Eldeen Reaches]] town",
-        "modified": "20220503184412590",
+        "modified": "20230616183330576",
         "style": "{\"color\": \"#CA5700\"}",
         "points": "45.77,-23.69",
         "color": "#4C8201",
         "category": "location",
         "article": "the ",
-        "alternatetitle": "Stumptown"
+        "alternatetitle": "Stumptown",
+        "tooltip": "large town in the Eldeen Reaches, central marketplace for many nomadic communities"
     }
 ]

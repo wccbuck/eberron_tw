@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Calynden d'Lyrandar",
         "tags": "Lyrandar humanoid half-elf [[Falconer's Spire]]",
-        "modified": "20220224220506834",
+        "modified": "20230620211205252",
         "color": "#FEA627",
         "category": "person",
-        "article": "Viceroy "
+        "article": "Viceroy ",
+        "tooltip": "\"the Kraken,\" leader of the Lyrandar enclave in Stormreach"
     }
 ]

@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210127191131026
-modified: 20220329220801247
+modified: 20230620044707742
 points: 12.7,199.57
 population: 13000
 style: {"color": "#8E0024"}
 tags: city fortress Adar
 title: Malshashar
+tooltip: temple-keep of Adar on the border with Riedra, harsh environment
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

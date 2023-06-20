@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20220329221956654
-modified: 20220329222002912
+modified: 20230616174521426
 points: 10.63,200.26
 style: {"color": "#CA5700"}
 tags: town Adar
 title: Pyqat
+tooltip: town in Adar
 type: text/vnd.tiddlywiki
 
 {{!!title}} is a town in [[Adar]].

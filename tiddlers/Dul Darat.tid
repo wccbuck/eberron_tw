@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210129213007835
-modified: 20221215214522807
+modified: 20230620154138723
 points: 25.126,207.36
 style: {"color": "#8E0024"}
 tags: city Riedra Pyrine
 title: Dul Darat
+tooltip: bastion city in Pyrine, Riedra
 type: text/vnd.tiddlywiki
 
 Dul Darat is a [[bastion city]] in [[Pyrine]], [[Riedra]].

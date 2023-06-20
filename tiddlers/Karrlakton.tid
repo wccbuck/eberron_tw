@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200416204648640
-modified: 20230612034427477
+modified: 20230616191357271
 points: 46.08,8.01
 population: 300000
 style: {"color": "#8E0024"}
 tags: city Karrnath
 title: Karrlakton
+tooltip: second largest city in Karrnath, seat of House Deneith
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

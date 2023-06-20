@@ -1,13 +1,14 @@
 category: location
 color: #4C8201
 created: 20210405000249839
-modified: 20220705191217161
+modified: 20230620204918766
 points: 42.803,-11.33
 style: {"color": "#CA5700"}
 tags: town Aundair
 title: Ghalt
+tooltip: town in Aundair, formerly part of Thrane
 type: text/vnd.tiddlywiki
 
-Ghalt is a large town in [[Aundair]]. For centuries, the town was technically part of [[Thrane]], lying on the border between the two nations. {{!!title}} blended the customs of both nations and had inhabitants from both sides. However, during the [[Last War]], [[Aundair]] pushed back this border and maintained it with a series of fortresses, including [[Wrogar Keep]], [[Tower Valiant]], and [[Tower Vigilant]]. Today, the people of {{!!title}} are largely happy to be Aundairian, but there is a small minority who consider themselves Thranes and despise the Aundarian tyrants.
+Ghalt is a large town in [[Aundair]]. For centuries, the town was technically part of [[Thrane]], lying on the border between the two nations. {{!!title}} blended the customs of both nations and had inhabitants from both sides. However, during the [[Last War]], [[Aundair]] pushed back this border and maintained it with a series of fortresses, including [[Wrogar Keep]], [[Tower Valiant]], and [[Tower Vigilant]]. Today, the people of {{!!title}} are largely happy to be Aundairian, but there is a small minority who consider themselves Thranes and despise the Aundairian tyrants.
 
 In recent years, the organization known as [[Daask]] has spread its roots to this town.

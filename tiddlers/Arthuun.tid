@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404224915951
-modified: 20210727191956031
+modified: 20230616175332698
 points: 22.948,2.06
 style: {"color": "#CA5700"}
 tags: Darguun town
 title: Arthuun
+tooltip: town in Darguun
 type: text/vnd.tiddlywiki
 
 Arthuun is a small town on the [[Torlaac River]] in [[Darguun]].

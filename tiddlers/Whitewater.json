@@ -1,1 +1,16 @@
-{"created": "20210121232658118", "title": "Whitewater", "text": "The Whitewater in [[Syrkarn]] sits at the corner of the provinces of [[Mae-Kree]], [[Sunyagir]], and [[Khunan]], where the [[Xofre|Xofre River]] and [[Kushtuar|Kushtuar River]] rivers meet. This crystal-clear lake is believed to\nmark a [[manifest zone]] linked to [[Lamannia]]. The rocky land surrounding the area remains wet and cool year-round, even as the sands that give the lake its name burn\nwhite beneath the equatorial sun. ", "modified": "20210727192042452", "tags": "Syrkarn lake Sarlona", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "19.154,173.68 18.877,173.83 18.766,174.09 18.637,174.34 18.305,174.44 17.963,174.65 17.945,174.84 17.76,175.13 18.129,175.07 18.406,175.15 18.646,175.01 18.942,174.74 19.098,174.78 19.292,175.01 19.505,175.02 19.726,174.94 19.929,175.15 20.04,174.9 19.957,174.47 19.625,174.1 19.652,173.77 19.449,173.4 19.154,173.68", "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"}
+[
+    {
+        "created": "20210121232658118",
+        "text": "The Whitewater in [[Syrkarn]] sits at the corner of the provinces of [[Mae-Kree]], [[Sunyagir]], and [[Khunan]], where the [[Xofre|Xofre River]] and [[Kushtuar|Kushtuar River]] rivers meet. This crystal-clear lake is believed to\nmark a [[manifest zone]] linked to [[Lamannia]]. The rocky land surrounding the area remains wet and cool year-round, even as the sands that give the lake its name burn\nwhite beneath the sun. ",
+        "title": "Whitewater",
+        "modified": "20230620165409777",
+        "tags": "Sunyagir Mae-Kree Syrkarn lake Sarlona Khunan",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polygons": "19.154,173.68 18.877,173.83 18.766,174.09 18.637,174.34 18.305,174.44 17.963,174.65 17.945,174.84 17.76,175.13 18.129,175.07 18.406,175.15 18.646,175.01 18.942,174.74 19.098,174.78 19.292,175.01 19.505,175.02 19.726,174.94 19.929,175.15 20.04,174.9 19.957,174.47 19.625,174.1 19.652,173.77 19.449,173.4 19.154,173.68",
+        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}",
+        "tooltip": "lake in Syrkarn that lies between Mae-Kree, Sunyagir, and Khunan"
+    }
+]

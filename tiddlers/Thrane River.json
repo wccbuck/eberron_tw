@@ -3,13 +3,14 @@
         "created": "20210118042153568",
         "text": "The Thrane River in [[Khorvaire]] flows past the [[Thrane]] city of [[Sigilstar]] into [[Scions Sound]].",
         "title": "Thrane River",
-        "modified": "20220826053928467",
+        "modified": "20230620055625773",
         "tags": "river Thrane Khorvaire",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "location",
         "color": "#3B5C0A",
         "polylines": "41.105,-3.93 41.252,-3.85 41.372,-3.79 41.575,-3.81 41.751,-3.78 41.917,-3.56 42.018,-3.28 42.092,-3.16 42.24,-3.09 42.286,-2.91 42.378,-2.69 42.48,-2.58 42.637,-2.59 42.738,-2.56 42.914,-2.4 43.089,-2.24 43.357,-2.04 43.532,-1.99 43.782,-1.94 43.874,-1.93",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
+        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}",
+        "tooltip": "river in Thrane, flows through Sigilstar"
     }
 ]

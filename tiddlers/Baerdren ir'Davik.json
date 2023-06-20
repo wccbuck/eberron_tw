@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Baerdren ir'Davik",
         "tags": "templar [[Silver Flame]] human humanoid Flamekeep paladin",
-        "modified": "20220107040804859",
+        "modified": "20230620211417689",
         "color": "#FEA627",
         "category": "person",
-        "article": "High Cardinal "
+        "article": "High Cardinal ",
+        "tooltip": "Grand Master templar of the Silver Flame who represents the templars in Thrane's Council of Cardinals"
     }
 ]

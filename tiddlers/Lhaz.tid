@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20230503183931368
-modified: 20230503184003621
+modified: 20230616175533764
 points: 51.1,21.36
 style: {"color": "#CA5700"}
 tags: Karrnath town
 title: Lhaz
+tooltip: town in Karrnath
 type: text/vnd.tiddlywiki
 
 Lhaz is a village in [[Karrnath]], located on the southern shores of [[Lake Dark]].

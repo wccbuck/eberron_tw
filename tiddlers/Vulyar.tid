@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210207024235225
-modified: 20221121023239794
+modified: 20230616181104928
 points: 45.886,15.55
 style: {"color": "#CA5700"}
 tags: Karrnath town
 title: Vulyar
+tooltip: town in Karrnath
 type: text/vnd.tiddlywiki
 
 ''Ruler:'' Countess [[Xeria ir'Borutau]]

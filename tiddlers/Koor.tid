@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20220329221618742
-modified: 20220329221637659
+modified: 20230616174517020
 points: 10.9,192.93
 style: {"color": "#CA5700"}
 tags: town Adar
 title: Koor
+tooltip: town in Adar
 type: text/vnd.tiddlywiki
 
 Koor is a town in [[Adar]].

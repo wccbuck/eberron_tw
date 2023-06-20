@@ -1,13 +1,14 @@
 [
     {
         "created": "20210212003956186",
-        "title": "Yoren d'Ghallanda",
         "text": "Yoren d'Ghallanda is the baron of House [[Ghallanda]]. He has delegated\nresponsibility for the [[Hostelers|Hostelers Guild]] and [[Dragontail|Dragontail Guild]] guilds\nto regional councils of viceroys, and he spends much\nof his time on diplomatic missions to ensure the\ncontinued independence of the Ghallanda [[enclave]]s.\nAn elderly [[halfling]], Yoren is increasingly interested\nin the [[Draconic Prophecy]] and has given one of his\ntrusted heirs, [[Chervina|Chervina d'Ghallanda]], free rein to establish new\nenclaves in accordance with the Prophecy.",
-        "modified": "20210727192043412",
+        "title": "Yoren d'Ghallanda",
+        "modified": "20230620205402278",
         "tags": "halfling Ghallanda humanoid Gatherhold",
         "type": "text/vnd.tiddlywiki",
         "article": "Baron ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "head of House Ghallanda"
     }
 ]

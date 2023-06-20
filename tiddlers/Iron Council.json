@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Iron Council",
         "tags": "[[Mror Holds]] government",
-        "modified": "20220302183550281",
+        "modified": "20230620211558618",
         "color": "#9EC5FE",
         "category": "organization",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "ruling council of the Mror Holds"
     }
 ]

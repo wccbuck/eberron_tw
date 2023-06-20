@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210202031258749
-modified: 20221125211511114
+modified: 20230620050302650
 points: 46.911,-21.24
 style: {"color": "#CA5700"}
 tags: [[Eldeen Reaches]] town
 title: Wolf's Paw
+tooltip: shifter farming community in the Eldeen Reaches
 type: text/vnd.tiddlywiki
 
 The farming community of Wolf’s Paw, located in the northeastern farmland of the [[Eldeen Reaches]], is one of the relatively few permanent

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404225851372
-modified: 20210727192019045
+modified: 20230616174731483
 points: 21.24,-11.93
 style: {"color": "#CA5700"}
 tags: Zilargo town
 title: Liugwen
+tooltip: town in Zilargo
 type: text/vnd.tiddlywiki
 
 Liugwen is a village in [[Zilargo]], near the capital of [[Trolanport]].

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404225739107
-modified: 20210727192026703
+modified: 20230616174735559
 points: 23.372,-10.27
 style: {"color": "#CA5700"}
 tags: Zilargo town
 title: Quesk
+tooltip: town in Zilargo
 type: text/vnd.tiddlywiki
 
 Quesk is a town in [[Zilargo]] at the crossroads of two major [[Orien trade roads]].

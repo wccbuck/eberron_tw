@@ -3,13 +3,14 @@
         "created": "20210203221138403",
         "text": "The Iceflow River in [[Karrnath]] flows from the [[Icetop Mountains]] into the [[Karrn Bay]]. It is also fed by the [[Dark River]].",
         "title": "Iceflow River",
-        "modified": "20230503184438376",
+        "modified": "20230620060247020",
         "tags": "Karrnath river Khorvaire",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "location",
         "color": "#3B5C0A",
         "polylines": "52.828,19.15 52.818,18.85 52.791,18.64 52.717,18.36 52.634,18.23 52.532,18.09 52.477,17.98 52.486,17.86 52.458,17.74 52.394,17.6 52.32,17.46 52.255,17.28 52.182,17.1 52.135,16.9 52.154,16.73 52.191,16.4 52.2,16.11 52.209,15.82 52.283,15.6 52.385,15.41 52.44,15.24 52.449,15.06 52.431,14.87 52.403,14.65 52.394,14.44 52.449,14.39 52.542,14.34 52.671,14.42 52.782,14.54 52.92,14.61 53.068,14.7 53.215,14.74 53.252,14.69 53.317,14.51 53.363,14.38 53.474,14.21 53.557,14.09 53.714,14.1 53.769,14.1",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
+        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}",
+        "tooltip": "river in Karrnath"
     }
 ]

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20230503185839422
-modified: 20230503185918952
+modified: 20230616175547475
 points: 51.37,1.46
 style: {"color": "#CA5700"}
 tags: Karrnath town
 title: Trag
+tooltip: town in Karrnath
 type: text/vnd.tiddlywiki
 
 Trag is a small town in [[Karrnath]], located on the edges of the western [[Karrnwood]].

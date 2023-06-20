@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20230619160720223",
+        "text": "The Dagger Span is a massive and heavily-traveled bridge which connects the two banks of the [[Dagger River]] near the city of [[Galethspyre]], [[Breland]]. At thirty miles long, it is the longest bridge in [[Khorvaire]] and the only bridge over the Greater Dagger. The Span is an astounding work of engineering, and its foundations were built thousands of years ago by the [[Kech Draal]] during the Empire of [[Dhakaan]]. Other Dhakaani bridges once spanned the Dagger River, but have since collapsed into ruin; the most recent collapse occurred 1,500 years ago at the hand of [[Halas Tarkanan]].\n\nThe engineers of the [[Five Nations]] don't fully understand the materials or techniques used by the [[Dhakaan]]i to construct the bridge, but they have built upon the existing structure of the Dagger Span, enhancing it as an [[Orien trade road|Orien trade roads]] and attaching a [[lightning rail]] line.\n\nA small toll town sits on either side of the bridge. ",
+        "title": "Dagger Span",
+        "modified": "20230619191134190",
+        "tags": "Khorvaire road Breland",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polylines": "27.116,-22.56 26.656,-21.898",
+        "style": "{\"color\":\"#8E0024\",\"opacity\":0.8}",
+        "tooltip": "largest bridge in Khorvaire, crosses the Dagger River in Breland"
+    }
+]

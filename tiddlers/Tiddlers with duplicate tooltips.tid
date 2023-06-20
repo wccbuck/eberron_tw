@@ -1,12 +1,12 @@
 created: 20210205201850231
-modified: 20220811210821150
+modified: 20230620205150135
 tags: 
 title: Tiddlers with duplicate tooltips
 type: text/vnd.tiddlywiki
 
 !! Tooltips
 
-<$list filter="[has[tooltip]!tag[Sharn]]" variable="tid1">
+<$list filter="[has[tooltip]!tag[Sharn]!search:tooltip:literal[town in]!search:tooltip:literal[city in]!search:tooltip:literal[river in]!search:tooltip:literal[forest in]!search:tooltip:literal[mountain range in]!search:tooltip:literal[lake in]]" variable="tid1">
 <$list filter="[<tid1>get[tooltip]]" variable="tt">
 <$list filter="[!<tid1>tooltip<tt>]">
 <$link/><br/>

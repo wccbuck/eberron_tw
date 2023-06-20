@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210329235449879
-modified: 20220408055138159
+modified: 20230616181036139
 points: 58.422,25.91
 style: {"color": "#CA5700"}
 tags: [[Mror Holds]] Doldarun fortress town
 title: Silverblade Keep
+tooltip: capital of clan Doldarun in the Mror Holds
 type: text/vnd.tiddlywiki
 
 Silverblade Keep is the capital of the [[Doldarun]] [[clan|Mror clan]] of the [[Mror Holds]]. The clan maintains a garrisoned colony below the keep, and is building strength for a new offensive in the [[Realm Below]].

@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20210221220437040
-modified: 20210727192040706
+modified: 20230620055654081
 polylines: 1.071,17.19 1.043,17.39 0.978,17.58 0.886,17.65 0.794,17.8 0.729,17.99 0.582,18.14 0.434,18.14 0.342,18.25 0.222,18.48 0.157,18.71 0.018,18.89 -0.157,19.05 -0.332,19.26 -0.48,19.57 -0.554,19.87
 style: {"color":"#294975","fillColor":"#abcaf5","fillOpacity":"1"}
 tags: Aerenal river
 title: Vel Dajar
+tooltip: river in Aerenal
 type: text/vnd.tiddlywiki
 
 Vel Dajar, a river in [[Aerenal]], flows from the [[Jungle of Daggers|Dajar Orioth]] into the [[Gates of Sorrow]].

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210207025840852
-modified: 20210727192032365
+modified: 20230616183036137
 points: 59.908,30.27
 style: {"color": "#CA5700"}
 tags: [[Lhazaar Principalities]] town
 title: Skairn
+tooltip: town in the Lhazaar Principalities
 type: text/vnd.tiddlywiki
 
 Skairn is a small, rugged town in the mainland [[Lhazaar Principalities]]. Small communities of tundra [[halfling]]s dwell in the region around Skairn, where they ride a polar-adapted [[fastieth]] covered in white downy feathers.

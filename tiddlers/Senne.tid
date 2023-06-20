@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20230503184654926
-modified: 20230503185837188
+modified: 20230616175538167
 points: 50.71,2
 style: {"color": "#CA5700"}
 tags: Karrnath town
 title: Senne
+tooltip: town in Karrnath
 type: text/vnd.tiddlywiki
 
 Senne is a small town in [[Karrnath]], located north of the [[Rekkenwood]].

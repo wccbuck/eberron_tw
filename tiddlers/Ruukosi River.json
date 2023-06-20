@@ -5,11 +5,12 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Ruukosi River",
         "tags": "river Adar Sarlona",
-        "modified": "20221206174033680",
+        "modified": "20230620055437004",
         "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}",
         "polylines": "1.956,190.681 2.02,190.554 2.076,190.293 2.262,190.094 2.325,189.875 2.521,189.613 2.517,189.263 2.407,188.982 2.383,188.598 2.333,188.313 2.516,188.024 2.674,187.847 2.589,187.757 2.161,187.67 1.964,187.468 1.9,187.186 1.89,187.1",
         "color": "#3B5C0A",
         "category": "location",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "river in Adar"
     }
 ]

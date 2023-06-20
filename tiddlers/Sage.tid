@@ -1,8 +1,9 @@
 category: talent
 created: 20220720142424485
-modified: 20220720163037400
+modified: 20230620203036927
 tags: background
 title: Sage
+tooltip: talent which grants an additional language, as well as advantage when using your specific area of scholarly expertise
 type: text/vnd.tiddlywiki
 xpcost: 1
 

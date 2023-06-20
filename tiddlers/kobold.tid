@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200423033429015
-modified: 20230104001700175
+modified: 20230620195115950
 tags: dragon humanoid
 tier: 1
 title: kobold
@@ -11,10 +11,17 @@ var: uncommon
 
 Kobolds are tribal reptilian [[humanoid]]s about the same size as [[goblin]]s. They historically worshiped [[dragon]]s and dwelled in subterranean tunnels, making complex traps to protect their lairs.
 
+<<<
+Take note that most of the broad statements made about kobolds on this page, particularly the belief in a direct connection to the [[Progenitor Dragons]], apply primarily to the kobolds of the [[Seawall Mountains]], which are the group most thoroughly studied by sages of the [[Five Nations]].
+<<<
+
 !! Links to Headers
 * <<scrollToHeader "Overview">>
 * <<scrollToHeader "Lands and Settlements">>
 ** <<scrollToHeader "Kobolds in Droaam">>
+** <<scrollToHeader "Kobolds in Zilargo">>
+** <<scrollToHeader "Kobolds in Q'barra">>
+** <<scrollToHeader "Kobolds in Stormreach">>
 * <<scrollToHeader "Power Groups">>
 * <<scrollToHeader "Beliefs">>
 * <<scrollToHeader "Interaction with the Outside World">>
@@ -34,26 +41,42 @@ Outsiders often assume that kobolds are primitive and savage since they live in 
 
 !! Lands and Settlements
 
-To date, kobold communities have been encountered in [[Q'barra]], [[Droaam]], and in the [[Seawall Mountains]] between [[Darguun]] and [[Zilargo]]. However, kobolds are extremely reclusive, and recent events suggest that kobold communities are hidden across [[Khorvaire]].
+To date, kobold communities have been encountered in [[Q'barra]], [[Droaam]], the [[Skyfall Peninsula]] in [[Xen'drik]], and in the [[Seawall Mountains]] between [[Darguun]] and [[Zilargo]]. Kobolds are extremely reclusive, but recent events suggest that many kobold communities are hidden across [[Khorvaire]].
 
 The kobolds of [[Eberron]] prefer to live in natural caverns. The irvhir kobolds make their homes deep beneath the surface, while the iredar kobolds usually live in mountain caves. The kobolds believe that these caverns are the veins of the [[Progenitor Dragons]], and they often carve elaborate draconic designs on the walls. Kobolds prefer to live in tribes containing approximately 100 adults. The largest communities can have up to 600 adults. Generally, though, a community splits once its population rises too far above 100 adults, with younger kobolds moving away to found a new community.
 
-Kobolds bond with [[dire animal|dire beast]]s. Dire creatures—especially burrowing animals such as rats, weasels, and badgers—are frequently found in kobold communities.
+Kobolds often form bonds with [[dire animal|dire beast]]s. Dire creatures—especially burrowing animals such as rats, weasels, and badgers—are frequently found in kobold communities.
 
 !!! Kobolds in Droaam
 
-Both [[goblin]]s and kobolds were once oppressed underclasses within the Barrens (present-day [[Droaam]]), dominated by almost every other species in the plains. Over time, they developed their own shared culture that's entirely different from the cultures of either species elsewhere in [[Khorvaire]]; when someone says “goblin” in [[Droaam]], it's understood that they mean “goblins or kobolds.” Most goblins and kobolds feel a close kinship and look out for each other. They learned long ago to value cunning over strength; the heroes of their tales are quick and clever. They are patient and enduring, and tolerate endless suffering while waiting for an opportunity to present itself.
+Both [[goblin]]s and kobolds have long been oppressed underclasses within the Barrens (present-day [[Droaam]]), dominated by almost every other species in the plains. Over time, they developed their own shared culture that's entirely different from the cultures of either species elsewhere in [[Khorvaire]]; when someone says “goblin” in [[Droaam]], it's understood that they mean “goblins or kobolds.” Most goblins and kobolds feel a close kinship and look out for each other. They learned long ago to value cunning over strength; the heroes of their tales are quick and clever. They are patient and enduring, and tolerate endless suffering while waiting for an opportunity to present itself.
+
+The rise of [[Droaam]] has improved the lot of kobolds in the Barrens, particularly due to [[Kethelrax the Cunning]] and the city of [[Shaarat Kol]].
+
+There are multiple kobold cultures across Droaam, including the [[Khaar'paal]], the "mageblood" clans who dwell in the [[Graywall Mountains]].
+
+!!! Kobolds in Zilargo
+
+The Zil often clash with the iredar and irvhir of the [[Seawall Mountains]], but over the centuries, some kobolds have chosen to live alongside the [[gnome]]s in villages across eastern [[Zilargo]]. The two cultures are not as blended as those of the [[orc]]s and [[human]]s of the [[Shadow Marches]], but it is not unusual to find kobolds teaching at [[Korranberg|Library of Korranberg]] colleges or working as agents of the [[Trust]].
+
+!!! Kobolds in Q'barra
+
+The kobolds of [[Q'barra]] are particularly vulnerable to the corrupting influence of the [[Cold Sun|Masvirik]], and are frequently found among the rank and file of the [[Poison Dusk]]. But uncorrupted communities also dwell in the jungles and the [[Endworld Mountains]], and their culture has much in common with that of the [[Seawall Mountains]] further east.
+
+!!! Kobolds in Stormreach
+
+A community of kobolds lives in [[Stormreach]] in [[Xen'drik]], where they maintain the sewers and serve as guides to the [[lower levels|Undercity]] of the ancient city. The Stormreach kobold known as [[Hassalac Chaar]] is one of the most powerful spellcasters in the world.
 
 !! Power Groups
 
-Kobold culture revolves around three forces. The ''stonescales'' (or //ternmolik//, in [[Draconic]]) perform the day-to-day tasks required for the survival of a community: crafts, agriculture, and the gathering of food when agriculture will not suffice. The ''claws'' (//gix//) are soldiers and hunters. And the ''blood seers'' (//iejirastrix//) are mystics who hear the voices of the [[Progenitor Dragons]]—[[sorcerer]]s and [[druid]]s whose magical powers are seen as proof of the kobolds' divine ancestry.
+[[Seawall|Seawall Mountains]] kobold culture revolves around three forces. The ''stonescales'' (or //ternmolik//, in [[Draconic]]) perform the day-to-day tasks required for the survival of a community: crafts, agriculture, and the gathering of food when agriculture will not suffice. The ''claws'' (//gix//) are soldiers and hunters. And the ''blood seers'' (//iejirastrix//) are mystics who hear the voices of the [[Progenitor Dragons]]—[[sorcerer]]s and [[druid]]s whose magical powers are seen as proof of the kobolds' divine ancestry.
 
 Typically the chieftain of a village is an old claw, though in a peaceful region a stonescale can hold the post. The chieftain manages the daily affairs of the community while the blood seers link the communities together. Seers often travel from village to village to meet with other blood seers, discussing their visions and issues affecting the race as a whole.
 
 One other force that has an impact on kobold culture: the [[Chamber]]. While most dragons dismiss the kobold's claims of draconic ancestry, kobold blood seers can have strange (though often distorted) insights into the [[Draconic Prophecy]], and the Chamber occasionally makes use of kobold agents. This can result in teams of kobolds equipped with powerful magic weapons and items—an unpleasant surprise for a group of adventurers that underestimates the little reptiles.
 
 !! Beliefs
-Mainstream kobold culture is oriented around the worship of a particular [[Progenitor Dragon|Progenitor Dragons]]. The irvhir tradition is one of the oldest [[Cults of the Dragon Below]], though it has no connection with the [[aberration]]-oriented cults of the [[Shadow Marches]]. The iredar kobolds revere [[Eberron]] as the source of life and nature; this is a unique [[druid]]ic tradition with no ties to the sects of the [[Eldeen Reaches]].
+Mainstream [[Seawall|Seawall Mountains]] kobold culture is oriented around the worship of a particular [[Progenitor Dragon|Progenitor Dragons]]. The irvhir tradition is one of the oldest [[Cults of the Dragon Below]], though it has no connection with the [[aberration]]-oriented cults of the [[Shadow Marches]]. The iredar kobolds revere [[Eberron]] as the source of life and nature; this is a unique [[druid]]ic tradition with no ties to the sects of the [[Eldeen Reaches]].
 
 The kobolds see themselves as the hands of the progenitors in the modern age. And in the past, visions of the blood seers have often been tied to the [[Draconic Prophecy]]. It is a mystery, since the kobolds themselves rarely understand the significance of their actions—but even the [[Chamber]] respects this uncanny gift.
 
@@ -61,7 +84,7 @@ Of course, not all kobolds are bound to these beliefs. A few tribes have split o
 
 !! Interaction with the Outside World
 
-Kobolds speak a dialect of [[Draconic]] called [[Yipyak]]. There is no evidence of the kobolds ever having possessed another [[language]] or having been taught by [[dragon]]s. Most kobolds love to talk, and a meal with a group of kobolds is a deluge of yapping voices.
+Many kobolds speak a dialect of [[Draconic]] called [[Yipyak]]. There is no evidence of the kobolds ever having possessed another [[language]] or having been taught by [[dragon]]s. Most kobolds love to talk, and a meal with a group of kobolds is a deluge of yapping voices.
 
 Most kobolds prefer to avoid contact with the outside world. Irvhir kobolds are especially xenophobic, and the miners of [[Zilargo]] have been fighting irvhir kobolds for centuries. Iredar kobolds are more moderate in their views. They have little interest in foreign cultures and fight irvhir kobolds as often as they battle [[gnome]]s or [[human]]s.
 

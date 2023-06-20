@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404225714152
-modified: 20210727192036314
+modified: 20230616174630753
 points: 23.372,-8.38
 style: {"color": "#CA5700"}
 tags: Zilargo town
 title: Tariston
+tooltip: town in Zilargo
 type: text/vnd.tiddlywiki
 
 Tariston is a village in [[Zilargo]].

@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20210221221556855
-modified: 20210727192040799
+modified: 20230620055551167
 polylines: -0.665,25.71 -0.729,25.81 -0.868,25.92 -0.914,26.09 -0.942,26.34 -1.08,26.49 -1.209,26.67 -1.311,26.89 -1.348,27.11 -1.375,27.34 -1.495,27.48 -1.606,27.52 -1.643,27.63 -1.735,27.72 -1.865,27.85 -1.892,27.94|-1.412,25.85 -1.523,25.91 -1.662,25.95 -1.735,26.07 -1.837,26.23 -1.791,26.42 -1.874,26.58 -1.846,26.77 -1.865,26.96 -1.985,27.06 -2.123,27.1 -2.4,27.28 -2.575,27.33 -2.649,27.46 -2.862,27.53 -2.898,27.63
 style: {"color":"#294975","fillColor":"#abcaf5","fillOpacity":"1"}
 tags: Aerenal river
 title: Veln Melaesol
+tooltip: twin rivers in Aerenal
 type: text/vnd.tiddlywiki
 
 The twin rivers of Veln Melaesol flow from the [[Sundering Peaks]] in the south of [[Aerenal]] into the [[Blackwood Bay]]. Lacedons (aquatic [[ghoul]]s) and other [[undead]] lurk in these waters.
