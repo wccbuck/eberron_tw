@@ -3,7 +3,7 @@ category: game mechanics
 created: 20230509205613057
 displaylanguage: Goblin
 language: Goblin
-modified: 20230607220807766
+modified: 20230626043846743
 scrambling: enabled
 tags: 
 title: language translator
@@ -41,6 +41,7 @@ As you type your text below, the tool will translate it into your chosen languag
 </optgroup>
 <optgroup label="Immortal">
 <option>Draconic</option>
+<option>Abyssal</option>
 </optgroup>
 </$select><div style="flex-grow:1;"></div><$checkbox field="scrambling" checked="enabled" unchecked="disabled" default="enabled" actions=<<translateActions2>>> Syllable Shuffling Enabled</$checkbox>
 </div>

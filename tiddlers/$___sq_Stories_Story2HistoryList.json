@@ -1053,5 +1053,33 @@
     },
     {
         "title": "Changelog"
+    },
+    {
+        "title": "Readme",
+        "fromPageRect": {
+            "top": 58,
+            "left": 558.828125,
+            "width": 32.890625,
+            "right": 591.71875,
+            "bottom": 97.484375,
+            "height": 39.484375
+        }
+    },
+    {
+        "title": "Changelog",
+        "fromPageRect": {
+            "top": 58.1875,
+            "left": 668.859375,
+            "width": 32.890625,
+            "right": 701.75,
+            "bottom": 97.671875,
+            "height": 39.484375
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
     }
 ]

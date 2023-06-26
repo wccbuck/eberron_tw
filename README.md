@@ -8,7 +8,7 @@
 
 [Tiddlywiki](https://tiddlywiki.com/): A non-linear notebook for organizing complex information. It runs as a single html document that you can run in a browser and save and edit locally, even without an internet connection!
 
-I ([Will](https://www.reddit.com/u/ziphion)) created this tool to be a reference for myself when running and planning tabletop roleplaying games in the Eberron universe using my work-in-progress Storyloom system. It pulls from Eberron material dating all the way back to the original campaign guide from 2004, as well as a wide variety of D&D sourcebooks and other roleplaying supplements. For the full list of references, see References. Because I intend to use this material with my own roleplaying system, most (if not all) direct references to D&D mechanics have been removed and, if necessary, replaced with Storyloom mechanics.
+I (Will/Ziphion: [reddit](https://www.reddit.com/u/ziphion), [lemmy](https://lemm.ee/u/ziphion), [github](https://github.com/wccbuck)) created this tool to be a reference for myself when running and planning tabletop roleplaying games in the Eberron universe using my work-in-progress Storyloom system. It pulls from Eberron material dating all the way back to the original campaign guide from 2004, as well as a wide variety of D&D sourcebooks and other roleplaying supplements. For the full list of references, see References. Because I intend to use this material with my own roleplaying system, most (if not all) direct references to D&D mechanics have been removed and, if necessary, replaced with Storyloom mechanics.
 
 Keep in mind that much of this material has been altered, in small or large ways, in order to match my own preferences or my own vision of an internally consistent Eberron. Some examples:
 
@@ -31,6 +31,6 @@ As for checking out the tons and tons of Eberron content in this database, I'd s
 
 **Find Things** is a great way to locate specific pages based on category, or even open a random page based on your search terms. If you don't find what you're looking for, you can try the search bar at the top of the page or in the sidebar.
 
-**Modern Age** is a rundown of major events in the world (particularly within Khorvaire) over the last 5000 years. Pick an event, and then just start link hopping!
+**Modern Age** is a rundown of major events in the world (particularly within Khorvaire) over the last 3000 years. Pick an event, and then just start link hopping!
 
 Feel free to save a snapshot of this site at any time and edit absolutely anything you want to! If ever you want to update your local copy to the latest version, just use the Eberron TW Updater.

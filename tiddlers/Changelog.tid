@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.22.1
-modified: 20230620213838120
+currentversion: 1.22.2
+modified: 20230626212030125
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,11 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.22.2 <span style="font-weight:normal">(June 26, 2023)</span>
+
+* Updated the [[Eberron]] page to be a better summary of the setting
+* Added [[Abyssal]] to the [[language translator]]
 
 !!! 1.22.1 <span style="font-weight:normal">(June 20, 2023)</span>
 
