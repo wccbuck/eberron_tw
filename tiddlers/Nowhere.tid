@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20220208042610119
-modified: 20220208042755868
+modified: 20230616175147612
 points: 33.44,-7.9
 style: {"color": "#CA5700"}
 tags: Breland town
 title: Nowhere
+tooltip: town in Breland
 type: text/vnd.tiddlywiki
 
 {{!!title}} is a town in [[Breland]], located at a major [[lightning rail]] intersection between [[Wroat]] and [[Starilaskur]].

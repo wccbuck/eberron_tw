@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210129211959922
-modified: 20221215214537070
+modified: 20230620154254307
 points: 24.683,213.14
 style: {"color": "#8E0024"}
 tags: city Riedra Ghirvagura
 title: Dul Uldane
+tooltip: bastion city in Ghirvagura, Riedra, headquarters of the Sheltering Hearth
 type: text/vnd.tiddlywiki
 
 This [[bastion city]] in [[Ghirvagura]], [[Riedra]] is in the Sphere of [[Tureya]]. It holds the headquarters of the [[Sheltering Hearth]].

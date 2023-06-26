@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210202030845931
-modified: 20220107021214395
+modified: 20230616185405505
 points: 44.492,-21.33
 style: {"color": "#CA5700"}
 tags: [[Eldeen Reaches]] town
 title: Cree
+tooltip: town in the Eldeen Reaches
 type: text/vnd.tiddlywiki
 
 The small [[Eldeen|Eldeen Reaches]] town of Cree, located on the shore of [[Lake Galifar]], doubles as both a farming and fishing community. Farms spread out to the

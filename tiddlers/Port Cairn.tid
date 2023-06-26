@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210204220701153
-modified: 20210727192025493
+modified: 20230616182537744
 points: 65.142,21.34
 style: {"color": "#CA5700"}
 tags: town [[Lhazaar Principalities]] Farlnen
 title: Port Cairn
+tooltip: town in the Lhazaar Principalities, seat of the Bloodsails
 type: text/vnd.tiddlywiki
 
 Port Cairn lies on the southern coast of [[Farlnen]], on the coasts of the [[Straits of Orthoss]]. It is the home port of the ships of the [[Bloodsails]], which are built using a type of [[soarwood]] that allows even their largest vessels to safely navigate the shallow harbor.

@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210322034941064
-modified: 20230322223731679
+modified: 20230620054959524
 points: 39.0,-21.89
 population: 64000
 style: {"color": "#8E0024"}
 tags: Breland city
 title: Xandrar
+tooltip: city in Breland near Lake Galifar and the Eldeen Reaches
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>
@@ -18,8 +19,7 @@ into [[Lake Galifar]], takes its name from the much older
 western riverbank and several miles of the lakeshore.
 The thriving city is Breland’s gateway for trade with
 the [[Eldeen Reaches]], and small barges ply the lake,
-providing ties to [[Aundair]] as well. Since Eldeen and
-Aundair were openly at war for most of the last century, Xandrar became a key link for what little trade the two nations could not avoid.
+providing ties to [[Aundair]] as well. When the Reaches and Aundair were openly hostile during the [[Last War]], Xandrar became a key link for what little trade the two nations could not avoid.
 
 Mayor [[Garrit Tomraan]] governs the city, but the Countess [[Yassiv ir'Oeskai]] provides the city watch and administers the surrounding lands. She and Garrit hold wildly different opinions on the “[[Swords of Liberty]] problem” that has infested the region in recent months, but generally manage to work together to keep the city from being burned to the ground.
 

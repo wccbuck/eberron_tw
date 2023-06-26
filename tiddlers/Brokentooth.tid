@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404225031480
-modified: 20210727191959505
+modified: 20230616174557682
 points: 25.32,1.7
 style: {"color": "#CA5700"}
 tags: Darguun town
 title: Brokentooth
+tooltip: town in Darguun
 type: text/vnd.tiddlywiki
 
 Brokentooth is a village in [[Darguun]].

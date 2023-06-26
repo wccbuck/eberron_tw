@@ -2,11 +2,12 @@ alternatetitle: Tzanthus
 category: location
 color: #4C8201
 created: 20210404225933782
-modified: 20230517025854956
+modified: 20230616174630020
 points: 21.729,-12.86
 style: {"color": "#CA5700"}
 tags: Zilargo town
 title: Szanthus
+tooltip: town in Zilargo
 type: text/vnd.tiddlywiki
 
 Szanthus is a large town in [[Zilargo]].

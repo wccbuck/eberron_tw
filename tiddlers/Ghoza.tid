@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210127190517981
-modified: 20221208174305829
+modified: 20230620043631679
 points: 7.11,187.44
 population: 6500
 style: {"color": "#8E0024"}
 tags: fortress Adar city
 title: Ghoza
+tooltip: temple-keep of Adar on the Jahara Sound, home to elemental binders
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

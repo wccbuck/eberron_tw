@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210405000043582
-modified: 20220325170747423
+modified: 20230616174658838
 points: 50.132,-6.99
 style: {"color": "#CA5700"}
 tags: town Aundair
 title: Askelios
+tooltip: town in Aundair
 type: text/vnd.tiddlywiki
 
 Askelios is a town in [[Aundair]] near the [[Starpeaks]].

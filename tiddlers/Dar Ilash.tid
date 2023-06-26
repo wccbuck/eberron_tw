@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210129213150392
-modified: 20221215214440980
+modified: 20230620153744426
 points: 22.098,203.59
 style: {"color": "#8E0024"}
 tags: city Riedra Pyrine
 title: Dar Ilash
+tooltip: bastion city in Pyrine, Riedra, headquarters of the Healing Hand
 type: text/vnd.tiddlywiki
 
 Dar Ilash is a [[bastion city]] in [[Pyrine]], [[Riedra]]. It holds the headquarters of the [[Healing Hand]].

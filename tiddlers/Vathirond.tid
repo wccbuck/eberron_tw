@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200415195550678
-modified: 20221201002242295
+modified: 20230620054428491
 points: 38.335,2.74
 population: 9500
 style: {"color": "#8E0024"}
 tags: Breland city
 title: Vathirond
+tooltip: dwindling city in Breland near the Mournland
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

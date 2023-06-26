@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404235955732
-modified: 20210727191955680
+modified: 20230616174654230
 points: 49.015,-8.66
 style: {"color": "#CA5700"}
 tags: town Aundair
 title: Areksul
+tooltip: town in Aundair
 type: text/vnd.tiddlywiki
 
 Areksul is a village in [[Aundair]] near [[Fairhaven]].

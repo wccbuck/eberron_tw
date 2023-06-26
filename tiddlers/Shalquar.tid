@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210127192752105
-modified: 20220329221136102
+modified: 20230616183203649
 points: 14,194.44
 population: 7000
 style: {"color": "#8E0024"}
 tags: fortress Adar city
 title: Shalquar
+tooltip: city in Adar
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404235055782
-modified: 20210727192024263
+modified: 20230616183036134
 points: 49.615,-14.44
 style: {"color": "#CA5700"}
 tags: [[Eldeen Reaches]] town
 title: Owl's Perch
+tooltip: town in the Eldeen Reaches
 type: text/vnd.tiddlywiki
 
 Owl's Perch is a village in the [[Eldeen Reaches]] on the [[Wynarn River]].

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210204042011648
-modified: 20210727192042834
+modified: 20230616181155222
 points: 31.615,-16.82
 style: {"color": "#CA5700"}
 tags: town Breland
 title: Woodhelm
+tooltip: town in Breland
 type: text/vnd.tiddlywiki
 
 This small logging village in [[Breland]] is located in the [[Dragonwood]] forest near the mouth of the [[Dagger River]]. Trees felled here are sent down the river to [[Galethspyre]] where they are milled or carved.

@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200415192329757
-modified: 20220417162912734
+modified: 20230616182639041
 points: 32.409,5.25
 population: 2250
 style: {"color": "#CA5700"}
 tags: town Darguun
 title: Gorgonhorn
+tooltip: town in Darguun
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

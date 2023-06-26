@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210407015637188
-modified: 20210727192016302
+modified: 20230616174649780
 points: 4.846,28.31
 style: {"color": "#CA5700"}
 tags: town Aerenal
 title: Kathuran
+tooltip: town in Aerenal
 type: text/vnd.tiddlywiki
 
 Kathuran is a town in [[Aerenal]] near the [[Madwood]].

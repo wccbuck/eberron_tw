@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210330000224009
-modified: 20210727192018122
+modified: 20230616175025908
 points: 54.711,26.03
 style: {"color": "#CA5700"}
 tags: [[Mror Holds]] town Kolkarun
 title: Lake Home
+tooltip: capital of clan Kolkarun in the Mror Holds
 type: text/vnd.tiddlywiki
 
 Lake Home on the eastern shore of [[Mirror Lake]] is the capital of the [[Kolkarun]] [[clan|Mror clan]] of the [[Mror Holds]].

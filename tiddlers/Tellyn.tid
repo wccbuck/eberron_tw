@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210405000917473
-modified: 20210727192036633
+modified: 20230616174806017
 points: 41.668,-6.21
 style: {"color": "#CA5700"}
 tags: town Thrane
 title: Tellyn
+tooltip: town in Thrane
 type: text/vnd.tiddlywiki
 
 Tellyn is a large town in [[Thrane]] near [[Sigilstar]].

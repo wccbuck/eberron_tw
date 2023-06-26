@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20200416213747080
-modified: 20210727192032985
+modified: 20230616174032843
 points: 46.145,31.94
 style: {"color": "#8E0024"}
 tags: city [[Mror Holds]] mine Soldorak
 title: Solangap
+tooltip: city in the Mror Holds, capital of clan Soldorak
 type: text/vnd.tiddlywiki
 
 The holdfast of Clan [[Soldorak]], Solangap boasts vast

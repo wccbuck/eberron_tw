@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210208050524664
-modified: 20210820070650544
+modified: 20230616184153575
 points: 41.769,0.05
 population: 55000
 style: {"color": "#8E0024"}
 tags: city Thrane
 title: Aruldusk
+tooltip: city in Thrane
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

@@ -1,5 +1,5 @@
 created: 20210214064409084
-modified: 20210727191952959
+modified: 20230529172206546
 title: $:/themes/tiddlywiki/vanilla/sticky
 type: text/vnd.tiddlywiki
 
@@ -12,6 +12,17 @@ type: text/vnd.tiddlywiki
 	position: -ms-sticky;
 	position: sticky;
 	top: 28px;
+	background: ``<<colour tiddler-background>>``;
+	z-index: 500;
+}
+
+.sq-story-rivertwo-scrollable .tc-tiddler-title {
+	position: -webkit-sticky;
+	position: -moz-sticky;
+	position: -o-sticky;
+	position: -ms-sticky;
+	position: sticky;
+	top: 14px;
 	background: ``<<colour tiddler-background>>``;
 	z-index: 500;
 }

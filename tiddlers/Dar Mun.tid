@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210126230721652
-modified: 20221215215822647
+modified: 20230620153844377
 points: 37.846,191.69
 style: {"color": "#8E0024"}
 tags: city Riedra Nulakaz
 title: Dar Mun
+tooltip: bastion city in Nulakaz, Riedra, headquarters of the Edgewalkers
 type: text/vnd.tiddlywiki
 
 This large city in [[Riedra]] is the seat of the [[Edgewalkers]]. Dar Mun is located

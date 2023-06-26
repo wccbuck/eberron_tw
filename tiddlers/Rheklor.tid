@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404224941471
-modified: 20210727192028125
+modified: 20230616175351565
 points: 25.708,5.49
 style: {"color": "#CA5700"}
 tags: Darguun town
 title: Rheklor
+tooltip: town in Darguun
 type: text/vnd.tiddlywiki
 
 Rheklor is a town in [[Darguun]] on the outskirts of the [[Khraal]].

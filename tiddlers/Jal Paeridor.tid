@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210325185740030
-modified: 20210727192015415
+modified: 20230616174755637
 points: 28.966,21.42
 style: {"color": "#CA5700"}
 tags: town Valenar
 title: Jal Paeridor
+tooltip: town in Valenar
 type: text/vnd.tiddlywiki
 
 Jal Paeridor is a mostly [[half-elf]] village in [[Valenar]], located on the [[Old Road]].

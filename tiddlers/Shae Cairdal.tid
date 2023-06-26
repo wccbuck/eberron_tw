@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200417004004171
-modified: 20230510174804817
+modified: 20230620050038668
 points: 5.954,25.19
 population: 265000
 style: {"color": "#8E0024"}
 tags: city Aerenal
 title: Shae Cairdal
+tooltip: capital of Aerenal and largest city on the island, seat of the Sibling Kings
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

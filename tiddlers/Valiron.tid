@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210405000712718
-modified: 20220107033626428
+modified: 20230616183612414
 points: 37.089,-6.39
 style: {"color": "#CA5700"}
 tags: town Thrane
 title: Valiron
+tooltip: town in Thrane, site of many bloody battles with Breland
 type: text/vnd.tiddlywiki
 
 Valiron is a village in [[Thrane]], on the shores of [[Lake Brey]]. It lies near Valin Field, the site of many bloody battles throughout the [[Last War]]. The most prominent was known as the Battle of Kemman Estate in 910 YK, during which hundreds of [[Brelish|Breland]] soldiers were scorched by waves of [[Silver Flame]] commanded by fanatical [[templar]]s and [[cleric]]s.

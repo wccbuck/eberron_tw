@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404235428128
-modified: 20210727192004100
+modified: 20230616183009921
 points: 43.191,-23.71
 style: {"color": "#CA5700"}
 tags: [[Eldeen Reaches]] town
 title: Delethorn
+tooltip: town in the Eldeen Reaches
 type: text/vnd.tiddlywiki
 
 Delethorn is a town in the [[Eldeen Reaches]] on the shores of [[Lake Galifar]].

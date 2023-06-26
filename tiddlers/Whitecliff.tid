@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210207193724110
-modified: 20221121062047677
+modified: 20230616185308711
 points: 40.071,29.55
 style: {"color": "#CA5700"}
 tags: [[New Galifar]] Q'barra town
 title: Whitecliff
+tooltip: prospecting town in Q'barra, base of operations for Khalar Velderan
 type: text/vnd.tiddlywiki
 
 ''Ruler:'' Mayor [[Karala Thautram]]

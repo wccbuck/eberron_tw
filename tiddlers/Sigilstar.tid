@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210208051656708
-modified: 20210906073041173
+modified: 20230616191551281
 points: 42.203,-3.38
 population: 60000
 style: {"color": "#8E0024"}
 tags: city Thrane
 title: Sigilstar
+tooltip: city in Thrane, cosmopolitan atmosphere
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>><br/>

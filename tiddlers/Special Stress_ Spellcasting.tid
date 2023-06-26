@@ -1,7 +1,8 @@
 category: talent
 created: 20210726015957540
-modified: 20211128070032761
+modified: 20230620203356608
 title: Special Stress: Spellcasting
+tooltip: talent that grants you an additional special stress box that you can only use to cast spells
 type: text/vnd.tiddlywiki
 xpcost: 1
 

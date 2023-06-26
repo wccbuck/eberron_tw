@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210221052412635
-modified: 20210727192035865
+modified: 20230616181845637
 points: 0.434,22.28
 style: {"color": "#CA5700"}
 tags: town Aerenal
 title: Taer Kalindal
+tooltip: town in Aerenal, seat of line Jhaelian
 type: text/vnd.tiddlywiki
 
 The town of Taer Kalindal in [[Aerenal]] is the seat of the [[Aereni noble line]] of [[Jhaelian]]. It contains an outpost of the [[Deathguard]], as well as the second highest concentration of shrines to the [[Undying Court]] per capita, next to [[Shae Mordai]].

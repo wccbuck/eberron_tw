@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210126234120923
-modified: 20221127221302701
+modified: 20230620154022041
 points: 28.578,155.46
 population: 565500
 style: {"color": "#8E0024"}
 tags: city Riedra Rhiavhaar
 title: Dar Ulatesh
+tooltip: bastion city in Rhiavhaar, Riedra, has a small foreign quarter
 type: text/vnd.tiddlywiki
 
 ''Ruler:'' Lord [[Ulatorn]]<br/>

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404231828622
-modified: 20210727192043890
+modified: 20230616174545132
 points: 19.92,-18.83
 style: {"color": "#CA5700"}
 tags: Breland town
 title: Zilspar
+tooltip: town in Breland
 type: text/vnd.tiddlywiki
 
 Zilspar is a village in [[Breland]].

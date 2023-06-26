@@ -1,8 +1,9 @@
 category: talent
 created: 20211129220843023
-modified: 20220720163037384
+modified: 20230620202745920
 tags: background
 title: Entertainer
+tooltip: talent which grants you advantage when you perform your act
 type: text/vnd.tiddlywiki
 xpcost: 1
 

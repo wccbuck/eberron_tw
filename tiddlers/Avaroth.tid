@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210405001034535
-modified: 20210727191956579
+modified: 20230616174816875
 points: 43.403,-4.61
 style: {"color": "#CA5700"}
 tags: town Thrane
 title: Avaroth
+tooltip: town in Thrane
 type: text/vnd.tiddlywiki
 
 Avaroth is a town in [[Thrane]], near [[Sigilstar]].

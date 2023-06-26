@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210131045524559
-modified: 20210820071131529
+modified: 20230620054303788
 points: 26.169,-2.12
 population: 36500
 style: {"color": "#8E0024"}
 tags: city Darguun fortress
 title: Volaar Draal
+tooltip: hidden city and stronghold of the Kech Valaar, located in the Seawall Mountains in Darguun
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210208050343028
-modified: 20220127191825196
+modified: 20230616184915121
 points: 48.462,-14.1
 style: {"color": "#CA5700"}
 tags: town Aundair
 title: Wyr
+tooltip: large town in western Aundair
 type: text/vnd.tiddlywiki
 
 Wyr is a town in [[Aundair]], located on the [[Wynarn River]] and overlooking the [[Eldeen Reaches]] to the west. It is the largest town on Aundair's western border, a region which has been plagued by attacks by Eldeen guerilla groups such as the [[Eldeen Wolves]] for several years. Wyr is also the hometown of Archbishop [[Solgar Dariznu]], the governor of [[Thaliost]].

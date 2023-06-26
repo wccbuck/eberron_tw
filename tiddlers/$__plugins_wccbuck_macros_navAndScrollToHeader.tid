@@ -1,7 +1,7 @@
 created: 20230103191529118
-modified: 20230105233218363
+modified: 20230609210115141
 tags: $:/tags/Macro
 title: $:/plugins/wccbuck/macros/navAndScrollToHeader
 type: text/vnd.tiddlywiki
 
-\define navAndScrollToHeader(to, header) <$wikify name="tooltip" text=<<navAndScrollToHeaderTooltip """$to$""" """$header$""">>><$button class="tc-btn-invisible tc-tiddlylink" tooltip=<<tooltip>>><$action-scroll-to-header $to="$to$" $header="$header$"/>$header$</$button></$wikify>
+\define navAndScrollToHeader(to, header) <$wikify name="tooltip" text=<<navAndScrollToHeaderTooltip """$to$""" """$header$""">>><$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;" tooltip=<<tooltip>>><$action-scroll-to-header $to="$to$" $header="$header$"/>$header$</$button></$wikify>

@@ -1,7 +1,7 @@
 category: cosmology
 color: #432874
 created: 20200417054704127
-modified: 20230104003602391
+modified: 20230626164825331
 title: Eberron
 tooltip: the planet; the Material Plane; the name of one of the Progenitor Dragons
 type: text/vnd.tiddlywiki
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 Between [[Siberys]], the Dragon Above, and [[Khyber]], the Dragon Below, the surface of the Dragon Between stretches from
 horizon to horizon, a patchwork of fields and forests, oceans
 and mountains, deserts, swamps, jungles, tundra, and more.
-Beneath a yellow sun, Eberron's varied environments give
+Beneath a [[yellow sun|Sun]], Eberron's varied environments give
 way one to another across each continent. Mountains rise,
 valleys fall, and water surrounds the land. 
 
@@ -19,22 +19,26 @@ shades of gray paint the landscape in broad strokes. Ancient mysteries await dis
 world and its people. 
 
 !! Links to Headers
-* <<scrollToHeader "Five Things to Know">>
+* <<scrollToHeader "Core Elements and Principles of the Setting">>
 * <<scrollToHeader "Brief History of Eberron">>
 * <<scrollToHeader "Eberron's Plane of Existence">>
 * <<scrollToHeader "Notes">>
 
-!! Five Things to Know
+!! Core Elements and Principles of the Setting
 
-# ''The Last War Has Ended—Sort Of.'' The [[Last War]] plunged the continent of [[Khorvaire]] into civil war more than a century ago, shattering the [[Five Nations]] that made up the kingdom of [[Galifar]]. Just two years ago, the war ended with the signing of the [[Treaty of Thronehold]] and the establishment of twelve recognized nations and a tenuous peace. The conflicts, the anger, and the pain of the long war remain, however, and the new nations seek every advantage as they prepare for the next war to break out on the continent. 
+# ''Wide Magic.'' The technology of Eberron has developed not through the advance of science but by the mastery of magic. The widespread use of [[arcane magic]] pervades life in the cities and towns. [[Airship|airship]]s and [[rail|lightning rail]] transport, powered by [[bound elemental creatures|elemental binding]], make rapid travel across the continent of [[Khorvaire]] possible. A working class of minor mages, called [[magewright]]s, uses spells to provide energy and other necessities and conveniences. Advances in [[magic item]] creation have led to everything from self-propelled farming implements to sentient, free-willed [[beings|warforged]] created in [[artificer]]s' forges. With the aid of rare crystals called [[dragonshard]]s, [[dragonmark]]s can be made more powerful (see #3 below), [[elemental]]s can be controlled and harnessed, and [[magic item]]s can be crafted and shaped.
 
-# ''Dragonmarked Dynasties.'' The great [[dragonmarked families|dragonmarked house]] are the barons of industry and commerce throughout [[Khorvaire]] and beyond. Their influence transcends political boundaries, and they remained mostly neutral during the [[Last War]]. Not technically citizens of any nation, the matriarchs and patriarchs of each house live in splendor within their [[enclave]]s and emporiums located throughout Khorvaire. These dynastic houses of commerce derive their power from [[dragonmark]]s—hereditary arcane sigils that manifest on certain individuals within the family, granting them limited but useful magical abilities associated with the [[trade guild]]s each family controls. 
+# ''The Last War Has Ended—Sort Of.'' A century of [[war|Last War]] has shattered the kingdom of [[Galifar]]. Four years ago, a massive magical cataclysm known as the [[Mourning]] completely wiped out the province of [[Cyre]], transforming it into a fog-shrouded [[wasteland|Mournland]]—and no one knows what caused it. The fear of a second Mourning led the warring factions to come together two years ago and sign the [[Treaty of Thronehold]], ending the [[Last War]] and establishing twelve recognized nations. However, tensions remain high, and the new nations struggle for influence in the war’s wake, preparing for the possibility of renewed conflict. Meanwhile, veterans of the Last War, including the sapient [[construct]]s known as [[warforged]], struggle to find their place in the world.
 
-# ''Lands of Intrigue.''  The war is over, and the nations of Khorvaire now try to build a new age of peace and prosperity. Ancient threats linger, however, and the world needs heroes to take up the cause. Nations compete on many levels—over economic dominance, political influence, territory, magical power, and more—each looking to maintain or improve its status by any means short of all-out war. [[Dragonmarked house|dragonmarked house]]s, churches both pure and corrupt, crime lords, monster gangs, [[psionic|psionics]] spies, arcane universities, secret societies, sinister masterminds, [[dragon]]s, and a multitude of organizations and factions join the struggle for position and power in the aftermath of the [[Last War]]. 
+# ''Dragonmarked Dynasties.'' Industry and commerce throughout [[Khorvaire]] and beyond are dominated by twelve families: the [[dragonmarked house]]s. Their influence transcends political boundaries, and they remained mostly neutral during the [[Last War]]. Not technically citizens of any nation, the barons of each house live in splendor within their [[enclave]]s and emporiums across the continent. These dynastic houses of commerce derive their power from [[dragonmark]]s—hereditary arcane sigils that manifest on certain individuals within the family, granting them limited but useful magical abilities associated with the [[trade guild]]s each family controls. 
 
-# ''A Continent of Adventure.'' From the jungles of [[Q'barra]] to the blasted hills and valleys of the [[Demon Wastes]], from the skyscrapers of [[Sharn]] to the [[dinosaur]]-filled [[Talenta Plains]], Eberron is a world of adventure. Adventures can draw heroes from one exotic location to another across the continent of [[Khorvaire]]. The quest for the Mirror of the Seventh Moon might take the heroes from a hidden mountain shrine in [[Darguun]] to a ruined castle in the [[Shadow Marches]] and finally to a dungeon deep below the [[Library of Korranberg]]. Through the use of magical transportation, heroes can reach a wide range of environments over the course of an adventure, and thus deal with a diverse assortment of monsters and other challenges. 
+# ''The Draconic Prophecy.'' Across the world, patterns can be found in the movement of [[moon]]s and the fissures of earthquakes and the actions of individuals. These patterns form a map of possible futures—a map that can shape history. This vast and complex network is more than just one prophecy; it is the source code of past, present, and future, a set of conditionals which define outcomes and the steps that must occur to manifest these outcomes. [[Dragons|Chamber]] and [[demons|Lords of Dust]] study and manipulate the [[Draconic Prophecy]], scheming over centuries to control the world. Player characters themselves may have a prophetic role to play, which could draw them into these schemes.
 
-# ''A World of Magic.'' The technology of Eberron has developed not through the advance of science but by the mastery of magic. The widespread use of magic pervades life in the cities and towns. [[Airship|airship]]s and [[rail|lightning rail]] transport make rapid travel across the continent possible. A working class of minor mages, called [[magewright]]s, uses spells to provide energy and other necessities. Advances in [[magic item]] creation have led to everything from self propelled farming implements to sentient, free-willed [[beings|warforged]] created in [[artificer]]s' forges. With the aid of rare crystals called [[dragonshard]]s, [[dragonmark]]s can be made more powerful, [[elemental]]s can be controlled and harnessed, and [[magic item]]s can be crafted and shaped. 
+# ''A World of Adventure.'' From noir detective stories in a [[city with mile-high skyscrapers|Sharn]] and [[flying taxis|skycoach]], to swashbuckling action in [[jungles|Q'barra]] crawling with [[fiend-corrupted lizardfolk|Poison Dusk]], Eberron is a setting built for thrilling adventures. Quests may draw heroes to far-flung corners of the world—from the ruins of an [[ancient goblin empire|Dhakaan]], to a [[major city|Thaliost]] seething with dissent on the verge of revolution, to a [[demon]]-haunted [[maze of canyons|Labyrinth]] patrolled by [[orcs with a sacred duty|Ghaash'kala]], to the court of the [[archfey]] [[Queen of Winter]], to another [[plane]] of existence where they must entreat the fiendish manifestation of [[Love Lost in Flame|Pyraelas]].
+
+# ''If it exists in D&D, then it has a place in Eberron.'' …just not where you might expect. Eberron uses the elements of Dungeons and Dragons and transforms or recombines them in surprising ways. Nomadic [[halfling]]s ride [[dinosaur]]s in the [[Talenta Plains]], [[elves|elf]] worship their [[undead ancestors|Undying Court]] in the cities of [[Aerenal]], and [[clans|Soldorak]] of [[dwarves|dwarf]] in the [[Mror Holds]] attach [[symbiotic aberrations|symbiont]] to their bodies. Note that you don’t need to play D&D in order to engage with the world of Eberron; many folks play Pathfinder, Savage Worlds, [[Storyloom]], or countless other roleplaying games in Eberron.
+
+# ''Fill-in-the-Blank Mysteries.'' As mentioned above, the [[Last War]] ended because no one knows what or who caused the [[Mourning]]. So what //actually// was responsible for this disaster? Eberron books provide many possible answers, but they will //never// give you an explicit explanation; it’s a question you must answer at your table. Another example: do the gods really exist, or are they just gestalt manifestations of the beliefs of mortals? What really happens after we die? These questions may have concrete answers in other campaign settings, but are left open-ended here. Eberron is full of mysteries, factions, and forces with many possible links to each other, and game masters and players can connect these together in any way that furthers the stories they want to tell. ''Make Eberron your own!''
 
 !! Brief History of Eberron
 

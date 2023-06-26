@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210405000737967
-modified: 20210727192032348
+modified: 20230616174809279
 points: 36.646,-4.24
 style: {"color": "#CA5700"}
 tags: town Thrane
 title: Siyar
+tooltip: town in Thrane
 type: text/vnd.tiddlywiki
 
 Siyar is a village in [[Thrane]], on the shores of [[Lake Brey]].

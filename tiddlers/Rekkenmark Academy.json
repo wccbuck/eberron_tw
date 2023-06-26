@@ -1,13 +1,14 @@
 [
     {
         "created": "20210203201212229",
+        "text": "Until the [[Last War]], the\nRekkenmark Academy was the premier military school for well-born young officers all over [[Galifar]]. It offered a full education but focused on leadership principles, strategy, and warfare, based largely on the lessons of the [[Analects of War]]. Graduating from this school was a mark of pride for a student\nand their family.\n\nThe [[Last War]] and [[Rekkenmark]]’s isolation all but\ndestroyed the institute. No parents outside [[Karrnath]]\nwanted to send their children to an active\nwar zone, and few of Karrnath’s noble families were\nwilling to enroll their children in an academy that\nwas behind enemy lines for years at a time. The academy was shut down during the war, and enrollment remains low to this day.\n\n!! Arcane Studies at Rekkenmark\n\nWhile its focus has always been military strategy and martial excellence, since the collapse of [[Galifar]], it has aggressively expanded its mystical studies to augment its strategic efficiency. While still limited in scope, Rekkenmark has top-notch facilities for learning [[evocation]] and [[transmutation]], as well as techniques for weaving [[arcane magic]] with physical combat.",
         "title": "Rekkenmark Academy",
-        "text": "Until the [[Last War]], the\nRekkenmark Academy was the premier military school for well-born sons and daughters all over [[Galifar]]. It offered a full education but focused on\nleadership principles, strategy, and warfare, based largely on the lessons of the [[Analects of War]]. Graduating from this school was a mark of pride for a student\nand their family.\n\nThe [[Last War]] and [[Rekkenmark]]’s isolation all but\ndestroyed the institute. No parents outside [[Karrnath]]\nwanted to send their children to an active\nwar zone, and few of Karrnath’s noble families were\nwilling to enroll their children in an academy that\nwas behind enemy lines for years at a time. The academy was shut down during the war, and enrollment remains low to this day.\n\n!! Arcane Studies at Rekkenmark\n\nWhile its focus has always been military strategy and martial excellence, since the collapse of [[Galifar]], it has aggressively expanded its mystical studies to augment its strategic efficiency. While still limited in scope, Rekkenmark has top-notch facilities for learning [[evocation]] and [[transmutation]], as well as techniques for weaving [[arcane magic]] with physical combat.",
-        "modified": "20210727192027804",
+        "modified": "20230620204407841",
         "tags": "university Rekkenmark",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "location",
-        "color": "#A3DB62"
+        "color": "#A3DB62",
+        "tooltip": "before the Last War, the premier military school for officers of the Five Nations, located in Karrnath"
     }
 ]

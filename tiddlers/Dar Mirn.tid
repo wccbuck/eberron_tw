@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210129201416073
-modified: 20221215214607567
+modified: 20230620153809353
 points: 6.148,208.03
 style: {"color": "#8E0024"}
 tags: city Riedra Ghirvagura
 title: Dar Mirn
+tooltip: bastion city in Ghirvagura, Riedra, headquarters of the Bountiful Horn
 type: text/vnd.tiddlywiki
 
 This [[bastion city]] in [[Riedra]] sits on the edge of the [[Shanjueed Jungle]] in the southern tip of [[Ghirvagura]]. It is the closest bastion city to the land of [[Adar]].

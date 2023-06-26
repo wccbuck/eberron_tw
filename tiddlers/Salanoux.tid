@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210906041337310
-modified: 20221123224936508
+modified: 20230616181159669
 points: 49.85,-13.95
 style: {"color": "#CA5700"}
 tags: town Aundair
 title: Salanoux
+tooltip: town in Aundair
 type: text/vnd.tiddlywiki
 
 Salanoux is a small village in [[Aundair]], located on the [[Wynarn River]] near the [[Eldeen Bay]] and overlooking the [[Eldeen Reaches]] to the west.

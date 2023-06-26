@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414222441964
-modified: 20221125211300756
+modified: 20230606055826908
 tags: humanoid
 tier: 1
 title: human
@@ -14,7 +14,7 @@ var: common
 <div align="right">—[[Kessler]], [[bard]] of [[Sharn]]</div>
 
 The first human settlers came to [[Khorvaire]] from [[Sarlona]] about
-3,000 years ago, landing in the area now known as the
+2,500 years ago, landing in the area now known as the
 [[Lhazaar Principalities]]. From there, they began a slow
 but inexorable spread across the continent, disrupting
 the placid elven empire of [[Aerenal]] and leaving further
@@ -41,7 +41,7 @@ If you want to jump-start your ideas for a human character's origins, you can ro
 | 3 |A displaced Cyran veteran who was engaged in war outside [[Cyre]] at the time of the [[Mourning]] and is now stranded with no home |
 | 4 |A [[barbarian]] from the [[Demon Wastes]] who repented from a life of cruelty and hopes to atone for past evils |
 | 5 |A kindly [[druid]] from the [[Eldeen Reaches]] who wants to learn about the flora and fauna of the rest of [[Khorvaire]] and beyond |
-| 6 |A [[cleric]] from [[Karrnath]] who aspires to learn the arts of [[necromancy]]—for the noblest aims, of course]] |
+| 6 |A [[cleric]] from [[Karrnath]] who aspires to learn the arts of [[necromancy]]—for the noblest aims, of course |
 | 7 |A piratical [[bard]] from the [[Lhazaar Principalities]] who loves sea shanties but also wants to immortalize the deeds of great heroes in song |
 | 8 |A [[ranger]] trained to hunt the jungles of [[Q'barra]] who harbors a grudge against [[dragon]]s |
 | 9 |A [[warlock]] from the [[Shadow Marches]], teetering on the edge of sanity while contemplating the [[daelkyr]] |

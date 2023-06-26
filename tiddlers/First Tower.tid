@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210131001914342
-modified: 20220107190110720
+modified: 20230620055226387
 points: 21.102,-23.79
 style: {"color": "#CA5700"}
 tags: Breland town
 title: First Tower
+tooltip: small town outside of Sharn in Breland
 type: text/vnd.tiddlywiki
 
 At first glance, First Tower

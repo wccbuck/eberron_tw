@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210405005114775
-modified: 20210727192036879
+modified: 20230616175543097
 points: 49.828,14.4
 style: {"color": "#CA5700"}
 tags: Karrnath town
 title: Teryk
+tooltip: town in Karrnath
 type: text/vnd.tiddlywiki
 
 Teryk is a town in [[Karrnath]] just north of [[Shadowmount Forest]].

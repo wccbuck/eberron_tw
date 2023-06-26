@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20220329222425199
-modified: 20220329222435067
+modified: 20230616174519170
 points: 1.22,201.49
 style: {"color": "#CA5700"}
 tags: town Adar
 title: Meerkish
+tooltip: town in Adar
 type: text/vnd.tiddlywiki
 
 {{!!title}} is a town in [[Adar]].

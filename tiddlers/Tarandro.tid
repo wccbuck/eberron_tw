@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404225508421
-modified: 20210727192036268
+modified: 20230616174743259
 points: 23.437,-5.84
 style: {"color": "#CA5700"}
 tags: Zilargo town
 title: Tarandro
+tooltip: town in Zilargo
 type: text/vnd.tiddlywiki
 
 Tarandro is a small town in [[Zilargo]], near [[Zolanberg]].

@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210322024507314
-modified: 20220822041853053
+modified: 20230620053611373
 points: 30.702,-23.98
 population: 18000
 style: {"color": "#8E0024"}
 tags: Breland city
 title: Ardev
+tooltip: largest city in western Breland, marks the eastern edge of the frontier
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200415212913251
-modified: 20220426205820740
+modified: 20230620050429869
 points: 43.422,-29.21
 population: 5500
 style: {"color": "#8E0024"}
 tags: [[Eldeen Reaches]] city
 title: Greenheart
+tooltip: capital of the Eldeen Reaches, headquarters of the Wardens of the Wood and home to the Great Druid's Grove
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>
@@ -20,7 +21,6 @@ train under the elders who govern the settlement. It is located on a [[manifest 
 Although Greenheart is small (around five thousand permanent residents) compared to [[Varna]] in the east, the town’s population swells for ceremonies and sacred festivals. The folk of the forest are committed to defending Greenheart, and they can quickly
 converge on the town in response to any threat.
 
-The druids permit no commerce within Greenheart, and although visitors are welcome, the town has no marketplace or tavern. Shelter, comfort, and
-healing are freely provided within private homes,
+The druids permit no commerce within Greenheart, and although visitors are welcome, the town has no marketplace or tavern. Shelter, comfort, and healing are freely provided within private homes,
 as long as outsiders show the proper deference and
 respect for druidic customs.

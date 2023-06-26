@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20220329221812114
-modified: 20220329221901529
+modified: 20230616174644734
 points: 1.76,198.78
 style: {"color": "#CA5700"}
 tags: town Adar
 title: Ymtarai
+tooltip: town in Adar
 type: text/vnd.tiddlywiki
 
 {{!!title}} is a town in [[Adar]], located near [[Mountainsoul|Ahdryatmin]].

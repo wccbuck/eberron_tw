@@ -1,15 +1,16 @@
 [
     {
         "created": "20210208235652832",
-        "text": "The Rhlia Forest is locaed in central [[Ghirvagura]], [[Riedra]], near the city of [[Dar Myan]].",
+        "text": "The Rhlia Forest is located in central [[Ghirvagura]], [[Riedra]], near the city of [[Dar Myan]].",
         "title": "Rhlia Forest",
-        "modified": "20220827211130341",
+        "modified": "20230620154530675",
         "tags": "Sarlona Ghirvagura forest Riedra",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "location",
         "color": "#3B5C0A",
         "polygons": "14.935,200.71 15.489,200.79 15.96,201.1 16.237,201.65 16.449,202.1 16.892,202.23 17.372,202.74 17.88,203.28 18.378,203.45 18.84,203.71 19.246,203.7 19.385,204.17 19.265,204.52 19.652,204.77 20.169,205.22 20.4,205.79 19.948,205.91 19.615,206.28 18.877,206.52 18.277,206.72 17.778,206.48 17.058,206.15 16.569,205.74 15.96,205.24 15.471,204.87 15.498,204.47 15.637,203.99 15.388,203.72 14.797,203.69 14.252,203.98 14.086,203.83 14.335,203.35 14.834,203.12 15.268,202.82 15.36,202.51 15.092,202.27 15.12,201.9 14.834,201.37 14.474,200.92",
-        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}"
+        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}",
+        "tooltip": "forest in Ghirvagura, Riedra"
     }
 ]

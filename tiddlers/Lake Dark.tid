@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20210203203346209
-modified: 20210727192018099
+modified: 20230620160843164
 polygons: 51.563,20.52 51.655,20.55 51.803,20.68 51.877,20.78 51.877,21.03 51.932,21.17 51.997,21.34 52.006,21.49 52.089,21.64 52.135,21.81 52.246,21.96 52.246,22.05 52.311,22.21 52.292,22.31 52.218,22.37 52.2,22.54 52.126,22.46 52.071,22.47 52.034,22.6 52.015,22.72 51.914,22.68 51.803,22.68 51.72,22.6 51.683,22.48 51.618,22.42 51.572,22.33 51.48,22.27 51.342,22.17 51.258,22.14 51.166,21.97 51.102,21.84 51.12,21.7 51.166,21.51 51.194,21.29 51.203,21.08 51.231,20.97 51.314,20.89 51.406,20.8 51.489,20.78 51.526,20.72
 style: {"color":"#294975","fillColor":"#abcaf5","fillOpacity":"1"}
 tags: Khorvaire Karrnath lake
 title: Lake Dark
+tooltip: lake in Karrnath
 type: text/vnd.tiddlywiki
 
 The pitch-black waters of Lake Dark shimmer in the farmland in eastern [[Karrnath]]. Fed by the cold runoff of the [[Iron River]], Lake Dark is a large body of mist-shrouded water that collects in a depression in the fields

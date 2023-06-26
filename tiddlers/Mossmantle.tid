@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404234950382
-modified: 20210727192022264
+modified: 20230616183026556
 points: 48.0,-21.2
 style: {"color": "#CA5700"}
 tags: [[Eldeen Reaches]] town
 title: Mossmantle
+tooltip: town in the Eldeen Reaches
 type: text/vnd.tiddlywiki
 
 Mossmantle is a village in the [[Eldeen Reaches]] south of the [[Mosswood]].

@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200416211722235
-modified: 20210820072013755
+modified: 20230616183354989
 points: 61.052,37.62
 population: 10500
 style: {"color": "#8E0024"}
 tags: [[Lhazaar Principalities]] city Questor
 title: Port Verge
+tooltip: city in the Lhazaar Principalities, seat of the Diresharks
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

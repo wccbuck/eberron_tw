@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20200414065829104
-modified: 20221120190239100
+modified: 20230616190800882
 points: 39.378,15.0
 population: 3000
 style: {"color": "#CA5700"}
 tags: town [[Talenta Plains]]
 title: Gatherhold
+tooltip: greatest settlement of the Talenta Plains, site of tribal council meetings
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

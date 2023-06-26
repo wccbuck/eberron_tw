@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210322030105690
-modified: 20230430225515120
+modified: 20230620054528331
 points: 29.16,-6.96
 population: 1200
 style: {"color": "#CA5700"}
 tags: Breland town
 title: Mistmarsh
+tooltip: village in Breland, known for its annual gathering of magical acorns from the Faded Forest
 type: text/vnd.tiddlywiki
 
 ''Population:''  <<ntls>>

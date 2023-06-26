@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20230503183656953
-modified: 20230503183808080
+modified: 20230616175450083
 points: 47.73,17.95
 style: {"color": "#CA5700"}
 tags: Karrnath town
 title: Brom
+tooltip: town in Karrnath
 type: text/vnd.tiddlywiki
 
 Brom is a small town in [[Karrnath]], located on the [[lightning rail]] line between [[Vulyar]] and [[Sorallandan]].

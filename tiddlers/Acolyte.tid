@@ -1,8 +1,9 @@
 category: talent
 created: 20220719230431363
-modified: 20220720163037363
+modified: 20230620202724426
 tags: background
 title: Acolyte
+tooltip: talent which grants you advantage on lore related to your religion, and elevated status among those who share your faith
 type: text/vnd.tiddlywiki
 xpcost: 1
 

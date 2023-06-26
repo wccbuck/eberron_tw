@@ -3,13 +3,14 @@
         "created": "20210209001758828",
         "text": "The Paqaa Mountains in [[Sarlona]] stretch from the [[Tashana Tundra]] south through the [[Riedra]]n provinces of [[Dor Maleer]] and [[Nulakaz]]. The [[Riedrans]] call these mountains the ''Frostblades''; Paqaa is the [[Doriak]] name, and the [[Inspired]] intend on wiping every trace of the [[dwarves|dwarf]] from their ancestral home, including the mountains' indigenous name.\n\nThe mountains contain several [[wild zone]]s to [[Dolurrh]] and [[Risia]]. A few [[rogue dragon]]s have laid claim to the abandoned dwarven holds deep beneath the mountains.",
         "title": "Paqaa Mountains",
-        "modified": "20221206184818703",
-        "tags": "Sarlona mountains",
+        "modified": "20230620165816342",
+        "tags": "Sarlona mountains [[Tashana Tundra]] Riedra [[Dor Maleer]] Nulakaz",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "location",
         "color": "#3B5C0A",
         "polygons": "47.114,153.09 46.791,153.6 46.431,154.11 45.655,154.04 45.102,153.57 44.548,153.1 44.252,153.57 43.735,154.29 43.209,154.71 43.237,155.55 43.043,156.25 42.323,156.69 41.871,157.48 42.037,158.36 42.425,158.73 42.258,159.18 42.074,160.08 42.351,160.85 42.268,161.86 42.028,162.49 42.249,163.28 42.757,163.53 42.812,164.22 42.535,165.0 42.092,165.06 41.382,165.28 41.178,165.77 41.372,166.49 41.566,167.31 41.409,168.13 41.354,168.9 41.557,169.56 41.926,170.45 42.388,169.93 42.766,169.28 43.403,168.97 43.772,169.31 44.262,169.18 44.797,168.42 45.36,167.73 46.025,167.26 46.542,166.52 46.717,165.51 46.957,164.44 47.252,163.79 47.723,163.19 48.037,162.41 48.877,161.76 49.56,160.86 50.086,160.18 50.566,160.52 51.185,161.0 51.637,160.57 51.748,159.41 51.748,158.05 51.849,156.85 52.052,155.19 51.72,155.1 51.222,155.37 51.258,154.68 51.498,153.89 51.628,153.07 51.157,153.0 50.843,153.44 50.289,153.29 49.846,153.2 49.514,153.73 49.098,154.12 48.674,154.23 48.231,153.8 47.778,153.11",
-        "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}"
+        "style": "{\"color\":\"#4D382C\",\"fillColor\":\"#6B5334\",\"fillOpacity\":\"0.5\"}",
+        "tooltip": "mountain range in northern Sarlona, ancestral home of Doriak dwarves"
     }
 ]

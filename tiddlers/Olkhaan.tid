@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404225304821
-modified: 20210727192023701
+modified: 20230616175346265
 points: 29.215,3.55
 style: {"color": "#CA5700"}
 tags: Darguun town
 title: Olkhaan
+tooltip: town in Darguun
 type: text/vnd.tiddlywiki
 
 Olkhaan is a village in [[Darguun]], near the border with the [[Mournland]].

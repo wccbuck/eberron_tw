@@ -2,11 +2,12 @@ alternatetitle: il-Shakti
 category: location
 color: #4C8201
 created: 20220329221649192
-modified: 20221206173314015
+modified: 20230616174516052
 points: 7.75,194.34
 style: {"color": "#CA5700"}
 tags: town Adar
 title: il-Shati
+tooltip: town in Adar
 type: text/vnd.tiddlywiki
 
 il-Shati is a town in [[Adar]].

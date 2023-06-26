@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210317211652878
-modified: 20210727191958571
+modified: 20230616174715837
 points: 43.92,-9.71
 style: {"color": "#CA5700"}
 tags: town Aundair
 title: Bluevine
+tooltip: village in Aundair, known for fine wine
 type: text/vnd.tiddlywiki
 
 Bluevine is a village in [[Aundair]] known for being the source of some of the finest wine [[Khorvaire]] has to offer.

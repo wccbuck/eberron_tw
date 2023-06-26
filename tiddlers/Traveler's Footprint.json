@@ -3,12 +3,13 @@
         "created": "20210713051111381",
         "text": "The [[Traveler]]'s Footprint is a small lake in the [[Towering Wood]]. A [[shifter]] population lives along its banks. The lake's specific location is left up to the GM.",
         "title": "Traveler's Footprint",
-        "modified": "20220826053944326",
+        "modified": "20230620160820643",
         "tags": "[[Eldeen Reaches]] lake Khorvaire",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "location",
         "color": "#3B5C0A",
-        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}"
+        "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}",
+        "tooltip": "lake in the Eldeen Reaches"
     }
 ]

@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210207062921415
-modified: 20210820073526076
+modified: 20230616174008048
 points: 36.36,31.34
 population: 18500
 style: {"color": "#8E0024"}
 tags: city [[New Galifar]] Q'barra
 title: Adderport
+tooltip: city in Q'barra
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

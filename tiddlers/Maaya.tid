@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20220329222014452
-modified: 20220329222019646
+modified: 20230616174518454
 points: 10.75,197.49
 style: {"color": "#CA5700"}
 tags: town Adar
 title: Maaya
+tooltip: town in Adar
 type: text/vnd.tiddlywiki
 
 {{!!title}} is a town in [[Adar]].

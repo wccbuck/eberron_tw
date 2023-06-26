@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20210221220914068
-modified: 20210727192040741
+modified: 20230620055730043
 polylines: 2.151,25.96 2.123,25.75 2.031,25.57 2.012,25.23 1.911,25.02 1.726,24.88 1.662,24.69 1.634,24.46 1.56,24.29 1.403,24.23 1.292,24.09 1.163,23.93 1.126,23.8 0.997,23.7 0.822,23.69 0.692,23.65 0.609,23.5 0.545,23.38 0.415,23.42 0.314,23.34 0.102,23.02 0.055,22.68 0.028,22.18 0.028,22.04 -0.074,21.86
 style: {"color":"#294975","fillColor":"#abcaf5","fillOpacity":"1"}
 tags: Aerenal river
 title: Vel Kos
+tooltip: river in Aerenal
 type: text/vnd.tiddlywiki
 
-Vel Kos, the "river of grief", flows from the hills near [[Shae Mordai]] into the [[Gates of Sorrow]].
+Vel Kos, the "river of grief," flows from the hills near [[Shae Mordai]] into the [[Gates of Sorrow]].

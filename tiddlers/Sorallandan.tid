@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20220408052702920
-modified: 20220408053207450
+modified: 20230616184412155
 points: 48.62,19.32
 population: 10400
 style: {"color": "#8E0024"}
 tags: city Karrnath kleynam
 title: Sorallandan
+tooltip: city in Karrnath, largest of the kleynams (settlements built to halfling-scale)
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210203200515253
-modified: 20210914014530088
+modified: 20230616191317809
 points: 49.5,0.34
 population: 75000
 style: {"color": "#8E0024"}
 tags: city Karrnath
 title: Rekkenmark
+tooltip: city in Karrnath, home to the Rekkenmark military academy
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

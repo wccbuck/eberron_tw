@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404225407479
-modified: 20210727192032482
+modified: 20230616174558358
 points: 31.145,2.96
 style: {"color": "#CA5700"}
 tags: Darguun town
 title: Skullreave
+tooltip: town in Darguun
 type: text/vnd.tiddlywiki
 
 Skullreave is a village in [[Darguun]].

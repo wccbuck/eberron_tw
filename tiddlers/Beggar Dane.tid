@@ -1,9 +1,10 @@
 category: culture
 color: #A3CFBB
 created: 20210319185544981
-modified: 20230324200529477
+modified: 20230612035337993
 tags: Breland [[Sharn Inquisitive]]
 title: Beggar Dane
+tooltip: anonymous street bard and everyman, famous in Breland for pragmatic wisdom in the pages of the Sharn Inquisitive
 type: text/vnd.tiddlywiki
 
 <div style="float: left; width: 120px; margin-right: 10px;">{{$:/plugins/wccbuck/beggar-dane.svg}}</div>

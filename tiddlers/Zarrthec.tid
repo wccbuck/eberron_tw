@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404225223271
-modified: 20210727192043679
+modified: 20230616174559060
 points: 26.742,1.85
 style: {"color": "#CA5700"}
 tags: Darguun town
 title: Zarrthec
+tooltip: town in Darguun
 type: text/vnd.tiddlywiki
 
 Zarrthec is a village in [[Darguun]].

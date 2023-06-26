@@ -86,7 +86,15 @@ ScrollToHeaderWidget.prototype.invokeAction = function(triggeringWidget,event) {
 	var actionHeader = this.actionHeader;
     setTimeout(function() {
 		try {
-			var tiddlerDiv = document.querySelector('[data-tiddler-title="' + navigateTo + '"]');
+
+		    var thisStory = triggeringWidget.getVariable("tv-story-list");
+            var tiddlerDiv;
+            if (thisStory !== "$:/StoryList"){
+                tiddlerDiv = document.querySelector('section.tc-story-river.tc-storytwo-river div[data-tiddler-title="' + navigateTo + '"]');
+            } else {
+                tiddlerDiv = document.querySelector('section.tc-story-river:not(.tc-storytwo-river) div[data-tiddler-title="' + navigateTo + '"]');
+            }
+
 			var headers = tiddlerDiv.querySelectorAll("h1, h2, h3, h4, h5, h6");
 			var foundHeader;
 			for (let i = 0; i < headers.length; i++){

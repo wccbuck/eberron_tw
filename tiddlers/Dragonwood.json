@@ -1,1 +1,17 @@
-{"created": "20210210012707176", "title": "Dragonwood", "text": "The Dragonwood is a forest in [[Breland]], and holds the headwaters of the [[Dagger River]]. According to local legends, the twin lakes ''Glisten'' and ''Gloam'' are located deep in the dense wood, waters brimming with magic; wishes made on one lake always turn back on the wisher,\nwhile those made on the other rarely take the expected form but usually turn out for the best. The tales do not clearly identify which lake is which, so those who journey there must decide where best to make their desires known.", "modified": "20210727192005555", "tags": "Breland forest Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "list-before": "Dagger River", "polygons": "30.351,-20.96 30.258,-20.63 30.258,-20.22 30.314,-19.78 30.498,-19.31 30.6,-19.0 30.6,-18.7 30.637,-18.44 30.84,-18.14 30.729,-17.98 30.517,-17.9 30.36,-17.76 30.295,-17.49 30.249,-17.21 30.332,-16.94 30.489,-16.53 30.729,-16.31 30.803,-15.98 30.886,-15.58 31.043,-15.4 31.255,-15.27 31.237,-14.91 31.357,-14.73 31.597,-14.57 31.818,-14.54 32.086,-14.57 32.298,-14.78 32.492,-14.97 32.723,-15.1 32.88,-14.98 32.926,-14.58 32.751,-14.34 32.612,-13.98 32.631,-13.62 32.843,-13.3 33.148,-13.29 33.489,-13.55 33.748,-13.74 33.997,-13.99 34.172,-14.3 34.246,-14.62 34.265,-15.0 34.163,-15.33 34.062,-15.72 34.126,-16.03 34.135,-16.32 34.172,-16.55 34.015,-16.91 34.052,-17.34 34.015,-17.65 33.988,-17.94 34.098,-18.12 34.2,-18.47 34.098,-18.7 33.831,-18.83 33.563,-18.71 33.388,-18.62 33.175,-18.76 32.972,-19.0 32.723,-19.02 32.483,-19.04 32.178,-19.24 31.828,-19.44 31.689,-19.73 31.357,-20.09 31.117,-20.34 30.997,-20.61 30.711,-20.92", "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}"}
+[
+    {
+        "created": "20210210012707176",
+        "title": "Dragonwood",
+        "text": "The Dragonwood is a forest in [[Breland]], and holds the headwaters of the [[Dagger River]]. According to local legends, the twin lakes ''Glisten'' and ''Gloam'' are located deep in the dense wood, waters brimming with magic; wishes made on one lake always turn back on the wisher,\nwhile those made on the other rarely take the expected form but usually turn out for the best. The tales do not clearly identify which lake is which, so those who journey there must decide where best to make their desires known.",
+        "modified": "20230620061707374",
+        "tags": "Breland forest Khorvaire",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "list-before": "Dagger River",
+        "polygons": "30.351,-20.96 30.258,-20.63 30.258,-20.22 30.314,-19.78 30.498,-19.31 30.6,-19.0 30.6,-18.7 30.637,-18.44 30.84,-18.14 30.729,-17.98 30.517,-17.9 30.36,-17.76 30.295,-17.49 30.249,-17.21 30.332,-16.94 30.489,-16.53 30.729,-16.31 30.803,-15.98 30.886,-15.58 31.043,-15.4 31.255,-15.27 31.237,-14.91 31.357,-14.73 31.597,-14.57 31.818,-14.54 32.086,-14.57 32.298,-14.78 32.492,-14.97 32.723,-15.1 32.88,-14.98 32.926,-14.58 32.751,-14.34 32.612,-13.98 32.631,-13.62 32.843,-13.3 33.148,-13.29 33.489,-13.55 33.748,-13.74 33.997,-13.99 34.172,-14.3 34.246,-14.62 34.265,-15.0 34.163,-15.33 34.062,-15.72 34.126,-16.03 34.135,-16.32 34.172,-16.55 34.015,-16.91 34.052,-17.34 34.015,-17.65 33.988,-17.94 34.098,-18.12 34.2,-18.47 34.098,-18.7 33.831,-18.83 33.563,-18.71 33.388,-18.62 33.175,-18.76 32.972,-19.0 32.723,-19.02 32.483,-19.04 32.178,-19.24 31.828,-19.44 31.689,-19.73 31.357,-20.09 31.117,-20.34 30.997,-20.61 30.711,-20.92",
+        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}",
+        "tooltip": "forest in Breland"
+    }
+]

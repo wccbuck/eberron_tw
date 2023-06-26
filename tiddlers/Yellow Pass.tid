@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210905210156958
-modified: 20220408053227189
+modified: 20230616175600795
 points: 49.61,20.48
 style: {"color": "#CA5700"}
 tags: Karrnath town kleynam
 title: Yellow Pass
+tooltip: town in Karrnath
 type: text/vnd.tiddlywiki
 
 Yellow Pass is a village in [[Karrnath]] on the [[Vulyar]]-[[Irontown]] [[lightning rail]] line.

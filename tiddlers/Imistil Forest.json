@@ -3,13 +3,14 @@
         "created": "20210208050032697",
         "text": "The Imistil Forest is a small forest in [[Thrane]], located near the nation's borders with [[Aundair]] and [[Breland]]. It was named after [[Keeper of the Flame]] Jareen Imistil (698–768 [[YK|Modern Age]]).\n\nDuring the Empire of [[Dhakaan]], the Imistil was part of a great forest that stretched from the [[Blackcap Mountains]] to [[Scions Sound]]. Over time, the forest was cleared by settlers, leaving only a few regions drenched in [[primal power|primal magic]] where mortals feared to tread. The Imistil Forest is one of these regions, and it is populated by a community of [[firbolg]]s, the self-professed children of the [[Forest Queen]].",
         "title": "Imistil Forest",
-        "modified": "20221207234428373",
+        "modified": "20230620160535338",
         "tags": "Thrane forest Khorvaire",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "location",
         "color": "#3B5C0A",
         "polygons": "39.72,-8.35 39.628,-8.07 39.397,-7.89 39.111,-7.66 38.825,-7.65 38.492,-7.75 38.206,-7.96 38.142,-8.31 38.289,-8.57 38.354,-8.85 38.622,-9.0 38.88,-9.16 39.231,-9.16 39.554,-8.95 39.702,-8.66",
-        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}"
+        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}",
+        "tooltip": "forest in Thrane, home to firbolgs"
     }
 ]

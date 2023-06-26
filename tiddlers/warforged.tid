@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200415014832044
-modified: 20230104005137279
+modified: 20230528160543204
 tags: construct humanoid
 tier: 2
 title: warforged
@@ -24,7 +24,7 @@ killer, or a visionary in search of meaning.
 !! Links to Headers
 * <<scrollToHeader "Living Steel and Stone">>
 * <<scrollToHeader "Warforged Personality">>
-* <<scrollToHeader "Quirks">>
+** <<scrollToHeader "Quirks">>
 * <<scrollToHeader "Warforged Names">>
 * <<scrollToHeader "Warforged Traits">>
 * <<scrollToHeader "Notes">>
@@ -41,7 +41,7 @@ the precise materials and build of a warforged vary
 based on the purpose for which it was designed. Every warforged also has one unique feature: the fingerprint-like sigil called a "[[ghulra]]" engraved on its forehead.
 
 Although they were manufactured, warforged are
-living [[humanoid]]s. Resting, healing magic, and medicinal skill all provide the same benefits to warforged that they do to other humanoids. 
+living [[humanoid]]s. Resting, [[healing magic|magical healing]], and medicinal skill all provide the same benefits to warforged that they do to other humanoids. 
 
 !! Warforged Personality
 
@@ -63,7 +63,7 @@ The typical warforged has a sexless body shape. Some warforged ignore the concep
 
 The more a warforged develops its individuality, the more likely it is to modify its body, seeking out an [[artificer]] to customize the look of its face, limbs, and plating. 
 
-!! Quirks
+!!! Quirks
 
 Warforged often display an odd personality trait or two,
 given how new they are to the world. The table below contains example quirks. 
@@ -85,11 +85,7 @@ for use in military service. Many of them adopted nicknames, often given to them
 a way to express their path in life. A few take on [[human]]
 names, often the name of a fallen friend or mentor.
 
-//''Warforged Names:''// Anchor, Banner, Bastion, Blade,
-Blue, Bow, Cart, Church, Crunch, Crystal, Dagger,
-Dent, Five, Glaive, Hammer, Iron, Lucky, Mace, Oak,
-Onyx, Pants, Pierce, Red, Rod, Rusty, Scout, Seven,
-Shield, Slash, Smith, Spike, Temple, Vault, Wall 
+//''Warforged Names:''// Anchor, Banner, Bastion, Blade, Blue, Book, Bow, Cart, Church, Crunch, Crystal, Dagger, Dent, Falchion, Five, Glaive, Graven, Hammer, Iron, Lucky, Mace, Oak, Onyx, Pants, Pierce, Pious, Red, Relic, Rod, Rune, Rusty, Scout, Seven, Shield, Slash, Smith, Spike, Steeple, Temple, Three, Vault, Wall, Watcher, Zealot
 
 !! Warforged Traits
 

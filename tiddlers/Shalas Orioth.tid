@@ -1,11 +1,12 @@
 category: location
 color: #3B5C0A
 created: 20210221223333702
-modified: 20210727192031003
+modified: 20230620151011458
 polygons: 13.117,22.86 12.932,23.03 12.72,23.34 12.489,23.63 12.102,23.92 11.843,24.24 11.714,24.62 11.806,24.98 11.908,25.28 11.935,25.5 12.065,25.62 12.314,25.52 12.665,25.28 12.84,24.94 13.108,24.62 13.32,24.27 13.505,23.88 13.569,23.42 13.578,23.18 13.431,23.07 13.311,22.9
 style: {"color":"#333C1A","fillColor":"#66883F","fillOpacity":"0.8"}
 tags: Aerenal forest
 title: Shalas Orioth
+tooltip: jungle in Aerenal
 type: text/vnd.tiddlywiki
 
 Shalas Orioth is a small jungle in [[North Aerenal]], between the rivers [[Vel Silaes]] and [[Vel Maelia]].

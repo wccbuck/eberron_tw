@@ -3,13 +3,14 @@
         "created": "20220826045558285",
         "text": "The Shavalsine River in [[Breland]] flows from the [[Whitehorn Wood]], past [[Shavalant]], into [[Silver Lake]].",
         "title": "Shavalsine River",
-        "modified": "20220826053920012",
+        "modified": "20230620060123144",
         "tags": "Khorvaire river Breland",
         "type": "text/vnd.tiddlywiki",
         "category": "location",
         "color": "#3B5C0A",
         "polylines": "34.942,-23.695 35.029,-23.844 35.075,-24.033 35.187,-24.161 35.351,-24.366 35.442,-24.405 35.511,-24.551 35.573,-24.757 35.621,-24.943 35.613,-25.076 35.686,-25.19",
         "style": "{\"color\":\"#294975\",\"fillColor\":\"#abcaf5\",\"fillOpacity\":\"1\"}",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "river in Breland, flows through Shavalant"
     }
 ]

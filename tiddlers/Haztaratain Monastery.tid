@@ -1,12 +1,13 @@
 category: location
 color: #4C8201
 created: 20210127190813045
-modified: 20220329215024564
+modified: 20230620044959916
 points: 1.32,205.5
 population: 19900
 style: {"color": "#8E0024"}
 tags: fortress Adar city
 title: Haztaratain Monastery
+tooltip: temple-keep of Adar, birthplace of the kalashtar, headquarters of the Haztaratain order of monks
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>

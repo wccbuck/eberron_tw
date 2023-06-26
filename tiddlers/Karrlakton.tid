@@ -1,27 +1,25 @@
 category: location
 color: #4C8201
 created: 20200416204648640
-modified: 20210820070430563
+modified: 20230616191357271
 points: 46.08,8.01
 population: 300000
 style: {"color": "#8E0024"}
 tags: city Karrnath
 title: Karrlakton
+tooltip: second largest city in Karrnath, seat of House Deneith
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>
 
-The sprawling city of Karrlakton, the second largest city in [[Karrnath]], is the birthplace of kings (both [[Karrn the Conqueror]] and [[Galifar I|Galifar Wynarn]] were born
-here) and is the center of power for House [[Deneith]]. The
+The sprawling city of Karrlakton, the second largest city in [[Karrnath]], is the birthplace of kings (both [[Karrn the Conqueror]] and [[Galifar I|Galifar Wynarn]] were born here) and is the center of power for House [[Deneith]]. The
 house's headquarters, [[Sentinel Tower]], dominates the
-city's skyline. Surrounding
-the tower are training grounds, barracks, and smithies
+city's skyline. Surrounding the tower are training grounds, barracks, and smithies
 to accommodate all of House Deneith's needs. Sentinel
 Tower serves as the headquarters of the famed [[Sentinel Marshals]], though most of them are abroad.
 
 The turbulent [[Cyre River]] separates this once-bustling port city from the
-deathly [[Mournland]]. Karrlakton stands in full view of [[Cyre]]’s clouded devastation. Cyre’s shimmering misty curtain fills the horizon, casting a gloomy pall over Karrlakton’s citizens. The city draws unwanted attention from prophets, doomsayers, and
-apocalyptic priests. These ranting oracles proclaim
+deathly [[Mournland]]. Karrlakton stands in full view of [[Cyre]]’s clouded devastation. Cyre’s shimmering misty curtain fills the horizon, casting a gloomy pall over Karrlakton’s citizens. The city draws unwanted attention from prophets, doomsayers, and apocalyptic priests. These ranting oracles proclaim
 the impending doom that awaits the world, pointing
 across the river to support their dire predictions.
 
@@ -34,3 +32,5 @@ the occasional elemental [[airship]] or other vessel that
 braves the river’s frothing waters.
 
 The [[Aurum]] Concordian known as [[Loyal Daison]] owns a significant fraction of the buildings in Karrlakton.
+
+The headquarters of the Order of the [[Blackened Sky]] is located in Karrlakton.

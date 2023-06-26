@@ -1,11 +1,12 @@
 category: location
 color: #4C8201
 created: 20210404232306797
-modified: 20210727192028676
+modified: 20230616175151828
 points: 24.166,-27.06
 style: {"color": "#CA5700"}
 tags: Breland town
 title: Ringbriar
+tooltip: town in Breland
 type: text/vnd.tiddlywiki
 
 Ringbriar is a village in [[Breland]], located on the [[Graymoon River]].
