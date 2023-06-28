@@ -3,14 +3,14 @@ category: game mechanics
 created: 20230509205613057
 displaylanguage: Goblin
 language: Goblin
-modified: 20230626043846743
+modified: 20230626214619416
 scrambling: enabled
 tags: 
 title: language translator
 tooltip: tool for translating text into an Eberron language, or generate gibberish that sounds about right
-translatetext: Seven caves
+translatetext: 
 type: text/vnd.tiddlywiki
-var1: __Saa__! Kar oz er onor twodrash, dhot oz thikeshten kat dhoshenshaat hanshar.
+var1: 
 
 \define translateActions() <$action-generate-gibberish $language={{!!language}} $text=<<actionValue>> $field="var1" $scrambling={{!!scrambling}}/>
 \define translateActions2() <$action-generate-gibberish $language={{!!language}} $text={{!!translatetext}} $field="var1" $scrambling={{!!scrambling}}/><$action-setfield displaylanguage={{!!language}}/>
