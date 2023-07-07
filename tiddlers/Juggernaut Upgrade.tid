@@ -1,6 +1,6 @@
 category: talent
 created: 20211202235207696
-modified: 20211215040305043
+modified: 20230707024841380
 tags: warforged juggernaut
 title: Juggernaut Upgrade
 type: text/vnd.tiddlywiki
@@ -8,7 +8,8 @@ xpcost: 1
 
 ''Prerequisite:'' [[Warforged Integrated Protection]].
 
-As a [[warforged]] [[juggernaut]], you were built to be an unstoppable war machine. 
+As a [[warforged]] [[juggernaut]], you were built to be an unstoppable war machine. Your armor is a part of you, strengthened by your life force.
 
-* Gain an additional [[harm]] box.
+* Your stone and metal shell counts as heavy [[armor]], including the additional special [[harm]] box. Just as with ordinary armor, if you fill this box, you must repair your armor before you can use it again; it will not heal on its own or with [[magical healing]].
+* When you use your [[Warforged Integrated Protection]] to don medium or heavy [[armor]], gain [[advantage]] to resist being knocked prone or moved against your will. In addition, while it's incorporated into your body, your armor can't be targeted by any effect (such as [[heat metal]] or the antennae of a [[rust monster]]) against your will.
 * Gain +1 [[impact]] when you perform feats of strength.

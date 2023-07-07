@@ -2,8 +2,8 @@ category: location
 color: #96CC39
 created: 20200420064806216
 fmwvar: fmw-cogs
-modified: 20220619010119717
-polygons: 20.191,-24.724 20.191,-24.753 20.191,-24.753 20.181,-24.754 20.133,-24.747 20.105,-24.739 20.084,-24.716 20.056,-24.709 20.036,-24.701 20.008,-24.686 19.994,-24.657 19.987,-24.627 19.98,-24.596 19.988,-24.609 19.995,-24.624 20.005,-24.647 20.016,-24.658 20.031,-24.67 20.04,-24.677 20.058,-24.683 20.076,-24.691 20.098,-24.704 20.12,-24.716 20.151,-24.722 20.169,-24.725 20.191,-24.724
+modified: 20230630173410345
+polygons: 20.084,-24.716 20.056,-24.709 20.036,-24.701 20.008,-24.686 19.994,-24.657 19.987,-24.627 19.98,-24.596 19.988,-24.609 19.995,-24.624 20.005,-24.647 20.016,-24.658 20.031,-24.67 20.04,-24.677 20.058,-24.683 20.076,-24.691
 style: {"color":"#6B001B","fillColor":"#5F0018","fillOpacity":0.25}
 tags: Cliffside district Sharn
 title: Ship's Towers
@@ -15,11 +15,13 @@ type: text/vnd.tiddlywiki
 [[Arawai]], [[Boldrei]], the [[Traveler]]), poor lodging (20),
 poor food (36), poor trades (100), poor services
 (140), poor residences (80)<br/>
-''First Impression:'' Most of the traffic here consists of sailors in search of entertainment. Bars, flophouses, and small shops—many of which don't bother to advertise the nature of their business—line the street, which winds precariously along the edge of a steep cliff overlooking the river.<br/>
+''First Impression:'' Most of the traffic here consists of sailors in search of entertainment. Bars, flophouses, and small shops—many of which don't bother to advertise the nature of their business—line the street, which winds along the edge of the river. Further south, [[sea elves|sea elf]] and [[locathah]] walk the streets and swim the channels.<br/>
 ''Social Class:'' Lower class<br/>
-''Neighbors:'' [[Grayflood]] (north); [[Sharn's Welcome]] (northeast); [[Mud Caves]] (east)
+''Neighbors:'' [[Sharn's Welcome]] (north); [[Mud Caves]] (east); [[Dwellwater]] (south)
 
-Almost identical to [[Grayflood]] in mood and appearance, Ship's Towers is distinguished by its southern tip. Here, buildings float upon the water. This boat town, formed of rafts, houseboats, and other watercraft of every shape and size, bobs on the water and is connected by a web of piers, gangplanks, and rope bridges.
+The northern streets of Ship's Towers feel almost identical to [[Grayflood]] in mood and appearance. But further south, buildings extend out from the shore and beyond, floating upon the water of the [[Dagger River]]. This boat town, formed of rafts, houseboats, and other watercraft of every shape and size, bobs on the water and is connected by a web of piers, gangplanks, and rope bridges. 
+
+Further south, beyond the boat town and under the waters of the [[Dagger|Dagger River]], lies [[Dwellwater]], also known as "Fintown," an outpost of the [[Valraean Protectorate]]. Despite being mostly underwater, a number of its buildings extend above the surface, so it can be seen from the shore. 
 
 !! Noteworthy Locations
 

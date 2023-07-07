@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200410005743410
-modified: 20230424065815647
+modified: 20230707062316808
 points: 20.188,-24.47
 population: 2542200
 style: {"color": "#8E0024"}
@@ -97,7 +97,7 @@ The city is primarily made up of these quarters:
 * [[Northedge]]
 * [[Tavick's Landing]]
 
-At the hub of each of these quarters is a cluster of enormous core towers. A web of bridges and platforms connects many of these vast spires, and smaller turrets sprout from the edges of the core towers. The district of [[Skyway]] floats above the highest towers, while the tunnels of the [[Cogs]] stretch out below the lower city.
+At the hub of each of these quarters is a cluster of enormous core towers. A web of bridges and platforms connects many of these vast spires, and smaller turrets sprout from the edges of the core towers. The district of [[Skyway]] floats above the highest towers, while the tunnels of the [[Cogs]] stretch out below the lower city. Finally, the [[Cliffside]] waterfront ward stretches along the [[Dagger River]] to the west of the city's towers.
 
 In between those extremes, each of the quarters is
 divided into an [[upper ward]], a [[middle ward]], and a [[lower ward]]. Each ward is made up of a number of districts, so that the location of a place in Sharn can be expressed
@@ -233,7 +233,7 @@ House [[Tharashk]] has brought an innovation to message delivery in Sharn: the u
 flying couriers are a quick way to get a message across
 the city. If you spot a gargoyle without a burden, you
 can flag it down, and it costs up to [[1c|money]] to deliver a letter or a
-small package.
+small package—though many gargoyles prefer to be paid in stories, songs, or jokes.
 
 !! Spellcasting Services
 

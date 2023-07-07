@@ -1,13 +1,15 @@
 category: game mechanics
 created: 20220421234155472
-modified: 20220502183759258
+modified: 20230706210612617
 tags: 
 title: lunar phases of Eberron
 type: text/vnd.tiddlywiki
 
 Use this tool to see the phases of each of [[Eberron]]'s twelve [[moon]]s. Note that the cycles repeat every two years, so while the only two year options are 998 and 999 YK, those years will also work for any even-numbered or odd-numbered year.
 
-Inspired by /u/abexy's [[homebrewed calendar of Eberron's moons|https://www.reddit.com/r/Eberron/comments/u8zc5k/homebrewed_calendar_of_eberrons_moons_revised_and/]].
+Inspired by /u/abexy's [[homebrewed calendar of Eberron's moons|https://www.reddit.com/r/Eberron/comments/u8zc5k/homebrewed_calendar_of_eberrons_moons_revised_and/]]. This is not canon. Generally the phases of the moons, eclipses, and other convergences are left up to the GM for storytelling purposes. This tool is just a fun visualization.
+
+If you'd like to edit the periods of the moons, you can do that by changing the numbers in [[$:/MoonData]]. Note that some behavior, like the backwards-motion of Lharvion, is hard-coded.
 
 !
 
