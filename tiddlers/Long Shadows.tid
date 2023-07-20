@@ -3,7 +3,7 @@ color: #A3CFBB
 created: 20200410025848856
 day: 26
 day2: 28
-modified: 20211107003334400
+modified: 20230719190941916
 month: 12
 tags: holiday Shadow
 title: Long Shadows
@@ -12,4 +12,6 @@ type: text/vnd.tiddlywiki
 
 ''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
-It's said that the power of the [[Shadow]], the sinister deity of the [[Dark Six]], is at its height during these three nights. Careful people spend this time indoors with friends, but those who relish the darkness might decide to take to the streets to prey on the weak and foolish.
+It's said that the power of the [[Shadow]], the sinister deity of the [[Dark Six]], is at its height during these three nights. In [[Khorvaire]], careful people spend this time indoors with friends, but those who relish the darkness might decide to take to the streets to prey on the weak and foolish.
+
+By contrast, many communities in [[Syrkarn]] have a tradition of setting off fireworks each night of Long Shadows, and decorating buildings with colorful lights to scare away evil spirits. 

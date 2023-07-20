@@ -1,0 +1,18 @@
+category: talent
+created: 20230715165756443
+modified: 20230715200341580
+tags: monk
+title: Disciple of the Open Hand
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+As a [[monk]] of the Way of the Open Hand, you are a master of unarmed martial arts combat. Gain the following benefits:
+
+* Your unarmed hands and feet are considered natural [[weapon]]s. Your unarmed strikes can knock enemies to the ground, or push them up to 15 feet away from you.
+* While you have at least one hand free, you have the ability to deflect [[projectile]] weapons such as arrows that target you. This still requires making an [[attempt|Taking Action]]. On a success with high [[impact]], you may be able to catch the projectile if it is small enough to hold in one hand.
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>

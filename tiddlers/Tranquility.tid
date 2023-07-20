@@ -1,0 +1,14 @@
+category: talent
+created: 20230715193247260
+modified: 20230715193707931
+tags: monk
+title: Tranquility
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+As a [[monk]], you can enter a special meditation that surrounds you with an aura of peace. After you complete a period of rest lasting at least 4 hours, you gain the effect of a [[sanctuary]] spell, which ''lasts for up to 24 hours'', or until you begin another extended rest. The spell also ends early if you make an attack, cast a [[spell]] that affects an enemy, or harm another creature (as per the normal rules of the sanctuary spell).
+
+<<<
+!!! sanctuary
+{{||sanctuary}}
+<<<
