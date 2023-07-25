@@ -1,6 +1,6 @@
 category: note
 created: 20220302010115523
-modified: 20230505154937950
+modified: 20230724215344839
 tags: 
 title: Future Adventure Prep
 type: text/vnd.tiddlywiki
@@ -9,7 +9,7 @@ This is for sketching out adventures many sessions away. See [[Adventures of Ari
 
 [[Old Session Prep]]
 
-Brelish town names: Veiling, Olbaram, Finnseat, Breyreach
+Brelish town names: Olbaram, Finnseat, Breyreach
 
 !! Links to Headers
 * <<scrollToHeader "General Adventure Ideas Alita Wants">>
@@ -119,7 +119,7 @@ Give Alita some options for what directions she can go, some choices for which q
 
 [[Martial Temple of Dol Arrah]] quests:
 
-* Early quests might just be helping out the town. There's going to be a harvest of "runnelberries" soon, in the freshwater marshes that lead to [[Lake Brey]], but some hostile creature is preventing that; go investigate. Twist: An agent of [[Balinor's Blessed]] (House [[Vadalis]]) wants to capture the creature and bring it to a Vadalis [[enclave]]. Could be exported to the [[Hearth]], or just sent to a local enclave: call it "Myrifen Ranch". He uses [[darts of tracking]].
+* Early quests might just be helping out the town. There's going to be a harvest of "runnelberries" soon, in the freshwater marshes that lead to [[Lake Brey]], but some hostile creature is preventing that; go investigate. Twist: An agent of [[Balinor's Blessed]] (House [[Vadalis]]) wants to capture the creature and bring it to a Vadalis [[enclave]]. Could be exported to the [[Hearth]], or just sent to a local enclave: call it "Freybeck Ranch". He uses [[darts of tracking]].
 ** creature is jungle [[ankheg]], creature tier 3. 
 ** When Arien goes out into the Runnels to investigate, describe the [[storm spire]]s which [[Lyrandar]] uses to control the weather
 * Martial Temple provides aid to the [[Heavenly Fleet]]. Could be something there, but that's way out in the [[Lhazaar Principalities]]. Maybe loop back around to this later.
@@ -138,11 +138,11 @@ As Arien's powers grow, the mentor/teachers at the Martial Temple are confused a
 
 !! Mistmarsh
 
-Arien goes back home. When she arrives, she finds her home county has been taken over by a band of brigands. (or maybe she has some clues about this before she arrives.)
+Arien hasn’t gotten a letter from her parents or anyone from [[Mistmarsh]] in a while. She sends a letter telling her parents that she swore a paladin oath and graduated from novicehood, but still doesn’t get a response. She completes the [[Runnelberry Dale|A Menace in Runnelberry Dale]] quest, and still no response. So she decides to go back to Mistmarsh. [[Roak]] says he needs to stay in [[Starilaskur]] because the [[Brightblade]] festival is coming up and he needs to compete!
 
-Take inspiration from Reavers of Harkenwold 4e adventure. The count is somehow unavailable (captured?), and the duke ([[Ruken ir'Clarn]]) isn't helpful, doesn't seem to care; this could introduce him to Alita as kind of a jerk. The sheriff also isn't helping for some reason; maybe he's been bribed.
+Take inspiration from Reavers of Harkenwold 4e adventure. 
 
-Retcon: Albus ir'Clarn isn't the "sheriff," he's the count. "Sheriff" comes from "Shire reeve." But the town reeve is Joherra. Perhaps Albus is away in [[Wroat]] or elsewhere visiting his father Ruken, and his steward is maybe in the pocket of the Iron Circle.
+Alben has left for Wroat, visiting his father Ruken and leaving his steward in charge, but the marauders have taken over [[Tamarack]]. They also have made a deal with the bullywugs, who had previously been kept in check by militias.
 
 Other named folks from Mistmarsh are described here: [[First adventure: Scouting for Gatherhunt]]
 
@@ -150,9 +150,11 @@ Thoughts on adapting Reavers for this region:
 
 * "Woodsinger" elves: replace these with "Cliffwalker" [[shifter]]s in the [[Howling Peaks]].
 * Keep the [[bullywug]]s at Toadwallow Caverns, that's perfect for a marshy area
-* Could name the county Harkenmoor, or Harkenfen.
+* Keep "Harkenwold" as the name of the county; "wold" means hilly uncultivated land, and can even mean "moor."
 * Harken Village = [[Tamarack]], Albridge = [[Mistmarsh]].
 * Iron Circle is a band of mercenaries that served in the [[Last War]] but are now just a band of marauders; In Albus's absence, they've taken over Tamarack and are spreading their influence across the county. They've also made a deal with the [[bullywug]]s to the north, which were previously kept in check.
+
+Lots of steadings and hamlets around, like every 1-2 miles.
 
 !! On the Way to Sharn
 
@@ -160,7 +162,23 @@ Thoughts on adapting Reavers for this region:
 
 Arien could end up in the [[King's Forest]]. There's a large [[manifest zone]] to [[Fernia]] there, could have a fun adventure there. This could be an opportunity to give her the "living blade" weapon from WotBS; perhaps it's the embodiment of a fiery [[dryad]].
 
-In fact, maybe the [[Jungle Boys]] are behind the attack on the lightning rail, but the [[Swords of Liberty]] are ultimately responsible. They targeted the train because perhaps Aejar ir'Wynarn is on board; he got on at [[Wroat]], and the heist took place between Wroat and [[Sharn]]. They stole something of vital importance to him / the royal family, which leads Arien into the King's Forest with Aejar and his retinue. Gives Arien a chance to use her survival skills.
+In fact, maybe the [[Jungle Boys]] are behind the attack on the lightning rail, but the [[Swords of Liberty]] are ultimately responsible. They targeted the train because perhaps Aejar ir'Wynarn is on board; he got on at [[Wroat]], and the heist took place between Wroat and [[Sharn]]. They stole something of vital importance to him / the royal family, which leads Arien into the King's Forest with Aejar and his retinue. Or perhaps they kidnap Aejar himself! Gives Arien a chance to use her survival and tracking skills. She leads Aejar's remaining escort of [[King's Shields]]. Include a [[warforged]].
+
+Before the heist, Aejar gets on the train at [[Wroat]]. If Arien meets him, they talk about the King's Forest, then about the King; Aejar might complain about his father, and how [[Boranel|Boranel ir'Wynarn]] hasn't picked an heir yet.
+
+The Jungle Boys were told this was just to get ransom money from the crown, but a representative of the Swords of Liberty tell them (after the kidnapping) that their demands also include having [[Boranel ir'Wynarn]] sign a bill that would force him to step down and abolish Breland's monarchy. The Jungle Boys are furious at this and are just after the cash. This could be an exploitable point of contention between the two organizations.
+
+Note: Aejar was attacked by a [[ghost tiger]] when he was young (a "tamed" one in the royal palace in [[Wroat]], after he repeatedly prodded it with a wooden sword), and he still has scars from that attack (and two prosthetic fingers). Ghost tigers are native to the [[King's Forest]], and Aejar tries to hide his sheer terror of the prospect of encountering them.
+
+!!! Living Blade
+
+From ChatGPT: "As the party ventures through the King's Forest, they encounter an area that feels unnaturally warm, with the flora and fauna displaying an unusual vibrancy. This is a manifest zone to the plane of Fernia, the Sea of Fire. Amidst the fiery hues of this area, they stumble upon a majestic, ancient tree with bright crimson leaves and a faintly glowing aura. This tree is the home of a fiery dryad named Embera."
+
+The Jungle Boys have been coming to the manifest zone to Fernia lately and exploiting its resources. They came to Embera's tree and hacked pieces of it off, in order to carve into fiery darts and arrow shafts. They also cut down many rare [[firepine]]s for their very valuable wood, but in the process, destabilized the manifest zone. Now Embera's tree is weakened and dying, and the planar connection to Fernia is threatening to throw off the delicate ecological balance that maintains this part of the forest. Embera worries that the Sea of Fire will swell up and overtake this region in wildfires, wiping out habitats. The dryad names a family of endangered "liegferrets" and birds unique to this area that she loves, and wants to see thrive. Embera reaches out to Arien because she can detect the Fernian essence in her.
+
+After dealing with saving Aejar, Arien comes back and follows Embera's instructions to perform a ritual to make this part of the forest more resilient to the elemental influences and save it from destruction. In the ritual, she might have to strengthen the bond between the remaining firepines to absorb the Fernian energies maybe? Perhaps through a magical chant. Maybe she needs strands of heartwood from the downed firepine trees; the dense core of the oldest firepines will help with the ritual. She might also need to contend with [[fire elemental]]s, or [[mephit]]s of smoke and magma.
+
+In the end, Embera passes her spirit into a branch of her tree, the rest of which withers away. The branch becomes the Living Blade.
 
 !! Sharn
 

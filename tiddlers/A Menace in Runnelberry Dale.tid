@@ -1,6 +1,6 @@
 category: note
 created: 20230626212912745
-modified: 20230628184024182
+modified: 20230725000154462
 tags: [[Adventures of Arien]]
 title: A Menace in Runnelberry Dale
 type: text/vnd.tiddlywiki
@@ -8,45 +8,89 @@ type: text/vnd.tiddlywiki
 An adventure in which Arien must stop a troublesome burrowing monstrosity who is terrorizing the runnelberry marshes west of [[Starilaskur]]. However, a representative of House [[Vadalis]] wants it alive and unharmed.
 
 !! Links to Headers
-* <<scrollToHeader "WIP Notes">>
 * <<scrollToHeader "Summary">>
 * <<scrollToHeader "Background">>
 * <<scrollToHeader "Hook">>
+* <<scrollToHeader "Sejra's Advice">>
+* <<scrollToHeader "Arriving in the Runnels">>
+* <<scrollToHeader "The Ravaged Farm">>
+* <<scrollToHeader "The Creature Emerges">>
+* <<scrollToHeader "Nuala the Herbalist">>
+* <<scrollToHeader "Facing the Creature">>
 * <<scrollToHeader "Conclusion">>
-
-!! WIP Notes
-
-Runnelberry season: harvest time is coming in the freshwater marshes west of Starilaskur. But a massive burrowing creature is in the area, preventing anyone from getting close.
-
-When arriving in the Runnels to investigate, describe the [[storm spire]]s which [[Lyrandar]] uses to control the weather.
-
-It turns out the creature is a rare jungle [[ankheg]] (creature tier 3).
-
-Major characters:
-
-* ''Elisia d'Vadalis'': agent of [[Balinor's Blessed]]. She is a skilled beast handler and representative of House [[Vadalis]]. She is determined to capture the ankheg unharmed and bring it to Myrifen Ranch, a Vadalis [[enclave]] nearby. But it's a wily and dangerous beast, and she needs help. She uses [[darts of tracking]].
-** At some point, Elisia mentions to Arien that ankhegs are used by the Gaa'ran [[orc]]s of the [[Barrens|Droaam]], who let the creatures roam through their fields. They till the soil, form tunnels that provide passages for water, and add nutrients to the soil. She says this to emphasize that even a "monstrosity" can serve a purpose.
-* ''Sedric'': local farmer. His lands are among those being ravaged by the [[ankheg]]. He wants the creature dealt with swiftly, and he wants restitution for his losses. To that end, he demands the creature be killed and that whatever rare parts or materials that can be harvested from the beast be turned over to him, to be sold.
-* ''Nuala'': reclusive herbalist. This person lives in the nearby woods and has a deep understanding of creatures and their behaviors. Nuala speculates that the jungle ankheg traveled north from the [[Khraal]] rainforest in [[Darguun]]. She possesses valuable knowledge and might aid Arien in finding a way to pacify the creature without harming it. Possibilities:
-** She might have special sedative herbs or concoctions that can be used to incapacitate the ankheg.
-** Create a diversion into some kind of enclosure. The diversion could be meat, or the mating call of a male (female ankhegs kill the male and lay eggs in his body after mating).
-** Elisia might be able to help pacify it with her [[Mark of Handling]].
-
-Maybe Arien begins the investigation, meets with Sedric, even encounters the ankheg perhaps, before Elisia arrives and provides a twist.
-
 
 !! Summary
 
-[]
+Arien is sent to the Runnels, the farmlands southwest of [[Starilaskur]], to investigate the arrival of a large mysterious burrowing creature which is causing havoc among the runnelberry farms. She discovers that she is not the only one tracking this creature; a representative of House [[Vadalis]] wants to capture the beast alive, as it is a rare [[monstrosity]] that could provide valuable magebreeding insights. Arien must choose whether, and to what degree, to cooperate with the Vadalis agent.
 
 !! Background
 
-[]
+The months of Dravago and Nymm are harvest season for runnelberries, a sweet fruit that grows in the region known as the Runnels southwest of [[Starilaskur]]. However, a very rare form of [[ankheg]], a "jungle ankheg" or "miirankheg" ([[creature tier]] 3), has burrowed its way into the region from [[Darguun]]. It feasted on livestock as it made its way through the Brelish countryside, but here outside of Starilaskur it has discovered its favorite food: runnelberry bushes!
+
+Meanwhile, an agent of House [[Vadalis]], Elisia d'Vadalis, has been tracking this creature for weeks with the help of her Redleaf hound, Barney. She has been tasked to capture it unharmed for her house, but she'll need help to get that done—and she's willing to pay.
 
 !! Hook
 
-[]
+Master Vasiraghi (who taught Arien's Paladin Oaths class in [[The First Semester]]) assigns Arien this task as her first Martial Temple assignment as a paladin. She's told to meet with Sedric, the reeve of the town of Veiling, the largest village in the area.
+
+Note: these missions assigned on behalf of the Martial Temple are not paid; they are part of the service provided by the Temple to the city and surrounding area. As long as paladins and clerics of the Martial Temple continue to dwell there and receive free lodging, meals, and mentorship, they are expected to perform missions periodically, which is also a good way for young paladins and clerics to make a name for themselves.
+
+!! Sejra's Advice
+
+Before Arien embarks on the quest, [[Sejra Whitebinder]], Arien's new mentor, has some advice for her.
+
+* Sejra encourages Arien to study any clues the creature left behind and learn as much as you can about it before engaging it. The creature could be any number of burrowing beasts. Sejra is assuming it's an ashworm, or a clutch of them, which are generally not aggressive, but do have poisonous stingers. It might also be an [[ankheg]]; these have an acidic bite, and their armor can be softened with fire. She says it might also be a [[bulette]], which she reminds you are heavily armored; they're weak in the eyes, and beneath the raised fin on their backs. Also, you may not have to resort to violence, if you can find a way to lead the creature away.
+* Prepare your equipment; make sure your armor is in top condition, your weapons are well-maintained. You also might consider some protective potions, such as a [[potion of acid resistance|potion of resistance]].
+* Call upon the Sovereigns for guidance. They will not always provide direct answers, but they may grant you insight to help you make important decisions. In particular, pray to [[Balinor]] the Hunter for intuition and courage. And trust your instincts!
+* Remember your oath; by upholding your sacred promises, you can accomplish things you never thought possible.
+
+!! Arriving in the Runnels
+
+Arien takes the [[lightning rail]] to the Runnels. Hundreds of little brooks flow north through the scrubland just outside the city, giving way to well-irrigated fields of farmland. She sees the tall [[storm spire]]s dotting the landscape, House [[Lyrandar]] machines which help control the weather. 
+
+Arien makes her way to the town of Veiling, which is very small; most folk live in steadings of one or two families across the countryside, which reminds Arien a bit of her home county of Mistmarsh. She meets with Sedric, the reeve of Veiling. Sedric is also a runnelberry farmer himself, and much of his crop has been destroyed by the creature. He wants the creature dealt with swiftly, and he wants restitution for the town's losses. To that end, he demands the creature be killed and that whatever rare parts or materials that can be harvested from the beast be turned over to him, to be sold.
+
+!! The Ravaged Farm
+
+If Arien investigates one of the farms destroyed by the ankheg, here are some of the clues she finds:
+
+* Folks are staying indoors out of fear of the creature.
+* The tunnels are massive; the creature must be at least five feet wide, and more than ten feet long.
+* Between the tunnels are large, deep tracks in the soft soil that resemble insect legs.
+* The tunnels themselves have similar tracks, but also places where rocks have been pitted and dissolved, and the soil left behind has a sour smell. This indicates the creature uses acid to help with its burrowing.
+* The creature seems to beeline straight for runnelberry bushes, where it then uproots them, shakes off the berries, and leaves the bush behind.
+* A local mentions that he heard stories of livestock disappearing to the south. The same local might say <<scrollToHeader "Nuala the Herbalist">> would know more.
+
+On her way to her next destination (Nuala, Veiling, or elsewhere), she needs to pass through another runnelberry farm—and when she enters it, she feels a vibration under her feet! The [[ankheg]] is here!
+
+!! The Creature Emerges
+
+The jungle [[ankheg]] detects Arien's movement above its tunnel and bursts from the earth, attempting to grab her in its mandibles. It resembles a large green-striped insect with long, sharp claws and deadly mandibles dripping with acidic digestive enzymes. It resembles common ankheg, but larger, with longer and thinner legs. Arien may also notice that a silver dart is embedded in the creature's abdomen.
+
+Before Arien can significantly harm the creature, ''Elisia d'Vadalis'', agent of [[Balinor's Blessed]], intervenes. She has been tracking this creature as it has traveled north, and is determined to capture it unharmed. Elisia tries to use her [[Mark of Handling]] to calm the monstrosity, but it fails, and the creature escapes.
+
+Elisia introduces herself, her young assistant Whit, and her Redleaf tracking hound Barney. She is a skilled beast handler and representative of House [[Vadalis]]. She has been using [[darts of tracking]] to pursue the ankheg. The creature is extremely rare, particularly in this part of the world, and so Elisia wants to capture it unharmed and bring it to Freybeck Ranch, a Vadalis [[enclave]] nearby. But it's a wily and dangerous beast, and she needs help.
+
+* She speculates that the creature originated in the [[Khraal]] rainforest in [[Darguun]].
+* She says she hasn't been able to figure out a consistent way to lure it out; Arien must have just stumbled across it. She knows that ankhegs eat meat (both live and carrion), but had no idea that they apparently enjoy runnelberries this much.
+* At some point, Elisia mentions to Arien that ankhegs are used by the Gaa'ran [[orc]]s of the [[Barrens|Droaam]], who let the creatures roam through their fields. They till the soil, form tunnels that provide passages for water, and add nutrients to the soil. She says this to emphasize that even a "monstrosity" can serve a purpose.
+
+!! Nuala the Herbalist
+
+Nuala is a reclusive herbalist than can provide support for Arien. She lives a few miles outside of Veiling and has a deep understanding of creatures and their behaviors. She possesses valuable knowledge and might aid Arien in finding a way to pacify the creature without harming it. Possibilities:
+
+* She might have special sedative herbs or concoctions that can be used to incapacitate the ankheg. Some of them are of questionable legality, like [[dreamlily]] and felsage (a strong and dangerous sedative). 
+* She's got other illicit substances she offers to Arien, like "lakua" (ground silvery bark that gives an adrenaline rush, and makes time seem to slow down), "redthyme" (a red potion that increases aggression), and "snakeroot" (which is just a hallucinogen).
+* Create a diversion into some kind of enclosure. The diversion could be meat, runnelberries, or the mating call of a male (female ankhegs kill the male and lay eggs in his body after mating).
+
+!! Facing the Creature
+
+Armed with knowledge imparted by Nuala, Elisia and Arien work together to capture the [[ankheg]]. Elisia calms the beast with her [[Mark of Handling]] and binds it with special rope, and her assistant Whit has brought a cart with a cage.
 
 !! Conclusion
 
-[]
+Elisia offers [[10c|money]] in payment to Arien in the form of a [[letter of credit]] at a [[Kundarak]] bank; she signs the letter and stamps it with her [[arcane signet ring]]. 
+
+Arien might be able to convince Elisia to pay restitution to the farmers. Elisia only has 20c left in her discretionary budget after tracking the beast all this way, and she just gave 10c of that to Arien. But she could be convinced to pay the reeve Sedric the remainder of her budget (10c).
+
+Depending on how much value the [[ankheg]] brings to House [[Vadalis]], it might be worth anywhere from 50c-200c.
