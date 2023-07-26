@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
 currentversion: 1.22.4
-modified: 20230719201400133
+modified: 20230726034042117
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -13,11 +13,14 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 
 !!! 1.22.4 <span style="font-weight:normal">(July xx, 2023)</span>
 
-* Added some content from [[Linvraki's Guide to Syrkarn|https://www.dmsguild.com/product/429681/Linvakris-Guide-to-Syrkarn]] by Vani Srinivasan. I added some details to each of the provinces, and some extra color to the [[Syrk]] language and the cuisine section of [[Syrks]] page. I also added the following new pages:
-** [[sheshmiraj]], [WIP]
+* Added some content from [[Linvraki's Guide to Syrkarn|https://www.dmsguild.com/product/429681/Linvakris-Guide-to-Syrkarn]] by Vani Srinivasan. I added some details to each of the provinces along with [[Gjitha]] and [[Nderitese]], moved Gjitha to the coast, and added some extra color to the [[Syrk]] language and the cuisine section of [[Syrks]] page. I didn't add everything, since not all of it resonates with me, especially the parts that contradict canon/kanon (e.g. the Flaming Sands section of Linvraki's says time moves faster in [[Fernia]], but that's not true according to Exploring Eberron). New pages:
+** [[sheshmiraj]], [[Dal Vesh]], [[Flaming Sands]]
+* Added some details to the [[Venomous Demesne]] page. Took inspiration from Megan Caldwell's [[Tiefling Treatise|https://www.dmsguild.com/product/368969/Tiefling-Treatise]], but changed details and used a couple of house names from [[Player's Handbook Races: Tieflings|https://www.dmsguild.com/product/124172/Players-Handbook-Races-Tieflings-4e]]. Made a new page for [[Bal Molesh]], even though it's a stub.
+* Shrank the size of the [[Field of Ruins]] and [[Sul'asa]] on the map
 * Added the missing detail that [[Mordakhesh]] wears a sliver of [[Rak Tulkhesh]]'s prison as a ring on his finger
 * Added a bit to the [[weapon]] page
 * Added [[monk]]-related [[talent]]s: [[Disciple of the Open Hand]], [[Tranquility]], [[Quivering Palm]]
+* Added [[izmbi]] from Forge of War
 
 !!! 1.22.3 <span style="font-weight:normal">(July 7, 2023)</span>
 
