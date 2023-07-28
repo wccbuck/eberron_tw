@@ -637,6 +637,17 @@
         "title": "$:/plugins/sq/Stories/changelog"
     },
     {
+        "title": "Changelog",
+        "fromPageRect": {
+            "top": 28,
+            "left": 580.796875,
+            "width": 32.890625,
+            "right": 613.6875,
+            "bottom": 67.484375,
+            "height": 39.484375
+        }
+    },
+    {
         "title": "Draft of 'Changelog'"
     },
     {

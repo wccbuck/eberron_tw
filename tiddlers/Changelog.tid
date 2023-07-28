@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
 currentversion: 1.22.4
-modified: 20230726034042117
+modified: 20230728200937338
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 
-!!! 1.22.4 <span style="font-weight:normal">(July xx, 2023)</span>
+!!! 1.22.4 <span style="font-weight:normal">(July 28, 2023)</span>
 
 * Added some content from [[Linvraki's Guide to Syrkarn|https://www.dmsguild.com/product/429681/Linvakris-Guide-to-Syrkarn]] by Vani Srinivasan. I added some details to each of the provinces along with [[Gjitha]] and [[Nderitese]], moved Gjitha to the coast, and added some extra color to the [[Syrk]] language and the cuisine section of [[Syrks]] page. I didn't add everything, since not all of it resonates with me, especially the parts that contradict canon/kanon (e.g. the Flaming Sands section of Linvraki's says time moves faster in [[Fernia]], but that's not true according to Exploring Eberron). New pages:
 ** [[sheshmiraj]], [[Dal Vesh]], [[Flaming Sands]]
@@ -20,7 +20,7 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 * Added the missing detail that [[Mordakhesh]] wears a sliver of [[Rak Tulkhesh]]'s prison as a ring on his finger
 * Added a bit to the [[weapon]] page
 * Added [[monk]]-related [[talent]]s: [[Disciple of the Open Hand]], [[Tranquility]], [[Quivering Palm]]
-* Added [[izmbi]] from Forge of War
+* Added [[izmbi]] from Forge of War. Also added [[zezir]] and [[golothoma]] creatures from old Monster Manuals.
 
 !!! 1.22.3 <span style="font-weight:normal">(July 7, 2023)</span>
 

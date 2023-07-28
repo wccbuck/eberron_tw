@@ -1,9 +1,10 @@
 category: location
 color: #3B5C0A
 created: 20201218055845326
-modified: 20210727191959887
+modified: 20230728200221567
 tags: layer Fernia
 title: Campfires
+tooltip: isolated layers of Fernia that reflect the comfort fire can offer
 type: text/vnd.tiddlywiki
 
 These small [[layer]]s of [[Fernia]] reflect the comfort fire can offer. A campfire
