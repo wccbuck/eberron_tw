@@ -1,6 +1,6 @@
 category: talent
 created: 20210726023110934
-modified: 20220301193427221
+modified: 20230707024702697
 tags: warforged
 title: Warforged Integrated Protection
 type: text/vnd.tiddlywiki
@@ -8,7 +8,10 @@ xpcost: 1
 
 ''Prerequisite:'' [[Warforged (talent)]].
 
-As a [[warforged]], your body has built-in defensive layers. Gain [[advantage]] when defending against any physical damage not caused by your own weight (such as falling).
+As a [[warforged]], your body has built-in defensive layers, which can be enhanced with armor. Gain the following benefits:
+
+* Your stone and metal shell is considered to be medium [[armor]], including the additional special [[harm]] box. Just as with ordinary armor, if you fill this box, you must repair your armor before you can use it again; it will not heal on its own or with [[magical healing]].
+* You can don supplementary [[armor]] to further enhance your defensiveness. To don armor, you must incorporate it into your body over the course of 1 hour. Your armor also takes 1 hour to remove. While you live, your armor can't be removed from your body against your will.
 
 !! Other Talents
 

@@ -1,7 +1,7 @@
 category: object
 color: #075157
 created: 20210718033457975
-modified: 20221215054257037
+modified: 20230707022551327
 tags: [[object type]]
 title: armor
 tooltip: tag for a worn item intended to provide physical protection; also a page outlining how armor works in the Storyloom system
@@ -11,6 +11,6 @@ In this document, "armor" is a tag for any worn item intended to provide physica
 
 In the [[Storyloom]] system, if a player character is wearing some form of armor covering at least 50% of their body, they gain one additional ''special harm box''. They may choose to fill that box whenever they suffer [[harm]]. If they do so, their armor is considered damaged and must be repaired before the box can be cleared and used again.
 
-Armor can generally categorized as ''light'', ''medium'', or ''heavy''. Mechanically, these distinctions only serve to inform the GM's decisions when setting [[risk]] and [[impact]] for a given [[attempt|Taking Action]]. If a character is wearing heavy armor, and they are performing an action which has a risk of bodily harm, the GM might decide to set the [[risk]] low. However, if that character is performing an action where the potential [[consequence]]s include losing [[money]], losing an opportunity, advancing a troublesome [[progress clock]], or even suffering [[harm]] that is psychic in nature, armor will likely not reduce [[risk]] at all. In addition, that same armored character trying to swim in the open ocean will likely have reduced [[impact]] and/or [[disadvantage]]. Generally speaking, heavy armors are more expensive than lighter armors; see the [[money]] page ("Adventuring Gear Costs") for some guidelines.
+Armor can generally categorized as ''light'', ''medium'', or ''heavy''. Mechanically, these distinctions only serve to inform the GM's decisions when setting [[risk]] and [[impact]] for a given [[attempt|Taking Action]]. If a character is wearing heavy armor, and they are performing an action which has a risk of bodily harm, the GM might decide to set the [[risk]] low. However, if that character is performing an action where the potential [[consequence]]s include losing [[money]], losing an opportunity, advancing a troublesome [[progress clock]], or even suffering [[harm]] that is psychic in nature, armor will likely not reduce [[risk]] at all. In addition, that same armored character trying to swim in the open ocean will likely have reduced [[impact]] and/or [[disadvantage]]. Generally speaking, heavy armors are more expensive than lighter armors; see the [[money]] page (<<navAndScrollToHeader money "Adventuring Gear Costs">>) for some guidelines.
 
 !!! <<showitem-type>>

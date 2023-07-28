@@ -1,0 +1,17 @@
+[
+    {
+        "created": "20230725043817162",
+        "text": "The Flaming Sands is a massive [[Fernia]]n [[wild zone]] located in the center of [[Andnemun Desert]], on the border between [[Sunyagir]], [[Syrkarn]] and [[Borunan]], [[Riedra]]. True to their name, the Flaming Sands are marked by the near-constant fire storms that tear through the desert. The region's flaring lights can be seen from a great distance even when the sun is high in the sky. When the [[plane]] of [[Fernia]] is coterminous, the temperature of these storms can rise so high that they melt the sands, leaving trails of sparkling glass in their wake.\n\nThe Flaming Sands region has the [[Burning Bright]] [[universal property]] of [[Fernia]].",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Flaming Sands",
+        "tags": "[[manifest zone]] desert Syrkarn Riedra Sarlona Sunyagir Borunan",
+        "modified": "20230725045736461",
+        "style": "{\"color\":\"#C57200\",\"fillOpacity\":\"0\",\"weight\":2,\"dashArray\":\"4, 9\",\"opacity\":\"0.75\"}",
+        "polygons": "18.48,186.3 18.22,186.119 18.08,186.03 17.96,185.97 17.86,185.96 17.61,186.13 17.18,186.53 16.86,186.94 16.66,187 16.57,187.25 16.63,187.43 16.72,187.57 16.99,187.44 17.4,187.27 17.68,187 18.05,186.85 18.49,186.61 18.66,186.44 18.68,186.37",
+        "list-after": "Andnemun Desert",
+        "color": "#3B5C0A",
+        "category": "location",
+        "article": "the ",
+        "tooltip": "massive Fernian wild zone in the Andnemun Desert between Syrkarn and Riedra"
+    }
+]

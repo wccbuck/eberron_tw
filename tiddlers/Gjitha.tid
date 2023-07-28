@@ -1,11 +1,17 @@
 category: location
 color: #4C8201
 created: 20220411040325718
-modified: 20220411040946119
-points: 16.55,168.84
+modified: 20230725052200017
+points: 12.98,164.62
+population: 4000
 style: {"color": "#CA5700"}
 tags: Syrkarn town Khunan
 title: Gjitha
 type: text/vnd.tiddlywiki
 
-Gjitha is a town in [[Khunan]], [[Syrkarn]].
+''Ruler:'' Sahar Rei Kuaren<br/>
+''Population:'' <<ntls>>
+
+Gjitha is a town in [[Khunan]], [[Syrkarn]], located on the coast of the [[Xofre Bay]]. The town has long served as a port of call for ships traveling to and from [[Ardhmen]].
+
+Gjitha is home to the enormous lighthouse known as the Beacon, located on the water's edge—an imposing stone tower of some long-dead wizard of old [[Khunan]], repurposed as a navigational aid. A team of [[magewright]]s maintains its [[continual flame]] lamp. Rei Kuaren, the town's sahar, lives and works in the lower floors of the Beacon.

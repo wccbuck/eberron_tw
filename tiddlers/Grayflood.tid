@@ -2,8 +2,8 @@ category: location
 color: #96CC39
 created: 20200414035710913
 fmwvar: fmw-cogs
-modified: 20210924200240792
-polygons: 20.403,-24.672 20.375,-24.686 20.34,-24.709 20.326,-24.724 20.285,-24.731 20.23,-24.747 20.191,-24.753 20.191,-24.724 20.214,-24.724 20.241,-24.723 20.265,-24.708 20.302,-24.698 20.331,-24.691 20.357,-24.681 20.375,-24.675 20.403,-24.672
+modified: 20230629185807448
+polygons: 20.403,-24.672 20.375,-24.686 20.34,-24.709 20.326,-24.724 20.285,-24.731 20.23,-24.747 20.191,-24.7526 20.241,-24.723 20.265,-24.708 20.283,-24.703 20.295,-24.694 20.311,-24.686 20.334,-24.677 20.354,-24.67 20.371,-24.668 20.392,-24.668 20.403,-24.672 20.403,-24.672
 style: {"color":"#6B001B","fillColor":"#5F0018","fillOpacity":0.25}
 tags: Cliffside district Sharn
 title: Grayflood
@@ -22,6 +22,6 @@ advertise the nature of their business—line the street,
 which winds precariously along the edge of a steep
 cliff overlooking the river.<br/>
 ''Social Class:'' Lower class<br/>
-''Neighbors:'' [[Sharn's Welcome]] (southeast); [[Ship's Towers]] (south)
+''Neighbors:'' [[Sharn's Welcome]] (south); [[Precarious]] (up and east)
 
 Grayflood, a seedy waterfront district, fills roughly the northern half of the docks and wharves running along the [[Dagger River]]. Gigantic cranes empowered by magic haul freight from ships at dock to the warehouse district of [[Precarious]], while the crews of those ships restock and recharge at the shops and taverns that line the bottom of the great cliffs.

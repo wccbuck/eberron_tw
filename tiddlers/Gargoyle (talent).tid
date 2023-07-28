@@ -1,0 +1,26 @@
+category: talent
+created: 20230707020501747
+modified: 20230707074709451
+tags: gargoyle
+title: Gargoyle (talent)
+type: text/vnd.tiddlywiki
+xpcost: 2
+
+As a [[gargoyle]], you gain the following benefits. Note that this [[talent]] costs two [[experience point]]s.
+
+* While you remain motionless, you are indistinguishable from an inanimate statue.
+* You cannot be petrified against your will.
+* Your thick stone hide is considered to be light [[armor]], though it does not convey an additional special [[harm]] box.
+* You have [[darkvision]] out to a range of 60 feet.
+* Gain [[advantage]] when resisting poisons.
+* You don't need to eat, drink, or breathe.
+* You are immune to most [[disease]]s and magical aging effects.
+* You don't need to sleep, and magic can't put you to sleep. However, you must spend six hours each day or night in an inactive, motionless state, though you remain alert during this time.
+
+Note that this talent does not grant the ability to fly, as not all gargoyles are capable of flight; see [[Wings of Stone]].
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>

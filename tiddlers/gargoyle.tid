@@ -1,25 +1,85 @@
 category: creature
 color: #EA868F
 created: 20200418045414687
-modified: 20220824223128867
+modified: 20230707073450072
 tags: elemental immortal
 tier: 2
 title: gargoyle
-tooltip: grotesque creature of elemental earth
+tooltip: elemental creature of living stone which resembles a fiendish, flying goblinoid
 type: text/vnd.tiddlywiki
 
-The inanimate gargoyles that perch atop great buildings are inspired by these malevolent creatures of elemental earth that resemble grotesque, fiendish statues. 
+Gargoyles are creatures of living stone which resemble grotesque, fiendish [[goblinoid]]s. They can be found throughout [[Khorvaire]], but particularly in [[Droaam]], where they originated. As [[elemental]]s, gargoyles don't need to eat, sleep, or drink, and they can remain motionless for months or years.
 
-Gargoyles are likely native to [[Eberron]], though some scholars hypothesize they are creations of the [[daelkyr]] [[Orlassk]]. They can be found throughout [[Khorvaire]] (but especially [[Droaam]]), as well as [[Xen'drik]].
+Since the rise of the [[Daughters|Daughters of Sora Kell]], a great host of gargoyles roost in [[Grimstone Keep]] under the rule of the [[warlord]] [[Cairngorm]], and they have been deployed all across [[Droaam]]. Civilian gargoyles serve as messengers and couriers, while most [[warlord]]s also have a unit of combat-ready gargoyles that serve as scouts and rapid response. Among the denizens of Droaam, the stone folk are generally seen as stoic and reliable.
 
-!! Gargoyles in Droaam
+Gargoyles are also favorite recruits of House [[Tharashk]], and can be found as couriers and scouts across the [[Five Nations]], especially in [[Sharn]].
 
-Since the rise of the [[Daughters|Daughters of Sora Kell]], gargoyles have
-been deployed across [[Droaam]]; they are also favorite recruits
-of House [[Tharashk]]. Civilian gargoyles serve as messengers
-and couriers, while most warlords also have a unit of combat-ready gargoyles that serve as scouts and rapid response. As
-[[elemental]]s, gargoyles don't eat, sleep, or drink, and they can
-remain motionless for months or years. While gargoyles have
-traditionally been depicted as cruel predators, the fact is that
-they love the //thrill// of hunting. They yearn for challenge, and
-love riddles and puzzles almost as much as hunting prey. 
+!! Links to Headers
+* <<scrollToHeader "History of the Gargoyle">>
+* <<scrollToHeader "Appearance and Physiology">>
+* <<scrollToHeader "Psychology and Personality">>
+** <<scrollToHeader "Gargoyle Names">>
+* <<scrollToHeader "Wingwyrds">>
+* <<scrollToHeader "Gargoyle Player Characters">>
+* <<scrollToHeader "Notes">>
+
+!! History of the Gargoyle
+
+Until recently, gargoyles were virtually unknown in [[Khorvaire]]. Thousands of years ago, during the Empire of [[Dhakaan]], an artistic movement among [[goblinoid]] stoneworkers in what is now northern [[Droaam]] led to the creation of thousands of hand-carved "guardian statues"—grotesque stone sentries depicting [[goblin]] champions adorned with [[fiend]]ish features such as horns and bat-like wings. A minority of these statues were larger, depicting [[hobgoblin]] and [[bugbear]] heroes. 
+
+During the [[daelkyr]] incursion, [[Orlassk]] breathed life into these guardian statues. Shocked into sudden consciousness, the gargoyles immediately attacked the revolting creatures of flesh and blood that surrounded them, and claimed the fortresses and settlements of the [[Byeshk|Byeshk Mountains]] foothills as their own. After the dust settled, the gargoyles chose to enter a prolonged period of hibernation, eerily sitting at their posts, indistinguishable from ordinary stone statues. Their spark of life was so weak in this state that they couldn't be sensed even by [[detect immortal]] or similar spells.
+
+Thus the gargoyles slumbered for thousands of years as the Empire of [[Dhakaan]] crumbled. The denizens of the Barrens shunned the ruins of the Byeshk foothills, unnerved by the fearsome //kurarguls//—"deadly stones." Then, over a hundred years ago, the queen of the [[medusa]]s of [[Cazhaak Draal]] spoke to the gargoyles of the Stonelands, entreating them to awaken. Some chose to remain in their torpor, but many reanimated, and were eventually convinced to work alongside the medusas. It was through this alliance that the gargoyles learned how to reproduce; see <<scrollToHeader "Appearance and Physiology">> for more information. Today, Cazhaak gargoyles are more used to the world and to working side-by-side with organic creatures than those more recently awakened; some have even adopted the [[Cazhaak faith|Cazhaak Creed]].
+
+To the east, in the Dhakaani ruins that would eventually become [[Grimstone Keep]], a contingent of [[Silver Flame]] [[templar]]s established an outpost which persisted for more than a century. Then, just over a decade ago, [[Sora Katra]] came and magically roused the gargoyles throughout the keep, whispering a unique story to each stony guardian—the perfect story to pull them from their slumber. Some gargoyles heard tales of the wonders waiting to be seen out in the world. For others, Sora Katra painted pictures of the thrill to be found in battle, or the satisfaction to be found in protecting a loved one. Enticed by these stories, the gargoyles rose up against the templars. However, a small group of gargoyles who were moved by the teachings of the [[Silver Flame]] helped a group of friars escape and return to [[Flamekeep]]; see <<scrollToHeader "Wingwyrds">> for more information.
+
+[[Grimstone|Grimstone Keep]] wasn't the only place where [[Sora Katra]] roused slumbering gargoyles; she traveled to all of the shunned keeps along the southern edge [[Byeshk Mountains]], awakening the guardian statues at each tower. When she was finished, she had amassed a horde of [[elemental]] creatures, all eager to join in the dream of a unified [[Droaam]].
+
+!! Appearance and Physiology
+
+Gargoyles are classified as [[elemental]] creatures because they are entities of animate stone, but they have no connection to other [[plane]]s or other elemental creatures. Their physiology defies all natural law. When a gargoyle stands still, it is indistinguishable from a stone statue. They are made of solid, lightweight, inert rock... and yet, when they choose to move, they can. Many gargoyles have wings, but regardless of the form they take, these wings physically couldn't keep a gargoyle aloft... and yet somehow, they fly. Some scholars believe this is possible due to an instinctive manipulation of elemental air, but nothing has been proven.
+
+The vast majority of gargoyles resemble the [[Dhakaan]]i guardian statues of [[Grimstone Keep]]—horned, tailed, bat-winged [[goblinoid]]s. However, these were each carved by hand, not stamped out of a mold, and thus each gargoyle is unique in some way. Some gargoyles have ram's horns, [[tribex]] horns, or no horns at all; likewise, gargoyle wings can be long or comically small, carved in the likeness of leather or feathers. A sage exceptionally well-versed in the history of [[Dhakaan]] could perhaps identify the ruin from which a sleeper gargoyle originated based on their artistic design.
+
+Some wingless gargoyles were carved in the likeness of ancient [[Dhakaan]]i heroes of all [[goblinoid]] types, including life-sized [[hobgoblin]]s and [[bugbear]]s. During the [[daelkyr]] incursion, the Dhakaani were especially infuriated by [[Orlassk]]'s mockery of their champions and made a concentrated effort to destroy these gargoyles, but there are still a few scattered among the host of [[Grimstone|Grimstone Keep]].
+
+With the help of [[medusa]] [[stoneshaper]]s, the gargoyles of [[Cazhaak Draal]] have developed a ritual that allows them to reproduce. In this ritual, two or more gargoyles work together to carve an egg, during which they infuse the egg with a fraction of their own life force. The egg is buried in a pit of gravel or stone shards, and over time, it absorbs the surrounding chunks of rock, assimilating and reshaping them to build its own body. The appearance of a newborn gargoyle usually reflects a blending of its parents, but this is only a foundation. Although gargoyles don't normally need to eat, a growing gargoyle will consume chunks of stone that will be added to its mass, and as it continues to grow, its appearance will shift to match its own evolving self-image.
+
+As for longevity: gargoyles suffer no detrimental effects from aging, and are immune to magical aging effects. Some gargoyles are thousands of years old; however, most have spent the majority of that time in meditative inactivity. The animating force of a gargoyle is believed to be an [[immortal]] spirit, but it is not known what happens to that spirit when a gargoyle is destroyed.
+
+Some gargoyles have been infused with fiendish power through the implantation of [[demonglass]]; see the [[nabassu]] page for more information.
+
+!! Psychology and Personality
+
+Each awakened gargoyle has a reason they have chosen to move and interact with the world. Four common drives are listed below, but this list is just a starting point.
+
+* ''Curiosity.'' These gargoyles want to see new things, to have new experiences, and meet new people. They could be driven by a broad delight in the countless wonders of the world... or, they could have a few specific things they're searching for. A gargoyle might like birds, or strange weather conditions, or humanoid hairstyles, and they are always delighted to encounter a new variation of their interest. Curious gargoyles often work with House [[Tharashk]], as it provides an opportunity to travel and explore distant lands.
+* ''Movement.'' After centuries of stillness, these gargoyles delight in flying, fighting, dancing, and any form of physical action. "Movers" often serve the [[Daughters|Daughters of Sora Kell]] as scouts and soldiers, but one could just as easily yearn to fly as far away as possible.
+* ''Protection.'' Some gargoyles are driven by love of a person, place, or thing, and their lives revolve around defending their wards. These guardians typically remain stationary, perhaps perched on a fortress wall, until something threatens their charge. However, a guardian gargoyle could form an attachment to an adventurer, or even to an idea, like the wingwyrds of the [[Silver Flame]].
+* ''Contemplation.'' These gargoyles enjoy contemplating weighty concepts, such as religion, philosophy, or [[arcane theory]]. This motivation is similar to curiosity as listed above, but after learning new information on topics that interest them, contemplative gargoyles often fall into a still reverie, spending days or weeks without moving, as they consider the information they've gained.
+
+Most gargoyles have little interest in clothing or material possessions, and their needs are very few. However, one of the greatest challenges for a gargoyle is //boredom//. Rather than gold, gargoyles often prefer to be paid in stories, songs, or jokes; they then use these as social currency in dealings with other gargoyles. Most are tone-deaf and struggle to master musical pursuits, but the rare gargoyle [[bard]]s and entertainers are held in high regard.
+
+While scholars have concluded that the gargoyles were created by [[Orlassk]], the gargoyles themselves have never felt any connection or loyalty to the [[daelkyr]], and largely don't care what scholars say. And while gargoyles have an instinctual revulsion to organic creatures, this is not a supernatural compulsion; the stone folk of [[Grimstone|Grimstone Keep]] and [[Cazhaak Draal]] find humanoids squishy and alien, but they've become used to dealing with them, and some even find organic creatures intriguing.
+
+Gargoyles are generally believed to have no concept of gender. However, it is possible that they have a complex and subtle understanding of gender that transcends their physical forms, and they simply don't try to explain the complexities to their organic companions.
+
+!!! Gargoyle Names
+
+Among themselves, gargoyles use names that can only be pronounced by the subtle grinding of stone teeth. Any other name is chosen for the purpose of interacting with other creatures. Some gargoyles choose descriptive terms, often related to the type of stone their body is formed from. Others use nicknames given to them by their organic associates. And a few just pick random words they like; as such, you could meet a gargoyle named //Spoon//, //Sunset//, or //Breland//.
+
+''//Gargoyle Names://'' Alabaster, Basalt, Boulder, Chip, Cliff, Crag, Devotion, Flint, Granite, Graywall, Lime, Marble, Maul, Obsidian, Peak, Pebble, Rift, River, Rocky, Serpentine, Shale, Shard, Slate
+
+!! Wingwyrds
+
+When the gargoyles of [[Grimstone Keep]] awoke to [[Sora Katra]]'s whispers, not all of them joined the [[hag]] in slaying the templars and friars. The sleeping gargoyles had heard the songs and teachings of the [[Silver Flame]] over the last century, and some of them were spiritually transformed by the vision of the Flame. These gargoyles helped a group of friars escape and return to [[Flamekeep]], where they have embraced the Silver Flame and fight alongside [[templar]]s to this day; these gargoyles are known as //wingwyrds//. 
+
+A decade later, wingwyrds can often be found defending temples throughout [[Flamekeep]], occasionally acting as messengers between them. They spend much of their time waxing philosophic and reflecting on the nature of the [[Silver Flame]].
+
+!! Gargoyle Player Characters
+
+In creating a gargoyle character, first consider your origins. Did you slumber in the ruins of [[Grimstone|Grimstone Keep]] or a similar fortress for thousands of years? Did you live alongside the [[medusa]]s of [[Cazhaak Draal]]? Are you a newborn, hewn in the gravel pits of Cazhaak Draal and still crafting your final form? These decisions may influence your choice of [[talent]]s; see [[Gargoyle (talent)]] and its related talents.
+
+Next, consider the question: "Why do you move?" You could sit still in one place for millennia without moving; in fact, many gargoyles continue to do just that, ignoring [[Sora Katra]]'s call. So what drove you to awaken and interact with the world? A list of potential motivations can be found in the above section "<<scrollToHeader "Psychology and Personality">>".
+
+Also consider how your appearance reflects your choice of [[talent]]s and abilities. Unlike [[warforged]], gargoyles weren't built for a specific purpose; the [[Dhakaan]]i artisans had no idea their creations would come to life. But the material or design of a gargoyle could reflect its capabilities. Do you have wings, horns, or a tail, and if so, what do they look like? A gargoyle [[druid]] could be carved from [[densewood]] instead of stone, while a gargoyle [[sorcerer]] could have [[dragonshard]]s embedded into its rocky body. Perhaps you are a [[nabassu]] [[warlock]], and your fiendish patron is the [[demonglass]] shard implanted within you; can you harness its power without giving in to its influence?

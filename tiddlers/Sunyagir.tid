@@ -1,7 +1,7 @@
 category: location
 color: #3B5C0A
 created: 20210127035631675
-modified: 20220828195559991
+modified: 20230725004834080
 polygons: 11.982,188.88 12.36,188.68 12.618,188.4 12.895,188.13 13.311,188.01 13.994,187.9 14.409,187.95 14.825,187.81 15.258,187.52 15.72,187.35 16.228,187.4 16.735,187.37 17.142,187.12 17.529,186.82 17.908,186.74 18.443,186.49 18.748,186.18 18.96,185.84 19.329,185.69 19.846,185.57 20.225,185.47 20.769,185.6 21.12,185.34 21.471,185.12 21.6,184.79 21.646,184.3 21.637,183.98 21.775,183.69 22.108,183.33 22.403,183.01 22.717,182.7 23.095,182.32 23.428,181.9 23.622,181.55 23.991,181.2 24.295,180.98 24.711,180.86 25.08,180.7 25.283,180.27 25.551,179.98 25.966,179.6 26.252,179.14 26.298,178.95 26.151,178.66 25.948,178.3 25.782,177.95 25.643,177.75 25.394,177.74 25.145,177.55 25.043,177.25 24.72,177.33 24.332,177.38 23.76,177.35 22.92,177.12 22.551,177.07 22.302,177.29 21.988,177.22 21.757,176.89 21.406,176.82 21.157,176.61 20.963,176.3 20.612,176.24 20.298,176.27 20.345,175.8 19.938,175.15 19.726,174.94 19.505,175.02 19.283,175.01 19.098,174.78 18.942,174.74 18.655,175.01 18.397,175.15 18.129,175.07 17.769,175.13 17.871,175.07 17.594,175.41 17.169,175.65 17.169,176.19 17.225,176.67 17.132,177.4 17.068,177.75 16.634,178.09 16.246,178.32 16.2,178.63 16.006,179.32 15.942,179.8 15.674,180.17 15.36,180.88 15.129,181.44 14.889,182.15 14.649,182.79 14.206,183.13 13.846,183.8 13.403,184.62 13.145,185.29 12.794,185.99 12.628,186.45 12.609,187.08 12.323,187.66 12.138,188.17 12.0,188.64
 style: {"fillOpacity":"0","opacity":"0"}
 tags: Syrkarn province
@@ -10,3 +10,9 @@ tooltip: province of Syrkarn, sparsely populated, crysteel mines
 type: text/vnd.tiddlywiki
 
 This province of [[Syrkarn]] is the most sparsely populated of the four, with much of its land covered by the [[Andnemun Desert]]. The crystalline ores used for [[crysteel]] are mined here, as well as iron and other ores. In addition to the [[human]] and [[eneko]] population, a small band of [[stone giant]] nomads known as the Sandstriders are rumored to roam the Andnemun.
+
+The land is checkered with [[wild zone]]s to [[Fernia]] and [[Risia]], making travel through the desert unpredictable and deadly to the unprepared. Temperatures rise and fall dramatically from one region to the next, and vortices of fire and ice tear across the horizon. However, the nomadic tribes who have called Sunyagir home for centuries have adapted to these extremes, and have even developed [[artifice|artificer]] techniques for channeling the energies of these [[plane]]s into heating or cooling their temporary shelters.
+
+The culture of Sunyagir is also known as a hub for the avant-garde, creating performances and fashions that reflect the clashing and contradictory landscapes of the desert. Many prominent artistic movements of [[Syrkarn]] and beyond began here, and visitors to [[Dal Vesh]] can expect to experience musical and theatrical performances found no where else in the world.
+
+Sunyagir is believed to be the birthplace of the [[eneko]].

@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.22.2
-modified: 20230626212030125
+currentversion: 1.22.4
+modified: 20230728200937338
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,26 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.22.4 <span style="font-weight:normal">(July 28, 2023)</span>
+
+* Added some content from [[Linvraki's Guide to Syrkarn|https://www.dmsguild.com/product/429681/Linvakris-Guide-to-Syrkarn]] by Vani Srinivasan. I added some details to each of the provinces along with [[Gjitha]] and [[Nderitese]], moved Gjitha to the coast, and added some extra color to the [[Syrk]] language and the cuisine section of [[Syrks]] page. I didn't add everything, since not all of it resonates with me, especially the parts that contradict canon/kanon (e.g. the Flaming Sands section of Linvraki's says time moves faster in [[Fernia]], but that's not true according to Exploring Eberron). New pages:
+** [[sheshmiraj]], [[Dal Vesh]], [[Flaming Sands]]
+* Added some details to the [[Venomous Demesne]] page. Took inspiration from Megan Caldwell's [[Tiefling Treatise|https://www.dmsguild.com/product/368969/Tiefling-Treatise]], but changed details and used a couple of house names from [[Player's Handbook Races: Tieflings|https://www.dmsguild.com/product/124172/Players-Handbook-Races-Tieflings-4e]]. Made a new page for [[Bal Molesh]], even though it's a stub.
+* Shrank the size of the [[Field of Ruins]] and [[Sul'asa]] on the map
+* Added the missing detail that [[Mordakhesh]] wears a sliver of [[Rak Tulkhesh]]'s prison as a ring on his finger
+* Added a bit to the [[weapon]] page
+* Added [[monk]]-related [[talent]]s: [[Disciple of the Open Hand]], [[Tranquility]], [[Quivering Palm]]
+* Added [[izmbi]] from Forge of War. Also added [[zezir]] and [[golothoma]] creatures from old Monster Manuals.
+
+!!! 1.22.3 <span style="font-weight:normal">(July 7, 2023)</span>
+
+* Added a lot to [[gargoyle]], [[Grimstone Keep]], and [[nabassu]]. New pages: [[Gargoyle (talent)]], [[Wings of Stone]], [[Hewn for Battle]]
+* Added to/tweaked the talents [[Warforged (talent)]], [[Warforged Integrated Protection]], and [[Juggernaut Upgrade]]
+* Added Atur content. New pages: [[Davian Karla]] and [[Lake of Sorrows]]; updated pages: [[Atur]], [[Duran]]
+* The shapes of the districts within [[Cliffside]] of [[Sharn]] never really made sense. [[Sharn's Welcome]] is called the docks of Cliffside, but they are landlocked. [[Grayflood]] is the staging area to lift shipping crates up to [[Precarious]], but it doesn't border Precarious. So I changed things up such that they make sense. I also added [[Dwellwater]], an underwater district that existed in early drafts of Sharn: City of Towers (as "Stillwater," but I renamed it), and ended up getting cut. I put it just south of [[Ship's Towers]], but didn't decide on its exact shape or place it on the map.
+* Specified that [[Jorlanna d'Cannith]] is an [[alchemist]]
+* Added [[Talon Bay]]; it was given a name in the Eyes of the Lich Queen adventure
 
 !!! 1.22.2 <span style="font-weight:normal">(June 26, 2023)</span>
 

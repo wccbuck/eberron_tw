@@ -1,8 +1,8 @@
 category: location
 color: #96CC39
 created: 20200414035325204
-modified: 20210924194653720
-polygons: 20.403,-24.672 20.375,-24.686 20.34,-24.709 20.326,-24.724 20.285,-24.731 20.23,-24.747 20.191,-24.753 20.181,-24.754 20.133,-24.747 20.105,-24.739 20.084,-24.716 20.056,-24.709 20.036,-24.701 20.008,-24.686 19.994,-24.657 19.987,-24.627 19.98,-24.596 19.988,-24.561 19.996,-24.564 20.001,-24.581 20.005,-24.603 20.014,-24.624 20.02,-24.639 20.023,-24.644 20.038,-24.657 20.057,-24.666 20.074,-24.672 20.081,-24.681 20.095,-24.692 20.118,-24.7 20.136,-24.706 20.167,-24.71 20.197,-24.712 20.214,-24.711 20.237,-24.704 20.258,-24.697 20.28,-24.695 20.295,-24.694 20.311,-24.686 20.334,-24.677 20.354,-24.67 20.371,-24.668 20.392,-24.668
+modified: 20230702190017507
+polygons: 20.403,-24.672 20.375,-24.686 20.34,-24.709 20.326,-24.724 20.285,-24.731 20.23,-24.747 20.191,-24.7526 20.181,-24.754 20.133,-24.747 20.105,-24.739 20.084,-24.716 20.056,-24.709 20.036,-24.701 20.008,-24.686 19.994,-24.657 19.987,-24.627 19.98,-24.596 19.988,-24.561 19.996,-24.564 20.001,-24.581 20.005,-24.603 20.014,-24.624 20.02,-24.639 20.023,-24.644 20.038,-24.657 20.057,-24.666 20.074,-24.672 20.081,-24.681 20.095,-24.692 20.118,-24.7 20.136,-24.706 20.167,-24.71 20.197,-24.712 20.214,-24.711 20.237,-24.704 20.258,-24.697 20.28,-24.695 20.295,-24.694 20.311,-24.686 20.334,-24.677 20.354,-24.67 20.371,-24.668 20.392,-24.668
 style: {"color":"#6B001B","fillColor":"#8E0024","fillOpacity":0.3}
 tags: Sharn ward quarter
 title: Cliffside
@@ -35,3 +35,4 @@ rarely initiate violence, but there have been clashes between them and aggressiv
 * [[Mud Caves]]. This shantytown sits on the edge of Cliffside, where generations of destitute people have carved out homes in the cliff walls. It's a wretched existence, but most of the inhabitants have no other options. It also makes an excellent hiding place for fugitives.
 * [[Sharn's Welcome]]. Also known as the docks of Cliffside, this area is rough and dirty. Its taverns frequently host brawls, while the inns offer travelers a wide variety of ways to be cheated or robbed.
 * [[Ship's Towers]]. Drifting alongside the Cliffside docks is a collection of rafts, ships, and houseboats lashed together to form a floating community.
+* [[Dwellwater]]. A district that is mostly submerged beneath the [[Dagger River]], home to many sea-dwelling creatures.
