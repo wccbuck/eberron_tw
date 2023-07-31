@@ -1,0 +1,13 @@
+category: location
+created: 20230731152429960
+linkto: Khorvaire
+list-before: Adder River
+modified: 20230731162431140
+polygons: 29.538,-9.031 29.404,-8.558 29.097,-7.921 29.116,-7.449 29.068,-7.053 29.001,-6.899 29.126,-6.68 29.356,-6.592 29.719,-6.855 29.996,-7.185 30.281,-7.482 30.404,-7.69 30.499,-8.075 30.413,-8.613 30.138,-9.36 29.958,-9.481 29.595,-9.218
+style: {"color":"#17442E","fillColor":"#496D56","fillOpacity":"0.5"}
+tags: geography
+title: $:/MistmarshSwamp
+type: text/vnd.tiddlywiki
+var: back
+
+The swampland between Mistmarsh and the Faded Forest.
