@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20210322030105690
-modified: 20230620054528331
+modified: 20230801062507094
 points: 29.16,-6.96
 population: 1200
 style: {"color": "#CA5700"}
@@ -10,11 +10,21 @@ title: Mistmarsh
 tooltip: village in Breland, known for its annual gathering of magical acorns from the Faded Forest
 type: text/vnd.tiddlywiki
 
+''Ruler:'' Reeve [[Joherra]]<br/>
 ''Population:''  <<ntls>>
 
-This small town in the county of Clarn chiefly houses farmers who take advantage of the fine soil and weather along the southern edge of the Mistmarsh Swamp. The
-citizens of Mistmarsh enjoy an above-average standard
-of living, and many families have one or more daring
-youths who partake in the annual treks into the [[Faded Forest]] to gather the magical acorns that grow there. While dangerous, these expeditions are highly organized and well prepared, with each family keeping secret records of where particular  [[dragonseye|dragonseye acorn]] and ghost oaks can be found. The magical seeds have useful [[alchemical|alchemist]] properties, and serve as a major source of income for the village.
+This small town in the county of [[Harkenwold]] chiefly houses farmers who take advantage of the fine soil and weather along the southern edge of the Mistmarsh Swamp. It sits where the [[White River]] meets the [[Yedan|Yedan River]]. The citizens of Mistmarsh enjoy an above-average standard of living, and many families have one or more daring youths who partake in the annual treks into the [[Faded Forest]] to gather the magical acorns that grow there. While dangerous, these expeditions are highly organized and well prepared, with each family keeping secret records of where particular [[dragonseye|dragonseye acorn]] and ghost oaks can be found. The magical seeds have useful [[alchemical|alchemist]] properties, and serve as a major source of income for the village.
 
-[[Alben ir'Clarn]], the youngest son of Lord [[Ruken ir'Clarn]], serves as sheriff in the region. He has been a friend to the people of the town and is well respected, though they fear he does not pay enough attention to their warnings about the perils of the Mistmarsh Swamp.
+[[Alben ir'Clarn]], the youngest son of Lord [[Ruken ir'Clarn]], serves as the Count in the region. He has been a friend to the people of the town and is well respected, though they fear he does not pay enough attention to their warnings about the perils of the Mistmarsh Swamp. He splits his time between the town of [[Harkenton]], the seat of the county, and [[Wroat]], where he vacations and visits with his father.
+
+!! Important Locations in Mistmarsh
+
+* ''The Old Bridge.'' A bridge spans the [[White River]] leading into town, wide enough for two carts side-by-side and tall enough to allow the [[Lyrandar]] [[elemental riverboats|elemental vessel]] to pass under. A vine-covered ruin of a tower sits on the south side of the river, once a post for soldiers guarding the bridge; the roof collapsed long ago, leaving the interior open to the weather, but the walls are still sound.
+* ''Mistmarsh Bank.'' This bank is not connected to the [[Kundarak]] vault network, but it does have a [[speaking stone]]... which has been out-of-order for three years.
+* ''Clifney Wainwright.'' Erst Clifney is a stout, middle-aged, grey-haired human of few words, and his family has owned this business for generations. A crafter, he sells mostly to local farmers in need of carts, wagons, or wheelbarrows, as well as the rare merchant still making use of the old roads. Erst's grandfather was a smuggler, and built hidden tunnels and storage spaces under the workshop.
+* ''Reeve's Manor.'' [[Joherra]], the town reeve, lives in the manor house with her wife, Nioma. However, she does most of her business from the common room in the [[Mallard Inn]].
+* ''Village Green.'' This open space serves as a market in good weather. On most days, the children of the town gather here to play. Merchant caravans use the green as a campsite if they're too big to fit in the innyards.
+* ''Kathrid's Smithy.'' [[Kathrid]] serves as one of Mistmarsh's three blacksmiths.
+* ''The [[Mallard Inn]].'' A small inn and taphouse owned by a man named Onneth.
+* ''Yedan River Mercantile.'' This trading post deals in locally produced woodwork, leather goods, provisions, and a handful of luxury items imported from [[Starilaskur]] or [[Zilargo]]. It is run by Roma Featherton, a brisk, robust, officious [[halfling]] who recently took over the business from her ailing father. Her cousin Abel and his family help out. Most mundane equipment other than armor or weapons is available for purchase here.
+* ''Grem Stables.'' [[Curlot Grem]], an aging and eccentric veteran of the [[Last War]], owns this livery and stable.

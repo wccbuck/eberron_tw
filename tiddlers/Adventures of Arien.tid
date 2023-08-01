@@ -1,6 +1,6 @@
 category: note
 created: 20220208023535083
-modified: 20230728201907531
+modified: 20230801000409575
 tags: 
 title: Adventures of Arien
 type: text/vnd.tiddlywiki
@@ -20,7 +20,6 @@ The adventures of [[Arien Grimbold]]!
 * <<scrollToHeader "Session 12">>
 ** <<scrollToHeader "TODO">>
 ** <<scrollToHeader "Magic Items">>
-** <<scrollToHeader "Second Semester Courses">>
 * <<scrollToHeader "Scenes">>
 ** <<scrollToHeader "Dravago">>
 ** <<scrollToHeader "Nymm">>
@@ -38,35 +37,9 @@ The adventures of [[Arien Grimbold]]!
 * Make a scene surrounding the swearing of the [[Oath of the Ancients]]. This happens on [[Aureon's Crown]], a traditional day for students to advance or graduate.
 * Has Arien kept going to unity dinners, or is it a little awkward going to social events with the Preceptor? Has she made friends there? Has she picked up any [[Liotian]]?
 ** Names: Sovellom, Fellise, Paela
-* When does [[Argonth]] move across the country? (see Brightblade discussion below)
 * Runnelberry season adventure ([[A Menace in Runnelberry Dale]])
-* Need to lay groundwork for an adventure in the [[Seven Caves]] (Hirot'zhaaraan? Hirot'jarluv?) or better, some abandoned Dhakaani fortress on the Brelish side of the [[Seawall Mountains]]. I like the idea that they could have to contend with a [[wyvern]] nest. Could take a lightning rail to [[Sterngate]], or go through [[New Cyre]]. Note that [[Marguul]] clans might still pop up, they don't necessarily respect the Darguun-Breland border and tend to populate caves on either side.
-
-!!!! Brightblade
-
-//Is this even interesting enough to run on its own? Or do we skip ahead to Mistmarsh Homecoming?//
-
-Think about [[Brightblade]] scene/adventure; [[Roak]] will feature prominently.
-
-Event ideas:
-
-* Swimming/running, maybe canoe race
-* Strongman contest: lifting heavy objects, breaking barriers, log tossing, tug-of-war
-* Archery trickshots
-* Eating contests?
-* Obstacle course
-* Boxing
-* Wrestling
-* Jousts
-* Dueling (nonlethal)
-* Weaponsmithing
-
-Different events throughout the day and throughout the city; many events are held in Toperen Boulevard which is roped off to thru traffic, and others (canoeing?) are held on [[Lake Brey]]. In the evening, the [[Broken Blade]] monastery hosts the finals for wrestling, fencing, and a few other events (grand melee? team skirmish? king of the hill?), and holds an awards ceremony. I think [[Farlay]] for sure competes each year even though he's getting older.
-
-It just so happens that [[Argonth]] is passing through the area in time for Brightblade. Or perhaps it's stopped, and folks from Argonth want to compete. Recall that Field Marshal [[Alain ir'Ranek]] is a viscount and does not submit to local authority.
-
-* Could be some tension with [[warforged]] competitors. Are they allowed to compete? Do they have their own category? Perhaps [[Big Bara]] herself is competing.
-** Warforged names: Patient, Cleese, Thunder
+* [[Argonth]] moves across the country this year. Arien sees it on the lightning rail ride to Sharn
+* Finish [[The Reavers of Harkenwold]]
 
 !!! Magic Items
 
@@ -95,18 +68,35 @@ It just so happens that [[Argonth]] is passing through the area in time for Brig
 !!! Nymm
 
 * [[A Menace in Runnelberry Dale]]
+* [[The Reavers of Harkenwold]]. This likely extends into the month of [[Lharvion]].
+* Nymm 12: [[Brightblade]]. Arien can't train or compete in this since she's heading home, but [[Roak]] is intensely training for this. Notes on Brightblade:
 
-* Nymm 12: [[Brightblade]]. See notes in  <<scrollToHeader "Brainstorming">>. But consider that this adventure doesn't serve much purpose in moving the narrative forward. We might instead skip to Mistmarsh homecoming adventure after Runnelberry Dale.
+Event ideas:
+
+* Swimming/running, maybe canoe race
+* Strongman contest: lifting heavy objects, breaking barriers, log tossing, tug-of-war
+* Archery trickshots
+* Eating contests?
+* Obstacle course
+* Boxing
+* Wrestling
+* Jousts
+* Dueling (nonlethal)
+* Weaponsmithing?
+
+Different events throughout the day and throughout the city; many events are held in Toperen Boulevard which is roped off to thru traffic, and others (canoeing?) are held on [[Lake Brey]]. In the evening, the [[Broken Blade]] monastery hosts the finals for wrestling, fencing, and a few other events (grand melee? team skirmish? king of the hill?), and holds an awards ceremony. I think [[Farlay]] for sure competes each year even though he's getting older.
+
+Maybe some [[warforged]] compete too, in their own category. But [[Roak]] decides to compete in their category even though he doesn't have to! Warforged names: Patient, Cleese, Thunder
 
 !!! Lharvion
 
 * ~~[[Old Man Cord]]?~~
-* Let's do <<navAndScrollToHeader "Future Adventure Prep" "Mistmarsh">> adventure ([[The Reavers of Harkenwold]])
+* Return from Harkenwold
 
 !!! Barrakas
 
-* The [[Hunt]]. Perhaps we meet up with that Vadalis agent from the ankheg adventure.
-* Or, we just move on with the story and have Arien make plans to go to [[Sharn]]. See <<navAndScrollToHeader "Future Adventure Prep" "On the Way to Sharn">>.
+* The [[Hunt]] (no adventure planned)
+* Have Arien make plans to go to [[Sharn]]. See <<navAndScrollToHeader "Future Adventure Prep" "On the Way to Sharn">>.
 
 !! Other Students
 

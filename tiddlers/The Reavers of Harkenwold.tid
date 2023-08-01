@@ -1,24 +1,143 @@
 category: note
 created: 20230728201704673
-modified: 20230728201839990
+modified: 20230801060802625
 tags: [[Adventures of Arien]]
 title: The Reavers of Harkenwold
 type: text/vnd.tiddlywiki
+
+[WIP]
 
 A series of adventures in which Arien must release her home county from the tyranny of a powerful band of brigands.
 
 !! Summary
 
-[]
+This adventure pits Arien against the [[Iron Circle]], a company of cruel mercenaries that has seized control of the county of [[Harkenwold]]. Arien must become a daring rebel and lead the folk of her home county against their oppressors.
+
+At present, [[Iron Circle]] mercenaries are plundering the land. Count [[Alben ir'Clarn]] has left for the season on holiday to [[Wroat]], leaving his old majordomo [[Jonn Stockmer]] in charge; however, the majordomo is now a prisoner in his own keep, and a villainous lord named [[Nazin Redthorn]] rules in his place. The Harkenwold folk are down to their last hope—that a brave hero will answer their calls for help and break the Iron Circle.
 
 !! Background
 
-[]
+About six weeks ago, [[Nazin Redthorn]] led his band of mercenaries known as the [[Iron Circle]] into [[Harkenwold]] in a surprise attack. The brigands stormed the [[Harkenton]] Keep and took the [[steward|Jonn Stockmer]] captive. Iron Circle sweeps and raids soon quelled any show of resistance, leaving the county a conquered land. The Iron Circle has bribed the [[Municipal Guard|Breland Municipal Guard]] of Harkenton to prevent anyone from leaving or entering the county by main roads, including couriers. The mercenaries are also forcing a [[Sivis]] [[stonespeaker|speaking stone]] to answer any messages from the Count with false, mundane replies. 
+
+The new bandit "authorities" are pillaging Harkenwold through "tolls" and confiscations, harshly punishing anyone who resists. [[Nazin|Nazin Redthorn]] is further strengthening his hold by negotiating with other malignant forces. In particular, he's used some of the loot he's plundered from the county's suffering populace to buy the friendship of a group of odious [[bullywug]]s.
+
+[[Nazin Redthorn]] knows that this operation is short-term, and that their hold on this region won't last forever. But he believes that by the time word reaches the Count's ears and he returns with an army, the [[Iron Circle]] will have withdrawn and escaped, having bled the county dry.
 
 !! Hook
+
+[[Arien Grimbold]] hasn't been home to [[Mistmarsh]] since she left for [[Starilaskur]] almost a year ago. She's been in regular contact with her parents via letters, but she hasn't received a letter from them (or anyone else in Mistmarsh) in a while. She sends them a letter telling them that she swore a [[paladin]] oath and graduated from novicehood... and still no response. So she decides to go back to her home town. ([[Roak]] says he needs to stay in [[Starilaskur]] because the [[Brightblade]] festival is coming up, and he needs to compete!)
+
+!! Freeing Harkenwold
+
+To successfully overthrow the [[Iron Circle]] and restore freedom to [[Harkenwold]], Arien must accomplish at least four of the following goals:
+
+[Todo: Add scrollToHeader links here]
+
+* Defeat the [[bullywug]]s of the Toadwallow Caverns.
+* Forge an alliance with the Cliffwalker [[shifter]]s.
+* Win the Battle of Mistmarsh.
+* Rescue Majordomo [[Stockmer|Jonn Stockmer]] from Harkenton Keep.
+* Defeat [[Nazin Redthorn]], the leader of the [[Iron Circle]].
+
+Achieving four of these goals ensures that the Harkenwolders eventually triumph over the [[Iron Circle]]. Achieving all five brings about an immediate victory. For example, losing the Battle of Mistmarsh would be a serious setback, but the remaining villages can beat the Iron Circle if Nazin is dead, the steward is freed, the Cliffwalkers are on their side, and the bullywugs pose no threat.
+
+Note that [[Nazin Redthorn]] is an arrogant and overconfident man; he is willing to let resistance gather over time, so that he can crush it all at once when it suits him.
+
+!! Travel to Mistmarsh
+
+When Arien disembarks from the [[lightning rail]] at [[Heeson's Ferry]], she needs to make her way south. No [[Lyrandar]] riverboats make their way upriver these days, since they typically wait until Gatherhunt at the end of [[Barrakas]]. Keelboats (poleboats) make the journey up and down the [[Yedan River]], but it's slow going upstream; they only average 15 miles per day. It's faster (and cheaper) to trek on foot. The major villages are noted on the map, but every few miles, she can find little steadings: farms or homesteads in the countryside surrounded by many acres of land, home to a single extended family (no more than 20 people).
+
+[[Heeson's Ferry]] to [[Pran]] is about 145 miles (or 157 miles by river). If Arien walks or takes a horse (30 miles per day), that should take 5 days (6 days to [[Mistmarsh]]). If she takes a keelboat, it should take 10.5 days (12 days to Mistmarsh). When she reaches [[Nelview]] (53 miles south of Heeson's Ferry, 2 days journey), she starts to realize something is afoot; rumors circulate that brigands have taken over the entire county to the south, that people aren't allowed out or in along the main roads, including [[Couriers Guild]] mail carriers.
+
+Pran is the last village before she'll need to travel off the main road to avoid attention; a group of [[Municipal Guards|Breland Municipal Guard]] from [[Harkenton]] prevent folks from traveling further south. They mumble something about a temporary travel ban due to a security risk that's under active investigation. (Though the Guards won't resort to violence; they aren't paid enough for that.)
+
+[[Pran]] to [[Mistmarsh]] is 24 miles along the main road, or longer off-road—another day of travel. On this journey, she encounters the [[Iron Circle]] for the first time: Earlene's farmstead.
+
+!! Earlene's Plight
+
+Rounding a bend in the road, Arien spies a pillar of smoke climbing into the sky. The source, hidden by thick trees, is about a mile west of the main road, along a dirt path. When she investigates, she sees human brigands with an attack dog surrounding a farmhouse. The humans all wear black cloaks with a gray ring emblem. They're preparing pitch-soaked torches, laughing and taunting whoever's inside. They've already burned a small outbuilding—the source of the smoke column.
+
+The ruffians are focused on the farmhouse, so it isn't too difficult to sneak up on them. A four-foot-high fieldstone wall surrounds the property. If alerted, the brigands attempt to scare Arien off. The dog growls, and one of the men scowls and waves his arm. "Move on, you!" he snarls. "This is [[Iron Circle]] business!"
+
+From inside the farmhouse, Arien hears a woman's voice shout for help.
+
+''Fight!'' Three brigands and a dog. Each of the brigands has a [[SAC-12]] [[crossbow]] and a shortsword, and is wearing leather armor. When only one brigand remains, he breaks off and tries to run for it. Earlene and her sons hide inside the farmhouse until the fight is over; the Iron Circle bandits ignore them.
+
+''Features of the Area:''
+
+* ''Wall:'' A four-foot-high fieldstone wall surrounds the property.
+* ''Burned Outbuilding:'' The thatch roof on this storage shed is burned away, and the walls are charred and weakened, but it is mostly intact.
+* ''Farmhouse:'' The windows are shuttered, and the door is barred.
+* ''Tree:'' A single tree in the yard provides some cover.
+* ''Well:'' A 15-foot-deep well sits on the right end of the property, surrounded by a low stone wall.
+
+!!! Earlene's Plea
+
+When Arien defeats or drives off the [[Iron Circle]] attackers, Earlene emerges from her house, drawing back the heavy bolt and opening the farmhouse door. She looks to be a [[Khoravar|half-elf]] woman of middle years, and two boys of fifteen or so follow after her. The woman looks around the yard, frowning at the bloodshed, and sighs.
+
+"Thank you, stranger," she says. "Those Iron Circle jackals came to rob us. I barred my door, but they said they'd burn the house down with me and my boys in it. You saved our lives—but who are you?"
+
+Earlene is a tough, frontier woman, bowed but unbroken. Talking about the Iron Circle makes her furious.
+
+Questions Arien might ask:
+
+* ''Who are you?'' "My name is Earlene, and these are my sons Jarek and Jarl. This is our farm. Those Iron Circles killed my husband Karthen when they invaded, and my boys and I have been trying to get by ever since."
+* ''Who attacked you? Who is the Iron Circle?'' "The Iron Circle is a bunch of mercenaries what fought in the war, but I guess got bored in peacetime and decided to take over this whole county. Count [[Alben|Alben ir'Clarn]] is with his daddy up in [[Wroat]], meantime those jackals took over the keep in [[Harkenton]] over a month ago, and they've been plunderin' and lootin' ever since. They say they're collecting taxes, but they're just robbin' folks, pure and simple."
+* ''How can I help?'' "I hear there's some folk tryin' to drum up a rebellion, you ought to head down to [[Mistmarsh]] and talk to old Curlot. He'll know what needs doing. But be careful, and don't go tellin' anyone I told you that."
+* ''Where should I go?'' "I'd avoid [[Harkenton]]. It's crawlin' with [[Iron Circle]] brutes. Mistmarsh should be safe enough, for now."
+* ''Good-bye.'' "Take care, stranger! My boys and I will hide these bodies; we don't want the ruffians to learn what happened here any time soon."
+
+!! Arriving in Mistmarsh
+
+[]
+
+!! Encounters
+
+!!! Tavern Brawl
+
+This encounter happens whenever Arien chooses to seek out and confront some of the [[Iron Circle]] soldiers garrisoning one of the villages in Harkenwold. For example:
+
+* Arien arrives in Mistmarsh and goes to the [[Mallard Inn]] before speaking to [[Curlot Grem]] or [[Vylae]]
+* Arien ventures to [[Harkenton]] and stumbles on Iron Circle soldiers in a tavern there
+* Arien seeks out a place where Iron Circle soldiers gather together and are off their guard (possibly in [[Larnsville]] or [[Dry Rise]]).
+* The soldiers may barge into any tavern where Arien is seeking rest in a town.
+
+This small tavern is occupied by a band of five human soldiers wearing black cloaks with a gray circle emblem. They are loudly harassing the taverner and the barmaid, who is shakily pouring them tankards of ale; one of the brigands rummages around behind the bar, looking for something valuable enough to steal. Several other patrons, common folk, keep their heads down and try not to catch the soldiers' notice.
+
+The brigands sit up and take note of Arien as she enters. "Now who the devil do you think you are?" one of them snarls when he sees her. (if she's armed:) "No one in this miserable town's allowed to carry arms! Set 'em down if you know what's good for you!"
+
+The Iron Circle brigands aren't expecting a fight; when Arien enters the tavern, they sit up and take note (especially if she's obviously armed). They immediately demand an explanation and order her to disarm herself. They don't attack until Arien becomes hostile or fails to comply with their demands. It's possible she can convince the Iron Circle gang that she's not a threat, or that she's allowed to be armed as she is. In any case, the brigands return to harassing the Harkenwolders—roughing them up, robbing them, and so on—until Arien decides to do something about it.
+
+As before, the mercs are wearing leather armor and have crossbows. Three of them have shortswords, while two have morningstars; one of the sword-wielders has scale armor instead of leather.
+
+If a fight breaks out, the townsfolk flee by the safest route possible, or cower in a corner otherwise. 
+
+!!! Waylay the Caravan
+
+[]
+
+!!! Hunted!
+
+[]
+
+!!! Toadwallow Caverns
+
+[]
+
+!!! The Cliffwalker Shifters
+
+[]
+
+!!! The Battle of Mistmarsh
+
+[]
+
+!!! Harkenton Keep
 
 []
 
 !! Conclusion
 
 []
+
+[level up, +1 exp]
