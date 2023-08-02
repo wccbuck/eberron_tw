@@ -1,0 +1,20 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20230801205325802
+modified: 20230801205851251
+tags: stealth body armor
+tier: 2
+title: mistmail
+type: text/vnd.tiddlywiki
+
+The fine links of this chain shirt form a pattern of roiling clouds. This armor has three charges. The wearer can spend a charge to transform the armor into a 10-foot-radius sphere of thick fog that provides concealment, similar to the spell [[fog cloud]]. The fog is centered on the wearer and moves with them, but it only lasts up to 10 minutes. Effects that disperse the mist or destroy it cause the armor to reform into its solid shape on the user's body, as does speaking the command word, or entering a place where the fog-magic can't function (such as underwater). If the character tries to don another suit of armor while the mistmail is in fog form, it reforms at the character's feet.
+
+The armor regains <<dr 1d3>> charges each day at dawn.
+
+<<<
+!!! fog cloud
+{{||fog cloud}}
+<<<
+
+<<itemcharges 3>>

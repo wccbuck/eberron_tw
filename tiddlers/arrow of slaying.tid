@@ -1,15 +1,13 @@
 category: object
 color: #41D5E1
 created: 20220725013134167
-modified: 20220725013311078
+modified: 20230801163342333
 tags: weapon projectile
 tier: 3
 title: arrow of slaying
 type: text/vnd.tiddlywiki
 
-An //arrow of slaying// is a magic weapon meant to slay
-a particular kind of creature. Some are more focused
-than others; for example, there are both //arrows of [[dragon]] slaying// and //arrows of [[blue dragon]] slaying//. If a creature belonging to the type, race, or group associated
+An //arrow of slaying// is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both //arrows of [[dragon]] slaying// and //arrows of [[blue dragon]] slaying//. If a creature belonging to the type, race, or group associated
 with an arrow of slaying is struck by the arrow,
 the creature suffers a great deal of additional damage.
 

@@ -1,11 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201231235225309
-modified: 20220824211339351
+modified: 20230801193514286
 tags: detection tool
 tier: 1
 title: sunrod
 tooltip: iron rod with golden tip that glows for 6 hours when struck
 type: text/vnd.tiddlywiki
 
-This 1-foot-long, gold-tipped, iron rod glows brightly when struck. It clearly illuminates a 30-foot radius and provides shadowy illumination in a 60-foot radius. It glows for 6 hours, after which the gold tip is burned out and worthless.
+This 1-foot-long, gold-tipped, iron rod glows brightly when struck. It clearly illuminates a 30-foot radius and provides dim illumination for an additional 30 feet. It glows for 6 hours, after which the gold tip is burned out and worthless.

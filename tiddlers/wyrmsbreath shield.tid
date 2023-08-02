@@ -1,0 +1,21 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20230802042042187
+modified: 20230802043143086
+tags: destruction armor shield
+tier: 2
+title: wyrmsbreath shield
+type: text/vnd.tiddlywiki
+
+The front of this shield resembles the wide-open mouth of a [[dragon]]. This item has three charges. On command, the bearer of this shield can expend one charge to emit a 15-foot cone of harmful energy from the shield (similar to the spell [[dragon's breath]]), or all three charges to emit the breath weapon with +1 [[impact]]. The [[damage type]] of the breath weapon (acid, cold, fire, lightning, or poison) is determined when the shield was created and can't be changed. The shield regains <<dr 1d3>> charges each day at dawn.
+
+Damage Type: <$select field="var" default="Fire">
+<option>Acid</option>
+<option>Cold</option>
+<option>Fire</option>
+<option>Lightning</option>
+<option>Poison</option>
+</$select>
+
+<<itemcharges 3>>

@@ -2,7 +2,7 @@ alternatetitle: hamatula
 category: creature
 color: #EA868F
 created: 20201222174855487
-modified: 20230310031713390
+modified: 20230801212643065
 tags: devil immortal fiend
 tier: 2
 title: barbed devil
@@ -11,3 +11,5 @@ type: text/vnd.tiddlywiki
 Creatures of unbridled greed and desire, barbed [[devil]]s (also known as hamatula) resemble tall [[humanoid]]s covered in sharp barbs, spines, and hooks. A barbed devil has gleaming eyes that are ever watchful for objects and creatures it might claim for itself. These fiends welcome any chance to fight when victory promises reward.
 
 Barbed devils are known for an alertness that makes them difficult to surprise, and they attend to their duties without boredom or distraction. They use their sharp claws as weapons or hurl balls of flame at foes that try to flee them.
+
+Barbed devils are immune to fire and poison, and resistant to [[cold damage|damage type]].

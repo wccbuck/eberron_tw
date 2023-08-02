@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20201210032719278
-modified: 20220216202605487
+modified: 20230802034551893
 tags: [[Mark of Sentinel]] armor [[dragonmark focus item]] shield
 tier: 1
 title: Deni shield
 type: text/vnd.tiddlywiki
 
-Also called a "sentinel shield", this targe is emblazoned with a symbol of an eye. While holding this shield, a creature with the [[Mark of Sentinel]] gains +1 [[impact]] when detecting hidden dangers, and -1 [[risk]] when taking their first action when ambushed or surprised by enemies.
+Also called a "sentinel shield", this targe is emblazoned with a symbol of an eye. While holding this shield, a creature with the [[Mark of Sentinel]] gains +1 [[impact]] when detecting hidden dangers, and maintains [[initiative]] when ambushed or surprised by enemies.

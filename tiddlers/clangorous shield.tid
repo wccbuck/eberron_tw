@@ -1,0 +1,15 @@
+category: object
+color: #41D5E1
+created: 20230802014510610
+modified: 20230802033838168
+tags: hindrance shield armor
+tier: 2
+title: clangorous shield
+type: text/vnd.tiddlywiki
+
+This shield rings loudly when struck in combat. Whenever you make an attempt to block an attack with this shield (e.g. to regain [[initiative]]), you can activate the shield to create a deafening bang, equivalent to the [[thunderclap]] spell. You are not affected by the sound as long as you are holding the shield normally.
+
+<<<
+!!! thunderclap
+{{||thunderclap}}
+<<<

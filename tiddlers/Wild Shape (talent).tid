@@ -1,18 +1,18 @@
 category: talent
 created: 20210726060340405
-modified: 20230306233341387
+modified: 20230801201428170
 tags: druid
 title: Wild Shape (talent)
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-Three times per day, you can assume the shape of any [[beast]] of [[creature tier]] ''1'' or less that you have seen before. If the chosen beast can fly, or if it is smaller than 2 feet in all dimensions, it must be creature tier 0. You can't transform into a creature that is smaller than 1 foot in all dimensions with this talent. The transformation lasts for up to an hour, or earlier if you are knocked unconscious.
+Three times per day, you can assume the [[shape|wild shape]] of any [[beast]] of [[creature tier]] ''1'' or less that you have seen before. If the chosen beast can fly, or if it is smaller than 2 feet in all dimensions, it must be creature tier 0. You can't transform into a creature that is smaller than 1 foot in all dimensions with this talent. The transformation lasts for up to an hour, or earlier if you are knocked unconscious.
 
 <<<
 ''Alternative Version''<br/>
 As an alternative, you may choose ''one'' [[beast]] of [[creature tier]] 1 or less that will be your one and only wild shape, in exchange for no limitations on number of transformations per day and no time limit. Choose the version of [[wild shape]] you want (and, if applicable, which beast) when you take this [[talent]].
 <<<
 
-While in beast form, you can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your form.
+While in beast form, you can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your form. In addition, any equipment you are wearing (such as armor or accessories) merges into your new form and grants no benefits until you transform back; it does not resize to fit your new form. However, if it is practical for the beast form to wear a piece of equipment, based on the creature's shape and size, you may choose to continue wearing that equipment in beast form. For example, a ring you wear on your finger might fit around your arm when you're in iguana form. The GM has the last word on whether you can continue to use a piece of worn equipment in beast form.
 
 See also [[Enhanced Wild Shape]].

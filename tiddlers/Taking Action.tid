@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210331200737600
-modified: 20230421184645565
+modified: 20230802034335201
 tags: Storyloom
 title: Taking Action
 tooltip: documentation page for the core attempt mechanic in Storyloom
@@ -13,9 +13,11 @@ This documentation page covers the basics of taking action in the [[Storyloom]] 
 * <<scrollToHeader "Impact and Risk">>
 * <<scrollToHeader "Choosing Approaches">>
 * <<scrollToHeader "Overcome and Boost">>
+** <<scrollToHeader "Losing and Regaining Initiative">>
 * <<scrollToHeader "Adjusting the Dice Pool">>
 * <<scrollToHeader "Action Summary">>
 * <<scrollToHeader "Notes">>
+
 
 !! Overview
 
@@ -74,6 +76,14 @@ Any attempt you make in Storyloom can be boiled down to one of two actions: [[ov
 * ''Boost'' your chances of success on future [[overcome]] actions by increasing your [[momentum]]. Help an ally, create a situation that helps you succeed, or discover a benefit that already exists. By default, you roll ''three dice'' for a boost.
 
 Whether your character is making a boost or overcome attempt, they still choose two [[approach]]es that describe their action, and [[impact]] and [[risk]] still come into play. A boost is a bit more likely to succeed than an overcome, but it doesn't directly grant progress towards a goal; instead, it grants [[momentum]] that can be used to improve a later overcome attempt.
+
+!!! Losing and Regaining Initiative
+
+You may have noticed that the only two actions in the Storyloom system are both very //active//, and imply that the player character is always in control of their destiny. Of course, that isn't always the case in-fiction. Let's say a hero is in a long hallway, and a dragon sits on one end, preparing to breathe fire. The hero doesn't have time to run towards the creature, and can only dive out of the way or try to block with his shield. Would this attempt be an [[overcome]]? If so, what [[progress clock]] would the player be attempting to advance? He's just reacting, trying to avoid death. Would the attempt be a [[boost]]? If so, why should being in such a vulnerable position allow an extra die and grant [[momentum]] on success? 
+
+Whenever a player character is in a dicey situation where they can't make progress towards their goals and are forced to simply react to threats or defend against attacks, they are considered to have lost [[initiative]]. Without initiative, a player character cannot make [[boost]] actions, and can only make [[overcome]] actions to clear a new [[progress clock]], which typically has two segments. This new progress clock can be labelled "Initiative," or something that directly describes an urgent obstacle that has suddenly arisen; once this clock is cleared, the player character has regained initiative.
+
+So in the above example, the hero has lost [[initiative]], and so we've placed a new progress clock in play labeled "Long Hallway Full of Dragonfire," which he must clear before he can make progress on any other task. His attempt to avoid perishing in dragonfire would be an overcome attempt, and a success on that attempt would fill segments on the "Long Hallway" progress clock; once that clock is filled, he can pursue the "Dragon" obstacle using overcome and boost actions as normal.
 
 !! Adjusting the Dice Pool
 

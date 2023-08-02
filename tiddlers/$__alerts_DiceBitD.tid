@@ -1,21 +1,10 @@
-actiontype: boost
+actiontype: overcome
 component: Dice Roller
 created: 20210810021010090
-<<<<<<< HEAD
 impact: 2
-modified: 20220208065209130
+modified: 20230802032435401
 pool: 3
-result: 3 1 3
-=======
-impact: 1
-modified: 20230418151330809
-pool: 3
-<<<<<<< HEAD
-result: 5 4 1
->>>>>>> main
-=======
-result: 5 2 2
->>>>>>> main
+result: 2 4 1
 risk: 2
 title: $:/alerts/DiceBitD
 type: text/vnd.tiddlywiki
@@ -111,22 +100,22 @@ You succeeded, but you need to spend [[momentum]] to make any progress.
       <$reveal type="match" text="1" state="!!risk">
 
 <h3>Low [[Risk|risk]]</h3>
-You hesitate. Withdraw and try a different approach, or else succeed with a minor [[consequence]]: a minor complication occurs, your [[impact]] is reduced by 1, you suffer 1 [[stress]] or [[harm]], you lose 1 [[momentum]], or your risk level increases to moderate. 
+You hesitate. Withdraw and try a different approach, or else succeed with a minor [[consequence]]: a minor complication occurs, your [[impact]] is reduced by 1, you suffer 1 [[stress]] or [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">you lose 1 [[momentum]], </$reveal>or your risk level increases to moderate. 
       </$reveal>
       <$reveal type="match" text="2" state="!!risk">
 
 <h3>Moderate [[Risk|risk]]</h3>
-You succeed, but there’s a [[consequence]]: you suffer 2 [[stress]] or [[harm]], you lose 2 [[momentum]], a complication occurs, your [[impact]] is reduced by 1 or 2, or you end up in a high-risk position.
+You succeed, but there’s a [[consequence]]: you suffer 2 [[stress]] or [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">you lose 2 [[momentum]], </$reveal>a complication occurs, your [[impact]] is reduced by 1 or 2, you lose [[initiative]], or you end up in a high-risk position.
       </$reveal>
       <$reveal type="match" text="3" state="!!risk">
 
 <h3>High [[Risk|risk]]</h3>
-You succeed, but there’s a [[consequence]]: you suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious complication occurs, or you have significantly reduced [[impact]].
+You succeed, but there’s a [[consequence]]: you suffer 3 [[stress]] or [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">you lose 3 [[momentum]], </$reveal>you lose [[initiative]] //and// suffer 1 [[stress]], a serious [[complication|consequence]] occurs, or you have significantly reduced [[impact]].
       </$reveal>
       <$reveal type="match" text="4" state="!!risk">
 
 <h3>Extreme [[Risk|risk]]</h3>
-You succeed, but there’s a serious [[consequence]]: you suffer some combination of [[stress]], [[harm]], lost [[momentum]], or reduced [[impact]] adding up to four.
+You succeed, but there’s a serious [[consequence]]: you suffer some combination of [[stress]], [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">lost [[momentum]], </$reveal>or reduced [[impact]] adding up to four.
       </$reveal>
     </$reveal>
     <$reveal type="lteq" text="3" default=<<loresult>>>
@@ -138,17 +127,17 @@ You falter. Press on by seizing a high-risk opportunity, or withdraw and try a d
       <$reveal type="match" text="2" state="!!risk">
 
 <h3>Moderate [[Risk|risk]]</h3>
-Things go badly. You suffer 2 [[stress]] or [[harm]], you lose 2 [[momentum]], a [[complication|consequence]] occurs, you end up in a high-risk position, or you lose this opportunity.
+Things go badly. You suffer 2 [[stress]] or [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">you lose 2 [[momentum]], </$reveal>a [[complication|consequence]] occurs, you lose [[initiative]], you end up in a high-risk position, or you lose this opportunity.
       </$reveal>
       <$reveal type="match" text="3" state="!!risk">
 
 <h3>High [[Risk|risk]]</h3>
-Things are bad. You suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious [[complication|consequence]] occurs, or you lose this opportunity for action.
+Things are bad. You suffer 3 [[stress]] or [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">you lose 3 [[momentum]], </$reveal>a serious [[complication|consequence]] occurs, you lose [[initiative]] //and// suffer 1 [[stress]], or you lose this opportunity for action.
       </$reveal>
       <$reveal type="match" text="4" state="!!risk">
 
 <h3>Extreme [[Risk|risk]]</h3>
-Things are very bad. You suffer some combination of [[stress]], [[harm]], lost [[momentum]], or reduced [[impact]] adding up to four, as well as potentially a [[complication|consequence]] or lost opportunity.
+Things are very bad. You suffer some combination of [[stress]], [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">lost [[momentum]], </$reveal>or reduced [[impact]] adding up to four, as well as potentially a [[complication|consequence]] or lost opportunity.
       </$reveal>
     </$reveal>
   </$reveal>
@@ -248,22 +237,22 @@ You succeeded, but you need to spend [[momentum]] to make any progress.
       <$reveal type="match" text="1" state="!!risk">
 
 <h3>Low [[Risk|risk]]</h3>
-You hesitate. Withdraw and try a different approach, or else succeed with a minor [[consequence]]: a minor complication occurs, your [[impact]] is reduced by 1, you suffer 1 [[stress]] or [[harm]], you lose 1 [[momentum]], or your risk level increases to moderate. 
+You hesitate. Withdraw and try a different approach, or else succeed with a minor [[consequence]]: a minor complication occurs, your [[impact]] is reduced by 1, you suffer 1 [[stress]] or [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">you lose 1 [[momentum]], </$reveal>or your risk level increases to moderate. 
       </$reveal>
       <$reveal type="match" text="2" state="!!risk">
 
 <h3>Moderate [[Risk|risk]]</h3>
-You succeed, but there’s a [[consequence]]: you suffer 2 [[stress]] or [[harm]], you lose 2 [[momentum]], a complication occurs, your [[impact]] is reduced by 1 or 2, or you end up in a high-risk position.
+You succeed, but there’s a [[consequence]]: you suffer 2 [[stress]] or [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">you lose 2 [[momentum]], </$reveal>a complication occurs, your [[impact]] is reduced by 1 or 2, you lose [[initiative]], or you end up in a high-risk position.
       </$reveal>
       <$reveal type="match" text="3" state="!!risk">
 
 <h3>High [[Risk|risk]]</h3>
-You succeed, but there’s a [[consequence]]: you suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious complication occurs, or you have significantly reduced [[impact]].
+You succeed, but there’s a [[consequence]]: you suffer 3 [[stress]] or [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">you lose 3 [[momentum]], </$reveal>you lose [[initiative]] //and// suffer 1 [[stress]], a serious [[complication|consequence]] occurs, or you have significantly reduced [[impact]].
       </$reveal>
       <$reveal type="match" text="4" state="!!risk">
 
 <h3>Extreme [[Risk|risk]]</h3>
-You succeed, but there’s a serious [[consequence]]: you suffer some combination of [[stress]], [[harm]], lost [[momentum]], or reduced [[impact]] adding up to four.
+You succeed, but there’s a serious [[consequence]]: you suffer some combination of [[stress]], [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">lost [[momentum]], </$reveal>or reduced [[impact]] adding up to four.
       </$reveal>
     </$reveal>
     <$reveal type="lteq" text="3" default=<<hiresult>>>
@@ -275,17 +264,17 @@ You falter. Press on by seizing a high-risk opportunity, or withdraw and try a d
       <$reveal type="match" text="2" state="!!risk">
 
 <h3>Moderate [[Risk|risk]]</h3>
-Things go badly. You suffer 2 [[stress]] or [[harm]], you lose 2 [[momentum]], a [[complication|consequence]] occurs, you end up in a high-risk position, or you lose this opportunity.
+Things go badly. You suffer 2 [[stress]] or [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">you lose 2 [[momentum]], </$reveal>a [[complication|consequence]] occurs, you lose [[initiative]], you end up in a high-risk position, or you lose this opportunity.
       </$reveal>
       <$reveal type="match" text="3" state="!!risk">
 
 <h3>High [[Risk|risk]]</h3>
-Things are bad. You suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious [[complication|consequence]] occurs, or you lose this opportunity for action.
+Things are bad. You suffer 3 [[stress]] or [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">you lose 3 [[momentum]], </$reveal>you lose [[initiative]] //and// suffer 1 [[stress]], a serious [[complication|consequence]] occurs, or you lose this opportunity for action.
       </$reveal>
       <$reveal type="match" text="4" state="!!risk">
 
 <h3>Extreme [[Risk|risk]]</h3>
-Things are very bad. You suffer some combination of [[stress]], [[harm]], lost [[momentum]], or reduced [[impact]] adding up to four, as well as potentially a [[complication|consequence]] or lost opportunity.
+Things are very bad. You suffer some combination of [[stress]], [[harm]], <$reveal type="match" text="overcome" state="!!actiontype">lost [[momentum]], </$reveal>or reduced [[impact]] adding up to four, as well as potentially a [[complication|consequence]] or lost opportunity.
       </$reveal>
     </$reveal>
   </$reveal>
