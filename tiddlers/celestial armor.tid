@@ -1,0 +1,15 @@
+category: object
+color: #41D5E1
+created: 20230801211402960
+modified: 20230801211526592
+tags: body armor mobility
+tier: 3
+title: celestial armor
+type: text/vnd.tiddlywiki
+
+This chain shirt is so fine and light that it can be worn under normal clothing without betraying its presence. It is considered [[light armor|armor]], and allows the wearer to cast the [[fly]] spell once per day.
+
+<<<
+!!! fly
+{{||fly}}
+<<<

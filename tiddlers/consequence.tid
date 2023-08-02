@@ -1,12 +1,12 @@
 category: game mechanics
 created: 20210103021548158
-modified: 20230418151603035
+modified: 20230802025718793
 tags: Storyloom [[Taking Action]]
 title: consequence
 tooltip: Storyloom mechanic: negative outcomes from an unsuccessful or partially successful attempt
 type: text/vnd.tiddlywiki
 
-Whenever you earn a [[mixed success]] or [[failure|bad outcome]] for a roll, you typically suffer some sort of consequence. There are five categories of consequences.
+Whenever you earn a [[mixed success]] or [[failure|bad outcome]] on an [[attempt|Taking Action]], you typically suffer some sort of consequence. The severity of the consequence depends on the [[risk]] involved with your attempt, which you should know before you roll dice; but you don't necessarily know which category of consequence you will face before the roll. There are five categories of consequences.
 
 !!! Lost Resource
 
@@ -18,7 +18,9 @@ This consequence represents impaired performance. The PC's action isn't as effec
 
 !!! Higher Risk
 
-This consequence represents losing control of the situation, putting you in a more dangerous position. Perhaps you make the leap across to the next rooftop, only to end up dangling by your fingertips. A situation might more and more [[risk]]y as you get deeper and deeper in trouble.
+This consequence represents losing control of the situation, putting you in a more dangerous position and increasing [[risk]] for future attempts. Perhaps you make the leap across to the next rooftop, only to end up dangling by your fingertips. A situation might more and more risky as you get deeper and deeper in trouble.
+
+Often, this consequence manifests as a loss of [[initiative]], which the player characters must regain in order to make progress on their goals. A loss of initiative is typically considered a moderate-[[risk]] consequence.
 
 !!! Complication
 

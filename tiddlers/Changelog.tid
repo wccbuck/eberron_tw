@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.22.4
-modified: 20230728200937338
+currentversion: 1.22.5
+modified: 20230802052056771
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,21 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.22.5 <span style="font-weight:normal">(Aug 02, 2023)</span>
+
+* Added a new [[Storyloom]] mechanic: [[initiative]]. Changed the [[Danger Sense]] talent to interact with that mechanic, and added the [[Parry and Riposte]] talent. Also changed a few items to interact with initiative, such as the [[thwackstaff]].
+* Removed the "large" advantage from [[spellguard shield]]
+* Added a [[dispel immortal]] option to [[bell branch]] (it was underpowered at that rarity)
+* Removed the suggested "lost [[momentum]]" [[consequence]] when using a [[boost]] action type with the [[Dice Roller]]
+* Added new armors that have some of the magic armor/shield special abilities from Pathfinder, altered to make sense in the [[Storyloom]] system:
+** [[benevolent armor]], [[billowing armor]], [[balanced armor]], [[bitter armor]], [[champion armor]], [[champion shield]], [[death ward armor]], [[fortified armor]], [[enhanced fortified armor]], [[impervious armor]], [[stanching armor]], [[jousting armor]], [[slick armor]], [[expeditious armor]], [[rallying armor]], [[cotraveling cloak]], [[brawling armor]], [[hosteling armor]], [[sunlight armor]], [[wild shape armor]], [[armor of righteous might]], [[mistmail]], [[armor of barding]], [[boneless leather armor]], [[celestial armor]], [[gug hide armor]], [[hamatula hide armor]], [[coruscating raiment]], [[daystar half-plate]], [[clangorous shield]], [[mirrored shield]], [[wyrmsbreath shield]], [[ghost touch shield]], [[lion shield]], [[volcanic shield]]
+* Added [[tar devil]] from 4e's Threats to the Nentir Vale (and the Reavers of Harkenwold adventure)
+* Added [[myrnaxe]] from Exploring Eberron
+* Added [[speak with dead]] to [[Grave Domain]] spell list
+* Added a bit to [[Sentinel Marshals]] page
+* Clarified that you can't benefit from the effects of most of your worn equipment in [[Wild Shape (talent)]]
+* Clarified effect of [[death ward]] spell
 
 !!! 1.22.4 <span style="font-weight:normal">(July 28, 2023)</span>
 

@@ -1,12 +1,22 @@
 category: spell
 color: #B7A1E0
 created: 20210427171158740
-modified: 20210727192001800
+highertier: show
+modified: 20230801161951102
 tags: enchantment [[divine magic]]
 tier: 2
 title: compelled duel
+tooltip: impose disadvantage on a creature to attack anyone but you, or to move more than 30 feet from you
 type: text/vnd.tiddlywiki
 
 You attempt to compel a creature into a duel. One creature that you can see within 30 feet must resist your challenge or else become drawn to you, compelled by your divine demand. For up to a minute, it has [[disadvantage]] on any hostile action against creatures other than you, as well as any attempt to move more than 30 feet away from you.
 
 The spell ends if you perform a hostile action against any other creature, if a creature friendly to you damages the target or casts a harmful spell on it, or if you move more than 30 feet away from the target.
+
+<$reveal type="match" state="!!highertier" text="show">
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you can issue your challenge to each creature of your choice that you can see within 30 feet of you.
+
+</$reveal>

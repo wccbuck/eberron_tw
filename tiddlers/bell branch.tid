@@ -2,14 +2,13 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20210809045148243
-modified: 20220221021547830
+modified: 20230802043757983
 tags: protection detection wand [[magical implement]]
 tier: 3
 title: bell branch
 type: text/vnd.tiddlywiki
 
 This silver implement is shaped like a tree branch
-and is strung with small golden bells. The branch has 3 charges, and it regains an expended charge daily at dawn. You can expend a charge to cast the [[detect immortal]] spell (the bells
-ring softly, their tone indicating the creature types present) or the [[protection from immortals]] spell.
+and is strung with small golden bells. The branch has 3 charges, and it regains an expended charge daily at dawn. You can expend a charge to cast the [[detect immortal]] spell (the bells ring softly, their tone indicating the creature types present) or the [[protection from immortals]] spell. You can also spend all three charges to cast the [[dispel immortal]] spell.
 
 <<itemcharges 3>>

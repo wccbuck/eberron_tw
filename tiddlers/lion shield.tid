@@ -1,0 +1,13 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20230802045147111
+modified: 20230802045333148
+tags: armor shield hindrance
+tier: 2
+title: lion shield
+type: text/vnd.tiddlywiki
+
+This heavy steel shield is fashioned to resemble a roaring lion's head. The shield has three charges. The bearer of the shield can spend one charge to command the lion's head to attack, biting and latching onto an adjacent enemy. The shield regains all expended charges at dawn.
+
+<<itemcharges 3>>

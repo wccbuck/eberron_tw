@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211227040844158
-modified: 20221205052816853
+modified: 20230801195031603
 tags: tool detection destruction hindrance
 tier: 4
 title: fragment of dawn
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 This smooth, egg-shaped crystal is about 6 inches tall, weighs 3 pounds, and sheds bright light out to 20 feet and dim light for an additional 20 feet. The light is considered [[sunlight|Sun]]. You can touch the crystal and mentally control its brightness to enlarge, reduce, or snuff out the light's reach up to its maximum range.
 
-While holding the crystal, you can speak its command word to cause it to release a wave of bright light. The wave washes over all creatures not completely concealed by an obstacle within a 60-foot radius from the crystal. Creatures who are vulnerable to sunlight, such as [[ooze]]s, must resist the magic light or else suffer a great deal of [[radiant damage|damage type]] and become blinded for up to 10 seconds. Creatures of [[Mabar]], such as [[undead]] and [[yugoloth]]s, are at a large [[disadvantage]] to resist this effect.
+While holding the crystal, you can speak its command word to cause it to release a wave of bright light. The wave washes over all creatures not completely concealed by an obstacle within a 60-foot radius from the crystal. Creatures who are vulnerable to sunlight, such as [[vampire]]s, must resist the magic light or else suffer a great deal of [[radiant damage|damage type]] and become blinded for up to 10 seconds. Creatures of [[Mabar]], such as [[undead]] and [[yugoloth]]s, are at a large [[disadvantage]] to resist this effect.
 
 Once this property of the crystal has been used, its light dims and it can't be used again until the next dawn. While the light is dimmed in this way, it sheds bright light out to a maximum of 10 feet and dim light for an additional 10 feet.

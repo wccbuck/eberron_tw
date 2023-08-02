@@ -637,14 +637,32 @@
         "title": "$:/plugins/sq/Stories/changelog"
     },
     {
-        "title": "Changelog",
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "sunlight armor",
         "fromPageRect": {
-            "top": 28,
-            "left": 580.796875,
-            "width": 32.890625,
-            "right": 613.6875,
-            "bottom": 67.484375,
-            "height": 39.484375
+            "top": 410.6875,
+            "left": 1037.328125,
+            "width": 105.03125,
+            "right": 1142.359375,
+            "bottom": 427.6875,
+            "height": 17
         }
     },
     {
@@ -652,5 +670,138 @@
     },
     {
         "title": "Changelog"
+    },
+    {
+        "title": "mistmail",
+        "fromPageRect": {
+            "top": 432.6875,
+            "left": 987.515625,
+            "width": 61.515625,
+            "right": 1049.03125,
+            "bottom": 449.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'mistmail'"
+    },
+    {
+        "title": "mistmail"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "spellguard shield",
+        "fromPageRect": {
+            "top": 344.6875,
+            "left": 1017.140625,
+            "width": 122.46875,
+            "right": 1139.609375,
+            "bottom": 361.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'spellguard shield'"
+    },
+    {
+        "title": "spellguard shield"
+    },
+    {
+        "title": "mantle of spell resistance",
+        "fromPageRect": {
+            "top": 179.1875,
+            "left": 1110.671875,
+            "width": 184.234375,
+            "right": 1294.90625,
+            "bottom": 196.1875,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'mantle of spell resistance'"
+    },
+    {
+        "title": "mantle of spell resistance"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Eberron TW Updater",
+        "fromPageRect": {
+            "top": 156.546875,
+            "left": 776.015625,
+            "width": 146.859375,
+            "right": 922.875,
+            "bottom": 173.546875,
+            "height": 17
+        }
+    },
+    {
+        "title": "$:/_sq/Stories/Story2HistoryList",
+        "fromPageRect": {
+            "top": 251.671875,
+            "left": 760.703125,
+            "width": 217.921875,
+            "right": 978.625,
+            "bottom": 268.671875,
+            "height": 17
+        }
     }
 ]
