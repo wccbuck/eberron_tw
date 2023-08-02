@@ -637,161 +637,468 @@
         "title": "$:/plugins/sq/Stories/changelog"
     },
     {
-        "title": "Draft of 'The Reavers of Harkenwold'"
-    },
-    {
-        "title": "The Reavers of Harkenwold"
-    },
-    {
-        "title": "Draft of 'The Reavers of Harkenwold'"
-    },
-    {
-        "title": "The Reavers of Harkenwold"
-    },
-    {
-        "title": "Draft of 'The Reavers of Harkenwold'"
-    },
-    {
-        "title": "The Reavers of Harkenwold"
-    },
-    {
-        "title": "Draft of 'The Reavers of Harkenwold'"
-    },
-    {
-        "title": "The Reavers of Harkenwold"
-    },
-    {
-        "title": "Breland Municipal Guard",
+        "title": "A Menace in Runnelberry Dale",
         "fromPageRect": {
-            "top": 478.78125,
-            "left": 616.90625,
-            "width": 115.90625,
-            "right": 732.8125,
-            "bottom": 495.78125,
+            "top": 58.265625,
+            "left": 550.921875,
+            "width": 32.890625,
+            "right": 583.8125,
+            "bottom": 97.75,
+            "height": 39.484375
+        }
+    },
+    {
+        "title": "Draft of 'A Menace in Runnelberry Dale'"
+    },
+    {
+        "title": "A Menace in Runnelberry Dale"
+    },
+    {
+        "title": "billowing armor",
+        "fromPageRect": {
+            "top": 380.6875,
+            "left": 258.3125,
+            "width": 112.234375,
+            "right": 370.546875,
+            "bottom": 397.6875,
             "height": 17
         }
     },
     {
-        "title": "Draft of 'The Reavers of Harkenwold'"
-    },
-    {
-        "title": "The Reavers of Harkenwold"
-    },
-    {
-        "title": "Draft of 'The Reavers of Harkenwold'"
-    },
-    {
-        "title": "The Reavers of Harkenwold"
-    },
-    {
-        "title": "Draft of 'The Reavers of Harkenwold'"
-    },
-    {
-        "title": "The Reavers of Harkenwold"
-    },
-    {
-        "title": "Brightblade",
+        "title": "balanced armor",
         "fromPageRect": {
-            "top": 385.6875,
-            "left": 909.390625,
-            "width": 85.296875,
-            "right": 994.6875,
-            "bottom": 402.6875,
+            "top": 380.6875,
+            "left": 377.703125,
+            "width": 111,
+            "right": 488.703125,
+            "bottom": 397.6875,
             "height": 17
         }
     },
     {
-        "title": "Draft of 'The Reavers of Harkenwold'"
-    },
-    {
-        "title": "The Reavers of Harkenwold"
-    },
-    {
-        "title": "Draft of 'The Reavers of Harkenwold'"
-    },
-    {
-        "title": "The Reavers of Harkenwold"
-    },
-    {
-        "title": "Draft of 'The Reavers of Harkenwold'"
-    },
-    {
-        "title": "The Reavers of Harkenwold"
-    },
-    {
-        "title": "Alben ir'Clarn",
+        "title": "champion armor",
         "fromPageRect": {
-            "top": 437.875,
-            "left": 1196.46875,
-            "width": 98.328125,
-            "right": 1294.796875,
-            "bottom": 454.875,
+            "top": 402.6875,
+            "left": 123,
+            "width": 115.5,
+            "right": 238.5,
+            "bottom": 419.6875,
             "height": 17
         }
     },
     {
-        "title": "Jonn Stockmer",
+        "title": "champion shield",
         "fromPageRect": {
-            "top": 459.875,
-            "left": 1168.015625,
-            "width": 106.71875,
-            "right": 1274.734375,
-            "bottom": 476.875,
+            "top": 402.6875,
+            "left": 245.65625,
+            "width": 115.515625,
+            "right": 361.171875,
+            "bottom": 419.6875,
             "height": 17
         }
     },
     {
-        "title": "Draft of 'The Reavers of Harkenwold'"
+        "title": "death ward armor",
+        "fromPageRect": {
+            "top": 402.6875,
+            "left": 368.328125,
+            "width": 126.953125,
+            "right": 495.28125,
+            "bottom": 419.6875,
+            "height": 17
+        }
     },
     {
-        "title": "The Reavers of Harkenwold"
+        "title": "fortified armor",
+        "fromPageRect": {
+            "top": 402.6875,
+            "left": 502.4375,
+            "width": 107.671875,
+            "right": 610.109375,
+            "bottom": 419.6875,
+            "height": 17
+        }
     },
     {
-        "title": "Draft of 'The Reavers of Harkenwold'"
+        "title": "impervious armor",
+        "fromPageRect": {
+            "top": 424.6875,
+            "left": 309.9375,
+            "width": 126.28125,
+            "right": 436.21875,
+            "bottom": 441.6875,
+            "height": 17
+        }
     },
     {
-        "title": "The Reavers of Harkenwold"
+        "title": "stanching armor",
+        "fromPageRect": {
+            "top": 424.6875,
+            "left": 443.375,
+            "width": 115.78125,
+            "right": 559.15625,
+            "bottom": 441.6875,
+            "height": 17
+        }
     },
     {
-        "title": "Draft of 'The Reavers of Harkenwold'"
+        "title": "slick armor",
+        "fromPageRect": {
+            "top": 446.6875,
+            "left": 173.15625,
+            "width": 79.140625,
+            "right": 252.296875,
+            "bottom": 463.6875,
+            "height": 17
+        }
     },
     {
-        "title": "The Reavers of Harkenwold"
+        "title": "expeditious armor",
+        "fromPageRect": {
+            "top": 446.6875,
+            "left": 259.453125,
+            "width": 131.09375,
+            "right": 390.546875,
+            "bottom": 463.6875,
+            "height": 17
+        }
     },
     {
-        "title": "Draft of 'The Reavers of Harkenwold'"
+        "title": "expeditious armor",
+        "fromPageRect": {
+            "top": 446.6875,
+            "left": 259.453125,
+            "width": 131.09375,
+            "right": 390.546875,
+            "bottom": 463.6875,
+            "height": 17
+        }
     },
     {
-        "title": "The Reavers of Harkenwold"
+        "title": "rallying armor",
+        "fromPageRect": {
+            "top": 446.6875,
+            "left": 397.703125,
+            "width": 100.671875,
+            "right": 498.375,
+            "bottom": 463.6875,
+            "height": 17
+        }
     },
     {
-        "title": "Draft of 'The Reavers of Harkenwold'"
+        "title": "cotraveling cloak",
+        "fromPageRect": {
+            "top": 446.6875,
+            "left": 123,
+            "width": 463.328125,
+            "right": 586.328125,
+            "bottom": 485.6875,
+            "height": 39
+        }
     },
     {
-        "title": "The Reavers of Harkenwold"
+        "title": "brawling armor",
+        "fromPageRect": {
+            "top": 468.6875,
+            "left": 168.484375,
+            "width": 108.5625,
+            "right": 277.046875,
+            "bottom": 485.6875,
+            "height": 17
+        }
     },
     {
-        "title": "Draft of 'The Reavers of Harkenwold'"
+        "title": "hosteling armor",
+        "fromPageRect": {
+            "top": 468.6875,
+            "left": 284.203125,
+            "width": 113.75,
+            "right": 397.953125,
+            "bottom": 485.6875,
+            "height": 17
+        }
     },
     {
-        "title": "The Reavers of Harkenwold"
+        "title": "sunlight armor",
+        "fromPageRect": {
+            "top": 468.6875,
+            "left": 405.109375,
+            "width": 105.03125,
+            "right": 510.140625,
+            "bottom": 485.6875,
+            "height": 17
+        }
     },
     {
-        "title": "Draft of 'The Reavers of Harkenwold'"
+        "title": "wild shape armor",
+        "fromPageRect": {
+            "top": 468.6875,
+            "left": 123,
+            "width": 470.03125,
+            "right": 593.03125,
+            "bottom": 507.6875,
+            "height": 39
+        }
     },
     {
-        "title": "The Reavers of Harkenwold"
+        "title": "armor of righteous might",
+        "fromPageRect": {
+            "top": 490.6875,
+            "left": 173.15625,
+            "width": 179.65625,
+            "right": 352.8125,
+            "bottom": 507.6875,
+            "height": 17
+        }
     },
     {
-        "title": "Draft of 'The Reavers of Harkenwold'"
+        "title": "mistmail",
+        "fromPageRect": {
+            "top": 490.6875,
+            "left": 359.96875,
+            "width": 61.515625,
+            "right": 421.484375,
+            "bottom": 507.6875,
+            "height": 17
+        }
     },
     {
-        "title": "The Reavers of Harkenwold"
+        "title": "armor of barding",
+        "fromPageRect": {
+            "top": 490.6875,
+            "left": 428.640625,
+            "width": 120.3125,
+            "right": 548.953125,
+            "bottom": 507.6875,
+            "height": 17
+        }
     },
     {
-        "title": "Draft of 'The Reavers of Harkenwold'"
+        "title": "boneless leather armor",
+        "fromPageRect": {
+            "top": 490.6875,
+            "left": 123,
+            "width": 496.921875,
+            "right": 619.921875,
+            "bottom": 529.6875,
+            "height": 39
+        }
     },
     {
-        "title": "The Reavers of Harkenwold"
+        "title": "celestial armor",
+        "fromPageRect": {
+            "top": 512.6875,
+            "left": 229.140625,
+            "width": 107.28125,
+            "right": 336.421875,
+            "bottom": 529.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "gug hide armor",
+        "fromPageRect": {
+            "top": 512.6875,
+            "left": 343.578125,
+            "width": 107.84375,
+            "right": 451.421875,
+            "bottom": 529.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "hamatula hide armor",
+        "fromPageRect": {
+            "top": 512.6875,
+            "left": 458.578125,
+            "width": 148.296875,
+            "right": 606.875,
+            "bottom": 529.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "coruscating raiment",
+        "fromPageRect": {
+            "top": 534.6875,
+            "left": 123,
+            "width": 142.4375,
+            "right": 265.4375,
+            "bottom": 551.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "daystar half-plate",
+        "fromPageRect": {
+            "top": 534.6875,
+            "left": 272.59375,
+            "width": 127.96875,
+            "right": 400.5625,
+            "bottom": 551.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "clangorous shield",
+        "fromPageRect": {
+            "top": 534.6875,
+            "left": 407.71875,
+            "width": 125.625,
+            "right": 533.34375,
+            "bottom": 551.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "mirrored shield",
+        "fromPageRect": {
+            "top": 534.6875,
+            "left": 123,
+            "width": 480.390625,
+            "right": 603.390625,
+            "bottom": 573.6875,
+            "height": 39
+        }
+    },
+    {
+        "title": "wyrmsbreath shield",
+        "fromPageRect": {
+            "top": 556.6875,
+            "left": 173.171875,
+            "width": 141.203125,
+            "right": 314.375,
+            "bottom": 573.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "ghost touch shield",
+        "fromPageRect": {
+            "top": 556.6875,
+            "left": 321.53125,
+            "width": 131.640625,
+            "right": 453.171875,
+            "bottom": 573.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "lion shield",
+        "fromPageRect": {
+            "top": 556.6875,
+            "left": 460.328125,
+            "width": 73.625,
+            "right": 533.953125,
+            "bottom": 573.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "volcanic shield",
+        "fromPageRect": {
+            "top": 556.6875,
+            "left": 123,
+            "width": 476.09375,
+            "right": 599.09375,
+            "bottom": 595.6875,
+            "height": 39
+        }
+    },
+    {
+        "title": "ankheg",
+        "fromPageRect": {
+            "top": 381.03125,
+            "left": 748.65625,
+            "width": 52.328125,
+            "right": 800.984375,
+            "bottom": 398.03125,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'ankheg'"
+    },
+    {
+        "title": "ankheg"
+    },
+    {
+        "title": "Draft of 'ankheg'"
+    },
+    {
+        "title": "ankheg"
+    },
+    {
+        "title": "Draft of 'ankheg'"
+    },
+    {
+        "title": "Draft of 'A Menace in Runnelberry Dale'"
+    },
+    {
+        "title": "A Menace in Runnelberry Dale"
+    },
+    {
+        "title": "Draft of 'A Menace in Runnelberry Dale'"
+    },
+    {
+        "title": "A Menace in Runnelberry Dale"
+    },
+    {
+        "title": "Draft of 'A Menace in Runnelberry Dale'"
+    },
+    {
+        "title": "A Menace in Runnelberry Dale"
+    },
+    {
+        "title": "Mark of Handling",
+        "fromPageRect": {
+            "top": 375.21875,
+            "left": 1113.40625,
+            "width": 123.421875,
+            "right": 1236.828125,
+            "bottom": 392.21875,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'A Menace in Runnelberry Dale'"
+    },
+    {
+        "title": "A Menace in Runnelberry Dale"
+    },
+    {
+        "title": "Draft of 'A Menace in Runnelberry Dale'"
+    },
+    {
+        "title": "A Menace in Runnelberry Dale"
+    },
+    {
+        "title": "arcane signet ring",
+        "fromPageRect": {
+            "top": 583.9375,
+            "left": 1050.171875,
+            "width": 127.890625,
+            "right": 1178.0625,
+            "bottom": 600.9375,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'A Menace in Runnelberry Dale'"
+    },
+    {
+        "title": "A Menace in Runnelberry Dale"
+    },
+    {
+        "title": "Draft of 'A Menace in Runnelberry Dale'"
+    },
+    {
+        "title": "A Menace in Runnelberry Dale"
+    },
+    {
+        "title": "Draft of 'A Menace in Runnelberry Dale'"
+    },
+    {
+        "title": "A Menace in Runnelberry Dale"
     }
 ]

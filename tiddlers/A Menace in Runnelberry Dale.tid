@@ -1,6 +1,6 @@
 category: note
 created: 20230626212912745
-modified: 20230725000154462
+modified: 20230802160839520
 tags: [[Adventures of Arien]]
 title: A Menace in Runnelberry Dale
 type: text/vnd.tiddlywiki
@@ -65,11 +65,16 @@ On her way to her next destination (Nuala, Veiling, or elsewhere), she needs to 
 
 !! The Creature Emerges
 
-The jungle [[ankheg]] detects Arien's movement above its tunnel and bursts from the earth, attempting to grab her in its mandibles. It resembles a large green-striped insect with long, sharp claws and deadly mandibles dripping with acidic digestive enzymes. It resembles common ankheg, but larger, with longer and thinner legs. Arien may also notice that a silver dart is embedded in the creature's abdomen.
+The jungle [[ankheg]] detects Arien's movement above its tunnel and bursts from the earth, attempting to grab her in its mandibles. (Show the image on the ankheg page.) It resembles a large green-striped insect with long, sharp claws and deadly mandibles dripping with acidic digestive enzymes. It resembles common ankheg, but larger, with longer and thinner legs. Arien may also notice that a silver dart is embedded in the creature's abdomen.
 
 Before Arien can significantly harm the creature, ''Elisia d'Vadalis'', agent of [[Balinor's Blessed]], intervenes. She has been tracking this creature as it has traveled north, and is determined to capture it unharmed. Elisia tries to use her [[Mark of Handling]] to calm the monstrosity, but it fails, and the creature escapes.
 
-Elisia introduces herself, her young assistant Whit, and her Redleaf tracking hound Barney. She is a skilled beast handler and representative of House [[Vadalis]]. She has been using [[darts of tracking]] to pursue the ankheg. The creature is extremely rare, particularly in this part of the world, and so Elisia wants to capture it unharmed and bring it to Freybeck Ranch, a Vadalis [[enclave]] nearby. But it's a wily and dangerous beast, and she needs help.
+<div align="center">
+[img[https://static.wikia.nocookie.net/eberron/images/b/b9/Mark_of_Handling.jpg]]<br/>
+//A Mark of Handling.//
+</div>
+
+Elisia introduces herself, her young assistant Whit, and her Redleaf tracking hound Barney (looks like a [[Plott hound|https://www.trainpetdog.com/wp-content/themes/mytheme/images/about-page-images/Plott-Hound-origin.png]]). She is a skilled beast handler and representative of House [[Vadalis]]. She has been using [[darts of tracking]] to pursue the ankheg. The creature is extremely rare, particularly in this part of the world, and so Elisia wants to capture it unharmed and bring it to Freybeck Ranch, a Vadalis [[enclave]] nearby. But it's a wily and dangerous beast, and she needs help.
 
 * She speculates that the creature originated in the [[Khraal]] rainforest in [[Darguun]].
 * She says she hasn't been able to figure out a consistent way to lure it out; Arien must have just stumbled across it. She knows that ankhegs eat meat (both live and carrion), but had no idea that they apparently enjoy runnelberries this much.
@@ -77,15 +82,17 @@ Elisia introduces herself, her young assistant Whit, and her Redleaf tracking ho
 
 !! Nuala the Herbalist
 
-Nuala is a reclusive herbalist than can provide support for Arien. She lives a few miles outside of Veiling and has a deep understanding of creatures and their behaviors. She possesses valuable knowledge and might aid Arien in finding a way to pacify the creature without harming it. Possibilities:
+Nuala is a reclusive [[gnome]] herbalist who can provide support for Arien. She lives a few miles outside of Veiling and has a deep understanding of creatures and their behaviors. She possesses valuable knowledge and might aid Arien in finding a way to pacify the creature without harming it. Possibilities:
 
 * She might have special sedative herbs or concoctions that can be used to incapacitate the ankheg. Some of them are of questionable legality, like [[dreamlily]] and felsage (a strong and dangerous sedative). 
 * She's got other illicit substances she offers to Arien, like "lakua" (ground silvery bark that gives an adrenaline rush, and makes time seem to slow down), "redthyme" (a red potion that increases aggression), and "snakeroot" (which is just a hallucinogen).
-* Create a diversion into some kind of enclosure. The diversion could be meat, runnelberries, or the mating call of a male (female ankhegs kill the male and lay eggs in his body after mating).
+* Create a diversion into some kind of enclosure. The diversion could be meat, runnelberries, or the mating call of a male (female ankhegs kill the male and lay eggs in his body after mating). Nuala might have a strange collection of animal-call whistles.
 
 !! Facing the Creature
 
-Armed with knowledge imparted by Nuala, Elisia and Arien work together to capture the [[ankheg]]. Elisia calms the beast with her [[Mark of Handling]] and binds it with special rope, and her assistant Whit has brought a cart with a cage.
+Armed with knowledge imparted by Nuala, Elisia and Arien work together to capture the [[ankheg]]. It is fast, has sharp mandibles and claws, and emits acid with its bite. It also can shoot a stream of acid (once per fight), and its wounds spray acid as well.
+
+Elisia calms the beast with her [[Mark of Handling]] and binds it with special rope, and her assistant Whit has brought a cart with a cage.
 
 !! Conclusion
 
