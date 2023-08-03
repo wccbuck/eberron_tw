@@ -637,262 +637,142 @@
         "title": "$:/plugins/sq/Stories/changelog"
     },
     {
-        "title": "ankheg",
+        "title": "Iron Circle",
         "fromPageRect": {
-            "top": 583.57421875,
-            "left": 898.359375,
-            "width": 52.67578125,
-            "right": 951.03515625,
-            "bottom": 602.32421875,
-            "height": 18.75
+            "top": 143.78125,
+            "left": 722.203125,
+            "width": 573,
+            "right": 1295.203125,
+            "bottom": 182.78125,
+            "height": 39
         }
     },
     {
-        "title": "Arien Grimbold",
+        "title": "Draft of 'Iron Circle'"
+    },
+    {
+        "title": "Iron Circle"
+    },
+    {
+        "title": "Draft of 'Iron Circle'"
+    },
+    {
+        "title": "Iron Circle"
+    },
+    {
+        "title": "Draft of 'Iron Circle'"
+    },
+    {
+        "title": "Iron Circle"
+    },
+    {
+        "title": "My Stuff",
         "fromPageRect": {
-            "top": 285.5078125,
-            "left": 1411.9140625,
-            "width": 352.6953125,
-            "right": 1764.609375,
-            "bottom": 305.5078125,
-            "height": 20
+            "top": 144.46875,
+            "left": 1482.921875,
+            "width": 21,
+            "right": 1503.921875,
+            "bottom": 169.65625,
+            "height": 25.1875
         }
     },
     {
-        "title": "A Menace in Runnelberry Dale",
+        "title": "air-step armor",
         "fromPageRect": {
-            "top": 425.87890625,
-            "left": 1436.2109375,
-            "width": 201.77734375,
-            "right": 1637.98828125,
-            "bottom": 442.12890625,
-            "height": 16.25
-        }
-    },
-    {
-        "title": "Arien Grimbold",
-        "fromPageRect": {
-            "top": 425.87890625,
-            "left": 1436.2109375,
-            "width": 101.25,
-            "right": 1537.4609375,
-            "bottom": 442.12890625,
-            "height": 16.25
-        }
-    },
-    {
-        "title": "A Menace in Runnelberry Dale",
-        "fromPageRect": {
-            "top": 448.65234375,
-            "left": 1436.2109375,
-            "width": 201.77734375,
-            "right": 1637.98828125,
-            "bottom": 464.90234375,
-            "height": 16.25
-        }
-    },
-    {
-        "title": "storm spire",
-        "fromPageRect": {
-            "top": 401.40625,
-            "left": 823.45703125,
-            "width": 81.30859375,
-            "right": 904.765625,
-            "bottom": 420.15625,
-            "height": 18.75
-        }
-    },
-    {
-        "title": "Arien Grimbold",
-        "fromPageRect": {
-            "top": 425.87890625,
-            "left": 1436.2109375,
-            "width": 101.25,
-            "right": 1537.4609375,
-            "bottom": 442.12890625,
-            "height": 16.25
-        }
-    },
-    {
-        "title": "ankheg",
-        "fromPageRect": {
-            "top": 574.0234375,
-            "left": 812.5390625,
-            "width": 52.67578125,
-            "right": 865.21484375,
-            "bottom": 592.7734375,
-            "height": 18.75
-        }
-    },
-    {
-        "title": "Arien Grimbold",
-        "fromPageRect": {
-            "top": 425.87890625,
-            "left": 1436.2109375,
-            "width": 101.25,
-            "right": 1537.4609375,
-            "bottom": 442.12890625,
-            "height": 16.25
-        }
-    },
-    {
-        "title": "A Menace in Runnelberry Dale",
-        "fromPageRect": {
-            "top": 448.65234375,
-            "left": 1436.2109375,
-            "width": 201.77734375,
-            "right": 1637.98828125,
-            "bottom": 464.90234375,
-            "height": 16.25
-        }
-    },
-    {
-        "title": "ankheg",
-        "fromPageRect": {
-            "top": 182.7734375,
-            "left": 812.5390625,
-            "width": 52.67578125,
-            "right": 865.21484375,
-            "bottom": 201.5234375,
-            "height": 18.75
-        }
-    },
-    {
-        "title": "Arien Grimbold",
-        "fromPageRect": {
-            "top": 425.87890625,
-            "left": 1436.2109375,
-            "width": 101.25,
-            "right": 1537.4609375,
-            "bottom": 442.12890625,
-            "height": 16.25
-        }
-    },
-    {
-        "title": "A Menace in Runnelberry Dale",
-        "fromPageRect": {
-            "top": 448.65234375,
-            "left": 1436.2109375,
-            "width": 201.77734375,
-            "right": 1637.98828125,
-            "bottom": 464.90234375,
-            "height": 16.25
-        }
-    },
-    {
-        "title": "Balinor's Blessed",
-        "fromPageRect": {
-            "top": 465.9765625,
-            "left": 737.0703125,
-            "width": 575.1171875,
-            "right": 1312.1875,
-            "bottom": 506.71875,
-            "height": 40.7421875
-        }
-    },
-    {
-        "title": "gnome",
-        "fromPageRect": {
-            "top": 213.73046875,
-            "left": 872.0703125,
-            "width": 49.1015625,
-            "right": 921.171875,
-            "bottom": 232.48046875,
-            "height": 18.75
-        }
-    },
-    {
-        "title": "Arien Grimbold",
-        "fromPageRect": {
-            "top": 448.65234375,
-            "left": 1436.2109375,
-            "width": 101.25,
-            "right": 1537.4609375,
-            "bottom": 464.90234375,
-            "height": 16.25
-        }
-    },
-    {
-        "title": "stress",
-        "fromPageRect": {
-            "top": 387.08984375,
-            "left": 752.0703125,
-            "width": 61.1328125,
-            "right": 813.203125,
-            "bottom": 412.08984375,
-            "height": 25
-        }
-    },
-    {
-        "title": "A Menace in Runnelberry Dale",
-        "fromPageRect": {
-            "top": 471.42578125,
-            "left": 1436.2109375,
-            "width": 201.77734375,
-            "right": 1637.98828125,
-            "bottom": 487.67578125,
-            "height": 16.25
-        }
-    },
-    {
-        "title": "Arien Grimbold",
-        "fromPageRect": {
-            "top": 448.65234375,
-            "left": 1436.2109375,
-            "width": 101.25,
-            "right": 1537.4609375,
-            "bottom": 464.90234375,
-            "height": 16.25
-        }
-    },
-    {
-        "title": "Weapon Expertise",
-        "fromPageRect": {
-            "top": 467.59765625,
-            "left": 1042.75390625,
-            "width": 290.68359375,
-            "right": 1333.4375,
-            "bottom": 489.58984375,
-            "height": 21.9921875
-        }
-    },
-    {
-        "title": "silvered dagger",
-        "fromPageRect": {
-            "top": 660.21484375,
-            "left": 752.0703125,
-            "width": 232.5390625,
-            "right": 984.609375,
-            "bottom": 682.71484375,
+            "top": 273.59375,
+            "left": 722.203125,
+            "width": 597.203125,
+            "right": 1319.40625,
+            "bottom": 296.09375,
             "height": 22.5
         }
     },
     {
-        "title": "A Menace in Runnelberry Dale",
+        "title": "rust hide armor",
         "fromPageRect": {
-            "top": 471.42578125,
-            "left": 1436.2109375,
-            "width": 201.77734375,
-            "right": 1637.98828125,
-            "bottom": 487.67578125,
-            "height": 16.25
+            "top": 318.09375,
+            "left": 722.203125,
+            "width": 597.203125,
+            "right": 1319.40625,
+            "bottom": 340.59375,
+            "height": 22.5
         }
     },
     {
-        "title": "Draft of 'A Menace in Runnelberry Dale'"
-    },
-    {
-        "title": "A Menace in the Runnels"
-    },
-    {
-        "title": "The Reavers of Harkenwold",
+        "title": "studded leather armor of useful items",
         "fromPageRect": {
-            "top": 60.46875,
-            "left": 565.6640625,
-            "width": 32.890625,
-            "right": 598.5546875,
-            "bottom": 99.921875,
-            "height": 39.453125
+            "top": 466.59375,
+            "left": 722.203125,
+            "width": 597.203125,
+            "right": 1319.40625,
+            "bottom": 489.09375,
+            "height": 22.5
+        }
+    },
+    {
+        "title": "benevolent armor",
+        "fromPageRect": {
+            "top": 466.09375,
+            "left": 722.203125,
+            "width": 597.203125,
+            "right": 1319.40625,
+            "bottom": 488.59375,
+            "height": 22.5
+        }
+    },
+    {
+        "title": "fortified armor",
+        "fromPageRect": {
+            "top": 466.59375,
+            "left": 722.203125,
+            "width": 597.203125,
+            "right": 1319.40625,
+            "bottom": 489.09375,
+            "height": 22.5
+        }
+    },
+    {
+        "title": "impervious armor",
+        "fromPageRect": {
+            "top": 466.09375,
+            "left": 722.203125,
+            "width": 597.203125,
+            "right": 1319.40625,
+            "bottom": 488.59375,
+            "height": 22.5
+        }
+    },
+    {
+        "title": "stanching armor",
+        "fromPageRect": {
+            "top": 466.59375,
+            "left": 722.203125,
+            "width": 597.203125,
+            "right": 1319.40625,
+            "bottom": 489.09375,
+            "height": 22.5
+        }
+    },
+    {
+        "title": "expeditious armor",
+        "fromPageRect": {
+            "top": 466.09375,
+            "left": 722.203125,
+            "width": 597.203125,
+            "right": 1319.40625,
+            "bottom": 488.59375,
+            "height": 22.5
+        }
+    },
+    {
+        "title": "rallying armor",
+        "fromPageRect": {
+            "top": 466.59375,
+            "left": 722.203125,
+            "width": 597.203125,
+            "right": 1319.40625,
+            "bottom": 489.09375,
+            "height": 22.5
         }
     }
 ]
