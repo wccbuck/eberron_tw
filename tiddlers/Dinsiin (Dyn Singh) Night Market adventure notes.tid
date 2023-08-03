@@ -1,6 +1,6 @@
 category: note
 created: 20221216183023016
-modified: 20230201060010202
+modified: 20230803063225137
 tags: [[Adventures of Arien]]
 title: Dinsiin (Dyn Singh) Night Market adventure notes
 type: text/vnd.tiddlywiki
@@ -189,7 +189,7 @@ The challengers are directed to sit at the table. As soon as they're seated, Vi 
 
 !!!! Running the Challenge
 
-The challenge unfolds over up to six rounds, with challengers eating their peppers one at a time. Each participating character must choose a pepper from the basket and eat it. The peppers are from the Spicy Brothers' unique stock, and nothing about them reveals their taste or intensity (though Arien might make an attempt to identify them with Study+Intellect). A random pepper is chosen from the table below (or the GM chooses based on the success of Arien's identify attempt). Arien then makes an Operate+Vigor attempt. Start a six-segment [[progress clock]]. If her attempt is a [[full success]], she manages to eat the pepper with no trouble. On a [[partial success]], she eats the pepper but fills the progress clock according to the pepper's spiciness. On a [[bad outcome]], she fills the progress clock AND increases the [[risk]] for each future pepper. (Only once during the competition, Arien can choose to take a point of [[harm]] instead of filling the progress clock.) If the progress clock fills completely, Arien either reflexively reaches for the milk or leaves the table. Either way, she loses.
+The challenge unfolds over up to six rounds, with challengers eating their peppers one at a time. Each participating character must choose a pepper from the basket and eat it. The peppers are from the Spicy Brothers' unique stock, and nothing about them reveals their taste or intensity (though Arien might make an attempt to identify them with Study+Intellect). A random pepper is chosen from the table below (or the GM chooses based on the success of Arien's identify attempt). Arien then makes an Operate+Vigor attempt. Start a six-segment [[progress clock]]. If her attempt is a [[full success]], she manages to eat the pepper with no trouble. On a [[mixed success]], she eats the pepper but fills the progress clock according to the pepper's spiciness. On a [[bad outcome]], she fills the progress clock AND increases the [[risk]] for each future pepper. (Only once during the competition, Arien can choose to take a point of [[harm]] instead of filling the progress clock.) If the progress clock fills completely, Arien either reflexively reaches for the milk or leaves the table. Either way, she loses.
 
 Vi offers color commentary during the event, encouraging the crowd to cheer participants and daring competitors to take dramatic bites.
 
@@ -198,7 +198,7 @@ Vi offers color commentary during the event, encouraging the crowd to cheer part
 | 2-5 |''Common Pepper.'' Risk: low (1 segment on progress clock). |
 | 6-7 |''Sweet Heat Pepper.'' Risk: moderate (2 segments). This pepper is hot but delicious. You do not have elevated risk when eating this pepper if you would normally have it as a result of eating a previous pepper. |
 | 8 |''Burning Waves Pepper.'' Risk: low. The heat from this pepper comes in waves; you must make two attempts against this pepper (or one [[critical|full success]]). |
-| 9 |''Flamethrower.'' Risk: moderate. If you get a [[partial success]] or [[bad outcome]] against this pepper, you belch or gasp spice into the air. Another participant suffers increase risk on their next attempt. |
+| 9 |''Flamethrower.'' Risk: moderate. If you get a [[mixed success]] or [[bad outcome]] against this pepper, you belch or gasp spice into the air. Another participant suffers increase risk on their next attempt. |
 | 10 |''Skull-Face Pepper.'' Risk: high. The spice is intense. For an instant, every participant's face looks like a skull to you. This is unsettling but has no other effect. |
 
 !!!! Ending the Challenge

@@ -7,13 +7,14 @@ flaw: Terrified of [[fey]] magic and curses
 force: 1
 guile: 0
 ideal: I must discover the source of my power
-modified: 20230720020623597
+modified: 20230803033513196
 momentum: 0
-money: 7
+money: 17
 name: Arien Grimbold
 savvy: 0
 sp: 1
 speed: 0
+tags: 
 title: $:/Arien Grimbold/data
 type: text/vnd.tiddlywiki
 xp: 0
@@ -22,3 +23,5 @@ Father: Oarsen Grimbold, gleaner and gardener
 Mother: Vylae, elven herbalist, formerly of Pylas Pyrial
 
 Supernatural gift from a tomta: Arien can cast invisibility one time
+
+Weapon Expertise: swords + caution
