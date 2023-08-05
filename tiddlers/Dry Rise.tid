@@ -1,11 +1,18 @@
 category: location
 color: #4C8201
 created: 20230731164813023
-modified: 20230731165642059
+modified: 20230805220718532
 points: 29.01,-8.38
+population: 200
 style: {"color": "#CA5700"}
 tags: Breland town
 title: Dry Rise
 type: text/vnd.tiddlywiki
 
-{{!!title}} is a village in [[Breland]], located in the [[Briar Hills]] on the [[White River]].
+''Population:'' <<ntls>>
+
+Dry Rise is a village in [[Breland]], located in the [[Briar Hills]] on the [[White River]]. It is a town of shepherds and stonecutters; the stone used to build the crossing at [[Mistmarsh]] was quarried from the hills nearby. A [[gnome]] trader named Sole Toldorff is the village reeve.
+
+!! During the [[Reavers of Harkenwold|The Reavers of Harkenwold]] Adventure
+
+Reeve Toldorff is thoroughly cowed by the [[Iron Circle]] marauders. A hunter named [[Adalbar]] has quietly stepped up to organize Dry Rise's fight.

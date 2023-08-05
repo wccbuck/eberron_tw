@@ -1,0 +1,82 @@
+category: location
+color: #A3DB62
+created: 20230805173720747
+modified: 20230805205606880
+tags: fortress Harkenton garrison
+title: Harken Keep
+type: text/vnd.tiddlywiki
+
+Harken Keep is the fortress of Count [[Alben ir'Clarn]], managed by the majordomo [[Jonn Stockmer]]. It is located in [[Harkenton]], the seat of the [[Harkenwold]] county in [[Breland]]. 
+
+The keep stands on top of a short, steep-sided hillock overlooking the town and the main [[Orien trade road|Orien trade roads]]. The trees and ground cover on the hillside are cut back at least 100 feet from the walls, leaving a bare grassy slope. The hill rises precipitously on the eastern side. The other approaches are more gradual, but none flatten out until about 100 feet above the village. A causeway of hard-packed dirt climbs around the hilltop to the castle's front gate, exposed to archery fire from the towers and walls for most of its length.
+
+The great tower and upper bailey were built 200 years ago to guard the road from raiding [[bugbear]] clans attacking from the [[Howling Peaks]] (these clans have since been wiped out). When [[Jonn Stockmer]] became steward 45 years ago, he embarked on a decades-long rebuilding and expansion of the stronghold, adding the lower bailey and repairing the rest of the castle (sorely needed at the time). [[Old Kellar]] from [[Harkenton]] was the chief stonemason of this work, and knows the castle like the back of his gnarled hands.
+
+During the [[Reavers of Harkenwold|The Reavers of Harkenwold]] adventure, Harken Keep serves as the stronghold of [[Nazin Redthorn]] and his [[Iron Circle]] soldiers. The rest of this document assumes you are in the middle of this adventure arc.
+
+About 60 Iron Circle soldiers are here at any given time, while another 60 patrol the rest of [[Harkenton]].
+
+!! Harken Keep Characteristics
+
+* ''Illumination:'' Bright light during the day. At night, lanterns dimly light the courtyards and brightly illuminate interior areas.
+* ''Battlements:'' The walls are topped with battlements, as are the rooftops of each of the towers and the keep. The battlements do not face the interior, and the wall tops are unprotected against attacks from inside the castle. 
+* ''Ceilings:'' Interior rooms have ceilings of 15 feet unless noted otherwise.
+* ''Doors:'' The interior doors in the castle are thick, iron-reinforced oak. The front gate and postern gate aren't normal doors; they're built to stand up to siege engines, at least for a short time. Locked doors can be picked open with [[thieves' tools]]. Assume that the soldiers in the area closest to a locked door have a key to open it. In addition, [[Nazin Redthorn]] has a master key ring that opens all locks in the castle (he leaves it behind when he marches to do battle at [[Mistmarsh]] (see <<navAndScrollToHeader "The Reavers of Harkenwold" "The Battle of Mistmarsh">>).
+* ''Elevation:'' All first-level areas inside the castle are 10 feet above the ground level outside the walls. Embrasure sills on the first floor are roughly 12 feet above the ground.
+* ''Embrasures:'' Most of the castle's "windows" are arrow slits, only about 6 inches wide. 
+* ''Roofs:'' The tower roofs are 40 feet above the ground outside; the keep roof is 60 feet above the ground outside.
+* ''Walls and Floors:'' The walls are well-made masonry. The battlements encircling the castle are 25 feet above the ground level outside, and 15 feet above the courtyards inside. Interior floors are flagstone; the interior courtyards are hard-packed dirt with flagstone paths.
+
+!! Map of the Keep
+
+<div align="center">
+[img[https://i.postimg.cc/cH1KRcYF/harken-keep.jpg]]<br/>
+//A Map of Harken Keep.//
+</div>
+
+In the below descriptions, if mention is made to the "keep at full strength," this refers to the situation where the keep is attacked before the Battle of Mistmarsh, when a great deal more [[Iron Circle]] soldiers are present.
+
+Locations marked on the Harken Keep map include:
+
+# ''Road.'' The road approaching the castle is closely watched. If approaching characters appear to have business at the castle (as opposed to running up with weapons drawn), they won't be fired on immediately.
+# ''The Gatehouse.'' The doors of the gatehouse are made of iron plate riveted to iron frames. They are normally closed, but include 6-inch-wide-spy-holes at head height so guards inside can see who's outside. An iron portcullis is positioned to drop at the top of the first set of stairs. The gate commander, a [[tiefling]] named [[Sturmik]], inhabits the gatehouse's lower chamber. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Outer Bailey">>".
+# ''West Tower.'' This tower is part of the gate's defenses. The lower floor is a storeroom, the upper floor a barracks. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Outer Bailey">>".
+# ''Lower Bailey.'' The lower bailey is exposed to the view of sentries on the wall tops. As long as no alarm has been raised, they don't react to adventurers in the courtyard unless the heroes are attacking or acting suspiciously. Characters approaching the gatehouse (area 2) will be challenged by the guards in that area.
+# ''Banquet Hall.'' In better days, Count [[Alben|Alben ir'Clarn]] was fond of entertaining guests in this grand hall. On days without revels, the area serves as the garrison's mess hall and off-duty tavern. The walls are decorated with heraldic shields, representing the noble families who are related or allied to House Clarn. An ugly new banner—a black background embroidered with a red- and gold-trimmed gray circle—hangs over the Clarn coat of arms in the place of honor. This area is currently unmanned, unless the keep is at full strength.
+# ''Lower Bailey Barracks.'' This barracks room is empty, unless the keep is at full strength.
+# ''Well Room.'' This small building protects one of the castle's two wells. The door is normally unlocked. The well is about 20 feet deep, filled by a natural spring in the hillside.
+# ''Red Tower.'' Named for the slightly red hue of its stone, this tower is currently occupied by a pair of Iron Circle [[warforged]] that help guard the outer bailey. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Outer Bailey">>".
+# ''Bailey Gate.'' This passage can be closed with a portcullis that swings shut and locks in place with iron bolts. The portcullis normally stands open.
+# ''Upper Bailey.'' The castle's inner courtyard is a large open space. A small well stands in front of the chapel door, and a number of small apple trees provide a pleasant bit of shade in warm weather. The trees obscure the wall sentries' view of the courtyard, so they don't notice infiltrators who are moving about with reasonable caution. A fight draws their attention.
+# ''North Tower.'' The upper floor of this tower is an empty barracks; the lower floor is used as a storeroom. A secret passage leads outside the wall from the lower floor of the tower. None of the [[Iron Circle]] soldiers know about it, but [[Old Kellar]] in [[Harkenton]] tells Arien about it if he gets the chance. The secret door can't be opened form outside, but a stealthy character could sneak over the wall and into the tower to open it from within.
+# ''Stables.'' Two horses are stabled here. If [[Nazin Redthorn]] survives the Battle of Mistmarsh, one of the horses is his.
+# ''Servant Quarters.'' This simple bunkroom sleeps a dozen castle servants. They are locked in here when they're not at work. The domestics are all Clarn and Stockmer retainers who've been enslaved by the [[Iron Circle]]. Their leader is a plucky but badly beaten human valet named Maroth. The servants are cowed by Nazin's warriors, but are willing to help Arien as much as they can without fighting. Given the chance, they take advantage of her presence to escape the castle. They can tell Arien that Nazin lives in the top floor of the keep, "Baron" [[Stockmer|Jonn Stockmer]] is imprisoned in the gaol, and "foul fiends haunt the chapel."
+# ''Upper Bailey Barracks.'' This barracks room is empty, unless the keep is at full strength.
+# ''Kitchen.'' From an hour before sunup to midnight, five retainers from the servant quarters prepare food and clean pots and pans here. The chief cook is an old [[dwarf]] named Kergud. He resents the [[Iron Circle]] and can tell Arien the same things as Maroth (the head servant). The stairs lead to well-stocked cellars holding flour, salted meat, ale, and other provisions. If Arien needs a safe place to rest, Kergud and the other servants point her to a spot in the cellars below.
+# ''Desecrated Chapel.'' Formerly dedicated to [[Boldrei]], this chapel has been defiled in favor of [[Bethageh]], the Slug Lord. An evil priest named [[Kaltis]] lairs here now, and a symbol of Bethageh scrawled in black pitch hangs above an altar covered in a scarlet cloth and black candles. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "Desecrated Chapel">>".
+# ''Wizard's Tower.'' A foul-tempered, imperious old [[wizard]] named Malkos normally inhabits this tower, but he is currently in [[Wroat]], having traveled there in the retinue of Count [[Alben ir'Clarn]]. The lower floor is a cluttered alchemical laboratory; the upper floor is where Malkos normally sleeps and keeps his small library.
+# ''Great Tower Drawbridge.'' The main entrance to the keep is on the second floor, 15 feet above the ground. A flight of stone steps leads up to a landing and then across a small drawbridge to the foyer (area 23) in the keep. The drawbridge is usually down. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Great Tower">>".
+# ''Great Tower Kitchen.'' Six servants handle the cooking and domestic work of the tower, sleeping in the kitchen. A stout, middle-aged [[gnome]] housekeeper named Thanis does her best to keep the kitchen and tower in order, hoping to avert Nazin's wrath. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Gaol">>".
+# ''Great Tower Lower Barracks.'' The soldiers responsible for guarding the gaol bunk in this room. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Gaol">>".
+# ''Postern Gate.'' This small but sturdy locked door is made of iron plate. [[Nazin|Nazin Redthorn]] keeps the key. The postern provides the Great Tower's defenders with a way to sortie against attacking forces. Steep bluffs fall away from the castle on its eastern side, so the postern is safe against heavy attack by enemy forces.
+# ''Gaol.'' The tower has cells for only a few prisoners at a time. Several [[Iron Circle]] soldiers stand here, keeping an eye on [[Jonn Stockmer]], who is imprisoned in the eastern cell. Despite his unbroken spirit, Stockmer is sick and too weak to walk. He urges rescuers to press on and defeat Nazin instead of wasting time on spiriting him out of the castle. If asked about the castle, Stockmer tells Arien about the secret staircase leading from area 26 (the Count's Hall) to area 30 (the Count's Chambers). See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Gaol">>".
+# ''Foyer.'' The drawbridge from the landing at area 18 leads into this antechamber. A large force of [[Iron Circle]] guards defends this floor of the Great Tower. The room is decorated with ornamental weapons on the walls. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Great Tower">>".
+# ''Great Tower Barracks.'' [[Iron Circle]] soldiers bunk in this room. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Great Tower">>".
+# ''Bodyguard Quarters.'' Nazin's personal guards, the [[hobgoblin]]s in the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Count's Chambers">>", sleep in this small bunkroom when they are not guarding their master.
+# ''Count's Hall.'' This richly decorated hall features fine tapestries along the walls. [[Nazin|Nazin Redthorn]] takes most of his meals here and holds court for several hours a day. If Arien attacks the keep in the middle of the day, he is likely to be here, surrounded by guards. A secret staircase leads up to area 30 (the Count's Chambers). Nazin and [[Stockmer|Jonn Stockmer]] (and the Count) know about the secret passage, but no one else does. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Great Tower">>".
+# ''Upper Foyer.'' This small area serves as the antechamber to the castle's master suite. It is heavily guarded if the keep is at full strength. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Count's Chambers">>".
+# ''Library.'' This room is the tower's library. Most of the volumes are atlases and histories—interesting, but not particularly valuable.
+# ''Chamberlain's Room.'' This comfortable bedroom is reserved for [[Jonn Stockmer]], the majordomo of Harken Keep. It currently serves as the quarters for the [[warlock]] who attends Nazin.
+# ''The Count's Chambers.'' The residence of Count [[Alben ir'Clarn]], this spacious suite is currently in the possession of [[Nazin Redthorn]] and his bodyguards. A secret staircase leads to the Count's Hall (area 26). The small rooms include a treasury with a locked door (Nazin has the key) and a bathroom with a fine bathtub. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Count's Chambers">>".
+
+The K3-10 labels are mislabeled and can be ignored.
+
+!! Raising the Alarm
+
+Harken Keep has two states: normal and alert. Infiltrators could set off the alarm if they fail to silence a wall top sentry within the first 15 or so seconds of a fight, allow a villain to escape from an encounter, or otherwise cause a great deal of noise. If infiltrators hide and take a brief rest after any of these events occur, the keep goes on alert and stays there for 1 hour.
+
+An alert keep probably spells doom for a party that stays and fights. The GM will have to judge how dangerous to make the situation. Overall suggestions for the keep's alert status follow.
+
+Sentries remain at their stations, shooting at invaders if able. The denizens of the gatehouse (<<navAndScrollToHeader "The Reavers of Harkenwold" "The Outer Bailey">>) also stay put. [[Kaltis]] and her [[devil]]s (<<navAndScrollToHeader "The Reavers of Harkenwold" "Desecrated Chapel">> respond as quickly as they can.
+
+The guards in the Great Tower (encounters "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Great Tower">>," "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Gaol">>," and "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Count's Chambers">>") close the drawbridge and lock the doors leading to the wall tops. [[Nazin|Nazin Redthorn]] gathers as much information about the situation as he can, then sorties out with the Great Tower force unless he's convinced that defense is the wisest option.

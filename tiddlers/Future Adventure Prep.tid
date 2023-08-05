@@ -1,6 +1,6 @@
 category: note
 created: 20220302010115523
-modified: 20230803193055459
+modified: 20230805171051544
 tags: 
 title: Future Adventure Prep
 type: text/vnd.tiddlywiki
@@ -13,14 +13,11 @@ Brelish town names: Finnseat, Breyreach, Molstep, Grasshollow, Wex
 
 !! Links to Headers
 * <<scrollToHeader "General Adventure Ideas Alita Wants">>
-* <<scrollToHeader "Starilaskur">>
-** <<scrollToHeader "Unity Dinners">>
-** <<scrollToHeader "Other Organizations">>
-** <<scrollToHeader "Third Semester?">>
-** <<scrollToHeader "Quests">>
 * <<scrollToHeader "Mistmarsh">>
 * <<scrollToHeader "On the Way to Sharn">>
+** <<scrollToHeader "Living Blade">>
 * <<scrollToHeader "Sharn">>
+** <<scrollToHeader "Sharn Adventures Worth Considering">>
 * <<scrollToHeader "Thrane">>
 * <<scrollToHeader "Eventually">>
 * <<scrollToHeader "Long-Term Plans">>
@@ -36,107 +33,9 @@ Brelish town names: Finnseat, Breyreach, Molstep, Grasshollow, Wex
 * Underwater adventure ([[Thunder Sea]])
 * Homestead, build home base
 
-!! Starilaskur
-
-[[Martial Temple of Dol Arrah]]
-
-[[Sejra Whitebinder]]
-
-When taking her oath: What would it take for you to break it?
-
-* What if it no longer aligns with your goals?
-* What if keeping it would cause harm to innocent people?
-
-"Religious Order" from E:RftLW, adopted a bit
-
-<<<
-You act in the service of [[Starilaskur]]'s prestigious [[Martial Temple of Dol Arrah]], pursuing causes for your faith. You could be on a mission to retrieve sacred relics lost in ancient ruins, holy objects from war-ravaged temples, or treasures to fill the
-church's coffers. Your faith might drive you to hunt evil
-monsters or stave off interplanar invasions, to protect
-and defend the powerless from oppression and exploitation, or to spread the teachings of your religion in a land
-that's hostile to it. 
-
-The patronage of a religious order isn't simply a
-matter of each member of your group belonging to the
-same faith. An actual organization—with its own resources, goals, and leaders—sponsors and directs your adventures.
-<<<
-
-!!! Unity Dinners
-
-[[Cadoc Belmin]] takes Arien to unity dinners and introduces her to the [[Khoravar|half-elf]] community in Starilaskur. [[Lorsanna]] joins too as well as others from the Martial Temple. Some other attendees include Sovelom, Fellise, and Paela.
-
-!!! Other Organizations 
-
-* the [[Swords of Liberty]]
-* the Order of the [[Emerald Claw]]. Canon Emerald Claw members include:
-** Krael Kavarat, a human [[vampire]]. Tall and muscular, wears plate armor, clean shaven with long blonde hair
-** [[Demise]]
-** [[Garrow]]
-** Mallora, a necromancer
-** Keltis Doran, a cleric
-* the [[Black Highway]] and whoever manages it locally
-* [[Daask]]. No canon information on the Starilaskur cell exists. [[Wroat]] cell is led by a medusa named Askhora, [[Passage]] cell is led by a werewolf named Fell, [[Sharn]] cell is led by an [[oni]] named [[Cavallah]]. Maybe this one is run by a [[fomorian]]? Or a [[gauth]]? Could be tension between local Black Highway smugglers and Daask.
-* [[Mourning Dawn]]?
-
-
-!!! Third Semester?
-
-Could have an additional round of classes that don't need full scenes. Ideas:
-
-* Domains of Faith (taught by Master Vasiraghi (human))
-** [[Light Domain]]
-** [[War Domain]]
-** [[Peace Domain]]
-** [[Life Domain]]
-** [[Order Domain]]
-** [[Knowledge Domain]]
-** [[Forge Domain]]
-* Battlefield tactics?
-
-!!! Quests
-
-Main services Arien will do:
-
-# Smite evil in your order's name.
-# Protect the downtrodden from the forces of oppression.
-# Seek out and retrieve sacred relics and holy artifacts on behalf of your church.
-
-Give Alita some options for what directions she can go, some choices for which quest to go on next.
-
-[[Thelanis]]/[[Assembly]]/[[fey]] quests, maybe with the help of [[Dowin Lin Adredar]]:
-
-* Dyn Singh Night Market
-* [[Old Man Cord]]
-* [[Skabatha Nightshade]]
-* Invisible [[boggle]]s are leading victims (children?) to an [[annis hag]]. 
-* Look up fairy/folk tales (specifically about artisans/makers) and make them Eberrony. 
-** [[The Wonderful Toymaker|https://en.wikipedia.org/wiki/The_Wonderful_Toymaker]]
-** [[https://www.gutenberg.org/files/30400/30400-h/30400-h.htm#chap05]]
-** [[The Elves and the Shoemaker|https://en.wikipedia.org/wiki/The_Elves_and_the_Shoemaker]]. This is about little folks ([[sprite]]s? [[pixie]]s?) helping out a craftsman and his family. This could be a chance for Arien to shrink down to mouse size like Alita very much wants her to do
-** [[The Smith and the Devil|https://en.wikipedia.org/wiki/The_Smith_and_the_Devil]]
-** [[The Stone Flower|https://en.wikipedia.org/wiki/The_Stone_Flower]]
-* A note on the [[Assembly]]: "An [[artificer]] could have been blessed by the [[Forge Maiden]]; their artifice isn't arcane science, they simply create impossible, whimsical things."
-
-[[Martial Temple of Dol Arrah]] quests:
-
-* Early quests might just be helping out the town. There's going to be a harvest of "runnelberries" soon, in the freshwater marshes that lead to [[Lake Brey]], but some hostile creature is preventing that; go investigate. Twist: An agent of [[Balinor's Blessed]] (House [[Vadalis]]) wants to capture the creature and bring it to a Vadalis [[enclave]]. Could be exported to the [[Hearth]], or just sent to a local enclave: call it "Freybeck Ranch". He uses [[darts of tracking]].
-** creature is jungle [[ankheg]], creature tier 3. 
-** When Arien goes out into the Runnels to investigate, describe the [[storm spire]]s which [[Lyrandar]] uses to control the weather
-* Martial Temple provides aid to the [[Heavenly Fleet]]. Could be something there, but that's way out in the [[Lhazaar Principalities]]. Maybe loop back around to this later.
-* Gathering relics of some kind. This might lead to clashes with the [[Emerald Claw]], or cultists of [[Katashka]].
-** If we're involving the Emerald Claw and maybe seeking out leaders of the organization in [[Starilaskur]], this could be a good dovetail into introducing [[Haldon d'Cannith]], if folks think he's a [[vampire]].
-* Another series of quests might send Arien to [[Vathirond]], or even into the [[Mournland]]. This might lead to clashes with agents of the [[Lord of Blades]]. It also might cause Prince [[Oargev ir'Wynarn]] of [[New Cyre]] to take notice of Arien.
-** From [[Mournland]] page: "A young Cyran paladin is morose because she was away from Cyre on a mission when the Day of Mourning occurred and never got to say goodbye to her family. She longs to retrieve her father's sword."
-** "A wealthy eccentric asks the party to go into the Mournland and retrieve his most prized possession (a letter from a lover, a mechanical caterpillar, or anything else you devise) from his mansion."
-** The Lord of Blades maintains a detention center where experiments are performed on adventurers and scavengers that his forces capture in the Mournland.
-
-<<<
-Prince Oargev is obsessed with the Mourning. He is desperate to discover the truth behind the destruction of his country. He regularly seeks information from those who venture into the [[Mournland]], and he funds expeditions into the remains of his once-proud nation, hoping to discover some clue as to the cause of Cyre's demise.
-<<<
-
-As Arien's powers grow, the mentor/teachers at the Martial Temple are confused at the way her powers manifest, and come to believe that her power comes primarily from the [[Silver Flame]], not from [[Dol Arrah]]. There are some Silver Flame experts in Breland, so her superiors recommend she travel to [[Sharn]] and get trained there at the [[Cathedral of the Cleansing Flame]]. (this is [[Sejra Whitebinder]]'s suggestion, at the objection of [[Cadoc Belmin]].)
-
 !! Mistmarsh
+
+[[The Reavers of Harkenwold]]
 
 Arien hasn’t gotten a letter from her parents or anyone from [[Mistmarsh]] in a while. She sends a letter telling her parents that she swore a paladin oath and graduated from novicehood, but still doesn’t get a response. She completes the [[ankheg quest|A Menace in the Runnels]], and still no response. So she decides to go back to Mistmarsh. [[Roak]] says he needs to stay in [[Starilaskur]] because the [[Brightblade]] festival is coming up and he needs to compete!
 
@@ -155,6 +54,10 @@ Thoughts on adapting Reavers for this region:
 * Iron Circle is a band of mercenaries that served in the [[Last War]] but are now just a band of marauders; In Albus's absence, they've taken over Harkenton and are spreading their influence across the county. They've also made a deal with the [[bullywug]]s to the north, which were previously kept in check.
 
 Lots of steadings and hamlets around, like every 1-2 miles.
+
+After this mission, Arien returns to Starilaskur, and talks with Sejra. Sejra wants Arien to travel to Sharn to explore and develop her connection to the Silver Flame. The [[Preceptor|Cadoc Belmin]] expresses resistance to this idea, but doesn't have a good argument for preventing Arien from going. See the notes on [[Sejra Whitebinder]] for more.
+
+The [[Devout of the Celestial Crown]] is the main [[liturgical council]] for [[Sharn]]. Belmin coordinates with them, and directs Arien to report to the [[Citadel of the Sun]] in [[Hope's Peak]], [[Upper Dura]]. (Conveniently, this district borders [[Clifftop]].)
 
 !! On the Way to Sharn
 
@@ -180,7 +83,7 @@ Note: Aejar was attacked by a [[ghost tiger]] when he was young (a "tamed" one i
 
 From ChatGPT: "As the party ventures through the King's Forest, they encounter an area that feels unnaturally warm, with the flora and fauna displaying an unusual vibrancy. This is a manifest zone to the plane of Fernia, the Sea of Fire. Amidst the fiery hues of this area, they stumble upon a majestic, ancient tree with bright crimson leaves and a faintly glowing aura. This tree is the home of a fiery dryad named Embera."
 
-The Jungle Boys have been coming to the manifest zone to Fernia lately and exploiting its resources. They came to Embera's tree and hacked pieces of it off, in order to carve into fiery darts and arrow shafts. They also cut down many rare [[firepine]]s for their very valuable wood, but in the process, destabilized the manifest zone. Now Embera's tree is weakened and dying, and the planar connection to Fernia is threatening to throw off the delicate ecological balance that maintains this part of the forest. Embera worries that the Sea of Fire will swell up and overtake this region in wildfires, wiping out habitats. The dryad names a family of endangered "liegferrets" and birds unique to this area that she loves, and wants to see thrive. Embera reaches out to Arien because she can detect the Fernian essence in her.
+The Jungle Boys have been coming to this manifest zone to Fernia lately and exploiting its resources. (This isn't THE big manifest zone of the King's Forest, just one small one.) They came to Embera's tree and hacked pieces of it off, in order to carve into fiery darts and arrow shafts. They also cut down many rare [[firepine]]s for their very valuable wood, but in the process, destabilized the manifest zone. Now Embera's tree is weakened and dying, and the planar connection to Fernia is threatening to throw off the delicate ecological balance that maintains this part of the forest. Embera worries that the Sea of Fire will swell up and overtake this region in wildfires, wiping out habitats. The dryad names a family of endangered "liegferrets" and birds unique to this area that she loves, and wants to see thrive. Embera reaches out to Arien because she can detect the Fernian essence in her.
 
 After dealing with saving Aejar, Arien comes back and follows Embera's instructions to perform a ritual to make this part of the forest more resilient to the elemental influences and save it from destruction. In the ritual, she might have to strengthen the bond between the remaining firepines to absorb the Fernian energies maybe? Perhaps through a magical chant. Maybe she needs strands of heartwood from the downed firepine trees; the dense core of the oldest firepines will help with the ritual. She might also need to contend with [[fire elemental]]s, or [[mephit]]s of smoke and magma.
 
@@ -189,6 +92,25 @@ In the end, Embera passes her spirit into a branch of her tree, the rest of whic
 !! Sharn
 
 Arien goes to [[Sharn]]. She is to check in with Archierophant [[Ythana Morr]] at the [[Cathedral of the Cleansing Flame]]. Could be the start to some cool adventures. But when she's there, she needs a way to make money; joins [[Clifftop Adventurers' Guild]]. Do the "Sharn chicken" scene from Fired and Forgotten. 
+
+Might need to push back the [[Race of Eight Winds]] since Arien might arrive right after it canonically happens.
+
+Could do something with [[Fathen's Fall]], Barrakas 25.
+
+!!! Sharn Adventures Worth Considering
+
+* Delirium Stone (see below)
+* Fallen Angel (Dungeon 117)
+* Fired and Forgotten (Convergence Manifesto)
+* Curtain Call (DMs Guild)
+* Steel Shadows (Dungeon 115)
+* Murder in Oakbridge (Dungeon 129)
+* Viktor Saint-Demain
+* "First Campaign" adventures (require editing):
+** The Forgotten Forge
+** Shadows of the Last War
+** Whispers of the Vampire's Blade
+** Grasp of the Emerald Claw
 
 At some point, [[Roak]] visits. He's become a member of the [[Broken Blade]] in the interim, and he is learning smithing techniques; he hopes to become a swordmaster someday. He wants to visit the [[Pool of Onatar's Tears]].
 
@@ -211,6 +133,12 @@ Eventually, she realizes her power comes from a [[celestial]] of [[Fernia]], who
 * Another shrink-down adventure involving [[brigganock]]s.
 ** Brigganock names: Trig, Zarli, Oyla, Golmo, Obud (lives in a hut on a pony named Keg, lowers a rope ladder to get down from the saddle straps), Pim, Zwee
 * [[Krezent]]
+* Consider [[Eyes Unclouded Anthology|https://www.dmsguild.com/product/322733/Eyes-Unclouded]]
+* Consider stealing ideas from Oracle of War if Arien wants to salvage in the Mournland (don't forget I have some thoughts on Mournland stuff in [[Old Miscellaneous Planning Notes]]
+* A journey to the [[Labyrinth]] to meet with the [[Ghaash'kala]]. Learn about the Binding Flame. Maybe she is sent here (or chooses to come here) to investigate what happened to a great paladin who never returned, and to recover his holy relics. 
+** Travel through Aundair (encounter Pure Flame?)
+** Travel through the Eldeen Reaches (encounter maybe a village that needs help, then enter the Towering Wood and maybe encounter shifters/lycanthropes) 
+** Arrive in the Demon Wastes and fight fiends and barbarians with the Ghaash’kala orcs. 
 
 !! Long-Term Plans
 
@@ -233,7 +161,7 @@ So perhaps Arien's journey will be a way to form a "better" cage for these fiend
 Another overlord we could use: [[Eldrantulku]] the Oathbreaker. Good reasons to suspect it is bound somewhere beneath Breland. In fact, his prakhutu [[Kashtarhak]], the Voice of Chaos, is a perfect villain for spreading discord in [[Breland]] and abroad, and probably is working with speakers of other overlords (e.g. [[Mazyralyx]], [[Mordakhesh]]) to make this come about. [[Emerald Claw]], cults of the [[Grim King|Katashka]], the [[Swords of Liberty]], etc. Other servants include [[Thelestes]], a "claw" of Kashtarhak.
 
 * If we use Kashtarhak, rename him, since we're already using Katashka and it's too similar. Maybe [[Neabaz|https://ghwiki.greyparticle.com/index.php/Neabaz]], and give him some similar characteristics.
-* Another servant of Kashtarhak/Neabaz could be "Bethaga", a slug-like fiend who commands [[tar devil]]s (look up pictures of Baalzebul). This is the entity worshiped by the [[Iron Circle]].
+* Another servant of Kashtarhak/Neabaz could be "Bethageh" (beth-AH-geh), a slug-like fiend who commands [[tar devil]]s (look up pictures of Baalzebul). This is the entity worshiped by the [[Iron Circle]].
 
 The [[barghest]] curse originated as the betrayal of seventeen oaths, according to legend.
 

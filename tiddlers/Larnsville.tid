@@ -1,11 +1,18 @@
 category: location
 color: #4C8201
 created: 20220208040131900
-modified: 20230731172454122
+modified: 20230805220754369
 points: 28.91,-6.65
+population: 350
 style: {"color": "#CA5700"}
 tags: Breland town
 title: Larnsville
 type: text/vnd.tiddlywiki
 
-Larnsville is a village in [[Breland]], near [[Mistmarsh]]. It is known for its orchards of apples and plums, as well as fine ciders and fruit-wines. 
+''Population:'' <<ntls>>
+
+Larnsville is a village in [[Breland]], near [[Mistmarsh]]. It is known for its orchards of apples and plums, as well as fine ciders and fruit-wines. The town reeve is a proud [[shifter]] woman named [[Madera Lirr]].
+
+!! During the [[Reavers of Harkenwold|The Reavers of Harkenwold]] Adventure
+
+Larnsville has been heavily oppressed by the [[Iron Circle]]. Reavers patrol the village streets and routinely tyrannize the residents.

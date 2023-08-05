@@ -1,6 +1,6 @@
 category: note
 created: 20230728201704673
-modified: 20230801060802625
+modified: 20230805230006483
 tags: [[Adventures of Arien]]
 title: The Reavers of Harkenwold
 type: text/vnd.tiddlywiki
@@ -8,6 +8,33 @@ type: text/vnd.tiddlywiki
 [WIP]
 
 A series of adventures in which Arien must release her home county from the tyranny of a powerful band of brigands.
+
+!! Links to Headers
+* <<scrollToHeader "Summary">>
+* <<scrollToHeader "Background">>
+* <<scrollToHeader "Hook">>
+* <<scrollToHeader "Freeing Harkenwold">>
+* <<scrollToHeader "Travel to Mistmarsh">>
+* <<scrollToHeader "Earlene's Plight">>
+** <<scrollToHeader "Earlene's Plea">>
+* <<scrollToHeader "Arriving in Mistmarsh">>
+* <<scrollToHeader "Encounters">>
+** <<scrollToHeader "Tavern Brawl">>
+** <<scrollToHeader "Waylay the Caravan">>
+** <<scrollToHeader "Hunted!">>
+** <<scrollToHeader "Toadwallow Caverns">>
+** <<scrollToHeader "The Cliffwalker Shifters">>
+** <<scrollToHeader "The Battle of Mistmarsh">>
+* <<scrollToHeader "Harken Keep Encounters">>
+** <<scrollToHeader "Infiltrating the Keep">>
+** <<scrollToHeader "Wall Defense">>
+** <<scrollToHeader "The Outer Bailey">>
+** <<scrollToHeader "Desecrated Chapel">>
+** <<scrollToHeader "The Great Tower">>
+** <<scrollToHeader "The Gaol">>
+** <<scrollToHeader "The Count's Chambers">>
+* <<scrollToHeader "Conclusion">>
+
 
 !! Summary
 
@@ -17,11 +44,11 @@ At present, [[Iron Circle]] mercenaries are plundering the land. Count [[Alben i
 
 !! Background
 
-About six weeks ago, [[Nazin Redthorn]] led his band of mercenaries known as the [[Iron Circle]] into [[Harkenwold]] in a surprise attack. The brigands stormed the [[Harkenton]] Keep and took the [[steward|Jonn Stockmer]] captive. Iron Circle sweeps and raids soon quelled any show of resistance, leaving the county a conquered land. The Iron Circle has bribed the [[Municipal Guard|Breland Municipal Guard]] of Harkenton to prevent anyone from leaving or entering the county by main roads, including couriers. The mercenaries are also forcing a [[Sivis]] [[stonespeaker|speaking stone]] to answer any messages from the Count with false, mundane replies. 
+About six weeks ago, [[Nazin Redthorn]] led his band of mercenaries known as the [[Iron Circle]] into [[Harkenwold]] in a surprise attack. The brigands stormed the [[Harkenton]] Keep and took the [[steward|Jonn Stockmer]] captive. Iron Circle sweeps and raids soon quelled any show of resistance, leaving the county a conquered land. The Iron Circle has bribed the [[Municipal Guard|Breland Municipal Guard]] of Harkenton to prevent couriers, messengers, or anyone who might be a threat from leaving or entering the county by main roads. (Everyday commoners, merchants, and farmers are allowed to come and go, but they are questioned first, and subjected to heavy tolls.) The mercenaries are also forcing a [[Sivis]] [[stonespeaker|speaking stone]] to answer any messages from the Count with false, mundane replies. 
 
 The new bandit "authorities" are pillaging Harkenwold through "tolls" and confiscations, harshly punishing anyone who resists. [[Nazin|Nazin Redthorn]] is further strengthening his hold by negotiating with other malignant forces. In particular, he's used some of the loot he's plundered from the county's suffering populace to buy the friendship of a group of odious [[bullywug]]s.
 
-[[Nazin Redthorn]] knows that this operation is short-term, and that their hold on this region won't last forever. But he believes that by the time word reaches the Count's ears and he returns with an army, the [[Iron Circle]] will have withdrawn and escaped, having bled the county dry.
+The Iron Circle hasn't completely locked down the county; they want to avoid too much attention, and prevent the local populace from panicking. So they allow a small degree of movement in and out of the region, especially for merchants and entertainers—though they demand heavy tolls at checkpoints on the main roads, manned by bribed [[Municipal Guards|Breland Municipal Guard]]. However, any individuals who might pose a threat, such as suspected spies or agents of the government, are detained or possibly eliminated. Despite these measures, [[Nazin Redthorn]] knows that this operation is short-term, and that their hold on this region won't last forever. But he believes that by the time word reaches the Count's ears and he returns with an army, the [[Iron Circle]] will have withdrawn and escaped, having bled the county dry.
 
 !! Hook
 
@@ -31,12 +58,10 @@ The new bandit "authorities" are pillaging Harkenwold through "tolls" and confis
 
 To successfully overthrow the [[Iron Circle]] and restore freedom to [[Harkenwold]], Arien must accomplish at least four of the following goals:
 
-[Todo: Add scrollToHeader links here]
-
-* Defeat the [[bullywug]]s of the Toadwallow Caverns.
-* Forge an alliance with the Cliffwalker [[shifter]]s.
-* Win the Battle of Mistmarsh.
-* Rescue Majordomo [[Stockmer|Jonn Stockmer]] from Harkenton Keep.
+* Defeat the [[bullywug]]s of the <<scrollToHeader "Toadwallow Caverns">>.
+* Forge an alliance with <<scrollToHeader "The Cliffwalker Shifters">>.
+* Win <<scrollToHeader "The Battle of Mistmarsh">>.
+* Rescue Majordomo [[Stockmer|Jonn Stockmer]] from <<scrollToHeader "Harken Keep">>.
 * Defeat [[Nazin Redthorn]], the leader of the [[Iron Circle]].
 
 Achieving four of these goals ensures that the Harkenwolders eventually triumph over the [[Iron Circle]]. Achieving all five brings about an immediate victory. For example, losing the Battle of Mistmarsh would be a serious setback, but the remaining villages can beat the Iron Circle if Nazin is dead, the steward is freed, the Cliffwalkers are on their side, and the bullywugs pose no threat.
@@ -45,11 +70,11 @@ Note that [[Nazin Redthorn]] is an arrogant and overconfident man; he is willing
 
 !! Travel to Mistmarsh
 
-When Arien disembarks from the [[lightning rail]] at [[Heeson's Ferry]], she needs to make her way south. No [[Lyrandar]] riverboats make their way upriver these days, since they typically wait until Gatherhunt at the end of [[Barrakas]]. Keelboats (poleboats) make the journey up and down the [[Yedan River]], but it's slow going upstream; they only average 15 miles per day. It's faster (and cheaper) to trek on foot. The major villages are noted on the map, but every few miles, she can find little steadings: farms or homesteads in the countryside surrounded by many acres of land, home to a single extended family (no more than 20 people).
+The trip from [[Starilaskur]] to [[Heeson's Ferry]] via [[lightning rail]] takes about six hours. When Arien disembarks at Heeson's Ferry, she needs to make her way south. No [[Lyrandar]] riverboats make their way upriver these days, since they typically wait until Gatherhunt at the end of [[Barrakas]]. Keelboats (poleboats) make the journey up and down the [[Yedan River]], but it's slow going upstream; they only average 15 miles per day. It's faster (and cheaper) to trek on foot or by horse. The major villages are noted on the map, but every few miles, she can find little steadings: farms or homesteads in the countryside surrounded by many acres of land, home to a single extended family (no more than 20 people).
 
 [[Heeson's Ferry]] to [[Pran]] is about 145 miles (or 157 miles by river). If Arien walks or takes a horse (30 miles per day), that should take 5 days (6 days to [[Mistmarsh]]). If she takes a keelboat, it should take 10.5 days (12 days to Mistmarsh). When she reaches [[Nelview]] (53 miles south of Heeson's Ferry, 2 days journey), she starts to realize something is afoot; rumors circulate that brigands have taken over the entire county to the south, that people aren't allowed out or in along the main roads, including [[Couriers Guild]] mail carriers.
 
-Pran is the last village before she'll need to travel off the main road to avoid attention; a group of [[Municipal Guards|Breland Municipal Guard]] from [[Harkenton]] prevent folks from traveling further south. They mumble something about a temporary travel ban due to a security risk that's under active investigation. (Though the Guards won't resort to violence; they aren't paid enough for that.)
+Pran is the last village before she'll need to travel off the main road to avoid attention; a group of [[Municipal Guards|Breland Municipal Guard]] from [[Harkenton]] have set up a checkpoint on the main road heading south. Someone in Pran might mention that there's been some kind of change in leadership down south, and it's getting to be too expensive to travel there; the tolls are too high. The guards at the checkpoint mumble something about an ongoing security risk that's under active investigation. They check Arien's [[traveling papers]] and ask about her intentions for visiting the area. (The Guards won't resort to violence; they aren't paid enough for that. They will, however, make contact with the Iron Circle if Arien makes a scene or appears suspicious.)
 
 [[Pran]] to [[Mistmarsh]] is 24 miles along the main road, or longer off-road—another day of travel. On this journey, she encounters the [[Iron Circle]] for the first time: Earlene's farmstead.
 
@@ -89,7 +114,7 @@ Questions Arien might ask:
 
 !! Arriving in Mistmarsh
 
-[]
+[[Mistmarsh]] itself is much as Arien left it; the [[Iron Circle]] does not have a strong presence here, as of yet. But worry and fear can be seen in the faces of everyone in town. Arien can make her way to her parents' place, where they have a teary reunion. [[Vylae]] wants Arien to help with the resistance, and suggests going to [[Tor's Hold]] to deal with the [[bullywug]] problem there. At Grem Stables, Arien can speak with [[Curlot Grem]], who suggests attacking [[Iron Circle]] supply caravans (see <<scrollToHeader "Waylay the Caravan">>).
 
 !! Encounters
 
@@ -114,7 +139,23 @@ If a fight breaks out, the townsfolk flee by the safest route possible, or cower
 
 !!! Waylay the Caravan
 
-[]
+Run this encounter when Arien decides to attack [[Iron Circle]] supply lines in [[Harkenwold]]. It fits best when:
+
+* Arien takes [[Curlot Grem]]'s suggestion for a good ambush opportunity
+* Another NPC ([[Adalbar]] in [[Dry Rise]], [[Eam Grimbold]] in [[Harkenton]], or [[Madera Lirr]] in [[Larnsville]]) suggests an attack against the Iron Circle's supply wagons
+* Arien roams the countryside in search of Iron Circle activities to disrupt, and stumble across a supply wagon and guards
+
+No matter how Arien and any allies she has with her encounter the wagon, they have time to set up an ambush. After they're in position, read:
+
+//A large wagon pulled by a big cart horse creaks along the dusty road. Three Iron Circle soldiers in black cloaks with gray circle emblems plod alongside, while a fourth drives the wagon. One of the soldiers is a [[warforged]], while the rest are human. Another human in chainmail with a dark hood over his head sits near the driver. Unlike the soldiers, he wears a red surcoat, and his circle design is black trimmed in gold.//
+
+The four brigands (including the warforged) wield crossbows and melee weapons (scimitar, mace, or short sword), and the three human brigands wear leather armor. One has a light shield. The hooded man is a [[wandslinger]] who possesses fiendish power; he can create fiery tendrils that lash out and grab hold of his enemies, and he can cast the spell [[web]] (though it takes the form of black tar). The wandslinger can also place a "dark imperative" on one of his allies once per day, granting them extra defense and adding [[necrotic damage|damage type]] to their attacks.
+
+The driver and wandslinger remain in the wagon. The driver uses his crossbow, and the wandslinger casts spells. If the fight goes badly, one of them lashes the horse's reins, inducing the animal to bolt.
+
+The three brigands on foot melee with Arien and the ambushers, but try to stay close to the wagon. They may move behind the wagon and use it for cover, returning fire with their crossbows. 
+
+The horse doesn't fight. If injured, it bolts, dragging the wagon behind it. This might cause creatures in the wagon to fall out.
 
 !!! Hunted!
 
@@ -132,7 +173,153 @@ If a fight breaks out, the townsfolk flee by the safest route possible, or cower
 
 []
 
-!!! Harkenton Keep
+!! Harken Keep Encounters
+
+The first challenge Arien and her allies face is getting inside [[Harken Keep]]. They might devise a ploy to enter, such as feigning surrender, hiding in supply wagons, or donning disguises. <<scrollToHeader "Infiltrating the Keep">> addresses some scenarios that might result given some of the more likely approaches.
+
+More direct approaches might be to go over or through the walls. The keep is guarded by a number of sentries who try to prevent this, and they raise the alarm if attacked (see <<navAndScrollToHeader "Harken Keep" "Raising the Alarm">>). The "<<scrollToHeader "Wall Defense">>" encounter covers the wall defense if the infiltrators attack the sentries.
+
+Finally, the heroes might try a frontal assault on the front gate and outer bailey. Such a plan leads to the encounter "<<scrollToHeader "The Outer Bailey">>". This hard fight (especially if the heroes attack early in the adventure) might be pulled off by a tough and aggressive group.
+
+!!! Infiltrating the Keep
+
+To rescue "Baron" [[Stockmer|Jonn Stockmer]] and defeat the [[Iron Circle]] in [[Harkenwold]], Arien and her allies must find a way to get into [[Harken Keep]]—a heavily defended castle surrounded by daunting battlements and high walls.
+
+So how does the party get inside? The most perilous option is to storm the castle. The party might attempt to scale the walls (<<scrollToHeader "Wall Defense">>), fight their way through the front gate (<<scrollToHeader "The Outer Bailey">>), or slip in through the postern gate (area 21 on the [[Harken Keep]] map). If Arien speaks to [[Old Kellar]] in the town, the dwarf can direct her to the secret passage leading into the North Tower (area 11), but warns her that the door must be opened from within.
+
+A challenge scene can be used if the heroes attempt to bluff their way into the castle. The following suggestions cover the characters posing as new recruits, pretending to be [[Iron Circle]] soldiers, or smuggling themselves inside. Another approach is surrender. If they come up with something completely off-the-wall, try to use the listed strategy below that most closely matches their idea as a framework.
+
+Read:<br/>
+//The road winds around the hill, passing under the battlements of the keep before leading up to a strong gatehouse and tower. You catch glimpses of armed guards along the walls and watching you through arrow slits. When you reach a point about 30 feet or so from the gate, a harsh voice calls out from one of the arrow slits. "That's far enough! Who are you, and what's your business?"//
+
+* ''New Recruits.'' The heroes approach [[Harken Keep]] as "mercenaries" looking for work. [[Sturmik]], the [[tiefling]] who commands the gatehouse, isn't sure he believes that the heroes are who they say they are.
+** //The captain of the gatehouse steps out onto the parapet and leans down to look you over. He's a [[tiefling]] clad in a black surplice embroidered with a gold-trimmed gray ring. "So you think you're Iron Circle material?" he sneers. "I'm not so sure I like the looks of you. Tell me why I shouldn't drive you away from the gate like beggars."//
+** A character can attempt to create a plausible mercenary alter ego, make a claim of great skill or ruthlessness, or tell tales of past exploits. Knowledge of other mercenary crews or gangs might help here.
+** A character might also offer a modest bribe (not unusual for joining companies like this one).
+** ''Success:'' [[Sturmik]] allows the party to enter. He assigns two of the guards from the gatehouse to lead the heroes to the barracks room in area 6 (see [[Harken Keep]] map). Sturmik also sends word to [[Nazin Redthorn]] that new recruits are awaiting his inspection. The gatehouse guards remain to keep an eye on the party and see them settled. In an hour or two, Nazin and his retinue (the villains in the encounter "<<scrollToHeader "The Count's Chambers">>") come down to the banquet hall to look things over. If the party met Nazin at the Battle of Mistmarsh, the fight is on!
+** ''Failure:'' [[Sturmik]] sees through the heroes' ruse and orders the guards to open fire. Proceed with the encounter "<<scrollToHeader "The Outer Bailey">>".
+* ''Iron Circle Poseurs.'' The heroes equip themselves with tunics and cloaks taken from [[Iron Circle]] soldiers they've defeated, and pose as a patrol returning to the castle. [[Sturmik]], the tiefling who commands the gatehouse, is suspicious because he doesn't recognize any of the "soldiers."
+** //Before the gate opens, a harsh voice rings out from the gatehouse. "I don't remember any of you. Who is your sergeant? Where did you say you were coming from?"//
+** A character might persuade Sturmik that they're just soldiers he hasn't met yet, try to flatter Sturmik, or fast-talk around questions they don't know the answer to.
+** A character might threaten Sturmik with retaliation for wasting time, or intimidate him with a torrent of insults to demonstrate impatience.
+** A character might also engage in soldierly camaraderie, lighten the mood with a wisecrack, or suggest to Sturmik that good loot is ready for divvying up if he stops hassling "the patrol."
+** ''Success:'' Sturmik orders the gate opened and allows the party to enter. They can go where they like without being challenged, except the gaol (area 22), and Nazin's chambers (areas 27-30). Even so, suspicious actions are likely to provoke attack.
+** ''Failure:'' [[Sturmik]] sees through the heroes' ruse and orders the guards to open fire. Proceed with the encounter "<<scrollToHeader "The Outer Bailey">>".
+* ''Smuggled Inside.'' The [[Iron Circle]] garrison imports wagonloads of stolen goods every day. The heroes can hide themselves in the supply wagons and get "delivered" to the castle. It's impossible to maneuver a large wagon through the castle gate, but a small one-horse wagon can negotiate the tight turn. Such a wagon has enough room to conceal up to three human-sized people beneath a load of produce or other supplies. At least one person must pose as the wagon driver, and the guards won't be overly suspicious if one or two more characters are accompanying the wagon on foot to "help out" or "guard against bandits."
+** //The castle's gate is closed. A bored-looking guard peeks out of one of the arrow slits in the gatehouse and calls, "Hold on! What have you got there?"//
+** A non-hidden character can try to convince the gate guards that the delivery is not worth a close look, or to pass off a disguised adventurer as a common cart driver.
+** A non-hidden character can strike up a friendly banter with the guards or tell a good joke, allaying suspicions.
+** A hidden character can make attempts to create the best hiding place possible, or to hold perfectly still and stifle any outcry when their hiding place is poked at.
+** ''Success:'' On the first successful bluff by a non-hidden character, the guards open the gate and wave the wagon into the courtyard for inspection. They hold the wagon just inside the gate until they finish their inspection, after which they instruct the driver to take the wagon to the kitchen (the southern door of area 15 on the map of [[Harken Keep]]). As long as the characters stay with the wagon, they can go anywhere in the lower or upper bailey (areas 4 and 10) without challenge. If the characters drive up to an encounter area—for example, the stairs leading to <<scrollToHeader "The Great Tower">>—and suddenly leap out to attack, they'll have the element of surprise.
+** ''Failure:'' A hidden character is discovered, and the guards attack. Proceed with the encounter "<<scrollToHeader "The Outer Bailey">>".
+* ''Surrender.'' The adventurers can deliberately allow themselves to be captured. The [[Iron Circle]] soldiers confiscate all their gear, rough them up, question them intently, and then lock them in the gaol (area 22). The heroes must then escape from the cells and defeat any guards responding to their breakout (see the encounter "<<scrollToHeader "The Gaol">>"). If they can manage that, they'll find their gear locked in a large chest in area 19.
+
+!!! Wall Defense
+
+This encounter addresses what happens if the heroes try to scale the walls between the occupied towers. It explains how a fight against one or two wall sentries might spread into a wider encounter. A bungled attack here could easily wind up involving large groups of foes, creating a situation in which the adventurers are dealing with multiple encounters at the same time.
+
+Unless the adventurers take unusual steps to conceal their approach, the sentries spot them about 500 feet away in daylight, or 100 feet away at night. In daylight, it's almost impossible to get close to the wall without being spotted. Little cover exists on the hillside outside the castle. Still, a stealthy party with a lot of patience might be able to manage it by using camouflage, low-crawling, or approaching with the sun at their backs. The walls are well-made masonry and are challenging to climb.
+
+The sentries on the wall tops begin to shout an alarm as soon as they spot the heroes approaching; any group with legitimate business in the castle would use the front gate, after all. The sentries also shout an alarm if they are attacked without being killed or knocked unconscious. A stealthy hero might be able to get close enough to silence a sentry with a single projectile or spell, allowing the party to scale a wall section without being detected by any of the castle defenders.
+
+If the alarm is raised, the enemies in nearby areas defend their part of the wall—either moving to arrow slits in their tower that face outward, or exiting their towers to take up stations on the parapet facing the attack. The defenders open fire on the approaching party as soon as the heroes come within range, and cut ropes or dislodge grappling hooks as needed to keep the heroes off the walls. When one wall is attacked, the defenders of nearby walls eventually join in the battle. 
+
+Sentries are armed with crossbows and either a mace or a sword. They wear leather armor.
+
+Read:<br/>
+//Little cover exists outside the walls. The bare hillside slopes steeply up to the battlements of the castle, which are 25 feet high. Between the crenelations, you catch glimpses of guards walking rounds on the wall tops.//
+
+''Wall Defenses:''
+
+For the purposes of this encounter, the walls of [[Iron Keep]] are divided into six sections, as soon on the below map. Different garrison groups are responsible for guarding each section.
+
+<div align="center">
+[img[https://i.postimg.cc/DyRBDHy4/wall-defense.jpg]]</div>
+
+* ''Southwest Wall''
+** 2 sentries
+** All of the enemies in the encounter "<<scrollToHeader "The Outer Bailey">>"
+* ''West Wall''
+** 4 sentries
+** All of the enemies in the encounter "<<scrollToHeader "The Outer Bailey">>"
+* ''Northwest Tower Wall''
+** 4 sentries
+* ''Northeast Wall''
+** 5 sentries
+** ''East Wall''
+** 3 sentries
+** All of the enemies in the encounter "<<scrollToHeader "The Great Tower">>"
+* ''Southeast Wall''
+** 5 sentries
+** All of the enemies in the encounter "<<scrollToHeader "The Outer Bailey">>"
+** All of the enemies in the encounter "<<scrollToHeader "The Great Tower">>"
+
+!!! The Outer Bailey
+
+The [[Iron Keep]]'s main gate is protected by a number of guards under the command of a [[tiefling]] named [[Sturmik]]. They stand ready to repel any attempt to force the gates or scale the walls. Unless the heroes take unusual steps to conceal their approach, the villains spot them 500 feet away during the day, or 100 feet away at night. They hold their fire until the approaching party's intent becomes clear.
+
+If the heroes just walk up to the castle, they won't be fired on before [[Sturmik]] and his guards hail them and question them about their intentions. Sturmik gives the order to open fire if the heroes refuse to answer his challenge, answer his challenge with nonsense, or do something suspicious—for example, readying weapons, trying to climb the walls, or moving out of sight. If the heroes try to bluff their way into the castle, see the encounter "<<scrollToHeader "Infiltrating the Keep">>."
+
+''Enemies:''
+
+* [[Sturmik]]
+* 10 sentries on the walls armed with crossbows and maces, wearing leather armor
+* 3 guards armed with crossbows and halberds, wearing mail armor
+* 2 [[warforged]] soldiers, one of whom defends Sturmik
+
+The sentries hold position and defend the courtyard, while Sturmik and the guards repel attackers using ranged fire through the arrow slits, murder holes (see below), or from the parapet. If possible, the guards drop the portcullis behind enemies at the main gate, then pick off the trapped foes from the arrow slits. 
+
+''Features of the Area:''
+
+See <<navAndScrollToHeader "Harken Keep" "Harken Keep Characteristics">> for general keep features. Additional features are described below.
+
+* ''Arrow Slits:'' These narrow openings provide cover to creatures inside. The exterior slits are 10 feet above the ground, except the two slits covering the gate, which are 5 feet above the ground. 
+* ''Gates:'' The large main gates are reinforced with iron plate and riveted to an iron frame.
+* ''Murder Holes:'' These small openings allow soldiers in the upper level of the gatehouse to fire down on enemies by the main gate. They're 15 feet above the floor in front of the gate, and grant cover against attacks from below.
+* ''Portcullis:'' A lever beside the arrow slits covering the gate drops an iron portcullis at the top of the first set of stairs. The portcullis offers some amount of protection against attacks from the other side.
+
+!!! Desecrated Chapel
+
+Formerly dedicated to the [[Sovereign of Hall and Hearth|Boldrei]], the chapel of [[Harken Keep]] is now a makeshift shrine to [[Bethageh]], the favored patron for the [[Iron Circle]]'s leaders. A [[warlock]] named [[Kaltis]] is the leader of Bethageh's adherents. She has access to dark rituals that allow her to summon minor [[devil]]s. She and her infernal allies have made the desecrated shrine their lair. Kaltis lives in the priest's quarters above the shrine; the devils guard this place against any intrusion.
+
+If the heroes enter through the main door, they see only the [[tar devil]]s when they first enter the room. 
+
+Read:<br/>
+//This building is clearly a chapel—an altar stands at the far end of the room under a high, vaulted ceiling decorated with paintings of various divine myths. Many of the paintings have been defaced, a scarlet cloth lies over the altar stone, and a large black cloth inscribed with an occult symbol hangs in the place of honor. Black drapes affixed to the windows give the room a gloomy, stuffy atmosphere, and the air is thick with the stench of hot pitch and sulfur.//
+
+//Two infernal creatures stand guard in this chamber. Their eyes glow with an evil light, and a reeking aura of dark fumes clings to their bodies.//
+
+''Enemies:''
+
+* [[Kaltis]]
+* 1 [[spined devil]] upstairs, on the balcony, guarding Kaltis' room
+* 2 [[tar devil]]s, wielding khopeshes and nets dripping with tar
+
+The tar devils try to draw the fight into the open half of the room, using their tarry nets to restrain and pull their opponents.  That allows the spined devil on the balcony (and Kaltis, when she emerges) to attack the party from above.
+
+The [[spined devil]] remains on the balcony and launches its fiery spines at the party. After running out of tail spines, it flies down and attacks enemies with its claws.
+
+Kaltis prefers to stay up on the balcony and attack from overhead using her spells. If she's cornered, she retreats into her private quarters and tries to hold out until the devils can reach her.
+
+''Features of the area:''
+
+<div align="center">
+[img[https://static.wikia.nocookie.net/demopedia/images/0/00/Beelzebub.gif]]</div>
+
+* ''Altar:'' Formerly dedicated to [[Boldrei]], this altar now honors [[Bethageh]]. It is covered with a red cloth and two large black candles. Above the altar hangs a symbol of the Slug Lord, seen above.
+* ''Balcony:'' The balcony is 10 feet above the floor below. The rail provides cover for creatures on the balcony against attacks from below. 
+* ''Ceiling:'' The ceiling in the chapel is 20 feet high (10 feet high upstairs).
+* ''Embrasures:'' The area's "windows" are arrow slits, only about 6 inches wide.
+
+!!! The Great Tower
+
+[]
+
+!!! The Gaol
+
+[]
+
+!!! The Count's Chambers
 
 []
 
