@@ -1,0 +1,11 @@
+category: object
+color: #41D5E1
+created: 20230806182924656
+modified: 20230806194718840
+tags: potion recovery
+tier: 1
+title: potion of second wind
+tooltip: potion that clears 2 stress
+type: text/vnd.tiddlywiki
+
+When you drink this potion, you can clear two of your filled [[stress]] boxes. The second time you drink a {{!!title}} in a 24-hour period, it only restores one stress; drinking a third in a day has no effect.

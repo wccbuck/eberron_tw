@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210723060632227
-modified: 20220710003527114
+modified: 20230806184653896
 tags: humanoid
 tier: 1
 title: bullywug
@@ -11,6 +11,16 @@ Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious [[hu
 
 Bullywugs have green, gray, or mottled yellow skin that shifts through shades of gray, green, and brown, allowing them to blend in with their surroundings. They wear crude armor and wield simple weapons, and can deliver a powerful bite to foes that press too close.
 
-Some bullywugs are born with the ability to weave magic into their croaking songs. These rare specimens are raised in protected enclaves where they are taught to use their magic to both heal and harm.
+Bullywugs seem to be infused with a faint [[aberrant|aberration]] energy. Natural flora and fauna perceive their existence as innately askew. Bullywugs sense this “wrongness” as a heightened paranoia, a feeling that everyone is out to kill them. And it’s true—when a bullywug dies, natural creatures nearby experience a moment of clarity and renewed strength, as if the natural world were thanking them.
+
+!!! A Language of Croaks
+
+Bullywugs speak a language that allows them to communicate over large areas by croaking like frogs. News of intruders or other events in the swamp spread within minutes across this crude communication system.
+
+Some bullywugs are born with the ability to weave magic into their croaking songs. These rare specimens are raised in protected enclaves where they are taught to use their magic to both heal and harm. A "glaaaar-pat" croak deals [[psychic damage|damage type]] to a bullywug's enemies, while a "rooooo-glog" rejuvenates a bullywug's allies. Other songs, such as a "vraaaa-kra," might allow a croaker to control [[ooze]] creatures.
+
+!!! Amphibian Allies
+
+Simple concepts in the bullywug language are understandable to frogs and toads. Bullywugs use this capability to form strong bonds with giant frogs, which they train as guardians and hunters. Larger specimens are sometimes used as mounts as well. The frogs' ability to swallow creatures whole provides a bullywug hunting band an easy means of carrying prey back to their villages.
 
 Bullywugs revere and worship [[froghemoth]]s when they encounter them.

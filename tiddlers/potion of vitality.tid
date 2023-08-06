@@ -1,0 +1,13 @@
+category: object
+color: #41D5E1
+created: 20230806182304016
+modified: 20230806182846207
+tags: potion recovery
+tier: 4
+title: potion of vitality
+tooltip: potion that clears all stress, cures all diseases and poisons, and amplifies magical healing
+type: text/vnd.tiddlywiki
+
+This potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.
+
+When you drink this potion, you can clear all of your filled [[stress]] boxes, and you are cured of any [[disease]] or poison affecting you. In addition, for the next 24 hours, [[magical healing]] is 50% more effective on you.

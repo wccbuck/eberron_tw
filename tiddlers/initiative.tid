@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20230802021514827
-modified: 20230802040350696
+modified: 20230806081936241
 tags: [[Taking Action]] Storyloom
 title: initiative
 tooltip: Storyloom mechanic: control over the scene, determines whether player characters can be proactive or must be reactive
@@ -11,6 +11,8 @@ Initiative is a [[Storyloom]] mechanic which reflects who is in control of a dan
 Player characters usually have initiative at the start of a scene, which means they can perform [[overcome]] and [[boost]] actions as normal, choosing which [[progress clock]] they would like to try to make progress towards completing. However, as a result of shifting circumstances or [[consequence]]s from unsuccessful attempts, the PCs might lose initiative. When this happens, a new [[progress clock]] enters play, typically with two segments. This new progress clock must be filled before the scene can continue, and PCs can ''only'' perform overcome attempts to clear this obstacle. No [[boost]]s allowed, and no other progress clocks allowed, until the "Initiative" progress clock is cleared! After it's cleared, initiative is regained, and player characters can make proactive choices again.
 
 These restrictions on actions only apply to player characters who have lost control of their immediate situation. Imagine a four-person adventuring party in a combat scene in a tavern. The party is split: two PCs are brawling with goons in the common room, while the two remaining PCs just took down the bodyguard to the back room. The brawling PCs might lose initiative in their fight (perhaps one of the goons starts wildly swinging a chair!), and they must regain initiative to proceed. However, the back room PCs are free to continue proactively pursuing their goals as they wish—including, if they choose, helping the brawling PCs with their dilemma. As long as they don't rush in headfirst, they'll maintain their initiative.
+
+When player characters lose initiative in combat, this provides a great opportunity for game masters to show off some cool special power of a monster. For example, if the player characters are fighting against a group of [[bullywug]]s, and one of noisome frogfolk has the ability to croak a magical song that causes psychic damage to anyone who hears it, what better time to bust that out than when the party has lost initiative? This gives the GM "mechanical permission" to force all player characters to make an immediate attempt to resist the psychically painful droning.
 
 Losing initiative is approximately equivalent to other "moderate risk" [[consequence]]s, such as suffering 2 [[stress]]. However, if the GM wishes, they can create a four- or six-segment progress clock for regaining initiative as a "high risk" consequence.
 
