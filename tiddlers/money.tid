@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210409191449051
-modified: 20230413204021548
+modified: 20230806080524826
 tags: Storyloom
 title: money
 tooltip: documentation page for the use of currency in Storyloom and Eberron
@@ -100,8 +100,8 @@ Below are some example costs for [[armor]] and weapons in a typical city in [[Kh
 
 |!Item |!Average Cost |
 |shield | 1c|
-|light armor (leather, hide) | 1c|
-|medium armor (chain shirt, scale mail) | 5c|
+|light armor (leather, hide) | 2c|
+|medium armor (chain shirt, scale mail) | 6c|
 |heavy armor (splint armor, breastplate with chain) | 20c|
 |full plate armor | 150c|
 

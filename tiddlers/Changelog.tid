@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.22.5
-modified: 20230802052056771
+currentversion: 1.22.6
+modified: 20230806195044295
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,18 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+!!! 1.22.6 <span style="font-weight:normal">(Aug 06, 2023)</span>
+
+* Renamed Kashtarhak to [[Neabaz]] and incorporated some of that character's fly-like aspects into the speaker of [[Eldrantulku]]. Neabaz is just a cool character in Greyhawk/FR and I felt like he would be a cool addition to the Oathbreaker's retinue. I also got tired of the Kashtarhak/[[Katashka]] name similarity.
+* Added [[potion of vitality]], [[potion of second wind]], and [[amulet of warning]]
+* Added [[arjale]] and [[tantulhor]] metals, found only in the [[Ironlands]]
+* Added [[Redleaf hound]] and [[Redleaf Harriers]]
+* Added a note about the ritual to create [[holy water]]
+* Added to [[bullywug]] page
+* Added a little bit of homebrew to [[Moonspeakers]]
+* Added "cornugon" as another alternate name for [[horned devil]]
+* Increased the cost of light armor to 2c, and medium armor to 6c, on the [[money]] page
 
 !!! 1.22.5 <span style="font-weight:normal">(Aug 02, 2023)</span>
 

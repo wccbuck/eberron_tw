@@ -3,7 +3,7 @@ category: spell
 color: #B7A1E0
 created: 20210207013108673
 highertier: show
-modified: 20221130220120122
+modified: 20230806182604291
 tags: abjuration
 tier: 2
 title: restoration
@@ -18,6 +18,6 @@ When this spell is cast at uncommon-[[tier|spell tier]], it is sometimes referre
 
 !! Rare-Tier
 
-When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell (often called "greater restoration"), you may remove more serious afflictions, including petrification, curses, extreme exhaustion, or magical diseases. Performing a greater restoration requires the expenditure of material components worth about [[10c|money]].
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell (often called "greater restoration"), you may remove more serious afflictions, including petrification, curses, extreme exhaustion, or magical diseases. This version of the spell also clears 2 [[stress]] boxes when not cast on one's self. Performing a greater restoration requires the expenditure of material components worth about [[10c|money]].
 
 </$reveal>
