@@ -1,11 +1,9 @@
 category: note
 created: 20230728201704673
-modified: 20230805230006483
+modified: 20230806045928579
 tags: [[Adventures of Arien]]
 title: The Reavers of Harkenwold
 type: text/vnd.tiddlywiki
-
-[WIP]
 
 A series of adventures in which Arien must release her home county from the tyranny of a powerful band of brigands.
 
@@ -24,7 +22,12 @@ A series of adventures in which Arien must release her home county from the tyra
 ** <<scrollToHeader "Hunted!">>
 ** <<scrollToHeader "Toadwallow Caverns">>
 ** <<scrollToHeader "The Cliffwalker Shifters">>
-** <<scrollToHeader "The Battle of Mistmarsh">>
+* <<scrollToHeader "The Battle of Mistmarsh">>
+** <<scrollToHeader "Victory or Defeat">>
+** <<scrollToHeader "Preparing for Battle">>
+** <<scrollToHeader "Battle of Mistmarsh, Part 1">>
+** <<scrollToHeader "Battle of Mistmarsh, Part 2">>
+** <<scrollToHeader "Battle of Mistmarsh, Climax">>
 * <<scrollToHeader "Harken Keep Encounters">>
 ** <<scrollToHeader "Infiltrating the Keep">>
 ** <<scrollToHeader "Wall Defense">>
@@ -36,6 +39,7 @@ A series of adventures in which Arien must release her home county from the tyra
 * <<scrollToHeader "Conclusion">>
 
 
+
 !! Summary
 
 This adventure pits Arien against the [[Iron Circle]], a company of cruel mercenaries that has seized control of the county of [[Harkenwold]]. Arien must become a daring rebel and lead the folk of her home county against their oppressors.
@@ -44,7 +48,7 @@ At present, [[Iron Circle]] mercenaries are plundering the land. Count [[Alben i
 
 !! Background
 
-About six weeks ago, [[Nazin Redthorn]] led his band of mercenaries known as the [[Iron Circle]] into [[Harkenwold]] in a surprise attack. The brigands stormed the [[Harkenton]] Keep and took the [[steward|Jonn Stockmer]] captive. Iron Circle sweeps and raids soon quelled any show of resistance, leaving the county a conquered land. The Iron Circle has bribed the [[Municipal Guard|Breland Municipal Guard]] of Harkenton to prevent couriers, messengers, or anyone who might be a threat from leaving or entering the county by main roads. (Everyday commoners, merchants, and farmers are allowed to come and go, but they are questioned first, and subjected to heavy tolls.) The mercenaries are also forcing a [[Sivis]] [[stonespeaker|speaking stone]] to answer any messages from the Count with false, mundane replies. 
+About six weeks ago, [[Nazin Redthorn]] led his band of mercenaries known as the [[Iron Circle]] into [[Harkenwold]] in a surprise attack. The brigands stormed the [[Harkenton]] [[Keep|Harken Keep]] and took the [[steward|Jonn Stockmer]] captive. Iron Circle sweeps and raids soon quelled any show of resistance, leaving the county a conquered land. The Iron Circle has bribed the [[Municipal Guard|Breland Municipal Guard]] of Harkenton to prevent couriers, messengers, or anyone who might be a threat from leaving or entering the county by main roads. (Everyday commoners, merchants, and farmers are allowed to come and go, but they are questioned first, and subjected to heavy tolls.) The mercenaries are also forcing a [[Sivis]] [[stonespeaker|speaking stone]] to answer any messages from the Count with false, mundane replies. 
 
 The new bandit "authorities" are pillaging Harkenwold through "tolls" and confiscations, harshly punishing anyone who resists. [[Nazin|Nazin Redthorn]] is further strengthening his hold by negotiating with other malignant forces. In particular, he's used some of the loot he's plundered from the county's suffering populace to buy the friendship of a group of odious [[bullywug]]s.
 
@@ -157,23 +161,200 @@ The three brigands on foot melee with Arien and the ambushers, but try to stay c
 
 The horse doesn't fight. If injured, it bolts, dragging the wagon behind it. This might cause creatures in the wagon to fall out.
 
+A lockbox in the wagon can be opened with a key on the wandslinger's person. Inside the lockbox is [[8 crowns|money]] and an [[elemental gem]] (yellow diamond).
+
 !!! Hunted!
 
-[]
+Run this encounter when the adventurers are traveling through [[Harkenwold]] to a new locale or village. It should occur after they have stirred up trouble, such as a couple days after they clean out the <<scrollToHeader "Toadwallow Caverns">>.
+
+Weather plays a vital role in this encounter. In the hours leading up to the event, the overcast sky darkens and a light rain begins to fall. By the time the encounter unfolds, the rain has become heavy, and a chill fog enshrouds the land. This inclement weather makes it harder to see at a distance, and easier to hide from other creatures; it also makes it harder to move quickly on the muddy road.
+
+Because Arien and her companions have proven to be a significant threat to the [[Iron Circle]] by this point, [[Nazin Redthorn]] dispatches roving squads to run her to the ground. Guided by a handful of informers and lucky guesswork, one such squad comes across Arien as she's traveling across the county.
+
+Read:<br/>
+//You've been traveling for hours through heavy rain, and the muddy ground clings to your boots. A few miles from your goal, through the fog you spot an Iron Circle brigand holding a lantern and riding a large, fierce tiger. The tiger roars, and two more brigands with crossbows emerge from behind some nearby trees to the left of the path. Their leader, a malicious-looking [[gnome]] woman in a red surcoat, stands between them.//
+
+//"There she is!" the woman shouts. "Take her!"//
+
+The three brigands are similarly outfitted to Iron Circle soldiers Arien has already faced (leather armor, maybe one has mail; the one riding a tiger has a scimitar.) The tiger is a trained war mount—unusual, but not unheard of among the Brelish military. The gnome woman is a [[wandslinger]] who possesses fiendish power; she can create fiery tendrils that lash out and grab hold of her enemies, and she can cast the spell [[web]] (though it takes the form of black tar). The wandslinger can also place a "dark imperative" on one of her allies once per day, granting them extra defense and adding [[necrotic damage|damage type]] to their attacks.
+
+The tiger and its rider charge Arien or the nearest enemy; the tiger rakes with its claws while the rider slices with his scimitar. The other two brigands fire their crossbows, peppering her and her party with bolts for 15 or so seconds before advancing. The wandslinger prefers to remain at range, using her fiery tendrils. She saves her "dark imperative" for the tiger or its rider.
 
 !!! Toadwallow Caverns
 
-[]
+Located beneath a cluster of forested hills overlooking fetid marshland, the Toadwallow Caverns are unpleasant and ill-regarded. The caverns are named for the unusual number of large, deep-throated amphibians that lurk in the boggy land nearby.
+
+One of the Toadwallow caves is currently occupied by the Mud-Hides, a tribe of [[bullywug]]s that moved into the area a few months ago. The chieftain ''Gloorpk'' struck a deal with the [[Iron Circle]]—as long as he follows [[Nazin Redthorn]]'s orders, his clan is free to raid and plunder the surrounding area. The Mud-Hides have also been gifted weapons they wouldn't otherwise have access to, such as [[SAC-12]] [[crossbow]]s.
+
+The Toadwallow Caverns share a few common characteristics:
+
+* Glowing green moss grows throughout the caverns, providing dim light.
+* Shallow pools and streams ranging from 2 to 5 feet deep are scattered throughout the caverns. Their rocky bottoms are covered with slippery mud.
+* The walls are natural rock, uneven but slick. The floors are level rock covered by a few inches of sand, dry mud, or dirt from old river floods.
+
+Arien finds the region of the Toadwallow Caverns, and uses her tracking skills to identify which cavern houses the [[bullywug]]s.
+
+Read:<br/>
+//Water gushes from a cave mouth set into the face of a vine-covered hill, forming a 10-foot-high waterfall that bleeds into a stream. The ground near the base of the hill is spongy, and clouds of insects harangue you.//
+
+Bullywug sentries sit inside the cave, but aren't very attentive; even a half-hearted attempt to stay quiet allows Arien to surprise the bullywugs. However, if she makes a lot of sound climbing up the ledge, she might alert them, at which point they set up an ambush. 
+
+When she enters the cave, if she hasn't alerted the bullywugs, read:<br/>
+//The cave mouth opens into a dank chamber. Water gushes from a hole in the nearby wall, forming a shallow stream that plunges over the ledge behind you. A stagnant pool of water fills a corner to your right, and a thick patch of multicolored fungus grows atop a pile of offal in the middle of the cave. Two froglike humanoid creatures crouch in the shadows behind the fungi, apparently keeping watch. They wear poorly fitting armor made from leather and carry spears.//
+
+Arien faces off against the two bullywugs at the entrance, and two more that lurk deeper in the cave. After the bullywugs become aware of her, one of them scrambles into a corner and withdraws a [[SAC-12]] [[crossbow]]. Where did he get that?? However, after firing one bolt, the bullywug drops the weapon and resumes using a spear; it seems not to know how to reload the crossbow. One of the two that emerges from deeper in the cave leaps around unpredictably. All of the bullywugs have a rancid air about them, that has a sense of unnatural "wrongness" to it; this feeling of wrongness fades as the bullywugs die.
+
+After Arien dispatches these, she can continue into the cave. When she enters the main cavern, read:<br/>
+//A giant dragon's skull dominates this damp, 15-foot-high cave. You see no other remains, suggesting that the skull was brought here from elsewhere. Beyond the great skull, a dribble of water pouring through a crack in the ceiling forms a shallow pool nearly 20 feet across and 10 feet wide.//
+
+If Arien does well on an investigation attempt, she might see one or more bullywugs hiding in the corners of the room, as well as a particularly fat bullywug hiding inside the dragon skull, peering at her through an eye socket. 
+
+The fat bullywug is Gloorpk, the chieftain of the Mud-Hides tribe. A number of lesser bullywugs attend him constantly, doting on their leader in the hopes of averting his wrath. The bullywugs here are vigilant; it's unlikely Arien will be able to surprise them. They hide upon hearing sounds of combat in the earlier chambers, and will try to surprise Arien when she gets close.
+
+Once Gloorpk's location is revealed, read:<br/>
+//A loud croak emanates from inside the dragon skull, and bulbous eyes stare at you from behind one of the hollow eye sockets.//
+
+As the bullywugs emerge from hiding, Gloorpk croaks from within the skull. He starts with a "vraaaa-kra," which causes a [[gray ooze]] to slither out from a 15-foot-pit in the cave (filled with the bones of past meals) and head towards Arien. (Gray oozes corrode metal.) Gloorpk also emits a "glaaaar-pat," which deals [[psychic damage|damage type]], and possibly a "rooooo-glog," which invigorates all bullywugs within 30 feet. If he's forced outside of the skull, he does his best to squirm back inside.
+
+The other bullywugs are straightforward combatants. There are between 5 and 10 here (use good judgement). Some of them have crude spears, but others have weapons Arien has seen in the hands of [[Iron Circle]] soldiers—scimitars and crossbows.
+
+The pool in the center of the room is a ''breeding pool.'' It is 3 feet deep and contains dozens of translucent bullywug eggs, each the size of a baseball. The eggs are easily destroyed.
+
+As for the dragon skull: it's from an enormous [[black dragon]] who died in the Mistmarsh swamp ages ago. The bullywugs found it nearby and brought it here.
+
+After the fight, as Arien is preparing to leave the bullywug lair, more foul creatures arrive. ''Uggloor'', the champion of the Mud-Hides tribe, has just returned from a raid with a prisoner in tow—a gift to amuse Chieftain Gloorpk. Uggloor croaks loudly as he approaches the cave, to inform the sentries that he has returned. He expects a reply. If Arien (or an ally) isn't able to respond with a similar croaking noise, Uggloor concludes that something is amiss.
+
+When Arien can see the raiding party, read:<br/>
+//A hulking bullywug approaches the cave mouth with a fine halberd in one hand and a short rope grasped tightly in the other. The rope ends in a noose around the neck of a ghost-faced [[halfling]] boy who looks fatigued. Two smaller bullywugs with javelins riding a pair of giant frogs accompany them.//
+
+When he sees Arien or an ally of hers, Uggloor lets go of his prisoner, allowing the halfling boy to run away.
+
+Uggloor is just a big nasty bullywug with a fine-quality spear. He climbs the ledge and charges at the nearest foe. He is overconfident and fights until slain.
+
+The other two leap around on their giant frog mounts; they let Uggloor hold the front line while they hang back and hurl their javelins. The giant frogs might try to lash out with their grasping tongues and pull Arien in. If Uggloor is defeated, they flee.
+
+The boy, ''Heron'', is a 12-year-old member of the [[Reedfoot Clan]]. He and two friends were ambushed by [[bullywug]]s hiding along a muddy shore of the [[White River]]. His friends escaped, but Heron was captured. During the fight, Heron flees at the first opportunity, but he's too tired to get very far. If Arien prevails, he waits for them to emerge from the caves before asking for their help getting back to his clan. If she assists, she loses a half-day of travel time, but earns the gratitude of the Reedfoot halflings.
 
 !!! The Cliffwalker Shifters
 
-[]
-
-!!! The Battle of Mistmarsh
+The [[Briar Hills]] are a big place, and it might take Arien some time to locate the [[Cliffwalker Camp]]. If she sets out west from [[Dry Rise]], it's about 20 miles to the camp through craggy hills; it might be faster to travel about 18 miles upriver with the help of the [[Reedfoot Clan]], if possible, since the camp is only 4 miles from the river shore.
 
 []
+
+!! The Battle of Mistmarsh
+
+Shortly after Arien returns from the [[Cliffwalker Camp]], she learns that the [[Iron Circle]] is preparing to march on [[Mistmarsh]] to squash the rebellion at its source.
+
+Read:<br/>
+//You are about to make camp for the night after your latest efforts in the fight against the Iron Circle when the galloping hoof beats of a lone rider echo in the dusk. A moment later, a young man on a riding horse comes into view and reins in nearby. It's Feylor, one of the folks who went on the [[Faded Forest]] scouting trip with Arien last year (he was the one with the black eye). "There you are!" he says. 
+"[[Curlot|Curlot Grem]] said you might be around here somewhere. The Iron Circle's army is getting ready to march against Mistmarsh! Nazin's called in all his raiding parties, and he's going to try to stomp us out once and for all. Curlot's sent word for all the loyal Harkenwolders to come to Mistmarsh and stand up to the Iron Circle. There's going to be a big battle! Please, hurry back to Mistmarsh to help out, as quick as you can!"//
+
+The battle is still two or three days off—it will take that long for the Iron Circle to finish assembling its forces. Arien has time to make it to [[Mistmarsh]] from almost any corner of Harkenwold. She can always enlist the help of the [[Reedfoot Clan]] to ferry her down the [[White River]], traveling up to 55 miles per day.
+
+Feylor urges Arien to be on their way soon. He has a number of other people he intends to visit in the next few hours, spreading the word of the impending Iron Circle attack.
+
+Back in Mistmarsh, Arien encounters rebel pickets. As soon as she is identified, she's ushered to the main rebel encampment where [[Curlot Grem]] awaits her. Many of the major NPCs of Harkenwold—[[Vylae]], [[Joherra]], [[Bran Habin]], [[Willet Reedfoot|Reedfoot Clan]], and perhaps others—are gathered here to lead the rebels in battle. Curlot is comfortable in command, but wants to make sure to coordinate with Arien—at the very least, he wants to know what she'll be doing during the battle.
+
+Read:<br/>
+//Curlot is meeting with the other Harkenwold leaders in the empty barn of an abandoned farm when you arrive. He saves you over at once. "I'm glad you're here," he says. "We've got every free person who can fight worth a lick from all the villages here, but the Iron Circle troops nearly match our numbers. They've got better arms and armor, and most of them are trained soldiers. Still, with your help, we'll give them one hell of a battle. After all, we're fighting for our homes and livelihoods!" The leaders gathered around nod grimly.//
+
+Arien's part in the battle is represented by the Battle of Mistmarsh encounters below (Part 1, Part 2, and Climax). Depending on her decisions about which role she wants to fill in the battle, these encounters might be waves of Iron Soldiers attacking her position, breakthroughs she is sent to seal off, or opposition standing between her and her goal. Here are examples:
+
+* ''Attack:'' Arien chooses a specific objective to seize or accomplish during the battle, such as confronting the enemy commander, leading rebel troops in an attack, or infiltrating the enemy camp to destroy supplies or take prisoners.
+* ''Defend:'' Arien chooses to protect something. She might guard [[Curlot Grem]] and his banner during the battle, protect a vulnerable flank or exposed position, or take a position at the head of the rebel army.
+* ''Reserve:'' Arien is assigned the job of reacting to enemy moves or seizing opportunities that suddenly appear. For example, she might hang back to stem an Iron Circle breakthrough, or wait until the fighting exposes a weakness so she can lead a counterattack. This is Curlot's preference.
+
+!!! Victory or Defeat
+
+Success or failure in battle doesn't just depend on how well Arien fights in her own small part of the fray. It also depends on how successful she has been in her efforts against the Iron Circle. To determine how the battle turns out, assign ''victory points'' (VP) based on her accomplishments so far:
+
+|!Accomplishment |! VP |
+|Arien won the <<scrollToHeader "Tavern Brawl">> encounter. | 1 |
+|Arien won the <<scrollToHeader "Waylay the Caravan">> encounter. | 1 |
+|Arien defeated Gloorpk in the <<scrollToHeader "Toadwallow Caverns">> encounters. | 2 |
+|Arien successfully forged an alliance with <<scrollToHeader "The Cliffwalker Shifters">>. | 2 |
+|Arien successfully aids the battle preparations (<<scrollToHeader "Preparing for Battle">>). | 2 |
+|Arien wins the encounter <<scrollToHeader "Battle of Mistmarsh, Part 1">>. | 1 |
+|Arien wins the encounter <<scrollToHeader "Battle of Mistmarsh, Part 2">>. | 1 |
+|Arien wins the encounter <<scrollToHeader "Battle of Mistmarsh, Climax">>. | 2 |
+
+The results of the battle are:
+
+* ''0-4 VP:'' A decisive defeat. Mistmarsh is burned, the rebel army is largely destroyed, and [[Harken Keep]] remains at full strength.
+* ''5-6 VP:'' A narrow defeat. Mistmarsh is burned. The rebel army suffers heavy casualties but remains essentially intact as it retreats to [[Tor's Hold]]. [[Harken Keep]] is in its normal, depleted state, with two active squads of reinforcements.
+* ''7-9 VP:'' A narrow victory. Mistmarsh is saved, and the rebel army remains intact and in position. Harken Keep is in its normal, depleted state, with one active squad of reinforcements.
+* ''10-12 VP:'' A decisive victory. Mistmarsh and the rebel army are saved. Harken Keep is in its normal, depleted state, and no squads of reinforcements exist.
+
+!!! Preparing for Battle
+
+The goal for this challenge scene is to get the Harkenwold rebels ready to fight!
+
+Inspiring the rebels:
+
+* Arien can project self-confidence and competence, inspire uncertain rebel leaders and push them to do better, or reassure nervous rebels with a display of fire and divine power.
+* Arien might try to convince certain rebel factions to put themselves under Curlot's overall command, to smooth personal rivalries and jealousies, or to persuade certain rebel bands to take on tasks that are particularly dangerous, difficult, or unpleasant.
+* She can also conduct an invocation to the [[Sovereigns|Sovereign Host]], or lead the Harkenwolders in seeking divine favor in the battle to come.
+
+Making battle plans:
+
+* Arien can use her Military History knowledge to identify relevant lessons from past wars, to apply broad rules of strategy to the rebels' circumstances, or to draw up plans for rudimentary defenses based on what people have done in the past.
+* She can also use her knowledge of the surrounding area to study potential battlegrounds, anticipate weather conditions, supervise camouflage efforts, etc.
+
+Outcomes:
+
+* ''Success:'' Arien aids in devising a sound plan that makes the best use of terrain and the forces available, and help the Harkenwolders to prepare for battle. She is awarded two victory points toward the outcome of the battle (see <<scrollToHeader "Victory or Defeat">>).
+* ''Failure:'' The battle plan and preparations are flawed, or the rebels are filled with apprehension and dread. They can still win, but it's a tougher fight with more casualties.
+
+The following three encounters assume a brief rest between each fight, allowing Arien to clear one [[stress]]. During these brief downtimes, Arien might be waiting for the next group of enemies to appear, talking tactics with Curlot or the other Harkenwold leaders, biding her time as a reserve force to be thrown into the most desperate apart of the fighting, or taking a short breather behind the lines.
+
+!!! Battle of Mistmarsh, Part 1
+
+This encounter represents one short skirmish in the wider battle. Depending on the role Arien assumed during preparations, this combat can arise for any of the following reasons:
+
+* ''Attack:'' While Arien is moving into position to strike at the Iron Circle leadership or outflank their forces, she stumbles across a squad on the outskirts of the battle.
+* ''Defense:'' Holding down an important position in the middle of the rebel lines, Arien is responsible for defeating any enemies who come into her area of the battlefield. An Iron Circle squad approaches.
+* ''Reserve:'' Waiting to see where she can do the most good, Arien spots a group of Iron Circle soldiers who break through the rebel lines or threaten to outflank the rebels, and moves to intercept the enemy.
+
+Read:<br/>
+//The battle opens with a straightforward attack by the Iron Circle soldiers. Arrows and crossbow bolts fly as the two armies close. The Harkenwolders give ground, but their formation doesn't break. The battle becomes a desperate, swirling melee that sprawls over several farms and fields a little way south of the town. [Insert role-dependent description from above.]//
+
+The Iron Circle rabble includes six soldiers, and one enforcer leading the squad. The enforcer wields a heavy flail and wears chainmail under their black surcoat, while the other soldiers either wear leather armor or mere cloaks and wield maces and short swords. 
+
+The mercenaries are confident in their numbers. They begin the battle with a reckless rush, hoping to overwhelm Arien. But these opponents are (with the exception of the commander) mere ruffians hired by the Iron Circle in recent years, not trained soldiers; their true threat lies in their numbers, not their skill.
+
+!!! Battle of Mistmarsh, Part 2
+
+This encounter represents a major skirmish against the fiendish allies of the Iron Circle. It's a very difficult fight, as the tar devils are [[creature tier]] ''2''; Arien should have some help with this fight. Depending on the role Arien assumed during preparations, this combat can arise for any of the following reasons:
+
+* ''Attack:'' Arien encounters an Iron Circle rearguard as she gets close to her goal. She'll have to fight her way through the force.
+* ''Defense:'' The battle flows away from Arien after her first clash. Soon after, she spies a band of Iron Circle marauders burning farmhouses nearby (e.g. the "Radden farmstead"). She advances to confront them.
+* ''Reserve:'' Curlot (or another Harkenwold contact) sends word by messenger that Arien is urgently needed on the other side of the battle (e.g. by the "Radden farmstead"). A force of Iron Circle devils and soldiers bars the way.
+
+Read:<br/>
+//[Insert role-dependent description from above.] The band of soldiers is killing any wounded they come across. You notice now that some of the Iron Circle warriors aren't true humanoids—they're short, scaly creatures with black horns and lashing tails, surrounded in dark fumes.//
+
+Arien is facing off against two skilled Iron Circle cutthroats, one infernal wandslinger, and two [[tar devil]]s! The tar devils wield khopeshes and nets dripping with scalding-hot tar. The two soldiers wear leather armor and wield a sword and a mace (respectively), and the wandslinger wears a red surcoat over chainmail and wields a dagger and wand. As in previous encounters, this wandslinger can create fiery tendrils that lash out and grab hold of his enemies, and he can cast the spell [[web]] (though it takes the form of black tar). The wandslinger can also place a "dark imperative" on one of his allies once per day, granting them extra defense and adding [[necrotic damage|damage type]] to their attacks.
+
+The [[tar devil]]s attempt to catch Arien in their nets, which could burn her (though she's resistant to fire). The soldiers try to flank Arien, while the wandslinger uses its "dark imperative" on one of the tar devils; otherwise he uses his fiery tendrils.
+
+!!! Battle of Mistmarsh, Climax
+
+Frustrated by the adventurers' interference in his plans and the reversals of the battle, the [[Iron Circle]] leader, [[Nazin Redthorn]], leads an attack against Arien. Alternatively, if Arien made a battle plan to attack Redthorn, you can instead launch this encounter as the successful fruition of their earlier efforts.
+
+Read:<br/>
+//You hear a roar of challenge. Another group of Iron Circle soldiers is advancing on you. They are supported by two scaly devilish creatures with horns and tails, with dripping globs of burning pitch in their taloned hands. With the band rides a massively muscled human warrior in scale armor. A standard flies from a holder at his stirrup—a black pennant with a red- and gold-trimmed gray ring in the center. "You!" the enemy lord cries.//
+
+[[Nazin Redthorn]] dismounts and fights on foot, leaving his horse in the rear with a single Iron Circle soldier to guard it. Alongside him are six "rabble" soldiers (as in <<scrollToHeader "Battle of Mistmarsh, Part 1">>), and two [[tar devil]] harriers wielding kukris and balls of burning tar that they can fling at a great distance.
+
+Nazin leads the rush against Arien, flinging his triple-headed flail and fighting furiously. The first time he is wounded, he takes a step back and casts the [[burning blood]] spell; the next time he is wounded, burning tar sprays from his wounds in place of blood. He can also unleash infernal flames, similar to the [[burning hands]] spell.
+
+When Nazin is significantly injured, his soldiers are dead, or the tar devils are defeated, Nazin attempts to escape. He runs toward his horse, mounts, and rides off at the next opportunity. Once he's mounted, he has no trouble outrunning anyone on foot.
+
+Nazin's escape is important to set up the final conflict in [[Harken Keep]]. Make every attempt to have him flee, but if the tides of battle make it impossible, don't railroad the storyline to make it happen. You can replace Nazin with a "second-in-command" for the heroes to fight at the end of this adventure.
 
 !! Harken Keep Encounters
+
+Whether victorious or defeated, the surviving [[Iron Circle]] soldiers retreat to [[Harkenton]] and hole up and recuperate. Defeating [[Nazin Redthorn]] and his marauders means that the keep must fall. The [[Harkenwold]] rebels have no chance of storming the battlements; a small team of highly capable and skilled volunteers, however, could infiltrate the castle, rescue the steward, and put an end to Nazin Redthorn. The heroes' assult on Harken Keep is covered in the below encounters.
 
 The first challenge Arien and her allies face is getting inside [[Harken Keep]]. They might devise a ploy to enter, such as feigning surrender, hiding in supply wagons, or donning disguises. <<scrollToHeader "Infiltrating the Keep">> addresses some scenarios that might result given some of the more likely approaches.
 
@@ -231,7 +412,7 @@ Read:<br/>
 
 ''Wall Defenses:''
 
-For the purposes of this encounter, the walls of [[Iron Keep]] are divided into six sections, as soon on the below map. Different garrison groups are responsible for guarding each section.
+For the purposes of this encounter, the walls of [[Harken Keep]] are divided into six sections, as soon on the below map. Different garrison groups are responsible for guarding each section.
 
 <div align="center">
 [img[https://i.postimg.cc/DyRBDHy4/wall-defense.jpg]]</div>
@@ -256,7 +437,7 @@ For the purposes of this encounter, the walls of [[Iron Keep]] are divided into 
 
 !!! The Outer Bailey
 
-The [[Iron Keep]]'s main gate is protected by a number of guards under the command of a [[tiefling]] named [[Sturmik]]. They stand ready to repel any attempt to force the gates or scale the walls. Unless the heroes take unusual steps to conceal their approach, the villains spot them 500 feet away during the day, or 100 feet away at night. They hold their fire until the approaching party's intent becomes clear.
+[[Harken Keep]]'s main gate is protected by a number of guards under the command of a [[tiefling]] named [[Sturmik]]. They stand ready to repel any attempt to force the gates or scale the walls. Unless the heroes take unusual steps to conceal their approach, the villains spot them 500 feet away during the day, or 100 feet away at night. They hold their fire until the approaching party's intent becomes clear.
 
 If the heroes just walk up to the castle, they won't be fired on before [[Sturmik]] and his guards hail them and question them about their intentions. Sturmik gives the order to open fire if the heroes refuse to answer his challenge, answer his challenge with nonsense, or do something suspicious—for example, readying weapons, trying to climb the walls, or moving out of sight. If the heroes try to bluff their way into the castle, see the encounter "<<scrollToHeader "Infiltrating the Keep">>."
 
