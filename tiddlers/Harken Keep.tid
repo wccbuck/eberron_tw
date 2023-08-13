@@ -1,16 +1,16 @@
 category: location
 color: #A3DB62
 created: 20230805173720747
-modified: 20230805205606880
+modified: 20230807210431604
 tags: fortress Harkenton garrison
 title: Harken Keep
 type: text/vnd.tiddlywiki
 
-Harken Keep is the fortress of Count [[Alben ir'Clarn]], managed by the majordomo [[Jonn Stockmer]]. It is located in [[Harkenton]], the seat of the [[Harkenwold]] county in [[Breland]]. 
+Harken Keep is the fortress of Count [[Alben ir'Clarn]], managed by the castellan [[Jonn Stockmer]]. It is located in [[Harkenton]], the seat of the [[Harkenwold]] county in [[Breland]]. 
 
 The keep stands on top of a short, steep-sided hillock overlooking the town and the main [[Orien trade road|Orien trade roads]]. The trees and ground cover on the hillside are cut back at least 100 feet from the walls, leaving a bare grassy slope. The hill rises precipitously on the eastern side. The other approaches are more gradual, but none flatten out until about 100 feet above the village. A causeway of hard-packed dirt climbs around the hilltop to the castle's front gate, exposed to archery fire from the towers and walls for most of its length.
 
-The great tower and upper bailey were built 200 years ago to guard the road from raiding [[bugbear]] clans attacking from the [[Howling Peaks]] (these clans have since been wiped out). When [[Jonn Stockmer]] became steward 45 years ago, he embarked on a decades-long rebuilding and expansion of the stronghold, adding the lower bailey and repairing the rest of the castle (sorely needed at the time). [[Old Kellar]] from [[Harkenton]] was the chief stonemason of this work, and knows the castle like the back of his gnarled hands.
+The great tower and upper bailey were built 200 years ago to guard the road from raiding [[bugbear]] clans attacking from the [[Howling Peaks]] (these clans have since been wiped out). When [[Jonn Stockmer]] became castellan 45 years ago, he embarked on a decades-long rebuilding and expansion of the stronghold, adding the lower bailey and repairing the rest of the castle (sorely needed at the time). [[Old Kellar]] from [[Harkenton]] was the chief stonemason of this work, and knows the castle like the back of his gnarled hands.
 
 During the [[Reavers of Harkenwold|The Reavers of Harkenwold]] adventure, Harken Keep serves as the stronghold of [[Nazin Redthorn]] and his [[Iron Circle]] soldiers. The rest of this document assumes you are in the middle of this adventure arc.
 
@@ -66,7 +66,7 @@ Locations marked on the Harken Keep map include:
 # ''Count's Hall.'' This richly decorated hall features fine tapestries along the walls. [[Nazin|Nazin Redthorn]] takes most of his meals here and holds court for several hours a day. If Arien attacks the keep in the middle of the day, he is likely to be here, surrounded by guards. A secret staircase leads up to area 30 (the Count's Chambers). Nazin and [[Stockmer|Jonn Stockmer]] (and the Count) know about the secret passage, but no one else does. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Great Tower">>".
 # ''Upper Foyer.'' This small area serves as the antechamber to the castle's master suite. It is heavily guarded if the keep is at full strength. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Count's Chambers">>".
 # ''Library.'' This room is the tower's library. Most of the volumes are atlases and histories—interesting, but not particularly valuable.
-# ''Chamberlain's Room.'' This comfortable bedroom is reserved for [[Jonn Stockmer]], the majordomo of Harken Keep. It currently serves as the quarters for the [[warlock]] who attends Nazin.
+# ''Chamberlain's Room.'' This comfortable bedroom is reserved for [[Jonn Stockmer]], the castellan and majordomo of Harken Keep. It currently serves as the quarters for the [[warlock]] who attends Nazin.
 # ''The Count's Chambers.'' The residence of Count [[Alben ir'Clarn]], this spacious suite is currently in the possession of [[Nazin Redthorn]] and his bodyguards. A secret staircase leads to the Count's Hall (area 26). The small rooms include a treasury with a locked door (Nazin has the key) and a bathroom with a fine bathtub. See the encounter "<<navAndScrollToHeader "The Reavers of Harkenwold" "The Count's Chambers">>".
 
 The K3-10 labels are mislabeled and can be ignored.

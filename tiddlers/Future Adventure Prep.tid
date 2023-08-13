@@ -1,6 +1,6 @@
 category: note
 created: 20220302010115523
-modified: 20230805171051544
+modified: 20230810223909521
 tags: 
 title: Future Adventure Prep
 type: text/vnd.tiddlywiki
@@ -13,9 +13,14 @@ Brelish town names: Finnseat, Breyreach, Molstep, Grasshollow, Wex
 
 !! Links to Headers
 * <<scrollToHeader "General Adventure Ideas Alita Wants">>
+* <<scrollToHeader "Miscellaneous Brainstorming">>
+** <<scrollToHeader "CotSF Thoughts">>
+** <<scrollToHeader "Liturgical Councils">>
+** <<scrollToHeader "Knightly Orders in Breland">>
 * <<scrollToHeader "Mistmarsh">>
 * <<scrollToHeader "On the Way to Sharn">>
 ** <<scrollToHeader "Living Blade">>
+** <<scrollToHeader "Conclusion">>
 * <<scrollToHeader "Sharn">>
 ** <<scrollToHeader "Sharn Adventures Worth Considering">>
 * <<scrollToHeader "Thrane">>
@@ -29,35 +34,86 @@ Brelish town names: Finnseat, Breyreach, Molstep, Grasshollow, Wex
 * Save a handsome prince on the road (could be [[Aejar ir'Wynarn|Sharn Inquisitive for Zarantyr 15th, 998]])
 * Get treasure!
 * Meet [[Boranel|Boranel ir'Wynarn]]
-* Save orphans
+* Save orphans (there's an orphanage in [[Gate of Gold]], where [[Viktor Saint-Demain]] was raised. Or maybe Arien has to deal with a haunted orphanage) 
 * Underwater adventure ([[Thunder Sea]])
 * Homestead, build home base
+
+!! Miscellaneous Brainstorming
+
+!!! CotSF Thoughts
+
+Religious practices:
+
+* No need for offerings at services; services focus on the parishioners, encouraging virtuous behavior. Donations are welcome but not directly asked for.
+* Every Sul is the Day of Cleansing Fire, a day to recommit oneself to a life of purity.
+** Fast for one meal, spending the mealtime in prayers of devotion and repentance, and perhaps donate the money you would have paid for the meal on alms for the needy or donations to the church.
+** Many also attend Flamesong services in the evening. (non-canon) Perhaps the parishioners pass a tiny flame from person to person, symbolizing the shared responsibility to protect the innocent; each person holds the candle/torch for a few moments, reflecting on their duty, before passing it on.
+* The substance known as [[silverburn]] is used during many ceremonies of the church to make ordinary candles or torches resemble the radiant energy of the [[Silver Flame]]. However, some within the church believe that this is unseemly and even profane.
+* Archery is a devotional practice, used both as a means of meditation and a martial art.
+
+Some other, non-canon ideas:
+
+* Ritual baths infused with sanctified herbs to cleanse oneself of impurities, symbolic and real. These baths are taken at significant life milestones or after facing particularly trying spiritual challenges.
+
+''Titles:'' in addition to Bishop, Archbishop, Cardinal, High Cardinal, Flamebearer, and Archierophant, here are some other possible titles for church ministers and leaders:
+
+* Luminary. Senior leaders who are sources of wisdom and guidance
+* Liegmund: means "protector/guardian of flame" in old english. Lieg = flame. Something to think about
+
+''How is the Church in Breland different than elsewhere?''
+
+* Practices might reflect Breland's more cosmopolitan nature. Teachings might highlight stories where the Flame acted though non-human agents, or where evils have been averted through understanding and diplomacy.
+* Perhaps there's a practice where members invite beings from "category 3" (medusas, trolls, gnolls, ogres, etc) for a shared meal, symbolizing acceptance and shared commitment to peace. Call it "Allkind Supper."
+** Could be held in temple halls or even in residential areas, members of CotSF and folk of the Barrens (perhaps called "mosaic folk") bring their own home-cooked dishes, and are encouraged to tell the story behind their dish. 
+** Some mosaic folk appreciate this gesture, but others question its intentions, and even feel tokenized in a way that underscores their "otherness."
+
+''Templars in Breland''
+
+* I think it is popular to refer to a templar as "Ser [first name]," and it's unusual to use the templar's last name in e.g. newspaper articles; only when using their full name for clarification.
+* Headquarters: "Bastion of Eternal Vigilance?" iunno. I like the idea of it being located in [[Black Arch]]. Could officially just be called the "Bastion of the Templar Commandery of Breland" (BTCB)
+* Commander of Breland: "Silloene d'Medani". A [[dragonmark]]ed member of House [[Medani]]. Tall and graceful, with dark, wavy hair streaked with silver, and sharp light-brown eyes that miss nothing.
+** Emphasizes integration and understanding, making her popular in Breland but perhaps more controversial among more orthodox members of the church. She respects tradition, but is known to adapt teachings to the ever-changing landscape of Sharn. She walks a fine line, ensuring that her more inclusive practices don't offer openings for Pure-Flame-types to accuse her of deviating too far from the church's teachings
+** Maintains her connection to her House, and thus maintains a network of informants, ensuring the templars are one step ahead of any potential threat.
+** KB says: "The [[Korth Edicts]] prevent Dragonmarked heirs from owning land or wielding political power. But they don’t cover every possible position of authority, and notably can become priests without having to cut ties with their houses. Dragonmarked heirs have just as much right to practice their chosen religion as anyone else; many of the houses assert that their gifts show that they are favored by the Sovereigns. In the case of the Silver Flame, yes, a Medani Heir could become a templar commander. But keep in mind that those commanders are chosen by the cardinals and certified by the Keeper; any candidate will have to have shown unshakable faith and commitment to the Church, as well as tactical brilliance and a long record of service. So they wouldn’t have to legally break ties to their house, but there could be no question of their commitment to the Church."
+** Ser Silloene recently rose to this role. Her predecessor, Ser Graym Lannerik, retired to a remote monastery as a Luminary. But for many years, he served as Silloene's mentor and helped her navigate church politics.
+* Marshals: 
+** Elrik Sensworth, believes in results over ritual. Often clashes with more orthodox templars
+** Hilia Graddan, a former member of the [[Sharn Watch]] (specifically [[Guardians of the Gate]]). Has an extensive knowledge of the city's layout.
+* See [[Coldflame Keep]]; there used to be a much larger templar presence in Sharn. From [[Mazin Tana]]: "The garrison [at Coldflame Keep] was built to house a hundred soldiers, but currently there are only eight templars in residence. While these soldiers are supposed to protect the district from supernatural threats, Mazin believes that they have been chosen by the Archierophant to keep an eye on the aging priest—to make certain that Mazin does not try to interfere with the powers that control the Church in Sharn. While he is disillusioned with his superiors, Mazin still believes in the ideals of the Church and does his best to help those in need." Wow, so maybe there's a contingent of templars who are loyal to [[Ythana Morr]], and Ser Silloene is somehow unaware of this. Or she is, but she's not sure to what degree. There could be a series of quests where Silloene asks Arien to investigate Ythana, as an outsider. Eventually, Arien could help overthrow Ythana and Mazin Tana could be appointed the new Archierophant.
+
+!!! Liturgical Councils
+
+Names for [[liturgical council]]s, thanks to ChatGPT:
+
+* Council of the Sacred Nine
+* The Cerulean Synod
+* Synod of Dawn's Promise
+* Liturgical Council of [region or city name]
+* Liturgical Assembly of [region or city name]
+* Sovereign Summit of [region or city name]
+* Hieratic Council of [region or city name]
+
+!!! Knightly Orders in Breland
+
+Have one order that offers something like health insurance to its members. Everyone pays in, then leadership pays out when someone gets sick or injured.
+
+* Order of the Stalwart Heart: members swear oaths to defend the weak, including/especially Cyran refugees. No religious affiliation, no reference to Sovereigns in the oaths. Democratic/egalitarian leadership system; knights are chosen for leadership roles based on merit, experience, and the votes of their peers.
+** Set up fortified camps as safe havens for refugees during and after the war
+** Programs for veteran support
+** Programs for rebuilding destroyed towns and villages
+* Order of the Dawn Chorus: based in Starilaskur, many former Martial Temple members. They sometimes try to locate Brelish paladins who have defected to another country or broken their oaths, even working with the Sentinel Marshals at times.
+* Order of the Woven Boughs: members are adept at woodland combat and survival. They swear oaths of mutual assistance, ensuring that if one member faces hardship, the others will come to their aid. They offer something like health insurance to members; everyone pays in, then leadership pays out when someone gets sick or injured.
+** During the Last War, this order protected and maintained supply chains through wooded regions.
+* Knighthood of the Fifelic Rune: perhaps a [[rune knight]] order with a secret-society feel. Focus on mysticism. Got their secrets of rune magic from a [[schema]] from ancient [[Xen'drik]]. The most elite members can [[enlarge|enlarge/reduce]] to giant's stature in combat. They protect their secrets at all costs. Today, they act as guardians of some of Breland's arcane vaults. But their secretive nature has made them a focus of suspicion and intrigue. It's possible some within the leadership are also members of the [[Court of Shadows]].
+
 
 !! Mistmarsh
 
 [[The Reavers of Harkenwold]]
 
-Arien hasn’t gotten a letter from her parents or anyone from [[Mistmarsh]] in a while. She sends a letter telling her parents that she swore a paladin oath and graduated from novicehood, but still doesn’t get a response. She completes the [[ankheg quest|A Menace in the Runnels]], and still no response. So she decides to go back to Mistmarsh. [[Roak]] says he needs to stay in [[Starilaskur]] because the [[Brightblade]] festival is coming up and he needs to compete!
+After this mission, Arien returns to Starilaskur, and talks with Sejra. Sejra wants Arien to travel to Sharn, to the [[templar]] Commandery there, to explore and develop her connection to the Silver Flame. The [[Preceptor|Cadoc Belmin]] expresses resistance to this idea, saying that [[Ythana Morr]] is notoriously corrupt. Sejra replies that Arien wouldn't be reporting to the Archierophant anyway, she could report to Ser Silloene, the Commander of Breland. And there are other great Flamist spiritual guides in Sharn, like Flamebearer [[Mazin Tana]], a personal friend of Sejra's.
 
-Take inspiration from Reavers of Harkenwold 4e adventure. 
-
-Alben has left for Wroat, visiting his father Ruken and leaving his steward in charge, but the marauders have taken over [[Harkenton]]. They also have made a deal with the bullywugs, who had previously been kept in check by militias.
-
-Other named folks from Mistmarsh are described here: [[First adventure: Scouting for Gatherhunt]]
-
-Thoughts on adapting Reavers for this region:
-
-* "Woodsinger" elves: replace these with "Cliffwalker" [[shifter]]s in the [[Howling Peaks]].
-* Keep the [[bullywug]]s at Toadwallow Caverns, that's perfect for a marshy area
-* Keep "Harkenwold" as the name of the county; "wold" means hilly uncultivated land, and can even mean "moor."
-* Harken Village = [[Harkenton]], Albridge = [[Mistmarsh]].
-* Iron Circle is a band of mercenaries that served in the [[Last War]] but are now just a band of marauders; In Albus's absence, they've taken over Harkenton and are spreading their influence across the county. They've also made a deal with the [[bullywug]]s to the north, which were previously kept in check.
-
-Lots of steadings and hamlets around, like every 1-2 miles.
-
-After this mission, Arien returns to Starilaskur, and talks with Sejra. Sejra wants Arien to travel to Sharn to explore and develop her connection to the Silver Flame. The [[Preceptor|Cadoc Belmin]] expresses resistance to this idea, but doesn't have a good argument for preventing Arien from going. See the notes on [[Sejra Whitebinder]] for more.
-
-The [[Devout of the Celestial Crown]] is the main [[liturgical council]] for [[Sharn]]. Belmin coordinates with them, and directs Arien to report to the [[Citadel of the Sun]] in [[Hope's Peak]], [[Upper Dura]]. (Conveniently, this district borders [[Clifftop]].)
+In the end, the Preceptor doesn't have a good argument for preventing Arien from going. But he does warn her that all Church of the Silver Flame leadership, even in Breland, and including the templar commander, are appointed by [[Thrane]]'s [[Council of Cardinals]]. He knows Arien has something special, but he's concerned that the Church will twist or corrupt her gift, or that the Thrane government will get involved. He wants to make sure she has a strong foundation in Sharn before she reaches out to the templars. The [[Devout of the Celestial Crown]] is the main [[liturgical council]] for [[Sharn]]. Belmin coordinates with them, and directs Arien to report to Aerela Tal at the [[Citadel of the Sun]] in [[Hope's Peak]], [[Upper Dura]]. (Conveniently, this district borders [[Clifftop]].)
 
 !! On the Way to Sharn
 
@@ -89,9 +145,15 @@ After dealing with saving Aejar, Arien comes back and follows Embera's instructi
 
 In the end, Embera passes her spirit into a branch of her tree, the rest of which withers away. The branch becomes the Living Blade.
 
+!!! Conclusion
+
+Aejar, as a prince, has the authority to appoint knights. (Knighthood is an honor, not a title of nobility.) The title carries status, as it reflects service to the nation, but it isn't tied to inheritance or land. Perhaps he offers to knight Arien once they get back to [[Sharn]]. She might also meet King [[Boranel ir'Wynarn]]; he's at [[Castle Arakhain]] for the first half of [[Barrakas]], but perhaps the King himself knights Arien after some time passes. But if she gets knighted, I'll need some options for chivalric orders of Breland
+
 !! Sharn
 
-Arien goes to [[Sharn]]. She is to check in with Archierophant [[Ythana Morr]] at the [[Cathedral of the Cleansing Flame]]. Could be the start to some cool adventures. But when she's there, she needs a way to make money; joins [[Clifftop Adventurers' Guild]]. Do the "Sharn chicken" scene from Fired and Forgotten. 
+Arien goes to [[Sharn]]. She is to check in with Archierophant [[Ythana Morr]] at the [[Cathedral of the Cleansing Flame]]. I also might need to make a [[templar]] Commander of Breland who has a headquarters in [[Sharn]] (could be that's where it historically is located because of the [[Malleon the Reaver]] wight thing). This Commander would have jurisdiction over [[Droaam]] too, technically, though in practice that means little. The Commander's assistants carry the title of marshal, and then beneath them everybody is just a "knight templar."
+
+[[Silver Flame]] church stuff could be the start to some cool adventures. But when she's in Sharn, she needs a way to make money; joins [[Clifftop Adventurers' Guild]]. Do the "Sharn chicken" scene from Fired and Forgotten. 
 
 Might need to push back the [[Race of Eight Winds]] since Arien might arrive right after it canonically happens.
 
@@ -158,10 +220,9 @@ So the actual destruction of, say, [[Katashka]] might cause mortals to lose thei
 
 So perhaps Arien's journey will be a way to form a "better" cage for these fiends, or some kind of system that restores the world to what it could have been had Siberys not been destroyed. Removing the overlords is a blunt instrument; Arien should find a way to bring about a new age where no matter what happens, the overlords can't break free and cause a new Age of Demons, without outright destroying them.
 
-Another overlord we could use: [[Eldrantulku]] the Oathbreaker. Good reasons to suspect it is bound somewhere beneath Breland. In fact, his prakhutu [[Kashtarhak]], the Voice of Chaos, is a perfect villain for spreading discord in [[Breland]] and abroad, and probably is working with speakers of other overlords (e.g. [[Mazyralyx]], [[Mordakhesh]]) to make this come about. [[Emerald Claw]], cults of the [[Grim King|Katashka]], the [[Swords of Liberty]], etc. Other servants include [[Thelestes]], a "claw" of Kashtarhak.
+Another overlord we could use: [[Eldrantulku]] the Oathbreaker. Good reasons to suspect it is bound somewhere beneath Breland. In fact, his prakhutu [[Neabaz]], the Voice of Chaos, is a perfect villain for spreading discord in [[Breland]] and abroad, and probably is working with speakers of other overlords (e.g. [[Mazyralyx]], [[Mordakhesh]]) to make this come about. [[Emerald Claw]], cults of the [[Grim King|Katashka]], the [[Swords of Liberty]], etc. Other servants include [[Thelestes]], a "claw" of Neabaz.
 
-* If we use Kashtarhak, rename him, since we're already using Katashka and it's too similar. Maybe [[Neabaz|https://ghwiki.greyparticle.com/index.php/Neabaz]], and give him some similar characteristics.
-* Another servant of Kashtarhak/Neabaz could be "Bethageh" (beth-AH-geh), a slug-like fiend who commands [[tar devil]]s (look up pictures of Baalzebul). This is the entity worshiped by the [[Iron Circle]].
+* Another servant of Neabaz is "[[Bethageh]]" (beth-AH-geh), a slug-like fiend who commands [[tar devil]]s (look up pictures of Baalzebul). This is the entity worshiped by the [[Iron Circle]].
 
 The [[barghest]] curse originated as the betrayal of seventeen oaths, according to legend.
 

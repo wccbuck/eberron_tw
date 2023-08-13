@@ -1,6 +1,6 @@
 category: note
 created: 20220208023535083
-modified: 20230805180034074
+modified: 20230810170904316
 tags: 
 title: Adventures of Arien
 type: text/vnd.tiddlywiki
@@ -17,25 +17,30 @@ The adventures of [[Arien Grimbold]]!
 
 !! Links to Headers
 * <<scrollToHeader "Brainstorming">>
+** <<scrollToHeader "CotSF Thoughts">>
 * <<scrollToHeader "Session 13">>
 ** <<scrollToHeader "TODO">>
 ** <<scrollToHeader "Magic Items">>
 * <<scrollToHeader "Scenes">>
-** <<scrollToHeader "Dravago">>
 ** <<scrollToHeader "Nymm">>
 ** <<scrollToHeader "Lharvion">>
 ** <<scrollToHeader "Barrakas">>
+** <<scrollToHeader "Rhaan">>
+** <<scrollToHeader "Sypheros">>
+** <<scrollToHeader "Aryth">>
 
 !! Brainstorming
 
 * Kupo should provide an occasional [[detect immortal]] or similar [[divination]] for Arien.
+
+See also <<navAndScrollToHeader "Future Adventure Prep" "Miscellaneous Brainstorming">>
 
 !! Session 13
 
 !!! TODO
 
 * Finish [[The Reavers of Harkenwold]]
-* Start outlining the trip to Sharn
+* Start outlining the trip to Sharn, as well as conversations that need to happen first
 
 !!! Magic Items
 
@@ -87,13 +92,27 @@ Maybe some [[warforged]] compete too, in their own category. But [[Roak]] decide
 * Have Arien make plans to go to [[Sharn]]. See <<navAndScrollToHeader "Future Adventure Prep" "On the Way to Sharn">>.
 ** This should take 8ish days. A day & change to get from Starilaskur to Wroat, half day to get where the attack happens, 2 days' journey into the King's Forest, 1 day to deal w/ Jungle Boys, 1 day to fix manifest zone, 2 days' journey back to the lightning rail, then a half day to make it to Sharn.
 ** 8 days from the 1st is the 9th; 8 days from the 14th is the 22nd.
-* [[Race of Eight Winds]] on the 23rd! The city is in a tizzy when Arien arrives, if this is when she gets to Sharn
+* [[Race of Eight Winds]] on the 23rd! The city (especially [[Dura]]) is in a tizzy when Arien arrives, if this is when she gets to Sharn
 
 !!! Barrakas
 
 * 4th: The [[Hunt]] (no adventure planned)
 * [[Fathen's Fall]] (the 25th)
 
+!!! Rhaan
+
+* 9th: [[Boldrei's Feast]]
+
+!!! Sypheros
+
+* 1st: the [[Ascension]] ([[Silver Flame]])
+* 18-19th: [[Wildnight]] ([[Fury]])
+
+!!! Aryth
+
+* 6th: [[Tain Gala]]
+** Have several lower-status guests of the [[Sixty]] clamoring to invite Arien to the Tain Gala, to show off the hero who saved the prince
+* 11th: [[Thronehold Day]]
 
 !
 

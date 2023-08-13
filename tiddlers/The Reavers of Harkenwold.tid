@@ -1,6 +1,6 @@
 category: note
 created: 20230728201704673
-modified: 20230807174208455
+modified: 20230807205602371
 tags: [[Adventures of Arien]]
 title: The Reavers of Harkenwold
 type: text/vnd.tiddlywiki
@@ -43,11 +43,11 @@ A series of adventures in which Arien must release her home county from the tyra
 
 This adventure pits Arien against the [[Iron Circle]], a company of cruel mercenaries that has seized control of the county of [[Harkenwold]]. Arien must become a daring rebel and lead the folk of her home county against their oppressors.
 
-At present, [[Iron Circle]] mercenaries are plundering the land. Count [[Alben ir'Clarn]] has left for the season on holiday to [[Wroat]], leaving his old majordomo [[Jonn Stockmer]] in charge; however, the majordomo is now a prisoner in his own keep, and a villainous lord named [[Nazin Redthorn]] rules in his place. The Harkenwold folk are down to their last hope—that a brave hero will answer their calls for help and break the Iron Circle.
+At present, [[Iron Circle]] mercenaries are plundering the land. Count [[Alben ir'Clarn]] has left for the season on holiday to [[Wroat]], leaving his castellan [[Jonn Stockmer]] in charge; however, the castellan is now a prisoner in his own keep, and a villainous lord named [[Nazin Redthorn]] rules in his place. The Harkenwold folk are down to their last hope—that a brave hero will answer their calls for help and break the Iron Circle.
 
 !! Background
 
-About six weeks ago, [[Nazin Redthorn]] led his band of mercenaries known as the [[Iron Circle]] into [[Harkenwold]] in a surprise attack. The brigands stormed the [[Harkenton]] [[Keep|Harken Keep]] and took the [[steward|Jonn Stockmer]] captive. Iron Circle sweeps and raids soon quelled any show of resistance, leaving the county a conquered land. The Iron Circle has bribed the [[Municipal Guard|Breland Municipal Guard]] of Harkenton to prevent couriers, messengers, or anyone who might be a threat from leaving or entering the county by main roads. (Everyday commoners, merchants, and farmers are allowed to come and go, but they are questioned first, and subjected to heavy tolls.) The mercenaries are also forcing a [[Sivis]] [[stonespeaker|speaking stone]] to answer any messages from the Count with false, mundane replies. 
+About six weeks ago, [[Nazin Redthorn]] led his band of mercenaries known as the [[Iron Circle]] into [[Harkenwold]] in a surprise attack. The brigands stormed the [[Harkenton]] [[Keep|Harken Keep]] and took the [[castellan|Jonn Stockmer]] captive. Iron Circle sweeps and raids soon quelled any show of resistance, leaving the county a conquered land. The Iron Circle has bribed the [[Municipal Guard|Breland Municipal Guard]] of Harkenton to prevent couriers, messengers, or anyone who might be a threat from leaving or entering the county by main roads. (Everyday commoners, merchants, and farmers are allowed to come and go, but they are questioned first, and subjected to heavy tolls.) The mercenaries are also forcing a [[Sivis]] [[stonespeaker|speaking stone]] to answer any messages from the Count with false, mundane replies. 
 
 The new bandit "authorities" are pillaging Harkenwold through "tolls" and confiscations, harshly punishing anyone who resists. [[Nazin|Nazin Redthorn]] is further strengthening his hold by negotiating with other malignant forces. In particular, he's used some of the loot he's plundered from the county's suffering populace to buy the friendship of a group of odious [[bullywug]]s.
 
@@ -64,10 +64,10 @@ To successfully overthrow the [[Iron Circle]] and restore freedom to [[Harkenwol
 * Defeat the [[bullywug]]s of the <<scrollToHeader "Toadwallow Caverns">>.
 * Forge an alliance with <<scrollToHeader "the Cliffwalker Shifters">>.
 * Win <<scrollToHeader "the Battle of Mistmarsh">>.
-* Rescue Majordomo [[Stockmer|Jonn Stockmer]] from <<scrollToHeader "Harken Keep">>.
+* Rescue Castellan [[Stockmer|Jonn Stockmer]] from <<scrollToHeader "Harken Keep">>.
 * Defeat [[Nazin Redthorn]], the leader of the [[Iron Circle]].
 
-Achieving four of these goals ensures that the Harkenwolders eventually triumph over the [[Iron Circle]]. Achieving all five brings about an immediate victory. For example, losing the Battle of Mistmarsh would be a serious setback, but the remaining villages can beat the Iron Circle if Nazin is dead, the steward is freed, the Cliffwalkers are on their side, and the bullywugs pose no threat.
+Achieving four of these goals ensures that the Harkenwolders eventually triumph over the [[Iron Circle]]. Achieving all five brings about an immediate victory. For example, losing the Battle of Mistmarsh would be a serious setback, but the remaining villages can beat the Iron Circle if Nazin is dead, the castellan is freed, the Cliffwalkers are on their side, and the bullywugs pose no threat.
 
 Note that [[Nazin Redthorn]] is an arrogant and overconfident man; he is willing to let resistance gather over time, so that he can crush it all at once when it suits him.
 
@@ -453,7 +453,7 @@ Nazin's escape is important to set up the final conflict in [[Harken Keep]]. Mak
 
 !! Harken Keep Encounters
 
-Whether victorious or defeated, the surviving [[Iron Circle]] soldiers retreat to [[Harkenton]] and hole up and recuperate. Defeating [[Nazin Redthorn]] and his marauders means that the keep must fall. The [[Harkenwold]] rebels have no chance of storming the battlements; a small team of highly capable and skilled volunteers, however, could infiltrate the castle, rescue the steward, and put an end to Nazin Redthorn. The heroes' assult on Harken Keep is covered in the below encounters.
+Whether victorious or defeated, the surviving [[Iron Circle]] soldiers retreat to [[Harkenton]] and hole up and recuperate. Defeating [[Nazin Redthorn]] and his marauders means that the keep must fall. The [[Harkenwold]] rebels have no chance of storming the battlements; a small team of highly capable and skilled volunteers, however, could infiltrate the castle, rescue the castellan, and put an end to Nazin Redthorn. The heroes' assult on Harken Keep is covered in the below encounters.
 
 The first challenge Arien and her allies face is getting inside [[Harken Keep]]. They might devise a ploy to enter, such as feigning surrender, hiding in supply wagons, or donning disguises. <<scrollToHeader "Infiltrating the Keep">> addresses some scenarios that might result given some of the more likely approaches.
 
@@ -463,7 +463,7 @@ Finally, the heroes might try a frontal assault on the front gate and outer bail
 
 !!! Infiltrating the Keep
 
-To rescue "Baron" [[Stockmer|Jonn Stockmer]] and defeat the [[Iron Circle]] in [[Harkenwold]], Arien and her allies must find a way to get into [[Harken Keep]]—a heavily defended castle surrounded by daunting battlements and high walls.
+To rescue Castellan [[Stockmer|Jonn Stockmer]] and defeat the [[Iron Circle]] in [[Harkenwold]], Arien and her allies must find a way to get into [[Harken Keep]]—a heavily defended castle surrounded by daunting battlements and high walls.
 
 So how does the party get inside? The most perilous option is to storm the castle. The party might attempt to scale the walls (<<scrollToHeader "Wall Defense">>), fight their way through the front gate (<<scrollToHeader "The Outer Bailey">>), or slip in through the postern gate (area 21 on the [[Harken Keep]] map). If Arien speaks to [[Old Kellar]] in the town, the dwarf can direct her to the secret passage leading into the North Tower (area 11), but warns her that the door must be opened from within.
 
@@ -636,13 +636,13 @@ When Arien enters area 19, read:
 
 When infiltrators appear on the stairs or at the postern gate, the soldier in the kitchen moves to guard the doorway leading to the gaol (area 22) and calls for help. The second soldier comes out to defend the doorway; the mage and [[tar devil]] hang back and use ranged attacks.
 
-If the fight goes badly, the mage seals himself in the gaol guardroom, possibly locking the soldiers outside. The mage threatens to kill [[Stockmer|Jonn Stockmer]] unless Arien agrees to let him flee. This is an empty threat, since the mage would never slay the majordomo without Nazin's approval; Arien might realize this is a bluff if she's insightful.
+If the fight goes badly, the mage seals himself in the gaol guardroom, possibly locking the soldiers outside. The mage threatens to kill [[Stockmer|Jonn Stockmer]] unless Arien agrees to let him flee. This is an empty threat, since the mage would never slay the castellan without Nazin's approval; Arien might realize this is a bluff if she's insightful.
 
-The castle servants are loyal Harkenwolders forced into drudgery by the [[Iron Circle]]. They do their best to stay out of the way and shout encouragement at the heroes. They tell Arien that Stockmer is being held in a cell beyond the guardroom. See [[Jonn Stockmer]] for notes on what the "Baron" can tell the heroes upon being rescued.
+The castle servants are loyal Harkenwolders forced into drudgery by the [[Iron Circle]]. They do their best to stay out of the way and shout encouragement at the heroes. They tell Arien that Stockmer is being held in a cell beyond the guardroom. See [[Jonn Stockmer]] for notes on what the castellan can tell the heroes upon being rescued.
 
 !!! The Count's Chambers
 
-[[Nazin Redthorn]], the would-be lord of [[Harkenwold]], makes his lair in the rooms formerly belonging to Count [[ir'Clarn|Alben ir'Clarn]] and steward [[Stockmer|Jonn Stockmer]]. Attending him are three loyal [[hobgoblin]] bodyguards (wielding morningstars and backup daggers) and an infernal wandslinger (fiery tendrils, dark imperative). If Nazin did not survive the Battle of Mistmarsh, replace him with a different Iron Circle commander named Tyranda Falkon.
+[[Nazin Redthorn]], the would-be lord of [[Harkenwold]], makes his lair in the rooms formerly belonging to Count [[ir'Clarn|Alben ir'Clarn]] and Castellan [[Stockmer|Jonn Stockmer]]. Attending him are three loyal [[hobgoblin]] bodyguards (wielding morningstars and backup daggers) and an infernal wandslinger (fiery tendrils, dark imperative). If Nazin did not survive the Battle of Mistmarsh, replace him with a different Iron Circle commander named Tyranda Falkon.
 
 If the heroes come up the secret stairs from area 26, they might surprise Nazin and his guards.
 
