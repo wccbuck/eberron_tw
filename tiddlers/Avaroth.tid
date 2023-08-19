@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20210405001034535
-modified: 20230616174816875
+modified: 20230814204458194
 points: 43.403,-4.61
 style: {"color": "#CA5700"}
 tags: town Thrane
@@ -9,4 +9,4 @@ title: Avaroth
 tooltip: town in Thrane
 type: text/vnd.tiddlywiki
 
-Avaroth is a town in [[Thrane]], near [[Sigilstar]].
+Avaroth is a town in [[Thrane]], near [[Sigilstar]]. It is named after the third [[Keeper of the Flame]], Darmin Avaroth.

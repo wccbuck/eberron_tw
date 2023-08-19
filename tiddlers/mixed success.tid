@@ -1,9 +1,11 @@
 category: game mechanics
 created: 20210103022159443
-modified: 20230418151650035
+modified: 20230814215917335
 tags: Storyloom [[Taking Action]]
 title: mixed success
 tooltip: Storyloom mechanic: highest result is 4 or 5, mix of positive and negative outcomes
 type: text/vnd.tiddlywiki
 
-After rolling dice, if your highest die is a 4 or 5, that's a mixed success; you do what you were trying to do, but there are [[consequence]]s, such as [[stress]], reduced [[impact]], or a complication.
+After [[rolling dice|Taking Action]], if your highest die is a 4 or 5, that's a mixed success; you do what you were trying to do, but there are [[consequence]]s, such as [[stress]], reduced [[impact]], or a complication.
+
+See also [[full success]] and [[bad outcome]].

@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20220825234934026
-modified: 20221213061321578
+modified: 20230815070005560
 tags: aberration
 tier: 3
 title: unspeakable horror
@@ -19,7 +19,7 @@ An unspeakable horror has one of four body compositions, determined by choosing 
 
 The results of these tables are meant to be broad, so feel free to describe the details of an unspeakable horror's form and the interplay between its parts however you desire. The more discordant and unexpected a horror's parts, the more unsettling it might be.
 
-You can also click the button below to generate a horror from all three tables. This horror has a 1 in 4 chance of having two "attacking limbs".
+You can also click the button below to generate a horror from all three tables. This horror has a 1 in 4 chance of having two "attacking limbs."
 
 <<<
 <$button>

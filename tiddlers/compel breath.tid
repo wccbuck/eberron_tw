@@ -1,12 +1,12 @@
 category: spell
 color: #B7A1E0
 created: 20211120183841246
-modified: 20211120184051785
+modified: 20230815071238055
 tags: enchantment [[primal magic]]
 tier: 2
 title: compel breath
 type: text/vnd.tiddlywiki
 
-Choose a creature you can see within 90 feet that has a "breath weapon", such as a [[dragon]]. That creature must resist your enchantment or else be compelled to immediately use its breath weapon. The target can choose in which direction it uses its breath weapon.
+Choose a creature you can see within 90 feet that has a "breath weapon," such as a [[dragon]]. That creature must resist your enchantment or else be compelled to immediately use its breath weapon. The target can choose in which direction it uses its breath weapon.
 
 If the target does not have a breath weapon, or if it cannot use it (such as if the creature is waiting for it to recharge), the spell fails.

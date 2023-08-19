@@ -2,7 +2,7 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20220624225641798
-modified: 20220624230155969
+modified: 20230815065214607
 tags: armor body
 tier: 4
 title: ring mail of three wishes
@@ -12,4 +12,4 @@ When you are hit by an attack while wearing this fine armor, you can choose to w
 
 <<itemcharges 3>>
 
-(When charges remaining = 2, the tier of this armor is considered "rare". When charges = 1, "uncommon".)
+(When charges remaining = 2, the tier of this armor is considered "rare." When charges = 1, "uncommon.")

@@ -1,12 +1,12 @@
 category: game mechanics
 created: 20210401184153820
-modified: 20221203001003104
+modified: 20230815065016034
 tags: [[Taking Action]] Storyloom
 title: harm
 tooltip: Storyloom mechanic: boxes on your character sheet that get filled in as you suffer physical or mental damage
 type: text/vnd.tiddlywiki
 
-Harm represents the physical and mental injuries your character may suffer. You have six boxes on your [[character sheet|character sheet template]] labeled "harm". Mark these boxes as you suffer injuries as a result of [[consequence]]s. This might happen if you are out of [[stress]] boxes, or if the circumstances are such that you'd have no reasonable way to dodge or otherwise avoid suffering harm.
+Harm represents the physical and mental injuries your character may suffer. You have six boxes on your [[character sheet|character sheet template]] labeled "harm." Mark these boxes as you suffer injuries as a result of [[consequence]]s. This might happen if you are out of [[stress]] boxes, or if the circumstances are such that you'd have no reasonable way to dodge or otherwise avoid suffering harm.
 
 Each of your harm boxes typically requires some kind of medical or therapeutic attention //and// at least one full day of recovery in order to clear. Expert medical care or [[magical healing]] can speed up this process. (Note that [[magical healing]], [[regeneration]], and other effects assume that you mark your harm starting from the first (left-most) box and moving rightwards.)
 

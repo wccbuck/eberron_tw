@@ -1,13 +1,14 @@
 [
     {
         "created": "20210331163739305",
-        "text": "Thrane Wynarn was the second-oldest child of King [[Galifar I|Galifar Wynarn]]. When the Kingdom of [[Galifar]] was formed, the king granted Thrane the role of governor-prince over the domain of [[Daskara]], the area later known as [[Thrane]]. He governed this province until his death in 22 YK, when he led an army to stop the rampaging [[dragon]] [[Sarmondelaryx]].",
+        "text": "Thrane Wynarn was the second-oldest child of King [[Galifar I|Galifar Wynarn]]. When the Kingdom of [[Galifar]] was formed, the king granted Thrane the role of governor-prince over the domain of [[Daskara]], the area later known as [[Thrane]]. Prince Thrane was seen by the people as an exemplar of the [[Sovereigns|Sovereign Host]] and a chosen champion of [[Dol Arrah]]; he likely possessed some form of [[divine magic]].\n\nPrince Thrane governed the province until his death in 22 YK, when he led an army to stop the rampaging [[dragon]] [[Sarmondelaryx]]. His death was a devastating blow to the faith of the people of [[Thrane]].",
         "type": "text/vnd.tiddlywiki",
         "title": "Thrane Wynarn",
         "tags": "Galifar [[Wynarn family]] deceased human humanoid",
-        "modified": "20220506030127436",
+        "modified": "20230819010036621",
         "color": "#FEA627",
         "category": "person",
-        "article": "Prince "
+        "article": "Prince ",
+        "tooltip": "first governor-prince of Thrane (Daskara), second-oldest child of Galifar Wynarn"
     }
 ]

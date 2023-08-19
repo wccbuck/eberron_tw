@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20221130212017066
-modified: 20230424071512177
+modified: 20230815071624652
 tags: 
 title: disease
 tooltip: documentation page about diseases in Eberron and how they work the Storyloom system
@@ -36,7 +36,7 @@ Whenever a player character contracts a disease, the GM might set up a [[progres
 
 When making a disease recovery attempt, you can't use any [[approach]] points to improve your result. However, you can spend [[momentum]] on the attempt, and characters with appropriate medical training can perform ordinary [[boost]] attempts to grant you that momentum. Important note: if the disease's description says that it imposes [[disadvantage]] on all attempts performed by the infected creature, that disadvantage ''does not apply to disease recovery attempts''.
 
-Many diseases can be cured with the [[restoration]] spell. If the disease is described as "magical", however, a greater restoration (rare-[[tier|spell tier]]) must be used.
+Many diseases can be cured with the [[restoration]] spell. If the disease is described as "magical," however, a greater restoration (rare-[[tier|spell tier]]) must be used.
 
 !! List of Diseases
 

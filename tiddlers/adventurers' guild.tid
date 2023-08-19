@@ -1,21 +1,29 @@
 category: organization
 color: #052c65
 created: 20210118055328229
-list-before: 
-modified: 20221121224734243
+modified: 20230819013403668
 tags: [[secret society]]
 title: adventurers' guild
 tooltip: an organization that provides adventurers opportunities for work and camaraderie
 type: text/vnd.tiddlywiki
 
-Adventurers' guilds are organizations that provide adventurers with opportunities for work and camaraderie. 
+Adventurers' guilds are organizations that provide adventurers with opportunities for work and camaraderie. The most prominent guilds in the [[Five Nations]] are the [[Clifftop Adventurers' Guild]] and the [[Deathsgate Guild]] (both based in [[Sharn]]), as well as the prestigious [[Wayfinder Foundation]] (based in [[Fairhaven]]).
 
-//''Membership Benefits.''// Those who are accepted into either adventurers' guild must pay yearly dues (usually ~[[2c|money]]). The primary benefit of belonging to a guild is access to work, since the guildmaster can connect parties of adventurers with patrons and jobs suited to their talents. Beyond that, there are a few additional benefits: 
+But what exactly is an "adventurer"? In the world of [[Eberron]], an adventurer is a kind of soldier of fortune with a wide variety of skills who performs dangerous odd jobs—sometimes for pay by a patron, other times for the lure of treasure or other goals. The term can be considered a catchall for any of the following professions:
+
+* ''Monster Hunter:'' The most common form of adventurer is the person who is hired to dispatch rampaging horrors or other monstrous nuisances. 
+* ''Explorer:'' Large swaths of [[Khorvaire]] remain mostly uncharted, not to mention the jungle continent of [[Xen'drik]], the frigid [[Frostfell]], and the depths of [[Khyber]]. Expeditions need rugged folk to assist in shining the light of discovery into these unexplored regions.
+* ''Dungeon Delver:'' Archaeologists seeking to explore the ancient ruins scattered across the continent often hire adventurers as protection against whatever dangers lurk there, in exchange for pay or for a portion of whatever treasure lies within. Some adventurers also simply engage in treasure hunting in abandoned ruins on their own initiative.
+* ''Mournland Salvager:'' The salvagers who embark on missions into the [[Mournland]] to retrieve items of value from the ruins of [[Cyre]] can be considered adventurers. 
+
+...and many others. Unlike a traditional mercenary, who is hired to fight [[humanoid]] opponents in warfare, an adventurer is hired for more unusual tasks that require facing the unknown and adapting to exotic situations. 
+
+!!! Membership Benefits
+
+Those who are accepted into an adventurers' guild such as the [[Clifftop Adventurers' Guild]] or the [[Deathsgate Guild]] must pay yearly dues (usually ~[[2c|money]]). The primary benefit of belonging to a guild is access to work, since the guildmaster can connect parties of adventurers with patrons and jobs suited to their talents. Beyond that, there are a few additional benefits: 
 
 * You can store items at the guildhall free of charge.
 * You can book lodging at the guildhall for a reasonable fee (usually ~1c per two weeks). The accommodations are modest, but the guild provides stronger security for lodgers and their possessions than you'd find at an inn.
 * An adventurers' guild is an excellent source of information. By studying records and working with other guild members, you can gain [[advantage]] on any attempt to research a subject in which the guild has expertise or experience. 
 
-!! Adventurer's Guilds
-
-<<list-links-article "[tag{!!title}sort[relevance]]">>
+!!! <<showorg-type>>

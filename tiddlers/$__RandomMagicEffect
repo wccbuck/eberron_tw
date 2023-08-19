@@ -416,7 +416,7 @@
 671: Caster can't use magic within 100 yards of this spot for {{!!2d4}} days.
 675: Caster can't use the spell that triggered this random effect for {{!!l_duration}}.
 676: Caster can't use weapons that contain wood for the next {{!!l_duration}}.
-681: Caster is compelled to their name to its reverse: "Tom" becomes "Mot". The compulsion wears off after {{!!l_duration}}, but they aren't compelled to change their name back.
+681: Caster is compelled to change their name to its reverse: "Tom" becomes "Mot." The compulsion wears off after {{!!l_duration}}, but they aren't compelled to change their name back.
 682: Caster proclaims that they're doing the work of a randomly-chosen [[Sovereign|Sovereign Host]].
 684: Caster claims to be immune to inorganic poisons.
 685: Caster proclaims they are the offspring of [[Arawai]] and King [[Boranel ir'Wynarn]].

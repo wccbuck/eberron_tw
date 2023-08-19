@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20230818002154977",
+        "text": "The Duurwood is a small forest in central [[Droaam]]. It is located to the south of the Jul Kartaal, the road that leads to the [[Great Crag]]. The dense forest of gnarled trees is an unpleasant place, filled with swarming flies as well as patches of the ghoulbriar plant, which bristles with poisonous barbs.",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Duurwood",
+        "tags": "Droaam forest Khorvaire",
+        "modified": "20230818005933757",
+        "style": "{\"color\":\"#333C1A\",\"fillColor\":\"#66883F\",\"fillOpacity\":\"0.8\"}",
+        "polygons": "33.92,-32.46 33.96,-32.32 33.93,-32.2 33.87,-32.12 33.87,-31.98 33.85,-31.85 33.85,-31.72 33.81,-31.59 33.72,-31.47 33.65,-31.34 33.54,-31.27 33.43,-31.35 33.38,-31.52 33.28,-31.81 33.31,-32.04 33.36,-32.09 33.44,-32.1 33.54,-32.2 33.65,-32.37 33.7,-32.53 33.8,-32.59 33.87,-32.56",
+        "color": "#3B5C0A",
+        "category": "location",
+        "article": "the ",
+        "tooltip": "forest in central Droaam"
+    }
+]

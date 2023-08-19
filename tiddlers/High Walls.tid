@@ -2,7 +2,7 @@ category: location
 color: #96CC39
 created: 20200420055704691
 fmwvar: fmw-lower
-modified: 20221129224943862
+modified: 20230815065726264
 polygons: 20.123,-24.444 20.117,-24.437 20.11,-24.433 20.101,-24.434 20.095,-24.436 20.085,-24.437 20.085,-24.437 20.081,-24.416 20.068,-24.383 20.075,-24.378 20.085,-24.369 20.091,-24.362 20.103,-24.357 20.11,-24.356 20.125,-24.359 20.128,-24.36 20.124,-24.39 20.126,-24.427 20.123,-24.444
 style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Tavick's Landing]] Sharn
@@ -45,5 +45,5 @@ and would be well advised to tread lightly.
 
 !! Noteworthy Locations
 
-* The [[Old City Archive]]. "The oldest building in [[Sharn]]". Landmark temple to [[Aureon]] that once served as a municipal library and archive, but now lies abandoned.
+* The [[Old City Archive]]. "The oldest building in [[Sharn]]." Landmark temple to [[Aureon]] that once served as a municipal library and archive, but now lies abandoned.
 * The [[Manticore Inn]]. A ramshackle tavern and hostel.

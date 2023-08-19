@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20210405000642253
-modified: 20230616174619198
+modified: 20230814204812819
 points: 38.234,-6.87
 style: {"color": "#CA5700"}
 tags: town Thrane
@@ -9,4 +9,4 @@ title: Aelyndar
 tooltip: town in Thrane
 type: text/vnd.tiddlywiki
 
-Aelyndar is a village in [[Thrane]].
+Aelyndar is a village in [[Thrane]]. It is named after the tenth [[Keeper of the Flame]], Aelyndari Valystar.

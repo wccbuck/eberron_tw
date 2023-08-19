@@ -1,7 +1,7 @@
 category: game mechanics
 created: 20221120230342871
 displaynameorigin: Syrkarn
-modified: 20230517052728878
+modified: 20230814215554161
 nameorigin: Syrkarn
 tags: 
 title: random name generator
@@ -12,7 +12,7 @@ var2: Miztzal
 var3: Bisararu
 var4: Ohazhisa
 
-Use this tool to generate names for characters in the world of Eberron. Select a "linguistic origin" from the drop-down list, then click "Generate Four Names". Please forgive any profane, inappropriate, or generally terrible names; this tool does not filter any "blacklist" words.
+Use this tool to generate names for characters in the world of Eberron. Select a "linguistic origin" from the drop-down list, then click "Generate Four Names." Please forgive any profane, inappropriate, or generally terrible names; this tool does not filter any "blacklist" words.
 
 <div style="display:flex;">
 ''Select linguistic origin:''&nbsp;<$select field="nameorigin">
@@ -175,7 +175,7 @@ For [[kalashtar]] names, which follow a specific pattern, see the [[kalashtar]] 
 
 !! Riedran Names
 
-The source name list I use to generate these names includes canon [[Riedran|Riedra]] examples (but not the names of the [[Inspired]] which follow a different pattern). I've also augmented the list with Sanskrit names (which would originate from the province of [[Ghirvagura]] in my Eberron), old Persian names ([[Nulakaz]] in my Eberron), and Nahuatl names ([[Caleshaz]]). I did however tweak the Nahuatl names for this list because the [[Riedran]] language would likely have dropped some of the challenging compound consonants. Also, "th" in these names indicates an aspirated "t", not the English "th" sound.
+The source name list I use to generate these names includes canon [[Riedran|Riedra]] examples (but not the names of the [[Inspired]] which follow a different pattern). I've also augmented the list with Sanskrit names (which would originate from the province of [[Ghirvagura]] in my Eberron), old Persian names ([[Nulakaz]] in my Eberron), and Nahuatl names ([[Caleshaz]]). I did however tweak the Nahuatl names for this list because the [[Riedran]] language would likely have dropped some of the challenging compound consonants. Also, "th" in these names indicates an aspirated "t," not the English "th" sound.
 
 </$reveal>
 
@@ -183,7 +183,7 @@ The source name list I use to generate these names includes canon [[Riedran|Ried
 
 !! Adaran Names
 
-The source name list I use to generate these names includes canon [[Adaran|Adar]] examples, as well as some Sanskrit names. Note that "th" in these names indicates an aspirated "t", not the English "th" sound.
+The source name list I use to generate these names includes canon [[Adaran|Adar]] examples, as well as some Sanskrit names. Note that "th" in these names indicates an aspirated "t," not the English "th" sound.
 
 For [[kalashtar]] names, which follow a specific pattern, see the [[kalashtar]] page.
 
@@ -223,7 +223,7 @@ See [[Culture of the Tashana shifters]] for more information.
 
 !! Drow Names
 
-The source name list I use to generate these names includes canon examples of [[drow]]... of which there are very few (mainly from Keith Baker's Shattered Land novel). Even those names I tweaked a bit to make them feel unique; I swapped "ar" endings with "u", and swapped "z" with "x". Assuming [[Shedani]], the language of the drow, is distantly related to [[Aerenese]], I added some of those elf names to the mix but changed some vowels. I also added a few Cambodian, Pali, and Javanese-inspired names with "Ch" and "Z" replaced with "X", and stuck random apostrophes after vowels, N's, and L's. In my Eberron, apostrophes in Shedani names and words (including [[Xen'drik]]) are pronounced as glottal stops. Also, "X"s in Xen'drik-based language groups is pronounced like "dz".
+The source name list I use to generate these names includes canon examples of [[drow]]... of which there are very few (mainly from Keith Baker's Shattered Land novel). Even those names I tweaked a bit to make them feel unique; I swapped "ar" endings with "u," and swapped "z" with "x." Assuming [[Shedani]], the language of the drow, is distantly related to [[Aerenese]], I added some of those elf names to the mix but changed some vowels. I also added a few Cambodian, Pali, and Javanese-inspired names with "Ch" and "Z" replaced with "X," and stuck random apostrophes after vowels, N's, and L's. In my Eberron, apostrophes in Shedani names and words (including [[Xen'drik]]) are pronounced as glottal stops. Also, "X"s in Xen'drik-based language groups is pronounced like "dz."
 
 Note that any names ending in "oor" would not likely be used by the [[Sulatar]]; those names are more a hallmark of the [[Vulkoor]]i drow. Sulatar names also have more "j"s and fewer apostrophes.
 
