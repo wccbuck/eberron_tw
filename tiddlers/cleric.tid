@@ -1,7 +1,7 @@
 category: occupation
 color: #A3CFBB
 created: 20200422032150707
-modified: 20220805224806471
+modified: 20230824215625155
 title: cleric
 tooltip: spellcaster who channels divine magic
 type: text/vnd.tiddlywiki
@@ -13,3 +13,7 @@ Most clerics are priests of a [[religion]] with the devotion required to perform
 !! Cleric Domains
 
 <<list-links-article "[tag{!!title}category[talent]search:title[Domain]sort[title]]">>
+
+!
+
+!!! <<showtalent-type>>

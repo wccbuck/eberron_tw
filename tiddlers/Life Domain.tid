@@ -1,7 +1,7 @@
 category: talent
 created: 20211123203846014
 list: bless [[cure wounds]] heal restoration [[spiritual weapon]] [[beacon of hope]] revivify [[death ward]] [[guardian of faith]] [[raise dead]]
-modified: 20211128070032457
+modified: 20230824220512297
 tags: Spellcaster cleric
 title: Life Domain
 type: text/vnd.tiddlywiki
@@ -31,3 +31,9 @@ Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster
 		</tr>
 	</$list>
 </table>
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>

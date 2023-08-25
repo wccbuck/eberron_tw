@@ -1,13 +1,27 @@
 category: creature
 color: #EA868F
 created: 20210108202842020
-modified: 20230424170453016
+modified: 20230823155309814
 tags: giant
 tier: 3
 title: stone giant
 tooltip: gray-skinned 18-foot-tall giant, lithe and athletic
 type: text/vnd.tiddlywiki
 
-Stone [[giant]]s have granite-gray skin, gaunt features, and black, sunken eyes which gives them a stern countenance. Their average height is around 18 feet. 
+Stone [[giant]]s have granite-gray skin, gaunt features, and black, sunken eyes which gives them a stern countenance. Their average height is around 18 feet. Stone giants have the longest average lifespan of any true giant, sometimes reaching over 800 years of age, as enduring as the stone for which they're named.
 
 For giants, they are surprisingly lithe and athletic. They tend to be reclusive and quiet. Many stone giants rank artistry as the greatest virtue, painting intricate murals on cave walls and carving stone statues and architectural adornments.
+
+!!! Stone Giant Names
+
+| !<<dr d10>> |!Name |
+| 1 |Brunnar |
+| 2 |Delveni |
+| 3 |Frasta |
+| 4 |Kragsten |
+| 5 |Maddag |
+| 6 |Olhuud |
+| 7 |Pashka |
+| 8 |Ralden |
+| 9 |Steyras |
+| 10 |Thonna |

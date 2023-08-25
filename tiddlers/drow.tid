@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200415000623430
-modified: 20230606172904995
+modified: 20230824222901499
 tags: subrace elf humanoid
 tier: 1
 title: drow
@@ -33,6 +33,8 @@ described in your people's legends, or you might have an
 almost instinctive reaction of distrust. You might have
 overcome your initial prejudices by the time the campaign begins, or perhaps you're working to build trust
 with another elf member of your adventuring party. 
+
+If you'd like to play as a drow, see [[Drow (talent)]].
 
 !! Urban Drow
 

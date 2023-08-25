@@ -1,0 +1,11 @@
+category: talent
+created: 20230824220443754
+modified: 20230824220700577
+tags: cleric
+title: Blessed Healer
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+''Prerequisite:'' [[Life Domain]].
+
+The healing [[spell]]s you cast on others heal you as well. Whenever you cast a spell that grants [[magical healing]] to a creature other than you, you also benefit from that healing at one lower [[impact]] level.

@@ -1,0 +1,45 @@
+category: talent
+created: 20230824211130968
+modified: 20230824212937421
+title: Rune Shaper
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+You've studied the rune magic of the [[ancient giant|Age of Giants]]s of [[Xen'drik]], and have gained the ability to channel their power. 
+
+Gain the spell [[comprehend languages]]. In addition, you know ''two'' of the runes chosen from the below section. Each day, you can inscribe each rune you know onto one nonmagical weapon, armor, piece of clothing, or other object you touch. You can invoke a rune inscribed on an object you are wearing or carrying and cast its associated spell without expending your own energy or any material spell components. Once you cast the spell in this way, the rune fades. The rune also fades 24 hours after you inscribe it.
+
+You can take this talent multiple times. Each time you do, gain ''four'' additional runes.
+
+As a thematic suggestion, one of the [[language]]s you know should be [[Giant]]. Since it is an extinct language, the GM may allow you to learn Giant for free in addition to the two languages you choose at [[character creation|Character Creation]].
+
+See also [[rune knight]] and [[Rune Knight (talent)]].
+
+!! Runes
+
+|!Rune |!Spell |
+|<$checkbox field="var1" checked="yes" default="no"/> Cloud |[[fog cloud]] |
+|<$checkbox field="var2" checked="yes" default="no"/> Death |[[inflict wounds]] |
+|<$checkbox field="var3" checked="yes" default="no"/> Dragon |[[chromatic orb]] |
+|<$checkbox field="var4" checked="yes" default="no"/> Enemy |[[disguise self]] |
+|<$checkbox field="var5" checked="yes" default="no"/> Fire |[[burning hands]] |
+|<$checkbox field="var6" checked="yes" default="no"/> Friend |[[speak with animals]] |
+|<$checkbox field="var7" checked="yes" default="no"/> Frost |[[armor of winter]] |
+|<$checkbox field="var8" checked="yes" default="no"/> Hill |[[goodberry]] |
+|<$checkbox field="var9" checked="yes" default="no"/> Journey |[[longstrider]] |
+|<$checkbox field="var10" checked="yes" default="no"/> King |[[command]] |
+|<$checkbox field="var11" checked="yes" default="no"/> Mountain |[[entangle]] |
+|<$checkbox field="var12" checked="yes" default="no"/> Stone |[[sanctuary]] |
+|<$checkbox field="var13" checked="yes" default="no"/> Storm |[[thunderwave]] |
+
+
+!! Rune Styles
+
+Each rune shaper has a unique style and preferred medium for creating their runes. Consider the following styles:
+
+* You inscribe runes into wax or clay with a fine metal needle.
+* You whittle pieces of wood into small figurines you mark with runes.
+* You engrave runes onto glass beads and thread them onto necklaces and bracelets.
+* You stitch runes into the hems of clothing.
+* You carve runes on a set of animal bones you can throw in different formations.
+* You draw runes into candles, melting the wax to smooth over the engravings.

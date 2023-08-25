@@ -1,16 +1,16 @@
 category: game mechanics
 created: 20221120230342871
-displaynameorigin: Syrkarn
-modified: 20230814215554161
-nameorigin: Syrkarn
+displaynameorigin: Thrane
+modified: 20230824204139178
+nameorigin: Thrane
 tags: 
 title: random name generator
 tooltip: tool for generating a random name based on country of origin
 type: text/vnd.tiddlywiki
-var1: Hawqatumka
-var2: Miztzal
-var3: Bisararu
-var4: Ohazhisa
+var1: Lyzeka
+var2: Arostida
+var3: Alvi
+var4: Imartrum
 
 Use this tool to generate names for characters in the world of Eberron. Select a "linguistic origin" from the drop-down list, then click "Generate Four Names." Please forgive any profane, inappropriate, or generally terrible names; this tool does not filter any "blacklist" words.
 
@@ -87,6 +87,8 @@ See also [[NPC appearance and personality generator]].
 
 The source name list I use to generate these names includes canon [[Aundair]]ian examples as well as some [[Khorvairian|Khorvaire]] [[elves|elf]] and [[gnome]]s. It also heavily pulls from a list of French names that were popular around 1900.
 
+See also: <<navAndScrollToHeader "Aundair" "Aundairian Names">>.
+
 </$reveal>
 
 <$reveal type="match" state="!!displaynameorigin" text="Cyre">
@@ -103,6 +105,8 @@ The source name list I use to generate these names includes nothing but Eberron 
 
 The source name list I use to generate these names includes canon [[Brelish|Breland]] examples, plus some [[goblinoid]], [[gnome]], and [[dwarf]] names. It also includes many old English names.
 
+See also: <<navAndScrollToHeader "Breland" "Brelish Names">>.
+
 </$reveal>
 
 <$reveal type="match" state="!!displaynameorigin" text="Karrnath">
@@ -111,6 +115,8 @@ The source name list I use to generate these names includes canon [[Brelish|Brel
 
 The source name list I use to generate these names includes canon [[Karrnathi|Karrnath]] examples, plus some [[dwarf]] and [[halfling]] names. It also includes many old German and Norwegian names.
 
+See also: <<navAndScrollToHeader "Karrnath" "Karrnathi Names">>.
+
 </$reveal>
 
 <$reveal type="match" state="!!displaynameorigin" text="Thrane">
@@ -118,6 +124,8 @@ The source name list I use to generate these names includes canon [[Karrnathi|Ka
 !! Thranish Names
 
 The source name list I use to generate these names includes canon [[Thranish|Thrane]] examples, plus some [[half-elf]] and [[dwarf]] names. It also includes many Italian names.
+
+See also: <<navAndScrollToHeader "Thrane" "Thrane Names">>.
 
 </$reveal>
 
@@ -236,3 +244,5 @@ This tool uses a Markov-chain-like approach to generating names, heavily inspire
 Essentially, a starting "syllable" is randomly chosen from a list. We look at the last letter of that syllable, and pull up a new list of potential syllables that tend to follow that letter. Some of those potential syllables are just an empty string (""), indicating the end of the name. Grab a random syllable from that list and repeat until we get a "" or we reach a certain maximum length. 
 
 There are other complications, like getting rid of non-approved duplicate letters, or occasionally jumping to a different syllable list; feel free to check out the source code at [[$:/plugins/wccbuck/action-generate-name.js]].
+
+If you're just looking for lists of names, I've tried to include some example names from both canon sources and elsewhere into the pages for selected nations or humanoids. For example, [[Zil|Zilargo]] names follow a very specific pattern; the [[gnome]] page elaborates on that and gives plenty of examples.

@@ -1,7 +1,7 @@
 category: occupation
 color: #A3CFBB
 created: 20201231211214338
-modified: 20220503195448729
+modified: 20230824224620671
 tags: 
 title: eldritch knight
 tooltip: warrior who combines martial mastery with arcane abjuration
@@ -11,6 +11,4 @@ An eldritch knight combines martial mastery with the careful study of [[arcane m
 
 Many different traditions of applying the arcane arts to melee combat exist. A practitioner of these varying arts may be known as a swordmage, duskblade, spellsword, battlemage, or other term.
 
-!
-
-!!! <<showtalent-type>>
+See also the talents [[Eldritch Knight (talent)]] and [[Weapon Bond]].

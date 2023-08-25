@@ -2,7 +2,7 @@ alternatetitle: drakatha Trothlorsvek
 category: creature
 color: #EA868F
 created: 20210207085610657
-modified: 20230815071522112
+modified: 20230824222829572
 tags: humanoid dragon
 tier: 1
 title: dragonborn
@@ -11,6 +11,8 @@ type: text/vnd.tiddlywiki
 var: uncommon
 
 "Born of [[dragon]]s," as their name proclaims, the dragonborn ([[Draconic]]: //drakatha//) walk proudly through a world that greets them with fearful incomprehension. While they originated in the mysterious continent of [[Argonnessen]], they are known to the people of [[Khorvaire]] as one of the "[[scales]]" of [[Q'barra]].
+
+If you'd like to play as a dragonborn, see [[Dragonborn (talent)]].
 
 !! Links to Headers
 * <<scrollToHeader "Dragonborn Biology">>

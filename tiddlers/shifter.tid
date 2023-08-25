@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200420185105830
-modified: 20230103233715499
+modified: 20230824224226478
 tags: humanoid
 tier: 1
 title: shifter
@@ -17,6 +17,8 @@ state they call shifting. Each shifter walks on the knife's
 edge between the wilds and the world around them.
 Do they embrace their primal instincts or the path of
 civilization? 
+
+If you'd like to play as a shifter, see [[Shifter (talent)]].
 
 !! Links to Headers
 * <<scrollToHeader "The Beast Within">>

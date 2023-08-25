@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414234116668
-modified: 20230815064944228
+modified: 20230824222918627
 tags: humanoid
 tier: 1
 title: elf
@@ -35,6 +35,8 @@ the origin of your elf character, consider your relationship with the past: Do y
 ancestors? Or do you fear that your people are too
 mired in the past, and need to find a way to adapt and
 move forward? 
+
+If you'd like to play as an elf, see [[Elf (talent)]].
 
 !! Links to Headers
 * <<scrollToHeader "Appearance and Longevity">>
