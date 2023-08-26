@@ -1,17 +1,17 @@
 category: phenomenon
 color: #432874
 created: 20201231231158726
-modified: 20220805231008035
+modified: 20230815065059149
 schoolname: spell school
 spellname: [[spell]]
 title: spell school
 tooltip: one of eight categories of arcane magic
 type: text/vnd.tiddlywiki
 
-Academies of magic group [[arcane|arcane magic]] [[spell]]s into eight categories called schools of magic, or "{{!!schoolname}}s". Each {{!!spellname}} cast by a [[wizard]] or [[magewright]] falls into one of these categories. 
+Academies of magic group [[arcane|arcane magic]] [[spell]]s into eight categories called schools of magic, or "{{!!schoolname}}s." Each {{!!spellname}} cast by a [[wizard]] or [[magewright]] falls into one of these categories. 
 
 <<list-links-article "[tag[spell school]sort[title]]">>
 
 Some arcane spellcasters focus on only a few schools of magic; for example, [[eldritch knight]]s typically cast only [[abjuration]] and [[evocation]] spells.
 
-However, not all magic is [[arcane|arcane magic]], and magic that is [[divine|divine magic]], [[primal|primal magic]], or [[psionic|psionics]] in nature may not even neatly fit into the category of "spell". But for spell-like phenomena in these categories, we can structure them in much the same way as arcane spells, with a "spell school" tag corresponding to their power source.
+However, not all magic is [[arcane|arcane magic]], and magic that is [[divine|divine magic]], [[primal|primal magic]], or [[psionic|psionics]] in nature may not even neatly fit into the category of "spell." But for spell-like phenomena in these categories, we can structure them in much the same way as arcane spells, with a "spell school" tag corresponding to their power source.

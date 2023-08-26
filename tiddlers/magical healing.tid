@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20220213005044674
-modified: 20230105212217207
+modified: 20230814211440926
 tags: Storyloom
 title: magical healing
 tooltip: documentation page for how magical healing works in the Storyloom system
@@ -16,3 +16,5 @@ However, some [[spell]]s, such as [[cure wounds]] or [[healing word]], or items 
 |3 (High) |Clear the target's first three [[harm]] boxes; recover from other harm 150% faster for 24 hours. |
 
 ...And so on. Note that magical healing only affects specific harm boxes. Low-impact magical healing can only clear the target's first box; if other harm boxes are filled, they are out of reach of the effect. This means players should fill their left-most harm boxes first so that they can be quickly restored by magical healing.
+
+When making an [[attempt|Taking Action]] to perform magical healing and you earn a [[mixed success]], consider taking "reduced impact" as a [[consequence]].

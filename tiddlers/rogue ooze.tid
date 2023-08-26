@@ -1,10 +1,10 @@
 category: object
 color: #41D5E1
 created: 20220712003127268
-modified: 20220712003347173
+modified: 20230815072357154
 tags: mobility tool summoning
 tier: 2
 title: rogue ooze
 type: text/vnd.tiddlywiki
 
-This potion flask contains a shadowy alchemical [[ooze]]. After it is released from the flask, the ooze persists for exactly 1 minute before it dissolves into a puddle of acidic goo. The ooze moves at a speed of about 1 mph in a general direction you specify ("north", or "down this corridor"). Whenever it comes within 10 feet of a trap, it moves to the trap and attempts to disable it with acid. 
+This potion flask contains a shadowy alchemical [[ooze]]. After it is released from the flask, the ooze persists for exactly 1 minute before it dissolves into a puddle of acidic goo. The ooze moves at a speed of about 1 mph in a general direction you specify ("north," or "down this corridor"). Whenever it comes within 10 feet of a trap, it moves to the trap and attempts to disable it with acid. 

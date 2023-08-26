@@ -1,7 +1,7 @@
 category: location
 color: #3B5C0A
 created: 20210321040308261
-modified: 20210727192038162
+modified: 20230825222128552
 polygons: 54.083,-49.09 53.908,-48.42 54.148,-48.16 54.037,-47.58 53.788,-47.32 53.418,-46.6 53.215,-46.02 53.511,-45.48 53.935,-45.66 53.972,-45.15 54.434,-44.5 54.988,-44.24 55.191,-44.55 55.468,-44.84 55.486,-45.37 55.698,-45.61 55.551,-46.25 55.338,-46.58 54.969,-46.58 55.431,-47.15 55.514,-47.91 55.172,-48.57 55.034,-49.37 54.415,-49.9 54.083,-49.09
 style: {"fillOpacity":"0","opacity":"0"}
 tags: island Frostfell
@@ -9,3 +9,5 @@ title: Tlalusk Island
 type: text/vnd.tiddlywiki
 
 Tlalusk Island lies in the [[Bitter Sea]], near [[Icewhite Island]]. It is named for its high concentration of [[tlalusk]]s, strange six-legged mammoth-like beasts which roam the island.
+
+Rumors suggest a hidden enclave of the [[Kraken's Brood]], the [[Devourer]]-worshiping cult within House [[Lyrandar]], can be found somewhere on the coast of Tlalusk Island.

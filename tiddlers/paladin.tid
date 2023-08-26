@@ -1,7 +1,7 @@
 category: occupation
 color: #A3CFBB
 created: 20200422061728282
-modified: 20220904171612610
+modified: 20230824215556832
 title: paladin
 tooltip: holy knight, champion of faith
 type: text/vnd.tiddlywiki
@@ -15,3 +15,7 @@ and those who join them in the fight for justice.
 !! Paladin Oaths
 
 <<list-links-article "[tag{!!title}category[talent]search:title[Oath]sort[title]]">>
+
+!
+
+!!! <<showtalent-type>>

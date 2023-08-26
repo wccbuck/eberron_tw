@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20200417064035970
-modified: 20230413203521293
+modified: 20230818150832610
 title: magic item
 tooltip: an object imbued with magic, grants capabilities to its user
 type: text/vnd.tiddlywiki
@@ -33,11 +33,11 @@ magic items, it’s using factories; your [[artificer]] is the equivalent of a t
 The first step in creating a magic item is to acquire a [[schema]] for it, which explains the process and components required to create the item. If you can obtain a schema—from House [[Cannith]], the mystical library of [[Arcanix]], the collection of an experienced [[artificer]]—you're ready to move on. Otherwise, you can //create// a schema, but this takes time and skill. The schema creation process can be categorized as a "research" [[downtime activity|Missions and Downtime]].
 
 |!Schema [[Rarity|rarity]] |!Average Completion Time |![[Challenge Tier|Challenge Tiers]] |
-|common |3 days | 1 |
-|uncommon |1 week | 2 |
-|rare |3 weeks | 3 |
-|epic |8 weeks | 4 |
-|legendary |16 weeks | 5 |
+|common |1 week | 2 |
+|uncommon |2 weeks | 3 |
+|rare |10 weeks | 4 |
+|epic |25 weeks | 5 |
+|legendary |50 weeks | 6 |
 
 This ability to develop a [[schema]] represents
 remarkable talent. It could take House [[Cannith]]

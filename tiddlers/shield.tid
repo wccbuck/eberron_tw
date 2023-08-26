@@ -1,11 +1,11 @@
 color: #1E868E
 created: 20220216201302670
-modified: 20220805202730687
+modified: 20230815072530704
 tags: 
 title: shield
 tooltip: tag for protective items held in the hand or strapped to the forearm
 type: text/vnd.tiddlywiki
 
-This tag indicates [[armor]] that is held in the hand or strapped to the forearm. For the spell sometimes called "shield", see [[aegis]].
+This tag indicates [[armor]] that is held in the hand or strapped to the forearm. For the spell sometimes called "shield," see [[aegis]].
 
 !!! <<showitem-type>>

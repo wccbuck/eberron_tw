@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200423003320414
-modified: 20230104002742552
+modified: 20230824223117374
 tags: humanoid monstrosity
 tier: 3
 title: medusa
@@ -10,6 +10,8 @@ type: text/vnd.tiddlywiki
 var: uncommon
 
 Medusas are scaly monstrous humanoids with writhing serpents in place of hair. They are known and feared for their gaze, which can turn any creature who meets it to [[stone|flesh to stone]].
+
+If you'd like to play as a medusa, see [[Medusa (talent)]].
 
 !! Links to Headers
 * <<scrollToHeader "Overview">>

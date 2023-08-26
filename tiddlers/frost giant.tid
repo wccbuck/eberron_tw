@@ -1,13 +1,29 @@
 category: creature
 color: #EA868F
 created: 20210108203037392
-modified: 20230424170924319
+modified: 20230823155452972
 tags: giant
 tier: 3
 title: frost giant
 tooltip: blue-skinned 21-foot-tall giant, covered in frost, value physical might
 type: text/vnd.tiddlywiki
 
-Frost [[giant]]s have hair and beards that are pale white or light blue, matted with frost and clattering with icicles. Their flesh is as blue as glacial ice, and their average height is around 21 ft. They reside in [[Everice]], as well as in northern [[Sarlona]] (the [[Icebinders]]), but the oldest among them dwell in [[Frostmantle]] on the [[plane]] of [[Risia]], led by the archarchanist [[Il'Ara]]. 
+Frost [[giant]]s have hair and beards that are pale white or light blue, matted with frost and clattering with icicles. Their flesh is as blue as glacial ice, and their average height is around 21 ft. Their natural lifespan is somewhere around 250 years.
+
+Frost giants reside in [[Everice]], as well as in northern [[Sarlona]] (the [[Icebinders]]), but the oldest among them dwell in [[Frostmantle]] on the [[plane]] of [[Risia]], led by the archarchanist [[Il'Ara]]. 
 
 The frost giants of [[Everice]] and the southern reaches of [[Xen'drik]] seem to respect brute strength above all else, and a giant's place in the social order depends on evidence of physical might. They often wrestle for dominance, an informal ceremony which can become a chaotic free-for-all which fells trees, shatters the ice on frozen lakes, and causes avalanches on the snowy mountainsides.
+
+!!! Frost Giant Names
+
+| !<<dr d10>> |!Name |
+| 1 |Estia |
+| 2 |Flakkar |
+| 3 |Grugnur |
+| 4 |Gurdrim |
+| 5 |Jokalla |
+| 6 |Kallen |
+| 7 |Luskig |
+| 8 |Rimna |
+| 9 |Storvald |
+| 10 |Thryggid |

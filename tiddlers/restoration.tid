@@ -3,7 +3,7 @@ category: spell
 color: #B7A1E0
 created: 20210207013108673
 highertier: show
-modified: 20230806182604291
+modified: 20230815070415144
 tags: abjuration
 tier: 2
 title: restoration
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 
 With a touch, you restore a creature's health by removing a temporary or mild affliction. These include temporary blindness or deafness, mild poisoning, or common [[disease]]s. 
 
-When this spell is cast at uncommon-[[tier|spell tier]], it is sometimes referred to as "lesser restoration".
+When this spell is cast at uncommon-[[tier|spell tier]], it is sometimes referred to as "lesser restoration."
 
 <$reveal type="match" state="!!highertier" text="show">
 

@@ -2,15 +2,17 @@ category: organization
 color: #052c65
 created: 20201222082557129
 list-before: 
-modified: 20220823205608660
+modified: 20230814215003890
 tags: [[secret society]]
 title: arcane order
 tooltip: a guild or council for arcane spellcasters
 type: text/vnd.tiddlywiki
 
-\define notaundair() [tag[Breland]] [tag[Thrane]] [tag[Cyre]] [tag[Karrnath]] [tag[Khorvaire]]
+\define notaundair() [tag[Breland]] [tag[Thrane]] [tag[Cyre]] [tag[Karrnath]] [tag[Khorvaire]] [tag[Breland]category[location]tagging[]] [tag[Thrane]category[location]tagging[]] [tag[Karrnath]category[location]tagging[]] [tag[Cyre]category[location]tagging[]]
 
-Arcane orders, sometimes known as "wizard circles", are guilds or councils for arcane spellcasters. These provide the magically gifted with sanctums to practice
+\define aundair() [tag[Aundair]] [tag[Aundair]category[location]tagging[]]
+
+Arcane orders, sometimes known as "wizard circles," are guilds or councils for arcane spellcasters. These provide the magically gifted with sanctums to practice
 their arts, share mystical knowledge, and debate the finer points of [[arcane theory]]. As the different circles focus on different types of magic,
 this also allows for a certain degree of control of the mystical market.
 
@@ -32,12 +34,12 @@ Beyond these material benefits, being a member of a wizard circle provides a sig
 
 Aundair has more arcane orders than anywhere else in the world. In many ways, arcane orders of [[Aundair]] serve as research arms of the [[Arcane Congress]]. Some orders receive research grants directly from the Congress, while in other cases, an order may operate independently and sell their discoveries to the Congress.
 
-<<list-links-article "[tag{!!title}tag[Aundair]category[organization]sort[title]]">>
+<<list-links-article "[subfilter<aundair>tag{!!title}category[organization]sort[title]]">>
 
 !!! Other Arcane Orders of the Five Nations
 
-<<list-links-article "[tag{!!title}subfilter<notaundair>category[organization]sort[title]]">>
+<<list-links-article "[subfilter<notaundair>tag{!!title}category[organization]sort[title]]">>
 
 !!! Arcane Orders Beyond Khorvaire
 
-<<list-links-article "[tag{!!title}!subfilter<notaundair>!tag[Aundair]category[organization]sort[title]]">>
+<<list-links-article "[!subfilter<notaundair>!subfilter<aundair>tag{!!title}category[organization]sort[title]]">>

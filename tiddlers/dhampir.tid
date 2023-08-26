@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20221207222446192
-modified: 20221207230828457
+modified: 20230824222811566
 tags: humanoid
 tier: 2
 title: dhampir
@@ -15,3 +15,5 @@ be created when an unborn child survives their parent being slain by a [[vampire
 !! Dhampir Adventurers
 
 With unique insights into the nature of the [[undead]], some dhampirs become adventurers and monster hunters. Their reasons are often deeply personal. Some seek danger, imagining monsters as personifications of their own hungers. Others pursue revenge against whatever turned them into a dhampir. And still others embrace the solitude of the hunt, striving to distance themselves from those who’d tempt their hunger.
+
+If you'd like to play as a dhampir, see [[Dhampir (talent)]].

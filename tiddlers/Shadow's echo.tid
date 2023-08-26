@@ -2,7 +2,7 @@ category: spell
 color: #B7A1E0
 created: 20221212190700302
 highertier: show
-modified: 20221212192335375
+modified: 20230815072446381
 tags: [[divine magic]] illusion
 tier: 3
 title: Shadow's echo
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 
 Channeling the mysteries of the [[Shadow]], you mirror a creature with its shadowy reflection. When a creature within 60 feet of you finishes casting a spell up to [[rare-tier|spell tier]] that doesn't have an ongoing duration, you can cast Shadow's echo instantly as a reaction. When you do so, you learn what that spell's [[tier|spell tier]] is, and you can choose to instantly cast a copy of that spell. If the spell normally deals damage, your shadowy copy deals [[psychic damage|damage type]].
 
-If the [[spell tier]] of the spell you are echoing is "rare", you must expend one additional spellcasting [[stress]] to echo that spell. After you learn the spell tier of the triggering spell, you can choose to abort Shadow's echo, regaining all but 1 spellcasting stress you spent casting it.
+If the [[spell tier]] of the spell you are echoing is "rare," you must expend one additional spellcasting [[stress]] to echo that spell. After you learn the spell tier of the triggering spell, you can choose to abort Shadow's echo, regaining all but 1 spellcasting stress you spent casting it.
 
 <$reveal type="match" state="!!highertier" text="show">
 

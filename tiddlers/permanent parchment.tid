@@ -1,14 +1,14 @@
 category: object
 color: #41D5E1
 created: 20220102014431466
-modified: 20220218180809298
+modified: 20230815072328176
 tags: convenience tool
 tier: 1
 title: permanent parchment
 type: text/vnd.tiddlywiki
 
-This violet piece of parchment is smooth and pleasant to write on. You can speak either of the parchment's command words, "lock" or "unlock", to lock or unlock the parchment, respectively. While locked, the sheet cannot be torn by hand, damaged by fire, or damaged by immersion in water, and any ink already on the page can't be removed, smeared, or otherwise changed without the use of magic. New ink added to a locked sheet of //permanent parchment// runs off the page like water. While unlocked, the parchment behaves like a nonmagical sheet of paper.
+This violet piece of parchment is smooth and pleasant to write on. You can speak either of the parchment's command words, "lock" or "unlock," to lock or unlock the parchment, respectively. While locked, the sheet cannot be torn by hand, damaged by fire, or damaged by immersion in water, and any ink already on the page can't be removed, smeared, or otherwise changed without the use of magic. New ink added to a locked sheet of //permanent parchment// runs off the page like water. While unlocked, the parchment behaves like a nonmagical sheet of paper.
 
-While unlocked, you can speak the the paper's third command word, "clear", to cause any ink on the sheet of parchment to magically evaporate without leaving any marks behind.
+While unlocked, you can speak the the paper's third command word, "clear," to cause any ink on the sheet of parchment to magically evaporate without leaving any marks behind.
 
 The [[language]] the parchment's command words must be spoken in is determined by the creator of the parchment.

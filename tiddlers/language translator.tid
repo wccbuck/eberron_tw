@@ -56,7 +56,7 @@ As you type your text below, the tool will translate it into your chosen languag
 
 <$reveal type="match" state="!!displaylanguage" text="Goblin">
 
-Note: This translation is for the modern language spoken in [[Darguun]], [[Droaam]], and across [[Khorvaire]]. Pronounce the translated words intuitively, emphasizing doubled vowels. However, when translating for the [[Heirs of Dhakaan]], replace "th" with "t", pronounce "z" as [["ɮ" (lezh)|https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_lateral_fricatives]], almost like an "L" and a "ZH" spoken simultaneously, and pronounce "lh" as [["ɫ" (belted l)|https://en.wikipedia.org/wiki/Voiceless_dental_and_alveolar_lateral_fricatives]], almost like an "L" and a "SH" spoken simultaneously.
+Note: This translation is for the modern language spoken in [[Darguun]], [[Droaam]], and across [[Khorvaire]]. Pronounce the translated words intuitively, emphasizing doubled vowels. However, when translating for the [[Heirs of Dhakaan]], replace "th" with "t," pronounce "z" as [["ɮ" (lezh)|https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_lateral_fricatives]], almost like an "L" and a "ZH" spoken simultaneously, and pronounce "lh" as [["ɫ" (belted l)|https://en.wikipedia.org/wiki/Voiceless_dental_and_alveolar_lateral_fricatives]], almost like an "L" and a "SH" spoken simultaneously.
 
 </$reveal>
 
@@ -68,39 +68,39 @@ Note: The Zilasalza "sz" sound is pronounced like an English "s," with your tong
 
 <$reveal type="match" state="!!displaylanguage" text="Riedran">
 
-Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.org/wiki/Aspirated_consonant]]. So tʰ is more like t+h, not like the English "th", and pʰ is pronounced p+h, not "f".
+Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.org/wiki/Aspirated_consonant]]. So tʰ is more like t+h, not like the English "th," and pʰ is pronounced p+h, not "f."
 
 </$reveal>
 
 <$reveal type="match" state="!!displaylanguage" text="Adaran">
 
-Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.org/wiki/Aspirated_consonant]]. So tʰ is more like t+h, not like the English "th", and pʰ is pronounced p+h, not "f". Also, the Adaran "X" is pronounced as [[ɕ|https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative]], which is kind of halfway between "s" and "sh". 
+Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.org/wiki/Aspirated_consonant]]. So tʰ is more like t+h, not like the English "th," and pʰ is pronounced p+h, not "f." Also, the Adaran "X" is pronounced as [[ɕ|https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative]], which is kind of halfway between "s" and "sh." 
 
 </$reveal>
 
 <$reveal type="match" state="!!displaylanguage" text="Syrk">
 
-Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.org/wiki/Aspirated_consonant]]. So tʰ is more like t+h, not like the English "th". Also, the Syrk "X" is pronounced as [[ɕ|https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative]], which is kind of halfway between "s" and "sh". 
+Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.org/wiki/Aspirated_consonant]]. So tʰ is more like t+h, not like the English "th." Also, the Syrk "X" is pronounced as [[ɕ|https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative]], which is kind of halfway between "s" and "sh." 
 
 </$reveal>
 
 <$reveal type="match" state="!!displaylanguage" text="Shedani">
 
-Note: The Shedani "X" is pronounced "dz". Also, the tool does not add punctuation, but apostrophes (pronounced as glottal stops) are commonly found in Shedani words; feel free to add them in after vowels, Ns, Ls, and Ds as you see fit. The [[Vulkoor]]i language group (which includes the [[Qaltiu|Qaltiar]]) uses more apostrophes than the [[Sulatu|Sulatar]] language group, and the Sulatu tends to use more j's than the Vulkoori.
+Note: The Shedani "X" is pronounced "dz." Also, the tool does not add punctuation, but apostrophes (pronounced as glottal stops) are commonly found in Shedani words; feel free to add them in after vowels, Ns, Ls, and Ds as you see fit. The [[Vulkoor]]i language group (which includes the [[Qaltiu|Qaltiar]]) uses more apostrophes than the [[Sulatu|Sulatar]] language group, and the Sulatu tends to use more j's than the Vulkoori.
 
 </$reveal>
 
 !! About This Tool
 
-For all words that aren't returned by just looking up a translated word in a dictionary, this tool generates a "gibberish" translation. The way that works is: each word you type is broken down into consonant blocks and vowel blocks. I've also got lists of consonant/vowel blocks for each fantasy language. Each word block is assigned a number by feeding it into a hash function. The word block's hash code gets a little extra shuffling and scrambling, so that each English syllable doesn't always give you the same fantasy language syllable (though you can turn that feature off by clicking the "Syllable Shuffling" checkbox; see the section below for an explanation). That hash code is then reduced to a number within the range of my consonant/vowel block lists by using its [[digital root|https://en.wikipedia.org/wiki/Digital_root]]. That root is then used as an index to determine which fantasy word block to use. Also, sometimes one word block is added or removed; this isn't decided randomly, but rather by the hash code of the whole word. So this tool is not random in any way, it's always gonna give you the same result for the same words, but it's much more complicated than a direct letter cipher (e.g. "a" = "uu", "b" = "sh", etc.)
+For all words that aren't returned by just looking up a translated word in a dictionary, this tool generates a "gibberish" translation. The way that works is: each word you type is broken down into consonant blocks and vowel blocks. I've also got lists of consonant/vowel blocks for each fantasy language. Each word block is assigned a number by feeding it into a hash function. The word block's hash code gets a little extra shuffling and scrambling, so that each English syllable doesn't always give you the same fantasy language syllable (though you can turn that feature off by clicking the "Syllable Shuffling" checkbox; see the section below for an explanation). That hash code is then reduced to a number within the range of my consonant/vowel block lists by using its [[digital root|https://en.wikipedia.org/wiki/Digital_root]]. That root is then used as an index to determine which fantasy word block to use. Also, sometimes one word block is added or removed; this isn't decided randomly, but rather by the hash code of the whole word. So this tool is not random in any way, it's always gonna give you the same result for the same words, but it's much more complicated than a direct letter cipher (e.g. "a" = "uu," "b" = "sh," etc.)
 
 Also, if a gibberish word just happens to already be a defined word in the dictionary, the tool passes it back through the translate function. But it only does this once, so it's possible to get homonyms, rarely.
 
-Apostrophes in the output text are only seen in the case of direct dictionary lookups (like in [[Goblin]], "nine" = "gath'mokaas"), but the gibberish generator will not add punctuation of any kind. There's one exception: the [[Azhani]] vowel list includes "i'i" and "a'a".
+Apostrophes in the output text are only seen in the case of direct dictionary lookups (like in [[Goblin]], "nine" = "gath'mokaas"), but the gibberish generator will not add punctuation of any kind. There's one exception: the [[Azhani]] vowel list includes "i'i" and "a'a."
 
 Some languages, like [[Riedran]] and [[Adaran]], are canonically closely linguistically related. To reflect this, I've made some lists of shared consonants that both languages pull from. This means occasionally when switching between two related languages, you'll get translated words that seem pretty similar. For example, "cliff" translates to "vist" in [[Talentan]], and "vrost" in [[Dethek]]; and "sentence" translates to "cloghiepha" in [[Aerenese]], and "kulugafa" in [[Shedani]].
 
-Also, in cases where a language is canonically related to [[Common]], sometimes the consonants you put in are the same as the ones you put out. For example, the Dethek translation of "hello" is "hellar".
+Also, in cases where a language is canonically related to [[Common]], sometimes the consonants you put in are the same as the ones you put out. For example, the Dethek translation of "hello" is "hellar."
 
 Source code here: [[$:/plugins/wccbuck/action-generate-gibberish.js]]
 

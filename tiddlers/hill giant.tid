@@ -1,13 +1,29 @@
 category: creature
 color: #EA868F
 created: 20210108201543018
-modified: 20230424170702215
+modified: 20230823155045394
 tags: giant
 tier: 2
 title: hill giant
 tooltip: stocky 16-foot-tall giant, tend to be dim-witted
 type: text/vnd.tiddlywiki
 
-Hill [[giant]]s are brutes that hunt, forage, and raid in constant search of food. They resemble huge, squat [[human]]s or [[half-orc]]s, and have a reputation for being selfish and dim-witted. Their average height is around 16 feet.
+Hill [[giant]]s are brutes that hunt, forage, and raid in constant search of food. They resemble huge, squat [[human]]s or [[half-orc]]s, and have a reputation for being selfish and dim-witted. Their average height is around 16 feet, and their average lifespan is around 200 years.
+
+!!! Hill Giant Names
+
+| !<<dr d10>> |!Name |
+| 1 |Adj |
+| 2 |Bor |
+| 3 |Cug |
+| 4 |Dop |
+| 5 |Gug |
+| 6 |Kru |
+| 7 |Moog |
+| 8 |Noad |
+| 9 |Paff |
+| 10 |Tig |
+
+!! Jungle Giants
 
 A variety of hill giant known as a ''jungle giant'' inhabits the [[Jungles of Xen'drik]]. Pale green hair grows in short tufts over its barklike scalp and down its back and arms. They tend to be reclusive, and have a knack for [[primal magic]].

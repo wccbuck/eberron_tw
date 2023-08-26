@@ -2,7 +2,7 @@ alternatetitle: Khoravar
 category: creature
 color: #EA868F
 created: 20200415173654759
-modified: 20221209080815259
+modified: 20230824070743846
 tags: humanoid
 tier: 1
 title: half-elf
@@ -34,6 +34,14 @@ were born in a Khoravar community, or if your parents
 were members of different races. Is your half-elf identity
 a source of pride, a simple fact of life, or something that
 has been difficult for you? 
+
+!! Links to Headers
+* <<scrollToHeader "Appearance and Longevity">>
+* <<scrollToHeader "Khoravar">>
+** <<scrollToHeader "Khoravar Names">>
+* <<scrollToHeader "Half-Elves and Dragonmarks">>
+* <<scrollToHeader "Notes">>
+
 
 !! Appearance and Longevity
 
@@ -89,6 +97,15 @@ range of options to describe your backstory. The table below can provide inspira
 | 8 |You're part of a tiny community of Khoravar living in an unexpected place, such as [[Droaam]], [[Darguun]], or even the [[Demon Wastes]]. Your people strive to find common ground with the native population. |
 | 9 |You are associated with House [[Lyrandar]] or House [[Medani]], but you're more interested in the role the house plays in supporting Khoravar communities than in the work of its guilds. |
 | 10 |You ride with the [[Valenar|Valaes Tairn]], hoping one day to prove that you are worthy of taking on a [[patron ancestor]]. |
+
+!!! Khoravar Names
+
+Khoravar names derive from both [[Galifar]]an and [[Aerenese]] origin, but they have developed into something completely separate from their cultural origins. The below examples are drawn from canon sources and elsewhere.
+
+''//Masculine names://'' Araust, Arimart, Bala, Enilam, Heitham, Hienlo, Ivello, Laustian, Morys, Quarino, Samino, Silaeo, Sovelom, Taelon, Tham, Thariv
+
+''//Feminine names://'' Anastrina, Andrielle, Drusila, Eira, Fellise, Ieleen, Leshara, Lialee, Mia, Nivara, Shanara, Silloene, Theira, Valanthea, Xanaph, Zarza
+
 
 !! Half-Elves and Dragonmarks
 

@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20210405001117884
-modified: 20230616174812803
+modified: 20230814204128118
 points: 43.182,-2.82
 style: {"color": "#CA5700"}
 tags: town Thrane
@@ -9,4 +9,4 @@ title: Sharavacion
 tooltip: town in Thrane
 type: text/vnd.tiddlywiki
 
-Sharavacion is a town in [[Thrane]], near [[Sigilstar]].
+Sharavacion is a town in [[Thrane]], near [[Sigilstar]]. It is named after the first [[Keeper of the Flame]], Maliah Sharavaci.

@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200423033429015
-modified: 20230620195115950
+modified: 20230824223241331
 tags: dragon humanoid
 tier: 1
 title: kobold
@@ -10,6 +10,8 @@ type: text/vnd.tiddlywiki
 var: uncommon
 
 Kobolds are tribal reptilian [[humanoid]]s about the same size as [[goblin]]s. They historically worshiped [[dragon]]s and dwelled in subterranean tunnels, making complex traps to protect their lairs.
+
+If you'd like to play as a kobold, see [[Goblin/Kobold (talent)]].
 
 <<<
 Take note that most of the broad statements made about kobolds on this page, particularly the belief in a direct connection to the [[Progenitor Dragons]], apply primarily to the kobolds of the [[Seawall Mountains]], which are the group most thoroughly studied by sages of the [[Five Nations]].

@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210112073611930
-modified: 20220725021747849
+modified: 20230824215212553
 tags: yuan-ti humanoid monstrosity
 tier: 1
 title: yuan-ti pureblood
@@ -34,3 +34,5 @@ Generate
 ''Pureblood:'' The yuan-ti closely resembles a human with {{!!y_hskin1}} skin, {{!!y_tongue1}} <$list filter="[all[current]get[y_pure]split[ ]nth[1]search[2]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[2]]" variable="noop">forked </$list>tongue<$list filter="[all[current]get[y_pure]split[ ]nth[1]search[1]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[1]]" variable="noop"> behind snakelike fangs</$list>, and <$list filter="[all[current]get[y_pure]split[ ]nth[1]search[3]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[3]]" variable="noop">serpentine </$list>{{!!y_eye1}} eyes. <$list filter="[subfilter{!!y_pure_scaly}nth[1]]" variable="noop">Despite otherwise smooth human-like skin, the yuan-ti also has patches of {{!!y_sp1}} {{!!y_sc1}} scales on its<$list filter="[all[current]get[y_pure]split[ ]nth[1]search[5]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[5]]" variable="noop"> face<$list filter="[all[current]get[y_pure]split[ ]nth[1]search[4]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[4]]" variable="noop">,</$list><$list filter="[all[current]get[y_pure]split[ ]nth[1]search[6]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[6]]" variable="noop"> and</$list></$list><$list filter="[all[current]get[y_pure]split[ ]nth[1]search[6]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[6]]" variable="noop"> torso<$list filter="[all[current]get[y_pure]split[ ]nth[1]search[4]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[4]]" variable="noop">,</$list></$list><$list filter="[all[current]get[y_pure]split[ ]nth[1]search[4]] [all[current]search:y_puredouble[7]get[y_pure]split[ ]nth[2]search[4]]" emptyMessage="." variable="noop"> arms and hands.</$list></$list>
 
 <<<
+
+See also [[Yuan-Ti Pureblood (talent)]].
