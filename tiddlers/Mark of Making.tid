@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20200415043011224
-modified: 20230606185904041
+modified: 20230825224542350
 tags: dragonmark
 title: Mark of Making
 tooltip: human dragonmark, House Cannith, allows wielder to create or mend objects
@@ -22,4 +22,4 @@ See also [[Mark of Making (talent)]].
 
 The following [[dragonmark focus item]]s require a {{!!title}}.
 
-<<list-links-article "[tag[dragonmark focus item]] -[tag[dragonmark]!title{!!title}tagging[]] +[sort[title]]">>
+<<list-links-article "[tag[dragonmark focus item]] -[tag[dragonmark]!title{!!title}tagging[]] -[+[sort[title]]">>

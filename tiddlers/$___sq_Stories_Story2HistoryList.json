@@ -2097,5 +2097,644 @@
             "bottom": 173.546875,
             "height": 17
         }
+    },
+    {
+        "title": "Harmattan",
+        "fromPageRect": {
+            "top": 488.828125,
+            "left": 837.25,
+            "width": 77.015625,
+            "right": 914.265625,
+            "bottom": 505.828125,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Eberron TW Updater",
+        "fromPageRect": {
+            "top": 156.546875,
+            "left": 804.453125,
+            "width": 146.859375,
+            "right": 951.3125,
+            "bottom": 173.546875,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Gatherhold",
+        "fromPageRect": {
+            "top": 308.3125,
+            "left": 43,
+            "width": 75.75,
+            "right": 118.75,
+            "bottom": 324.3125,
+            "height": 16
+        }
+    },
+    {
+        "title": "Draft of 'Gatherhold'"
+    },
+    {
+        "title": "Gatherhold"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Eberron TW Updater",
+        "fromPageRect": {
+            "top": 156.546875,
+            "left": 804.453125,
+            "width": 146.859375,
+            "right": 951.3125,
+            "bottom": 173.546875,
+            "height": 17
+        }
+    },
+    {
+        "title": "Voice of Aureon",
+        "fromPageRect": {
+            "top": 484.234375,
+            "left": 815.59375,
+            "width": 114.5,
+            "right": 930.09375,
+            "bottom": 501.234375,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'Voice of Aureon 1'"
+    },
+    {
+        "title": "Dragon's Path"
+    },
+    {
+        "title": "Elar d'Thuranni",
+        "fromPageRect": {
+            "top": 608.390625,
+            "left": 100.09375,
+            "width": 108.40625,
+            "right": 208.5,
+            "bottom": 625.390625,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'Elar d'Thuranni 1'"
+    },
+    {
+        "title": "Eriz d'Thuranni"
+    },
+    {
+        "title": "Draft of 'Eriz d'Thuranni 1'"
+    },
+    {
+        "title": "Ureilya d'Thuranni"
+    },
+    {
+        "title": "Eberron TW Updater",
+        "fromPageRect": {
+            "top": 492.359375,
+            "left": 1460.328125,
+            "width": 137.0625,
+            "right": 1597.390625,
+            "bottom": 508.359375,
+            "height": 16
+        }
+    },
+    {
+        "title": "Changelog",
+        "fromPageRect": {
+            "top": 469.578125,
+            "left": 1460.328125,
+            "width": 71.046875,
+            "right": 1531.375,
+            "bottom": 485.578125,
+            "height": 16
+        }
+    },
+    {
+        "title": "Medani prophet",
+        "fromPageRect": {
+            "top": 412.03125,
+            "left": 789.140625,
+            "width": 114.015625,
+            "right": 903.15625,
+            "bottom": 429.03125,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'Voice of Aureon 1'"
+    },
+    {
+        "title": "Sheltering Storm"
+    },
+    {
+        "title": "Changelog",
+        "fromPageRect": {
+            "top": 58.5,
+            "left": 1277.03125,
+            "width": 32.890625,
+            "right": 1309.921875,
+            "bottom": 97.984375,
+            "height": 39.484375
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Malena d'Lyrandar",
+        "fromPageRect": {
+            "top": 293.6875,
+            "left": 1103.46875,
+            "width": 131.6875,
+            "right": 1235.15625,
+            "bottom": 310.6875,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'Malena d'Lyrandar 1'"
+    },
+    {
+        "title": "Taelyn Lyrandar"
+    },
+    {
+        "title": "Changelog",
+        "fromPageRect": {
+            "top": 492.359375,
+            "left": 1460.328125,
+            "width": 71.046875,
+            "right": 1531.375,
+            "bottom": 508.359375,
+            "height": 16
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Dragon's Path",
+        "fromPageRect": {
+            "top": 188.3125,
+            "left": 949.59375,
+            "width": 99.84375,
+            "right": 1049.4375,
+            "bottom": 205.3125,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'Dragon's Path'"
+    },
+    {
+        "title": "Dragon's Path"
+    },
+    {
+        "title": "Labyrinth (enclave)",
+        "fromPageRect": {
+            "top": 194.234375,
+            "left": 177.421875,
+            "width": 68.984375,
+            "right": 246.40625,
+            "bottom": 211.234375,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'Labyrinth (enclave)'"
+    },
+    {
+        "title": "Labyrinth (enclave)"
+    },
+    {
+        "title": "Lysse Lyrriman d'Sivis",
+        "fromPageRect": {
+            "top": 58.25,
+            "left": 577.859375,
+            "width": 32.890625,
+            "right": 610.75,
+            "bottom": 97.734375,
+            "height": 39.484375
+        }
+    },
+    {
+        "title": "Draft of 'Lysse Lyrriman d'Sivis 1'"
+    },
+    {
+        "title": "Kendal Santor d'Sivis"
+    },
+    {
+        "title": "Draft of 'Kendal Santor d'Sivis 1'"
+    },
+    {
+        "title": "Kendal Santor d'Sivis",
+        "fromPageRect": {
+            "top": 515.140625,
+            "left": 1460.328125,
+            "width": 190.59375,
+            "right": 1650.921875,
+            "bottom": 531.140625,
+            "height": 16
+        }
+    },
+    {
+        "title": "Draft of 'Kendal Santor d'Sivis'"
+    },
+    {
+        "title": "Kendal Santor d'Sivis"
+    },
+    {
+        "title": "Draft of 'Kendal Santor d'Sivis'"
+    },
+    {
+        "title": "Kendal Santor d'Sivis"
+    },
+    {
+        "title": "Syla Syrralan d'Sivis"
+    },
+    {
+        "title": "Draft of 'Syla Syrralan d'Sivis'"
+    },
+    {
+        "title": "Syla Syrralan d'Sivis"
+    },
+    {
+        "title": "Changelog",
+        "fromPageRect": {
+            "top": 563.484375,
+            "left": 1460.328125,
+            "width": 71.046875,
+            "right": 1531.375,
+            "bottom": 579.484375,
+            "height": 16
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Eberron TW Updater",
+        "fromPageRect": {
+            "top": 157.125,
+            "left": 804.453125,
+            "width": 146.859375,
+            "right": 951.3125,
+            "bottom": 174.125,
+            "height": 17
+        }
+    },
+    {
+        "title": "Batwigg the Vole",
+        "fromPageRect": {
+            "top": 436.8125,
+            "left": 789.140625,
+            "width": 123.171875,
+            "right": 912.3125,
+            "bottom": 453.8125,
+            "height": 17
+        }
+    },
+    {
+        "title": "Changelog",
+        "fromPageRect": {
+            "top": 563.484375,
+            "left": 1460.328125,
+            "width": 71.046875,
+            "right": 1531.375,
+            "bottom": 579.484375,
+            "height": 16
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Eberron TW Updater",
+        "fromPageRect": {
+            "top": 586.265625,
+            "left": 1460.328125,
+            "width": 137.0625,
+            "right": 1597.390625,
+            "bottom": 602.265625,
+            "height": 16
+        }
+    },
+    {
+        "title": "Ryla d'Ghallanda",
+        "fromPageRect": {
+            "top": 556.8125,
+            "left": 789.140625,
+            "width": 119.6875,
+            "right": 908.828125,
+            "bottom": 573.8125,
+            "height": 17
+        }
+    },
+    {
+        "title": "Changelog",
+        "fromPageRect": {
+            "top": 563.484375,
+            "left": 1460.328125,
+            "width": 71.046875,
+            "right": 1531.375,
+            "bottom": 579.484375,
+            "height": 16
+        }
+    },
+    {
+        "title": "Eberron TW Updater",
+        "fromPageRect": {
+            "top": 157.125,
+            "left": 804.453125,
+            "width": 146.859375,
+            "right": 951.3125,
+            "bottom": 174.125,
+            "height": 17
+        }
+    },
+    {
+        "title": "Eberron TW Updater",
+        "fromPageRect": {
+            "top": 563.484375,
+            "left": 1460.328125,
+            "width": 137.0625,
+            "right": 1597.390625,
+            "bottom": 579.484375,
+            "height": 16
+        }
+    },
+    {
+        "title": "Syla Syrralan d'Sivis",
+        "fromPageRect": {
+            "top": 426.796875,
+            "left": 1460.328125,
+            "width": 132.734375,
+            "right": 1593.0625,
+            "bottom": 442.796875,
+            "height": 16
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog",
+        "fromPageRect": {
+            "top": 43,
+            "left": 577.859375,
+            "width": 32.890625,
+            "right": 610.75,
+            "bottom": 82.484375,
+            "height": 39.484375
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Draft of 'Changelog'",
+        "fromPageRect": {
+            "top": 492.359375,
+            "left": 1460.328125,
+            "width": 135.03125,
+            "right": 1595.359375,
+            "bottom": 508.359375,
+            "height": 16
+        }
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Changelog",
+        "fromPageRect": {
+            "top": 492.359375,
+            "left": 1460.328125,
+            "width": 71.046875,
+            "right": 1531.375,
+            "bottom": 508.359375,
+            "height": 16
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Handlers Guild",
+        "fromPageRect": {
+            "top": 313.5,
+            "left": 109.453125,
+            "width": 105.40625,
+            "right": 214.859375,
+            "bottom": 330.5,
+            "height": 17
+        }
+    },
+    {
+        "title": "Deathsgate",
+        "fromPageRect": {
+            "top": 326.109375,
+            "left": 1436.3125,
+            "width": 316.15625,
+            "right": 1752.46875,
+            "bottom": 346.109375,
+            "height": 20
+        }
+    },
+    {
+        "title": "Torlan Mroranon",
+        "fromPageRect": {
+            "top": 43,
+            "left": 577.859375,
+            "width": 32.890625,
+            "right": 610.75,
+            "bottom": 82.484375,
+            "height": 39.484375
+        }
+    },
+    {
+        "title": "Draft of 'Torlan Mroranon 1'"
+    },
+    {
+        "title": "Kordran Mror"
+    },
+    {
+        "title": "Draft of 'Kordran Mror'"
+    },
+    {
+        "title": "Kordran Mror"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Diraz d'Jorasco",
+        "fromPageRect": {
+            "top": 294.53125,
+            "left": 789.140625,
+            "width": 582.390625,
+            "right": 1371.53125,
+            "bottom": 333.53125,
+            "height": 39
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Alirrin Shir",
+        "fromPageRect": {
+            "top": 272.53125,
+            "left": 1009.984375,
+            "width": 77.5625,
+            "right": 1087.546875,
+            "bottom": 289.53125,
+            "height": 17
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "animal messenger",
+        "fromPageRect": {
+            "top": 370.109375,
+            "left": 1436.3125,
+            "width": 204,
+            "right": 1640.3125,
+            "bottom": 390.109375,
+            "height": 20
+        }
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Draft of 'Changelog'"
+    },
+    {
+        "title": "Changelog"
+    },
+    {
+        "title": "Eberron TW Updater",
+        "fromPageRect": {
+            "top": 404.015625,
+            "left": 1460.328125,
+            "width": 137.0625,
+            "right": 1597.390625,
+            "bottom": 420.015625,
+            "height": 16
+        }
     }
 ]

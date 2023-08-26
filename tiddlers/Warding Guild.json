@@ -1,13 +1,14 @@
 [
     {
         "created": "20210212053054492",
-        "title": "Warding Guild",
         "text": "The Warding Guild of [[Kundarak]] is best known as the licensing authority for locksmiths, but it also includes magical warders and some security guards. House\n[[Kundarak]] and House [[Deneith]] have a tacit agreement:\nGuarding //things// is the domain of House Kundarak,\nand guarding //people// is that of House Deneith.\n\n!! The Golden Door\n\nThis division of the Warding Guild is responsible for\nelaborate security devices, such as\ncomplex locks and magic wards.\nAffordable only by the very rich,\nmost of its work is performed on\nbehalf of Kundarak itself or other\n[[dragonmarked house]]s.\n\n!! The Iron Gate\n\nAlso part of the Warding Guild, the Iron Gate (not to be confused with the [[Iron Gate]] of the [[Unity]] of [[Riedra]]) supplies guards to augment the security devices of the Golden Door. Members of the Iron Gate keep a low profile and are rarely seen beyond the locations they guard. Although they avoid taking jobs for which House [[Deneith]]’s [[Defenders Guild]] is better suited, they do provide bodyguards for most of the important clan lords of the [[Mror Holds]].",
-        "modified": "20210727192041755",
+        "title": "Warding Guild",
+        "modified": "20230825233820773",
         "tags": "[[trade guild]] Kundarak",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "organization",
-        "color": "#9EC5FE"
+        "color": "#9EC5FE",
+        "alternatetitle": "Iron Gate Golden Door"
     }
 ]
