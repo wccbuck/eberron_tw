@@ -637,47 +637,48 @@
         "title": "$:/plugins/sq/Stories/changelog"
     },
     {
-        "title": "Sasik d'Vadalis",
+        "title": "The Reavers of Harkenwold",
         "fromPageRect": {
-            "top": 233.109375,
-            "left": 1149.03125,
-            "width": 106.34375,
-            "right": 1255.375,
-            "bottom": 250.109375,
-            "height": 17
-        }
-    },
-    {
-        "title": "Silver Flame",
-        "fromPageRect": {
-            "top": 28,
-            "left": 549.421875,
+            "top": 59.921875,
+            "left": 871.015625,
             "width": 32.890625,
-            "right": 582.3125,
-            "bottom": 67.484375,
-            "height": 39.484375
+            "right": 903.90625,
+            "bottom": 99.375,
+            "height": 39.453125
         }
     },
     {
-        "title": "Sejra Whitebinder",
+        "title": "Draft of 'The Reavers of Harkenwold'"
+    },
+    {
+        "title": "The Reavers of Harkenwold"
+    },
+    {
+        "title": "Draft of 'The Reavers of Harkenwold'"
+    },
+    {
+        "title": "The Reavers of Harkenwold"
+    },
+    {
+        "title": "The Reavers of Harkenwold",
         "fromPageRect": {
-            "top": 286.109375,
-            "left": 1379.4375,
-            "width": 336.75,
-            "right": 1716.1875,
-            "bottom": 306.109375,
-            "height": 20
+            "top": 440.46875,
+            "left": 43.2421875,
+            "width": 145.859375,
+            "right": 189.1015625,
+            "bottom": 458.45703125,
+            "height": 17.98828125
         }
     },
     {
-        "title": "Mazin Tana",
+        "title": "The Reavers of Harkenwold",
         "fromPageRect": {
-            "top": 338.859375,
-            "left": 849.484375,
-            "width": 74.234375,
-            "right": 923.71875,
-            "bottom": 354.859375,
-            "height": 16
+            "top": 440.46875,
+            "left": 43.2421875,
+            "width": 145.859375,
+            "right": 189.1015625,
+            "bottom": 458.45703125,
+            "height": 17.98828125
         }
     }
 ]
