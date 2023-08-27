@@ -1,6 +1,6 @@
 category: note
 created: 20220302010115523
-modified: 20230814165120096
+modified: 20230827185000772
 tags: 
 title: Future Adventure Prep
 type: text/vnd.tiddlywiki
@@ -23,9 +23,12 @@ Brelish town names: Finnseat, Breyreach, Molstep, Grasshollow, Wex
 ** <<scrollToHeader "Conclusion">>
 * <<scrollToHeader "Sharn">>
 ** <<scrollToHeader "Sharn Adventures Worth Considering">>
+** <<scrollToHeader "Areas Around the Citadel of the Sun">>
+** <<scrollToHeader "Misc Sharn Thoughts">>
 * <<scrollToHeader "Thrane">>
 * <<scrollToHeader "Eventually">>
 * <<scrollToHeader "Long-Term Plans">>
+
 
 !! General Adventure Ideas Alita Wants
 
@@ -114,7 +117,7 @@ Have one order that offers something like health insurance to its members. Every
 
 After this mission, Arien returns to Starilaskur, and talks with Sejra. Sejra wants Arien to travel to Sharn, to the [[templar]] Commandery there, to explore and develop her connection to the Silver Flame. The [[Preceptor|Cadoc Belmin]] expresses resistance to this idea, saying that [[Ythana Morr]] is notoriously corrupt. Sejra replies that Arien wouldn't be reporting to the Archierophant anyway, she could report to Ser Silloene, the Commander of Breland. And there are other great Flamist spiritual guides in Sharn, like Flamebearer [[Mazin Tana]], a personal friend of Sejra's.
 
-In the end, the Preceptor doesn't have a good argument for preventing Arien from going. But he does warn her that all Church of the Silver Flame leadership, even in Breland, and including the templar commander, are appointed by [[Thrane]]'s [[Council of Cardinals]]. He knows Arien has something special, but he's concerned that the Church will twist or corrupt her gift, or that the Thrane government will get involved. He wants to make sure she has a strong foundation in Sharn before she reaches out to the templars. The [[Devout of the Celestial Crown]] is the main [[liturgical council]] for [[Sharn]]. Belmin coordinates with them, and directs Arien to report to Aerela Tal at the [[Citadel of the Sun]] in [[Hope's Peak]], [[Upper Dura]]. (Conveniently, this district borders [[Clifftop]].)
+In the end, the Preceptor doesn't have a good argument for preventing Arien from going. But he does warn her that all Church of the Silver Flame leadership, even in Breland, and including the templar commander, are appointed by [[Thrane]]'s [[Council of Cardinals]]. He knows Arien has something special, but he's concerned that the Church will twist or corrupt her gift, or that the Thrane government will get involved. He wants to make sure she has a strong foundation in Sharn before she reaches out to the templars. The [[Devout of the Celestial Crown]] is the main [[liturgical council]] for [[Sharn]]. Belmin coordinates with them, and directs Arien to report to Aerela Tal (khoravar adept) at the [[Citadel of the Sun]] in [[Hope's Peak]], [[Upper Dura]]. (Conveniently, this district borders [[Clifftop]].)
 
 !! On the Way to Sharn
 
@@ -152,28 +155,47 @@ Aejar, as a prince, has the authority to appoint knights. (Knighthood is an hono
 
 !! Sharn
 
-Arien goes to [[Sharn]]. She is to check in with Archierophant [[Ythana Morr]] at the [[Cathedral of the Cleansing Flame]]. I also might need to make a [[templar]] Commander of Breland who has a headquarters in [[Sharn]] (could be that's where it historically is located because of the [[Malleon the Reaver]] wight thing). This Commander would have jurisdiction over [[Droaam]] too, technically, though in practice that means little. The Commander's assistants carry the title of marshal, and then beneath them everybody is just a "knight templar."
+Arien goes to [[Sharn]]. She is to check in with Aerela Tal at the [[Citadel of the Sun]], eventually go talk to [[Mazin Tana]] at [[Coldflame Keep]]. I also might need to make a [[templar]] Commander of Breland who has a headquarters in [[Sharn]] (could be that's where it historically is located because of the [[Malleon the Reaver]] wight thing). This Commander would have jurisdiction over [[Droaam]] too, technically, though in practice that means little. The Commander's assistants carry the title of marshal, and then beneath them everybody is just a "knight templar."
 
 [[Silver Flame]] church stuff could be the start to some cool adventures. But when she's in Sharn, she needs a way to make money; joins [[Clifftop Adventurers' Guild]]. Do the "Sharn chicken" scene from Fired and Forgotten. 
 
 Might need to push back the [[Race of Eight Winds]] since Arien might arrive right after it canonically happens.
 
-Could do something with [[Fathen's Fall]], Barrakas 25.
-
 !!! Sharn Adventures Worth Considering
 
-* Delirium Stone (see below)
-* Fallen Angel (Dungeon 117)
-* Fired and Forgotten (Convergence Manifesto)
-* Curtain Call (DMs Guild)
-* Steel Shadows (Dungeon 115)
-* Murder in Oakbridge (Dungeon 129)
+* ''Delirium Stone'' (see below)
+* ''Fallen Angel'' (Dungeon 117)
+* ''Fired and Forgotten'' (Convergence Manifesto): [[Clifftop Adventurers Guild]], retrieve an artifact from the Cogs, but have to deal with a warforged labor strike first
+* ''Curtain Call'' (DMs Guild)
+* ''Steel Shadows'' (Dungeon 115)
+* ''Murder in Oakbridge'' (Dungeon 129)
 * Viktor Saint-Demain
+** ''Chimes at Midnight'': Should happen close to [[Wildnight]] in [[Sypheros]] since that's when the climax of the story happens
+** ''Quoth the Raven'': Happens during winter. Before this, a mysterious explosion in the Cogs caused a huge ongoing fire that has blanketed the city in smoke (moody backdrop)
+** ''Hell's Heart'':
 * "First Campaign" adventures (require editing):
-** The Forgotten Forge
-** Shadows of the Last War
-** Whispers of the Vampire's Blade
-** Grasp of the Emerald Claw
+** ''The Forgotten Forge'' (ECS): Find the body of [[Bonal Geldem]], who was researching a [[schema]] which both agents of the [[Lord of Blades]] and [[Merrix d'Cannith]] want. Need to go into the sewers, encounter [[Skakan]], go into [[Old Sharn]], find an old [[Cannith]] foundry, face [[Saber]] and [[Cutter]]
+** ''Shadows of the Last War'': Look for another part of the schema, this time contending with agents of the [[Emerald Claw]]. But we don't stay in [[Sharn]], we travel to [[Darguun]] to find the location of [[Whitehearth]] in the [[Mournland]]
+** ''Whispers of the Vampire's Blade'': Back to Sharn, need to find an agent of the Dark Lanterns who's gone rogue (Lucan Stellos), and stolen some ancient magic longsword. Turns out some "psionic vampire" compelled him to do it. Adventure goes to Trolanport, an airship, Thrane
+** ''Grasp of the Emerald Claw'': Go to Stormreach, then into Xen'drik
+
+!!! Areas Around the Citadel of the Sun
+
+The [[Citadel of the Sun]] is in [[Hope's Peak]]. There is also a temple of the [[Silver Flame]] here, no details for it though. "While most of the priests of the region are devout enough, this is Dura, and pragmatism abounds. If a party of adventurers knows who to talk to and how to approach them, divine miracles can be bought outright."
+
+[[High Hope]] and [[Coldflame Keep]] are over in [[Northedge]]; might consider swapping it out for the temple that's supposed to be here in Hope's Peak.
+
+[[Clifftop]] to the north, lots to do there.
+
+[[Highwater]] to the northwest, [[Pegasus Spire]]
+
+[[Redstone]] to the southwest, just a residential area
+
+[[Hareth's Folly]] below; [[Callestan]] not that far away
+
+!!! Misc Sharn Thoughts
+
+Could do something with [[Fathen's Fall]], Barrakas 25.
 
 At some point, [[Roak]] visits. He's become a member of the [[Broken Blade]] in the interim, and he is learning smithing techniques; he hopes to become a swordmaster someday. He wants to visit the [[Pool of Onatar's Tears]].
 
@@ -196,7 +218,7 @@ Eventually, she realizes her power comes from a [[celestial]] of [[Fernia]], who
 * Another shrink-down adventure involving [[brigganock]]s.
 ** Brigganock names: Trig, Zarli, Oyla, Golmo, Obud (lives in a hut on a pony named Keg, lowers a rope ladder to get down from the saddle straps), Pim, Zwee
 * [[Krezent]]
-* Consider [[Eyes Unclouded Anthology|https://www.dmsguild.com/product/322733/Eyes-Unclouded]]
+* Consider [[Eyes Unclouded Anthology|https://www.dmsguild.com/product/322733/Eyes-Unclouded]]. Cinderlings are perfect for Arien.
 * Consider stealing ideas from Oracle of War if Arien wants to salvage in the Mournland (don't forget I have some thoughts on Mournland stuff in [[Old Miscellaneous Planning Notes]]
 * A journey to the [[Labyrinth]] to meet with the [[Ghaash'kala]]. Learn about the Binding Flame. Maybe she is sent here (or chooses to come here) to investigate what happened to a great paladin who never returned, and to recover his holy relics. 
 ** Travel through Aundair (encounter Pure Flame?)
