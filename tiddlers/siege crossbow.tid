@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20230830211133645
+modified: 20230830211433212
+tags: weapon crossbow mobility
+tier: 2
+title: siege crossbow
+type: text/vnd.tiddlywiki
+
+Once per day, you can speak this crossbow’s command word to add extra [[force damage|damage type]] to its next attack. If this attack hits a door, it is opened as if by the [[knock]] spell.

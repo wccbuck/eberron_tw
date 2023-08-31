@@ -1,0 +1,13 @@
+category: object
+charges: 5
+color: #41D5E1
+created: 20230830205715419
+modified: 20230830205953885
+tags: accessory arms protection
+tier: 2
+title: cuff of warding
+type: text/vnd.tiddlywiki
+
+This bracer is embedded with several small bronze disks, etched with runes. When found, this bracer has 5 intact disks and an equal number of charges. While wearing the bracer, you may use 1 charge to cast the [[aegis]] spell. Each time it is used, a disk shatters.
+
+<<itemcharges 5>>

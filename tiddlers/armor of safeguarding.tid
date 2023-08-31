@@ -1,0 +1,17 @@
+category: object
+color: #41D5E1
+created: 20230829173806924
+modified: 20230830020754123
+tags: invigoration armor body [[rune magic]]
+tier: 4
+title: armor of safeguarding
+type: text/vnd.tiddlywiki
+
+This armor has a citrine gem set in the center of the chest, engraved with the [[shield rune|rune magic]].
+
+While [[attuned|attunement]] to this armor and wearing it, you gain an additional [[harm]] box. In addition, once per day, if you are able to invoke [[runes|rune magic]], you can invoke the armor's rune to cast the [[beacon of hope]] spell.
+
+<<<
+!!! beacon of hope
+{{||beacon of hope}}
+<<<

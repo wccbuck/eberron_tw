@@ -1,0 +1,19 @@
+category: object
+color: #41D5E1
+created: 20230830002525861
+modified: 20230830021005769
+tags: [[rune magic]] body accessory hindrance
+tier: 4
+title: mistral mantle
+type: text/vnd.tiddlywiki
+
+This thick, fur-lined cloak has the [[frost rune|rune magic]] stitched on the hem in silvery blue thread. Frigid wind swirls around the cloak, regardless of the weather.
+
+While wearing this cloak, you have resistance to [[cold damage|damage type]]. Additionally, while you are moving forward, you can cause the cloak's cold wind to buffet all creatures of your choice within 5 feet of you. If the creature can't dodge or resist, they suffer cold damage and may be pushed back or fall prone. You can only use this power once every 10 seconds or so.
+
+Once per day, if you are able to invoke [[runes|rune magic]], you can invoke the mantle's rune to cast the [[sleet storm]] spell with it. When you use the mantle to cast the spell, the slippery ground in the area of the spell doesn't impede your movement, and you can see through the storm, ignoring the normal penalties of a heavily obscured area.
+
+<<<
+!!! sleet storm
+{{||sleet storm}}
+<<<

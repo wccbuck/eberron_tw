@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20230510173719260
+modified: 20230829223345316
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -261,6 +261,10 @@ label.cs-check-small input{
   margin: 0px 2px 6px 2px;
 }
 
+label.cs-check-final input{
+  box-shadow: 0 0 0 0.15rem rgba(80,0,0,.35);
+}
+
 label.cs-check-special input{
   height: 25px;
   width: 25px;
@@ -423,4 +427,16 @@ input.cs-newsegments {
      0    1px 0 #000,
     -1px  1px 0 #000,
     -1px  0   0 #000;
+}
+
+.grid-container {
+  display: grid;
+  counter-reset: grid-items;
+  position: relative;
+  grid-template-columns: repeat(auto-fit, minmax(calc(100px + 2vw), 1fr));
+}
+
+.grid-item {
+  counter-increment: grid-item;
+  margin: 1em;
 }

@@ -1,5 +1,5 @@
 created: 20170608102837192
-modified: 20230615220455824
+modified: 20230831042235254
 tags: $:/tags/Stylesheet
 title: $:/_sq/Stories/Stories.css
 type: text/vnd.tiddlywiki
@@ -56,8 +56,6 @@ $oneStoryText$
 .tc-story-river .sq-button-divert-left{
 	display: none;
 }
-
-.sq-story-rivertwo-scrollable::-webkit-scrollbar{width:10px}
 
 .sq-story-rivertwo-scrollable {
     overflow: auto;

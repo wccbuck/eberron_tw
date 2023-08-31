@@ -1,0 +1,11 @@
+category: talent
+created: 20230829204546865
+modified: 20230829204952987
+tags: [[rune knight]]
+title: Great Stature
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+''Prerequisite:'' [[Rune Knight (talent)]]
+
+As a [[rune knight]], the magic of your [[runes|rune magic]] permanently alters you. When you take this talent, you grow <<dr 3d4>> inches taller. In addition, when you use your rune knight feature to grow in size (as the [[enlarge/reduce]] spell), gain +1 [[impact]] when physically attacking or performing feats of strength.

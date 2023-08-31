@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201216163808611
-modified: 20220824163218383
+modified: 20230830232107653
 tags: psionics divination
 tier: 2
 title: detect thoughts
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 
 For up to 1 minute, you can read the thoughts of surrounding creatures. You can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has no more than animal intelligence or doesn't speak any [[language]], the creature is unaffected.
 
-You initially learn the surface thoughts of the creature—what is most on its mind in that moment. You can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, and are successful overcoming the creature's mental safeguards, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, the creature can attempt to snuff out your mental probe and end the spell.
+You initially learn the surface thoughts of the creature—what is most on its mind in that moment. You can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, and are successful in overcoming the creature's mental safeguards, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, the creature can attempt to snuff out your mental probe and end the spell.
 
 Questions verbally directed at the target creature naturally shape the course of its thoughts, so this spell is particularly effective as part of an interrogation.
 

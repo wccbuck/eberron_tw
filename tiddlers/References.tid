@@ -1,11 +1,29 @@
 created: 20210716184529564
-modified: 20230823161743008
+modified: 20230830204404859
 tags: Readme
 title: References
 tooltip: list of sources used in the Eberron TW
 type: text/vnd.tiddlywiki
 
 A (hopefully) complete list of all sources I referenced to create this tool.
+
+!! Links to Headers
+* <<scrollToHeader "Official Eberron Material">>
+** <<scrollToHeader "3rd/3.5 Edition">>
+** <<scrollToHeader "4th Edition">>
+** <<scrollToHeader "5th Edition">>
+** <<scrollToHeader "Novels">>
+* <<scrollToHeader "Third-Party Eberron Content">>
+** <<scrollToHeader "Written by Keith Baker">>
+** <<scrollToHeader "Written by Others">>
+* <<scrollToHeader "Dungeons and Dragons (non-Eberron)">>
+** <<scrollToHeader "3rd/3.5 Edition">>
+** <<scrollToHeader "4th Edition">>
+** <<scrollToHeader "5th Edition">>
+* <<scrollToHeader "Other Tabletop RPG Content">>
+** <<scrollToHeader "Storyloom Inspiration Game SRDs">>
+** <<scrollToHeader "Magic Items, Spells, or Creatures">>
+* <<scrollToHeader "Miscellaneous">>
 
 !! Official Eberron Material
 
@@ -143,6 +161,7 @@ In no particular order.
 * [[Pathfinder Bestiary|https://paizo.com/products/btq01zp4?Pathfinder-Bestiary]] (Paizo)
 * [[Pathfinder: Planar Adventures|https://paizo.com/products/btpya1am]] (Paizo)
 * [[Pathfinder: Ultimate Equipment|https://paizo.com/products/btpy8tmc]] (Paizo)
+* [[Visions of the Vault: Magic Item Compendium|https://web.archive.org/web/20170120214501/https://www.dmsguild.com/product/201140/Visions-of-the-Vault--Magic-Item-Compendium]] (Arcana Games, no longer available)
 
 !! Miscellaneous
 

@@ -1,1 +1,15 @@
-{"created": "20210223044356920", "title": "Pyramid of the Ebon Flame", "text": "This mysterious ziggurat looms over a stretch of the floodplain of the [[Hydra River]]. Surrounding the pyramid are statues of humanoids with crocodile-like features and feathered wings in place of arms. Large granite blocks form the exterior of the ziggurat, and its stepped construction allows adventurers to climb to the top. ", "modified": "20210727192026387", "tags": "ruin Xen'drik monument", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#4C8201", "points": "-23.529,-31.87", "style": "{\"color\": \"#40262D\"}"}
+[
+    {
+        "created": "20210223044356920",
+        "text": "One of the scattered creations of the [[giant]] wizard-king ''Addis-Ro'', the Pyramid of the Ebon Flame is a surviving ruin of Xen’drik’s ancient empires. This huge, unbreakable, black glass monolith looms over a stretch of the floodplain of the [[Hydra River]]. Addis-Ro was said to have experimented with powers drawn directly from the depths of [[Khyber]], and this mysterious ziggurat supposedly marks the passage through which he made his journeys below.\n\nSurrounding the pyramid are statues of humanoids with crocodile-like features and feathered wings in place of arms.\n\n",
+        "title": "Pyramid of the Ebon Flame",
+        "modified": "20230828175627736",
+        "tags": "ruin Xen'drik monument",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#4C8201",
+        "points": "-23.529,-31.87",
+        "style": "{\"color\": \"#40262D\"}"
+    }
+]

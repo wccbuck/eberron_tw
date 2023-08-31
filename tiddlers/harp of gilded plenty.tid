@@ -1,0 +1,25 @@
+category: object
+charges: 5
+color: #41D5E1
+created: 20230829230745267
+modified: 20230829232232426
+tags: [[musical instrument]] [[magical implement]]
+tier: 5
+title: harp of gilded plenty
+type: text/vnd.tiddlywiki
+
+This sentient golden harp is sculpted in the image of the [[Rushemé]] god [[Rowa of the Jungle Leaves|Arawai]], depicted as a young [[cloud giant]] woman. When a creature comes within 5 feet of the harp, the instrument animates and is capable of speaking, singing, and playing by itself.
+
+Whenever you attempt to [[attune|attunement]] to the harp, you must first make either an impressive performance or a very persuasive argument to convince the harp that you are worthy. If you fail, you can't attempt to attune to the harp again until the next dawn. Once you have successfully attuned to the harp, the harp resizes to suit you.
+
+//''Stalwart Song.''// Whenever you make an attempt involving your personal charisma, including persuasion, performance, lying, or in any way leveraging your social influence and confidence, reduce your [[risk]] by 2.
+
+//''Feast of Plenty.''// If you spend 10 minutes playing the harp, you can cast the [[heroes' feast]] spell from it. Once this property is used, it can't be used again until <<dr "1d10 + 10">> days have passed.
+
+//''Soothing Melody.''// You can use the harp to cast the [[calm emotions]] spell. When the spell is cast using the harp, its duration increases to 1 hour, provided you maintain concentration on the spell. This property can be used five times, and it regains all uses at dawn.
+
+<<itemcharges 5>>
+
+//''Sentience.''// The harp is a sentient, compassionate, impulsive object. It has a dramatic and pompous personality, taking extreme pride in the quality of music produced from its strings. If the harp is shorter than 6 feet tall, it bemoans its height.
+
+The harp has hearing and [[darkvision]] to a range of 120 feet. The harp can speak, read, and understand [[Common]] and [[Giant]]. It can also communicate telepathically with the creature attuned to it.

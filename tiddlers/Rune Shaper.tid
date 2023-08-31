@@ -1,11 +1,11 @@
 category: talent
 created: 20230824211130968
-modified: 20230824212937421
+modified: 20230829223953406
 title: Rune Shaper
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-You've studied the rune magic of the [[ancient giant|Age of Giants]]s of [[Xen'drik]], and have gained the ability to channel their power. 
+You've studied the [[rune magic]] of the [[ancient giant|Age of Giants]]s of [[Xen'drik]], and have gained the ability to channel their power. 
 
 Gain the spell [[comprehend languages]]. In addition, you know ''two'' of the runes chosen from the below section. Each day, you can inscribe each rune you know onto one nonmagical weapon, armor, piece of clothing, or other object you touch. You can invoke a rune inscribed on an object you are wearing or carrying and cast its associated spell without expending your own energy or any material spell components. Once you cast the spell in this way, the rune fades. The rune also fades 24 hours after you inscribe it.
 
@@ -16,6 +16,8 @@ As a thematic suggestion, one of the [[language]]s you know should be [[Giant]].
 See also [[rune knight]] and [[Rune Knight (talent)]].
 
 !! Runes
+
+See [[rune magic]] for visual representations of each rune.
 
 |!Rune |!Spell |
 |<$checkbox field="var1" checked="yes" default="no"/> Cloud |[[fog cloud]] |

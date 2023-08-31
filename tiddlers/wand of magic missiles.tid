@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201228015756328
-modified: 20220715225040634
+modified: 20230830204634388
 tags: destruction [[magical implement]] wand
 tier: 3
 title: wand of magic missiles
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 
 You can cast [[magic missile]] while [[attuned|attunement]] to this wand, even if you aren't a spellcaster.
 
-If you are a spellcaster, you can cast magic missile as a [[rare-tier|spell tier]] [[spell]] (5-7 missiles).
+If you are a spellcaster, you can cast magic missile as a [[rare-tier|spell tier]] [[spell]].
 
 <<<
 !!! magic missile

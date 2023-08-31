@@ -1,0 +1,13 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20230830230938805
+modified: 20230830232716133
+tags: stealth accessory head
+tier: 2
+title: forget-me-not hat
+type: text/vnd.tiddlywiki
+
+This hat, which has a pale blue flower pinned in its band, has three charges which recharge daily at dawn. While wearing the hat, you can spend a charge and tip the hat's brim in a friendly manner towards a person within 10 feet to cause that person to forget the last sentence they heard within the last minute. You must [[make an attempt|Taking Action]] to successfully overcome the creature's mental safeguards in order to do this; on anything less than a [[full success]], they realize a few minutes later that someone altered their memory. The target can recall any forgotten sentences with the help of a [[restoration]] spell.
+
+<<itemcharges 3>>

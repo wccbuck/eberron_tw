@@ -1,0 +1,12 @@
+category: spell
+color: #B7A1E0
+created: 20230830002656203
+modified: 20230830003530241
+tags: conjuration
+tier: 3
+title: sleet storm
+type: text/vnd.tiddlywiki
+
+For the next minute, or until your concentration breaks, freezing rain and sleet fall in a 20-foot-radius, 40-foot-high cylinder centered on a point within 200 feet. The area becomes heavily obscured, exposed flames in the area are doused, and the ground in the area becomes covered with slick ice.
+
+Unlike the spell [[ice storm]], this spell does not directly cause damage, but creates a persistent storm which lasts for up to a minute.

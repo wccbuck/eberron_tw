@@ -1,0 +1,19 @@
+category: object
+color: #41D5E1
+created: 20230829181408234
+modified: 20230830020838526
+tags: hindrance destruction accessory head [[rune magic]]
+tier: 3
+title: crown of the wrath bringer
+type: text/vnd.tiddlywiki
+
+This jagged iron circlet bears ornaments in the shape of the [[enemy rune|rune magic]]. When worn, the crown glows with pale light as it draws upon the wearer's fury to strike opponents with vicious terror.
+
+Any time you perform an action which causes [[harm]] against another creature while wearing this crown, you can choose for both you and the target to take additional [[psychic damage|damage type]].
+
+In addition, once per day, if you are able to invoke [[runes|rune magic]], you can invoke the crown's rune to cast the [[fear]] spell with it. 
+
+<<<
+!!! fear
+{{||fear}}
+<<<

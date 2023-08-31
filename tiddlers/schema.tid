@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210314053435493
-modified: 20230818151215629
+modified: 20230829210905369
 tags: tool
 tier: 0
 title: schema
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 
 Schemas are form of magical blueprint, providing instructions and magical frameworks for the creation of [[magic item]]s and other magical effects. Unlike something like a [[spell scroll]], a schema can be used to reproduce a magical effect repeatedly, which makes them extremely valuable and essential to [[Khorvaire]]'s magical economy. 
 
-Ancient schemas dating back to the [[Age of Giants]] have been used to pass magical knowledge through the generations. An individual schema from the ruins of [[Xen'drik]] might be a few sigils carved into a stone tablet, or an elaborate scripted presentation on the torso of a long-dead [[quorcraft]]. 
+Ancient schemas dating back to the [[Age of Giants]] have been used to pass magical knowledge through the generations. An individual schema from the ruins of [[Xen'drik]] might be a few sigils or [[runes|rune magic]] carved into a stone tablet, or an elaborate scripted presentation on the torso of a long-dead [[quorcraft]]. 
 
 House [[Cannith]] also holds the secrets for creating new schemas, which has allowed them to solidify their control over the magical manufacturing industry (though many of these secrets were lost in the [[Mourning]]). A minor Cannith schema holding a single [[spell]] effect might be a flat strip of some durable material (commonly metal or wood) approximately two inches wide and a foot or more long, with carved or etched runes covering its face. Schemas that store simple magical properties might appear fairly simple, whereas a schema recording an [[epic-tier|spell tier]] spell might have hundreds of components incorporated within its mystical diagram.
 

@@ -1,0 +1,20 @@
+category: object
+color: #41D5E1
+created: 20230829202457479
+modified: 20230829230448671
+tags: invigoration tool protection detection mobility [[rune magic]]
+tier: 3
+title: glowrune pigment
+type: text/vnd.tiddlywiki
+
+This set of <<dr "1d4 + 2">> small paint pots contains pigments mixed from crushed luminescent gemstones. This magical paint bestows temporary magical gifts on creatures when it is used to draw [[giant runes|rune magic]] on their skin.
+
+One paint pot contains enough pigment to paint one rune. A creature can spend 10 minutes to paint one of the following runes onto itself or another creature:
+
+* //''Journey Rune.''// The painted creature's movement is not impeded by changing elevation, slippery or shifting surfaces, thick underbrush, or other forms of difficult terrain.
+* //''Life Rune.''// The painted creature gains a temporary [[harm]] box, and [[advantage]] to resist magical effects that directly sap their life force.
+* //''Light Rune.''// The painted creature gains [[darkvision]] to a range of 30 feet. If the painted creature already has darkvision from another source, the range of its darkvision increases by 30 feet.
+* //''Mountain Rune.''// The painted creature has [[advantage]] to resist disease, poison, and forces that would physically move or bind them.
+* //''Shield Rune.''// The painted creature has [[advantage]] on attempts to regain [[initiative]] by dodging out of harm's way.
+
+A creature can benefit from only one painted rune at a time, so a new rune painted on a creature has no effect unless the old one is removed first. The rune's benefits last for 8 hours or until the painted creature chooses to wipe away the rune.

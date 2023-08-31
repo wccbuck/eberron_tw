@@ -1,16 +1,16 @@
 category: game mechanics
 created: 20210401182844254
-modified: 20221202201107745
+modified: 20230828181100844
 tags: Storyloom [[Taking Action]]
 title: stress
 tooltip: Storyloom mechanic: boxes on your character sheet that get filled in as you deplete your stamina or luck
 type: text/vnd.tiddlywiki
 
-Stress represents your reserve of stamina and luck that is depleted as your character exerts themselves or tempts fate. You have six boxes on your [[character sheet|character sheet template]] labeled "stress"; mark these boxes as you suffer stress from [[consequence]]s. Perhaps casting that [[fireball]] fatigued you a bit, or sprinting across the courtyard took more out of you than you expected, or maybe you twisted out of the way of that dart trap just in time. These are all great situations to mark stress as a [[consequence]]. 
+Stress represents your reserve of stamina and luck that is depleted as your character exerts themselves or tempts fate. You have six boxes on your [[character sheet|character sheet template]] labeled "stress"; mark these boxes as you suffer stress from [[consequence]]s, starting from the left and moving right. Perhaps casting that [[fireball]] fatigued you a bit, or sprinting across the courtyard took more out of you than you expected, or maybe you twisted out of the way of that dart trap just in time. These are all great situations to mark stress as a [[consequence]]. 
 
 You can also choose to spend two stress to [[push yourself]], adding +1 [[momentum]] to an attempt. Some [[talent]]s allow you to spend only one stress to push yourself in specific situations.
 
-Recovering from stress depends on the situation, and the GM has final authority on how many boxes of stress you recover during downtime. But as a guideline, you recover from 1 stress for every 10 minutes of rest.
+Recovering from stress depends on the situation, and the GM has final authority on how many boxes of stress you recover during downtime. But as a guideline: each of your stress boxes takes ''5-10 minutes of rest to clear'', //except// for your sixth (right-most) stress box: this one represents exhaustion, and takes ''4-8 hours of rest to clear''.
 
 If you suffer a [[consequence]] but are out of stress boxes, you may be forced to suffer [[harm]].
 

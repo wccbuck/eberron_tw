@@ -2,13 +2,15 @@ alternatetitle: acid cold fire force lightning necrotic poison psychic radiant
 category: phenomenon
 color: #432874
 created: 20221205034528463
-modified: 20230424071412881
+modified: 20230829190431524
 tags: 
 title: damage type
 tooltip: documentation page for types of damage, e.g. fire, lightning, psychic, etc.
 type: text/vnd.tiddlywiki
 
 Damaging [[spell]]s and other effects that cause [[harm]] deal different types of damage. Different effects may interact with specific damage types; for example, [[shambling mound]]s are immune to lightning damage, and spells that deal fire damage are enhanced in some [[Fernia]]n [[manifest zone]]s. In addition, recovering from [[harm]] caused by each of these damage types often requires different kinds of medical attention; treating a burn is very different than administering an antidote, not to mention the treatment of mental injuries.
+
+Note that [[resistance|advantage]] against cold or fire damage will not automatically grant you resistance against extreme weather. Your skin could have a magical charm to resist the burn of an open flame, but that doesn't mean you won't get heat exhaustion while traveling through a sweltering desert.
 
 The nine main damage types (with examples) are below.
 
@@ -17,7 +19,7 @@ The nine main damage types (with examples) are below.
 * //''Fire.''// [[Red dragon|red dragon]]s breathe fire, and many [[spell]]s conjure flames to deal fire damage.
 * //''Force.''// Arcane force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including [[magic missile]] and [[spiritual weapon]]. Arcane force can also manifest as a concussive burst of sound, as in the spells [[thunderwave]] or [[booming blade]].
 * //''Lightning.''// A [[lightning bolt]] spell and a [[blue dragon]]'s breath deal lightning damage.
-* //''Necrotic.''// Necrotic damage, dealt by certain [[undead]] and spells such as [[chill touch]], withers matter and even the soul. It is closely associated with the "negative energy" of [[Mabar]].
-* //''Poison.''// Venomous stings and the toxic gas of a [[green dragon]]'s breath deal poison damage.
+* //''Necrotic.''// Necrotic damage, dealt by certain [[undead]] and spells such as [[chill touch]], withers matter and flesh, saps life force, and corrupts the soul. It is closely associated with the "negative energy" of [[Mabar]].
+* //''Poison.''// Venomous stings and the toxic gas of a [[green dragon]]'s breath deal poison damage, as well as many actual poisons such as the [[basic poison]].
 * //''Psychic.''// Mental abilities such as a [[mind flayer]]'s psionic blast deal psychic damage. Note that while psychic damage still fills [[harm]] boxes on your [[character sheet|character sheet template]], it cannot be mended by a standard [[healer's kit]], and it bypasses physical protection such as most [[armor]].
-* //''Radiant''//. Radiant damage, dealt by a [[cleric]]'s [[flame strike]] spell or an [[angel]]'s smiting weapon, sears the flesh and overloads the spirit with power. It is closely associated with the "positive energy" of [[Irian]] or with the [[Silver Flame]].
+* //''Radiant''//. Radiant damage, dealt by a [[cleric]]'s [[flame strike]] spell or an [[angel]]'s smiting weapon, is a piercing light that overloads the spirit with power, disrupting or searing the target's life force. It does not burn the flesh like fire damage; radiant wounds might appear as glowing scars rather than burns or blisters. It is closely associated with the "positive energy" of [[Irian]] or with the [[Silver Flame]], but not always (see [[sickening radiance]]).

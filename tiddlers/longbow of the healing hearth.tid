@@ -1,0 +1,23 @@
+category: object
+charges: 8
+color: #41D5E1
+created: 20230830001304270
+modified: 20230830002243550
+tags: convenience recovery bow weapon
+tier: 5
+title: longbow of the healing hearth
+type: text/vnd.tiddlywiki
+
+This ivory longbow is inscribed with a prayer to the god [[Boldrei]], the letters of which are entwined with gilded engravings of wheat stalks and deer antlers.
+
+If you load no ammunition in this bow, it produces its own, automatically creating one magic arrow when you pull back the string. The arrow created by the bow vanishes the instant after it strikes a surface or travels further than 600 feet.
+
+The bow has 8 charges for the following properties, which you can use while wielding the bow. The bow regains <<dr "1d4 + 1">> charges daily at dawn.
+
+* //''Curative Arrow.''// You can expend 1 charge of this bow to draw back its string and create a blazing arrow of curative magic, which you then loose at one creature you can see within 150 feet of you. The arrow automatically hits, at which point the target immediately benefits from moderate-[[impact]] [[magical healing]].
+* //''Spellcasting.''// While holding the bow, you can expend 1 or more of its charges to cast one of the following spells from it: 
+** [[create food and water]] (1 charge)
+** [[warding bond]] (2 charges) (no platinum rings required)
+** [[guardian of faith]] (3 charges)
+
+<<itemcharges 8>>
