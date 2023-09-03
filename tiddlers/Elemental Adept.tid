@@ -1,0 +1,23 @@
+category: talent
+created: 20230830034850872
+modified: 20230830040113403
+tags: 
+title: Elemental Adept
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+''Prerequisite:'' Another [[talent]] which grants you access to at least one [[spell]].
+
+When you gain this [[talent]], choose one of the following [[damage type]]s: acid, cold, fire, lightning, or arcane force.
+
+Spells you cast ignore resistance (but not immunity) to damage of the chosen type. In addition, damaging spells you cast of the chosen type have +1 [[impact]].
+
+You can take this talent multiple times, choosing a different damage type each time.
+
+Chosen damage type: <$select field="approach" default="Acid">
+<option>Acid</option>
+<option>Cold</option>
+<option>Fire</option>
+<option>Lightning</option>
+<option>Force</option>
+</$select>

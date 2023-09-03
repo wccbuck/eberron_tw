@@ -2,7 +2,7 @@ category: organization
 color: #052c65
 created: 20200414220756731
 list: Cannith Deneith Ghallanda Jorasco Kundarak Lyrandar Medani Orien Phiarlan Sivis Tharashk Thuranni Vadalis
-modified: 20230620205418447
+modified: 20230828194455547
 tags: tribe
 title: dragonmarked house
 tooltip: one of thirteen powerful mercantile families with magic powers
@@ -10,12 +10,9 @@ type: text/vnd.tiddlywiki
 
 Long ago, the families that carry the [[dragonmark]]s joined together to form the dragonmarked houses. Over the course of centuries, these houses have used their gifts to establish powerful monopolies. For example, only House [[Lyrandar]] heirs with the [[Mark of Storm]] can pilot [[airship]]s. This control over vital services gives the houses tremendous power.
 
-In the past, the dragonmarked houses were held
-in check by the united kingdom of [[Galifar]]. But in the
-wake of the [[Last War]], people wonder if any nation has
-the power to enforce its wishes on the houses. 
+In the past, the dragonmarked houses were held in check by the [[Korth Edicts]] of the united kingdom of [[Galifar]]. But in the wake of the [[Last War]], people wonder if any nation has the power to enforce its wishes on the houses. 
 
-About half of all children born to most dragonmarked houses will develop some level of [[dragonmark]].
+About half of all children born to most dragonmarked houses will develop some level of [[dragonmark]], though the appearance of marks cannot be consistently predicted. Common belief holds that parents with powerful marks are more likely to produce gifted children, and those children often develop the same powers as their parents. For example, within House [[Sivis]], members of the Torralyn family typically manifest [[whispering wind]], while Syrralans are more likely to possess the power of [[arcane mark]]. Houses often arrange marriages with marks in mind.
 
 {{$:/DragonmarksTable}}
 

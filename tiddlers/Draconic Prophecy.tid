@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20200423011416219
-modified: 20230611021604431
+modified: 20230828193211363
 title: Draconic Prophecy
 tooltip: magical patterns hidden in the world, which predict or even alter future events; manipulated by dragons and fiends
 type: text/vnd.tiddlywiki
@@ -14,19 +14,17 @@ immortal [[fiend]]s, and others who have devoted thousands of years to this work
 What makes the Prophecy especially complex is that it doesn't define a singular path for the future. Rather, the Prophecy is a map that shows many possible futures, along with the steps that must occur to make that future a reality. A fragment of the Prophecy might say,
 "If the Bear King is slain by a sorrowful assassin in the Shadow of the [[Mourning]], the Crown will fall from his nation." The "Bear King" could refer to King [[Boranel|Boranel ir'Wynarn]] of [[Breland]], since the bear is Breland's heraldic beast. The "Shadow of the Mourning" could mean that Boranel must be slain in the [[Mournland]], or it could mean that the assassination must occur on the [[anniversary|Day of Mourning]] of the Mourning. This passage doesn't say that Boranel will be assassinated or that the Brelish monarchy will fall; it suggests that if Boranel is assassinated under these conditions, then the monarchy will surely fall. But it could also be fulfilled in different ways, if the terms of the Prophecy are interpreted differently. Other fragments of the Prophecy might cover what happens if Boranel is assassinated under other circumstances, or what happens if he dies of natural causes.
 
+The elements, living or inanimate, that play a role in a particular path of the Prophecy are called ''vectors''. For further details about manipulating these pieces of the Prophecy, see the <<navAndScrollToHeader "Chamber" "Seekers of Vectors">> section of the [[Chamber]] page.
+
 As an adventurer, you could be hired by a scholar trying to piece together a fragment of the Prophecy and clash with a secret society along the way. Or you could discover that your family plays a pivotal role in a fragment of the Prophecy. Will you embrace this or fight your potential destiny? Will you dedicate your life to interpreting the Prophecy or ignore it as just a bunch of mystical nonsense? And might the Prophecy hold the answer to the [[Mourning]] itself? 
 
 !! Links to Headers
-* <<scrollToHeader "Locations Touched by the Prophecy">>
 * <<scrollToHeader "Source and Purpose">>
 * <<scrollToHeader "The Prophecy and You">>
 * <<scrollToHeader "The Prophecy and Sarlona">>
 * <<scrollToHeader "Adventure Hooks">>
+* <<scrollToHeader "Locations Touched by the Prophecy">>
 * <<scrollToHeader "Notes">>
-
-!! Locations Touched by the Prophecy
-
-<<list-links-article "[tag{!!title}category[location]sort[title]]">>
 
 !! Source and Purpose
 
@@ -60,7 +58,14 @@ unraveled many of its mysteries. Now, some among the lesser nondragons seek to u
 
 !! The Prophecy and You
 
-One or more of the player characters in a campaign may have a prophetic role to play, causing factions within the [[Chamber]] or the [[Lords of Dust]] to have a vested interest in their future. The table below provides a few ideas.
+One or more of the player characters in a campaign may have a prophetic role to play, causing factions within the [[Chamber]] or the [[Lords of Dust]] to have a vested interest in their future. If you as a GM decide which characters are vectors of the Prophecy at the start of a campaign, you might discuss the issue with the players of those characters first, to make sure they’re interested in the story. Another option is to come up with a path for the Prophecy and create a number of vector roles for it, then tie those roles to conditions that any player character could fulfill. Here are a few examples.
+
+* ''The One Who Slays Odalyth the Undying:'' The death of a particularly important villain is crucial to the outcome of the Prophecy, and the hero who defeats it is the vector. Which character strikes the killing blow?
+* ''The One Who Wears the Crying Stone:'' A powerful artifact is a vector, and the first person who claims it forms a bond that shares its destiny.
+* ''The One Who Triumphs in Adversity:'' The Prophecy points to a hero who overcomes many misfortunes. That vector might be the first player who rolls twenty [[bad outcome]]s where the highest result is a 1.
+* ''The One Whom Dolurrh Cannot Hold:'' The path shows that the vector is a soul who triumphs repeatedly over death. In your campaign, they could be the first adventurer who dies and is resurrected five times.
+
+The path of the Prophecy doesn’t begin until the conditions are met. At that point, the vector is identified, and the Prophecy unfolds! The table below provides a few ideas for how a vector character could interact with a branch of the Prophecy:
 
 | !<<dr d8>> |!You must... |!While... |
 | 1 |Slay a (fiend/monster/ruler)... |...wielding a particular artifact. |
@@ -107,3 +112,7 @@ Here are several ways the Draconic Prophecy could enter a campaign.
 * Adventurers encounter a [[wizard]] building an [[eldritch machine]] over a large Prophecy mark. The mark has taken on the appearance of an [[aberrant dragonmark]]. Is this an innocent experiment, or the first step in a terrible plan?
 * An attack by an overwhelming enemy force drives adventurers into a network of caves—a [[dragon]]’s lair that has been abandoned for thousands of years. Engravings on a cavern wall include the dragon’s notes on the Prophecy... including cryptic clues that could help the adventurers defeat the enemy hunting them.
 * The [[Vault]] of [[Metrol]] is rumored to hold a copy of the Silaxerus Shard, one of the most complete [[records|spellshard]] of the Prophecy in [[human]] hands. Agents of the [[Chamber]] want to destroy it. The [[Library of Korranberg]], the [[Twelve]], and [[Arcanix]] want to steal it. Prince [[Oargev|Oargev ir'Wynarn]] wants it returned to [[Cyran|Cyre]] hands. Whom will the adventurers help? And what if the [[Lords of Dust]] have already stolen the shard and replaced it with a counterfeit designed to mislead?
+
+!! Locations Touched by the Prophecy
+
+<<list-links-article "[tag{!!title}category[location]sort[title]]">>

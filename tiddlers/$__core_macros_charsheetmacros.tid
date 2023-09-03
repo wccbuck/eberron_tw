@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20230413165607655
+modified: 20230828182006887
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -164,7 +164,7 @@ type: text/vnd.tiddlywiki
     <p class="cs-heading">[[Stress|stress]]</p> 
   </div>
     <div class="cs-row">
-      <$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s1" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s2" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s3"class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s4" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s5" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s6"class="cs-check-small"/>
+      <$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s1" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s2" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s3"class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s4" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s5" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s6"class="cs-check-small cs-check-final"/>
     </div>
   </div>
   <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px;" title="special stress">

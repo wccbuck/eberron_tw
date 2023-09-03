@@ -1,0 +1,21 @@
+category: spell
+color: #B7A1E0
+created: 20230829040325158
+highertier: show
+modified: 20230829041306766
+tags: evocation
+tier: 3
+title: force sculpture
+type: text/vnd.tiddlywiki
+
+This spell takes one minute to cast. When you cast this spell, you can create a spectral copy of a single nonmagical object within 10 feet of you which is no more than 10 feet in any dimension. The duplicate appears in an unoccupied space within 10 feet of you, and is made of translucent but tangible force that mimics the size, weight, and other properties of the original object. The duplicate must appear on a solid surface or liquid that can support it. Creatures can interact with the duplicate as if it were a nonmagical object.
+
+The spectral duplicate is immune to all damage and cannot be dispelled, but a [[disintegrate]] spell destroys it immediately. Otherwise, the copy lasts for up to 4 hours, or until you choose to dismiss it.
+
+<$reveal type="match" state="!!highertier" text="show">
+
+!! Epic-Tier
+
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you can create up to three spectral copies, each of which last up to 8 hours. Each duplicate you create adds another minute to the casting time, and they all must be within 10 feet of you as you cast the spell.
+
+</$reveal>

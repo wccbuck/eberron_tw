@@ -1,0 +1,17 @@
+category: object
+color: #41D5E1
+created: 20230830033233142
+modified: 20230830034711996
+tags: detection [[rune magic]] accessory legs mobility
+tier: 3
+title: wayfarer's boots
+type: text/vnd.tiddlywiki
+
+This pair of boots is made of durable cloth, with the [[journey rune|rune magic]] stitched in golden thread above each heel. While you are wearing this item, your travel pace and running speed increases by 2.5 mph, and you have [[advantage]] on attempts to follow tracks and avoid natural hazards.
+
+Once per day, if you are able to invoke [[runes|rune magic]], you can invoke the boots' runes to cast the [[expeditious retreat]] spell with them.
+
+<<<
+!!! expeditious retreat
+{{||expeditious retreat}}
+<<<

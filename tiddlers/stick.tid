@@ -2,7 +2,7 @@ category: spell
 color: #B7A1E0
 created: 20230503142558271
 highertier: show
-modified: 20230503143203018
+modified: 20230828175939634
 tags: transmutation
 tier: 1
 title: stick
@@ -14,6 +14,6 @@ You magically affix one object you touch to another object. The two items are he
 
 !! Uncommon-Tier
 
-When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you can affix two objects together with twenty pounds of force.
+When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you can affix two objects together with fifty pounds of force.
 
 </$reveal>

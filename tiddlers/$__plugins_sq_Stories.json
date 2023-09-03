@@ -220,7 +220,7 @@
     "revision": "0",
     "type": "text/vnd.tiddlywiki",
     "modified": "20200731105210982",
-    "list": "$:/plugins/sq/Stories/changelog $:/config/sq/Stories/story2/fontsize-title $:/config/sq/Stories/storyRiverRatio [[Pack stories to plugin]]",
+    "list": "Changelog",
     "created": "20170615140314952"
 },
 

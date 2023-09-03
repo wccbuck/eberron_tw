@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20230830021925861
+modified: 20230830022552164
+tags: [[rune magic]] protection accessory jewelry
+tier: 3
+title: sanctum amulet
+type: text/vnd.tiddlywiki
+
+A black opal pendant hangs at the base of this pearlescent chain. The [[sacred rune|rune magic]] is inscribed on the back of the pendant.
+
+While wearing this item, you have resistance to [[necrotic damage|damage type]]. Additionally, you can cast the [[spare the dying]] cantrip at will.
+
+Once per day, if you are able to invoke [[runes|rune magic]], you can invoke this amulet's rune when a creature you can see within 60 feet of you would be incapacitated as a result of taking damage. The pendant flashes with pale light, and the creature instead retains one empty [[harm]] box.

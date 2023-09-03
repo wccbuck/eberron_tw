@@ -1,9 +1,18 @@
 category: talent
 created: 20211201184618497
-modified: 20211201184749553
+modified: 20230830035154894
 tags: 
 title: Implement Expertise
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-Gain an [[advantage]] when casting spells with your preferred [[magical implement]]. Choose your preferred implement (wand, rod, staff, orb, crystal, holy symbol) when you take this [[talent]].
+Gain an [[advantage]] when casting spells with your preferred [[magical implement]] and preferred [[approach]]. Choose your preferred implement (wand, rod, staff, orb, crystal, holy symbol) and approach when you take this [[talent]].
+
+Chosen approach: <$select field="approach" default="Force">
+<option>Force</option>
+<option>Savvy</option>
+<option>Flair</option>
+<option>Guile</option>
+<option>Speed</option>
+<option>Caution</option>
+</$select>

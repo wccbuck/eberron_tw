@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210103021548158
-modified: 20230802025718793
+modified: 20230829170021405
 tags: Storyloom [[Taking Action]]
 title: consequence
 tooltip: Storyloom mechanic: negative outcomes from an unsuccessful or partially successful attempt
@@ -26,6 +26,8 @@ Often, this consequence manifests as a loss of [[initiative]], which the player 
 
 This consequence represents trouble, mounting danger, or a new threat. The GM might introduce an immediate problem (the room catches fire, you're disarmed, the target evades you and now it's a chase, reinforcements arrive), or, the GM might create or tick a [[progress clock]] for the complication. Maybe there's a clock for the alert level of the guards at the manor, or for the suspicion of the noble guests at the masquerade party. 
 
+One way to create a compelling but flexible complication for a failed roll would be to upgrade the complexity of the challenge, e.g. add segments to the [[progress clock]] equal to the [[risk]]. This can have narrative overlap with <<scrollToHeader "Reduced Impact">>, but it works a bit differently. This only works on the //first// attempt the player makes towards [[overcoming|overcome]] an obstacle; we don't want to add segments after they've already made progress. For example, if the player character needs to overcome a simple obstacle that ordinarily would have no progress clock, but they roll a [[bad outcome]], the GM might make that simple obstacle into a 4-segment progress clock obstacle.
+
 !!! Lost Opportunity
 
 This consequence represents shifting circumstances. You had an opportunity to achieve your goal with this action, but it slips away. To try again, you need to try something different—usually a different [[approach]] or a change in circumstances. 
@@ -37,7 +39,7 @@ As an example of how consequences might come into play during a game, consider [
 * ''Lost Resource''
 ** The spell takes more [[stress]] to cast than usual.
 ** The ritual requires the expenditure of more material components (if applicable).
-** If you are in a high-pressure situation such as combat, you suffer [[harm]] from an attack or hazard.
+** If you are in a high-pressure situation such as combat, you suffer [[harm]] from an attack or hazard—or perhaps blowback from the spell.
 * ''Reduced Impact''
 ** The spell isn't ready yet, and you need to make another attempt to complete the casting.
 ** The spell is completed, but its [[impact]] is reduced.

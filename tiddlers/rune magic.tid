@@ -1,0 +1,49 @@
+category: phenomenon
+color: #432874
+created: 20230829202823966
+modified: 20230830021831840
+tags: 
+title: rune magic
+type: text/vnd.tiddlywiki
+
+Rune magic is an ancient practice of [[arcane magic]] practiced by the titans of [[Xen'drik]] during the [[Age of Giants]]. Runes of power are ancient sigils that embody the fundamental magic of creation. Each rune holds latent power, like the glyphs inscribed in modern [[magic circle]]s of protection, [[teleportation circle]]s, and magical traps like the [[glyph of warding]]. It is believed that the magic of these runes allowed the titans of the past age to grow in stature far beyond the towering heights of modern [[giant]]s.
+
+The ancient giants treated these runes as a sacred secret and rarely wrote them, but even writing them is not sufficient to channel their power. Most modern true [[giant]]s are able to shape and invoke runes, as the ancient magic still runs through their blood. Non-giants can learn this power, but typically only after tutelage by a giant sage, or if they have some innate connection to the magic of the ancient titans. These modern runewielders include [[rune knight]]s and [[rune shaper|Rune Shaper]]s.
+
+!! Links to Headers
+* <<scrollToHeader "Example Runes">>
+* <<scrollToHeader "Items Which Utilize Rune Magic">>
+* <<scrollToHeader "Notes">>
+
+!! Example Runes
+
+<div class="grid-container">
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/blood-rune.svg}}<br/>''Blood''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/cloud-rune.svg}}<br/>''Cloud''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/death-rune.svg}}<br/>''Death''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/dragon-rune.svg}}<br/>''Dragon''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/enemy-rune.svg}}<br/>''Enemy''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/fire-rune.svg}}<br/>''Fire''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/friend-rune.svg}}<br/>''Friend''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/frost-rune.svg}}<br/>''Frost''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/hill-rune.svg}}<br/>''Hill''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/journey-rune.svg}}<br/>''Journey''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/king-rune.svg}}<br/>''King''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/life-rune.svg}}<br/>''Life''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/light-rune.svg}}<br/>''Light''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/mountain-rune.svg}}<br/>''Mountain''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/sacred-rune.svg}}<br/>''Sacred''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/shield-rune.svg}}<br/>''Shield''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/stone-rune.svg}}<br/>''Stone''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/storm-rune.svg}}<br/>''Storm''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/war-rune.svg}}<br/>''War''</div>
+<div class="grid-item" align="center">{{$:/plugins/wccbuck/wind-rune.svg}}<br/>''Wind''</div>
+</div>
+
+!! Items Which Utilize Rune Magic
+
+Some [[magic item]]s have been imbued with one or more runes of power. These items can grant new powers and abilities to those who [[attune|attunement]] to them, but typically they unlock additional powers if the wielder knows how to "invoke" the item's rune. Learning how to invoke runes is less challenging than learning how to inscribe them, but still requires training. A character might gain the ability to invoke runes after completing a "long-term project" during <<navAndScrollToHeader "Missions and Downtime" "downtime">> in which they study or meditate on the secrets of channeling rune magic.
+
+If a magic item was created to be used by [[giant]]s, it might be too oversized to use properly by a human-sized creature. You might decide that the giants crafted magic items that can resize to comfortably suit their users during the [[attunement]] process. Alternatively, you can say that a giant-sized ring can be worn as a bracelet, a bracelet could serve as a headband, and so on. In addition, magical techniques might exist that allow skilled artisans to reshape and resize magic items with a few days of work.
+
+!!! <<showitem-type>>

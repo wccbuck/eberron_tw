@@ -1,0 +1,18 @@
+category: object
+color: #41D5E1
+created: 20230830020707488
+modified: 20230830021919710
+tags: invigoration [[rune magic]] accessory jewelry recovery
+tier: 4
+title: ring of amity
+type: text/vnd.tiddlywiki
+
+This ring is carved from hematite and bears an engraving of the [[friend rune|rune magic]].
+
+When you first [[attune|attunement]] to this ring, you can touch one willing creature and form a magical bond between the two of you. While this bond lasts, whenever you are subjected to a spell or magical effect that grants [[magical healing]], the bonded creature also receives the benefits of the spell or effect.
+
+You can bond with a different creature after resting for at least four hours, provided that you can touch the creature and the creature is willing.
+
+A creature can benefit from only one //ring of amity//'s bond at a time. The bond ends if either you or the creature travels to a different [[plane]] of existence, if you bond with a different creature, or if you choose to sever the bond.
+
+Once per day, if you are able to invoke [[runes|rune magic]], when the bonded creature within 60 feet of you gets a [[full success]] or [[mixed success]] on an attempt, you can invoke the ring's rune. The bonded creature's attempt outcome is then turned into a critical success.

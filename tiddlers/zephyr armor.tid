@@ -1,0 +1,19 @@
+category: object
+color: #41D5E1
+created: 20230830042129073
+modified: 20230830042657649
+tags: invigoration [[rune magic]] armor body
+tier: 3
+title: zephyr armor
+type: text/vnd.tiddlywiki
+
+This fine set of white-and-silver light armor bears the [[wind rune|rune magic]] upon its chest.
+
+While wearing this armor, you have [[advantage]] when balancing, dodging out of harm's way, or performing acrobatic stunts, as your movements are bolstered by gentle currents of wind.
+
+Once per day, if you are able to invoke [[runes|rune magic]], you can invoke the armor's rune to cast the [[wind wall]] spell with it. 
+
+<<<
+!!! wind wall
+{{||wind wall}}
+<<<

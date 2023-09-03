@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210808200737146
-modified: 20230815072059342
+modified: 20230828180927630
 tags: Storyloom
 title: Missions and Downtime
 tooltip: documentation page for stages of play in the Storyloom system
@@ -91,7 +91,7 @@ Selling a valuable curio or [[magic item]] is not always an easy task. Con artis
 Given enough free time and the services of an instructor, a character can learn a new [[spell]], pick up a [[language]], or some other useful ability. Usually this requires a [[progress clock]] for a long-term project. If you are attempting to gain a full [[experience point]]'s worth of training, double the number of progress clock segments. Possible [[consequence]]s include:
 
 * Your instructor disappears; perhaps they are a wanted criminal, or they were kidnapped.
-* Your training moves slowly and drains your stamina, reducing your available [[stress]] by 1 for a single mission.
+* Your training moves slowly and drains your stamina, reducing your available [[stress]] by 1 for a single mission (fill your rightmost "exhaustion" stress box).
 
 !!! Working
 
@@ -99,5 +99,5 @@ When all else fails, an adventurer can turn to an honest trade to earn a living.
 
 * Your pay is reduced.
 * Your recovery of [[harm]], if any, is reduced, or you suffer harm on the job.
-* Your work exhausts you, reducing your available [[stress]] by 1 for a single mission.
+* Your work exhausts you, reducing your available [[stress]] by 1 for a single mission (fill your rightmost "exhaustion" stress box).
 * You gain a problematic relationship, such as a crime ring attempting to extort your business, a customer with a powerful family taking a dislike to you, or an employer who is involved in a dark cult.

@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.22.9
-modified: 20230826161522853
+currentversion: 1.23.0
+modified: 20230903204221974
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -10,6 +10,51 @@ tooltip: record of notable changes and additions to the Eberron TW
 type: text/vnd.tiddlywiki
 
 Use the [[Eberron TW Updater]] to update your local copy to the latest version.
+
+<$list filter="[[Readme]] -[list[$:/StoryList]]">
+
+!!! New here? Check the [[Readme]]!
+
+</$list>
+
+!!! 1.23.0 <span style="font-weight:normal">(Sep 03, 2023)</span>
+
+* Swapped Changelog and [[Readme]] columns back to how they were in 1.22.9. I failed to realize that the default page on mobile would then become the changelog rather than the readme. However, I made the Changelog now show "New here? Check the Readme" whenever the Readme is not in the story river, so that folks who navigate to this document via a specific page permalink, they'll see a thing that'll help them get their bearings.
+* ''Significantly shrank the size of several cities'' on the map. In or around 1890, the population density of Chicago was 19 people per acre, Boston's was 20, London's was 58, Paris's was 125, and Manhattan's was 143 ([[source|https://sasn.rutgers.edu/sites/default/files/sites/default/files/inline-files/ManhattanDensityApril2014.pdf]]). By comparison, my [[Korth]]'s population density was about 2, even with population increased 5x above the canon numbers. Since I want cities in the Five Nations to resemble those of our world from 1850-1900, I needed to shrink 'em to match, aiming for 10-60 people per acre. (On average. Of course, certain neighborhoods are denser than others.) The specific cities I shrank, and the linear amount by which they've been shrunk, include:
+** [[Korth]], by 65%. New population density is about 18.
+** [[Flamekeep]], by 75%. New population density is about 50.
+** [[Fairhaven]], by 75%. New population density is about 42.
+** [[Thaliost]], by 65%. New population density is about 15.
+** [[Rekkenmark]], by 50%. New population density is about 11.
+** [[Wroat]], by 65%. New population density is around 20.
+** [[Metrol]], by 55%. New population density (pre-[[Mourning]]) would have been around 18. Kept Vermishards the same size; I'd shrunk them already before about 9 months ago (v1.20.3) before I realized I should really shrink the whole city. So now the map of Metrol looks closer to the "official" map.
+** [[Sharn]], by 60%. New population density is about 157, but when you account for the city's verticality, it feels closer to 20 on average. I recently discovered a strong piece of evidence for the diameter of Sharn. From Sharn: City of Towers: //"Skycoaches charge a standard rate of 1 sp per mile through the city. Thus, it is possible to get from Lower Tavick’s Landing to Upper Dura for about 6 sp."// ...So Sharn is canonically about 6, maybe 6.5 miles across. Roughly. That was my target for this size reduction, which I think matches well with my population density targets. I've also modified travel time as described on [[Wards of Sharn]].
+** [[Graywall]], by 85%. New population density is around 36.
+** [[Dar Jin]], by 70%. New population density is around 40.
+** [[Stormreach]], by 75%. New population density is around 15.
+** [[Io'lokar]] I didn't touch, since the pop density was around 10 already; that felt right.
+* Added the [[Sprawl]] demiplane
+
+!!! 1.22.10 <span style="font-weight:normal">(Aug 31, 2023)</span>
+
+* Swapped column position of Changelog and [[Readme]] so that the Readme always shows up even when sharing permalinks for specific pages.
+* Added some items adapted from Bigby Presents: [[armor of safeguarding]], [[bloodshed blade]], [[crown of the wrath bringer]], [[delver's claw]], [[glowrune pigment]], [[harp of gilded plenty]], [[helm of perfect potential]], [[lash of immolation]], [[longbow of the healing hearth]], [[mistral mantle]], [[qosqura piercer]] (adapted from "elven thrower," the altered "dwarven thrower" mentioned on page 64), [[ring of amity]], [[sanctum amulet]], [[shield of the blazing dreadnought]], [[staff of the rooted hills]], [[Stonebreaker's breastplate]], [[war horn of valor]], [[wayfarer's boots]], [[wyrmreaver gauntlets]], [[zephyr armor]]
+* Some other items adapted from [[Visions of the Vault|https://web.archive.org/web/20170120214501/https://www.dmsguild.com/product/201140/Visions-of-the-Vault--Magic-Item-Compendium]] (a seemingly discontinued DMsGuild product): [[assassin's brand]], [[cuff of warding]], [[ring of trancesong]], [[siege crossbow]]
+* Added [[gift of gab]] spell and [[forget-me-not hat]] which has a similar effect
+* Also added the [[rune magic]] page which is used to tag items and other pages that utilize the power of giant runes
+* Added the [[force sculpture]] spell, adapted from the item //Bigby's beneficent bracelet//. Speaking of spells, I also added [[sleet storm]] finally; it took me a very long time to realize it was different enough from [[ice storm]] to be worth adding as its own thing.
+* Reduced the [[rarity]] of [[claws of the umber hulk]] to uncommon
+* Added [[Great Stature]] and [[Elemental Adept]] talents
+* Added a restriction to [[Implement Expertise]] to make it match [[Weapon Expertise]]
+* Added a bit more detail to [[Syla Syrralan d'Sivis]] and the [[Ninth College]]
+* Added a few [[gnoll]] names from Dragon 367
+* Added [[Yllosavax]], [[Hathal Kosorak]], [[Haldren ir'Brassek]], [[Kelani Thauram]]
+* Added the four branches of the court of [[Taer Syraen]]: [[Hail]], [[Ice]], [[Sleet]], and [[Snow]], from Dungeon 196. Made some changes, like the name of the Hail commander (too similar to [[Risia]]'s "Killing Cold"), and also made all the commanders [[eladrin]].
+* Added details from Dragon 409 about "vectors" of the [[Draconic Prophecy]] to that page and the [[Chamber]] page
+* Added details I missed from the 4E campaign guide to the [[Pyramid of the Ebon Flame]]
+* Added a little to [[dragonmarked house]]
+* Increased strength of uncommon-tier [[stick]] spell
+* Minor [[Storyloom]] rule change: Made the final [[stress]] box represent exhaustion, taking several hours to recover from. Made a style change on the [[character sheet template]] to reflect that
 
 !!! 1.22.9 <span style="font-weight:normal">(Aug 26, 2023)</span>
 
@@ -168,7 +213,7 @@ This update also includes the following changes and additions:
 * Added spells: [[hold unholy]], [[hold portal]], [[stick]], [[instant audience]]
 * Increased range of uncommon-tier [[thaumaturgy]]
 * Added another option to uncommon-tier [[gust]]
-* Added a few towns from Five Nations I missed: [[Brek]], [[Brom]], [[Bull Hollow]], [[Ice]], [[Jern]], [[Karnel]], [[Lhaz]], [[Senne]], [[Trag]], [[Vom]]
+* Added a few towns from Five Nations I missed: [[Brek]], [[Brom]], [[Bull Hollow]], [[Eis]], [[Jern]], [[Karnel]], [[Lhaz]], [[Senne]], [[Trag]], [[Vom]]
 * Added a section on the universal life force to [[Path of Light]], and better linkified/expanded the [[atavist]] page
 * Changed [[unicorn]] creature type from [[celestial]] to [[fey]]
 * Fixed a few typos I noticed when reading through the [[Eldeen Reaches]] page and several related pages
@@ -231,6 +276,19 @@ Lore changes and additions:
 Known issues:
 
 * Sometimes when closing a tiddler, the page will scroll to a seemingly random point. It's supposed to scroll to the last link you clicked on, as long as you haven't closed another tiddler since clicking a link. However, something's not quite right with the feature, and it may be related to the scroll-to-header feature. I've got my eye on it. (fixed in v1.21.1)
+
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
 
 !!! 1.20.5 <span style="font-weight:normal">(Feb 17, 2023)</span>
 
@@ -328,19 +386,6 @@ Lore stuff:
 * Added some example spellcasting consequences to the [[consequence]] page
 * Fixed a couple of random generators that weren't applying weights to outcomes properly
 * Added "object" category back onto some object tags; added "weapon" tag to weapon category pages like "crossbow," "sword" etc even if they were stubs
-
-!
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
-</$button>
 
 !!! 1.19.2 <span style="font-weight:normal">(Nov 30, 2022)</span>
 
