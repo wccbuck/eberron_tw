@@ -1,6 +1,6 @@
 category: miscellaneous
 created: 20201222081940370
-modified: 20230707062339998
+modified: 20230831205105972
 tags: Sharn
 title: Wards of Sharn
 type: text/vnd.tiddlywiki
@@ -89,25 +89,25 @@ possibility.
 
 !!! Travel Time
 
-For a walking travel time guideline, use the following: 20 minutes per district, including ones connected by bridge. 
+For a walking travel time guideline, use the following: 30 minutes per district, including ones connected by bridge; but only 10 minutes for going up or down a level. Factors like traffic or lift wait times can impact this estimate.
 
 <<<
 
 Example: [[Clifftop]] to [[Deathsgate]]. 
 
-''Path 1:'' [[Clifftop]] → [[Hope's Peak]] → [[Redstone]] → [[Daggerwatch]] → [[Highhold]] → [[Sunrise]] → [[Ocean View]] → [[Dalan's Refuge]] →(down)→ [[Deathsgate]] (8 districts, 8*20=''160 minutes'')
+''Path 1:'' [[Clifftop]] →(30m)→ [[Hope's Peak]] →(30m)→ [[Redstone]] →(30m)→ [[Daggerwatch]] →(30m)→ [[Highhold]] →(30m)→ [[Sunrise]] →(30m)→ [[Ocean View]] →(30m)→ [[Dalan's Refuge]] →(down, 10m)→ [[Deathsgate]] (''220 minutes'')
 
-''Path 2:'' [[Clifftop]] → [[Hope's Peak]] → [[Redstone]] → [[Daggerwatch]] →(bridge)→ [[Ivy Towers]] → [[University District]] → [[Platinate]] →(bridge)→ [[Dalan's Refuge]] →(down)→ [[Deathsgate]] (8 districts, 8*20=''160 minutes'')
+''Path 2:'' [[Clifftop]] →(30m)→ [[Hope's Peak]] →(30m)→ [[Redstone]] →(30m)→ [[Daggerwatch]] →(bridge, 30m)→ [[Ivy Towers]] →(30m)→ [[University District]] →(30m)→ [[Platinate]] →(bridge, 30m)→ [[Dalan's Refuge]] →(down, 10m)→ [[Deathsgate]] (''220 minutes'')
 
 <<<
 
-For a speedier journey through the streets, House [[Orien]] manages a system of carriages for hire, which can hold four people (not including the driver). Taking an Orien carriage cuts travel time by half (10 minutes per district) and costs a small fee ([[0.05c|money]] per district, rounded to the nearest crown). So a carriage journey from [[Clifftop]] to [[Deathsgate]] would take 80 minutes. The cost is less than half a crown for this cross-city journey, so it's considered negligible; only long round-trips and back-and-forth journeys across [[Sharn]] should begin to cost money worth tracking. 
+For a speedier journey through the streets, House [[Orien]] manages a system of carriages for hire, which can hold four people (not including the driver). Taking an Orien carriage cuts travel time by half, and costs a small fee ([[0.05c|money]] per district, rounded to the nearest crown). So a carriage journey from [[Clifftop]] to [[Deathsgate]] would take 110 minutes. The cost is less than half a crown for this cross-city journey, so it's considered negligible; only long round-trips and back-and-forth journeys across [[Sharn]] should begin to cost money worth tracking. 
 
 Smaller, one-person carriages and rickshaws are half the price, an amount which almost always rounds to zero crowns for mechanical purposes.
 
-''Flight'' is, of course, the fastest way to get around in Sharn, cutting travel time down to one-fourth of the walking pace (5 minutes per district). In addition, districts that are adjacent but not connected by bridges (such as [[Clifftop]] and [[Shae Lias]], or the [[Bazaar]] and [[Dava Gate]]) can be considered connected when flying. 
+''Flight'' is, of course, the fastest way to get around in Sharn, cutting travel time down to one-fifth of the walking pace (6 minutes per district). In addition, districts that are adjacent but not connected by bridges (such as [[Clifftop]] and [[Shae Lias]], or the [[Bazaar]] and [[Dava Gate]]) can be considered connected when flying. 
 
-The most common form of aerial transport is the [[skycoach]]. Four-person skycoaches typically cost [[0.2c|money]] per district (rounded to the nearest crown). Thus, a [[skycoach]] journey from [[Clifftop]] to [[Deathsgate]] would cost 2c and take 40 minutes. (Flying offers no shortcut in this case; cutting straight from [[Dura]] to [[Central Plateau]] still requires travelers to pass through eight districts.)
+The most common form of aerial transport is the [[skycoach]]. Four-person skycoaches typically cost [[0.2c|money]] per district (rounded to the nearest crown). Thus, a [[skycoach]] journey from [[Clifftop]] to [[Deathsgate]] would cost 2c and take about 44 minutes. (Flying offers no shortcut in this case; cutting straight from [[Dura]] to [[Central Plateau]] still requires travelers to pass through eight districts.)
 
 Some companies, such as [[Silverstreak|Silverstreak Skycoach Rental Company]], even let groups rent four-person skycoaches for extended periods (along with a qualified driver); this service costs 3c per hour.
 

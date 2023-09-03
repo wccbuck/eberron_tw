@@ -232,8 +232,7 @@ FantasyMapWidget.prototype.initMap = function() {
     this.map.addControl(this.sharnLevels);
 
     var sharnShapesList = [
-        [20.46,-24.66], [20.36,-24.73], [20.16,-24.75], [20.01,-24.66],
-        [19.99,-24.54], [20.05,-24.4], [20.23,-24.36], [20.46,-24.38]
+        [20.31,-24.61], [20.3,-24.46], [20.07,-24.45], [20.08,-24.62], [20.17,-24.66]
     ];
 
     var polygon = L.polygon(sharnShapesList);
@@ -242,7 +241,7 @@ FantasyMapWidget.prototype.initMap = function() {
     this.sharnQuarters = [];
 
 	this.defaultColor = "#5077BE";
-	this.defaultBoundsString = "-25.29,19.72,-23.7,20.8,20.26,-24.49";
+	this.defaultBoundsString = "-52.56,14.09,49.39,64.24,39.17,-1.58"; //Khorvaire
 	this.allMarkers = [];
     this.allTopMarkers = [];
 	this.focus;
@@ -350,7 +349,7 @@ FantasyMapWidget.prototype.execute = function() {
 			}
 		}
 
-        if (self.map.getZoom() > 6 && self.map.getBounds().intersects(self.sharnBounds)) {
+        if (self.map.getZoom() > 8 && self.map.getBounds().intersects(self.sharnBounds)) {
             if(!self.sharnLevels._map){
                 self.map.addControl(self.sharnLevels);
             }
@@ -386,7 +385,7 @@ FantasyMapWidget.prototype.execute = function() {
             topMarker.fire('dragend');
         }
 
-        if (self.map.getZoom() > 6 && self.map.getBounds().intersects(self.sharnBounds)) {
+        if (self.map.getZoom() > 8 && self.map.getBounds().intersects(self.sharnBounds)) {
             if(!self.sharnLevels._map){
                 self.map.addControl(self.sharnLevels);
             }

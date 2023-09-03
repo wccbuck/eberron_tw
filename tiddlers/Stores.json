@@ -1,17 +1,1 @@
-[
-    {
-        "created": "20200419051829951",
-        "text": "''District Type:'' Warehouse district<br/>\n''Buildings:'' Warehouses (50), poor trades (25), poor\nservices (50), poor residences (400)<br/>\n''First Impression:'' Wide storage towers dominate\nthis district, surrounded by tenements and smaller\nwarehouses. The streets are full of wagons and\nlaborers hauling goods to and from the skydocks\nof [[Precarious]].<br/>\n''Social Class:'' Lower class<br/>\n''Neighbors:'' [[Callestan]] (northeast); [[Precarious]] (northwest); [[Fallen]] (south); [[Forgelight Towers]] (bridge, southeast); [[Ship's Towers]]/[[Sharn's Welcome]] (below and west); [[Stormhold]] (above); \n\nThe Stores district has much in common with [[Precarious]]. However, the Stores is not actually built on\nthe cliff side, and the [[Watch|Sharn Watch]] focuses its attention\nand resources on Precarious. The result is that the\nStores are slightly more dangerous than Precarious,\nand smugglers are more likely to hide their goods\nin these warehouses. The [[Boromar Clan]] has strong\ninterests in this district, and thus a considerable\n[[halfling]] population can be found here. ",
-        "type": "text/vnd.tiddlywiki",
-        "title": "Stores",
-        "tags": "district [[Lower Dura]] Sharn",
-        "modified": "20210924200442930",
-        "tooltip": "warehouse district in Lower Dura",
-        "style": "{\"color\":\"#6B001B\",\"fillColor\":\"#76001E\",\"fillOpacity\":0.3}",
-        "polygons": "20.103,-24.645 20.121,-24.647 20.146,-24.649 20.172,-24.643 20.193,-24.643 20.196,-24.671 20.196,-24.671 20.197,-24.701 20.197,-24.712 20.167,-24.71 20.136,-24.706 20.118,-24.7 20.095,-24.692 20.081,-24.681 20.085,-24.684 20.1,-24.653 20.103,-24.645",
-        "fmwvar": "fmw-lower",
-        "color": "#96CC39",
-        "category": "location",
-        "article": "the "
-    }
-]
+{"created": "20200419051829951", "text": "''District Type:'' Warehouse district<br/>\n''Buildings:'' Warehouses (50), poor trades (25), poor\nservices (50), poor residences (400)<br/>\n''First Impression:'' Wide storage towers dominate\nthis district, surrounded by tenements and smaller\nwarehouses. The streets are full of wagons and\nlaborers hauling goods to and from the skydocks\nof [[Precarious]].<br/>\n''Social Class:'' Lower class<br/>\n''Neighbors:'' [[Callestan]] (northeast); [[Precarious]] (northwest); [[Fallen]] (south); [[Forgelight Towers]] (bridge, southeast); [[Ship's Towers]]/[[Sharn's Welcome]] (below and west); [[Stormhold]] (above); \n\nThe Stores district has much in common with [[Precarious]]. However, the Stores is not actually built on\nthe cliff side, and the [[Watch|Sharn Watch]] focuses its attention\nand resources on Precarious. The result is that the\nStores are slightly more dangerous than Precarious,\nand smugglers are more likely to hide their goods\nin these warehouses. The [[Boromar Clan]] has strong\ninterests in this district, and thus a considerable\n[[halfling]] population can be found here. ", "type": "text/vnd.tiddlywiki", "title": "Stores", "tags": "district [[Lower Dura]] Sharn", "modified": "20210924200442930", "tooltip": "warehouse district in Lower Dura", "style": "{\"color\":\"#6B001B\",\"fillColor\":\"#76001E\",\"fillOpacity\":0.3}", "polygons": "20.146,-24.582 20.153,-24.583 20.163,-24.584 20.174,-24.581 20.182,-24.581 20.183,-24.592 20.183,-24.592 20.184,-24.604 20.184,-24.609 20.172,-24.608 20.159,-24.606 20.152,-24.604 20.143,-24.601 20.137,-24.596 20.139,-24.598 20.145,-24.585 20.146,-24.582", "fmwvar": "fmw-lower", "color": "#96CC39", "category": "location", "article": "the "}
