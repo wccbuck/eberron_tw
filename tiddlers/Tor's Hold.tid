@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20230731164930802
-modified: 20230805222336697
+modified: 20230903212510926
 points: 29.18,-7.65
 population: 200
 style: {"color": "#CA5700"}
@@ -13,6 +13,10 @@ type: text/vnd.tiddlywiki
 
 {{!!title}} is a village in [[Breland]], located on the [[White River]] west of [[Mistmarsh]]. It began as a group of steadings belonging to the seven children of Tor Habin. Old Tor has been dead for many years now, and his offspring have each raised small clans of their own. The town reeve is a man named [[Bran Habin]].
 
+A friendly [[ogre]] named Dop lives here, and works in the taro fields. He fought for the //aravaat// (easterners, i.e. the [[Five Nations]]) as a mercenary from [[Droaam]] during the [[Last War]], but decided to stay here after the fighting. He says it reminds him of home, while still being... not home. (He is from the domain of [[Tzaryan Rrac]], and had no real desire to return there after the war.)
+
 !! During the [[Reavers of Harkenwold|The Reavers of Harkenwold]] Adventure
 
 The trouble with the [[bullywug]]s in the <<navAndScrollToHeader "The Reavers of Harkenwold" "Toadwallow Caverns">> requires the folk of Tor's Hold to spend most of their time defending their lands.
+
+Dop wants to help the town and defeat the bullywugs, and will assist Arien in this task, but he needs help finding where they're coming from.
