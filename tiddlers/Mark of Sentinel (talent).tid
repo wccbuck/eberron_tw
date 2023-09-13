@@ -1,7 +1,7 @@
 category: talent
 created: 20210731230315684
 list: aegis sequester [[blade ward]] [[mage armor]] [[shield of faith]] [[compelled duel]] [[warding bond]] [[zone of truth]] counterspell [[protection from energy]] [[death ward]] [[guardian of faith]] [[arcane hand]] [[globe of invulnerability]]
-modified: 20220227213258542
+modified: 20230913030325833
 tags: [[Mark of Sentinel]] human
 title: Mark of Sentinel (talent)
 type: text/vnd.tiddlywiki
@@ -16,7 +16,7 @@ To gain the social benefits of being part of a [[dragonmarked house]], take the 
 !! Mark of Sentinel Spell List
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

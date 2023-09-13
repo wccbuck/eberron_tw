@@ -1,7 +1,7 @@
 category: talent
 created: 20211123211123144
 list: [[spare the dying]] [[speak with dead]] [[feign death]] bane [[false life]] [[gentle repose]] [[ray of enfeeblement]] revivify [[vampiric touch]] blight [[death ward]] [[antilife shell]] [[raise dead]] [[toll the dead]]
-modified: 20230801151637394
+modified: 20230913030325824
 tags: Spellcaster cleric
 title: Grave Domain
 type: text/vnd.tiddlywiki
@@ -14,7 +14,7 @@ Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster
 !! {{!!title}} Spell List
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]] [list[$:/ClericSpells]] +[sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

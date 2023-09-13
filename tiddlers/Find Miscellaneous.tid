@@ -1,6 +1,6 @@
 caption: Misc
 created: 20210302181952900
-modified: 20211126205521032
+modified: 20230913030506924
 tags: 
 title: Find Miscellaneous
 type: text/vnd.tiddlywiki
@@ -64,7 +64,7 @@ type: text/vnd.tiddlywiki
 	</div>
 	<div class="tc-manager-list">
 		<table class="manager-table">
-		<tr><th align="left" class="th-sticky">Thing</th><th align="left" width="30%" class="th-sticky">Category</th><th align="left" width="35%" class="th-sticky">Tags</th></tr>
+		<tr class="th-sticky"><th align="left">Thing</th><th align="left" width="30%">Category</th><th align="left" width="35%">Tags</th></tr>
 		<$list filter="[all{$:/config/Manager/Show}has[category]subfilter{$:/config/Manager/MiscCat}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/MiscTag}!tag{$:/config/Manager/ExcludeMiscTag}sort[title]order{$:/config/Manager/MiscSortOrder}sort{$:/config/Manager/MiscSort}order{$:/config/Manager/MiscSortOrder}subfilter{$:/config/Manager/LimitMisc!!limit50}]">
 		<tr><td>{{!!article}}<$link/></td>
 		<td>{{!!category}}</td>

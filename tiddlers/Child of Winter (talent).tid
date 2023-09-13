@@ -1,7 +1,7 @@
 category: talent
 created: 20211128034816041
 list: infestation beastspite decompose [[sleet storm]] [[insect cloud]] [[mushroom growth]] contagion [[chill touch]] [[speak with animals]] [[summon beasts]] [[animal friendship]] [[animal messenger]] [[commune with nature]] [[detect poison and disease]] druidcraft [[insect plague]] [[armor of winter]] [[giant insect]] blight [[control weather]]
-modified: 20230830003816602
+modified: 20230913030325813
 tags: Spellcaster druid [[Children of Winter]]
 title: Child of Winter (talent)
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster
 !! {{!!title}} Spell List
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

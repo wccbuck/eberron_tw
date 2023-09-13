@@ -1,7 +1,7 @@
 category: talent
 created: 20211123213828103
 list: [[magic weapon]] light [[turn the unholy]] [[protection from immortals]] sanctuary restoration [[zone of truth]] [[beacon of hope]] [[dispel magic]] [[freedom of movement]] [[guardian of faith]] commune [[flame strike]]
-modified: 20220301193146463
+modified: 20230913030325833
 tags: Spellcaster paladin
 title: Oath of Devotion
 type: text/vnd.tiddlywiki
@@ -24,7 +24,7 @@ Though the exact words and strictures of the Oath of Devotion vary, [[paladin]]s
 Choose two spells as per the [[Spellcaster]] talent rules. A [[paladin]] under the {{!!title}} might choose from the following spells.
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]] [list[$:/PaladinSpells]] +[sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

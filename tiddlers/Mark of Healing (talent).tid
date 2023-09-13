@@ -1,7 +1,7 @@
 category: talent
 created: 20210731220727273
 list: [[cure wounds]] [[healing word]] [[gentle repose]] restoration [[prayer of healing]] [[aura of vitality]] [[aura of purity]] [[aura of life]] heal regeneration [[life transference]] [[spare the dying]] [[raise dead]] resurrection
-modified: 20220227212951194
+modified: 20230913030325829
 tags: [[Mark of Healing]] halfling
 title: Mark of Healing (talent)
 type: text/vnd.tiddlywiki
@@ -18,7 +18,7 @@ To gain the social benefits of being part of a [[dragonmarked house]], take the 
 !! Mark of Healing Spell List
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

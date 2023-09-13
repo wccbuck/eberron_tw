@@ -1,7 +1,7 @@
 category: talent
 created: 20221209211536181
 list: [[enhance ability]] [[summon steed]] [[borrowed knowledge]]
-modified: 20221209213858830
+modified: 20230913030325835
 tags: Spellcaster paladin
 title: Oath of Veneration
 type: text/vnd.tiddlywiki
@@ -32,7 +32,7 @@ Choose two spells as per the [[Spellcaster]] talent rules. A [[paladin]] under t
 Alternatively, when you take this [[talent]], you may choose spells that represent your [[patron ancestor]]'s capabilities. For example, if your ancestor was a [[ranger]], you may choose spells from the [[Ranger (talent)]] list.
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]] [list[$:/PaladinSpells]] +[sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

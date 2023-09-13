@@ -1,7 +1,7 @@
 category: talent
 created: 20211130225223937
 list: [[acid splash]] [[repair damaged construct]] [[disable construct]] [[rusting grasp]] [[ray of sickness]] [[flaming sphere]] [[fire shield]] [[acid arrow]] [[gaseous form]] blight aegis thunderwave [[scorching ray]] shatter fireball [[wind wall]] [[ice storm]] [[wall of fire]] [[cone of cold]] [[wall of force]] [[death ward]] cloudkill [[fog cloud]] [[magical tinkering]] [[dancing lights]] [[fire bolt]] [[ray of frost]] light [[mage hand]] [[magic stone]] mending message [[poison spray]] prestidigitation [[shocking grasp]] [[spare the dying]] [[thorn whip]] thunderclap [[absorb elements]] alarm [[telekinetic catapult]] [[cure wounds]] [[detect magic]] [[disguise self]] [[expeditious retreat]] [[faerie fire]] [[false life]] [[feather fall]] grease identify jump longstrider [[purify food and drink]] aid [[alter self]] [[arcane lock]] [[arcane seal]] blur [[continual flame]] [[bestow darkvision]] [[enhance ability]] enlarge/reduce [[heat metal]] invisibility restoration levitate [[magic mouth]] [[magic weapon]] [[protection from poison]] pyrotechnics [[rope trick]] [[see invisibility]] skywrite [[spider climb]] web blink [[create food and water]] [[dispel magic]] [[elemental weapon]] [[flame arrows]] fly [[glyph of warding]] haste [[protection from energy]] revivify [[tiny servant]] [[water breathing]] [[water walk]] [[arcane eye]] [[elemental bane]] fabricate [[freedom of movement]] [[secret chest]] [[faithful hound]] [[private sanctum]] [[resilient sphere]] [[stone shape]] stoneskin [[animate objects]] [[arcane hand]] creation empowerment [[transmute rock]] [[wall of stone]] [[booming blade]] [[green-flame blade]] [[lightning lure]] [[sword burst]] [[caustic brew]] [[antimagic field]] [[blade barrier]] contingency [[delayed blast fireball]] [[draconic transformation]] [[flesh to stone]] [[freezing sphere]] [[globe of invulnerability]] [[heroes' feast]] [[horrid wilting]] [[incendiary cloud]] [[instant summons]] [[investiture of flame]] [[investiture of stone]] [[investiture of ice]] [[investiture of wind]] [[platinum shield]] simulacrum symbol [[create homunculus]]
-modified: 20220216201407755
+modified: 20230913030325810
 tags: artificer Spellcaster
 title: Artificer (talent)
 type: text/vnd.tiddlywiki
@@ -22,7 +22,7 @@ Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster
 !! {{!!title}} Spell List
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

@@ -89,6 +89,8 @@ FantasyMapWidget.prototype.initMap = function() {
         //worldCopyJump: true,
 		minZoom: parseInt(minZoom),
 		maxZoom: parseInt(maxZoom),
+        zoomDelta: 0.5,
+        zoomSnap: 0.5,
         // preferCanvas: true
 		renderer: L.svg({ padding: parseFloat(clipPadding) })
 	});

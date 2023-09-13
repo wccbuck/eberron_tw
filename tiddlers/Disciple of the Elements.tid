@@ -1,7 +1,7 @@
 category: talent
 created: 20211128052638487
 list: [[produce flame]] [[wind wall]] [[feather fall]] [[feather foot]] [[mold earth]] [[earth tremor]] [[shape water]] [[control water]] [[fangs of the fire snake]] [[create or destroy water]] [[burning hands]] [[cone of cold]] hold stoneskin thunderwave fireball shatter [[gaseous form]] fly [[wall of fire]] gale gust [[wall of stone]] [[wall of water]] [[investiture of ice]] [[investiture of wind]] [[investiture of stone]] [[investiture of flame]] [[astral projection]]
-modified: 20230715193937580
+modified: 20230913030325815
 tags: Spellcaster monk
 title: Disciple of the Elements
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster
 !! {{!!title}} Spell List
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

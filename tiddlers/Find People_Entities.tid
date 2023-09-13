@@ -1,6 +1,6 @@
 caption: People
 created: 20210301043114493
-modified: 20211125061605007
+modified: 20230913025713712
 tags: 
 title: Find People/Entities
 type: text/vnd.tiddlywiki
@@ -70,7 +70,7 @@ type: text/vnd.tiddlywiki
 	</div>
 	<div class="tc-manager-list">
 		<table class="manager-table">
-		<tr><th align="left" class="th-sticky">Person/Entity</th><th align="left" width="60%" class="th-sticky">Tags</th></tr>
+		<tr class="th-sticky"><th align="left">Person/Entity</th><th align="left" width="60%">Tags</th></tr>
 		<$list filter="[all{$:/config/Manager/Show}subfilter<ppl-ent>!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/PplEntType}tag:strict{$:/config/Manager/PplEntTag}tag:strict{$:/config/Manager/PplEntTag2}!tag{$:/config/Manager/ExcludePplEntTag}sort{$:/config/Manager/PplEntSort}order{$:/config/Manager/PplEntSortOrder}subfilter{$:/config/Manager/LimitPplEnt!!limit50}]">
 		<tr><td>{{!!article}}<$link/></td>
 		<td>

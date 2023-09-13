@@ -1,7 +1,7 @@
 category: talent
 created: 20210731222302265
 list: [[magical tinkering]] [[repair damaged construct]] [[disable construct]] [[conjure barrage]] [[mental tools]] [[tiny servant]] [[heat metal]] [[create homunculus]] [[animate objects]] [[control flames]] mending identify [[floating disk]] [[continual flame]] [[magic weapon]] [[elemental weapon]] fabricate [[stone shape]] creation simulacrum
-modified: 20220227213123446
+modified: 20230913030325831
 tags: human [[Mark of Making]]
 title: Mark of Making (talent)
 type: text/vnd.tiddlywiki
@@ -16,7 +16,7 @@ To gain the social benefits of being part of a [[dragonmarked house]], take the 
 !! Mark of Making Spell List
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

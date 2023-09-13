@@ -1,7 +1,7 @@
 category: talent
 created: 20210731213255412
 list: [[animal friendship]] [[enhance ability]] [[speak with animals]] [[beast sense]] [[calm emotions]] [[blessed birth]] [[summon beasts]] charm dominate [[aura of life]] awaken [[beacon of hope]] [[beast bond]] farmhand
-modified: 20220227212927082
+modified: 20230913030325829
 tags: [[Mark of Handling]] human
 title: Mark of Handling (talent)
 type: text/vnd.tiddlywiki
@@ -18,7 +18,7 @@ To gain the social benefits of being part of a [[dragonmarked house]], take the 
 !! Mark of Handling Spell List
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.23.0
-modified: 20230903204221974
+currentversion: 1.23.01
+modified: 20230913051233769
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -17,7 +17,18 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 
 </$list>
 
-!!! 1.23.0 <span style="font-weight:normal">(Sep 03, 2023)</span>
+!!! 1.23.01 <span style="font-weight:normal">(Sep 13, 2023)</span>
+
+* Changed versioning scheme; now, the second subversion (e.g. the .01 in this version) is always two digits. Version 1.22.10 screwed up the sorting in the [[Eberron TW Updater]] and I couldn't figure out any other way to fix it.
+* Added content from the Forgotten Relics adventure, including a couple of new paragraphs on the [[Terminus Station]] page, and a few new pages:
+** [[writ of enforcement]], [[Cog Carnival]], [[Niho Koi]]
+* Removed the "Story2" lists from the [[Eberron TW Updater]] so that your right-hand story river doesn't always get replaced with "Changelog" every time you update
+* Made the zoom more granular on the Map (allowed half-steps with the zoom level)
+* Fixed "sticky" table headers in [[Find Things]], spell list tables, etc. so they should show up properly as you scroll
+* Clarified that [[Second Wind]] and [[potion of second wind]] can't clear your right-most [[stress]] box, the one that represents exhaustion.
+* Fixed miscellaneous typos
+
+!!! 1.23.00 <span style="font-weight:normal">(Sep 03, 2023)</span>
 
 * Swapped Changelog and [[Readme]] columns back to how they were in 1.22.9. I failed to realize that the default page on mobile would then become the changelog rather than the readme. However, I made the Changelog now show "New here? Check the Readme" whenever the Readme is not in the story river, so that folks who navigate to this document via a specific page permalink, they'll see a thing that'll help them get their bearings.
 * ''Significantly shrank the size of several cities'' on the map. In or around 1890, the population density of Chicago was 19 people per acre, Boston's was 20, London's was 58, Paris's was 125, and Manhattan's was 143 ([[source|https://sasn.rutgers.edu/sites/default/files/sites/default/files/inline-files/ManhattanDensityApril2014.pdf]]). By comparison, my [[Korth]]'s population density was about 2, even with population increased 5x above the canon numbers. Since I want cities in the Five Nations to resemble those of our world from 1850-1900, I needed to shrink 'em to match, aiming for 10-60 people per acre. (On average. Of course, certain neighborhoods are denser than others.) The specific cities I shrank, and the linear amount by which they've been shrunk, include:
@@ -56,7 +67,7 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 * Increased strength of uncommon-tier [[stick]] spell
 * Minor [[Storyloom]] rule change: Made the final [[stress]] box represent exhaustion, taking several hours to recover from. Made a style change on the [[character sheet template]] to reflect that
 
-!!! 1.22.9 <span style="font-weight:normal">(Aug 26, 2023)</span>
+!!! 1.22.09 <span style="font-weight:normal">(Aug 26, 2023)</span>
 
 Added a lot of content from the [[Dragonmarked book|https://www.dmsguild.com/product/54305/Dragonmarked-35]].
 
@@ -66,7 +77,7 @@ Added a lot of content from the [[Dragonmarked book|https://www.dmsguild.com/pro
 * Renamed "Vedykar Enclave" to [[Resthold]] as it's described in Dragonmarked.
 * Added many other miscellaneous factoids and quotes from Dragonmarked to existing pages
 
-!!! 1.22.8 <span style="font-weight:normal">(Aug 24, 2023)</span>
+!!! 1.22.08 <span style="font-weight:normal">(Aug 24, 2023)</span>
 
 * Added some new creatures: [[achaierai]], [[phaerimm]], [[sword spider]]
 * Added details to [[bebilith]] and increased its [[creature tier]] to 4
@@ -76,7 +87,7 @@ Added a lot of content from the [[Dragonmarked book|https://www.dmsguild.com/pro
 * Added some sample names to the following pages: [[gnome]], [[half-elf]], [[Breland]], [[Aundair]], [[Karrnath]], [[Thrane]]
 * Added links to [[talent]]s to related pages (e.g. the [[atavist]] page now has a link to [[Atavist (talent)]])
 
-!!! 1.22.7 <span style="font-weight:normal">(Aug 18, 2023)</span>
+!!! 1.22.07 <span style="font-weight:normal">(Aug 18, 2023)</span>
 
 * Added [[Harmattan]], [[Indigo]], and [[Hydra]] from [[The Shattered Land|https://www.amazon.com/Shattered-Land-Dreaming-Dark-Book/dp/0786938218]]
 * Added the [[Duurwood]] forest in [[Droaam]], as described in the book [[The Queen of Stone|https://www.amazon.com/Queen-Stone-Thorn-Breland-ebook/dp/B00333FGIW/]]
@@ -99,7 +110,7 @@ Added a lot of content from the [[Dragonmarked book|https://www.dmsguild.com/pro
 * Added to the [[adventurers' guild]] page, defined what an adventurer is
 * Grammar fix: Put several floating periods and commas inside of their preceding quotation marks. I almost certainly did not get all of them.
 
-!!! 1.22.6 <span style="font-weight:normal">(Aug 06, 2023)</span>
+!!! 1.22.06 <span style="font-weight:normal">(Aug 06, 2023)</span>
 
 * Renamed Kashtarhak to [[Neabaz]] and incorporated some of that character's fly-like aspects into the speaker of [[Eldrantulku]]. Neabaz is just a cool character in Greyhawk/FR and I felt like he would be a cool addition to the Oathbreaker's retinue. I also got tired of the Kashtarhak/[[Katashka]] name similarity.
 * Added [[potion of vitality]], [[potion of second wind]], and [[amulet of warning]]
@@ -111,7 +122,7 @@ Added a lot of content from the [[Dragonmarked book|https://www.dmsguild.com/pro
 * Added "cornugon" as another alternate name for [[horned devil]]
 * Increased the cost of light armor to 2c, and medium armor to 6c, on the [[money]] page
 
-!!! 1.22.5 <span style="font-weight:normal">(Aug 02, 2023)</span>
+!!! 1.22.05 <span style="font-weight:normal">(Aug 02, 2023)</span>
 
 * Added a new [[Storyloom]] mechanic: [[initiative]]. Changed the [[Danger Sense]] talent to interact with that mechanic, and added the [[Parry and Riposte]] talent. Also changed a few items to interact with initiative, such as the [[thwackstaff]].
 * Removed the "large" advantage from [[spellguard shield]]
@@ -126,7 +137,7 @@ Added a lot of content from the [[Dragonmarked book|https://www.dmsguild.com/pro
 * Clarified that you can't benefit from the effects of most of your worn equipment in [[Wild Shape (talent)]]
 * Clarified effect of [[death ward]] spell
 
-!!! 1.22.4 <span style="font-weight:normal">(July 28, 2023)</span>
+!!! 1.22.04 <span style="font-weight:normal">(July 28, 2023)</span>
 
 * Added some content from [[Linvraki's Guide to Syrkarn|https://www.dmsguild.com/product/429681/Linvakris-Guide-to-Syrkarn]] by Vani Srinivasan. I added some details to each of the provinces along with [[Gjitha]] and [[Nderitese]], moved Gjitha to the coast, and added some extra color to the [[Syrk]] language and the cuisine section of [[Syrks]] page. I didn't add everything, since not all of it resonates with me, especially the parts that contradict canon/kanon (e.g. the Flaming Sands section of Linvraki's says time moves faster in [[Fernia]], but that's not true according to Exploring Eberron). New pages:
 ** [[sheshmiraj]], [[Dal Vesh]], [[Flaming Sands]]
@@ -137,7 +148,7 @@ Added a lot of content from the [[Dragonmarked book|https://www.dmsguild.com/pro
 * Added [[monk]]-related [[talent]]s: [[Disciple of the Open Hand]], [[Tranquility]], [[Quivering Palm]]
 * Added [[izmbi]] from Forge of War. Also added [[zezir]] and [[golothoma]] creatures from old Monster Manuals.
 
-!!! 1.22.3 <span style="font-weight:normal">(July 7, 2023)</span>
+!!! 1.22.03 <span style="font-weight:normal">(July 7, 2023)</span>
 
 * Added a lot to [[gargoyle]], [[Grimstone Keep]], and [[nabassu]]. New pages: [[Gargoyle (talent)]], [[Wings of Stone]], [[Hewn for Battle]]
 * Added to/tweaked the talents [[Warforged (talent)]], [[Warforged Integrated Protection]], and [[Juggernaut Upgrade]]
@@ -146,12 +157,12 @@ Added a lot of content from the [[Dragonmarked book|https://www.dmsguild.com/pro
 * Specified that [[Jorlanna d'Cannith]] is an [[alchemist]]
 * Added [[Talon Bay]]; it was given a name in the Eyes of the Lich Queen adventure
 
-!!! 1.22.2 <span style="font-weight:normal">(June 26, 2023)</span>
+!!! 1.22.02 <span style="font-weight:normal">(June 26, 2023)</span>
 
 * Updated the [[Eberron]] page to be a better summary of the setting
 * Added [[Abyssal]] to the [[language translator]]
 
-!!! 1.22.1 <span style="font-weight:normal">(June 20, 2023)</span>
+!!! 1.22.01 <span style="font-weight:normal">(June 20, 2023)</span>
 
 * Added the [[Dagger Span]] bridge and slightly adjusted its position on the map
 * Shrank the size of the [[Gloaming]] and the [[Twilight Demesne]] on the map
@@ -163,7 +174,7 @@ Added a lot of content from the [[Dragonmarked book|https://www.dmsguild.com/pro
 * Renamed Daggerchill River to [[Marrilach River]] to avoid confusion with Dagger River (just gave it a different Shattered Gates of Slaughtergarde name)
 * Removed "creature template" tag since I was only using it for one creature
 
-!!! 1.22.0 <span style="font-weight:normal">(June 15, 2023)</span>
+!!! 1.22.00 <span style="font-weight:normal">(June 15, 2023)</span>
 
 Added a second story river! Now the Eberron TW has two columns, so users can look at two pages (or even the same page) side-by-side. I'm really looking forward to using this feature when prepping and running games as a GM. This enhancement is thanks to [[Saq's Stories plugin|https://giffmex.org/stroll/stroll.html#%24%3A%2Fplugins%2Fsq%2FStories]]. I had to tweak some things to make it work with my scroll-to-header feature and custom title bars, but I think it's all working! 
 
@@ -194,7 +205,7 @@ This update also includes the following changes and additions:
 * Added a little info on food and drink to the Five Nations Culture pages, and also added the following new pages:
 ** [[Blink Dog Brew]], [[Mror mushroom brew]], [[waterhouse]], [[preserving pine]]
 
-!!! 1.21.4 <span style="font-weight:normal">(May 19, 2023)</span>
+!!! 1.21.04 <span style="font-weight:normal">(May 19, 2023)</span>
 
 * Created a [[language translator]]! Transform anything you type into something that could plausibly be a translation into your chosen fantasy language. Ten languages to choose from, and possibly more on the way.
 * Changed "Mjordai" language name to [[Dethek]]
@@ -205,7 +216,7 @@ This update also includes the following changes and additions:
 * Added material spellcasting component to [[tiny hut]]
 * Improved how tooltips look. I experimented with adding a filtered list of tags to the tooltip, but it slowed things down to a crawl.
 
-!!! 1.21.3 <span style="font-weight:normal">(May 04, 2023)</span>
+!!! 1.21.03 <span style="font-weight:normal">(May 04, 2023)</span>
 
 * Added a whole lot to [[Prince of Frost]], using content from Dragon 374. I changed some details, like the "Raven Queen" has been changed to the [[Lady in Shadow]]. New pages:
 ** [[Sisters of Lament]], [[Wintertouched]], [[Azara Iceborn]]
@@ -219,7 +230,7 @@ This update also includes the following changes and additions:
 * Fixed a few typos I noticed when reading through the [[Eldeen Reaches]] page and several related pages
 * Rephrased some things in the [[Readme]]
 
-!!! 1.21.2 <span style="font-weight:normal">(Apr 25, 2023)</span>
+!!! 1.21.02 <span style="font-weight:normal">(Apr 25, 2023)</span>
 
 * Added to [[skycoach]]. New related pages:
 ** [[sky medallion]], [[Serra Narim]], the [[Swan]], [[Andala Undalon]], the [[Gold Line]], [[Aureon's Flight]], [[Roo]], [[Eagle's Claw]], [[Dael Tantein]]
@@ -230,7 +241,7 @@ This update also includes the following changes and additions:
 * Replaced some "he or she"s with "they"s
 * Added some more tooltips
 
-!!! 1.21.1 <span style="font-weight:normal">(Apr 21, 2023)</span>
+!!! 1.21.01 <span style="font-weight:normal">(Apr 21, 2023)</span>
 
 * Simplified [[boost]] mechanics. No more adding to your dice pool based on the [[approach]]es you choose. Instead, [[overcome]] attempts use two dice, and boosts use three. As normal, you can add dice to your pool before the roll using [[advantage]]s and after by [[pushing yourself|push yourself]] or spending [[story point]]s.
 * Renamed "partial success" to [[mixed success]].
@@ -254,7 +265,7 @@ This update also includes the following changes and additions:
 * On pages that start with a description, added a divider between the "flavor text" and the main body of the text
 * Character sheet css tweaks
 
-!!! 1.21.0 <span style="font-weight:normal">(Mar 24, 2023)</span>
+!!! 1.21.00 <span style="font-weight:normal">(Mar 24, 2023)</span>
 
 Big [[Storyloom]] change: actions and attributes have been replaced with [[approach]]es. Making attempts now works a bit differently; see [[Taking Action]] for updated details. The [[character sheet template]] has also been updated to reflect these changes.
 
@@ -290,7 +301,7 @@ Known issues:
 <$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
 </$button>
 
-!!! 1.20.5 <span style="font-weight:normal">(Feb 17, 2023)</span>
+!!! 1.20.05 <span style="font-weight:normal">(Feb 17, 2023)</span>
 
 * Added [[unbreakable weapon]]
 * Added to [[Atur]]
@@ -301,7 +312,7 @@ Known issues:
 * Added the [[talent]]s [[Jack-Of-All-Trades]] and [[Dilettante Spellcaster]]
 * Added clarifying language to some [[Storyloom]] game mechanics
 
-!!! 1.20.4 <span style="font-weight:normal">(Jan 5, 2023)</span>
+!!! 1.20.04 <span style="font-weight:normal">(Jan 5, 2023)</span>
 
 * Added a "scroll to header" feature. This allows me to have little tables of contents for long pages with links to specific headers, making navigation a lot easier. I can also link to specific sections on pages. This feature works much smoother than Tiddlywiki's default anchor links feature. In addition to links within a page (like with tables of contents), I can also link to headers on other pages; e.g. I can link a specific section of the [[Xoriat]] page like this: <<navAndScrollToHeader "Xoriat" "Denizens">>
 * Renamed "Gordion rope" to "[[Gordian rope]]" (typo)
@@ -310,7 +321,7 @@ Known issues:
 * Added some common magic items inspired by the "minor property" table of the 5e DMG: [[beacon weapon]], [[delver's amulet]], [[gleaming weapon]]
 * Added a little to [[Etrigani]]
 
-!!! 1.20.3 <span style="font-weight:normal">(Dec 28, 2022)</span>
+!!! 1.20.03 <span style="font-weight:normal">(Dec 28, 2022)</span>
 
 * Added a bit to the [[undead]] page
 * Categorized [[item usage tag]]s into their own page, and made a separate tag selector on Find Items for these
@@ -327,7 +338,7 @@ Known issues:
 * Added a bit to [[Noldrunhold]]
 * Significantly shrank the size of the [[Vermishards]] on the map. I made them a lot bigger previously to match the larger size of [[Metrol]] compared to the tiny city of the Five Nations map, but in so doing, I made them like 3 miles wide. They were more plateaus than towers. This way they match official descriptions better.
 
-!!! 1.20.2 <span style="font-weight:normal">(Dec 19, 2022)</span>
+!!! 1.20.02 <span style="font-weight:normal">(Dec 19, 2022)</span>
 
 * Added subcategories to [[My Stuff]] (under My Items)
 * Changed the [[aid]] spell to be more akin to the 3.5E version (single target, morale boost). Also added [[potion of aid]].
@@ -336,7 +347,7 @@ Known issues:
 * Added a few fey items: [[feywine raisin]], [[night's mantle]], [[pixie music box]]
 * Added [[grig]] creature
 
-!!! 1.20.1 <span style="font-weight:normal">(Dec 18, 2022)</span>
+!!! 1.20.01 <span style="font-weight:normal">(Dec 18, 2022)</span>
 
 * Slightly reorganized the [[religion]] page. Also removed "Sovereign Host" tag from [[Children of Jes]] page and replaced it with "Dark Six"
 * Expanded on [[Yarkuun Draal]] from the Five Nations book, with some help from Chronicles of Eberron to make it usable.
@@ -344,7 +355,7 @@ Known issues:
 * Added the [[Jolnar]] family from Exploring Eberron
 * More tooltips
 
-!!! 1.20.0 <span style="font-weight:normal">(Dec 15, 2022)</span>
+!!! 1.20.00 <span style="font-weight:normal">(Dec 15, 2022)</span>
 
 Lore stuff:
 
@@ -387,7 +398,7 @@ Lore stuff:
 * Fixed a couple of random generators that weren't applying weights to outcomes properly
 * Added "object" category back onto some object tags; added "weapon" tag to weapon category pages like "crossbow," "sword" etc even if they were stubs
 
-!!! 1.19.2 <span style="font-weight:normal">(Nov 30, 2022)</span>
+!!! 1.19.02 <span style="font-weight:normal">(Nov 30, 2022)</span>
 
 * Improved the [[random name generator]] further, mostly the [[drow]] name generator
 * Added a bunch of content from the [[City of Towers|https://www.amazon.com/City-Towers-Eberron-Dreaming-Dark/dp/0786935847]], [[Shattered Land|https://www.amazon.com/Shattered-Land-Dreaming-Dark-Book/dp/0786938218]], and [[Gates of Night|https://www.amazon.com/Gates-Night-Dreaming-Dark-Book-ebook/dp/B0036S4EHI]] novels. Lots of changes and additions big and small. I didn't add all the Deepwood Moon stuff, but it's coming soon. New pages:
@@ -396,12 +407,12 @@ Lore stuff:
 ** [[arcane blight]], [[blinding sickness]], [[bluerot]], [[cackle fever]], [[filth fever]], [[flesh rot]], [[ghoul gut]], [[gnawing plague]], [[mindfire]], [[saprophytic plague]], [[seizure sickness]], [[sewer plague]], [[shivering sickness]], [[sight rot]], [[slimy doom]]
 * Made [[forgehold]] its own page
 
-!!! 1.19.1 <span style="font-weight:normal">(Nov 28, 2022)</span>
+!!! 1.19.01 <span style="font-weight:normal">(Nov 28, 2022)</span>
 
 * Improved the [[random name generator]]. Made the distribution of name lengths more clustered towards the average, rather than tons of 3-character and 9-character names.
 ** Also added generators for [[Lhazaar Principalities]], [[Tashana Tundra]], and the [[drow]] of [[Xen'drik]].
 
-!!! 1.19.0 <span style="font-weight:normal">(Nov 27, 2022)</span>
+!!! 1.19.00 <span style="font-weight:normal">(Nov 27, 2022)</span>
 
 * Added [[random name generator]]
 * Added [[Sunless Feoral]] and added a bunch to [[Dral Khatuur]].
@@ -427,12 +438,12 @@ Lore stuff:
 * Adjusted the boundaries between the [[Lhazaar Sea]], [[Sea of Rage]], and [[Dragonreach]]. Somehow I missed that [[Adder Bay]] is supposed to be part of the Lhazaar Sea.
 * Renamed some javascript plugins I made, added 'wccbuck' to the title
 
-!!! 1.18.8 <span style="font-weight:normal">(Nov 11, 2022)</span>
+!!! 1.18.08 <span style="font-weight:normal">(Nov 11, 2022)</span>
 
 * Fixed typos and mistakes
 * Added a little folk tale blurb to [[harpy]]
 
-!!! 1.18.7 <span style="font-weight:normal">(Nov 08, 2022)</span>
+!!! 1.18.07 <span style="font-weight:normal">(Nov 08, 2022)</span>
 
 * Added the names of the [[Sibling Kings]]
 * Added [[ghoul]] varieties
@@ -441,7 +452,7 @@ Lore stuff:
 * Clarified that [[Moranna ir'Wynarn]] ruled [[Karrnath]] for decades after King Jaron's death
 * Added a few more tooltips
 
-!!! 1.18.6 <span style="font-weight:normal">(Nov 06, 2022)</span>
+!!! 1.18.06 <span style="font-weight:normal">(Nov 06, 2022)</span>
 
 * Added [[Headless Haralara]]
 * Added a bit to [[Shadukar]]
@@ -453,7 +464,7 @@ Lore stuff:
 * Added a link to [[Find Things]] on the advanced search page
 * Added an option to open the progress clocks tool in the main story river (this part of the page, not the alert to the right)
 
-!!! 1.18.5 <span style="font-weight:normal">(Nov 04, 2022)</span>
+!!! 1.18.05 <span style="font-weight:normal">(Nov 04, 2022)</span>
 
 * Added [[time zones of Eberron]]. Now you can see what time it is in Sharn when it's 3:00 PM in Regalport!
 * Added [[Sovereign Saints and Relics]]
@@ -465,11 +476,11 @@ Lore stuff:
 * Added the following weird fish and birds from [[Box Full of Boxes Blog|https://boxfullofboxes.blogspot.com/]]:
 ** [[inkgill fish]], [[tindul steamfish]] (renamed from "Dolchean" steamfish), [[plunder crab]], [[widow whale]], [[lighthouse shark]], [[missile shrimp]], [[dream char]], [[adamantine urchin]], [[etherfish]], [[sandsprinter]], [[cloudjay]].
 
-!!! 1.18.4 <span style="font-weight:normal">(Oct 19, 2022)</span>
+!!! 1.18.04 <span style="font-weight:normal">(Oct 19, 2022)</span>
 
 * Fixed download button
 
-!!! 1.18.3 <span style="font-weight:normal">(Sep 28, 2022)</span>
+!!! 1.18.03 <span style="font-weight:normal">(Sep 28, 2022)</span>
 
 * Removed "Sharn" tag from [[Redcloak Battalion]]
 * Added some missing links to [[Droaamish History]] and [[Culture of Droaam]]
@@ -478,7 +489,7 @@ Lore stuff:
 * Updated some information on the [[medusa]] page
 * Map tweak: Fixed the [[Glamerwind River]], made it actually connect to the bay
 
-!!! 1.18.2 <span style="font-weight:normal">(Sep 19, 2022)</span>
+!!! 1.18.02 <span style="font-weight:normal">(Sep 19, 2022)</span>
 
 * Added [[Manifest Legion]] and [[Von Harrla's Regiment]] (originally "Red Gauntlet Regiment," changed name to avoid confusion with [[Redcloak Battalion]]). Also added the page [[Karlerren ir'Vore]].
 * Added an "Allies" and "Enemies" section to the [[Redcloak Battalion]] page
@@ -490,7 +501,7 @@ Lore stuff:
 * Moved the course of the [[Copper River]] such that it flowed through [[Galethspyre]]
 * More tooltips
 
-!!! 1.18.1 <span style="font-weight:normal">(Sep 05, 2022)</span>
+!!! 1.18.01 <span style="font-weight:normal">(Sep 05, 2022)</span>
 
 * Added a mountain on the map for the [[Great Crag]] as well as a little one near [[Castle Arakhain]]
 * Renamed the island formerly known as Three Barrel Cove into [[Shankhabhumi]] (from Journeys through the Radiant Citadel), and used the name [[Three Barrel Cove]] for the little bay next to [[Barrel's Bottom]]. Added the following locations, also from JttRC:
@@ -503,7 +514,7 @@ Lore stuff:
 * Added links to other misc pages
 * More tooltips
 
-!!! 1.18.0 <span style="font-weight:normal">(Aug 29, 2022)</span>
+!!! 1.18.00 <span style="font-weight:normal">(Aug 29, 2022)</span>
 
 Added some Threshold-related stuff:
 
@@ -551,7 +562,7 @@ Tweaks, bug fixes, and smaller additions:
 * Made [[Tain Gala]] quarterly instead of monthly. I could have sworn I already made this change but apparently not
 * Fixed a very common typo throughout the document: "worshippers," "worshipping" etc have had one "p" removed
 
-!!! 1.17.4 <span style="font-weight:normal">(Aug 12, 2022)</span>
+!!! 1.17.04 <span style="font-weight:normal">(Aug 12, 2022)</span>
 
 * Added a bunch of tooltips to various pages
 * Added instructions and costs for creating [[magic item]]s
@@ -564,7 +575,7 @@ Tweaks, bug fixes, and smaller additions:
 * Changed [[Impeded Magic]] to read: "the [[impact]] of all spells cast here of [[uncommon-tier|spell tier]] or higher is reduced by 1."
 * Added [[Brimstone Brakker]]
 
-!!! 1.17.3 <span style="font-weight:normal">(Aug 3, 2022)</span>
+!!! 1.17.03 <span style="font-weight:normal">(Aug 3, 2022)</span>
 
 * Added [[gnoll]] "contract names" from Exploring Eberron
 * Added a bit to [[Galethspyre]] and [[Gatherhold]] from [[this old KB blog post|https://keith-baker.com/dragonmarks-lost-lands-and-obscure-places/]]
@@ -574,14 +585,14 @@ Tweaks, bug fixes, and smaller additions:
 * Added [[universal property]] as a separate phenomenon category with pages for each one:
 ** [[Absolute Peace]], [[Bloodletting]], [[Broken Rhythms]], [[Burning Bright]], [[Chaotic Time]], [[Constant Change]], [[Dangerous Revelations]], [[Deadly Heat]], [[Elemental Power]], [[Embrace the Unknown]], [[Empowered Fire]], [[Empowered Ice]], [[Enchanted Realm]], [[Eternal Ennui]], [[Eternal Shadows]], [[Extended Druidic Magic]], [[Extended Illusion]], [[Extremely Morphic]], [[Eyes of the Law]], [[Fight On]], [[Fires of Industry]], [[Flexible Time]], [[Flowing Time]], [[Fluid in Form]], [[Gentle Thoughts]], [[Hunger of Mabar]], [[Impeded Illusion]], [[Impeded Magic]], [[Indomitable Beasts]], [[Lethal Cold]], [[Life Triumphant]], [[Light of Life]], [[Necrotic Power]], [[Necrotic Void]], [[No Chance]], [[Plane of Truth]], [[Preservation]], [[Primordial Matter]], [[Pure Light]], [[Radiant Power]], [[Radiant Void]], [[Stagnation]], [[Stillness of Flesh]], [[Storybook Logic]], [[Strange Reality]], [[The Land Provides]], [[Time Is An Illusion]], [[Timeless]], [[Unburdened]], [[Universal Understanding]], [[Unpredictable Magic]], [[Unquenchable Fury]], [[War Magic]], [[Words Have Power]]
 
-!!! 1.17.2 <span style="font-weight:normal">(Jul 24, 2022)</span>
+!!! 1.17.02 <span style="font-weight:normal">(Jul 24, 2022)</span>
 
 * Added [[spellbook]], [[arcane grimoire]], [[arrow of slaying]]
 * Added a little name generator to [[yuan-ti]]
 * Added [[Daan]] language
 * Added the [[talent]]s: [[Favored Quarry]], [[Healer]], [[Sahuagin (talent)]], [[Triton]], and [[Yuan-Ti Pureblood (talent)]]
 
-!!! 1.17.1 <span style="font-weight:normal">(Jul 20, 2022)</span>
+!!! 1.17.01 <span style="font-weight:normal">(Jul 20, 2022)</span>
 
 * Fixed bug causing Import to not work anymore. A tiddlywiki version update broke this
 * Added [[barbarian]] and associated [[talent]]s:
@@ -596,7 +607,7 @@ Tweaks, bug fixes, and smaller additions:
 * Added [[decompose]] cantrip
 * Made a few typo fixes and style tweaks
 
-!!! 1.17.0 <span style="font-weight:normal">(Jul 15, 2022)</span>
+!!! 1.17.00 <span style="font-weight:normal">(Jul 15, 2022)</span>
 
 * Added a bunch (140) of "weird magic items" from [[donjon.bin.sh|https://donjon.bin.sh/5e/random/#type=weird_magic_item]] (or inspired by something I saw from that list):
 ** Common
@@ -631,11 +642,11 @@ Tweaks, bug fixes, and smaller additions:
 * Clarified in the [[Silver Flame]] page that the Flame does not "burn" like mundane fire. Changed the spell list for [[Aasimar of the Silver Flame]] to reflect that
 * Changed the year of [[Thaliost]]'s occupation from 926 to 977
 
-!!! 1.16.7 <span style="font-weight:normal">(Jun 21, 2022)</span>
+!!! 1.16.07 <span style="font-weight:normal">(Jun 21, 2022)</span>
 
 * Added [[Children of Jes]] along with a few other tidbits from Exploring Eberron that I missed
 
-!!! 1.16.6 <span style="font-weight:normal">(Jun 19, 2022)</span>
+!!! 1.16.06 <span style="font-weight:normal">(Jun 19, 2022)</span>
 
 * Added more missing links, tweaked some phrasing and details in [[Starilaskur]] as well as a couple of [[arcane order]]s
 * Made several new pages for people mentioned by name in place pages or organization pages
@@ -647,7 +658,7 @@ Tweaks, bug fixes, and smaller additions:
 * Added [[Psi Warrior|Psi Warrior (talent)]] and [[Telekinetic Master]] talents, and added a bit to the [[aegis]] spell
 * Reduced the duration of [[alter self]] from 1 hour to 10 minutes
 
-!!! 1.16.5 <span style="font-weight:normal">(Jun 1, 2022)</span>
+!!! 1.16.05 <span style="font-weight:normal">(Jun 1, 2022)</span>
 
 * Added some missing links
 * Added a little quote to [[Sejra Whitebinder]] from Faiths of Eberron
@@ -655,7 +666,7 @@ Tweaks, bug fixes, and smaller additions:
 * Added a note to [[Starilaskur]] about which duchy it's in
 * "Linkified" some towns and fortresses in western Breland mentioned in some [[Sharn Inquisitive]] articles. I had been holding off doing that until FoE: Threshold came out, but might as well link them now and fill them in later. 
 
-!!! 1.16.4 <span style="font-weight:normal">(May 22, 2022)</span>
+!!! 1.16.04 <span style="font-weight:normal">(May 22, 2022)</span>
 
 * Added lots of info about the clans of House [[Tharashk]] from KB's recent [[blog post|https://keith-baker.com/families-tharashk/]]
 ** New pages: [['Aarna]], [[Brokaa]], [[Istaaran]], [['Oorac]], [[Torruk]], [[Torshaa]], [[Vaalda]], [[Veldokaa]]
@@ -663,11 +674,11 @@ Tweaks, bug fixes, and smaller additions:
 * "Torrm" the Gatekeeper is too similar to [[Torrn]], so I renamed her "[[Tazlag]]."
 * Made some [[language]] changes. Removed "Vvaraa'shul" and merged it with [[Orcish]]. Added [[Low Giant]], [[Syrk]], and [[Khunanese]] languages, as well as the [[extinct]] tag.
 
-!!! 1.16.3 <span style="font-weight:normal">(May 9, 2022)</span>
+!!! 1.16.03 <span style="font-weight:normal">(May 9, 2022)</span>
 
 * Added [[gem dragon]]s, and their five varieties: [[amethyst dragon]], [[emerald dragon]], [[quartz dragon]] (renamed "crystal dragon"), [[sapphire dragon]], and [[topaz dragon]].
 
-!!! 1.16.2 <span style="font-weight:normal">(May 7, 2022)</span>
+!!! 1.16.02 <span style="font-weight:normal">(May 7, 2022)</span>
 
 * Clarified some language in the [[Towering Wood]] page
 * Added a little bit to [[lightning rail]] and [[Wynarn Institute of Art]]
@@ -676,13 +687,13 @@ Tweaks, bug fixes, and smaller additions:
 * Added [[deceased]] tag for people/entities no longer extant. This tag enables the user to filter by individuals who are still around, not just a part of history
 * Removed d' from [[Mala Boromar Jorasco]] because she doesn't have a [[dragonmark]]
 
-!!! 1.16.1 <span style="font-weight:normal">(May 4, 2022)</span>
+!!! 1.16.01 <span style="font-weight:normal">(May 4, 2022)</span>
 
 * Fixed half-moon weirdness in [[lunar phases of Eberron]] in some browsers
 * Fixed a missing link in [[Age of Monsters]]
 * Clarified a few points in some [[Storyloom]] pages
 
-!!! 1.16.0 <span style="font-weight:normal">(May 4, 2022)</span>
+!!! 1.16.00 <span style="font-weight:normal">(May 4, 2022)</span>
 
 * TW tools and features:
 ** Added [[lunar phases of Eberron]].
@@ -712,14 +723,14 @@ Tweaks, bug fixes, and smaller additions:
 ** Added [[balewolf]] creature
 ** Added a bit to [[speak with dead]]
 
-!!! 1.15.3 <span style="font-weight:normal">(Apr 12, 2022)</span>
+!!! 1.15.03 <span style="font-weight:normal">(Apr 12, 2022)</span>
 
 * Added [[Curse of the Titans]] and [[Belericax]] from Secrets of Xen'drik.
 * Added the missing towns [[Gjitha]] and [[Per]] to [[Syrkarn]]. Renamed the [[changeling]] previously named Per to "[[Vurs]]."
 * Added "the" article to each of the [[era]]s.
 * Added "Copy title to clipboard" button next to the title of every tiddler.
 
-!!! 1.15.2 <span style="font-weight:normal">(Apr 8, 2022)</span>
+!!! 1.15.02 <span style="font-weight:normal">(Apr 8, 2022)</span>
 
 * Improved [[Silver Flame]] holiday list (now shows dates)
 * Tweaked a few of the [[language]] pages:
@@ -730,7 +741,7 @@ Tweaks, bug fixes, and smaller additions:
 * Added some demographics to the four big [[Khorvaire]] nations. Didn't do the others mentioned in the ECS because I don't agree with some of them; like [[Darguun]] shouldn't have only 6% humans. (EDIT: I take it back, there are good reasons for this)
 * Added [[kleynam]] ("small town"), [[Asta Vanalan]], [[Sorallandan]], [[Ghallanda Scouts]].
 
-!!! 1.15.1 <span style="font-weight:normal">(Apr 1, 2022)</span>
+!!! 1.15.01 <span style="font-weight:normal">(Apr 1, 2022)</span>
 
 * Fleshed out the [[Sovereign Host]] pages a bit
 * Added an Octagram svg image and put it on the [[Sovereign Host]] page, as well as recolored versions on each Sovereign's page
@@ -743,7 +754,7 @@ Tweaks, bug fixes, and smaller additions:
 * Added "alternatetitle" field to certain pages whose names I've changed for one reason or another. That way, searching "Basura Swamp" still gives you "Basira Swamp" as a title match (which I renamed because I can't say "trash swamp" with a straight face).
 * You can now also search for, say, "Rage of War," and [[Rak Tulkhesh]] will show up as a title match.
 
-!!! 1.15.0 <span style="font-weight:normal">(Mar 25, 2022)</span>
+!!! 1.15.00 <span style="font-weight:normal">(Mar 25, 2022)</span>
 
 * Added lots of content about [[overlord]]s based on [[KB's blog post|https://keith-baker.com/dm-overlords-2022/]]. Only made a few small changes for the purposes of this document: 
 ** I renamed "Asshalara" [[Zetsash]] because I didn't particularly like that name, and also didn't want two new members of the Bleak Council with super similar names ([[Shalashar]] and Asshalara)
@@ -765,7 +776,7 @@ Tweaks, bug fixes, and smaller additions:
 * Made some adjustments to [[genasi]] [[talent]]s to reflect some changes coming in Monsters of the Multiverse
 * Added [[Nobility of the Five Nations]] page. While I was at it, doubled the number of noble representatives in the [[Breland Parliament]]. I however kept the canon material about [[Antus ir'Soldorak]] having a [[Karrnath]]i noble title, not a [[Brelish|Breland]] one. Also split the pages [[Lord Mayor of Sharn]] and [[Cathan ir'Demell]].
 
-!!! 1.14.3 <span style="font-weight:normal">(Mar 8, 2022)</span>
+!!! 1.14.03 <span style="font-weight:normal">(Mar 8, 2022)</span>
 
 * Made some small additions to the [[Silver Crusade]] page
 * Added some stuff from the [[4e player's guide|https://www.dmsguild.com/product/150472/Eberron-Players-Guide-4e]] in the pages [[swiftblade]] and [[Ghorad'din]]
@@ -773,12 +784,12 @@ Tweaks, bug fixes, and smaller additions:
 * Also from Faiths of Eberron: [[liturgical council]]s, and two examples: [[Host of Khorvaire]], and the [[Devout of the Celestial Crown]]
 * Added [[Moon Breaker]]
 
-!!! 1.14.2 <span style="font-weight:normal">(Mar 4, 2022)</span>
+!!! 1.14.02 <span style="font-weight:normal">(Mar 4, 2022)</span>
 
 * Made separate pages for several people/entities who were mentioned in location/organization pages, but didn't yet have pages of their own. This is going to be a slow, ongoing effort; the intention is to have most named characters searchable, even if their description is not much more than a stub.
 * Fixed some missing links
 
-!!! 1.14.1 <span style="font-weight:normal">(Mar 1, 2022)</span>
+!!! 1.14.01 <span style="font-weight:normal">(Mar 1, 2022)</span>
 
 * Added to the [[flumph]] and [[dreamspace]] pages from KB's recent [[blog post|https://keith-baker.com/ifaq-flumphs/]]
 ** New pages: [[Uul'gaanu]], [[Dream Scion]], [[Dream of Strength]], [[Dream of Perception]]
@@ -786,7 +797,7 @@ Tweaks, bug fixes, and smaller additions:
 ** [[Delirium Stone]], Lord [[Aehion Hanius Hayttear]], [[Charisma]]
 * Added a section to [[talent]] pages which act as prerequisites to other talents. Now you can more easily see what you have access to when you take these prerequisites.
 
-!!! 1.14.0 <span style="font-weight:normal">(Feb 27, 2022)</span>
+!!! 1.14.00 <span style="font-weight:normal">(Feb 27, 2022)</span>
 
 * Added a more robust tag system for [[magic item]]s. Created subcategories for weapons, armor, magical implements, accessories, and tools. This includes tags such as "[[detection]]," "[[stealth]]," and "[[mobility]]" that offer a bit of description as to the item's primary purpose. Because weapons, armor, and vehicles already have an obvious usage, I haven't put many usage tags on these items; adding the "[[protection]]" tag on every single suit of armor, or "[[mobility]]" on every vehicle, would be redundant. Full list of new tags:
 ** For armor/accessories: [[body]], [[head]], [[arms]], [[legs]], [[shield]], [[jewelry]]
@@ -809,42 +820,42 @@ Tweaks, bug fixes, and smaller additions:
 * Fixed some population/tag inconsistencies on towns that had more than 5000 residents. Some towns got upgraded to cities, others had their populations reduced.
 * Drop-down for adding tags now only shows tags for that tiddler's category, instead of all tags for the entire document. The drop-down now loads much faster as a result.
 
-!!! 1.13.7 <span style="font-weight:normal">(Feb 15, 2022)</span>
+!!! 1.13.07 <span style="font-weight:normal">(Feb 15, 2022)</span>
 
 * Added a bit of content I forgot to finish adding from KB's [[Ghost Stories article|https://keith-baker.com/ghost-stories/]]. Added to several pages related to undead, but also created the following new ones:
 ** Prince [[Moren]], the [[Silent Knight]], [[dawn specter]], [[Azael Vadallia]], the [[Crimson Shadow]]
 
-!!! 1.13.6 <span style="font-weight:normal">(Feb 12, 2022)</span>
+!!! 1.13.06 <span style="font-weight:normal">(Feb 12, 2022)</span>
 
 * Added [[magical healing]] rules 
 * Tweaked accents under [[Common]] language page
 
-!!! 1.13.5 <span style="font-weight:normal">(Feb 11, 2022)</span>
+!!! 1.13.05 <span style="font-weight:normal">(Feb 11, 2022)</span>
 
 * Added the [[Rose Queen]], [[archfey]] ruler of [[Shae Loralyndar]]. In canon, the ruler is "Lord Eversun," but KB refers to the Rose Queen as the ruler in the book The Fading Dream. I used the Selephra article from Dungeon Magazine #185 for inspiration.
 * Added a bit to [[Starilaskur]] based on [[Crossroads of Destiny|https://www.dmsguild.com/product/361655/Eberron--Crossroads-of-Destiny-Starilaskur]] (3rd party)
 * Added a little detail to cities of [[Cyre]]/the [[Mournland]], inspired by [[Politics of Cyre|https://www.dmsguild.com/product/385313/Politics-of-Cyre]] (3rd party)
 
-!!! 1.13.4 <span style="font-weight:normal">(Feb 8, 2022)</span>
+!!! 1.13.04 <span style="font-weight:normal">(Feb 8, 2022)</span>
 
 * Added [[Nowhere]], a town in [[Breland]] mentioned in Five Nations
 * Increased the [[spell tier]] of [[flaming sphere]] from uncommon to rare
 * Fixed some typos, removed a couple of "as an action"s
 
-!!! 1.13.3 <span style="font-weight:normal">(Feb 7, 2022)</span>
+!!! 1.13.03 <span style="font-weight:normal">(Feb 7, 2022)</span>
 
 * Added a [[talent]] tab to [[My Stuff]]
 * Added several [[Pathfinder 2E|https://paizo.com/products/btq01zp4?Pathfinder-Bestiary]] creatures (some of which have been changed significantly from their pathfinder versions):
 ** [[baomal]], [[bunyip]], [[cauthooj]], [[shemhazian]], [[dezullon]], [[drakauthix]], [[grothlut]], [[gogiteth]], [[gug]], [[nilith]], [[sea serpent]], [[shuln]], [[slurk]], [[wendigo]]
 ** Also renamed "darkling" to [[caligni]].
 
-!!! 1.13.2 <span style="font-weight:normal">(Feb 6, 2022)</span>
+!!! 1.13.02 <span style="font-weight:normal">(Feb 6, 2022)</span>
 
 * Tweaked [[Taratai]] page to fit KB's version of early [[kalashtar]] history; added [[Kalashtar History]] and [[Void of Taratai]] pages.
 * Clarified language on [[aspect]] page
 * Fixed some typos
 
-!!! 1.13.1 <span style="font-weight:normal">(Feb 3, 2022)</span>
+!!! 1.13.01 <span style="font-weight:normal">(Feb 3, 2022)</span>
 
 * Added some missing content to [[Mistmarsh]] and [[Faded Forest]]
 * Corrected description of [[Seawall Mountains]]
@@ -852,7 +863,7 @@ Tweaks, bug fixes, and smaller additions:
 * Added "exclude tags" options to <$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Talents"/><$action-navigate $to="Find Things"/>Find Talents</$button>
 * Fixed a few minor things (missing links, etc).
 
-!!! 1.13.0 <span style="font-weight:normal">(Feb 2, 2022)</span>
+!!! 1.13.00 <span style="font-weight:normal">(Feb 2, 2022)</span>
 
 Lots of small changes that added up to a big change. The TW Updater addition in the last update probably justified a new version number! Speaking of which, I added support for the [[Eberron TW Updater]] back to version 1.10.0.
 
@@ -878,11 +889,11 @@ Lots of small changes that added up to a big change. The TW Updater addition in 
 * Added heraldic emblems to each [[dragonmarked house]]
 * Removed the "d'" prefix from [[Uskal Orien]]'s name since he doesn't have a [[dragonmark]]
 
-!!! 1.12.9 <span style="font-weight:normal">(Jan 25, 2022)</span>
+!!! 1.12.09 <span style="font-weight:normal">(Jan 25, 2022)</span>
 
 * Added the [[Eberron TW Updater]]
 
-!!! 1.12.8 <span style="font-weight:normal">(Jan 24, 2022)</span>
+!!! 1.12.08 <span style="font-weight:normal">(Jan 24, 2022)</span>
 
 * Added [[character secret]]s
 * Added a bit to [[doppelganger]] based on a recent KB blog post
@@ -895,19 +906,19 @@ Lots of small changes that added up to a big change. The TW Updater addition in 
 * Added "and resistant to poison" to [[Divine Health]]
 * Small tweaks and typo fixes
 
-!!! 1.12.7 <span style="font-weight:normal">(Jan 19, 2022)</span>
+!!! 1.12.07 <span style="font-weight:normal">(Jan 19, 2022)</span>
 
 * Added missing links on the [[kobold]] page
 * Added [[Moonspeaker]] [[talent]]
 * Fixed links to [[Find Things]] that change the tab. I didn't realize the state variable for the tabs changed on tiddlyhost deployment, so none of those links have ever worked outside of my own local instance. Whoops lol
 
-!!! 1.12.6 <span style="font-weight:normal">(Jan 15, 2022)</span>
+!!! 1.12.06 <span style="font-weight:normal">(Jan 15, 2022)</span>
 
 * Added [[moonstone dragon]]
 * Added more to [[Kaius ir'Wynarn I]] and [[III|Kaius ir'Wynarn III]]
 * Node.js: added getTextReferenceParserInfo to wiki.js
 
-!!! 1.12.5 <span style="font-weight:normal">(Jan 13, 2022)</span>
+!!! 1.12.05 <span style="font-weight:normal">(Jan 13, 2022)</span>
 
 * Added several missing links in some older pages
 * Updated [[aspect]] page to say you start with 5 aspects, not 4
@@ -916,7 +927,7 @@ Lots of small changes that added up to a big change. The TW Updater addition in 
 * Added [[plant creature]] as an option for [[Enhanced Wild Shape]]
 * Added a little bit to [[Moonspeakers]]; I intend on making a Moonspeaker talent soon
 
-!!! 1.12.4 <span style="font-weight:normal">(Jan 11, 2022)</span>
+!!! 1.12.04 <span style="font-weight:normal">(Jan 11, 2022)</span>
 
 * Added a separate page for [[Jaela Daran]], as opposed to linking all her references to [[Keeper of the Flame]]
 * Added a bit on the [[Second Son]]
@@ -942,13 +953,13 @@ Lots of small changes that added up to a big change. The TW Updater addition in 
 ** [[swift perusal]]
 ** [[transmute to glass]]
 
-!!! 1.12.3 <span style="font-weight:normal">(Jan 10, 2022)</span>
+!!! 1.12.03 <span style="font-weight:normal">(Jan 10, 2022)</span>
 
 * Fixed a few missed references to old spell tiers. 
 * Added link to Changelog in site subtitle ("Storyloom Edition, v.x.x.x")
 * For node.js users only: added "isVolatileTiddler" to wiki.js since the October update requires it to run. 
 
-!!! 1.12.2 <span style="font-weight:normal">(Jan 9, 2022)</span>
+!!! 1.12.02 <span style="font-weight:normal">(Jan 9, 2022)</span>
 
 Renamed [[spell tier]]s and [[rarity]] names. Spells and magic items both now follow the same naming convention (though tier 1 spells are still called "cantrips"):
 
@@ -961,7 +972,7 @@ Renamed [[spell tier]]s and [[rarity]] names. Spells and magic items both now fo
 
 I might have missed a few, so I'll correct them as I find them. Also, changed the naming scheme of a few node.js files so that it'll run on case-insensitive (non-Linux) systems. (This doesn't effect anyone except the people running their own tiddlywiki server using the github code.)
 
-!!! 1.12.1 <span style="font-weight:normal">(Jan 8, 2022)</span>
+!!! 1.12.01 <span style="font-weight:normal">(Jan 8, 2022)</span>
 
 Added more content from the [[Player's Guide to Eberron|https://www.dmsguild.com/product/29550/Players-Guide-to-Eberron-35]].
 
@@ -1030,7 +1041,7 @@ Miscellaneous:
 ** Baron [[Elvinor Elorrenthi d'Phiarlan]]
 ** [[Zaeran]]
 
-!!! 1.12.0 <span style="font-weight:normal">(Jan 5, 2022)</span>
+!!! 1.12.00 <span style="font-weight:normal">(Jan 5, 2022)</span>
 
 Added ''260'' (!!) new items adapted from or inspired by [[The Griffon's Saddlebag Book One|https://hitpointpress.com/the-griffons-saddlebag-book-one-pdf/]]:
 
@@ -1080,7 +1091,7 @@ Miscellaneous:
 * Added a tracker for items that have charges
 * Added a few more [[random magical effect]]s to the table and fixed some typos there
 
-!!! 1.11.7 <span style="font-weight:normal">(Dec 14, 2021)</span>
+!!! 1.11.07 <span style="font-weight:normal">(Dec 14, 2021)</span>
 
 * Added creatures:
 ** [[mohrg]]
@@ -1098,7 +1109,7 @@ Miscellaneous:
 ** [[Karmos Render]]
 ** [[Mutable Body]]
 
-!!! 1.11.6 <span style="font-weight:normal">(Dec 12, 2021)</span>
+!!! 1.11.06 <span style="font-weight:normal">(Dec 12, 2021)</span>
 
 * Added [[Untold History]], a random generator for historical events in [[Khorvaire]].
 * Added [[talent]]s:
@@ -1112,11 +1123,11 @@ Miscellaneous:
 ** [[krenshar]]
 ** [[yrthak]]
 
-!!! 1.11.5 <span style="font-weight:normal">(Dec 10, 2021)</span>
+!!! 1.11.05 <span style="font-weight:normal">(Dec 10, 2021)</span>
 
 * Added some content from [[Blackwater Redux|https://www.dmsguild.com/product/306988/Blackwater-Redux--An-Eberron-Campaign]]. Mainly fleshed out [[Dhavin's Post]], but also added [[Ughothka]] (named "the Harvester" in the adventure, but there's too many things named Harvester).
 
-!!! 1.11.4 <span style="font-weight:normal">(Dec 9, 2021)</span>
+!!! 1.11.04 <span style="font-weight:normal">(Dec 9, 2021)</span>
 
 * Added creatures:
 ** [[mantrap]]
@@ -1126,7 +1137,7 @@ Miscellaneous:
 * Tweaked some of the genasi talents I added last update, and tweaked [[Shifter (talent)]] (gave [[blindsight]] to [[wildhunt]] shifters)
 * Renamed the leader of the [[Graveyard Sentinels]] "[[Opilion]]" (previously Harvester, previously Spider).
 
-!!! 1.11.3 <span style="font-weight:normal">(Dec 6, 2021)</span>
+!!! 1.11.03 <span style="font-weight:normal">(Dec 6, 2021)</span>
 
 * Added [[talent]]s:
 ** Aasimar (talent) (Feb 27, 2022: Removed this talent and split it into several)
@@ -1152,13 +1163,13 @@ Miscellaneous:
 * Added plot hooks to various [[daelkyr]] and [[overlord]]s from Exploring Eberron
 * Added [[Court of Shadows]] and [[Blackroot]]
 
-!!! 1.11.2 <span style="font-weight:normal">(Dec 1, 2021)</span>
+!!! 1.11.02 <span style="font-weight:normal">(Dec 1, 2021)</span>
 
 * Added [[Elf (talent)]] and [[Drow (talent)]]
 * Added more to [[Yrlag]] page based on KB blog post
 * Small tweaks
 
-!!! 1.11.1 <span style="font-weight:normal">(Nov 30, 2021)</span>
+!!! 1.11.01 <span style="font-weight:normal">(Nov 30, 2021)</span>
 
 * Added the [[Library of Hidden Knowledge]]
 * Added [[flame arrows]] spell
@@ -1166,7 +1177,7 @@ Miscellaneous:
 * Updated [[Yrlag]]
 * Fixed a typo, made some small tweaks
 
-!!! 1.11.0 <span style="font-weight:normal">(Nov 30, 2021)</span>
+!!! 1.11.00 <span style="font-weight:normal">(Nov 30, 2021)</span>
 
 * Big [[Storyloom]] character progression change. Made a much more streamlined way to handle adding [[talent]]s and [[spell]]s to a character: [[experience point]]s. 
 * Made a "Talents" tab on [[Find Things]]
@@ -1232,7 +1243,7 @@ Miscellaneous:
 * Increased maximum [[momentum]] pool size to 5; 3 max momentum for a whole party just isn't enough
 * Clarified phrasing on a few pages, fixed some wrong tags, etc
 
-!!! 1.10.3 <span style="font-weight:normal">(Nov 23, 2021)</span>
+!!! 1.10.03 <span style="font-weight:normal">(Nov 23, 2021)</span>
 
 * Added several new traits to the [[NPC appearance and personality generator]]
 * Added spells:
@@ -1244,7 +1255,7 @@ Miscellaneous:
 * Restructured the [[talent]] page so that talents are broken up by specific occupation/race
 * Added several [[cleric]] domains and [[paladin]] oaths as [[talent]]s, essentially reskinned [[Spellcaster]]. Also added a few talents for [[warlock]]s and [[ardent]]s
 
-!!! 1.10.2 <span style="font-weight:normal">(Nov 20, 2021)</span>
+!!! 1.10.02 <span style="font-weight:normal">(Nov 20, 2021)</span>
 
 * Added a bunch of new spells and magic items from (or inspired by) the [[Draconomicon|https://www.dmsguild.com/product/367945/The-Draconomicon]] by QL Games
 ** spells:
@@ -1273,11 +1284,11 @@ Miscellaneous:
 ** [[dueling sword]]
 ** [[hammer of the farseer]]
 
-!!! 1.10.1 <span style="font-weight:normal">(Nov 16, 2021)</span>
+!!! 1.10.01 <span style="font-weight:normal">(Nov 16, 2021)</span>
 
 * Added some new [[Mockery]]-related content from new KB blog post, and some info I had missed on the [[Flayed Hand]] and Order of the [[Broken Blade]] from an old Dragonshard article ([[Monastic Orders|http://archive.wizards.com/default.asp?x=dnd/ebds/20041213a]])
 
-!!! 1.10.0 <span style="font-weight:normal">(Nov 10, 2021)</span>
+!!! 1.10.00 <span style="font-weight:normal">(Nov 10, 2021)</span>
 
 * Added this Changelog page.
 * Added some items from [[Varsil's Low-Powered Magic Items|https://www.gmbinder.com/share/-Mm0qFjS6b9TslU1WpH-]]
@@ -1327,7 +1338,7 @@ Miscellaneous:
 ** [[cyclops]]
 ** [[forgewraith]]
 
-!!! 1.9.1 <span style="font-weight:normal">(Oct 28, 2021)</span>
+!!! 1.09.01 <span style="font-weight:normal">(Oct 28, 2021)</span>
 
 * Added some Fizban's content.
 ** spells:
@@ -1357,7 +1368,7 @@ Miscellaneous:
 *** [[liondrake]]
 * Misc tweaks
 
-!!! 1.9.0 <span style="font-weight:normal">(Oct 14, 2021)</span>
+!!! 1.09.00 <span style="font-weight:normal">(Oct 14, 2021)</span>
 
 * Tweaked lots of items. Specifically, replaced the "[[advantage]]"s granted by items with improved [[impact]] or [[risk]]. 
 * Added [[random artifact properties]]
@@ -1367,16 +1378,16 @@ Miscellaneous:
 ** [[brain borer]]
 ** [[lluora]]
 
-!!! 1.8.4 <span style="font-weight:normal">(Oct 4, 2021)</span>
+!!! 1.08.04 <span style="font-weight:normal">(Oct 4, 2021)</span>
 
 * Fixed mistake in [[Mark of Hospitality (talent)]]
 
-!!! 1.8.3 <span style="font-weight:normal">(Oct 3, 2021)</span>
+!!! 1.08.03 <span style="font-weight:normal">(Oct 3, 2021)</span>
 
 * Added area map for [[Io'lokar]]
 * Fixed map bug
 
-!!! 1.8.2 <span style="font-weight:normal">(Sep 30, 2021)</span>
+!!! 1.08.02 <span style="font-weight:normal">(Sep 30, 2021)</span>
 
 * Added [[Metrol]] area map and details from Dread Metrol
 * Added [[Lady Dusk]]
@@ -1385,7 +1396,7 @@ Miscellaneous:
 ** [[Kotharel the Harvester]]
 ** [[heavy hand manacles]]
 
-!!! 1.8.1 <span style="font-weight:normal">(Sep 28, 2021)</span>
+!!! 1.08.01 <span style="font-weight:normal">(Sep 28, 2021)</span>
 
 * Added some content inspired by Wild Beyond the Witchlight:
 ** [[Hourglass Coven]]
@@ -1412,7 +1423,7 @@ Miscellaneous:
 ** [[Yorin Thauram]]
 * Made minor tweaks to some [[intelligence agencies|intelligence agency]]
 
-!!! 1.8.0 <span style="font-weight:normal">(Sep 24, 2021)</span>
+!!! 1.08.00 <span style="font-weight:normal">(Sep 24, 2021)</span>
 
 * Shrank [[Sharn]] by 25%. It took up just a bit too much area on the map based on existing art. Adjusted the shoreline to match
 * Added creatures:
@@ -1422,34 +1433,34 @@ Miscellaneous:
 * Added and tweaked pages pertaining to [[couatl]] based on recent blog post
 * Fixed typos and missing links
 
-!!! 1.7.4 <span style="font-weight:normal">(Sep 17, 2021)</span>
+!!! 1.07.04 <span style="font-weight:normal">(Sep 17, 2021)</span>
 
 * Fixed some typos, tweaked some phrasing 
 
-!!! 1.7.3 <span style="font-weight:normal">(Sep 14, 2021)</span>
+!!! 1.07.03 <span style="font-weight:normal">(Sep 14, 2021)</span>
 
 * Added area maps for [[Dar Jin]], [[Thaliost]], [[Rekkenmark]], and [[Korth]].
 
-!!! 1.7.2 <span style="font-weight:normal">(Sep 10, 2021)</span>
+!!! 1.07.02 <span style="font-weight:normal">(Sep 10, 2021)</span>
 
 * Added content on [[night hag]]s and [[nightmare]]s based on recent blog post
 
-!!! 1.7.1 <span style="font-weight:normal">(Sep 9, 2021)</span>
+!!! 1.07.01 <span style="font-weight:normal">(Sep 9, 2021)</span>
 
 * Rearranged [[Sharn Inquisitive]] stories in to [[Korranberg Chronicle]] stories (namely, the articles that didn't have anything to do with Sharn or the surrounding area)
 * Added the wisdom of [[Beggar Dane]] to each remaining Sharn Inquisitive article
 
-!!! 1.7.0 <span style="font-weight:normal">(Sep 6, 2021)</span>
+!!! 1.07.00 <span style="font-weight:normal">(Sep 6, 2021)</span>
 
 * Added all [[Sharn Inquisitive]] articles from [[Wizards archive|http://archive.wizards.com/default.asp?x=dnd/archeb/si]]
 * Added most villages/sites mentioned in those articles. Though I avoided placing western [[Breland]] towns and forts, since Threshold might flesh out that area more whenever that book comes out.
 
-!!! 1.6.6 <span style="font-weight:normal">(Sep 4, 2021)</span>
+!!! 1.06.06 <span style="font-weight:normal">(Sep 4, 2021)</span>
 
 * Added [[Wroat]] area map
 * Tweaked map projection
 
-!!! 1.6.5 <span style="font-weight:normal">(Sep 3, 2021)</span>
+!!! 1.06.05 <span style="font-weight:normal">(Sep 3, 2021)</span>
 
 * Added some items from [[Hamund's Harvesting Handbook|https://www.dmsguild.com/product/276213/Hamunds-Harvesting-Handbook-A-Complete-Guide-to-Harvesting-and-Crafting-in-DD-5e]]
 ** [[basilisk oil]]
@@ -1471,39 +1482,39 @@ Miscellaneous:
 ** [[wand of confusion]]
 * Added [[naga]] creature
 
-!!! 1.6.4 <span style="font-weight:normal">(Sep 1, 2021)</span>
+!!! 1.06.04 <span style="font-weight:normal">(Sep 1, 2021)</span>
 
 * Added an [[NPC appearance and personality generator]]
 * Made improvements to the gradient divider under titles when the page is resized
 
-!!! 1.6.3 <span style="font-weight:normal">(Aug 30, 2021)</span>
+!!! 1.06.03 <span style="font-weight:normal">(Aug 30, 2021)</span>
 
 * Fixed "Find On Map" bug
 * Fixed animation scroll bug when closing tiddler
 * Made a "Galifar in 500YK" map and put it on the [[Five Nations]] and [[Galifar]] pages (edit 12/28/22: removed this as it wasn't accurate)
 * Added [[blessing tree]]
 
-!!! 1.6.2 <span style="font-weight:normal">(Aug 29, 2021)</span>
+!!! 1.06.02 <span style="font-weight:normal">(Aug 29, 2021)</span>
 
 * Map tweaks. Moved the political map button to be more visible rather than buried in the map options
 * Capitalized articles ("The") on the map
 * Added a missing [[Orien trade road|Orien trade roads]] that should have led to [[Sharn]]
 
-!!! 1.6.1 <span style="font-weight:normal">(Aug 28, 2021)</span>
+!!! 1.06.01 <span style="font-weight:normal">(Aug 28, 2021)</span>
 
 * Added some more [[medusa]] content based on blog post
 * Added bridges to [[Sharn]] map
 
-!!! 1.6.0 <span style="font-weight:normal">(Aug 27, 2021)</span>
+!!! 1.06.00 <span style="font-weight:normal">(Aug 27, 2021)</span>
 
 * Added a district map of [[Sharn]]. Zoom in on Sharn to see the controls pop up to switch between levels ([[upper ward]]s, [[middle ward]]s etc.). 
 * Clicking on "Find On Map" on a Sharn district should fly to that district and select the appropriate layer.
 
-!!! 1.5.1 <span style="font-weight:normal">(Aug 25, 2021)</span>
+!!! 1.05.01 <span style="font-weight:normal">(Aug 25, 2021)</span>
 
 * Fixed map flicker when moving over the antimeridian.
 
-!!! 1.5.0 <span style="font-weight:normal">(Aug 24, 2021)</span>
+!!! 1.05.00 <span style="font-weight:normal">(Aug 24, 2021)</span>
 
 Lots of map improvements! 
 
@@ -1511,19 +1522,19 @@ Lots of map improvements!
 * Replaced previous 'marker' distance system with the ability to add and remove markers at will
 * Made the map loop infinitely left/right. This required some improvements to map performance, so now redraws only happen if you click the 'refresh map' button or change tabs.
 
-!!! 1.4.4 <span style="font-weight:normal">(Aug 22, 2021)</span>
+!!! 1.04.04 <span style="font-weight:normal">(Aug 22, 2021)</span>
 
 * Added [[Graywall]], [[Fairhaven]], and [[Flamekeep]] area maps
 * Tweaked populations. [[Sharn]] should have over 2 million people with those mile high towers.
 
-!!! 1.4.3 <span style="font-weight:normal">(Aug 20, 2021)</span>
+!!! 1.04.03 <span style="font-weight:normal">(Aug 20, 2021)</span>
 
 * Added population to cities and nations, and the ability to sort by population
 * Added a couple of missing bastion cities in [[Riedra]]
 * Added a [[group character sheet]]
 * Added item: [[bag of gricks]]
 
-!!! 1.4.2 <span style="font-weight:normal">(Aug 19, 2021)</span>
+!!! 1.04.02 <span style="font-weight:normal">(Aug 19, 2021)</span>
 
 * Updated [[Barren Sea]] and [[kuo-toa]] based on recent blog post; added [[Sa'arlaath]]
 * Added [[talent]]s:
@@ -1532,23 +1543,23 @@ Lots of map improvements!
 ** [[Razor Tongue]]
 ** [[Underhanded]]
 
-!!! 1.4.1 <span style="font-weight:normal">(Aug 16, 2021)</span>
+!!! 1.04.01 <span style="font-weight:normal">(Aug 16, 2021)</span>
 
 * Added [[Stormreach]] districts to the map
 * Made "political map" mode on map
 
-!!! 1.4.0 <span style="font-weight:normal">(Aug 15, 2021)</span>
+!!! 1.04.00 <span style="font-weight:normal">(Aug 15, 2021)</span>
 
 * Rewrote entire map plugin and removed leafmap
 
-!!! 1.3.1 <span style="font-weight:normal">(Aug 13, 2021)</span>
+!!! 1.03.01 <span style="font-weight:normal">(Aug 13, 2021)</span>
 
 * Added [[progress clock]]s to the [[character sheet template]]
 * Automatically scroll back to last point on page when clicking "X" button on tiddler
 * Create "MapScrollIntoView" macro for smoother mobile experience
 * Misc style tweaks
 
-!!! 1.3.0 <span style="font-weight:normal">(Aug 11, 2021)</span>
+!!! 1.03.00 <span style="font-weight:normal">(Aug 11, 2021)</span>
 
 * Added the [[Dice Roller]] and interactive [[progress clock]]s
 * Added [[language]]s and [[momentum]] to the [[character sheet template]]
@@ -1559,36 +1570,36 @@ Lots of map improvements!
 * Added the spell [[primal savagery]], as well as the creatures [[spindlespitter]] and [[drake turtle]], and the weapon [[tangat]]
 * Misc phrasing tweaks
 
-!!! 1.2.1 <span style="font-weight:normal">(Aug 9, 2021)</span>
+!!! 1.02.01 <span style="font-weight:normal">(Aug 9, 2021)</span>
 
 * Added more [[equipment pack]]s
 * Added some Tasha's content (mostly items)
 * Added some denizens of [[Shavarath]]
 
-!!! 1.2.0 <span style="font-weight:normal">(Aug 8, 2021)</span>
+!!! 1.02.00 <span style="font-weight:normal">(Aug 8, 2021)</span>
 
 * Added [[character sheets|character sheet template]]! And various macros and plugins to do cool things with them.
 * Added more [[talent]]s, items (mainly [[equipment pack]]s), spells.
 
-!!! 1.1.0 <span style="font-weight:normal">(Aug 1, 2021)</span>
+!!! 1.01.00 <span style="font-weight:normal">(Aug 1, 2021)</span>
 
 * Added a bunch of [[talent]]s, characters, items, spells, and some other miscellaneous pages.
 
-!!! 1.0.3 <span style="font-weight:normal">(Jul 30, 2021)</span>
+!!! 1.00.03 <span style="font-weight:normal">(Jul 30, 2021)</span>
 
 * Updated [[Krozen]] and [[Zerasha]] based on recent Keith Baker blog post
 
-!!! 1.0.2 <span style="font-weight:normal">(Jul 29, 2021)</span>
+!!! 1.00.02 <span style="font-weight:normal">(Jul 29, 2021)</span>
 
 * Added a bit on [[Golden Sargasso|Menechtarun Desert]]
 
-!!! 1.0.1 <span style="font-weight:normal">(Jul 28, 2021)</span>
+!!! 1.00.01 <span style="font-weight:normal">(Jul 28, 2021)</span>
 
 * Added favicon and a couple of [[talent]]s
 * Removed some maintenance tiddlers
 * Fixed typos, fixed a map bug, made some style tweaks
 
-!!! 1.0.0 <span style="font-weight:normal">(Jul 27, 2021)</span>
+!!! 1.00.00 <span style="font-weight:normal">(Jul 27, 2021)</span>
 
 * Initial commit after switching to node.js
 
