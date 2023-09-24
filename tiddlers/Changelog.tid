@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.23.01
-modified: 20230913051233769
+currentversion: 1.23.02
+modified: 20230924081708957
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,29 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.23.02 <span style="font-weight:normal">(Sep 24, 2023)</span>
+
+[[Storyloom]] stuff:
+
+* Maximum [[momentum]] has been raised to 6.
+* Simplified severe [[harm]]: similar to exhaustion with [[stress]], you suffer severe harm when you fill your right-most harm box. I slightly changed the text of [[life transference]] spell to reflect this change.
+* Clarified on the [[talent]] page that if you take a talent that gives you an [[advantage]] to use a [[toolset]] or [[musical instrument]], you only get that advantage when you use that item for one of its intended purposes. That is, you don't just get a flat +1 d6 for all of your [[artificer]] spells when using [[tinker's tools]] as a [[magical implement]] if you take [[Guild Artisan]].
+* Clarified on the [[boost]] page that you can't use the boost action when you have lost [[initiative]]
+* Added a "once per scene" restriction on [[Bugbear (talent)]]'s long-limbs [[advantage]]
+* Added a resistance to necrotic damage to the [[false life]] spell as it was strictly worse than [[aid]]. Also reduced the duration of the [[aid]] spell's temporary harm box to four hours.
+* Added [[Tinkerer]] talent
+
+Lore stuff:
+
+* Added [[Arkhosia]] as the name of the short-lived [[dragonborn]] empire during the [[Age of Monsters]]; the ECS calls this empire "Q'barra," but I wanted to avoid confusion since the land of [[Q'barra]] is explicitly east of the [[Endworld Mountains]]. Plus, there were plenty of lore tidbits and names to "borrow" from the 4e Nentir Vale regarding a fallen dragonborn empire.
+* Added a few details to the pages [[goblinoid]], [[koalinth]], [[Dhakaan]], and [[Droaamish History]], and [[Avassh]] based on some things Keith Baker said in a recent AMA
+* Added some details about members of the [[Emerald Claw]]
+
+Miscellaneous:
+
+* Added a link to the [[privacy policy|https://www.privacypolicies.com/live/67833717-b40e-4b57-bc8e-bb123b87e321]] to the [[Readme]].
+* Edited the download feature such that it removes the google analytics plugin from your saved copy.
 
 !!! 1.23.01 <span style="font-weight:normal">(Sep 13, 2023)</span>
 

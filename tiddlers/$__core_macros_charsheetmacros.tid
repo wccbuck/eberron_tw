@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20230828182006887
+modified: 20230921054236267
 tags: $:/tags/Macro
 title: $:/core/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -205,7 +205,7 @@ type: text/vnd.tiddlywiki
     <p class="cs-heading">[[Harm|harm]]</p> 
   </div>
     <div class="cs-row">
-      <$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h1" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h2" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h3"class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h4" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h5" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h6"class="cs-check-small"/>
+      <$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h1" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h2" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h3"class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h4" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h5" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h6"class="cs-check-small cs-check-final"/>
     </div>
   </div>
   <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px;" title="special harm">

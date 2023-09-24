@@ -1,17 +1,17 @@
 category: game mechanics
 created: 20210401233912370
-modified: 20220805190223676
+modified: 20230922002551689
 tags: Storyloom
 title: aspect
 tooltip: Storyloom mechanic: a short phrase that describes a facet of a player character, and allows you to earn and spend story points
 type: text/vnd.tiddlywiki
 
-An aspect is a short phrase that describes something unique or noteworthy about a character. Each player character [[starts|Character Creation]] with five aspects: a ''description'', an ''ideal'', a ''flaw'', and one or two ''bond''s.
+An aspect is a short phrase that describes something unique or noteworthy about a character. Each player character [[starts|Character Creation]] with four or five aspects: a ''description'', an ''ideal'', a ''flaw'', and one or two ''bond''s.
 
 * A character's ''description'' is simple: describe the character's high concept in a few words. "//[[Half-elf|half-elf]] veteran [[inquisitive]] of [[Sharn]].//" "//[[Changeling|changeling]] [[cleric]] of the [[Traveler]].//"
 * An ''ideal'' is one fundamental principle that guides your character's actions: a life goal, a core belief, or a golden rule. "//I must protect the weak.//" "//I will become the best [[wandslinger]] on Eberron.//" "//Everyone deserves a chance at redemption.//"
 * A ''flaw'' is something that complicates your character's life. It is some kind of personal struggle, such as a fear, vice, or weakness, and it shouldn't be something easy to solve, nor completely paralyzing. "//Sucker for a pretty face.//" "//Addicted to [[dreamlily]].//" "//Never trust a [[Thrane]].//"
-* A ''bond'' is a connection to the world: a person, organization, place, event, prized possession, anything that gives a clue about your character's history or their place in the big picture. A bond could be more like an ideal, presenting as something that guides your character's decisions; or it could be more like a flaw, indicating a problematic relationship. You start with one bond aspect, maybe two; over time, you may gain more bonds, up to four or five. "//Adjunct professor at [[Morgrave University]].//" "//[[Ilia Merith]] is my patron.//" "//The [[Bilge Rats]] want me dead.//"
+* A ''bond'' is a connection to the world: a person, organization, place, event, prized possession, anything that gives a clue about your character's history or their place in the big picture. A bond could be more like an ideal, presenting as something that guides your character's decisions; or it could be more like a flaw, indicating a problematic relationship. You start with one bond aspect, maybe two; over the course of a campaign, you may gain more bonds. "//Adjunct professor at [[Morgrave University]].//" "//[[Ilia Merith]] is my patron.//" "//The [[Bilge Rats]] want me dead.//"
 
 These aspects help guide your roleplaying as your character goes on adventures. In addition, they allow you to earn and spend [[story point]]s. Aspects provide narrative justification for spending a story point to improve a roll at a critical juncture of your story. And if you roleplay your aspects in a way that brings [[consequence]]s down on your character, such as denying the help of a [[Thrane]] because of your prejudice, or being spotted by a [[Bilge Rats]] enforcer, the GM can grant you a [[story point]].
 
