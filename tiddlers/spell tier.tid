@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210105213051245
-modified: 20230418151852286
+modified: 20230924012641006
 spellname: [[spell]]
 tags: Storyloom
 title: spell tier
@@ -15,7 +15,7 @@ In the [[Storyloom]] system, {{!!spellname}}s are categorized by tiers. A spell'
 # ''Epic.'' These are magical incantations of mythical proportions, usually the product of more advanced civilizations—the [[dragon]]s of [[Argonnessen]], the [[elves|elf]] of [[Aerenal]], the ancient [[giant]]s of [[Xen'drik]]. Ex: [[resurrection]], [[plane shift]], [[simulacrum]], [[antimagic field]]. Epic spells cost 3 stress to cast, and usually can only be cast once or twice per day.
 # ''Legendary.'' Spells of never-before-seen power over the fabric of reality. Ex: [[wish]], [[true resurrection]], [[imprisonment]]. Legendary spells cost 4 stress to cast, and usually can only be cast once or twice per week.
 
-The "spellcasting stress" to cast a spell is //in addition to// any [[consequence]]s suffered from attempting to cast the spell. Even a cantrip still might end up costing 1 stress on a [[mixed success]]. Also, a [[mixed success]] on a higher-tier spell might mean you need to make a second or third attempt to complete your casting, but you only need to spend the spellcasting stress once per casting.
+The "stress" column indicates the amount of stress that must be expended to cast that spell. This "spellcasting stress" to cast a spell is //in addition to// any [[consequence]]s suffered from attempting to cast the spell. Even a cantrip still might end up costing 1 stress on a [[mixed success]]. Note that while earning a [[mixed success]] on a higher-tier spell might mean you need to make a second or third attempt to complete your casting, you only need to spend the spellcasting stress //once// per casting.
 
 These tiers roughly correspond to D&D 5e's spell levels: Uncommon = 1st and 2nd level; Rare = 3-5th level (some 6th); Epic = 6-8th level; Legendary = 9th level. 
 
@@ -23,7 +23,11 @@ Player characters who are able to cast spells (usually by taking the [[Spellcast
 
 Some spell descriptions indicate how that spell can be cast at a higher tier. This is only permitted if your character has a [[talent]] (e.g. [[Spell Enhancement]] or [[Arcane Tradition]]), or some other boon that allows them to do so. Most spells can also be "upgraded" in this way, even if they don't have explicit instructions on what the upgraded spell looks like; when it doubt, just increase [[impact]].
 
-Keep in mind that [[Storyloom]] is a fiction-first game. The rules work best when the spells' descriptions are used as a guideline for their effects, not as restrictions. Generally each spell tier should create an effect that's roughly +1 or +2 [[impact]] above that of the tier below it, but spell effects vary widely.
+!! Added Impact
+
+Generally, each spell tier should create an effect that's roughly +1 or +2 [[impact]] above that of the tier below it. Cantrips typically don't automatically grant any extra impact; shooting a [[ray of frost]] is not intrinsically more impactful than loosing an arrow. Higher-tier spells typically do grant additional impact, but the exact degree is often context-specific. For example, in a battle scene against a group of enemies, a [[fireball]] might grant 4 extra impact if you are launching it at a close-packed group of enemy soldiers with no fire protection, but only 1 extra impact against a single target behind a wall. 
+
+Keep in mind that [[Storyloom]] is a fiction-first game. The rules work best when the spells' descriptions are used as a guideline for their effects, not as restrictions.
 
 !! Magic Items and Spells
 

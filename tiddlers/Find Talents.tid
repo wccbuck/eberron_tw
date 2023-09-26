@@ -1,7 +1,7 @@
 caption: Talents
 created: 20211126205849566
 limit50: [limit[50]]
-modified: 20220203190842859
+modified: 20230913030545913
 tags: 
 title: Find Talents
 type: text/vnd.tiddlywiki
@@ -77,7 +77,7 @@ See also the main [[talent]] page.
 	</div>
 	<div class="tc-manager-list">
 		<table class="manager-table">
-		<tr><th align="left" class="th-sticky">Talent</th><th align="left" width="100px" class="th-sticky">XP Cost</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+		<tr class="th-sticky"><th align="left">Talent</th><th align="left" width="100px">XP Cost</th><th align="left" max-width="250px">Tags</th></tr>
 		<$list filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/TalentTag}!tag{$:/config/Manager/ExcludeTalentTag}subfilter{$:/config/Manager/XPCost}subfilter{$:/config/Manager/ExcludeTalentTag!!excludeall}category[talent]sort[title]order{$:/config/Manager/TalentSortOrder}sort{$:/config/Manager/TalentSort}order{$:/config/Manager/TalentSortOrder}subfilter{$:/config/Manager/LimitTalents!!limit50}]">
 		<tr><td><$link/></td>
 		<td>

@@ -1,6 +1,6 @@
 caption: Creatures
 created: 20210301233947959
-modified: 20220216200608294
+modified: 20230913030432475
 tags: 
 title: Find Creatures
 type: text/vnd.tiddlywiki
@@ -78,7 +78,7 @@ type: text/vnd.tiddlywiki
 	</div>
 	<div class="tc-manager-list">
 		<table class="manager-table">
-		<tr><th align="left" class="th-sticky">Creature</th><th align="center" width="60px" class="th-sticky">Tier</th><th align="left" max-width="300px" class="th-sticky">Tags</th></tr>
+		<tr class="th-sticky"><th align="left">Creature</th><th align="center" width="60px">Tier</th><th align="left" max-width="300px">Tags</th></tr>
 		<$list filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}subfilter{$:/config/Manager/CreatureTier}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/CreatureType}tag:strict{$:/config/Manager/CreatureTag}!tag{$:/config/Manager/ExcludeCreatureTag}category[creature]sort[title]order{$:/config/Manager/CreatureSortOrder}sort{$:/config/Manager/CreatureSort}order{$:/config/Manager/CreatureSortOrder}subfilter{$:/config/Manager/LimitCreatures!!limit50}]">
 		<tr><td><$link/></td>
 		<td align="center">

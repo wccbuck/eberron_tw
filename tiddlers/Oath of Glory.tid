@@ -1,7 +1,7 @@
 category: talent
 created: 20211123222536285
 list: heroism [[guiding bolt]] [[enhance ability]] [[magic weapon]] haste [[protection from energy]] compulsion [[freedom of movement]] commune [[flame strike]]
-modified: 20220818210353870
+modified: 20230913030143541
 tags: Spellcaster paladin
 title: Oath of Glory
 type: text/vnd.tiddlywiki
@@ -23,7 +23,7 @@ The tenets of the Oath of Glory drive a [[paladin]] to attempt heroics that migh
 Choose two spells as per the [[Spellcaster]] talent rules. A [[paladin]] under the {{!!title}} might choose from the following spells.
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]] [list[$:/PaladinSpells]] +[sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

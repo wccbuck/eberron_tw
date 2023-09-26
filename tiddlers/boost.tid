@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210401202052675
-modified: 20230418151635883
+modified: 20230919171712541
 tags: [[Taking Action]] Storyloom
 title: boost
 tooltip: Storyloom mechanic: increase momentum, grant yourself an advantage to increase your odds of success on a later "overcome" attempt
@@ -12,4 +12,4 @@ Successful boost attempts don't advance any [[progress clock]]s; instead, you or
 
 To make a boost attempt, first choose two [[approach]]es, and discuss with the GM what the [[impact]] (degree of success) and [[risk]] (severity of consequences) of the attempt will be. Adjust your impact and risk using your approach scores, pick up ''three six-sided dice'' (or more if you have [[advantage]]s), and roll them. Your highest die result determines the outcome. A [[full success]] (6) or [[mixed success]] (4 or 5) grants you what you wanted, granting yourself or an ally [[momentum]] equal to your [[impact]], while a [[mixed success]] or [[bad outcome]] results in [[consequence]]s based on the roll's [[risk]]. See [[Taking Action]] for more information.
 
-Unlike [[overcome]] attempts, you cannot spend [[momentum]] to improve the results of [[boost]] attempts.
+Unlike [[overcome]] attempts, you cannot spend [[momentum]] to improve the results of [[boost]] attempts. In addition, you cannot use the [[boost]] action when you have lost [[initiative]].

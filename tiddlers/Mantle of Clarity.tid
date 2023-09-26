@@ -1,7 +1,7 @@
 category: talent
 created: 20211123195912521
 list: [[healing word]] [[calm emotions]] [[beacon of hope]] guidance [[intellect fortress]] aegis [[detect thoughts]] [[mind blank]] [[wall of force]]
-modified: 20220216201407840
+modified: 20230913030325826
 tags: Spellcaster ardent
 title: Mantle of Clarity
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster
 !! {{!!title}} Spell List
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

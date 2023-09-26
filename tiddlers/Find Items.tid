@@ -1,7 +1,7 @@
 caption: Items
 created: 20201208004157407
 limit50: [limit[50]]
-modified: 20221223185112551
+modified: 20230913025500275
 tags: 
 title: Find Items
 type: text/vnd.tiddlywiki
@@ -96,7 +96,7 @@ See also the [[magic item]] and [[trinket]] pages.
 	</div>
 	<div class="tc-manager-list">
 		<table class="manager-table">
-		<tr><th align="left" class="th-sticky">Item</th><th align="left" width="100px" class="th-sticky">Rarity</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+		<tr class="th-sticky"><th align="left">Item</th><th align="left" width="100px">Rarity</th><th align="left" max-width="250px">Tags</th></tr>
 		<$list filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/ObjectType}subfilter<obj-tag>subfilter<obj-tag2>tag:strict{$:/config/Manager/ObjectTag3}!tag{$:/config/Manager/ExcludeObjectTag}subfilter{$:/config/Manager/Rarity}subfilter{$:/config/Manager/Rarity0}category[object]sort[title]order{$:/config/Manager/ObjectSortOrder}sort{$:/config/Manager/ObjectSort}order{$:/config/Manager/ObjectSortOrder}subfilter{$:/config/Manager/LimitObject!!limit50}]">
 		<tr><td><$link/></td>
 		<td>

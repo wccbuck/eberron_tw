@@ -2,7 +2,7 @@ category: location
 color: #96CC39
 created: 20200420060419117
 fmwvar: fmw-lower
-modified: 20210924201012310
+modified: 20230907173535043
 polygons: 20.206,-24.485 20.204,-24.489 20.203,-24.492 20.203,-24.495 20.203,-24.498 20.201,-24.5 20.199,-24.503 20.196,-24.504 20.193,-24.505 20.191,-24.506 20.189,-24.508 20.185,-24.508 20.183,-24.509 20.177,-24.51 20.173,-24.509 20.173,-24.509 20.176,-24.503 20.173,-24.501 20.173,-24.497 20.175,-24.495 20.175,-24.492 20.167,-24.492 20.169,-24.478 20.174,-24.479 20.174,-24.479 20.177,-24.48 20.185,-24.478 20.186,-24.483 20.199,-24.484 20.206,-24.485
 style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: district [[Lower Tavick's Landing]] Sharn
@@ -23,11 +23,7 @@ carrying travelers up to the higher towers.<br/>
 ''Social Class:'' Lower class<br/>
 ''Neighbors:'' [[Wroann's Gate]] (east); [[Cogsgate]] (south); [[North Market]] (bridge, north); [[Blackbones]] (below); [[Tavick's Market]] (above)
 
-Terminus is defined by [[Terminus Station]], the massive House [[Orien]] [[enclave]] that serves as an endpoint for the Orien [[lightning rail]] coach line. As a result,
-most [[Brelish|Breland]] travelers come through [[Wroann's Gate]],
-while most to the travelers from other nations arrive
-at Terminus. It is a hotbed of activity, and despite the
-presence of the [[Sharn Watch]] and the [[Guardians of the Gate]], pickpockets and other thieves operate freely.
+Terminus is defined by [[Terminus Station]], the massive House [[Orien]] [[enclave]] that serves as an endpoint for the Orien [[lightning rail]] coach line. As a result, most [[Brelish|Breland]] travelers come through [[Wroann's Gate]], while most of the travelers from other nations arrive at Terminus. It is a hotbed of activity, and despite the presence of the [[Sharn Watch]] and the [[Guardians of the Gate]], pickpockets and other thieves operate freely.
 
 After visitors pass inspection by the Guardians of
 the Gate, they are free to leave the district, either on

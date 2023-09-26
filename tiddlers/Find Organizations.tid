@@ -1,7 +1,7 @@
 caption: Organizations
 created: 20210228202858619
 limit50: [limit[50]]
-modified: 20220823213028024
+modified: 20230913030523358
 tags: 
 title: Find Organizations
 type: text/vnd.tiddlywiki
@@ -72,7 +72,7 @@ type: text/vnd.tiddlywiki
 	</div>
 	<div class="tc-manager-list">
 		<table class="manager-table">
-		<tr><th align="left" class="th-sticky">Organization</th><th align="left" width="60%" class="th-sticky">Tags</th></tr>
+		<tr class="th-sticky"><th align="left">Organization</th><th align="left" width="60%">Tags</th></tr>
 		<$list filter="[all{$:/config/Manager/Show}subfilter<org-type>category[organization]!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/OrgTag}tag:strict{$:/config/Manager/OrgTag2}!tag{$:/config/Manager/ExcludeOrgTag}sort{$:/config/Manager/OrgSort}order{$:/config/Manager/OrgSortOrder}subfilter{$:/config/Manager/LimitOrg!!limit50}]">
 		<tr><td>{{!!article}}<$link/></td>
 		<td>

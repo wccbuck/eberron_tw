@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210808200737146
-modified: 20230828180927630
+modified: 20230922003117261
 tags: Storyloom
 title: Missions and Downtime
 tooltip: documentation page for stages of play in the Storyloom system
@@ -30,7 +30,7 @@ The player characters might set up a mission by choosing from their own list of 
 
 When preparing for a mission, players should take a look at the Items section of their [[character sheet|character sheet template]] and mark the checkboxes indicating which of their items they will have on their person for the mission. If they need something they left behind, and if you're playing with the optional "declare a story detail" rule, they can check the "equipped" box retroactively at the cost of a [[story point]]. 
 
-Speaking of which: each character gains two [[story point]]s at the start of a mission, if they don't already have two.
+Speaking of which: each character gains two [[story point]]s at the start of a mission, if they don't already have two. If the GM expects this mission to only last one session, they might start everyone with only one story point instead.
 
 Typically, all involved characters gain an [[experience point]] after they have completed one or two missions (3-5 sessions).
 
@@ -60,7 +60,7 @@ Purchasing a specific [[magic item]] sometimes requires time and money to seek o
 
 !!! Creating Items
 
-A character who has the time, the money, and the needed tools can use downtime to craft armor, weapons, clothing, or other kinds of gear. Creating [[magic item]]s might result in more interesting challenges. Creating a set of [[air-step armor]] might require the essence of an [[air elemental]]. Crafting a [[staff of charming]] might require the cooperation of a specific [[arcanaloth]], who will help only if the characters complete a task for it. Making a [[staff of power]] might hinge on acquiring a piece of an ancient stone that was once touched by a godlike [[solar]]—a stone how guarded by a suspicious [[sphinx]]. For more detailed instructions for making a magic item, and consequences that might arise, see the [[magic item]] page.
+A character who has the time, the money, and the needed tools can use downtime to craft armor, weapons, clothing, or other kinds of gear. Creating [[magic item]]s might result in more interesting challenges. Creating a set of [[air-step armor]] might require the essence of an [[air elemental]]. Crafting a [[staff of charming]] might require the cooperation of a specific [[arcanaloth]], who will help only if the characters complete a task for it. Making a [[staff of power]] might hinge on acquiring a piece of an ancient stone that was once touched by a godlike [[solar]]—a stone now guarded by a suspicious [[sphinx]]. For more detailed instructions for making a magic item, and consequences that might arise, see the [[magic item]] page.
 
 !!! Scribing Spell Scrolls
 

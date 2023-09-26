@@ -1,7 +1,7 @@
 category: talent
 created: 20210731232504034
 list: alarm sequester [[planar binding]] [[magic circle]] [[mage armor]] [[arcane seal]] [[arcane lock]] [[armor of winter]] knock [[glyph of warding]] [[secret chest]] [[faithful hound]] [[antilife shell]] [[guards and wards]] [[antimagic field]]
-modified: 20220227213407007
+modified: 20230913025817653
 tags: [[Mark of Warding]] dwarf
 title: Mark of Warding (talent)
 type: text/vnd.tiddlywiki
@@ -16,7 +16,7 @@ To gain the social benefits of being part of a [[dragonmarked house]], take the 
 !! Mark of Warding Spell List
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

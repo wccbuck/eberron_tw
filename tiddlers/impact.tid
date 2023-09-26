@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210401192736920
-modified: 20230421183707815
+modified: 20230920195313799
 tags: [[Taking Action]] Storyloom
 title: impact
 tooltip: Storyloom mechanic: how much progress a successful attempt will grant you
@@ -8,7 +8,9 @@ type: text/vnd.tiddlywiki
 
 Your [[attempt|Taking Action]]s' [[impact]] level determines how much you're able to accomplish with a successful roll ([[full success]] or [[mixed success]]). If you're using a [[progress clock]] to track your progress towards a goal, impact helps determine how many segments of the clock to fill in. Impact does not play a part in the event of a [[bad outcome]]. Depending on the context, you may end up with zero [[impact]] even on a success, requiring the spending of [[momentum]] to make any progress.
 
-GMs set the impact level of each attempt the player characters make, but PCs can improve their impact by increasing their [[risk]] or changing the context of the scene in their favor. See [[Challenge Tiers]] for more information.
+GMs set the impact level and [[risk]] level of each attempt the player characters make. A default, moderately challenging attempt has a starting impact of ''zero'' and a risk of ''2''. The impact is improved by the [[approach]] scores used by the PCs; since a [[starting character|Character Creation]] has three approaches at a score of 1, this means they will likely add a +2 impact to most of their attempts. PCs can further improve their impact through the use of [[magic item]]s or [[spell]]s, by increasing their [[risk]], or changing the context of the scene in their favor. See [[Challenge Tiers]] for more information.
+
+In the context of [[magical healing]], impact has a slightly more precise meaning. See the [[magical healing]] page for more information.
 
 The below examples of different results for different levels of impact should be taken as suggestions. Feel free to mix and match different benefits in order to better serve the scene.
 
@@ -17,7 +19,9 @@ The below examples of different results for different levels of impact should be
 * [[overcome]]: Mark 1 section of the [[progress clock]].
 * [[boost]]: Gain 1 momentum.
 
-!!! Moderate Impact (default)
+!!! Moderate Impact
+
+After accounting for [[approach]] scores, this is the default impact level for most attempts.
 
 * [[overcome]]: Mark 2 sections of the [[progress clock]]. Gain 1 [[momentum]] if you overfill the clock.
 * [[boost]]: Gain 2 momentum, or gain 1 momentum and change the scene in a way that reduces your [[risk]] by 1 level.

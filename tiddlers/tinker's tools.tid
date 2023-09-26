@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210808004802487
-modified: 20220824214905356
+modified: 20230919180504222
 tags: toolset [[equipment pack]]
 tier: 1
 title: tinker's tools
@@ -18,4 +18,4 @@ You might use {{!!title}} in order to:
 
 * Temporarily repair a disabled device.
 * Repair a damaged [[construct]].
-* Improvise a temporary item using scraps.
+* Improvise a temporary item using scraps. (See the [[Tinkerer]] talent to gain the ability to consistently create higher-quality items.)

@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210402021419698
-modified: 20230707075231148
+modified: 20230919174301717
 tags: Storyloom
 title: talent
 tooltip: Storyloom mechanic: a player character's special capability or area of expertise
@@ -17,6 +17,11 @@ Typically a talent will allow your character to do one of the following:
 When you [[make a character|Character Creation]], you start with three [[experience point]]s you may spend on talents (or two, or four, depending on the game's power level, determined by the GM). Most talents cost one experience point, though several cost two, and a few very powerful talents cost three. As your character advances, you slowly gain [[experience point]]s, which you can use to gain more talents. 
 
 Some talents have prerequisite talents; for example, you can't take [[Changeling Metamorphosis]] without first having taken [[Changeling (talent)]]. These talents tend to be slightly stronger than talents without prerequisites at the same [[experience point]] cost, since they reward a narrow character development focus that closes off other options.
+
+<<<
+''A Note on Talents That Grant Advantage''<br/>
+If a talent gives you [[advantage]] to use a [[toolset]] or [[musical instrument]], unless otherwise stated, you must use that item for one of its intended purposes in order to gain the benefit. That is, if a talent gives you an advantage when using [[thieves' tools]], you don't get that advantage for swinging the satchel of tools like a weapon. If you use the toolset or musical instrument as a [[magical implement]], you must take the [[Implement Expertise]] talent to gain an advantage.
+<<<
 
 !!! <<showtalents "Find Talents">>
 

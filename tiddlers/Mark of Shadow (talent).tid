@@ -1,7 +1,7 @@
 category: talent
 created: 20210731231109504
 list: [[lesser illusion]] [[shadow step]] clairvoyance [[shadow blade]] invisibility [[project image]] [[programmed illusion]] [[greater illusion]] darkness [[pass without trace]] [[disguise self]] [[silent image]] scrying [[hallucinatory terrain]] mislead [[mirage arcane]] [[maddening darkness]]
-modified: 20220320003147533
+modified: 20230913030134928
 tags: elf [[Mark of Shadow]]
 title: Mark of Shadow (talent)
 type: text/vnd.tiddlywiki
@@ -16,7 +16,7 @@ To gain the social benefits of being part of a [[dragonmarked house]], take the 
 !! Mark of Shadow Spell List
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

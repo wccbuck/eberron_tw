@@ -1,7 +1,7 @@
 category: talent
 created: 20211123230207737
 list: [[blade ward]] sanctuary sleep [[calm emotions]] hold counterspell [[hypnotic pattern]] [[resilient sphere]] [[rebuke the violent]] stoneskin [[wall of force]]
-modified: 20221111154343089
+modified: 20230913025839766
 tags: Spellcaster paladin
 title: Oath of Redemption
 type: text/vnd.tiddlywiki
@@ -25,7 +25,7 @@ The tenets of the Oath of Redemption hold a [[paladin]] to a high standard of pe
 Choose two spells as per the [[Spellcaster]] talent rules. A [[paladin]] under the {{!!title}} might choose from the following spells.
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]] [list[$:/PaladinSpells]] +[sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

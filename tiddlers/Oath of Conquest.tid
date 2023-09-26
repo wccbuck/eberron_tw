@@ -1,7 +1,7 @@
 category: talent
 created: 20211123223114214
 list: [[armor of winter]] [[conquering presence]] [[true strike]] command hold [[spiritual weapon]] [[bestow curse]] fear dominate stoneskin cloudkill
-modified: 20211128070032307
+modified: 20230913030206942
 tags: Spellcaster paladin
 title: Oath of Conquest
 type: text/vnd.tiddlywiki
@@ -22,7 +22,7 @@ A [[paladin]] who takes this oath has the tenets of conquest seared on the upper
 Choose two spells as per the [[Spellcaster]] talent rules. A [[paladin]] under the {{!!title}} might choose from the following spells. //Recommended Spells: [[conquering presence]], [[command]].//
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]] [list[$:/PaladinSpells]] +[sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>

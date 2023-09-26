@@ -1,6 +1,6 @@
 category: talent
 created: 20220301172608959
-modified: 20230317050018500
+modified: 20230913030325816
 tags: dreamtouched
 title: Dream Scion
 type: text/vnd.tiddlywiki
@@ -24,7 +24,7 @@ While in a dreamtouched state, your mental abilities are enhanced; gain an [[adv
 When you take the [[Spellcaster]] talent as a dream scion, you might consider spells such as [[borrowed knowledge]], [[true strike]], [[know direction]], [[identify]], [[guidance]], or [[dream]]. You may also choose [[psionics]] spells that require the [[dreamtouched]] state. These include:
 
 <table class="manager-table">
-	<tr><th align="left" class="th-sticky">Spell</th><th align="left" width="100px" class="th-sticky">Spell Tier</th><th align="left" max-width="250px" class="th-sticky">Tags</th></tr>
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[[dreamtouched]backlinks[]category[spell]tag[psionics]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>
