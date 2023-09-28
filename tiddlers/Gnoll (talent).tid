@@ -1,6 +1,6 @@
 category: talent
 created: 20210801045349793
-modified: 20211128070031854
+modified: 20230928185513211
 tags: gnoll
 title: Gnoll (talent)
 type: text/vnd.tiddlywiki
@@ -8,6 +8,6 @@ xpcost: 1
 
 As a [[gnoll]], you gain the following benefits:
 
-* Your teeth are natural weapons, and your bites can be deadly.
+* Your teeth are natural [[weapon]]s, and your bites can be deadly.
 * You have [[darkvision]] within 60 feet. 
 * Whenever you [[push yourself]] to physically attack an enemy, if that attack successfully killed or incapacitated the target, recover 1 [[stress]].
