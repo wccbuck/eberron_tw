@@ -1,7 +1,7 @@
 category: object
 color: #075157
 created: 20210718033440319
-modified: 20230829212124670
+modified: 20230928185355794
 tags: [[object type]]
 title: weapon
 tooltip: tag for items intended to be used to attack or cause harm
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 
 In this document, "weapon" is a tag for any item whose primary purpose is to inflict harm. This includes held weapons, such as swords, as well as fixed weapons such as [[arcane artillery]].
 
-In the [[Storyloom]] system, if a player character is wielding some form of weapon, their attempts to cause harm (such as in combat) gain at least +1 [[impact]]. This includes the "natural weapons" granted by certain [[talent]]s. In addition, wielding a weapon may also reduce the character's [[risk]] if their weapon allows for it, e.g. by allowing the wielder to parry incoming blows. Heavy two-handed weapons, such as greatswords, might grant even more additional [[impact]], but sometimes carry additional [[consequence]]s for use, such as [[disadvantage]] on attacks against quick enemies, or increased exhaustion (extra [[stress]] taken on [[mixed success]]es).
+In the [[Storyloom]] system, if a player character is wielding some form of weapon, their attempts to cause harm (such as in combat) gain at least +1 [[impact]], if that weapon is at all effective against the character's target. This includes the "natural weapons" granted by certain [[talent]]s. In addition, wielding a weapon may also reduce the character's [[risk]] if their weapon allows for it, e.g. by allowing the wielder to parry incoming blows. Heavy two-handed weapons, such as greatswords, might grant even more additional [[impact]], but sometimes carry additional [[consequence]]s for use, such as [[disadvantage]] on attacks against quick enemies, or increased exhaustion (extra [[stress]] taken on [[mixed success]]es).
 
 For some example weapon costs, see the [[money]] page (<<navAndScrollToHeader money "Adventuring Gear Costs">>).
 

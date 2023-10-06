@@ -1,10 +1,10 @@
 created: 20230606030358359
-modified: 20230615205957714
+modified: 20231006190202316
 title: timeline shortening equation
 tooltip: More than 1300 years ago: Adjusted year = √(2600*(original year - 650))
 type: text/vnd.tiddlywiki
 
-In the [[Eberron Tiddlywiki|Readme]], the [[timeline of Eberron|era]] has been shortened to reduce the implausibility of all the millennia-spanning kingdoms of antiquity. Older dates are adjusted more dramatically than more recent dates. Dates that are 1300 or fewer years ago are unchanged, so as to preserve the "998 YK" default campaign starting year, as well as the [[Riedra]]n calendar conversion (so the present year in Riedra is still 1300 Unity). But all timeline events that occurred more than 1300 years ago are adjusted according to the following formula:
+In the [[Eberron Tiddlywiki|Readme]] (as of version 1.22.00, June 15 2023), the [[timeline of Eberron|era]] has been shortened to reduce the implausibility of all the millennia-spanning kingdoms of antiquity. Older dates are adjusted more dramatically than more recent dates. Dates that are 1300 or fewer years ago are unchanged, so as to preserve the "998 YK" default campaign starting year, as well as the [[Riedra]]n calendar conversion (so the present year in Riedra is still 1300 Unity). But all timeline events that occurred more than 1300 years ago are adjusted according to the following formula:
 
 <<<
 !!! Adjusted year = √(2600*(original year - 650))
@@ -21,7 +21,9 @@ Major consequences of this adjustment:
 
 !!! Why shorten the timeline?
 
-I'm not the first person to point out how oddly stretched-out the timeline of Eberron is. Keith Baker himself, the creator of the setting, has said on multiple occasions that, if he could change anything fundamental about Eberron, he'd shorten the timeline. The scale of history just doesn't make sense in multiple places. Consider [[Dhakaan]]: canonically, the empire lasts 11,000 years, more than the entirety of human civilization. And four thousand years of that is //after the Xoriat incursion//, a cataclysmic event which was supposed to be the reason the empire fell. "Weakened by the war with the daelkyr, and cursed by the Kapaa'vola, the Empire of Dhakaan is shattered by infighting and civil strife, eventually leading to the collapse of the goblinoid civilization." Four //thousand// years later? 160 generations removed? I'm sorry, but that doesn't make any sense whatsoever. There's no way the empire would be just slowly crumbling that entire time, but not actually collapse for four entire Roman Empires.
+I'm not the first person to point out how oddly stretched-out the timeline of Eberron is. Keith Baker himself, the creator of the setting, has said on multiple occasions that, if he could change anything fundamental about Eberron, he'd shorten the timeline. The scale of history just doesn't make sense in multiple places. Consider [[Dhakaan]]: canonically, the empire lasts 11,000 years, more than the entirety of human civilization. And four thousand years of that is //after the Xoriat incursion//, a cataclysmic event which was supposed to be the reason the empire fell. "Weakened by the war with the daelkyr, and cursed by the [[Kapaa'vola]], the Empire of Dhakaan is shattered by infighting and civil strife, eventually leading to the collapse of the goblinoid civilization." Four //thousand// years later? 160 generations removed? I'm sorry, but that doesn't make any sense whatsoever. There's no way the empire would be just slowly crumbling that entire time, but not actually collapse for four entire Roman Empires.
+
+//Edit (Oct 6 2023):// Keith Baker recently stated that in his own games, the timeline of the Age of Giants is shortened to make more sense of the issue I mentioned above. In his Eberron, the daelkyr incursion happened 4000 years ago, lasted some centuries before the war began, and then the empire of Dhakaan fell within centuries of the Kapaa'vola. That's pretty close to the shortened timeline I've created here.
 
 !!! Keith Baker has also said he'd shorten the timeline of Galifar specifically; why did you keep the last 1300 years unchanged?
 

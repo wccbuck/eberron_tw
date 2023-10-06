@@ -2,13 +2,15 @@ category: spell
 color: #B7A1E0
 created: 20210412050158091
 highertier: show
-modified: 20230317044551560
+modified: 20231006181016426
 tags: [[divine magic]]
 tier: 2
 title: bless
 type: text/vnd.tiddlywiki
 
 You bless up to three creatures of your choice within 30 feet. For the next minute, whenever a target makes an attempt using a specific [[approach]] (your choice), they have [[advantage]].
+
+This spell can also be flavored as the magical effect of a [[bard]]'s inspiring song; see [[bardic inspiration]].
 
 <$reveal type="match" state="!!highertier" text="show">
 

@@ -2,7 +2,7 @@ alternatetitle: drakatha Trothlorsvek
 category: creature
 color: #EA868F
 created: 20210207085610657
-modified: 20230924053519673
+modified: 20230928231515075
 tags: humanoid dragon
 tier: 1
 title: dragonborn
@@ -19,7 +19,8 @@ If you'd like to play as a dragonborn, see [[Dragonborn (talent)]].
 * <<scrollToHeader "Dragonborn of Argonnessen">>
 * <<scrollToHeader "Exodus to Q'barra">>
 * <<scrollToHeader "The Clans of Ka'rhashan">>
-* <<scrollToHeader "Q'barran Dragonborn Culture">>
+** <<scrollToHeader "Q'barran Dragonborn Culture">>
+** <<scrollToHeader "Q'barran Dragonborn Names">>
 * <<scrollToHeader "Notes">>
 
 !! Dragonborn Biology
@@ -29,6 +30,7 @@ Dragonborn closely resemble [[dragon]]s standing erect in humanoid form, though 
 Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old [[human]] child by the age of 3, and reach adulthood by 15. They live to be around 80.
 
 Depending on the draconic ancestry of a particular clan, dragonborn within that clan possess a breath weapon and resistance similar to a [[dragon]] of that type. For example, a dragonborn with [[silver dragon]] ancestry can exhale a cone of icy breath and is resistant to cold.
+
 
 !! Dragonborn of Argonnessen
 
@@ -71,7 +73,7 @@ Other hunger for conquest and believe it is time for
 the dragonborn to go forth and reclaim their empire.
 This is the philosophy of [[Mishva|Mishva Garodya Stormhorn]] of the [[Stormhorn clan|Stormhorn Clanhold]], and many warriors are heeding her call. For now, the [[Flamebrow clan|Flamebrow Clanhold]] remains in control of [[Ka'rhashan]], under High Elder [[Bhisma|Bhisma Na'kala Flamebrow]].
 
-!! Q'barran Dragonborn Culture
+!!! Q'barran Dragonborn Culture
 
 The Clans of [[Ka'rhashan]] are a martial nation. They
 came to [[Khorvaire]] as an army, and they have never
@@ -79,12 +81,10 @@ stopped fighting. Only the [[Valenar]] rival the dragonborn in dedication to the
 
 Clan elders are often [[cleric]]s who teach the tenets
 of [[Thir]]—the Draconic Sovereigns. Other clans are led by //ukristroth//, [[bard]]s dedicated to the mysteries of the [[Prophecy|Draconic Prophecy]] and the history of the
-//Trothlorsvek//. While clerics guide the people in daily
-prayer, it is the //ukristroth// who adjudicate the ritual
-battles and who are urging the people to remember
+//Trothlorsvek//. While clerics guide the people in daily prayer, it is the //ukristroth// who adjudicate the ritual battles and urge the people to remember
 their ancient duty. 
 
-Despite losing their empire, the dragonborn are
+Despite losing their [[empire|Arkhosia]], the dragonborn are
 proud to the point of arrogance. They believe that the
 original defeat of the [[Poison Dusk]] was caused solely
 by the military might of the //Trothlorsvek//, and they
@@ -94,3 +94,21 @@ Most consider the [[lizardfolk]] to be superstitious primitives, and they have l
 The dragonborn place no special significance on the [[dragonshard]]s, but they have no intention of allowing outsiders to pillage the lands they have sworn to guard. Pride, love of battle, and dreams of glory are the watchwords of the modern dragonborn, and this
 is laced with an iron backbone of duty that could rise
 again to the fore if their pride leads to disaster. 
+
+!!! Q'barran Dragonborn Names
+
+Dragonborn of [[Q'barra]] often have four names: a personal name, a family name, a clan name, and a childhood name. Some examples of personal names include the following:
+
+''//Masculine personal names://'' Arjhan, Balasar, Bharash, Donar, Ghesj, Heskan, Kriv, Medrash, Nadar, Patrin, Rhogar, Shamasj, Shedinn, Torinn.
+
+''//Feminine personal names://'' Akra, Biri, Dyar, Harann, Kava, Korinn, Mishna, Nala, Perra, Raiann, Sora, Surina, Thava.
+
+A dragonborn's clan is typically one of the four main clans: [[Flamebrow|Flamebrow Clanhold]], [[Stormhorn|Stormhorn Clanhold]], [[Duskwing|Duskwing Clanhold]], or [[Sunscale|Sunscale Clanhold]]. A few smaller clans without major [[dragonborn clanhold]]s exist in Q'barra, such as the Peaceblade and the Loremark. Even though the dragonborn speak a dialect of [[Draconic]], they typically translate clan names as above when speaking [[Common]]. 
+
+A family name is carried by a specific bloodline within a clan, and often derives from the personal name of a specific notable ancestor, or an amalgamation of the names of multiple ancestors. Some family names are formed from pairs of [[Draconic]] words like clan names, but they are not translated when speaking another language.
+
+''//Dragonborn family names://'' Alreja, Bhergav, Duggal, Garodya, Iyotar, Letrah, Mulhotra, Odeyar, Pradu, Redyar, Samanga, Tyagi, Ulharej, Vadula, Yadav, Zaveri.
+
+A dragonborn's childhood name is usually descriptive, and serves as a term of endearment or encouragement for a youth. The name might recall an event or center on a habit or favored toy. It could derive from an ancestor that acted similarly to a child. Such names are seldom appropriate for adults; it is disrespectful to use such a name without proper authority, such as that of a parent or elder, or without permission. 
+
+//''Childhood names:''// Climber, Earbender, Leaper, Pious, Little Kriv, Shieldbiter, Quarrelsome.

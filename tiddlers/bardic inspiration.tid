@@ -1,0 +1,21 @@
+category: spell
+color: #B7A1E0
+created: 20231006181019289
+highertier: show
+modified: 20231006181121173
+tags: enchantment
+tier: 2
+title: bardic inspiration
+type: text/vnd.tiddlywiki
+
+Through stirring words or music, you inspire up to three creatures of your choice within 30 feet. For the next minute, whenever a target makes an attempt using a specific [[approach]] (your choice), they have [[advantage]].
+
+This spell is mechanically identical to [[bless]].
+
+<$reveal type="match" state="!!highertier" text="show">
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target three additional creatures.
+
+</$reveal>

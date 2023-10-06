@@ -2,15 +2,38 @@ alternatetitle: eyebinder
 category: creature
 color: #EA868F
 created: 20200422204630389
-modified: 20220826220854624
+modified: 20231005193043490
 tags: quori immortal fiend
 tier: 5
 title: kalaraq
 tooltip: most powerful quori, spirit of pride and ambition
 type: text/vnd.tiddlywiki
 
-The most powerful [[quori]] are the kalaraqs, also known as eyebinders—entities formed of pure shadow that is outlined by a nimbus of energy. A host of disembodied eyes whirl around a kalaraq, each reflecting a consciousness the creature has consumed.
+//A humanoid figure formed of pure shadow floats before you. A nimbus of light surrounds it without illuminating the surrounding area; it only serves to highlight the absolute darkness of the being within. A host of disembodied eyes of all shapes and sizes whirl around the featureless figure. These eyes constantly shift, appearing, disappearing, fading away, and bursting like bubbles.//
+
+!
+
+The most powerful [[quori]] are the kalaraqs, also known as eyebinders—entities formed of pure shadow that is outlined by an aura of light. A kalaraq possesses the power to consume and trap souls, preserving their knowledge in its essence. A host of disembodied eyes whirl around a kalaraq, each reflecting a consciousness the creature has consumed. These consciousnesses might include ancient kings, great sages, or even [[dragon]]s.
 
 Kalaraq quori guide the quori race, and dominate through sheer charisma and force of will. The [[Devourer of Dreams]]—the personal emissary of the [[Dreaming Dark]]—is of this order; the rebel quori [[Taratai]] was also a kalaraq. They are spirits of pride and ambition, and prefer using these tools when manipulating mortal dreamers. Although the kalaraqs never fight one another overtly, each has its own agenda, and each hopes to someday seize the throne of the Devourer of Dreams. Because of this internal conflict, it is unusual for a kalaraq to leave [[Dal Quor]] to inhabit a mortal vessel and become one of the [[Inspired]].
 
-Kalaraqs are able to implant psionic [[mind seed]]s in [[humanoid]]s, which over time can turn the host into a thrall under the control of the kalaraq.
+Kalaraqs are able to implant psionic [[mind seed]]s in [[humanoid]]s, which over time can replace the personality of the host with that of the kalaraq. But this is a risky power to use; the kalaraq does not have full control over these mind seeds, and the ambitious nature of the kalaraq's personality may lead the mind seed to abandon the cause of the [[Dreaming Dark]] and pursue their own agenda. For an example, see [[Keshraa the Fallen]].
+
+!! Links to Headers
+* <<scrollToHeader "Stealer of Souls">>
+* <<scrollToHeader "Kalaraq Kalashtar">>
+* <<scrollToHeader "Notes">>
+
+!! Stealer of Souls
+
+Alone among the [[quori]], the kalaraq can kill mortal dreamers in their sleep, binding their spirits to the kalaraq's wreath of eyes. Each soul is trapped in its own eternal dream; thus, an eyebinder is almost like a miniature [[Dal Quor]], with its own array of dreamers that never awaken. This is obviously a very powerful ability, so one might ask the question: how are player characters supposed to defend against it?
+
+First, consider that kalaraq are the uppermost caste of [[quori]] and have many duties; lesser quori at odds with the player characters might not want to draw the many eyes of a kalaraq to their own personal failures. But once a kalaraq turns its attention and ire towards the PCs, how can they hope to survive?
+
+One of the core principles of Eberron is that player characters are remarkable. Perhaps kalaraq simply //can't// bind the souls of the PCs, for mysterious reasons. After a terrifying scene in which a kalaraq slaughters a player character in their dreams, proclaiming it will claim their soul... the PC wakes up, unbound and unharmed. Why didn't it work? It could be the power of the [[Draconic Prophecy]], protecting the character with an unfulfilled destiny; more specifically, perhaps an [[overlord]] is shielding the character who is destined to release them, or a [[dragon]] has warded them for similar and opposite reasons. Or maybe <<navAndScrollToHeader "Dal Quor" "the Turning of the Age">> is close at hand, and the power of the kalaraq is waning.
+
+!! Kalaraq Kalashtar
+
+What of eyebinders who have turned to the light alongside [[Taratai]] and the other [[quori]], and became the [[kalashtar]]? Keeping trapped souls of slain mortals doesn't seem like a very "[[Path of Light]]" practice. These kalaraq cannot continue to trap dreaming consciousnesses, but they certainly collected souls before their exodus from [[Dal Quor]]. Perhaps they released all their bound spirits, allowing them to rejoin the universal life force, when they formed their union with human hosts. But that's not the only possibility. If they've kept their collection of souls, a kalashtar's kalaraq could have specifically targeted cruel and evil people who it believed deserve eternal punishment, and keeps them trapped in a never-ending nightmare. Consider: who exactly did the kalaraq feel deserved this punishment? On the other hand, a kalaraq could have bound the most compassionate and accomplished mortals it could find in order to preserve their spirits from dissolution in [[Dolurrh]], and each spirit lives on in a dream paradise. Essentially, this kalaraq might have chosen to grant worthy people an idyllic afterlife, and may even believe these souls should be preserved for a greater purpose—not unlike the philosophy of the [[Restful Watch]].
+
+As a player character [[kalashtar]] with a kalaraq spirit, consider using the nature of the eyebinders to add flavor to your spells and abilities. If you can summon [[elemental]]s or [[fey]] creatures, perhaps these are actually the dreams (or nightmares) of bound spirits, made real using the energy of that spirit. Casting [[borrowed knowledge]] might draw on the skills of one of your "eyes." You might even take multiple [[background]] [[talent]]s that each represent gifts of different spirits you have preserved.

@@ -1,19 +1,150 @@
 category: talent
 created: 20211129234626016
-list: [[dancing lights]] guidance thaumaturgy [[thunder step]] frenzy haste [[miser's envy]] friends light message [[lesser illusion]] prestidigitation thunderclap [[vicious mockery]] [[animal friendship]] charm command [[comprehend languages]] [[dissonant whispers]] [[faerie fire]] [[feather fall]] [[healing word]] heroism identify longstrider [[silent image]] sleep [[speak with animals]] [[hideous laughter]] thunderwave [[unseen servant]] bane aid blindness/deafness [[animal messenger]] [[calm emotions]] enthrall hold invisibility restoration [[magic mouth]] [[Nathair's mischief]] phantasm pyrotechnics skywrite suggestion [[zone of truth]] [[dispel magic]] [[enemies abound]] fear [[hypnotic pattern]] [[color spray]] [[greater illusion]] [[plant growth]] sending slow [[speak with dead]] [[speak with plants]] tongues compulsion confusion [[dimension door]] [[freedom of movement]] [[hallucinatory terrain]] [[phantasmal killer]] polymorph [[psychic lance]] [[animate objects]] awaken dominate dream geas mislead [[legend lore]] [[modify memory]] [[planar binding]] empowerment [[telepathic bond]] [[synaptic static]] [[irresistible dance]] [[true seeing]] [[find the path]] etherealness forcecage [[mirage arcane]] [[project image]] regeneration [[raise dead]] resurrection teleport antipathy/sympathy feeblemind glibness [[mind blank]] [[power word: stun]] [[power word: pain]] [[power word: kill]] [[psychic scream]]
-modified: 20230913030325811
+glamour: [[Nathair's mischief]] [[faerie fire]] [[animal messenger]] [[speak with animals]] [[dimension door]] [[plant growth]] invisibility [[speak with plants]] [[animal friendship]] [[hypnotic pattern]] [[color spray]] phantasm antipathy/sympathy mislead [[miser's envy]] [[hallucinatory terrain]] polymorph [[dancing lights]] light [[disguise self]] [[mirage arcane]] skywrite
+keys: knock [[animate objects]] [[disable construct]] shatter [[heat metal]] identify [[detect traps]] [[tiny servant]] light [[repair damaged construct]] mending
+list: guidance friends charm [[lesser illusion]] message [[vicious mockery]] sleep suggestion empowerment heroism glibness tongues [[healing word]] compulsion [[greater illusion]] [[irresistible dance]] aid [[bardic inspiration]] pyrotechnics [[calm emotions]] enthrall hold [[mind blank]] bane frenzy haste slow geas dominate awaken dream thaumaturgy command [[silent image]] confusion [[unseen servant]] restoration thunderclap thunderwave [[thunder step]] etherealness [[find the path]] prestidigitation [[feather fall]] longstrider [[hideous laughter]] [[freedom of movement]] [[modify memory]] [[magic mouth]] [[project image]]
+lore: [[borrowed knowledge]] [[zone of truth]] identify [[power word: stun]] [[power word: pain]] [[power word: kill]] resurrection teleport [[raise dead]] regeneration [[dimension door]] [[legend lore]] [[true seeing]] [[dispel magic]] forcecage [[comprehend languages]] sending light [[planar binding]] [[telepathic bond]]
+modified: 20231006182322606
 tags: bard Spellcaster
 title: Bardic Magic
 type: text/vnd.tiddlywiki
+whispers: fear blindness/deafness [[psychic scream]] [[dissonant whispers]] [[speak with dead]] [[enemies abound]] [[phantasmal killer]] feeblemind antipathy/sympathy [[synaptic static]] [[unseen thief]] [[disguise self]] [[shadow step]] [[psychic lance]]
 xpcost: 1
 
-Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]] talent rules. A [[bard]] might choose from the following spells, which they cast with the aid of a [[musical instrument]].
+Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]] talent rules. A [[bard]] might choose from the spells in the <<scrollToHeader "Bardic Magic Spell List">> below, which they cast with the aid of a [[musical instrument]].
 
-!! {{!!title}} Spell List
+Bards also may delve into the advanced techniques of specific poetic traditions, known as <<navAndScrollToHeader bard "bardic colleges">>. See some example spells for a handful of colleges in the sections below. If you don't see your chosen college below, it may be because all of its signature spells were already on the main Bardic Magic spell list.
+
+!! Links to Headers
+* <<scrollToHeader "Bardic Magic Spell List">>
+* <<scrollToHeader "College Spell Lists">>
+** <<scrollToHeader "College of Lore">>
+** <<scrollToHeader "College of Glamour">>
+** <<scrollToHeader "College of Whispers">>
+** <<scrollToHeader "College of Keys">>
+** <<scrollToHeader "College of Creation">>
+* <<scrollToHeader "Notes">>
+
+!! Bardic Magic Spell List
 
 <table class="manager-table">
 	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
 	<$list filter="[list[]sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>
+
+!! College Spell Lists
+
+!!! College of Lore
+
+Consider also any spell from the [[divination]] [[spell school]].
+
+<table class="manager-table">
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
+	<$list filter="[list[!!lore]sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>
+
+!!! College of Glamour
+
+Consider also any spell from the [[enchantment]] or [[illusion]] [[spell school]]s.
+
+<table class="manager-table">
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
+	<$list filter="[list[!!glamour]sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>
+
+!!! College of Whispers
+
+Consider also any spell from the [[necromancy]] or [[enchantment]] [[spell school]]s.
+
+<table class="manager-table">
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
+	<$list filter="[list[!!whispers]sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>
+
+!!! College of Keys
+
+<table class="manager-table">
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
+	<$list filter="[list[!!keys]sort[title]sort[tier]]">
+		<tr><td><$link/></td>
+		<td>
+			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>
+		</td>
+		<td>
+			<$list filter="[is[current]tags[]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+		</tr>
+	</$list>
+</table>
+
+!!! College of Creation
+
+This list of recommended spells is identical to that of the [[Shaper]] [[psion]].
+
+<table class="manager-table">
+	<tr class="th-sticky"><th align="left">Spell</th><th align="left" width="100px">Spell Tier</th><th align="left" max-width="250px">Tags</th></tr>
+	<$list filter="[list[Shaper]sort[title]sort[tier]]">
 		<tr><td><$link/></td>
 		<td>
 			<$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>

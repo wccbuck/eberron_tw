@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210402021419698
-modified: 20230919174301717
+modified: 20231006192529691
 tags: Storyloom
 title: talent
 tooltip: Storyloom mechanic: a player character's special capability or area of expertise
@@ -19,11 +19,18 @@ When you [[make a character|Character Creation]], you start with three [[experie
 Some talents have prerequisite talents; for example, you can't take [[Changeling Metamorphosis]] without first having taken [[Changeling (talent)]]. These talents tend to be slightly stronger than talents without prerequisites at the same [[experience point]] cost, since they reward a narrow character development focus that closes off other options.
 
 <<<
-''A Note on Talents That Grant Advantage''<br/>
-If a talent gives you [[advantage]] to use a [[toolset]] or [[musical instrument]], unless otherwise stated, you must use that item for one of its intended purposes in order to gain the benefit. That is, if a talent gives you an advantage when using [[thieves' tools]], you don't get that advantage for swinging the satchel of tools like a weapon. If you use the toolset or musical instrument as a [[magical implement]], you must take the [[Implement Expertise]] talent to gain an advantage.
+''A Note on Talents That Grant Bonuses for Using Tools''<br/>
+If a talent gives you [[advantage]] or +1 [[impact]] to use a [[toolset]] or [[musical instrument]], unless otherwise stated, you must use that item for one of its intended purposes in order to gain the benefit. That is, if a talent gives you an advantage when using [[thieves' tools]], you don't get that advantage for swinging the satchel of tools like a weapon. If you use the toolset or musical instrument as a [[magical implement]], you must take the [[Implement Expertise]] talent to gain an advantage.
 <<<
 
 !!! <<showtalents "Find Talents">>
+
+!! Links to Headers
+* <<scrollToHeader "Talent List">>
+** <<scrollToHeader "Occupation-Based Talents">>
+** <<scrollToHeader "Species-Based Talents">>
+** <<scrollToHeader "Other Talents">>
+* <<scrollToHeader "Notes">>
 
 !! Talent List
 
@@ -71,5 +78,7 @@ If a talent gives you [[advantage]] to use a [[toolset]] or [[musical instrument
 </li>
 </$list>
 </ul>
+
+!
 
 !!! <<showtalents "Find Talents">>
