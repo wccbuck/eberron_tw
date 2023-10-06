@@ -27,6 +27,7 @@ function setheight(self, titlebar){
             const thisStory = self.getVariable("tv-story-list");
             if (thisStory !== "$:/StoryList"){
                 tiddlerDiv = document.querySelector("section.tc-story-river.tc-storytwo-river div[data-tiddler-title=\""+self.getVariable("currentTiddler").replaceAll('"', '\\"')+"\"]");
+                if (!tiddlerDiv) return;
                 titlegradient = tiddlerDiv.querySelector("div.title-gradient");
                 tableheader = tiddlerDiv.querySelector("tr.th-sticky");
                 if (!titlebar || !titlebar.offsetHeight){
@@ -37,6 +38,7 @@ function setheight(self, titlebar){
                 headerScrollMarginTop = String(titlebar.offsetHeight + 26) + "px";
             } else {
                 tiddlerDiv = document.querySelector("section.tc-story-river:not(.tc-storytwo-river) div[data-tiddler-title=\""+self.getVariable("currentTiddler").replaceAll('"', '\\"')+"\"]");
+                if (!tiddlerDiv) return;
                 titlegradient = tiddlerDiv.querySelector("div.title-gradient");
                 tableheader = tiddlerDiv.querySelector("tr.th-sticky");
                 if (!titlebar || !titlebar.offsetHeight){

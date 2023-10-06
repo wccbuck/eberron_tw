@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210402021419698
-modified: 20230928182256974
+modified: 20231006192529691
 tags: Storyloom
 title: talent
 tooltip: Storyloom mechanic: a player character's special capability or area of expertise
@@ -24,6 +24,13 @@ If a talent gives you [[advantage]] or +1 [[impact]] to use a [[toolset]] or [[m
 <<<
 
 !!! <<showtalents "Find Talents">>
+
+!! Links to Headers
+* <<scrollToHeader "Talent List">>
+** <<scrollToHeader "Occupation-Based Talents">>
+** <<scrollToHeader "Species-Based Talents">>
+** <<scrollToHeader "Other Talents">>
+* <<scrollToHeader "Notes">>
 
 !! Talent List
 
@@ -71,5 +78,7 @@ If a talent gives you [[advantage]] or +1 [[impact]] to use a [[toolset]] or [[m
 </li>
 </$list>
 </ul>
+
+!
 
 !!! <<showtalents "Find Talents">>

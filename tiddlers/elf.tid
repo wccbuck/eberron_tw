@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414234116668
-modified: 20230824222918627
+modified: 20231006202923268
 tags: humanoid
 tier: 1
 title: elf
@@ -39,13 +39,14 @@ move forward?
 If you'd like to play as an elf, see [[Elf (talent)]].
 
 !! Links to Headers
-* <<scrollToHeader "Appearance and Longevity">>
+* <<scrollToHeader "Appearance, Longevity, and Other Traits">>
 * <<scrollToHeader "Subraces">>
 * <<scrollToHeader "Elves of the Five Nations">>
 * <<scrollToHeader "Elves and Dragonmarks">>
 * <<scrollToHeader "Notes">>
 
-!! Appearance and Longevity
+!! Appearance, Longevity, and Other Traits
+
 With their unearthly grace and fine features, elves appear hauntingly beautiful to humans and members of many other races. They are slightly shorter than humans on average, ranging from well under 5 feet tall to just over 6 feet. They are more slender than humans, weighing only 100 to 145 pounds. 
 
 Elves' coloration encompasses the normal human
@@ -57,9 +58,9 @@ bright colors, and they enjoy simple yet lovely jewelry.
 
 Elves can live over 700 years (though their average lifespan is closer to 500), giving them a broad perspective on events that might trouble the shorter-lived races more deeply.
 
-Another trait that distinguishes elves from many other races is their "trance." Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, they can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, they gain the same benefit that a [[human]] does from 8 hours of sleep. This trait grants elves an immunity to any magic that might put a humanoid to sleep, as well as a resistance to [[charm|enchantment]] magic.
+Another trait that distinguishes elves from many other races is their "trance." Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. While meditating, they don't dream the same way other mortals do, and their consciousnesses do not travel to [[Dal Quor]], but they can "dream" after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, they gain the same benefit that a [[human]] does from 8 hours of sleep. This trait grants elves an immunity to any magic that might put a humanoid to sleep, as well as a resistance to [[charm|enchantment]] magic. It is not known why elves do not have a connection to the [[Region of Dreams|Dal Quor]], but some scholars believe it may be a result of [[magebreeding]] during the [[giant-quori conflict|Age of Giants]].
 
-The final major trait unique to elves is a phenomenon known as //i wiste//, or "the change." Elves are able to change their sex at will, over the course of a 4-hour trance. During this special meditation in which an elf reflects on their self-image and identity, their physical form shifts to match their thoughts. The change does not dramatically change the elf's appearance. For elves, sex is a form of expression as opposed to an absolute; it is a reflection of their [[fey]] ancestry, much as [[eladrin]] experience seasonal shifts depending on their emotions. As a result of this innate trait, elves do not link gender to sex in quite the same way as other [[humanoid]]s do; in fact, [[Aerenese]] has at least twelve different personal pronouns, some of which lean masculine, others feminine, still others neither or both. When translated into [[Common]], all of these pronouns are collapsed to either "he," "she," or "they."
+The final major trait unique to elves is a phenomenon known as //i wiste//, or "the change." Elves are able to change their sex at will, over the course of a 4-hour trance. During this special meditation in which an elf reflects on their self-image and identity, their physical form shifts to match their thoughts. The change does not dramatically change the elf's appearance. For elves, sex is a form of expression as opposed to an absolute; it is a reflection of their [[fey]] ancestry, much as [[eladrin]] experience seasonal shifts depending on their emotions. As a result of this innate trait, elves do not link gender to sex in quite the same way as other [[humanoid]]s do; in fact, [[Aerenese]] has at least twelve different personal pronouns, some of which lean masculine, others feminine, still others neither or both. When translated into [[Common]], all of these pronouns are typically collapsed to either "he," "she," or "they."
 
 !! Subraces
 

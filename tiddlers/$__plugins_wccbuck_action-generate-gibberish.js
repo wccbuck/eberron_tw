@@ -94,7 +94,7 @@ Action widget to generate gibberish for different fictional languages
         return Math.abs(hash);
     }
 
-    function translate(text, language, dictionary, vowels, cons, scrambling, sharedLang1, sharedCons1, sharedLang2, sharedCons2, commonPct, stopRecursion = false) {
+    function translate(text, language, dictionary, vowels, cons, scrambling, sharedLang1, sharedCons1, sharedLang2, sharedCons2, commonPct, lengthPctCutoff, stopRecursion = false) {
         let currentLetter = "";
         let prevLetter = "";
         let nextLetter = "";
@@ -306,19 +306,19 @@ Action widget to generate gibberish for different fictional languages
                 translatedWord = removeTripleLetters(translatedWord);
 
                 if (useCommonCons && translatedWord.length > 1 && translatedWord === word && !stopRecursion) {
-                    translatedWord = translate(translatedWord, language, dictionary, vowels, cons, scrambling, sharedLang1, sharedCons1, sharedLang2, sharedCons2, 0, true);
+                    translatedWord = translate(translatedWord, language, dictionary, vowels, cons, scrambling, sharedLang1, sharedCons1, sharedLang2, sharedCons2, 0, lengthPctCutoff, true);
                 }
 
-                while (translatedWordBlocks.length > 1 && translatedWord.length > 1.5 * word.length + 4 && !stopRecursion) {
+                while (translatedWordBlocks.length > 1 && translatedWord.length > lengthPctCutoff * word.length + 4 && !stopRecursion) {
                     // if the translated word is excessively long
                     translatedWordBlocks.pop();
                     translatedWord = translatedWordBlocks.join("");
-                    translatedWord = translate(translatedWord, language, dictionary, vowels, cons, scrambling, sharedLang1, sharedCons1, sharedLang2, sharedCons2, commonPct, true);
+                    translatedWord = translate(translatedWord, language, dictionary, vowels, cons, scrambling, sharedLang1, sharedCons1, sharedLang2, sharedCons2, commonPct, lengthPctCutoff, true);
                 }
 
                 if (Object.values(dictionary).includes(translatedWord.toLowerCase()) && !stopRecursion) {
                     // if this word already means something in the canon language, run it back through the translator
-                    translatedWord = translate(translatedWord, language, dictionary, vowels, cons, scrambling, sharedLang1, sharedCons1, sharedLang2, sharedCons2, commonPct, true);
+                    translatedWord = translate(translatedWord, language, dictionary, vowels, cons, scrambling, sharedLang1, sharedCons1, sharedLang2, sharedCons2, commonPct, lengthPctCutoff, true);
                 }
 
                 if (capitalizeFirst) {
@@ -366,7 +366,7 @@ Action widget to generate gibberish for different fictional languages
         const dictionaryTiddlerName = `$:/${this.language}Dictionary`;
         const vowelTiddlerName = `$:/${this.language}GibberishVowels`;
         const consTiddlerName = `$:/${this.language}GibberishConsonants`;
-        let dictionary, vowels, consonants, sharedLang1, sharedConsonants1, sharedLang2, sharedConsonants2, commonPct;
+        let dictionary, vowels, consonants, sharedLang1, sharedConsonants1, sharedLang2, sharedConsonants2, commonPct, lengthPctCutoff;
         try {
             dictionary = this.wiki.getTiddlerData(dictionaryTiddlerName, {});
             vowels = this.wiki.getTiddlerData(vowelTiddlerName, { start: ["a"], middle: ["a"], end: ["a"] });
@@ -394,12 +394,18 @@ Action widget to generate gibberish for different fictional languages
         }
 
         try {
+            lengthPctCutoff = parseInt(this.wiki.getTiddler(consTiddlerName).fields.lengthpctcutoff);
+        } catch (error) {
+            lengthPctCutoff = 1.5;
+        }
+
+        try {
             commonPct = parseInt(this.wiki.getTiddler(consTiddlerName).fields.commonpct);
         } catch (error) {
             //
         }
 
-        this.actionValue = translate(this.text, this.language, dictionary, vowels, consonants, scrambling, sharedLang1, sharedConsonants1, sharedLang2, sharedConsonants2, commonPct);
+        this.actionValue = translate(this.text, this.language, dictionary, vowels, consonants, scrambling, sharedLang1, sharedConsonants1, sharedLang2, sharedConsonants2, commonPct, lengthPctCutoff);
     };
 
     /*

@@ -1,6 +1,7 @@
 commonpct: 22
 created: 20230509231345780
-modified: 20230528154942883
+lengthpctcutoff: 1.4
+modified: 20231005192209165
 tags: 
 title: $:/DethekGibberishConsonants
 type: application/json

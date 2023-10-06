@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20231006225235552
+modified: 20231006225927352
+tags: weapon [[any weapon]]
+tier: 4
+title: flaming burst weapon
+type: text/vnd.tiddlywiki
+
+This weapon grants its wielder resistance to [[fire damage|damage type]].
+
+When a command word is spoken, this finely-crafted weapon becomes wreathed in fire, dealing extra [[fire damage|damage type]] when striking enemies. This fire does not harm the wielder. The flames last until you speak the command word again or until you drop or sheathe the weapon. 
+
+In addition, whenever you attack with this weapon and earn a [[critical success|full success]] (two or more 6's), you can choose to create a burst of fire which explodes from the point of contact out to a radius of 3 feet. The wielder is also fully protected against this fire.
