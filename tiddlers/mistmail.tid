@@ -2,7 +2,7 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20230801205325802
-modified: 20230801205851251
+modified: 20231009210036197
 tags: stealth body armor
 tier: 2
 title: mistmail
@@ -12,9 +12,6 @@ The fine links of this chain shirt form a pattern of roiling clouds. This armor 
 
 The armor regains <<dr 1d3>> charges each day at dawn.
 
-<<<
-!!! fog cloud
-{{||fog cloud}}
-<<<
+<<spellpreview "fog cloud">>
 
 <<itemcharges 3>>

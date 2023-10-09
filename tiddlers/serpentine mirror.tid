@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201210035520875
-modified: 20220220202835234
+modified: 20231009201646563
 tags: detection [[Mark of Shadow]] tool [[dragonmark focus item]]
 tier: 3
 title: serpentine mirror
@@ -12,7 +12,4 @@ In order to [[attune|attunement]] to this magic item, you must possess the [[Mar
 
 This ornate mirror is typically about 6 inches in diameter. While touching it, you can cast the [[scrying]] spell with it.
 
-<<<
-!!! scrying
-{{||scrying}}
-<<<
+<<spellpreview "scrying">>

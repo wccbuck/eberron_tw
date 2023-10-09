@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220708192204791
-modified: 20220708192438669
+modified: 20231009205351812
 tags: hindrance potion
 tier: 1
 title: potion of web
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 When you drink this pearlescent potion, you immediately (within the next five seconds) vomit forth a mass of thick, sticky webbing into a 20 foot diameter sphere adjacent to you. The effect is as though you had cast the spell [[web]], although the web lasts for only 10 minutes before dissolving.
 
-<<<
-!!! web
-{{||web}}
-<<<
+<<spellpreview "web">>

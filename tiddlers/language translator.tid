@@ -3,7 +3,7 @@ category: game mechanics
 created: 20230509205613057
 displaylanguage: Goblin
 language: Goblin
-modified: 20231005220444873
+modified: 20231009194554497
 scrambling: enabled
 tags: 
 title: language translator
@@ -109,7 +109,7 @@ Some languages, like [[Riedran]] and [[Adaran]], are canonically closely linguis
 
 Also, in cases where a language is canonically related to [[Common]], sometimes the consonants you put in are the same as the ones you put out. For example, the Dethek translation of "hello" is "hellar."
 
-Source code here: [[$:/plugins/wccbuck/action-generate-gibberish.js]]
+Source code here: [[$:/eberron-tw/action-generate-gibberish.js]]
 
 Details on specific language considerations can be found on the [[github issue page|https://github.com/wccbuck/eberron_tw/issues/24]].
 

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220103014709979
-modified: 20220708175259216
+modified: 20231009205232056
 tags: armor shield
 tier: 2
 title: relentless bulwark
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 This hefty metal shield is virtually impenetrable. If you are able to cast [[divine magic]], this shield allows you to cast [[shield of faith]]. If you cast this spell on yourself while holding this shield, you do not need to maintain concentration to maintain the spell.
 
-<<<
-!!! shield of faith
-{{||shield of faith}}
-<<<
+<<spellpreview "shield of faith">>

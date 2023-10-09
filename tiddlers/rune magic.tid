@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20230829202823966
-modified: 20230830021831840
+modified: 20231009194624166
 tags: 
 title: rune magic
 type: text/vnd.tiddlywiki
@@ -18,26 +18,26 @@ The ancient giants treated these runes as a sacred secret and rarely wrote them,
 !! Example Runes
 
 <div class="grid-container">
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/blood-rune.svg}}<br/>''Blood''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/cloud-rune.svg}}<br/>''Cloud''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/death-rune.svg}}<br/>''Death''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/dragon-rune.svg}}<br/>''Dragon''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/enemy-rune.svg}}<br/>''Enemy''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/fire-rune.svg}}<br/>''Fire''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/friend-rune.svg}}<br/>''Friend''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/frost-rune.svg}}<br/>''Frost''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/hill-rune.svg}}<br/>''Hill''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/journey-rune.svg}}<br/>''Journey''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/king-rune.svg}}<br/>''King''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/life-rune.svg}}<br/>''Life''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/light-rune.svg}}<br/>''Light''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/mountain-rune.svg}}<br/>''Mountain''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/sacred-rune.svg}}<br/>''Sacred''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/shield-rune.svg}}<br/>''Shield''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/stone-rune.svg}}<br/>''Stone''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/storm-rune.svg}}<br/>''Storm''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/war-rune.svg}}<br/>''War''</div>
-<div class="grid-item" align="center">{{$:/plugins/wccbuck/wind-rune.svg}}<br/>''Wind''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/blood-rune.svg}}<br/>''Blood''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/cloud-rune.svg}}<br/>''Cloud''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/death-rune.svg}}<br/>''Death''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/dragon-rune.svg}}<br/>''Dragon''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/enemy-rune.svg}}<br/>''Enemy''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/fire-rune.svg}}<br/>''Fire''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/friend-rune.svg}}<br/>''Friend''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/frost-rune.svg}}<br/>''Frost''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/hill-rune.svg}}<br/>''Hill''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/journey-rune.svg}}<br/>''Journey''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/king-rune.svg}}<br/>''King''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/life-rune.svg}}<br/>''Life''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/light-rune.svg}}<br/>''Light''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/mountain-rune.svg}}<br/>''Mountain''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/sacred-rune.svg}}<br/>''Sacred''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/shield-rune.svg}}<br/>''Shield''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/stone-rune.svg}}<br/>''Stone''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/storm-rune.svg}}<br/>''Storm''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/war-rune.svg}}<br/>''War''</div>
+<div class="grid-item" align="center">{{$:/eberron-tw/wind-rune.svg}}<br/>''Wind''</div>
 </div>
 
 !! Items Which Utilize Rune Magic

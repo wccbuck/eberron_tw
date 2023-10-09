@@ -2,7 +2,7 @@ category: object
 color: #41D5E1
 created: 20210103195343118
 highertier: show
-modified: 20220220221652644
+modified: 20231009200857759
 tags: accessory jewelry head stealth
 tier: 3
 title: circlet of illusion
@@ -10,7 +10,4 @@ type: text/vnd.tiddlywiki
 
 This silver crown is set with a crystalline orb set in the center. While worn, it allows the user to cast [[lesser illusion]] at common- and uncommon-[[tier|spell tier]].
 
-<<<
-!!! lesser illusion
-{{||lesser illusion}}
-<<<
+<<spellpreview "lesser illusion">>

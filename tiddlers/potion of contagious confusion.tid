@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220712005037386
-modified: 20220712005212978
+modified: 20231009201552084
 tags: ridiculous hindrance potion
 tier: 2
 title: potion of contagious confusion
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 When you drink this swirling potion, you are affected as though the spell [[confusion]] had been cast on you. If you touch another creature, then the effect ends for you and transfers to that creature. That creature may transfer the effect the same way in turn. The effect ends after 1 minute.
 
-<<<
-!!! confusion
-{{||confusion}}
-<<<
+<<spellpreview "confusion">>

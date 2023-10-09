@@ -12,7 +12,7 @@ d7: 3
 duration: 1 minute
 effect: Target's skin appears uniformly smooth and waxy for the next {{!!duration}}.
 l_duration: 5 hours
-modified: 20220706211341564
+modified: 20231009210003346
 s_duration: 12 seconds
 spell: hellish rebuke
 tags: ridiculous arms accessory
@@ -28,13 +28,7 @@ Three times per day, the wearer can cast a completely random spell (common, unco
 <$action-chooserandom $filter="[category[spell]!tier[4]!tier[5]]" $field="spell"/>Random Spell
 </$button>
 
-<<<
-
-!!! <$link to={{!!spell}}/>
-
-<$transclude tiddler={{!!spell}}/>
-
-<<<
+<$macrocall $name="spellpreview" spellname={{!!spell}}/>
 
 {{||random magical effect}}
 

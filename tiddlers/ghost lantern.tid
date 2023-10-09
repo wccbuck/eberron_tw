@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220710000714368
-modified: 20220710001214227
+modified: 20231009210046805
 tags: convenience protection detection tool
 tier: 3
 title: ghost lantern
@@ -11,10 +11,7 @@ A restless spirit is trapped inside this lantern. While holding the lantern, you
 
 While holding the lantern, you can order the spirit to leave the lantern and duplicate the effect of the [[mage hand]] spell. The spirit returns to the lantern when the spell ends.
 
-<<<
-!!! mage hand
-{{||mage hand}}
-<<<
+<<spellpreview "mage hand">>
 
 If you fall unconscious within 10 feet of the lantern, the spirit emerges from it, magically stabilizes you with a touch (as the spell [[spare the dying]]), and then quickly returns to the lantern.
 

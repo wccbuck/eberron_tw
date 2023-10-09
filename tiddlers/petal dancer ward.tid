@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220102014819271
-modified: 20220221001527237
+modified: 20231009205521136
 tags: stealth body accessory convenience
 tier: 2
 title: petal dancer ward
@@ -11,7 +11,4 @@ This cape is made of colorful and aromatic petals. While wearing the cape, petal
 
 While wearing the cape, you can cast the [[druidcraft]] spell at will. In addition, creatures that heavily rely on their sense of smell have a difficult time discerning exactly where you are, and suffer [[disadvantage]] on attacks against you or other hostile actions that require knowledge of your precise location.
 
-<<<
-!!! druidcraft
-{{||druidcraft}}
-<<<
+<<spellpreview "druidcraft">>

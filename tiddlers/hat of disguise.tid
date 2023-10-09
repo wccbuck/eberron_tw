@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20200512220056588
-modified: 20230830231747813
+modified: 20231009200706835
 tags: stealth accessory head
 tier: 2
 title: hat of disguise
@@ -10,7 +10,4 @@ type: text/vnd.tiddlywiki
 
 While wearing this hat, and while [[attuned|attunement]] to it, you can cast the [[disguise self]] spell from it for free at will. Your disguise must be wearing some sort of hat. The spell ends if the hat is removed.
 
-<<<
-!!! disguise self
-{{||disguise self}}
-<<<
+<<spellpreview "disguise self">>

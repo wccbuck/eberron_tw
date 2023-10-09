@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201217033505460
-modified: 20220824213400273
+modified: 20231009195024876
 tags: detection tool
 tier: 4
 title: crystal ball
@@ -10,9 +10,6 @@ type: text/vnd.tiddlywiki
 
 This crystal sphere is typically about 6 inches in diameter. While touching it, you can cast the [[scrying]] spell with it.
 
-<<<
-!!! scrying
-{{||scrying}}
-<<<
+<<spellpreview "scrying">>
 
 More expensive versions of crystal ball exist which allow the user to cast [[detect thoughts]] on creatures they can see while scrying, communicate with them telepathically, or scry with [[truesight]].

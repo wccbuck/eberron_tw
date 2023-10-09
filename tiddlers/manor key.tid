@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201210054238444
-modified: 20220220202646784
+modified: 20231009202630959
 tags: [[Mark of Hospitality]] tool [[dragonmark focus item]] convenience stealth
 tier: 3
 title: manor key
@@ -13,10 +13,7 @@ only be used by a creature with the [[Mark of Hospitality]]. You
 can trace the outline of a door in the air with
 the manor key and conjure a shimmering door to an extravagant extradimensional dwelling, as the spell [[magnificent mansion]]. While closed, the portal is invisible. 
 
-<<<
-!!! magnificent mansion
-{{||magnificent mansion}}
-<<<
+<<spellpreview "magnificent mansion">>
 
 The spell ends after 24 hours or when you use the key to lock the door and dismiss
 the effect; at that time, any creatures within the mansion are expelled into an open space near its entrance. Once used, the key cannot be used again until the next dawn.

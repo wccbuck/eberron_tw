@@ -1,7 +1,7 @@
 category: game mechanics
 created: 20221120230342871
 displaynameorigin: Thrane
-modified: 20230824204139178
+modified: 20231009194457482
 nameorigin: Thrane
 tags: 
 title: random name generator
@@ -243,6 +243,6 @@ This tool uses a Markov-chain-like approach to generating names, heavily inspire
 
 Essentially, a starting "syllable" is randomly chosen from a list. We look at the last letter of that syllable, and pull up a new list of potential syllables that tend to follow that letter. Some of those potential syllables are just an empty string (""), indicating the end of the name. Grab a random syllable from that list and repeat until we get a "" or we reach a certain maximum length. 
 
-There are other complications, like getting rid of non-approved duplicate letters, or occasionally jumping to a different syllable list; feel free to check out the source code at [[$:/plugins/wccbuck/action-generate-name.js]].
+There are other complications, like getting rid of non-approved duplicate letters, or occasionally jumping to a different syllable list; feel free to check out the source code at [[$:/eberron-tw/action-generate-name.js]].
 
 If you're just looking for lists of names, I've tried to include some example names from both canon sources and elsewhere into the pages for selected nations or humanoids. For example, [[Zil|Zilargo]] names follow a very specific pattern; the [[gnome]] page elaborates on that and gives plenty of examples.

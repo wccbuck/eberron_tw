@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227193901830
-modified: 20230830015853301
+modified: 20231009201741600
 tags: [[magical implement]] tool orb protection stealth [[rune magic]]
 tier: 3
 title: orb of the stonemelder
@@ -13,7 +13,4 @@ This orb of granite is about the size of an adult human's fist. The [[giant rune
 * Once per day, gain [[advantage]] resist being petrified. The effect lasts for one minute.
 * Once every few hours, if you are able to invoke [[runes|rune magic]], you can cast [[meld into stone]].
 
-<<<
-!!! meld into stone
-{{||meld into stone}}
-<<<
+<<spellpreview "meld into stone">>

@@ -1,0 +1,14 @@
+created: 20200415213657586
+modified: 20231009193451887
+tags: $:/tags/Macro
+title: $:/eberron-tw/macros/list-links-article
+type: text/vnd.tiddlywiki
+
+\define list-links-article(filter,emptyMessage)
+\whitespace trim
+<ul>
+<$list filter="$filter$" emptyMessage=<<__emptyMessage__>>>
+<li>{{!!article}}<$link/></li>
+</$list>
+</ul>
+\end

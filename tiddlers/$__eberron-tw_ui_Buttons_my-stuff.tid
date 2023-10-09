@@ -1,0 +1,23 @@
+caption: {{$:/core/images/star-filled}} "My Stuff"
+created: 20200221173305649
+description: See your saved things
+modified: 20231009224643116
+tags: $:/tags/PageControls
+title: $:/eberron-tw/ui/Buttons/my-stuff
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+\define my-stuff-button(class)
+<$button message="tm-navigate" to="My Stuff" rootwindow="true" tooltip="My Stuff" aria-label="My Stuff" class="""$(tv-config-toolbar-class)$ $class$""">
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+{{$:/core/images/star-filled}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text"><$text text="My Stuff"/></span>
+</$list>
+</$button>
+\end
+
+<$list filter="[list[$:/StoryList]] +[field:title[My Stuff]]" emptyMessage=<<my-stuff-button>>>
+<<my-stuff-button "tc-selected">>
+</$list>

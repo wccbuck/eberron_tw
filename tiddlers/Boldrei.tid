@@ -1,7 +1,7 @@
 category: entity
 color: #8C4606
 created: 20200420211125719
-modified: 20230815071116225
+modified: 20231009194554435
 tags: [[Sovereign Host]] deity
 title: Boldrei
 tooltip: Sovereign of community, family, and home
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 ''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[copper dragon]]<br/>
 ''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
 
-<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#0022aa],[#858178]search-replace[#ffd700],[#ff6200]]}}}>
+<$vars octagram={{{ [[$:/eberron-tw/octagram.svg]get[text]search-replace[#0022aa],[#858178]search-replace[#ffd700],[#ff6200]]}}}>
 <div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
 </$vars>
 

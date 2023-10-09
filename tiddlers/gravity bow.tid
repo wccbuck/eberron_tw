@@ -1,0 +1,12 @@
+category: object
+color: #41D5E1
+created: 20231009222142435
+modified: 20231009222652655
+tags: bow weapon hindrance
+tier: 3
+title: gravity bow
+type: text/vnd.tiddlywiki
+
+This magic longbow is particularly heavy (about 9 pounds). Once per day, when loosing an arrow from this bow, you can cause that arrow to cast [[gravity well]] wherever it lands. After you use this ability, the bow's weight drops to 3 pounds until the ability recharges the next day.
+
+<<spellpreview "gravity well">>

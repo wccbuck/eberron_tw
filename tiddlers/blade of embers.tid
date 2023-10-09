@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210102165451105
-modified: 20220624000308491
+modified: 20231009200932422
 tags: dagger sword weapon
 tier: 1
 title: blade of embers
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 While holding this weapon, you can use the stored energy in the blade to cast the [[fire bolt]] spell once per day.
 
-<<<
-!!! fire bolt
-{{||fire bolt}}
-<<<
+<<spellpreview "fire bolt">>

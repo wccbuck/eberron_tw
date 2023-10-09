@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220103040323595
-modified: 20220220235022049
+modified: 20231009204823153
 tags: accessory body protection hindrance
 tier: 2
 title: rocborne robe
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 This warm canvas robe is lined with [[roc]] down. While wearing it, you can withstand extremely frigid temperatures. In addition, when you unfurl the robe, it opens into two large, stylized wings; while the robe is unfurled, you are less resistant to environmental cold, but you can cast the [[gust]] cantrip at will.
 
-<<<
-!!! gust
-{{||gust}}
-<<<
+<<spellpreview "gust">>

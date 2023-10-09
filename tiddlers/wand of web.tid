@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201228015011350
-modified: 20220221022355559
+modified: 20231009200959586
 tags: hindrance [[magical implement]] wand
 tier: 2
 title: wand of web
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 If you are a spellcaster, you can cast [[web]] while [[attuned|attunement]] to this wand.
 
-<<<
-!!! web
-{{||web}}
-<<<
+<<spellpreview "web">>

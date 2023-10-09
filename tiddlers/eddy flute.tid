@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210726220016251
-modified: 20220220202439225
+modified: 20231009200913359
 tags: [[musical instrument]] [[magical implement]]
 tier: 2
 title: eddy flute
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 While you are playing this ornate silver flute, you can cast the spell [[shape water]].
 
-<<<
-!!! shape water
-{{||shape water}}
-<<<
+<<spellpreview "shape water">>

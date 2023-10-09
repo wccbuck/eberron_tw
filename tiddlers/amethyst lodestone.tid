@@ -2,7 +2,7 @@ category: object
 charges: 6
 color: #41D5E1
 created: 20211027191441126
-modified: 20220220222707862
+modified: 20231009222841215
 tags: tool mobility hindrance
 tier: 4
 title: amethyst lodestone
@@ -16,11 +16,12 @@ The lodestone has 6 charges for the following properties, which you can use whil
 
 //''Gravitational Thrust.''// You can expend 1 charge to focus gravity around a creature you can see within 60 feet of you. The target must resist the magic or be pushed up to 20 feet in a direction of your choice.
 
+//''Gravity Well.''// You can expend 2 charges to cast [[gravity well]] from the stone.
+
+<<spellpreview "gravity well">>
+
 //''Reverse Gravity. ''//You can expend 3 charges to cast [[reverse gravity]] from the stone.
 
-<<<
-!!! reverse gravity
-{{||reverse gravity}}
-<<<
+<<spellpreview "reverse gravity">>
 
 <<itemcharges 6>>

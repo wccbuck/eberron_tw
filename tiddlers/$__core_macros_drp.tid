@@ -1,7 +1,0 @@
-created: 20200224212425053
-modified: 20220104204647279
-tags: $:/tags/Macro
-title: $:/core/macros/drp
-type: text/vnd.tiddlywiki
-
-\define drp(string valiftrue valiffalse) <$vars num={{{[[$string$]split[%]first[]]}}}><$vars hundredminus={{{[[100]subtract<num>]}}}><$fieldmangler tiddler="$:/alerts/Percent"><$set name="currentTiddler" value="$:/alerts/Percent"><$button class="tc-btn-invisible dice-roller"><$action-chooserandom $filter="[range[100]]" $field=result $opt="none"/><$action-setfield percentage=<<num>>/><$action-setfield target=<<hundredminus>>/><$action-setfield valiftrue="$valiftrue$"/><$action-setfield valiffalse="$valiffalse$"/><$action-sendmessage $message="tm-add-tag" $param="$:/tags/Alert"/>$string$</$button></$set></$fieldmangler></$vars></$vars>

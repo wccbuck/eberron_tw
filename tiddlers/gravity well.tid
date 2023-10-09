@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20231009221138299
+modified: 20231009222704840
+tags: transmutation
+tier: 3
+title: gravity well
+type: text/vnd.tiddlywiki
+
+A 20-foot-radius sphere of force forms at a point you can see within 120 feet. For the next five seconds, all creatures and objects within the sphere feel a force equal to twice their weight (maximum 1000 lbs) pulling them towards the center of the sphere.

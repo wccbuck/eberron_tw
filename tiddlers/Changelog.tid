@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.23.04
-modified: 20231006231634473
+currentversion: 1.24.00
+modified: 20231009224118558
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,23 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.24.00 <span style="font-weight:normal">(Oct 09, 2023)</span>
+
+New subversion, since I made a "breaking" change: I moved some macros I made out of the "core" directory into "eberron-tw" (e.g. I renamed them from "/core/..." to "/eberron-tw/..."). I also moved things out of "plugins/wccbuck" since I haven't actually packaged these changes as a plugin, and probably won't unless someone asks me to.
+
+Actual new stuff:
+
+* Added some content I missed from Sharn: City of Towers about the [[Guardians of the Gate]]. New pages: [[Kestran Dal]], [[Tethyn Olar]], [[Six]]
+* Also added a bit to [[Blackened Book]]
+* Changed Councilor Sorik Sensos's name to [[Sorik Senso]]; apparently "Sensos" was a typo in Sharn: City of Towers. Sure enough, that spelling only shows up once in that book, but it got picked up again in Rising from the Last War. I'm gonna go with original intent with this one and make it Senso.
+* Changed [[Josilian Kan Tarlian|Sivis Enclave (Clifftop)]]'s name to ''d'Sivis'', as per another Sharn: City of Towers errata I hadn't seen until now.
+* Added the [[patron ancestor]] [[Ozaera]], based on [[this old sample Tairnadal character|https://bossythecow.com/RAEL.pdf]]; I've renamed him from "Daerath Ozeyra," since "Daerath" is reminiscent of the decidedly not-honest [[Daera Sorandal]], and the "ey" in "Ozeyra" seems at odds with other elvish names.
+* Added some details to [[Stormwind Keep]] from the short story "Principles of Fire."
+* New [[talent]]s for [[dragonborn]]: [[Dragon Hide]], [[Dragon Wings]]
+* Added the spell [[gravity well]], loosely based on the "gravity sinkhole" dunamancy spell
+* Added a few rare-tier [[weapon]]s (and one [[armor]]): [[flowing weapon]], [[adamantine weapon]], [[adamantine armor]], [[parryfoil weapon]], [[gravity bow]]
+* Made a nicer "spell preview" macro for items that grant you access to a spell
 
 !!! 1.23.04 <span style="font-weight:normal">(Oct 06, 2023)</span>
 
@@ -259,6 +276,19 @@ This update also includes the following changes and additions:
 * Added a little info on food and drink to the Five Nations Culture pages, and also added the following new pages:
 ** [[Blink Dog Brew]], [[Mror mushroom brew]], [[waterhouse]], [[preserving pine]]
 
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
+
 !!! 1.21.04 <span style="font-weight:normal">(May 19, 2023)</span>
 
 * Created a [[language translator]]! Transform anything you type into something that could plausibly be a translation into your chosen fantasy language. Ten languages to choose from, and possibly more on the way.
@@ -341,19 +371,6 @@ Lore changes and additions:
 Known issues:
 
 * Sometimes when closing a tiddler, the page will scroll to a seemingly random point. It's supposed to scroll to the last link you clicked on, as long as you haven't closed another tiddler since clicking a link. However, something's not quite right with the feature, and it may be related to the scroll-to-header feature. I've got my eye on it. (fixed in v1.21.1)
-
-!
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
-</$button>
 
 !!! 1.20.05 <span style="font-weight:normal">(Feb 17, 2023)</span>
 

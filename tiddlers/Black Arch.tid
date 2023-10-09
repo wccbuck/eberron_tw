@@ -2,7 +2,7 @@ category: location
 color: #96CC39
 created: 20200420052300092
 fmwvar: fmw-lower
-modified: 20211112214153063
+modified: 20231009004024177
 polygons: 20.122,-24.511 20.12,-24.514 20.12,-24.518 20.121,-24.519 20.121,-24.523 20.119,-24.526 20.117,-24.528 20.116,-24.531 20.115,-24.537 20.115,-24.54 20.115,-24.54 20.11,-24.539 20.103,-24.538 20.102,-24.538 20.102,-24.538 20.103,-24.53 20.106,-24.514 20.108,-24.503 20.109,-24.501 20.117,-24.504 20.122,-24.511
 style: {"color":"#6B001B","fillColor":"#76001E","fillOpacity":0.3}
 tags: garrison district [[Lower Tavick's Landing]] Sharn
@@ -37,8 +37,7 @@ with arcane lock. During the [[Last War]] a detachment of
 the [[King's Citadel]] was stationed in Black Arch, but
 today it is back in the hands of the [[Watch|Sharn Watch]]. The Watch
 assigned to Black Arch takes its job very seriously, and
-its members are among the most ethical and trustworthy to be found in Sharn, mostly due to the efforts
-of the district commander, [[Iyanna ir'Talan]].
+its members are among the most ethical and trustworthy to be found in Sharn, mostly due to the efforts of the district commander, [[Iyanna ir'Talan]].
 
 Most of the trades and services in this district
 support the [[Watch|Sharn Watch]]. There are a host of smithies, and
@@ -49,3 +48,4 @@ quick communication between the garrisons.
 !! Noteworthy Locations
 
 * [[Karvasi Asylum for the Criminally Insane]]. This asylum houses some of [[Sharn]]'s most dangerous and twisted criminal minds.
+* [[Guardians of the Gate Headquarters|Guardians of the Gate]]. The center of operations for the [[Guardians of the Gate]], a division of the [[Sharn Watch]] tasked with monitoring the activities of foreign nationals and immigrants.

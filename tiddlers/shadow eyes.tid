@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210104022816000
-modified: 20220220202844430
+modified: 20231009201456827
 tags: detection [[Mark of Shadow]] tool [[dragonmark focus item]]
 tier: 2
 title: shadow eyes
@@ -12,7 +12,4 @@ In order to [[attune|attunement]] to this magic item, you must possess the [[Mar
 
 A pair of shadow eyes consists of 2 bundles of [[dragonshard]] slivers bound with copper bands. The holder of a shadow eye can cast [[clairvoyance]], targeting the other eye of the pair.
 
-<<<
-!!! clairvoyance
-{{||clairvoyance}}
-<<<
+<<spellpreview "clairvoyance">>

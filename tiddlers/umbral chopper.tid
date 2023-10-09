@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201228041422388
-modified: 20221205062716712
+modified: 20231009221947060
 tags: axe weapon
 tier: 4
 title: umbral chopper
@@ -10,3 +10,5 @@ type: text/vnd.tiddlywiki
 This simple axe looks no different from a standard forester's tool. A single-edged head is set into a slot in the haft and bound with strong cord. The axe was found by a timber-hauling crew who disappeared into the shadows of a cave deep in an old forest. Retrieved in the dark of the cave, the axe was found to possess disturbing magical properties.
 
 This weapon deals extra [[necrotic damage|damage type]] to anything it hits. Gain +2 [[impact]] when you strike a [[plant creature]] with the axe. While you carry this axe, you may cast [[darkness]] once per day.
+
+<<spellpreview darkness>>

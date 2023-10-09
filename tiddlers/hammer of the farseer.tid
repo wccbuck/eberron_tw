@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211121050407501
-modified: 20220708172508565
+modified: 20231009201810039
 tags: detection hammer weapon
 tier: 2
 title: hammer of the farseer
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 When you kill a monster with this weapon, you glimpse a random moment from its past. You may also cast [[augury]] once per day.
 
-<<<
-!!! augury
-{{||augury}}
-<<<
+<<spellpreview "augury">>

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220705191616859
-modified: 20220705191733414
+modified: 20231009201852141
 tags: stealth potion
 tier: 2
 title: elixir of feigned death
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 When you drink this shadowy potion, you fall into a cataleptic state, as though you had cast the spell [[feign death]] on yourself. The effect lasts for 7-15 minutes.
 
-<<<
-!!! feign death
-{{||feign death}}
-<<<
+<<spellpreview "feign death">>

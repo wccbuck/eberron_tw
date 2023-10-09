@@ -1,7 +1,0 @@
-created: 20230103190007031
-modified: 20230609210039084
-tags: $:/tags/Macro
-title: $:/plugins/wccbuck/macros/scrollToHeader
-type: text/vnd.tiddlywiki
-
-\define scrollToHeader(header) <$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;"><$action-scroll-to-header $header="""$header$"""/>$header$</$button>

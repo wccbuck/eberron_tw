@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20230830033233142
-modified: 20230830034711996
+modified: 20231009204931818
 tags: detection [[rune magic]] accessory legs mobility
 tier: 3
 title: wayfarer's boots
@@ -11,7 +11,4 @@ This pair of boots is made of durable cloth, with the [[journey rune|rune magic]
 
 Once per day, if you are able to invoke [[runes|rune magic]], you can invoke the boots' runes to cast the [[expeditious retreat]] spell with them.
 
-<<<
-!!! expeditious retreat
-{{||expeditious retreat}}
-<<<
+<<spellpreview "expeditious retreat">>

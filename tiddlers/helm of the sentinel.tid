@@ -2,7 +2,7 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20201210044052748
-modified: 20220221180616480
+modified: 20231009205054071
 tags: [[dragonmark focus item]] armor [[Mark of Sentinel]] head
 tier: 3
 title: helm of the sentinel
@@ -18,17 +18,11 @@ all expended charges daily at dawn.
 establish a defensive ward with a contingent [[counterspell]] spell.
 The next time you can see an unfriendly creature within 60 feet of you casting any spell that targets you, the counterspell spell immediately takes effect whether or not you want it to, as if you had cast it. The ward ends immediately after counterspell takes effect or at dawn.
 
-<<<
-!!! counterspell
-{{||counterspell}}
-<<<
+<<spellpreview "counterspell">>
 
 //''Protection.''// You can expend 1 charge and cast the [[protection from energy]] spell on yourself.
 
-<<<
-!!! protection from energy
-{{||protection from energy}}
-<<<
+<<spellpreview "protection from energy">>
 
 ''//Deflection Field//''. You can expend 1 charge after you suffer a [[consequence]] involving being attacked by a weapon. Downgrade the severity of the consequence by 1.
 

@@ -1,0 +1,23 @@
+created: 20231009192457949
+modified: 20231009210600758
+tags: $:/tags/Macro
+title: $:/eberron-tw/macros/spellpreview
+type: text/vnd.tiddlywiki
+
+\define spellpreview(spellname) 
+<<<
+<h3 class="spellpreview"><span style="display:flex; justify-content:space-between;align-items:flex-end;"><$link to="$spellname$"/> <span style="font-size:15px;">[[Spell Tier|spell tier]]: <$transclude tiddler="$:/SpellTierNames" index={{{ [[$spellname$]get[tier]] }}}/></span></span></h3>
+
+{{||$spellname$}}
+<<<
+
+\end
+
+\define spellpreviewfull(spellname) 
+<<<
+<h3 class="spellpreview"><span style="display:flex; justify-content:space-between;align-items:flex-end;"><$link to="$spellname$"/> <span style="font-size:15px;">[[Spell Tier|spell tier]]: <$transclude tiddler="$:/SpellTierNames" index={{{ [[$spellname$]get[tier]] }}}/></span></span></h3>
+
+{{$spellname$}}
+<<<
+
+\end

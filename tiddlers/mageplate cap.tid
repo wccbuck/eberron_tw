@@ -2,7 +2,7 @@ category: object
 charges: 2
 color: #41D5E1
 created: 20211230200634593
-modified: 20220220235332111
+modified: 20231009204947683
 tags: accessory head protection
 tier: 3
 title: mageplate cap
@@ -10,9 +10,6 @@ type: text/vnd.tiddlywiki
 
 This pointed hat is fitted with chain and metal that have been infused with [[abjuration]] magic. The cap has 2 charges, and regains 1 expended charge daily at dawn. While wearing the cap, you can expend 1 of its charges to cast the [[mage armor]] spell from it, targeting only yourself. When the spell is cast in this way, the arcane armor appears plate-like, and it is about as protective as a suit of plate armor, though it still weighs nothing.
 
-<<<
-!!! mage armor
-{{||mage armor}}
-<<<
+<<spellpreview "mage armor">>
 
 <<itemcharges 2>>

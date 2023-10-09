@@ -1,0 +1,21 @@
+caption: {{$:/eberron-tw/images/add-article}} Add "the"
+created: 20200221180134507
+description: Add "the"
+modified: 20231009224235724
+tags: $:/tags/EditToolbar
+title: $:/eberron-tw/ui/Buttons/add-article
+type: text/vnd.tiddlywiki
+
+<$reveal type="nomatch" state="!!article" text="the ">
+<$button tooltip="Add 'the'" aria-label="Add 'the'" class=<<tv-config-toolbar-class>>>
+<$action-setfield article="the "/>
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+{{$:/eberron-tw/images/add-article}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text">
+<$text text="Add 'the'"/>
+</span>
+</$list>
+</$button>
+</$reveal>
