@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.24.00
-modified: 20231009224118558
+currentversion: 1.24.01
+modified: 20231012074814099
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,20 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.24.01 <span style="font-weight:normal">(Oct 12, 2023)</span>
+
+* Added "trait" [[aspect]] to the [[character sheet template]].
+* Nerfed the lowest-level [[Spell Enhancement]] talent: Now it only allows you to upgrade your [[common-tier|spell tier]] spells. Common + uncommon was a little too powerful. Also renamed the talents "Spell Enhancement ([tier])" instead of 1/2/3, and added a new one for uncommon tier.
+* Improved the tag drop-down menu. Now, it first shows you all the pages tagged with that tag that match the current page's category. Below that list, it shows you pages from other categories. So if I am on the page for [[Pact of the Chain]] and I click the "warlock" tag, I will first see all [[talent]]s tagged "warlock," followed by people who are [[warlock]]s and anything else that might be tagged "warlock." But if I am looking at [[Breggan Blackcrown]] and I click the "warlock" tag, I will first see a list of //people// tagged "warlock," followed by a list of talents etc. It's particularly nice when, say, viewing a holiday page, like [[Baker's Night]], then clicking on the [[Silver Flame]] tag and immediately seeing other events associated with the Silver Flame, without a bunch of talents, people, and organizations mixed in.
+* Improved the hover contrast color of links in the search bar.
+* Changed [[arcane adhesion]] spell to differentiate it from [[stick]]. In fact, I don't think I knew I had this spell in the TW when I added stick, nor did I apparently add any details about how it worked.
+** While I was at it, I also made some changes to [[stick]]: increased the strength, added a duration.
+* Changed [[dimensional pocket]] from [[transmutation]] to [[conjuration]], and also added the conjuration tag to [[rope trick]].
+* Added some recommended spells to [[Storm Sorcerer]] list.
+* Added some missing content to [[Lost]]. Removed references to [[doppelganger]]s there; the meaning of doppelganger has changed since 4th edition.
+* Added "[[ooze]]" tag to [[living spell]]. It's what they were categorized as in 3E and 4E. Also added the ooze tag to [[animated breath]], as they're very similar.
+* Added some other [[ooze]] creatures: [[reekmurk]], [[bloodbloater]], [[ethereal ooze]]
 
 !!! 1.24.00 <span style="font-weight:normal">(Oct 09, 2023)</span>
 

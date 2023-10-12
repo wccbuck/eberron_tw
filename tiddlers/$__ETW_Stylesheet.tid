@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20231009200138833
+modified: 20231011235622623
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -78,8 +78,8 @@ h3.spellpreview {
 	font-variant: normal;
 }
 
-.tc-sidebar-lists a.tc-tiddlylink {
-    color: <<colour sidebar-tiddler-link-foreground>>;
+.tc-sidebar-lists .tc-search-results a.tc-tiddlylink:hover {
+    color: <<colour code-background>>;
 }
 
 div.sidebar-map a.tc-tiddlylink {

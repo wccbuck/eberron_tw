@@ -1,0 +1,15 @@
+category: talent
+created: 20231012025019550
+modified: 20231012025059989
+nexttier: legendary
+tags: [[Spell Enhancement]]
+thistier: epic
+title: Spell Enhancement (Epic)
+tooltip: talent which allows a player character to cast epic spells at one tier higher
+type: text/vnd.tiddlywiki
+var1: [[etherealness]]
+var2: [[conjure celestial]]
+var3: [[fire storm]]
+xpcost: 3
+
+{{||$:/SpellEnhancementTemplate}}

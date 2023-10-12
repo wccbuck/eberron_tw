@@ -3,7 +3,7 @@ color: #B7A1E0
 created: 20201210004030730
 ghostsound: show
 highertier: show
-modified: 20230815065634095
+modified: 20231011173513220
 tags: illusion
 tier: 1
 title: lesser illusion
@@ -37,5 +37,7 @@ When you cast //{{!!title}}// as an uncommon-[[tier|spell tier]] spell, you may 
 * Extend the duration of the illusion to five minutes.
 * Delay the start of the illusion for up to five minutes.
 * Freely move an image or the source of sound to any spot within the range of the spell.
+
+See also [[greater illusion]].
 
 </$reveal>

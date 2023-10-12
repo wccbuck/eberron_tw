@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201210052327064
-modified: 20210727192017207
+modified: 20231011211352972
 tags: transmutation
 tier: 2
 title: knock
@@ -13,4 +13,4 @@ A target that is held shut by a mundane lock or that is stuck or barred becomes 
 
 If you choose a target that is held shut with [[arcane lock]], that spell is suppressed for 10 minutes, during which time the target can be opened and shut normally.
 
-When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.
+When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object. If you are reflavoring this spell, you can choose to change the sound this spell makes.

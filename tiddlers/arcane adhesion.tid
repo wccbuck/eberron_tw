@@ -1,10 +1,24 @@
 category: spell
 color: #B7A1E0
 created: 20220111083918558
-modified: 20220111084100718
+highertier: show
+modified: 20231011210758555
 tags: transmutation
-tier: 2
+tier: 3
 title: arcane adhesion
 type: text/vnd.tiddlywiki
 
-Two objects that you are touching and that are touching each other become magically glued for up to 1 hour. 
+You create a zone of powerful adhesive magic in a 5-foot radius sphere centered on a point you can see within 30 feet. All valid surfaces (see below) of your choice that are touching another valid surface within the sphere become bonded together for up to 1 hour, or until your concentration breaks. The total bond strength between any two objects (or an object and itself) is 1000 pounds, regardless of the area of the bonded surface or the number of points of contact.
+
+* Valid targets must be corporeal and solid. They also must not be entirely enclosed within another object—so the contents of a bag, or a creature's internal organs, are not valid targets.
+* Valid items that can be bonded must either be non-magical, or [[magic item]]s with [[rarity]] of "rare" or lower.
+* Creatures within the sphere may be able to jump out of the sphere or otherwise avoid touching another surface in the split second before the adhesion reaches full strength.
+* Valid surfaces include powdery or granular surfaces. Sand, for example, is a collection of many solid objects, so this spell would adhere all grains of sand together within the zone. Note, however, that this wouldn't create an indestructible ball of sand; the sand itself would crack before the adhesion breaks.
+
+<$reveal type="match" state="!!highertier" text="show">
+
+!! Epic-Tier
+
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, you can increase the radius of the sphere to 20 feet, and increase the bond strength to 10,000 pounds.
+
+</$reveal>

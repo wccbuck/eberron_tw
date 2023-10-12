@@ -1,0 +1,15 @@
+category: talent
+created: 20230413172130697
+modified: 20231012024138057
+nexttier: uncommon
+tags: [[Spell Enhancement]]
+thistier: common
+title: Spell Enhancement (Common)
+tooltip: talent which allows a player character to cast common spells at one tier higher
+type: text/vnd.tiddlywiki
+var1: [[guidance]]
+var2: [[friends]]
+var3: [[fire bolt]]
+xpcost: 1
+
+{{||$:/SpellEnhancementTemplate}}

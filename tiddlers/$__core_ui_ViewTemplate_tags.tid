@@ -1,9 +1,9 @@
 created: 20210108211308817
-modified: 20211128030219132
+modified: 20231011233249247
 tags: $:/tags/ViewTemplate
 title: $:/core/ui/ViewTemplate/tags
 type: text/vnd.tiddlywiki
 
 <$reveal type="nomatch" stateTitle=<<folded-state>> text="hide" tag="div" retain="yes" animate="yes">
-<div class="tc-tags-wrapper" style="display:inline-block;vertical-align:middle;width:100%;"><$list filter="[all[current]tags[]sort[title]]" template="$:/core/ui/TagTemplate" storyview="pop" emptyMessage=""/><div style="float:right">{{||$:/TierTemplate}}</div></div>
+<div class="tc-tags-wrapper" style="display:inline-block;vertical-align:middle;width:100%;"><$list filter="[all[current]tags[]sort[title]]" template="$:/core/ui/TagTemplate" storyview="pop" emptyMessage="" variable="tagTitle"/><div style="float:right">{{||$:/TierTemplate}}</div></div>
 </$reveal>

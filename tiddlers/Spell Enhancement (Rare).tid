@@ -1,0 +1,15 @@
+category: talent
+created: 20231012024823654
+modified: 20231012024911864
+nexttier: epic
+tags: [[Spell Enhancement]]
+thistier: rare
+title: Spell Enhancement (Rare)
+tooltip: talent which allows a player character to cast rare spells at one tier higher
+type: text/vnd.tiddlywiki
+var1: [[dominate]]
+var2: [[polymorph]]
+var3: [[fireball]]
+xpcost: 2
+
+{{||$:/SpellEnhancementTemplate}}

@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20231009193608997
+modified: 20231012031941957
 tags: $:/tags/Macro
 title: $:/eberron-tw/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -144,6 +144,9 @@ type: text/vnd.tiddlywiki
   </div></div>
   <div class="cs-row"><div class="cs-column">
 <<cs-field "ideal" "Ideal" "Ideal Aspect">>
+  </div></div>
+  <div class="cs-row"><div class="cs-column">
+<<cs-field "trait" "Trait" "Trait Aspect">>
   </div></div>
   <div class="cs-row"><div class="cs-column">
 <<cs-field "flaw" "Flaw" "Flaw Aspect">>

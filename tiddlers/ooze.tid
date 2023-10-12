@@ -1,14 +1,14 @@
 category: creature
 color: #58151c
 created: 20200504214305466
-modified: 20220805223253245
+modified: 20231012070909409
 title: ooze
 tooltip: gelatinous creature, usually acidic, often dwells in dark and damp places
 type: text/vnd.tiddlywiki
 
 Oozes are gelatinous creatures that rarely have a fixed shape. They are mostly subterranean, dwelling in caves and dungeons and feeding on refuse, carrion, or creatures unlucky enough to get in their way. [[Black pudding|black pudding]]s and [[gelatinous cube]]s are among the most recognizable oozes.
 
-Oozes thrive in the dark, shunning areas of bright light and extreme temperatures. They flow through the damp underground, feeding on any creature or object that can be dissolved, slinking along the ground, dripping from walls and ceilings, spreading across the edges of underground pools, and squeezing through cracks.
+Most oozes thrive in the dark, shunning areas of bright light and extreme temperatures. They flow through the damp underground, feeding on any creature or object that can be dissolved, slinking along the ground, dripping from walls and ceilings, spreading across the edges of underground pools, and squeezing through cracks.
 
 The first warning an adventurer receives of an ooze's presence is often the searing pain of its acidic touch. Oozes are drawn to movement and warmth. Organic material nourishes them, and when prey is scarce they feed on grime, fungus, and offal. Veteran explorers know that an immaculately clean passageway is a likely sign that an ooze lairs nearby.
 
@@ -16,6 +16,6 @@ An ooze kills its prey slowly. Some varieties, such as black puddings and gelati
 
 Since not every ooze digests every type of substance, some have coins, metal gear, bones, and other debris suspended within their quivering bodies. A slain ooze can be a rich source of treasure for its killers.
 
-Oozes are thought to be the creation of the [[daelkyr]] [[Kyrzin]].
+Most oozes are thought to be creations of the [[daelkyr]] [[Kyrzin]]. But the term "ooze" can also be used to describe other amorphous creatures, such as [[living spell]]s.
 
 !!! <<showcreature-type>>
