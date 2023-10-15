@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.24.01
-modified: 20231012074814099
+currentversion: 1.24.02
+modified: 20231015191528878
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,13 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.24.02 <span style="font-weight:normal">(Oct 15, 2023)</span>
+
+* Reverted the suggestion that you can sometimes advance [[progress clock]]s with [[boost]]s. I feel like that blurs the line too much between [[overcome]] and [[boost]], and you can still narrate anything (even physical damage) as a future advantage instead of as advancing towards the end of a scene. I got caught in the trap of treating progress clock segments as hit points.
+* Made some miscellaneous improvements to the phrasing and organization of [[Storyloom]] docs.
+* Added an alternate option for allocating [[approach]] points in [[Character Creation]].
+* Added a bit to [[Arcanix]]
 
 !!! 1.24.01 <span style="font-weight:normal">(Oct 12, 2023)</span>
 
@@ -76,7 +83,7 @@ Actual new stuff:
 * On the [[gargoyle]] page, added a brief mention of a handful of animate gargoyles living in [[Sharn]] for centuries, as distinct from the ones roused by [[Sora Katra]] around twelve years ago
 * Added a bit to the [[gaeth'ad]] page
 * Added a section about names to the [[dragonborn]] page
-* Added the possibility of advancing a [[progress clock]] with a [[boost]] action to the boost page
+* Added the possibility of advancing a [[progress clock]] with a [[boost]] action to the boost page (Note: reverted this change in v1.24.02)
 * Added a note to the bottom of the [[impact]] and [[risk]] pages with some guidelines and examples of determining impact and risk with higher-tier [[magic item]]s and [[spell]]s. (Direct link: [[Note: Added Impact for Spells and Magic Items]])
 
 !!! 1.23.02 <span style="font-weight:normal">(Sep 24, 2023)</span>
