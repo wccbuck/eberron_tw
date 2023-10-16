@@ -1,0 +1,23 @@
+caption: {{$:/core/images/list}} "Find Things"
+created: 20201209214329571
+description: Find Items, Spells, Creatures, or Anything Else
+modified: 20231009224511204
+tags: $:/tags/PageControls
+title: $:/eberron-tw/ui/Buttons/find-things
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+\define find-things-button(class)
+<$button message="tm-navigate" to="Find Things" rootwindow="true" tooltip="Find Items, Spells, Creatures, or Anything Else" aria-label="Find Things" class="""$(tv-config-toolbar-class)$ $class$""">
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+{{$:/core/images/list}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text"><$text text="Find Things"/></span>
+</$list>
+</$button>
+\end
+
+<$list filter="[list[$:/StoryList]] +[field:title[Find Things]]" emptyMessage=<<find-things-button>>>
+<<find-things-button "tc-selected">>
+</$list>

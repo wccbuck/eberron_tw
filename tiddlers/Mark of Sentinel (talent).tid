@@ -1,13 +1,13 @@
 category: talent
 created: 20210731230315684
 list: aegis sequester [[blade ward]] [[mage armor]] [[shield of faith]] [[compelled duel]] [[warding bond]] [[zone of truth]] counterspell [[protection from energy]] [[death ward]] [[guardian of faith]] [[arcane hand]] [[globe of invulnerability]]
-modified: 20230913030325833
+modified: 20231009194554510
 tags: [[Mark of Sentinel]] human
 title: Mark of Sentinel (talent)
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/sentinel.svg}}</div> You possess the [[Mark of Sentinel]], a [[dragonmark]] that only manifests on [[human]]s with ties to House [[Deneith]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (common or uncommon [[spell tier]]) from the below list. //Recommended Spell: [[aegis]].//
+<div style="float: left; width: 100px;">{{$:/eberron-tw/sentinel.svg}}</div> You possess the [[Mark of Sentinel]], a [[dragonmark]] that only manifests on [[human]]s with ties to House [[Deneith]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (common or uncommon [[spell tier]]) from the below list. //Recommended Spell: [[aegis]].//
 
 If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]]. 
 

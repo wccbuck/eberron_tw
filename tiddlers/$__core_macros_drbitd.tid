@@ -1,7 +1,0 @@
-created: 20210810020132597
-modified: 20210810173139483
-tags: $:/tags/Macro
-title: $:/core/macros/drbitd
-type: text/vnd.tiddlywiki
-
-\define drbitd(pool, impact, risk, actiontype:"overcome") <$vars newpool={{{ [[$pool$]compare:number:gt[0]then[$pool$]else[2]] }}}><$fieldmangler tiddler="$:/alerts/DiceBitD"><$tiddler tiddler="$:/alerts/DiceBitD"><$button class="tc-btn-invisible dice-roller"><$action-chooserandom $filter="[range[6]]" $field=result $number=<<newpool>> $opt="none" $replace="true"/><$action-setfield pool="$pool$"/><$action-setfield impact="$impact$"/><$action-setfield risk="$risk$"/><$action-setfield actiontype="$actiontype$"/><$action-sendmessage $message="tm-add-tag" $param="$:/tags/Alert"/>Roll $pool$d6 with impact: $impact$ and risk: $risk$</$button></$tiddler></$fieldmangler></$vars>

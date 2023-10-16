@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210103224140982
-modified: 20220708191307556
+modified: 20231009201518355
 tags: ridiculous legs accessory mobility
 tier: 3
 title: pants of levitation
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 While you wear these bedraggled brown cotton pants, you can cast the [[levitate]] spell on yourself at will, even if it is a bit uncomfortable.
 
-<<<
-!!! levitate
-{{||levitate}}
-<<<
+<<spellpreview "levitate">>

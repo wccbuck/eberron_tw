@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200414045523446
-modified: 20230814215036793
+modified: 20231015180002728
 points: 40.791,-15.54
 population: 4500
 style: {"color": "#CA5700"}
@@ -12,16 +12,23 @@ type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>
 
-This farming village on [[Lake Galifar]] provides food for
-the nearby floating towers of wizardry that serve as
-home to [[Aundair]]'s [[Arcane Congress]]—a cutting-edge
-research facility and the finest school of [[magic|arcane magic]] in [[Khorvaire]]. Most people reach the towers by magical means; for others, the village rents [[hippogriff]]s to bear visitors to the fortresses for a modest fee; this service is provided by the Trannick family, headed by the Lord Mayor of Arcanix, [[Raulo ir'Trannick]].
+This farming village on [[Lake Galifar]] provides food and textiles for the nearby floating towers of wizardry that serve as home to [[Aundair]]'s [[Arcane Congress]]—a cutting-edge research facility and the finest school of [[magic|arcane magic]] in [[Khorvaire]]. Most people reach the towers by magical means; for others, the village rents [[hippogriff]]s to bear visitors to the fortresses for a modest fee; this service is provided by the Trannick family, headed by the Lord Mayor of Arcanix, [[Raulo ir'Trannick]].
+
+This village was called Arcanix long before the floating towers were built, and was the namesake for the university. Mysteriously, Arcanix and the surrounding area seem to inspire people who seek arcane knowledge. This isn't a powerful or dramatic effect; not everyone who studies magic here revolutionizes [[arcane theory]] as we know it. But over the centuries, a pattern emerges: scholars are more likely to master the arcane arts if they study in Arcanix. Why is the region so conducive to the study of the arcane? It could be blessed by [[Aureon]], or it could be a [[manifest zone]] to the [[Assembly]]. Or... there could be a [[darker power|Sul Khatesh]] behind this phenomenon.
+
+!! Arcanix University
 
 The three floating towers of Arcanix (Glarehold, Amberwall, and Skyreach) hover above [[Lake Galifar]], unmoving and untroubled by wind or rain. Their labyrinthine corridors house mentors and students who explore the mysteries of magic as they have since the great institution was founded nearly 1,000 years ago. They also advise Aundair's [[queen|Aurala ir'Wynarn]] on all things magical, and confer with colleagues
 visiting from other nations.
 
 The floating castles contain classrooms and laboratories, cells for students, and apartments for mentors. Great libraries (such as the [[Library of Robideur]]) hold the collected lore of generations, with rituals and spells bound in dusty tomes. Hidden vaults contain great treasures and dangerous items, some unearthed by adventuring wizards (such as the great [[Gate of Xabra]]), others created by the mighty mages who have lived here.
 
-Apprentices come from all over [[Khorvaire]] to train at
-Arcanix. If you're a [[wizard]], sage, or [[artificer]], you might
-have learned your craft here. Arcanix also accepts [[warlock]]s (primarily those bound to [[fey]] forces), but forbids trafficking with [[overlord]]s, [[daelkyr]], or other entities defined as "malefic forces." There are ways for a scholar to defend interactions with such entities, but it can be cause for inquiry, censure, or even expulsion. 
+Apprentices come from all over [[Khorvaire]] to train at Arcanix. If you're a [[wizard]], [[artificer]], or [[sage|Sage]] of the arcane, you might have learned your craft here. Arcanix also accepts [[warlock]]s (primarily those bound to [[fey]] forces), but forbids trafficking with [[overlord]]s, [[daelkyr]], or other entities defined as "malefic forces." There are ways for a scholar to defend interactions with such entities, but it can be cause for inquiry, censure, or even expulsion. 
+
+!!! Non-Aundairian Enrollment
+
+From the start of the [[Last War]] until today, enrollment at the university of Arcanix has been limited to citizens of [[Aundair]] and of nations not actively at war with Aundair. The war lasted a century, and Aundair was allied with at least one other nation at any point; and today, thanks to the [[Treaty of Thronehold]], Arcanix accepts applicants from all nations. But even while the school accepts foreign applicants, certain classes (such as advanced war magic) are limited to Aundairian citizens.
+
+While allowing foreign students creates a risk of espionage, it also creates opportunities //for// espionage. The [[Royal Eyes]] of [[Aundair]] pay close attention to the capabilities of foreign [[wizard]]s and [[artificer]]s in training, and know exactly what they've been taught. The Royal Eyes may also attempt to recruit foreign students to serve as moles in their homeland, perhaps by gathering (or creating) compromising material to blackmail them; they may even prevent particularly talented foreign students from returning home.
+
+So a particularly talented [[Karrnath]]i student who excels at [[evocation]] might be blocked from taking courses on advanced evocation. Or... Arcanix administration may allow her to learn from the best, but at the end of her term, she is presented with the opportunity to become an [[Aundair]]ian citizen and put her skills to work in the [[Arcane Congress]]. If she refuses... she may end up in an Aundairian prison on falsified charges.

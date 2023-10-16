@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20230802012732523
-modified: 20230802013037488
+modified: 20231009205120597
 tags: detection accessory body
 tier: 4
 title: daystar half-plate
@@ -9,12 +9,6 @@ type: text/vnd.tiddlywiki
 
 This glowing half-plate armor is adorned with images of the [[Sun]]. At will the wearer can command the armor to shine with the effect of a [[daylight]] spell, and dismiss the effect at will. In addition, once per day, the wearer can command the armor to shine as per the [[sunburst]] spell. The sunburst is centered on the wearer, and the wearer is immune to the spell's effects.
 
-<<<
-!!! daylight
-{{||daylight}}
-<<<
+<<spellpreview "daylight">>
 
-<<<
-!!! sunburst
-{{||sunburst}}
-<<<
+<<spellpreview "sunburst">>

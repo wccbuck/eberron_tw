@@ -1,0 +1,353 @@
+created: 20210803194143720
+modified: 20231012031941957
+tags: $:/tags/Macro
+title: $:/eberron-tw/macros/charsheetmacros
+type: text/vnd.tiddlywiki
+
+\define cs-talent(tid) 
+<div class="cs-row cs-talent">
+<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-datainsertnew $tiddler="$:/$(currentTiddler)$/talents" $newIndex=<<newIndex>> $newValue={{$tid$}}/>{{$:/core/images/done-button}}</$button></p>
+<$select tiddler="$tid$" default="">
+<option value="">None</option>
+<optgroup label="Occupation-Based Talents">
+<$list filter="[category[occupation]tagging[]category[talent]sort[title]]">
+<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
+</$list>
+</optgroup>
+<optgroup label="Species-Based Talents">
+<$list filter="[category[creature]tagging[]category[talent]] -[tag[dragonmark]tagging[]category[talent]] +[sort[title]]">
+<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
+</$list>
+</optgroup>
+<optgroup label="Dragonmark-Based Talents">
+<$list filter="[tag[dragonmark]tagging[]category[talent]sort[title]]">
+<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
+</$list>
+</optgroup>
+<optgroup label="Other Talents">
+<$list filter="[category[talent]] -[tag[dragonmark]tagging[]tag[talent]] -[category[creature]tagging[]category[talent]] -[category[occupation]tagging[]category[talent]] +[sort[title]]">
+<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
+</$list>
+</optgroup>
+</$select>
+</div>
+\end
+
+\define cs-language(tid) 
+<div class="cs-row cs-language">
+<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-datainsertnew $tiddler="$:/$(currentTiddler)$/languages" $newIndex=<<newIndex>> $newValue={{$tid$}}/>{{$:/core/images/done-button}}</$button></p>
+<$select tiddler="$tid$" default="">
+<option value="">None</option>
+<optgroup label="Major Mortal Languages">
+<$list filter="[tag[language]category[culture]!tag[immortal]var[major]sort[title]]">
+<option><<currentTiddler>></option>
+</$list>
+</optgroup>
+<optgroup label="Minor Mortal Languages">
+<$list filter="[tag[language]category[culture]!tag[immortal]!var[major]sort[title]]">
+<option><<currentTiddler>></option>
+</$list>
+</optgroup>
+<optgroup label="Immortal Languages">
+<$list filter="[tag[language]category[culture]tag[immortal]sort[title]]">
+<option><<currentTiddler>></option>
+</$list>
+</optgroup>
+</$select>
+</div>
+\end
+
+\define cs-spell(tid, tier) 
+<div class="cs-row cs-talent">
+<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-datainsertnew $tiddler="$:/$(currentTiddler)$/spells_$tier$" $newIndex=<<newIndex>> $newValue={{$tid$}}/>{{$:/core/images/done-button}}</$button></p>
+<$select tiddler="$tid$" default="">
+<option value="">None</option>
+<$wikify name="this-tier" text="""<$transclude tiddler="$:/SpellTierNames" index="$tier$"/>""">
+<optgroup label=<<this-tier>>>
+<$list filter="[category[spell]tier[$tier$]sort[title]]">
+<option><<currentTiddler>></option>
+</$list>
+</optgroup>
+<$wikify name="low-tier-number" text="""{{{ [[$tier$]subtract[1]] }}}""">
+<$wikify name="low-tier" text="""<$transclude tiddler="$:/SpellTierNames" index=<<low-tier-number>>/> (as <$transclude tiddler="$:/SpellTierNames" index="$tier$"/>-tier spell)""">
+<optgroup label=<<low-tier>>>
+<$list filter="[category[spell]tier<low-tier-number>sort[title]]">
+<option><<currentTiddler>></option>
+</$list>
+</optgroup>
+</$wikify></$wikify>
+</$select>
+</div>
+\end
+
+\define cs-field(field, fieldlabel, fieldph)
+<div class="cs-form-group">
+<label class="cs-label">$fieldlabel$</label>
+<$reveal type="nomatch" state="$(currentTiddler)$!!mode" text="edit">
+<div class="cs-input">
+{{$:/$(currentTiddler)$/data!!$field$}}
+</div>
+</$reveal>
+<$reveal type="match" state="$(currentTiddler)$!!mode" text="edit">
+<div id="div_$field$">
+<$edit-text tiddler="$:/$(currentTiddler)$/data" field="$field$" tag=input class="cs-input" placeholder="$fieldph$"/>
+</div>
+</$reveal>
+</div>
+\end
+
+\define cs-approachrow(field1, fieldlabel1, field2, fieldlabel2)
+<div class="cs-row" style="margin-top:10px;margin-bottom:13px;">
+<div class="cs-doublecolumn">
+<div class="cs-approach-label">$fieldlabel1$</div>
+</div>
+<div class="cs-column" style="margin-right:25px;align-items:end;">
+<$reveal type="nomatch" state="!!mode" text="edit">
+<p class="cs-approach">{{$:/$(currentTiddler)$/data!!$field1$}}</p>
+</$reveal>
+<$reveal type="match" state="!!mode" text="edit">
+<$edit-text tiddler="$:/$(currentTiddler)$/data" field="$field1$" tag=input type="number" class="cs-a" size=2 max="9" min="0"/>
+</$reveal>
+</div>
+<div class="cs-column">
+⟷
+</div>
+<div class="cs-doublecolumn">
+<div class="cs-approach-label">$fieldlabel2$</div>
+</div>
+<div class="cs-column" style="margin-right:25px;align-items:end;">
+<$reveal type="nomatch" state="!!mode" text="edit">
+<p class="cs-approach">{{$:/$(currentTiddler)$/data!!$field2$}}</p>
+</$reveal>
+<$reveal type="match" state="!!mode" text="edit">
+<$edit-text tiddler="$:/$(currentTiddler)$/data" field="$field2$" tag=input type="number" class="cs-a" size=2 max="9" min="0"/>
+</$reveal>
+</div>
+</div>
+\end
+
+\define cs-approaches()
+  <div class="cs-row">
+    <p class="cs-heading">[[Approaches|approach]]</p> 
+  </div>
+<<cs-approachrow "force" "Force" "savvy" "Savvy">>
+<<cs-approachrow "flair" "Flair" "guile" "Guile">>
+<<cs-approachrow "speed" "Speed" "caution" "Caution">>
+\end
+
+\define cs-aspects()
+  <div class="cs-row">
+    <p class="cs-heading">[[Aspects|aspect]]</p> 
+  </div>
+  <div class="cs-row"><div class="cs-column">
+<<cs-field "desc" "Description" "Description Aspect">>
+  </div></div>
+  <div class="cs-row"><div class="cs-column">
+<<cs-field "ideal" "Ideal" "Ideal Aspect">>
+  </div></div>
+  <div class="cs-row"><div class="cs-column">
+<<cs-field "trait" "Trait" "Trait Aspect">>
+  </div></div>
+  <div class="cs-row"><div class="cs-column">
+<<cs-field "flaw" "Flaw" "Flaw Aspect">>
+  </div></div>
+  <div class="cs-row"><div class="cs-column">
+<<cs-field "bond1" "Bond 1" "Bond Aspect">>
+  </div></div>
+  <div class="cs-row"><div class="cs-column">
+<<cs-field "bond2" "Bond 2" "Bond Aspect">>
+  </div></div>
+\end
+
+\define cs-stressboxes()
+<$vars num-ss-up={{{[[$:/$(currentTiddler)$/data]get[num-ss]else[0]add[1]min[2]]}}} num-ss-dn={{{[[$:/$(currentTiddler)$/data]get[num-ss]else[0]subtract[1]max[0]]}}} num-ts-up={{{[[$:/$(currentTiddler)$/data]get[num-ts]else[0]add[1]min[2]]}}} num-ts-dn={{{[[$:/$(currentTiddler)$/data]get[num-ts]else[0]subtract[1]max[0]]}}}>
+<div class="cs-row">
+  <div class="cs-double-column" style="margin: 2px 0px 3px;">
+  <div class="cs-row">
+    <p class="cs-heading">[[Stress|stress]]</p> 
+  </div>
+    <div class="cs-row">
+      <$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s1" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s2" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s3"class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s4" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s5" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="s6"class="cs-check-small cs-check-final"/>
+    </div>
+  </div>
+  <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px;" title="special stress">
+<div class="cs-row" style="justify-content: center; align-items: end;">
+          <p class="new-note" style="margin:0px;"><span class="cs-approach-label" >S</span> <$button class=<<tv-config-toolbar-class>> tooltip="add special stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ss=<<num-ss-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove special stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ss=<<num-ss-dn>>/>{{$:/images/subtract}}</$button></p>
+        </div>
+    <div class="cs-row" style="justify-content: center; align-items: end;">
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-ss" text="1">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="ss1" class="cs-check-small"/>
+</$reveal>
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-ss" text="2">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="ss2"class="cs-check-small"/>
+</$reveal>
+    </div>
+  </div>
+  <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px 25px 2px 2px;" title="temporary stress">
+<div class="cs-row" style="justify-content: center; align-items: end;">
+          <p class="new-note" style="margin:0px;"><span class="cs-approach-label">T</span> <$button class=<<tv-config-toolbar-class>> tooltip="add temporary stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ts=<<num-ts-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove temporary stress box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-ts=<<num-ts-dn>>/>{{$:/images/subtract}}</$button></p>
+        </div>
+    <div class="cs-row" style="justify-content: center; align-items: end;">
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-ts" text="1">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="ts1" class="cs-check-small"/>
+</$reveal>
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-ts" text="2">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="ts2"class="cs-check-small"/>
+</$reveal>
+    </div>
+  </div>
+</div>
+</$vars>
+\end
+
+\define cs-harmboxes()
+<$vars num-sh-up={{{[[$:/$(currentTiddler)$/data]get[num-sh]else[0]add[1]min[2]]}}} num-sh-dn={{{[[$:/$(currentTiddler)$/data]get[num-sh]else[0]subtract[1]max[0]]}}} num-th-up={{{[[$:/$(currentTiddler)$/data]get[num-th]else[0]add[1]min[2]]}}} num-th-dn={{{[[$:/$(currentTiddler)$/data]get[num-th]else[0]subtract[1]max[0]]}}}>
+<div class="cs-row">
+  <div class="cs-double-column" style="margin: 2px 0px 3px;">
+  <div class="cs-row">
+    <p class="cs-heading">[[Harm|harm]]</p> 
+  </div>
+    <div class="cs-row">
+      <$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h1" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h2" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h3"class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h4" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h5" class="cs-check-small"/><$checkbox tiddler="$:/$(currentTiddler)$/data" tag="h6"class="cs-check-small cs-check-final"/>
+    </div>
+  </div>
+  <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px;" title="special harm">
+<div class="cs-row" style="justify-content: center; align-items: end;">
+          <p class="new-note" style="margin:0px;"><span class="cs-approach-label" >S</span> <$button class=<<tv-config-toolbar-class>> tooltip="add special harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-sh=<<num-sh-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove special harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-sh=<<num-sh-dn>>/>{{$:/images/subtract}}</$button></p>
+        </div>
+    <div class="cs-row" style="justify-content: center; align-items: end;">
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-sh" text="1">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="sh1" class="cs-check-small"/>
+</$reveal>
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-sh" text="2">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="sh2"class="cs-check-small"/>
+</$reveal>
+    </div>
+  </div>
+  <div class="cs-column cs-ts-box-border" style="justify-content: space-between;margin:2px 25px 2px 2px;" title="temporary harm">
+<div class="cs-row" style="justify-content: center; align-items: end;">
+          <p class="new-note" style="margin:0px;"><span class="cs-approach-label">T</span> <$button class=<<tv-config-toolbar-class>> tooltip="add temporary harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-th=<<num-th-up>>/>{{$:/images/add}}</$button> <$button class=<<tv-config-toolbar-class>> tooltip="remove temporary harm box"><$action-setfield $tiddler="$:/$(currentTiddler)$/data" num-th=<<num-th-dn>>/>{{$:/images/subtract}}</$button></p>
+        </div>
+    <div class="cs-row" style="justify-content: center; align-items: end;">
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-th" text="1">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="th1" class="cs-check-small"/>
+</$reveal>
+<$reveal type="gteq" state="$:/$(currentTiddler)$/data!!num-th" text="2">
+<$checkbox tiddler="$:/$(currentTiddler)$/data" tag="th2"class="cs-check-small"/>
+</$reveal>
+    </div>
+  </div>
+</div>
+</$vars>
+\end
+
+\define cs-storypoints()
+<$edit-text tiddler="$:/$(currentTiddler)$/data" field="sp" tag=input type="number" class="cs-a" size=2/>
+\end
+
+\define cs-xp()
+<div align="right"><$edit-text tiddler="$:/$(currentTiddler)$/data" field="xp" tag=input type="number" class="cs-a" size=2/></div>
+\end
+
+\define cs-money()
+<$edit-text tiddler="$:/$(currentTiddler)$/data" field="money" tag=input type="number" class="cs-a" size=2/>
+\end
+
+\define cs-item-list()
+<div class="cs-column" style="justify-content: flex-start;">
+				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/items" itemTemplate="$:/cs-itemtemplate" type="div" subtype="div" subtitlewidth="210px"/>
+<$reveal type="match" state="!!mode" text="edit">
+		  		<div class="cs-row">
+					<$list filter="[[$:/$(currentTiddler)$/items]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
+					<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-datainsertnew $tiddler="$:/$(currentTiddler)$/items" $newIndex=<<newIndex>> $newValue={{$:/newitem}}/>{{$:/core/images/done-button}}</$button></p><$edit-text tag=input tiddler="$:/newitem" class="cs-newitem" placeholder="Add Item" default=""/>
+					</$list>
+		  		</div>
+</$reveal>
+			</div>
+\end
+
+\define cs-talent-list()
+<div class="cs-column" style="justify-content: flex-start;">
+				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/talents" itemTemplate="$:/cs-talenttemplate" type="div" subtype="div" subtitlewidth="260px"/>
+<$reveal type="match" state="!!mode" text="edit">
+		  		<div class="cs-row">
+					<$list filter="[[$:/$(currentTiddler)$/talents]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
+					<<cs-talent "$:/newtalent">>
+					</$list>
+		  		</div>
+</$reveal>
+			</div>
+\end
+
+\define cs-language-list()
+<div class="cs-column" style="justify-content: flex-start;">
+				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/languages" itemTemplate="$:/cs-talenttemplate" type="div" subtype="div" subtitlewidth="240px"/>
+<$reveal type="match" state="!!mode" text="edit">
+		  		<div class="cs-row">
+					<$list filter="[[$:/$(currentTiddler)$/languages]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
+					<<cs-language "$:/newlanguage">>
+					</$list>
+		  		</div>
+</$reveal>
+			</div>
+\end
+
+\define cs-spell-list(tier)
+<div class="cs-column" style="justify-content: flex-start;">
+				<$macrocall $name="list-data-draggable" tiddler="$:/$(currentTiddler)$/spells_$tier$" itemTemplate="$:/cs-talenttemplate" type="div" subtype="div" subtitlewidth="260px"/>
+<$reveal type="match" state="!!mode" text="edit">
+		  		<div class="cs-row">
+					<$list filter="[[$:/$(currentTiddler)$/spells_$tier$]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
+					<<cs-spell "$:/newspell$tier$" $tier$>>
+					</$list>
+		  		</div>
+</$reveal>
+			</div>
+\end
+
+\define cs-item-eqps()
+<$list filter="[[$:/$(currentTiddler)$/items]indexesunsorted[]]" variable="item-index">
+<div class="cs-row" style="height:1.5em;">
+<$checkbox tiddler="$:/$(currentTiddler)$/items" tag=<<item-index>>/>
+</div>
+<div class="cs-row" style="height:1.5em;">
+&nbsp;
+</div>
+</$list>
+\end
+
+\define cs-notes()
+<$edit-text tiddler="$:/$(currentTiddler)$/data" rows="5" class="cs-notes" placeholder="Type Notes Here" default=""/>
+\end
+
+\define cs-momentum()
+<div class="cs-hexcolumn">
+<$range tiddler="$:/$(currentTiddler)$/data" field="momentum" min="0" max="5" default="0" increment="1"/></div>
+<div class="cs-column" style="align-items:end; margin-bottom:10px;margin-right:25px;">
+<$vars momentum={{{ [{$:/$(currentTiddler)$/data!!momentum}else[0]] }}}>
+<p class="cs-approach"><<momentum>></p></$vars>
+</div>
+\end
+
+\define cs-progressclock(index)
+<div class="cs-row-centered">
+<div class="clocklabel">{{$:/$(currentTiddler)$/progressclock$index$!!label}}</div>
+</div>
+<div class="cs-row-centered">
+<$progressclock segments={{$:/$(currentTiddler)$/progressclock$index$!!segments}} tiddler="$:/$(currentTiddler)$/progressclock$index$" filled={{$:/$(currentTiddler)$/progressclock$index$}}/>
+</div>
+<div class="cs-row">
+<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-setfield $tiddler="$:/$(currentTiddler)$/progressclock$index$" $value="0"/>{{$:/core/images/refresh-button}}</$button></p><$edit-text tag=input tiddler="$:/$(currentTiddler)$/progressclock$index$" field="label" class="cs-progressclock" placeholder="Clock Name" default=""/><$edit-text tiddler="$:/$(currentTiddler)$/progressclock$index$" field="segments" tag=input type="number" class="cs-newsegments" size=2 default="4" min="2" max="16"/></div>
+\end
+
+\define cs-progressclocks()
+<div class="cs-column">
+  <<cs-progressclock 1>>
+</div>
+<div class="cs-column">
+  <<cs-progressclock 2>>
+</div>
+<div class="cs-column">
+  <<cs-progressclock 3>>
+</div>
+\end

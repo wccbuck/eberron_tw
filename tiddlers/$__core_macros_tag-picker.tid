@@ -1,5 +1,5 @@
 created: 20201208052512120
-modified: 20220220053459887
+modified: 20231011232416853
 tags: $:/tags/Macro
 title: $:/core/macros/tag-picker
 type: text/vnd.tiddlywiki
@@ -52,3 +52,6 @@ $actions$
 </div>
 </$set></$set>
 \end
+
+\define categorysubfilter() category[$(currentCategory)$]
+\define notcategorysubfilter() !category[$(currentCategory)$]

@@ -1,0 +1,25 @@
+caption: {{$:/core/images/star-filled}} Add this to My Stuff
+created: 20200221180134507
+description: Add this to My Stuff
+modified: 20231009224434816
+tags: $:/tags/ViewToolbar
+title: $:/eberron-tw/ui/Buttons/add-to-my-stuff
+type: text/vnd.tiddlywiki
+
+<$list filter="[title<currentTiddler>has[category]]" variable="noop">
+<$button tooltip="Add this to My Stuff" aria-label="Add this to My Stuff" class=<<tv-config-toolbar-class>>>
+<$list filter="[[$:/MyStuffData]indexes[]append[0]nsort[]last[]add[1]]" variable="newIndex">
+<$action-datainsertnew $tiddler="$:/MyStuffData" $newIndex=<<newIndex>> $newValue=<<currentTiddler>>/>
+</$list>
+<$action-setfield $tiddler="$:/AddToMyStuffNotification" stufftitle=<<currentTiddler>>/>
+<$action-sendmessage $message="tm-notify" $param="$:/AddToMyStuffNotification"/>
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+{{$:/core/images/star-filled}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text">
+<$text text="Add this to My Stuff"/>
+</span>
+</$list>
+</$button>
+</$list>

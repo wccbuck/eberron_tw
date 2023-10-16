@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20230801184143501
-modified: 20230801184615860
+modified: 20231009201728761
 tags: armor body mobility
 tier: 2
 title: expeditious armor
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 Once per day, the wearer of this armor can cast the spell [[expeditious retreat]].
 
-<<<
-!!! expeditious retreat
-{{||expeditious retreat}}
-<<<
+<<spellpreview "expeditious retreat">>

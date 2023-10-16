@@ -1,13 +1,13 @@
 category: talent
 created: 20210731221545921
 list: prestidigitation [[purify food and drink]] [[unseen servant]] friends goodberry sleep aid [[calm emotions]] [[create food and water]] [[tiny hut]] [[aura of purity]] [[private sanctum]] hallow [[magnificent mansion]] [[heroes' feast]]
-modified: 20230913030325830
+modified: 20231009194554507
 tags: halfling [[Mark of Hospitality]]
 title: Mark of Hospitality (talent)
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/hospitality.svg}}</div> You possess the [[Mark of Hospitality]], a [[dragonmark]] that only manifests on [[halfling]]s with ties to House [[Ghallanda]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (common or uncommon [[spell tier]]) from the below list. //Recommended Spell: [[prestidigitation]].//
+<div style="float: left; width: 100px;">{{$:/eberron-tw/hospitality.svg}}</div> You possess the [[Mark of Hospitality]], a [[dragonmark]] that only manifests on [[halfling]]s with ties to House [[Ghallanda]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (common or uncommon [[spell tier]]) from the below list. //Recommended Spell: [[prestidigitation]].//
 
 If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]].
 

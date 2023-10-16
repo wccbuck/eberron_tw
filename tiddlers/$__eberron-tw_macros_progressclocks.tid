@@ -1,0 +1,16 @@
+created: 20210810195119737
+modified: 20231009193538194
+tags: $:/tags/Macro
+title: $:/eberron-tw/macros/progressclocks
+type: text/vnd.tiddlywiki
+
+\define progressclocks($index$)
+<div class="cs-row-centered">
+<div class="clocklabel">{{$:/progressclock$index$!!label}}</div>
+</div>
+<div class="cs-row-centered">
+<$progressclock segments={{$:/progressclock$index$!!segments}} tiddler="$:/progressclock$index$" filled={{$:/progressclock$index$}} color="#D65618"/>
+</div>
+<div class="cs-row">
+<p class="new-note" style="margin:0px 10px 0px 0px"><$button class=<<tv-config-toolbar-class>>><$action-setfield $tiddler="$:/progressclock$index$" $value="0"/>{{$:/core/images/refresh-button}}</$button></p><$edit-text tag=input tiddler="$:/progressclock$index$" field="label" class="progressclock" placeholder="Clock Name" default=""/><$edit-text tiddler="$:/progressclock$index$" field="segments" tag=input type="number" class="newsegments" size=2 default="4" min="2" max="16"/></div>
+\end

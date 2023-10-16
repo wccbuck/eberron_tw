@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210102165615256
-modified: 20220220202327573
+modified: 20231009202542532
 tags: dagger sword weapon
 tier: 1
 title: blade of rime
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 While holding this weapon, you can use the stored energy in the blade to cast the [[ray of frost]] spell once per day.
 
-<<<
-!!! ray of frost
-{{||ray of frost}}
-<<<
+<<spellpreview "ray of frost">>

@@ -1,7 +1,7 @@
 category: entity
 color: #8C4606
 created: 20200420210840335
-modified: 20230815071101540
+modified: 20231009194554429
 tags: [[Sovereign Host]] deity
 title: Arawai
 tooltip: Sovereign of love, fertility, and abundance
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 ''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[bronze dragon]]<br/>
 ''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
 
-<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#0022aa],[#CD7F32]search-replace[#ffd700],[#227700]]}}}>
+<$vars octagram={{{ [[$:/eberron-tw/octagram.svg]get[text]search-replace[#0022aa],[#CD7F32]search-replace[#ffd700],[#227700]]}}}>
 <div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
 </$vars>
 

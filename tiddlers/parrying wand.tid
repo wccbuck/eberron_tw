@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220704003924253
-modified: 20220704004055797
+modified: 20231009193701257
 tags: protection wand [[magical implement]]
 tier: 2
 title: parrying wand
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 This fine steel wand can be used to deflect blows while you are holding it. In addition, you can use this wand to cast the cantrip [[blade ward]] on yourself.
 
-<<<
-!!! blade ward
-{{||blade ward}}
-<<<
+<<spellpreview "blade ward">>

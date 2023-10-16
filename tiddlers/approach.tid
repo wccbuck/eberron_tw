@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20230317210236282
-modified: 20230814215021486
+modified: 20231013214124160
 tags: Storyloom
 title: approach
 tooltip: Storyloom mechanic: the manner or style by which a character makes an attempt.&#13;Force, Savvy, Flair, Guile, Speed, Caution
@@ -63,4 +63,4 @@ Each approach on a [[character sheet|character sheet template]] has an associate
 
 Players can choose any two approaches they like when making attempts, even if those approaches don't perfectly suit the situation. A character with a point in Flair tends to solve problems in a flashy way, and the system rewards them for that. However, a player won't always be able to just choose their best approaches for every action they take. Keep in mind that the chosen approaches must accurately reflect the nature of the action described. If a player is describing their character sneaking past a group of guards, they must use the Guile approach, not Flair; their second approach choice can further describe just how quickly or cleverly they are sneaking.
 
-At [[character creation|Character Creation]], consider each of the opposite pairs listed above and assign one point to your preferred approach. You should have three approaches at "1" and three approaches at "0." As your character advances over time, you can continue to increase your approach scores; see [[experience point]].
+At [[character creation|Character Creation]], consider each of the opposite pairs listed above and assign one point to your preferred approach. You should have three approaches at "1" and three approaches at "0." (As an alternate rule, the GM might allow you to assign two points in one approach, and one point in a second, with zero points in the other four.) As your character advances over time, you can continue to increase your approach scores; see [[experience point]].

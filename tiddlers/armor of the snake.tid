@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210104224458577
-modified: 20220221035859651
+modified: 20231009201304589
 tags: stealth armor body mobility
 tier: 3
 title: armor of the snake
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 This set of peculiar leather armor is made from speckled-green snake skin. If you are able to channel [[primal magic]], you can cast [[polymorph]] on yourself to transform into a snake.
 
-<<<
-!!! polymorph
-{{||polymorph}}
-<<<
+<<spellpreview "polymorph">>

@@ -1,7 +1,7 @@
 category: character sheet
 created: 20210821212955139
 mode: view
-modified: 20221204000357736
+modified: 20231012032318960
 tags: 
 title: group character sheet
 type: text/vnd.tiddlywiki
@@ -44,6 +44,7 @@ type: text/vnd.tiddlywiki
       <p class="cs-heading">[[Aspects|aspect]]</p>
       <<cs-field "desc" "Description" "Description Aspect">>
       <<cs-field "ideal" "Ideal" "Ideal Aspect">>
+      <<cs-field "trait" "Trait" "Trait Aspect">>
       <<cs-field "flaw" "Flaw" "Flaw Aspect">> 
       <<cs-field "bond1" "Bond 1" "Bond Aspect">> 
       <<cs-field "bond2" "Bond 2" "Bond Aspect">> 

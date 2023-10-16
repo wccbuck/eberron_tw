@@ -1,0 +1,21 @@
+caption: {{$:/eberron-tw/images/remove-article}} Remove "the"
+created: 20200418182307536
+description: Remove "the"
+modified: 20231009224259800
+tags: $:/tags/EditToolbar
+title: $:/eberron-tw/ui/Buttons/remove-article
+type: text/vnd.tiddlywiki
+
+<$reveal type="match" state="!!article" text="the ">
+<$button tooltip="Remove 'the'" aria-label="Remove 'the'" class=<<tv-config-toolbar-class>>>
+<$action-deletefield article/>
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+{{$:/eberron-tw/images/remove-article}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text">
+<$text text="Remove 'the'"/>
+</span>
+</$list>
+</$button>
+</$reveal>

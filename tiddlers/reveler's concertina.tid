@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210809051016428
-modified: 20220708190848568
+modified: 20231009201432571
 tags: [[musical instrument]] [[magical implement]]
 tier: 3
 title: reveler's concertina
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 This magical concertina (a small accordion-like instrument) grants [[bard]]s +1 [[impact]] when casting musical spells. In addition, once per day, a bard can cast [[irresistible dance]] from the item.
 
-<<<
-!!! irresistible dance
-{{||irresistible dance}}
-<<<
+<<spellpreview "irresistible dance">>

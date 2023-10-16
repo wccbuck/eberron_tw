@@ -1,7 +1,7 @@
 category: entity
 color: #8C4606
 created: 20200420211035111
-modified: 20230814220001672
+modified: 20231009194554433
 tags: [[Sovereign Host]] deity
 title: Balinor
 tooltip: Sovereign of the hunt and cycles of nature
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 ''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[green dragon]]<br/>
 ''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
 
-<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#0022aa],[#c3844d]search-replace[#ffd700],[#820000]]}}}>
+<$vars octagram={{{ [[$:/eberron-tw/octagram.svg]get[text]search-replace[#0022aa],[#c3844d]search-replace[#ffd700],[#820000]]}}}>
 <div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
 </$vars>
 

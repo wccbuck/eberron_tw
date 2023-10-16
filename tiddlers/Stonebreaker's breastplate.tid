@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20230830024032395
-modified: 20230830031709800
+modified: 20231009205147001
 tags: armor body [[rune magic]]
 tier: 5
 title: Stonebreaker's breastplate
@@ -13,7 +13,4 @@ While wearing this breastplate, you have resistance to all physical damage and a
 
 Once per day, if you are able to invoke [[runes|rune magic]], you can invoke the breastplate's rune to cast the [[wall of stone]] spell. When you cast the spell in this way, you don't need to maintain concentration, and the wall does not disappear after 10 minutes.
 
-<<<
-!!! wall of stone
-{{||wall of stone}}
-<<<
+<<spellpreview "wall of stone">>

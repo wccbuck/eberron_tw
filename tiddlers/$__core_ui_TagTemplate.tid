@@ -1,0 +1,29 @@
+created: 20231011231033370
+modified: 20231012002219117
+title: $:/core/ui/TagTemplate
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+<span class="tc-tag-list-item" data-tag-title=<<tagTitle>>>
+<$set name="transclusion" value=<<tagTitle>>>
+<$macrocall $name="tag-pill-body" tag=<<tagTitle>> icon={{{ [<tagTitle>] :cascade[all[shadows+tiddlers]tag[$:/tags/TiddlerIconFilter]!is[draft]get[text]] }}} colour={{{ [<tagTitle>] :cascade[all[shadows+tiddlers]tag[$:/tags/TiddlerColourFilter]!is[draft]get[text]] }}} palette={{$:/palette}} element-tag="""$button""" element-attributes="""popup=<<qualify "$:/state/popup/tag">> dragFilter='[all[current]tagging[]]' tag='span'"""/>
+<$reveal state=<<qualify "$:/state/popup/tag">> type="popup" position="below" animate="yes" class="tc-drop-down">
+<$set name="tv-show-missing-links" value="yes">
+<div class="tc-menu-list-item">
+<$link to=<<tagTitle>>/>
+</div>
+</$set>
+<$list filter="[all[shadows+tiddlers]tag[$:/tags/TagDropdown]!has[draft.of]]" variable="listItem"> 
+<$transclude tiddler=<<listItem>>/> 
+</$list>
+<hr>
+<$vars currentCategory={{!!category}}>
+<div style="padding: 0 9px 3px;">//<small>Category:&nbsp;<$list filter="[<currentTiddler>has[category]]" emptyMessage="(none)"><<currentCategory>></$list></small>//</div>
+<$macrocall $name="list-tagged-draggable" tag=<<tagTitle>> subFilter=<<categorysubfilter>>/>
+<hr>
+<div style="padding: 0 9px 3px;">//<small>All other categories</small>//</div>
+<$macrocall $name="list-tagged-draggable" tag=<<tagTitle>> subFilter=<<notcategorysubfilter>>/>
+</$vars>
+</$reveal>
+</$set>
+</span>

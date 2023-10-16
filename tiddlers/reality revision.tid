@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210721214024661
-modified: 20220805224040421
+modified: 20231009205505788
 tags: psionics
 tier: 5
 title: reality revision
@@ -10,7 +10,4 @@ type: text/vnd.tiddlywiki
 
 The most powerful manifesters of [[psionic power|psionics]] can simply bend reality to their will. //Reality revision//'s effects are much like those of the [[wish]] spell. 
 
-<<<
-!!! wish
-{{||wish}}
-<<<
+<<spellpreview "wish">>

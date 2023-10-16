@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20230830042129073
-modified: 20230830042657649
+modified: 20231009205315912
 tags: invigoration [[rune magic]] armor body
 tier: 3
 title: zephyr armor
@@ -13,7 +13,4 @@ While wearing this armor, you have [[advantage]] when balancing, dodging out of 
 
 Once per day, if you are able to invoke [[runes|rune magic]], you can invoke the armor's rune to cast the [[wind wall]] spell with it. 
 
-<<<
-!!! wind wall
-{{||wind wall}}
-<<<
+<<spellpreview "wind wall">>

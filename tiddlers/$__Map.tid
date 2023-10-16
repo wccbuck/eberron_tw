@@ -2,7 +2,7 @@ caption: Map
 created: 20210112213904741
 cutoff: 0
 list-before: $:/core/ui/SideBar/Open
-modified: 20230901061017809
+modified: 20231009194311917
 tags: $:/tags/SideBar
 title: $:/Map
 type: text/vnd.tiddlywiki
@@ -94,7 +94,7 @@ Refresh Map
     <div class="cs-column" style="align-items:center;">''Remove''</div>
   </div>
 <$list filter="[[$:/Markers]indexes[]]" variable="color">
-<$vars showMarker={{{ [[$:/plugins/wccbuck/FMW/marker3.svg]get[text]search-replace[$primary$],<color>search-replace[width="32" height="50"],[width="24" height="37"]] }}}, latlng={{{ [[$:/Markers]getindex<color>split[|]last[]] }}}, coord={{{ [[$:/Markers]getindex<color>split[|]first[]] }}}>
+<$vars showMarker={{{ [[$:/eberron-tw/FMW/marker3.svg]get[text]search-replace[$primary$],<color>search-replace[width="32" height="50"],[width="24" height="37"]] }}}, latlng={{{ [[$:/Markers]getindex<color>split[|]last[]] }}}, coord={{{ [[$:/Markers]getindex<color>split[|]first[]] }}}>
   <div class="cs-row">
     <div class="cs-column" style="align-items:center;"><$button class="tc-btn-invisible" tooltip=<<colortt>>><$action-setfield $tiddler="$:/FlyLocation" text=<<coord>> fly="yes"/><<showMarker>></$button></div>
     <div class="cs-doublecolumn" style="align-items:center;"><<latlng>></div>

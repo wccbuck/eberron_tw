@@ -1,6 +1,6 @@
 category: talent
 created: 20211127002130508
-modified: 20230413181248082
+modified: 20231012023925320
 title: Spellcaster 3
 tooltip: talent which allows a player character to cast spells (4 rare, 2 epic, or 1 legendary)
 type: text/vnd.tiddlywiki
@@ -17,4 +17,4 @@ The Spellcaster [[talent]] allows you to cast [[spell]]s. When you take this tal
 
 So a player character who takes this talent might choose four rare-tier spells, or two epic, or one epic and two rare, or one legendary spell.
 
-You can take this talent multiple times to gain access to more spells. See also the [[Spellcaster]] and [[Spellcaster 2]] talents. To cast spells you already know at a higher tier, consider the [[Spell Enhancement 2]] or [[Spell Enhancement 3]] talents.
+You can take this talent multiple times to gain access to more spells. See also the [[Spellcaster]] and [[Spellcaster 2]] talents. To cast spells you already know at a higher tier, consider the [[Spell Enhancement]] talents.

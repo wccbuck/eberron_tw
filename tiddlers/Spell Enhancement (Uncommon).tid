@@ -1,0 +1,15 @@
+category: talent
+created: 20231012023620531
+modified: 20231012024745226
+nexttier: rare
+tags: [[Spell Enhancement]]
+thistier: uncommon
+title: Spell Enhancement (Uncommon)
+tooltip: talent which allows a player character to cast uncommon spells at one tier higher
+type: text/vnd.tiddlywiki
+var1: [[charm]]
+var2: [[cure wounds]]
+var3: [[scorching ray]]
+xpcost: 1
+
+{{||$:/SpellEnhancementTemplate}}

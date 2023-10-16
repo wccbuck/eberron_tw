@@ -1,7 +1,7 @@
 category: entity
 color: #8C4606
 created: 20200420211336790
-modified: 20221129062047492
+modified: 20231009194554493
 tags: [[Sovereign Host]] deity
 title: Kol Korran
 tooltip: Sovereign of commerce, travel, and negotiation
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 ''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[white dragon]]<br/>
 ''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
 
-<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#ffd700],[#C0C0C8]search-replace[#0022aa],[#ffd700]]}}}>
+<$vars octagram={{{ [[$:/eberron-tw/octagram.svg]get[text]search-replace[#ffd700],[#C0C0C8]search-replace[#0022aa],[#ffd700]]}}}>
 <div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
 </$vars>
 

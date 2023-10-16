@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20230801162600583
-modified: 20230801163101023
+modified: 20231009201628168
 tags: armor body
 tier: 3
 title: death ward armor
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 This set of armor grants the effects of the spell [[death ward]] to its wearer once each dawn. The effect ends early if the wearer removes the armor.
 
-<<<
-!!! death ward
-{{||death ward}}
-<<<
+<<spellpreview "death ward">>

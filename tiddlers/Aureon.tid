@@ -1,7 +1,7 @@
 category: entity
 color: #8C4606
 created: 20200420210948112
-modified: 20230815071053277
+modified: 20231009194554431
 tags: [[Sovereign Host]] deity
 title: Aureon
 tooltip: Sovereign of Law and Lore
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 ''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[blue dragon]]<br/>
 ''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
 
-<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#0022aa],[#1C1A16]search-replace[#ffd700],[#FCFBF8]]}}}>
+<$vars octagram={{{ [[$:/eberron-tw/octagram.svg]get[text]search-replace[#0022aa],[#1C1A16]search-replace[#ffd700],[#FCFBF8]]}}}>
 <div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
 </$vars>
 

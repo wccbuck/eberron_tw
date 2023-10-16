@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227194733206
-modified: 20220220202759577
+modified: 20231009201056981
 tags: potion mobility
 tier: 3
 title: potion of gaseous form
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 When you drink this potion, you gain the effect of the [[gaseous form]] spell for 1 hour or until you choose to end the effect. This potion's container seems to hold fog that moves and pours like water.
 
-<<<
-!!! gaseous form
-{{||gaseous form}}
-<<<
+<<spellpreview "gaseous form">>

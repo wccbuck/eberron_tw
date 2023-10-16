@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210726220542219
-modified: 20220220202852010
+modified: 20231009201114078
 tags: [[musical instrument]] [[magical implement]]
 tier: 2
 title: stone ocarina
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 While you are playing this carved stone ocarina with mother-of-pearl inlay, you can cast the spell [[mold earth]].
 
-<<<
-!!! mold earth
-{{||mold earth}}
-<<<
+<<spellpreview "mold earth">>

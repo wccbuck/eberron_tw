@@ -1,0 +1,18 @@
+created: 20231012023232231
+modified: 20231012024803679
+tags: 
+title: $:/SpellEnhancementTemplate
+type: text/vnd.tiddlywiki
+
+''Prerequisite:'' At least one <$link to="spell tier">{{!!thistier}}-tier</$link> [[spell]].
+
+The {{!!title}} [[talent]] allows you to cast any {{!!thistier}}-[[tier|spell tier]] spells you know at one tier higher ({{!!nexttier}}). Some spells, like {{!!var1}} or {{!!var2}}, have specific instructions on what a higher-tier version of that spell can do. Others, such as {{!!var3}}, are simply more powerful and destructive at higher tiers.
+
+You may only enhance spells you can cast using your own power; any spell effect you trigger by spending charges of a [[magic item]] cannot be enhanced to a higher tier using this talent.
+
+!! Spell Enhancement Talents
+
+* [[Spell Enhancement (Common)]]
+* [[Spell Enhancement (Uncommon)]]
+* [[Spell Enhancement (Rare)]]
+* [[Spell Enhancement (Epic)]]

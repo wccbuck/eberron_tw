@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227193532384
-modified: 20220220202710946
+modified: 20231009201124957
 tags: convenience dagger weapon tool
 tier: 3
 title: needle of mending
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 This weapon is a magic dagger disguised as a sewing needle. When you hold it and speak its command word, it transforms into a dagger or back into a needle. While holding it, you can cast the [[mending]] cantrip from it.
 
-<<<
-!!! mending
-{{||mending}}
-<<<
+<<spellpreview "mending">>

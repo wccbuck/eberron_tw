@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211228184159551
-modified: 20220708172743261
+modified: 20231009205411072
 tags: accessory arms convenience
 tier: 2
 title: hand of the master
@@ -11,7 +11,4 @@ This satin glove has no visible seams and can be easily flipped inside-out to we
 
 In addition, you can cast the [[mage hand]] cantrip at will using the glove. When you do, the spectral hand originates within the glove instead of at a point of your choosing. The glove covers the spectral hand as it carries out your commands, leaving your hand or limb uncovered while it does so. Casting [[mage hand]] using the glove doubles both the duration and carrying capacity of the hand.
 
-<<<
-!!! mage hand
-{{||mage hand}}
-<<<
+<<spellpreview "mage hand">>

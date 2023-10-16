@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20230830002525861
-modified: 20230830021005769
+modified: 20231009205555844
 tags: [[rune magic]] body accessory hindrance
 tier: 4
 title: mistral mantle
@@ -13,7 +13,4 @@ While wearing this cloak, you have resistance to [[cold damage|damage type]]. Ad
 
 Once per day, if you are able to invoke [[runes|rune magic]], you can invoke the mantle's rune to cast the [[sleet storm]] spell with it. When you use the mantle to cast the spell, the slippery ground in the area of the spell doesn't impede your movement, and you can see through the storm, ignoring the normal penalties of a heavily obscured area.
 
-<<<
-!!! sleet storm
-{{||sleet storm}}
-<<<
+<<spellpreview "sleet storm">>

@@ -1,13 +1,13 @@
 category: talent
 created: 20210731223911705
 list: [[misty step]] [[teleportation circle (spell)]] [[far step]] [[thunder step]] longstrider haste [[benign transposition]] [[expeditious retreat]] jump [[pass without trace]] blink [[phantom steed]] [[dimension door]] [[freedom of movement]] etherealness teleport [[arcane gate]] scatter
-modified: 20230913030325832
+modified: 20231009194554508
 tags: human [[Mark of Passage]]
 title: Mark of Passage (talent)
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/passage.svg}}</div> You possess the [[Mark of Passage]], a [[dragonmark]] that only manifests on [[human]]s with ties to House [[Orien]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (common or uncommon [[spell tier]]) from the below list. //Recommended Spell: [[misty step]].//
+<div style="float: left; width: 100px;">{{$:/eberron-tw/passage.svg}}</div> You possess the [[Mark of Passage]], a [[dragonmark]] that only manifests on [[human]]s with ties to House [[Orien]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (common or uncommon [[spell tier]]) from the below list. //Recommended Spell: [[misty step]].//
 
 If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]]. 
 

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227031329441
-modified: 20220220223029857
+modified: 20231009201041235
 tags: accessory body protection
 tier: 2
 title: cloak of protection
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 This cloak provides allows you to cast [[mage armor]] on yourself once per day. However, the duration is only four hours.
 
-<<<
-!!! mage armor
-{{||mage armor}}
-<<<
+<<spellpreview "mage armor">>

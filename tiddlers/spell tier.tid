@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210105213051245
-modified: 20230928203227526
+modified: 20231013212226552
 spellname: [[spell]]
 tags: Storyloom
 title: spell tier
@@ -26,6 +26,8 @@ Some spell descriptions indicate how that spell can be cast at a higher tier. Th
 !! Added Impact
 
 Generally, each spell tier should create an effect that's roughly +1 or +2 [[impact]] above that of the tier below it. Cantrips typically don't automatically grant any extra impact; shooting a [[ray of frost]] is not intrinsically more impactful than loosing an arrow. Higher-tier spells typically do grant additional impact, but the exact degree is often context-specific. For example, in a battle scene against a group of enemies, a [[fireball]] might grant 4 extra impact if you are launching it at a close-packed group of enemy soldiers with no fire protection, but only 1 extra impact against a single target behind a wall. 
+
+Instead of granting additional impact, higher-tier spells can allow player characters to attempt higher-tier challenges; see [[Challenge Tiers]] for more information.
 
 Keep in mind that [[Storyloom]] is a fiction-first game. The rules work best when the spells' descriptions are used as a guideline for their effects, not as restrictions.
 

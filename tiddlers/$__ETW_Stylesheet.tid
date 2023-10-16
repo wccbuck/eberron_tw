@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20230913030635957
+modified: 20231011235622623
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -56,6 +56,13 @@ font-family: 'masoch-dirach'; font-variant: small-caps; font-weight:500;
     border-image: linear-gradient(to right, <<colour muted-foreground>>, rgba(0,0,0,0)) 1;
 }
 
+h3.spellpreview {
+    padding-bottom: 2px;
+    border-style: solid;
+    border-width: 0 0 3px 0;
+    border-image: linear-gradient(to right, <<colour muted-foreground>>, rgba(0,0,0,0)) 1;
+}
+
 .tc-title, .tc-site-title {
 	border-width: 0;
 }
@@ -71,8 +78,8 @@ font-family: 'masoch-dirach'; font-variant: small-caps; font-weight:500;
 	font-variant: normal;
 }
 
-.tc-sidebar-lists a.tc-tiddlylink {
-    color: <<colour sidebar-tiddler-link-foreground>>;
+.tc-sidebar-lists .tc-search-results a.tc-tiddlylink:hover {
+    color: <<colour code-background>>;
 }
 
 div.sidebar-map a.tc-tiddlylink {
@@ -372,42 +379,42 @@ input.cs-newsegments {
 }
 
 .fmw-skyway {
-    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/plugins/wccbuck/FMW/skyway.svg">>');
+    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/eberron-tw/FMW/skyway.svg">>');
 	background-repeat: no-repeat;
 	background-size: 25px 25px;
 	background-clip: padding-box;
 }
 
 .fmw-upper {
-    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/plugins/wccbuck/FMW/upper-wards.svg">>');
+    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/eberron-tw/FMW/upper-wards.svg">>');
 	background-repeat: no-repeat;
 	background-size: 25px 25px;
 	background-clip: padding-box;
 }
 
 .fmw-middle {
-    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/plugins/wccbuck/FMW/middle-wards.svg">>');
+    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/eberron-tw/FMW/middle-wards.svg">>');
 	background-repeat: no-repeat;
 	background-size: 25px 25px;
 	background-clip: padding-box;
 }
 
 .fmw-lower {
-    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/plugins/wccbuck/FMW/lower-wards.svg">>');
+    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/eberron-tw/FMW/lower-wards.svg">>');
 	background-repeat: no-repeat;
 	background-size: 25px 25px;
 	background-clip: padding-box;
 }
 
 .fmw-cogs {
-    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/plugins/wccbuck/FMW/cogs.svg">>');
+    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/eberron-tw/FMW/cogs.svg">>');
 	background-repeat: no-repeat;
 	background-size: 25px 25px;
 	background-clip: padding-box;
 }
 
 .fmw-polmap {
-    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/plugins/wccbuck/FMW/wireframe-globe.svg">>');
+    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/eberron-tw/FMW/wireframe-globe.svg">>');
 	background-repeat: no-repeat;
 	background-size: 25px 25px;
 	background-clip: padding-box;

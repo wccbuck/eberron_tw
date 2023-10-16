@@ -1,13 +1,13 @@
 category: culture
 color: #A3CFBB
 created: 20210319185544981
-modified: 20230612035337993
+modified: 20231009194554434
 tags: Breland [[Sharn Inquisitive]]
 title: Beggar Dane
 tooltip: anonymous street bard and everyman, famous in Breland for pragmatic wisdom in the pages of the Sharn Inquisitive
 type: text/vnd.tiddlywiki
 
-<div style="float: left; width: 120px; margin-right: 10px;">{{$:/plugins/wccbuck/beggar-dane.svg}}</div>
+<div style="float: left; width: 120px; margin-right: 10px;">{{$:/eberron-tw/beggar-dane.svg}}</div>
 
 Out of the pages of the [[Sharn Inquisitive]], the simple lessons for living popularized by this anonymous street [[bard]] have become ingrained in the [[Brelish|Breland]] mindset. These include: “A copper piece in the cup is a copper piece earned,” “Never borrow, never lend,” “The silent man has no one to blame but himself,” and “A [[magewright]] in the town is worth an army in the wilderness.” The newspaper occasionally includes editorials highlighting a particular aphorism of Beggar Dane, and applying it to modern life or current events.
 

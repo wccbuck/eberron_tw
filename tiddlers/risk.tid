@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210401190251509
-modified: 20230920195002050
+modified: 20231013200920261
 tags: [[Taking Action]] Storyloom
 title: risk
 tooltip: Storyloom mechanic: severity of consequences for a partial success or failed attempt
@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 
 The risk associated with an [[attempt|Taking Action]] determines how bad the [[consequence]]s are for a [[mixed success]] or [[bad outcome]]. Risk does not play a part in the event of a [[full success]]. These consequences can include taking [[stress]] or losing [[momentum]]. Risk can be low, moderate (default), high, or extreme.
 
-GMs set the risk level and [[impact]] level of each attempt the player characters make, but PCs can reduce their risk by sacrificing [[impact]] or changing the context of the scene in their favor. Regardless of the situation, risk should never be zero; if there really is no risk, then no dice should be rolled, and the player character just does the thing they intend to do. GMs should also avoid setting risk higher than extreme, and should consider creating a smaller prerequisite challenge to level the playing field; see [[Challenge Tiers]] for more information.
+GMs set the risk level and [[impact]] level of each attempt the player characters make, but PCs can reduce their risk by sacrificing [[impact]] or changing the context of the scene in their favor. Regardless of the situation, risk should never be zero; if there really is no risk, then no dice should be rolled, and the player character just does the thing they intend to do. GMs should also avoid setting risk higher than extreme (4), and should consider creating a smaller prerequisite challenge to level the playing field; see [[Challenge Tiers]] for more information.
 
 Take note that [[consequence]]s for an attempt should not negate the success. For example, consequences for [[boost]]ing (that is, increasing [[momentum]]) typically should not include losing momentum.
 
@@ -34,3 +34,7 @@ You overreach your capabilities. You're in serious trouble.
 
 * [[mixed success]]: You do it, but there’s a [[consequence]]: you suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious complication occurs, or you have significantly reduced [[impact]].
 * [[bad outcome]]: Things are bad. You suffer 3 [[stress]] or [[harm]], you lose 3 [[momentum]], a serious complication occurs, or you lose this opportunity for action.
+
+!!! Extreme Risk
+
+As "high risk," but add an additional point of lost resource (stress, harm, momentum, or even [[coin|money]]).

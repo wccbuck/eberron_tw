@@ -1,13 +1,13 @@
 category: phenomenon
 color: #432874
 created: 20200415041344694
-modified: 20230606185751403
+modified: 20231009194554505
 tags: dragonmark
 title: Mark of Healing
 tooltip: halfling dragonmark, House Jorasco, allows wielder to mend wounds and cure diseases
 type: text/vnd.tiddlywiki
 
-<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/healing.svg}}</div> A [[halfling]] with the Mark of Healing can save a life
+<div style="float: left; width: 100px;">{{$:/eberron-tw/healing.svg}}</div> A [[halfling]] with the Mark of Healing can save a life
 with a touch, restoring vitality, curing [[disease]] and mending wounds.
 When dealing with mundane medicine, the mark
 helps its bearer sense the nature of maladies, aiding

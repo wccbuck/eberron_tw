@@ -1,13 +1,13 @@
 category: talent
 created: 20210731225226640
 list: message [[whispering wind]] skywrite [[arcane mark]] [[comprehend languages]] [[magic mouth]] [[illusory script]] [[animal messenger]] silence sending tongues [[arcane eye]] confusion dream [[telepathic bond]] [[divine word]] [[power word: pain]] [[power word: stun]]
-modified: 20230913030325832
+modified: 20231009194554509
 tags: [[Mark of Scribing]] gnome
 title: Mark of Scribing (talent)
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/scribing.svg}}</div> You possess the [[Mark of Scribing]], a [[dragonmark]] that only manifests on [[gnome]]s with ties to House [[Sivis]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (common or uncommon [[spell tier]]) from the below list. //Recommended Spell: [[message]].//
+<div style="float: left; width: 100px;">{{$:/eberron-tw/scribing.svg}}</div> You possess the [[Mark of Scribing]], a [[dragonmark]] that only manifests on [[gnome]]s with ties to House [[Sivis]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (common or uncommon [[spell tier]]) from the below list. //Recommended Spell: [[message]].//
 
 If you take this talent multiple times, you may choose additional spells from the below list, following the same rules as [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]]. The more powerful spells on this list may be secrets of the [[Ninth College]].
 

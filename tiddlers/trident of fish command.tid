@@ -2,7 +2,7 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20201227060859581
-modified: 20220221192239867
+modified: 20231009201252258
 tags: weapon spear
 tier: 2
 title: trident of fish command
@@ -10,9 +10,6 @@ type: text/vnd.tiddlywiki
 
 This trident has 3 charges, and regains <<dr 1d3>> expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [[dominate]] from it on an aquatic [[beast]].
 
-<<<
-!!! dominate
-{{||dominate}}
-<<<
+<<spellpreview "dominate">>
 
 <<itemcharges 3>>

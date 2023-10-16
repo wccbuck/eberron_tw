@@ -1,7 +1,7 @@
 category: entity
 color: #8C4606
 created: 20200420211245702
-modified: 20230815070641200
+modified: 20231009194554487
 tags: [[Sovereign Host]] deity
 title: Dol Dorn
 tooltip: Sovereign of courage, strength, duty, and competition
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 ''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[silver dragon]]<br/>
 ''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
 
-<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#ffd700],[#990000]search-replace[#0022aa],[#C0C0C8]]}}}>
+<$vars octagram={{{ [[$:/eberron-tw/octagram.svg]get[text]search-replace[#ffd700],[#990000]search-replace[#0022aa],[#C0C0C8]]}}}>
 <div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
 </$vars>
 

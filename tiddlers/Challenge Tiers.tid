@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20220502034136035
-modified: 20230418151353443
+modified: 20231013213515850
 tags: Storyloom
 title: Challenge Tiers
 tooltip: documentation page for handling tiered challenges
@@ -18,11 +18,29 @@ When facing a higher-tier challenge, the player characters can create an opportu
 
 In each one of these cases, the GM will create a new challenge with a [[progress clock]] that the player characters can attempt to [[overcome]]. Once that progress clock is complete, the characters can now be considered at one higher "tier" than they were before for dealing with the original challenge.
 
-As a rule of thumb, one challenge tier is approximately three to five times more difficult than the tier below it. This is the same rule of thumb used to differentiate [[creature tier]]s, and that's by design. An ordinary soldier facing off against an angry wolf (creature tier 1) might consider that a "moderate" challenge (moderate [[impact]] and [[risk]] for most actions). But if they are facing off against four angry wolves, or against a massive [[dire wolf]], they are going to need to even the odds if they hope to make it out alive.
+As a rule of thumb, one challenge tier is approximately ''three to five times'' more difficult than the tier below it. This is the same rule of thumb used to differentiate [[creature tier]]s, and that's by design. An ordinary soldier facing off against an angry wolf (creature tier 1) might consider that a "moderate" challenge (moderate [[impact]] and [[risk]] for most actions). But if they are facing off against four angry wolves, or against a massive [[dire wolf]], they are going to need to even the odds if they hope to make it out alive.
 
-<<<
-''A Note on Assumed Player Character Expertise''<br/>
+!! What About Tiers of Spells and Magic Items?
+
+[[Spell tier|spell tier]] and [[rarity]] are ways of categorizing the power level of [[spell]]s and [[magic item]]s, respectively, like [[creature tier]] for creatures. The guidelines for adding extra [[impact]] for taking actions with the help of higher-tier spells and items is ''+1 or +2 added impact per tier above common''. But if challenge tiers are three to five times more difficult than the next lower tier, it seems like they get exponentially more challenging, while spells and magic items grow in power much more slowly. What gives?
+
+When a player character is facing off against a higher-tier challenge, their spells and magic items allow them to //match the same tier// of the challenge they face. This benefit //replaces// the bonus impact. If a rare-tier spell or item is the appropriate tool for the job, and the PC knows how to use it, using it against a "rare-tier" challenge (for example, a tier-3 creature) automatically allows them to match its challenge tier. That means the player characters can make attempts toward that challenge at a difficulty no higher than the "ceiling": that is, zero [[impact]], extreme [[risk]] (4).
+
+As an example: If a player character wielding an uncommon-[[rarity]] sword (say, a [[weapon of spite]]) is facing off one-on-one against a tier-3 [[carcass crab]], the GM might decide that that player character simply can't make attempts to harm the crab with that sword; if they want to destroy it, they're going to need to make a plan and level the odds first. However, if the player character is wielding a rare sword (say, a [[flame tongue]]), the GM should then allow them to attempt to directly attack the terrible creature—albeit, starting at zero [[impact]] and extreme [[risk]]. Then the player character can use their [[approach]] scores and other benefits (but again, no extra impact from the sword) to improve their impact and reduce risk.
+
+The below table clarifies how item and spell tiers relate to creature tiers (and other kinds of challenge tier).
+
+| ![[Item Rarity|rarity]] or [[Spell Tier|spell tier]] | ![[Creature Tier|creature tier]] |
+|common | 1 |
+|uncommon | 2 |
+|rare | 3 |
+|epic | 4 |
+|legendary | 5 |
+
+Note that even a legendary item or spell is not enough on its own to level the odds against a tier-6 creature, such as an [[overlord]].
+
+!! Assumed Player Character Expertise
+
 Generally speaking, [[Storyloom]] is a game system which assumes the player characters have baseline competence in any action that would sensibly align with their background. A soldier who prefers a spear still knows how to use a crossbow, even if they aren't exceedingly proficient at it. An [[alchemist]] likely knows how to use [[brewer's supplies]]. A [[bard]] can probably passingly play any common musical instrument. In cases where expertise is questionable, GM might increase the [[risk]] or decrease the [[impact]] of an attempt, but the player character can still make the attempt directly. Alternatively, with GM permission, a player might spend a [[story point]] to declare a minor story detail, that they have the specific expertise they need.
 
 But in cases where a player character clearly has no expertise they could reasonably leverage to solve a problem, the GM can raise the challenge tier of the attempt. For example, let's say the player characters are a group of former-soldiers-turned-adventurers, and they have stumbled across an abandoned [[forgehold]] filled with [[construct]]s that have gone violently haywire. They need to send a magical "disable" signal throughout the facility using the forgehold's main console, but none of the player characters has any clue how to operate it. Thus, using the console is set at a higher challenge tier, and the party must now solve the problem of "figure out how to use the console" before they can proceed. Perhaps a full user's manual can be found in the head artificer's office, but the party must overcome great danger to make it there. The GM can set up a new [[progress clock]] for the challenge of obtaining the user's manual, and once that's complete, the party can attempt to use the main console.
-<<<

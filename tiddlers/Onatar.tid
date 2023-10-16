@@ -1,7 +1,7 @@
 category: entity
 color: #8C4606
 created: 20200420211520229
-modified: 20220806215513357
+modified: 20231009194554514
 tags: [[Sovereign Host]] deity
 title: Onatar
 tooltip: Sovereign of craft, industry, and fire
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 ''Symbol ([[Wyrm Ascendant|Church of the Wyrm Ascendant]]):'' A [[brass dragon]]<br/>
 ''Holidays:'' <$list filter="[tag[holiday]tag{!!title}sort[]butlast[]]">{{!!article}}<$link/>, </$list><$list filter="[tag[holiday]tag{!!title}sort[]last[]]">{{!!article}}<$link/></$list>
 
-<$vars octagram={{{ [[$:/plugins/wccbuck/octagram.svg]get[text]search-replace[#0022aa],[#ff8000]search-replace[#ffd700],[#990000]]}}}>
+<$vars octagram={{{ [[$:/eberron-tw/octagram.svg]get[text]search-replace[#0022aa],[#ff8000]search-replace[#ffd700],[#990000]]}}}>
 <div style="float: left; width: 85px; margin-right: 10px;"><<octagram>></div>
 </$vars>
 

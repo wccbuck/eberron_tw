@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20201227030757852
-modified: 20220220202406538
+modified: 20231009201541196
 tags: destruction accessory jewelry head
 tier: 2
 title: circlet of blasting
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 While wearing this circlet, you can cast the [[scorching ray]] spell with it once per day.
 
-<<<
-!!! scorching ray
-{{||scorching ray}}
-<<<
+<<spellpreview "scorching ray">>

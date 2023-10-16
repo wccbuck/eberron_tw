@@ -2,7 +2,7 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20220216191100428
-modified: 20220708182818132
+modified: 20231009205214060
 tags: jewelry accessory communication
 tier: 3
 title: charm of plant command
@@ -12,9 +12,6 @@ This fist-sized charm is made from a bundle of dried plant stems wrapped in silv
 
 This charm has 3 charges. While you bear the charm, you can expend 1 charge to cast the [[speak with plants]] spell. For the duration of the spell, you also have [[advantage]] on attempts made to influence the behavior, demeanor, and attitude of plants and [[plant creature]]s. The charm regains all expended charges at dawn each day.
 
-<<<
-!!! speak with plants
-{{||speak with plants}}
-<<<
+<<spellpreview "speak with plants">>
 
 <<itemcharges 3>>

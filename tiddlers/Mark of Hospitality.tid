@@ -1,13 +1,13 @@
 category: phenomenon
 color: #432874
 created: 20200415041610596
-modified: 20230606185728827
+modified: 20231009194554506
 tags: dragonmark
 title: Mark of Hospitality
 tooltip: halfling dragonmark, House Ghallanda, allows wielder to magically prepare food and put people at ease
 type: text/vnd.tiddlywiki
 
-<div style="float: left; width: 100px;">{{$:/plugins/wccbuck/hospitality.svg}}</div> They may not always have gold, but a [[halfling]] with the
+<div style="float: left; width: 100px;">{{$:/eberron-tw/hospitality.svg}}</div> They may not always have gold, but a [[halfling]] with the
 Mark of Hospitality is sure to be rich in friends. The
 magic of the mark allows the bearer to keep a place
 clean, and to heat, chill, and season food. But it also

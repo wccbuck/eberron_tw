@@ -1,0 +1,7 @@
+created: 20200213225558220
+modified: 20231009193559164
+tags: $:/tags/Macro
+title: $:/eberron-tw/macros/dr
+type: text/vnd.tiddlywiki
+
+\define dr(dicestring) <$wikify name=ds text="""<$list filter="[[$dicestring$]prefix[+]] [[$dicestring$]prefix[-]]" emptyMessage="$dicestring$">d20$dicestring$</$list>"""><$vars mult={{{[<ds>split[d]nth[1]max[1]]}}}, side={{{[<ds>split[-]trim[]join[+-]split[d]nth[2]split[+]nth[1]]}}} add={{{[<ds>split[-]trim[]join[+-]split[+]nth[2]]}}}><$fieldmangler tiddler="$:/alerts/Dice"><$set name="currentTiddler" value="$:/alerts/Dice"><$button class="tc-btn-invisible dice-roller"><$action-chooserandom $filter="[range<side>]" $field=result $number=<<mult>> $opt="none" $replace="true"/><$action-setfield dicestring=<<ds>>/><$action-setfield add=<<add>>/><$vars max={{{[<mult>multiply<side>add<add>]}}}, average={{{[<side>add[1]divide[2]multiply<mult>add<add>]}}}><$action-setfield max=<<max>>/><$action-setfield average=<<average>>/></$vars><$action-sendmessage $message="tm-add-tag" $param="$:/tags/Alert"/>$dicestring$</$button></$set></$fieldmangler></$vars></$wikify>

@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20230829181408234
-modified: 20230830020838526
+modified: 20231009205327660
 tags: hindrance destruction accessory head [[rune magic]]
 tier: 3
 title: crown of the wrath bringer
@@ -13,7 +13,4 @@ Any time you perform an action which causes [[harm]] against another creature wh
 
 In addition, once per day, if you are able to invoke [[runes|rune magic]], you can invoke the crown's rune to cast the [[fear]] spell with it. 
 
-<<<
-!!! fear
-{{||fear}}
-<<<
+<<spellpreview "fear">>

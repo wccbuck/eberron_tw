@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210802005840339
-modified: 20230317035015285
+modified: 20231013214400857
 tags: Storyloom
 title: Character Creation
 tooltip: documentation page for the process of creating a Storyloom character
@@ -13,8 +13,9 @@ Alternatively, you can just use pencil and paper for everything!
 !! Character Creation Steps
 
 * Name your character.
-* Fill out at least three of your five [[aspect]]s, including your Description. If you're looking for some inspiration for unique [[Eberron]]-specific aspects, see [[character secret]].
+* Fill out at least three of your five [[aspect]]s, including your Description. If you're looking for some inspiration for unique [[Eberron]]-specific aspects, see [[character secret]]. If you can't think of anything for all five, that's okay; you can fill those out as you play and get to know your character.
 * For each pair of opposite [[approach]]es, choose one that best suits how your character solves problems, and write "1" in the box for that approach. Ask yourself: does my character prefer using Force or Savvy? Flair or Guile? Speed or Caution? Your choices will determine your bonuses when [[making attempts|Taking Action]].
+** Alternate rule: If the GM approves, you may instead assign //two// points to one approach of your choice, and one point to a second approach, leaving the other four at zero. This allows for greater differentiation among a party of player characters, but the GM should take note that this slightly raises the characters' power level, as they can start at +3 [[impact]] when they make attempts.
 * Choose [[talent]]s with costs that add up to 3 [[experience point]]s. If you take [[Spellcaster]] or something similar, add any [[spell]]s you gain access to. Also take note of any prerequisites the talents may require.
 * Choose two [[language]]s your character knows (typically [[Common]] and one other).
 * Add any items you want to start with (subject to GM approval). Examples: [[thieves' tools]], [[herbalism kit]], or [[explorer's pack]]. If you are equipped with [[armor]], click the <$button class=<<tv-config-toolbar-class>>>{{$:/images/add}}</$button> button under "special harm" to add your bonus [[harm]] box (see the [[armor]] page for more info).

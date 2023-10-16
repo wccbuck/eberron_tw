@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20221219234148458
-modified: 20221219234323876
+modified: 20231009204917037
 tags: protection potion
 tier: 1
 title: potion of aid
@@ -9,7 +9,4 @@ type: text/vnd.tiddlywiki
 
 When you drink this potion, you gain the benefits of the [[aid]] spell.
 
-<<<
-!!! aid
-{{||aid}}
-<<<
+<<spellpreview "aid">>
