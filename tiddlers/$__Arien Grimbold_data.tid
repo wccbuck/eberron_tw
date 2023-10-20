@@ -7,7 +7,7 @@ flaw: Terrified of [[fey]] magic and curses
 force: 1
 guile: 0
 ideal: I must discover the source of my power
-modified: 20230916224612856
+modified: 20231020022309376
 momentum: 0
 money: 1
 name: Arien Grimbold
@@ -15,8 +15,9 @@ num-sh: 1
 savvy: 0
 sp: 1
 speed: 0
-tags: sh1 s1 s2 h1 s3 s4 h2 h3 s5
+tags: sh1
 title: $:/Arien Grimbold/data
+trait: Innate understanding of hierarchy of evil
 type: text/vnd.tiddlywiki
 xp: 0
 
