@@ -1,7 +1,8 @@
 created: 20230103190007031
-modified: 20231009193810505
+modified: 20231021165221294
 tags: $:/tags/Macro
 title: $:/eberron-tw/macros/scrollToHeader
 type: text/vnd.tiddlywiki
 
-\define scrollToHeader(header) <$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;"><$action-scroll-to-header $header="""$header$"""/>$header$</$button>
+\define headerClickAction(header) <$action-scroll-to-header $header="""$header$"""/>
+\define scrollToHeader(header) <$wikify name="tooltip" text=<<navAndScrollToHeaderTooltip """$(currentTiddler)$""" """$header$""">>><$eventcatcher $click=<<headerClickAction """$header$""">>><a class="tc-tiddlylink-resolves tc-tiddlylink" style="cursor:pointer;" title=<<tooltip>>>$header$</a></$eventcatcher></$wikify>
