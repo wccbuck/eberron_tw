@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.24.02
-modified: 20231015191528878
+currentversion: 1.24.03
+modified: 20231023161441505
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,14 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.24.03 <span style="font-weight:normal">(Oct 23, 2023)</span>
+
+* Reduced the [[experience point]] cost of increasing an [[approach]] score by 1.
+* Improved the behavior of the "scroll to header" macro; now it'll appropriately line-break instead of staying as one solid button
+* Added the [[Iron Circle]], adapted from the antagonist group in the 4e adventure [[The Reavers of Harkenwold|https://www.dmsguild.com/product/121978/Dungeon-Masters-Kit-4e]]. Related pages:
+** [[Nazin Redthorn]], [[Kaltis]], [[Sturmik]]
+* Also added the fiend [[Bethageh]], a sort of fusion of ideas from older editions; mostly it's a reskinned Baalzebul. I wanted to make another "claw" of the speaker of Eldrantulku, and found inspiration in the Fiendish Codex and other old books.
 
 !!! 1.24.02 <span style="font-weight:normal">(Oct 15, 2023)</span>
 

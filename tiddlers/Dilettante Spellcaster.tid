@@ -1,13 +1,13 @@
 category: talent
 created: 20230217235552525
-modified: 20230218001914081
+modified: 20231021181031400
 tags: 
 title: Dilettante Spellcaster
-tooltip: talent which allows a player character to cast spells (6 common/uncommon, 2 rare, or 1 epic), but at a disadvantage
+tooltip: talent which allows a player character to cast spells (6 common/uncommon, or 2 rare), but at a disadvantage
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-This [[talent]] allows you to cast a number of [[spell]]s, as the talent [[Spellcaster 2]] (which costs 2 [[XP|experience point]]). Choose one of the following:
+This [[talent]] allows you to cast a number of [[spell]]s, similar to the benefits of the talent [[Spellcaster 2]] (which costs 2 [[XP|experience point]]). Choose one of the following:
 
 * Gain six [[common- or uncommon-tier|spell tier]] spells.
 * Gain two rare-tier spells.
