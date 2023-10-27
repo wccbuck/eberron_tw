@@ -1,0 +1,33 @@
+created: 20231025151801423
+modified: 20231025155923898
+tags: $:/tags/Stylesheet
+title: $:/plugins/Gk0Wk/sidebar-resizer/style.css
+type: text/vnd.tiddlywiki
+
+<$reveal state="$:/state/sidebar" type="match" text="no">
+.tc-sidebar-scrollable {
+	display: none;
+}
+</$reveal>
+
+<$reveal default="yes" type="match" text={{{[{$:/_sq/Stories/Story2StoryList!!list}length[]match[0]then[no]] ~[{$:/config/_sq/Stories/story2}]}}}>
+@media (min-width: {{$:/_sq/Stories/config/twostorybreakpoint}}) {
+    div#gk0wk-sidebar-resize-area {
+    	right: calc({{$:/themes/tiddlywiki/vanilla/metrics/sidebarwidth}} - 20px) !important;
+    }
+}
+</$reveal>
+
+div#gk0wk-sidebar-resize-area {
+	height: 100vh;
+	width: 5px;
+	position: fixed;
+	top: 0;
+	right: calc({{$:/themes/tiddlywiki/vanilla/metrics/sidebarwidth}} - 5px);
+	cursor: ew-resize;
+	transition: all {{$:/config/AnimationDuration}}ms;
+}
+
+div#gk0wk-sidebar-resize-area:hover {
+	background: <<colour primary>>;
+}

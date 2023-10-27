@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210110045541054
-modified: 20220806210842655
+modified: 20231025170427803
 tags: dragon
 tier: 4
 title: blue dragon
@@ -17,5 +17,13 @@ These dragons can be found in deserts, dry steppes, searing badlands, and rocky 
 !! Magic and Breath Weapon
 
 The blue dragon's breath weapon is a powerful bolt of lightning. As innate spellcasters, adult blue dragons can cast spells such as [[wall of force]], [[wall of sand]], [[hold]], and [[dimension door]].
+
+A blue dragon's magic can also manifest in other ways. For example, in its lair, a blue dragon might generate bolts of electricity between any two surfaces it can see, or create clouds of whipping sand within 120 feet which the dragon can mentally control.
+
+!!! Regional Effects
+
+Old and powerful [[dragon]]s of all colors exert a magical influence over the land surrounding their lairs, spontaneously creating anomalies as far as 6 miles away. The dragon cannot control or suppress this effect; it is an arcanobiological phenomenon tied to the color of the dragon, and only gets more powerful with age.
+
+Regional effects of blue dragons include the creation of raging thunderstorms, dust devils (semi-sapient creatures similar to [[air elemental]]s), and treacherous sinkholes. In [[Argonnessen]], dragon [[artificer]]s have created //storm spikes//, which are columns that catch lightning and store it as arcane energy; these can be found anywhere powerful blue dragons dwell.
 
 {{$:/DragonAgeCategories}}

@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210110062705533
-modified: 20220806210552893
+modified: 20231025180502760
 tags: dragon
 tier: 4
 title: silver dragon
@@ -23,5 +23,13 @@ friendships.
 !! Magic and Breath Weapon
 
 The silver dragon can exhale an icy blast, or a cloud of paralyzing gas. As innate spellcasters, adult silver dragons can cast spells such as [[creation]], [[fog cloud]], [[ice storm]], [[empowerment]], and [[private sanctum]].
+
+A silver dragon's magic can also manifest in other ways. For example, a silver dragon can create powerful gusts of freezing wind, and can instantaneously extinguish even magical flames within 120 feet. If given a few days to work, a silver dragon can also make clouds and fog as solid as stone, forming structures and other objects.
+
+!!! Regional Effects
+
+Old and powerful [[dragon]]s of all colors exert a magical influence over the land surrounding their lairs, spontaneously creating anomalies as far as 6 miles away. The dragon cannot control or suppress this effect; it is an arcanobiological phenomenon tied to the color of the dragon, and only gets more powerful with age.
+
+Regional effects of silver dragons include unusual weather (as a randomized [[control weather]] spell), and the creation of hovering clumps of solidified cloudstuff. In addition, creatures who fall within the vicinity of a powerful silver dragon's lair are always under the effect of the [[feather fall]] spell, unless the dragon consciously suppresses this effect for a specific creature.
 
 {{$:/DragonAgeCategories}}

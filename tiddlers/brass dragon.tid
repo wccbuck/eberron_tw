@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210110052344532
-modified: 20220806211224773
+modified: 20231025172735348
 tags: dragon
 tier: 4
 title: brass dragon
@@ -17,5 +17,13 @@ A brass dragon wyrmling's scales are a dull, mottled brown. As it ages, the drag
 !! Magic and Breath Weapon
 
 The brass dragon can breathe a line of fire, as well as a cloud of sleeping gas. As innate spellcasters, adult brass dragons can cast spells such as [[wall of sand]], [[charm]], [[sending]], and [[tongues]].
+
+A brass dragon's magic can also manifest in other ways. For example, a brass dragon can create powerful gusts of wind and clouds of swirling sand.
+
+!!! Regional Effects
+
+Old and powerful [[dragon]]s of all colors exert a magical influence over the land surrounding their lairs, spontaneously creating anomalies as far as 6 miles away. The dragon cannot control or suppress this effect; it is an arcanobiological phenomenon tied to the color of the dragon, and only gets more powerful with age.
+
+Regional effects of brass dragons include the creation of convincing [[illusory|illusion]] monstrosities and other vicious creatures which wander in the vicinity of a dragon's lair. In addition, whenever an intelligent creature comes within 30 feet of a water source within a mile or so of a powerful brass dragon's lair, the dragon immediately becomes aware the creature's presence and location.
 
 {{$:/DragonAgeCategories}}

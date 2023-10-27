@@ -1,11 +1,13 @@
 category: talent
 created: 20210726065133672
-modified: 20221125213212354
+modified: 20231027202349522
 tags: ranger
 title: Beast Companion
 type: text/vnd.tiddlywiki
 xpcost: 1
 
-You gain a loyal beast companion. Choose a [[beast]] with [[creature tier]] 1, such as a hawk, a mastiff, or a panther. The beast obeys your commands as best as it can. 
+You gain a loyal beast companion. Choose a [[beast]] with [[creature tier]] 1, such as a hawk, a mastiff, or a panther. The beast obeys your commands as best as it can.
 
 If the beast dies, you must take the time to bond with another beast, or swap this [[talent]] for a different one.
+
+As an optional rule, you can keep a [[progress clock]] representing the beast companion's ferocity; when you use your companion in combat and suffer a [[consequence]], advance this progress clock in addition to any other consequences. When the clock is filled, the creature has added [[impact]] when it attacks, but it may attack you or your allies in its feral confusion. Clear the progress clock after it harms you or an ally, or after the battle.
