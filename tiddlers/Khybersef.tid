@@ -2,7 +2,7 @@ category: event
 color: #A3CFBB
 created: 20210924212923465
 day: 21
-modified: 20211107003357625
+modified: 20231101231000780
 month: 12
 tags: [[Silver Flame]] holiday
 title: Khybersef
@@ -10,8 +10,6 @@ type: text/vnd.tiddlywiki
 
 ''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
-On the longest night of the
-year, when light and goodness seem to be at their
-weakest, the Purified of the [[Silver Flame]] believe that the bonds holding the fiendish [[overlord]]s in [[Khyber]] are also at their
+On the longest night of the year, when light and goodness seem to be at their weakest, the faithful of the [[Silver Flame]] believe that the bonds holding the fiendish [[overlord]]s in [[Khyber]] are also at their
 weakest and that the world is in its greatest danger.
 Many quests and crusades are launched on Khybersef (a shortened, dialectical form of “Khyber’s Eve”).
