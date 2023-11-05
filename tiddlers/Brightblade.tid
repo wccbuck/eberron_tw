@@ -2,15 +2,16 @@ category: event
 color: #A3CFBB
 created: 20200410025143584
 day: 12
-modified: 20211107002930976
+modified: 20231101231101916
 month: 6
 tags: [[Sovereign Host]] holiday [[Dol Dorn]]
 title: Brightblade
+tooltip: holy day of Dol Dorn, a festival of competition and physical prowess
 type: text/vnd.tiddlywiki
 
 ''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
 Brightblade, the holy day of [[Dol Dorn]], the [[Sovereign|Sovereign Host]] Lord of Strength
-and Steel, sees festivals occur in all of the temple districts of the city of [[Sharn]]. Prizefights, wrestling matches, archery contests, and jousts occur throughout the day, culminating in a contest of champions at the [[Cornerstone]] arena in [[Middle Tavick's Landing]]. The champions receive generous prizes, and a fortune can be made gambling on the contests.
+and Steel, sees festivals occur in all of the temple districts of the major cities of the [[Five Nations]]. Prizefights, wrestling matches, archery contests, and jousts occur throughout the day, culminating in a contest of champions. In [[Sharn]], this ultimate contest is held at the [[Cornerstone]] [[arena|Cornerstone (arena)]] in [[Middle Tavick's Landing]]. The champions receive generous prizes, and a fortune can be made gambling on the contests.
 
 Occasionally, even more fantastic conflicts have been staged on Brightblade—full-scale battles held on the training grounds of [[Daggerwatch]], free-for-all melees with hundreds of contestants, and similar spectacles.

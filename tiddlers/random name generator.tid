@@ -39,7 +39,7 @@ Use this tool to generate names for characters in the world of Eberron. Select a
 <option value="Tashana">Tashana Tundra</option>
 <option value="Drow">Shedani (Xen'drik drow)</option>
 </optgroup>
-</$select><div style="flex-grow:1;"></div><$button>
+</$select><div style="flex-grow:1;margin-right:3px;"></div><$button>
 <$action-generate-name $origin={{!!nameorigin}} $field="var1"/>
 <$action-generate-name $origin={{!!nameorigin}} $field="var2"/>
 <$action-generate-name $origin={{!!nameorigin}} $field="var3"/>

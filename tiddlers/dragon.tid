@@ -1,20 +1,28 @@
 category: creature
 color: #58151c
 created: 20200419053402840
-modified: 20230605183548159
+modified: 20231025172815819
 title: dragon
 tooltip: legendary winged serpentine creature with innate magical power
 type: text/vnd.tiddlywiki
 var: Sliorithal
 
-Dragons are winged reptiles of ancient lineage and fearsome power. Their size alone strikes awe into the hearts of most who witness them; adult dragons have wingspans of about 40 feet, while the wingspans of the most ancient dragons can be as much as 60 feet. The dragons of [[Eberron]] are much more than mere
-monsters; adventurers will rarely barge into a dragon's
-lair in search of its treasure horde. Dragons in the world
-are either aloof and unapproachable, or they are curious
-and manipulative, pulling strings behind the scenes or
-trying to influence the world in arcane ways.
+Dragons are winged reptiles of ancient lineage and fearsome power. Their size alone strikes awe into the hearts of most who witness them; adult dragons have wingspans of about 40 feet, while the wingspans of the most ancient dragons can be as much as 60 feet. The dragons of [[Eberron]] are much more than mere monsters; adventurers will rarely barge into a dragon's lair in search of its treasure horde. Dragons in the world are either aloof and unapproachable, or they are curious and manipulative, pulling strings behind the scenes or trying to influence the world in arcane ways.
 
-In addition to deadly tooth and claw and tail, dragons wield the ability to exhale jets of raw elemental energy. These breath weapons are fearsome, but take up to a minute to recharge after use. See the <<scrollToHeader "Colors and Breath Weapons">> section below for more information. Dragons also possess [[darkvision]] as well as short-range [[blindsight]], and many can innately cast [[arcane|arcane magic]] spells.
+In addition to deadly tooth and claw and tail, dragons wield the ability to exhale jets of raw elemental energy. See the <<scrollToHeader "Colors and Breath Weapons">> section below for more information. Dragons also possess [[darkvision]] as well as short-range [[blindsight]]. But above all, dragons are innately creatures of [[arcane magic]]; the casting of spells comes as easily to them as speaking, and particularly powerful dragons are so brimming with arcane energy that they spontaneously create magical anomalies for miles surrounding their lairs (as described in the <<scrollToHeader "Regional Effects">> section below).
+
+!! Links to Headers
+* <<scrollToHeader "Dragons in Eberron">>
+* <<scrollToHeader "Dragon Names">>
+* <<scrollToHeader "Colors and Breath Weapons">>
+* <<scrollToHeader "Dragon Age Categories">>
+** <<scrollToHeader "Regional Effects">>
+* <<scrollToHeader "Origin of the Dragons">>
+* <<scrollToHeader "Psionics and Dragons">>
+* <<scrollToHeader "Draconic Creatures">>
+* <<scrollToHeader "Notes">>
+
+!! Dragons in Eberron
 
 Most dragons live on the mystery-shrouded continent
 of [[Argonnessen]] and avoid contact with those they see as
@@ -23,22 +31,9 @@ than a clear-cut prediction. Its paths are revealed in the
 motion of [[plane]]s and moons, in the actions of the [[dragonmarked house]]s, and in dozens of other more subtle
 manifestations. These dragons are bound by the decisions of the mysterious [[Conclave]]. Most dragons that are active in [[Khorvaire]] are part of a cabal known as the [[Chamber]].
 
-A dragon in [[Khorvaire]] that isn't part of the Chamber is considered a [[rogue dragon]]. They could be an exile driven from [[Argonnessen]] for some
-crime, or a scholar pursuing independent research. Some orphaned dragons grow up in Khorvaire without contact with Argonnessen, and some dragons have
-been twisted by the [[daelkyr]] or corrupted by [[fiend]]s; any
-of these could be an antagonist if the adventure you're
-crafting calls for a cruel dragon.
+A dragon in [[Khorvaire]] that isn't part of the Chamber is considered a [[rogue dragon]]. They could be an exile driven from [[Argonnessen]] for some crime, or a scholar pursuing independent research. Some orphaned dragons grow up in Khorvaire without contact with Argonnessen, and some dragons have been twisted by the [[daelkyr]] or corrupted by [[fiend]]s; any of these could be an antagonist if the adventure you're crafting calls for a cruel dragon.
 
 The dragons of Eberron aren't restricted in alignment—good [[red dragon]]s and evil [[gold dragon]]s are equally common. Most dragons tend toward neutrality. Even those with good alignments often don't consider the impact of their actions on lesser beings; if a [[Chamber]] dragon must destroy a [[human]] village to foil the plans of a [[demon]], it will do so without hesitation. 
-
-!! Links to Headers
-* <<scrollToHeader "Dragon Names">>
-* <<scrollToHeader "Colors and Breath Weapons">>
-* <<scrollToHeader "Dragon Age Categories">>
-* <<scrollToHeader "Origin of the Dragons">>
-* <<scrollToHeader "Psionics and Dragons">>
-* <<scrollToHeader "Draconic Creatures">>
-* <<scrollToHeader "Notes">>
 
 !! Dragon Names
 
@@ -55,7 +50,9 @@ Generate Random Dragon Name
 
 !! Colors and Breath Weapons
 
-Dragons are magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities. The [[type|damage type]] of a dragon's breath weapon can be determined by the color of the dragon's scales; see the below tables. The dragon is also resistant or immune to that type of damage. Note that metallic dragons have two different kinds of magic breath they can use; one destructive, and one more subtle or utilitarian. Chromatic dragons only have destructive breath weapons, but it is typically more powerful than those of comparable metallic dragons.
+Dragons are magical creatures whose innate power fuels their dreaded breath weapons and other preternatural abilities. These breath weapons are fearsome, but take up to a minute to recharge after use. 
+
+The [[type|damage type]] of a dragon's breath weapon can be determined by the color of the dragon's scales; see the below tables. The dragon is also resistant or immune to that type of damage. Note that metallic dragons have two different kinds of magic breath they can use; one destructive, and one more subtle or utilitarian. Chromatic dragons only have a destructive breath weapon, but it is typically more powerful than that of comparable metallic dragons.
 
 | !Chromatic |<|!<<dr d10>>| !Metallic |<|
 |!Color |!Breath |!|!Color |!Breath |
@@ -69,33 +66,18 @@ Dragons are magical creatures whose innate power fuels their dreaded breath weap
 
 Generally, dragons can expect to live to 1,200 years in good health, and many live a great deal longer. Very rarely, the most ancient of dragons can achieve a form of apotheosis, transforming into [[greatwyrm]]s. 
 
+!!! Regional Effects
+
+The innate magic of an old and powerful dragon can warp the region surrounding its lair, creating magical anomalies as far as six miles away. These effects are automatic, and the dragon cannot easily suppress them. Regional effects tend to be more hostile for chromatic dragons ([[black|black dragon]], [[blue|blue dragon]], [[green|green dragon]], [[red|red dragon]], and [[white|white dragon]]); for example, the presence of a mighty [[black dragon]] fouls nearby water sources, while a [[blue dragon]] generates fierce thunderstorms wherever it settles. By contrast, metallic dragons ([[brass|brass dragon]], [[bronze|bronze dragon]], [[copper|copper dragon]], [[gold|gold dragon]], and [[silver|silver dragon]]) generate effects that are seen as more benign or even pleasant. This fact has led some, including the controversial [[loredrake]] [[Ourenilach]], to advance the idea that chromatic dragons are touched by [[Khyber]], while metallic dragons are more aligned with [[Siberys]]. This fact is also a reason the [[Chamber]] uses younger dragons as its undercover operatives.
+
 !! Origin of the Dragons
 
-According to the draconic faith known as [[Thir]], the birth of the first dragons predates even the rising of the [[overlord]]s. In the wake of the battle of the [[Progenitors|Progenitor Dragons]], life emerged
-on the new world. [[Siberys]] had fallen in battle, but power
-remained within his blood. Filled with the purest essence
-of magic, that blood fell on [[Eberron]], merging life and
-magic to produce new creatures with the strength of both
-Progenitors. Where the blood of Siberys struck
-the clouds, [[silver dragon]]s were born. It fell on the cold
-peaks, and [[white dragon]]s rose from the ice. It struck
-the swamps, and [[black dragon]]s emerged from the dark
-depths. And so all the dragons were born, mighty and
-proud, possessing the mystical power of Siberys and the
-vibrant life force of Eberron.
+According to the draconic faith known as [[Thir]], the birth of the first dragons predates even the rising of the [[overlord]]s. In the wake of the battle of the [[Progenitors|Progenitor Dragons]], life emerged on the new world. [[Siberys]] had fallen in battle, but power
+remained within his blood. Filled with the purest essence of magic, that blood fell on [[Eberron]], merging life and magic to produce new creatures with the strength of both Progenitors. Where the blood of Siberys struck the clouds, [[silver dragon]]s were born. It fell on the cold peaks, and [[white dragon]]s rose from the ice. It struck the swamps, and [[black dragon]]s emerged from the dark depths. And so all the dragons were born, mighty and proud, possessing the mystical power of Siberys and the vibrant life force of Eberron.
 
-Few of the creatures of the modern age existed at
-the dawn of time. The [[titan|giant]]s of [[Xen'drik]] were in their
-infancy, possessed of power but lacking knowledge. The
-lesser races had not been born; the dark creatures had
-not been spawned. So it was that wild flights of dragons
-soared above the world, reveling in their might.
+Few of the creatures of the modern age existed at the dawn of time. The [[titan|giant]]s of [[Xen'drik]] were in their infancy, possessed of power but lacking knowledge. The lesser races had not been born; the dark creatures had not been spawned. So it was that wild flights of dragons soared above the world, reveling in their might.
 
-For untold millennia, the dragons were the sole lords of
-Eberron. Then a new threat emerged. [[Khyber]] was bound
-in the depths of Eberron, but this did not eliminate the
-dark dragon’s power. In time, a host of horrors spawned
-in the depths. The mighty [[overlord]]s, served by [[rakshasa]]s, [[aboleth]]s, and other terrors, emerged to lay claim to the world above. The [[Age of Demons]] had begun.
+For untold millennia, the dragons were the sole lords of Eberron. Then a new threat emerged. [[Khyber]] was bound in the depths of Eberron, but this did not eliminate the dark dragon’s power. In time, a host of horrors spawned in the depths. The mighty [[overlord]]s, served by [[rakshasa]]s, [[aboleth]]s, and other terrors, emerged to lay claim to the world above. The [[Age of Demons]] had begun.
 
 !! Psionics and Dragons
 

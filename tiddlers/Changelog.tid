@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.24.03
-modified: 20231023161441505
+currentversion: 1.24.04
+modified: 20231104233344419
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,22 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.24.04 <span style="font-weight:normal">(Nov 04, 2023)</span>
+
+* Made improvements to Gk0Wk's sidebar resizer; now it doesn't scroll with the sidebar, and reorients itself properly when switching between 1 column and 2 columns
+* Removed newline at the beginning of hover tooltip text that used to show up in some browsers
+* Added some content about [[dragon]]s:
+** Regional effects from the 5e Monster Manual
+** More detail on each of the [[Sovereign archetype]]s
+** Example cultures of the [[Thousand]], as well as types of nondragons who dwell there
+** Random table of [[humanoid]] cultures in the [[Vast]]
+** New pages: [[Hazcoranar the Gravedigger]], [[Golan Thunder]], [[Mazalaryn]], [[Rime]], the [[Marhu'kor]], [[bolatash]]
+* Added [[Joliana ir'Wynarn]], and added to [[Marala ir'Wynarn]]
+* Added the [[Hanging Gardens]] from the novel [[Night of Long Shadows|https://www.amazon.com/Night-Long-Shadows-Inquisitives-Eberron/dp/0786942703]]
+* Added the [[Masque]] holiday based on cut content from S:CoT
+* Added some variation to [[bugbear]] and [[lizardfolk]] size in their descriptions
+* Added a few minor details to [[basilisk]], [[gibbering mouther]], [[hill giant]], [[otyugh]], and the talent [[Beast Companion]]
 
 !!! 1.24.03 <span style="font-weight:normal">(Oct 23, 2023)</span>
 

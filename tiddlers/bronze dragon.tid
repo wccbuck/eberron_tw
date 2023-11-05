@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210110052758320
-modified: 20220806211323295
+modified: 20231025173334751
 tags: dragon
 tier: 4
 title: bronze dragon
@@ -15,5 +15,13 @@ A bronze wyrmling's scales are yellow tinged with green; only as the dragon appr
 !! Magic and Breath Weapon
 
 The bronze dragon can exhale lightning bolts, as well as a wave of repulsion that knocks creatures back. As innate spellcasters, adult bronze dragons can cast spells such as [[watery sphere]], [[storm sphere]], [[tidal wave]], [[control winds]], and [[fog cloud]].
+
+A bronze dragon's magic can also manifest in other ways. For example, a bronze dragon can cause thunderclaps to originate at any point it can see within 120 feet.
+
+!!! Regional Effects
+
+Old and powerful [[dragon]]s of all colors exert a magical influence over the land surrounding their lairs, spontaneously creating anomalies as far as 6 miles away. The dragon cannot control or suppress this effect; it is an arcanobiological phenomenon tied to the color of the dragon, and only gets more powerful with age.
+
+Regional effects of bronze dragons include unusual weather (as a randomized [[control weather]] spell), dazzlingly brilliant colors in underwater plants, and [[illusory|illusion]] sounds (such as soft music and strange echoes).
 
 {{$:/DragonAgeCategories}}

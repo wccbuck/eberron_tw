@@ -1,1 +1,15 @@
-{"created": "20210317202141939", "title": "Harvest of Pain", "text": "This blasted wasteland is\nlittered with immense bones and the stench of rotting\nflesh. Here an army of [[dragon]]s faced the forces of\n[[Katashka]] the Gatekeeper, an [[overlord]] and mighty\n[[necromancer|necromancy]]. Katashka trapped the souls of his foes,\nbinding them to the land in a gruesome parody of the\nrite of the draconic guardian. The entire region is\nconsidered to be coterminous with both [[Dolurrh]] and\n[[Shavarath]], and is suffused with unhallow energy.\nDragon [[ghost]]s prowl the region, driven mad by their\ntorment; these spirits attack anything unfortunate\nenough to cross their paths.", "modified": "20210727192012742", "tags": "[[manifest zone]] Argonnessen desert", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "list-before": "Adder River", "polygons": "-26.529,82.73 -25.92,82.63 -25.237,83.22 -24.378,84.67 -23.815,86.0 -23.538,87.15 -23.04,88.0 -22.597,89.27 -22.763,90.57 -23.188,91.72 -24.212,93.02 -24.905,93.76 -25.449,93.7 -26.169,93.28 -26.788,92.48 -27.102,91.49 -26.945,90.59 -26.649,89.38 -26.742,88.86 -27.203,88.18 -27.692,87.28 -27.942,86.38 -28.025,85.32 -27.591,84.14 -27.065,83.5", "style": "{\"color\":\"#C57200\",\"fillColor\":\"#eedb74\",\"fillOpacity\":\"0.5\"}"}
+[
+    {
+        "created": "20210317202141939",
+        "title": "Harvest of Pain",
+        "text": "This blasted wasteland is\nlittered with immense bones and the stench of rotting\nflesh. Here an army of [[dragon]]s faced the forces of\n[[Katashka]] the Gatekeeper, an [[overlord]] and mighty\n[[necromancer|necromancy]]. Katashka trapped the souls of his foes,\nbinding them to the land in a gruesome parody of the\nrite of the draconic guardian. The entire region is\nconsidered to be coterminous with both [[Dolurrh]] and\n[[Shavarath]], and is suffused with unhallow energy.\nDragon [[ghost]]s prowl the region, driven mad by their\ntorment; these spirits attack anything unfortunate\nenough to cross their paths.",
+        "modified": "20231025184813946",
+        "tags": "[[manifest zone]] Argonnessen desert",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polygons": "-26.529,82.73 -25.92,82.63 -25.237,83.22 -24.378,84.67 -23.815,86.0 -23.538,87.15 -23.04,88.0 -22.597,89.27 -22.763,90.57 -23.188,91.72 -24.212,93.02 -24.905,93.76 -25.449,93.7 -26.169,93.28 -26.788,92.48 -27.102,91.49 -26.945,90.59 -26.649,89.38 -26.742,88.86 -27.203,88.18 -27.692,87.28 -27.942,86.38 -28.025,85.32 -27.591,84.14 -27.065,83.5",
+        "style": "{\"color\":\"#C57200\",\"fillColor\":\"#eedb74\",\"fillOpacity\":\"0.5\"}"
+    }
+]

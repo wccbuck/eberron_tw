@@ -1,0 +1,16 @@
+[
+    {
+        "created": "20231101225901313",
+        "text": "''Date: '' <$link to=\"Khorvaire calendar\">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable=\"noop\">-{{!!day2}}</$list> <$transclude tiddler=\"$:/MonthNames\" index={{!!month}}/></$link>\n\nAlone among the gods of the [[Sovereigns|Sovereign Host]] and [[Six|Dark Six]], the [[Traveler]] is said to walk the earth. Their schemes are cunning and often cruel, yet at times they help those in need; the only thing that is predictable about the Traveler is that they are never predictable. \n\n[[Lharvion 7th|Khorvaire calendar]] is the holy day of this mysterious deity. There are no services for the [[Traveler]], but it is traditional for children to play tricks on their elders on this day. In addition, it is customary to show special hospitality to all strangers and travelers, and thus avoid the wrath of the [[Traveler]].\n\nThe Masque is an excellent time to incorporate deception of all sorts into an adventure. Player characters might have to deal with devious children—pickpockets, con artists, false ransom schemes, or even stranger trickery. The Masque is also an appropriate day for a mysterious stranger to arrive with dire news, or a gift that is not what it seems. In addition, the [[Traveler]] is the patron of the [[Children of Jes]] and other communities [[changeling]]s; perhaps the [[Cabinet of Faces]] or the [[Tyrants]] of [[Sharn]] choose this day to perform their most uncanny schemes.",
+        "title": "Masque",
+        "modified": "20231101230928290",
+        "tags": "[[Sovereign Host]] holiday Traveler",
+        "type": "text/vnd.tiddlywiki",
+        "category": "event",
+        "color": "#A3CFBB",
+        "day": "7",
+        "month": "7",
+        "article": "the ",
+        "tooltip": "holy day of the Traveler"
+    }
+]

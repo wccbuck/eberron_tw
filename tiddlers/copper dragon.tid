@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210110055029686
-modified: 20220806211351400
+modified: 20231025173820824
 tags: dragon
 tier: 4
 title: copper dragon
@@ -17,5 +17,13 @@ At birth, a copper dragon's scales are a ruddy brown with a metallic tint. As th
 !! Magic and Breath Weapon
 
 The copper dragon can exhale an acidic spray, as well as a cloud of gas that slows other creatures, forcing them to move as if in slow-motion for up to a minute. As innate spellcasters, adult copper dragons can cast spells such as [[polymorph]], [[invisibility]], [[stinking cloud]], [[greater illusion]], and [[charm]].
+
+A copper dragon's magic can also manifest in other ways. For example, a copper dragon can create stone spikes to emerge from the ground within 120 feet, or transform a patch of solid ground within 120 feet into 3-foot-thick mud.
+
+!!! Regional Effects
+
+Old and powerful [[dragon]]s of all colors exert a magical influence over the land surrounding their lairs, spontaneously creating anomalies as far as 6 miles away. The dragon cannot control or suppress this effect; it is an arcanobiological phenomenon tied to the color of the dragon, and only gets more powerful with age.
+
+Regional effects of copper dragons include magic carvings of the dragon's smiling visage, worked into stone terrain and objects near the dragon's lair. In addition, tiny beasts such as rodents and birds gain the ability to speak [[Draconic]]; they speak well of the dragon, but can't divulge its whereabouts. Finally, intelligent creatures become prone to fits of giggling; even serious matters suddenly seem amusing.
 
 {{$:/DragonAgeCategories}}
