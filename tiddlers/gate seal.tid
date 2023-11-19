@@ -1,0 +1,19 @@
+category: spell
+color: #B7A1E0
+created: 20231115201055253
+highertier: show
+modified: 20231115201342961
+tags: abjuration
+tier: 3
+title: gate seal
+type: text/vnd.tiddlywiki
+
+You fortify the fabric of the [[plane]]s in a 30-foot cube you can see within 60 feet. Within that area, portals to other [[planar realm]]s close and can't be opened for 24 hours. Spells and other effects that allow planar travel or open portals, such as [[gate]] or [[plane shift]], fail if used to enter or leave the area. The cube is stationary.
+
+<$reveal type="match" state="!!highertier" text="show">
+
+!! Epic-Tier
+
+When you cast //{{!!title}}// as an epic-[[tier|spell tier]] spell, it persists until dispelled.
+
+</$reveal>

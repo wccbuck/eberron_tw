@@ -1,11 +1,12 @@
+category: object
 color: #1E868E
 created: 20220216231232610
-modified: 20220805195833613
-tags: 
+modified: 20231119050932479
+tags: [[magical implement]]
 title: crystal
 tooltip: tag for crystalline magical implements
 type: text/vnd.tiddlywiki
 
-See [[magical implement]].
+A crystal is a type of [[magical implement]].
 
 !!! <<showitem-type>>

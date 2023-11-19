@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20231118192832627
+modified: 20231118193251967
+tags: enchantment
+tier: 3
+title: antagonize
+type: text/vnd.tiddlywiki
+
+You whisper magical words that antagonize one creature of your choice within 30 feet. If the target creature cannot resist your enchantment, they suffer [[psychic damage|damage type]] and must immediately attempt to physically attack against another creature of your choice that you can see. If the target can't make this attack (for example, because there is no one within its reach), the target instead remains agitated for the next 10 seconds, and suffers [[disadvantage]] on the next attempt they make in that time frame.

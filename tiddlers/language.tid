@@ -1,7 +1,7 @@
 category: culture
 color: #0F5132
 created: 20210408165007631
-modified: 20230510202140334
+modified: 20231115052216085
 tags: 
 title: language
 tooltip: lists of the mortal and immortal languages spoken on Eberron
@@ -13,11 +13,11 @@ These languages developed naturally on Eberron from mortal cultures. Many of the
 
 !!! Major Languages
 
-<<list-links-article "[tag{!!title}category[culture]!tag[immortal]var[major]sort[title]]">>
+<<list-links-article "[tag{!!title}category[culture]!tag[immortal]!tag[sign language]var[major]sort[title]]">>
 
 !!! Minor Languages
 
-<<list-links-article "[tag{!!title}category[culture]!tag[immortal]!var[major]!tag[extinct]sort[title]]">>
+<<list-links-article "[tag{!!title}category[culture]!tag[immortal]!tag[sign language]!var[major]!tag[extinct]sort[title]]">>
 
 !!! Extinct Languages
 
@@ -28,6 +28,12 @@ These languages developed naturally on Eberron from mortal cultures. Many of the
 The languages of [[immortal]]s are part of the fundamental structure of reality. As such, most words of power, including magic [[spell]]s that require a verbal component, are taken from these languages. These languages existed at the dawn of time and do not change (with the exception of [[Deep Speech]], which is constantly changing).
 
 <<list-links-article "[tag{!!title}category[culture]tag[immortal]sort[title]]">>
+
+!! Sign Languages
+
+The following [[sign language]]s are visual-gestural systems of communication used in [[Khorvaire]] and beyond.
+
+<<list-links-article "[tag{!!title}category[culture]tag[sign language]sort[title]]">>
 
 !! Languages in the Storyloom System
 

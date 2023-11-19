@@ -1,12 +1,12 @@
 color: #092F1E
 created: 20210224064034914
 list: geography desert swamp forest island mountains river lake lava
-modified: 20220805191741666
+modified: 20231115195205674
 tags: [[location type]]
 title: geography
 tooltip: group tag for locations categorized as "geography"
 type: text/vnd.tiddlywiki
 
-<$list filter="[list{!!title}sort[title]]">
-<$macrocall $name="tag" text={{!!title}}/>
+<$list filter="[list{!!title}sort[title]]" variable="tagTitle">
+<$macrocall $name="tag" text=<<tagTitle>>/>
 </$list>

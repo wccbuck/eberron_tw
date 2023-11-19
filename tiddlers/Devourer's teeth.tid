@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20221212183809161
-modified: 20221212184252655
+highertier: show
+modified: 20231118012544216
 tags: [[divine magic]] conjuration
 tier: 3
 title: Devourer's teeth
@@ -11,4 +12,8 @@ You channel the destructive power of the [[Devourer]]. A great wave of salt wate
 
 Along with the wave, you conjure the spirit of a great shark. Choose one creature that you successfully pushed as the shark spirit’s prey. That target suffers additional damage and is restrained by the shark spirit’s jaws for up to one minute.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 This spell can be upgraded to epic-[[tier|spell tier]] for an even more destructive effect.
+
+</$reveal>

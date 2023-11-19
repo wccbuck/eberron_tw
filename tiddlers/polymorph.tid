@@ -2,7 +2,7 @@ category: spell
 color: #B7A1E0
 created: 20201227182122282
 highertier: show
-modified: 20220824163336800
+modified: 20231115040936601
 tags: [[primal magic]] transmutation
 tier: 3
 title: polymorph
@@ -16,6 +16,8 @@ The transformation lasts for up to 1 hour, or until the target is incapacitated 
 The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech.
 
 The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
+
+If a polymorphed creature is incapacitated or killed, it immediately transforms back into its original form, and any excess harm dealt to it is carried over. This means if a creature is polymorphed into a fly, and then it is swatted, the creature will revert to its original form, and the excess [[harm]] from the swat (which is likely zero) would be applied to the restored creature.
 
 <$reveal type="match" state="!!highertier" text="show">
 

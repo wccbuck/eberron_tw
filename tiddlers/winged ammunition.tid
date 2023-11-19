@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20231119043118789
+modified: 20231119043604305
+tags: weapon projectile
+tier: 2
+title: winged ammunition
+type: text/vnd.tiddlywiki
+
+This ammunition (arrow, crossbow bolt, etc.) is etched with images of wings, and is favored by long-range hunters and snipers. When you shoot at a target using this ammunition, you do not suffer [[disadvantage]] or reduced [[impact]] when your target is hiding behind partial cover, or when your target is at the far end of your weapon's maximum range.

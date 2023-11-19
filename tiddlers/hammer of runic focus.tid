@@ -1,0 +1,15 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20231118185803499
+modified: 20231118185928299
+tags: invigoration weapon hammer
+tier: 4
+title: hammer of runic focus
+type: text/vnd.tiddlywiki
+
+This magic warhammer has 3 charges. You can expend 1 charge and slam this hammer on the ground, creating a 15-foot-radius circle of glowing runes centered on the point of impact. While you're inside that area, your hammer glows with matching runes, and you gain [[advantage]] and +2 [[impact]] on all attacks you make with this hammer. The rune circle disappears after 1 minute, when you create another rune circle, or when you dismiss the rune circle as a bonus action. 
+
+This hammer regains <<dr "1d3">> expended charges daily at dawn.
+
+<<itemcharges 3>>

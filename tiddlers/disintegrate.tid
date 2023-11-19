@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20201231190519496
-modified: 20221205050031753
+highertier: show
+modified: 20231118012313703
 tags: transmutation
 tier: 3
 title: disintegrate
@@ -11,4 +12,8 @@ A thin green ray springs from your pointing finger to a target that you can see 
 
 On a successful roll, the target (if it is not a living creature) is partially or fully reduced to a pile of fine gray dust. [[Magic item|magic item]]s are more difficult to destroy than nonmagical items or creations of magical force. Living creatures suffer [[force damage|damage type]] (comparable to a [[fireball]]) but are not completely disintegrated.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 This spell can be upgraded to epic-[[tier|spell tier]] for an even more destructive effect. If you defeat a creature with the epic version of this spell, the creature and everything it is wearing and carrying (except powerful [[magic item]]s) are reduced to fine dust. The creature can be restored to life only by means of a [[true resurrection]] or [[wish]] spell.
+
+</$reveal>

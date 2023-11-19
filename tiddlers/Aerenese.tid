@@ -1,7 +1,7 @@
 category: culture
 color: #A3CFBB
 created: 20210408184336606
-modified: 20230519054555448
+modified: 20231115052746147
 tags: language
 title: Aerenese
 tooltip: Elvish, language of Aerenal
@@ -10,6 +10,6 @@ var: major
 
 Aerenese is the [[language]] of [[Aerenal]], and is often referred to as "[[Elvish|elf]]" or "Elven" in the [[Common]] tongue. It is heavily influenced by [[Sylvan]], the language of the [[fey]], as well as the [[Cul'sir]] variant of the [[Giant]] language, which carries elements of [[Draconic]].
 
-The [[Tairnadal]] of [[North Aerenal]] and [[Valenar]] speak a version of Aerenese that incorporates many tonal distinctions and physical gestures.
+The [[Tairnadal]] of [[North Aerenal]] and [[Valenar]] speak a version of Aerenese that incorporates many tonal distinctions and physical gestures borrowed from [[Aelada]].
 
 To translate text into {{!!title}}, or generate authentic-sounding {{!!title}} gibberish, see the [[language translator]].

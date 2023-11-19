@@ -1,14 +1,14 @@
 color: #092F1E
 created: 20210302051536516
 list: nation province region [[manifest zone]]
-modified: 20220805193048723
+modified: 20231115195606135
 tags: [[location type]]
 title: region
 tooltip: group tag for nations, provinces, and other regions on the map
 type: text/vnd.tiddlywiki
 
-<$list filter="[list{!!title}sort[title]]">
-<$macrocall $name="tag" text={{!!title}}/>
+<$list filter="[list{!!title}sort[title]]" variable="tagTitle">
+<$macrocall $name="tag" text=<<tagTitle>>/>
 </$list>
 
 !!! <<showplace-type>>

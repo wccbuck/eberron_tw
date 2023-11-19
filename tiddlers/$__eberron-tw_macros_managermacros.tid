@@ -1,5 +1,5 @@
 created: 20201208005116699
-modified: 20231025155633472
+modified: 20231119045715609
 tags: $:/tags/Macro
 title: $:/eberron-tw/macros/managermacros
 type: text/vnd.tiddlywiki
@@ -110,11 +110,9 @@ type: text/vnd.tiddlywiki
 \define no-tier-category() [category[object]!has[tier]] [category[object]tier[0]] [category[creature]!has[tier]] [category[spell]!has[tier]] [!category[object]!category[creature]!category[spell]]
 
 \define tv-wikilink-tooltip()
-<$list filter="[<currentTiddler>!is[system]]" emptyMessage="This is a system tiddler">{{!!article}}{{!!title}}&#13;—&#13;<$list filter="[<currentTiddler>has[tooltip]]" variable="noop">{{!!tooltip}}&#13;</$list>(category: <$list filter="[<currentTiddler>category[object]has[tier]!tier[0]]" variable="noop"><$transclude tiddler="$:/RarityNames" index={{!!tier}}/>-rarity magic item</$list><$list filter="[<currentTiddler>category[creature]has[tier]]" variable="noop">tier {{!!tier}} creature</$list><$list filter="[<currentTiddler>category[spell]has[tier]]" variable="noop"><$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>-tier spell</$list><$list filter="[<currentTiddler>has[category]subfilter<no-tier-category>]" variable="noop">{{!!category}}</$list><$list filter="[<currentTiddler>!has[category]]">none</$list>)</$list>
+<$list filter="[<currentTiddler>!is[system]]" emptyMessage="This is a system tiddler">{{!!article}}{{!!title}}&#13;—&#13;<$list filter="[<currentTiddler>has[tooltip]]" variable="noop">{{!!tooltip}}&#13;</$list>(category: <$list filter="[<currentTiddler>category[object]has[tier]!tier[0]]" variable="noop"><$transclude tiddler="$:/RarityNames" index={{!!tier}}/>-rarity magic item</$list><$list filter="[<currentTiddler>category[creature]has[tier]]" variable="noop">tier {{!!tier}} <$list filter="[<currentTiddler>maincreaturetype[]![--]]" emptyMessage="creature">creature, <<currentTiddler>></$list></$list><$list filter="[<currentTiddler>category[spell]has[tier]]" variable="noop"><$transclude tiddler="$:/SpellTierNames" index={{!!tier}}/>-tier spell</$list><$list filter="[<currentTiddler>has[category]subfilter<no-tier-category>]" variable="noop"><$list filter="[<currentTiddler>maincreaturetype[]![--]]" emptyMessage={{!!category}}>creature, <<currentTiddler>></$list></$list><$list filter="[<currentTiddler>!has[category]]">none</$list>)</$list>
 \end
 
 \define navAndScrollToHeaderTooltip(tiddler, header)
 {{$tiddler$!!article}}$tiddler$&#13;—&#13;section: $header$
 \end
-
-\define tt(text,tid) <$reveal type="match" text="" default="""$tid$"""><span class="tooltip"><$link to="$text$"/><$list filter="[[$text$]has[tooltip]]" emptyMessage=""><span class="tooltiptext tooltip-right"><$view tiddler="$text$" field="tooltip"/><<tooltip>></span></$list></span></$reveal><$reveal type="nomatch" text="" default="""$tid$"""><span class="tooltip"><$link to="$tid$">$text$</$link><$list filter="[[$tid$]has[tooltip]]" emptyMessage=""><span class="tooltiptext tooltip-right"><$view tiddler="$tid$" field="tooltip"/><<tooltip>></span></$list></span></$reveal>

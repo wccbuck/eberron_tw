@@ -1,6 +1,6 @@
 caption: Creatures
 created: 20210301233947959
-modified: 20230913030432475
+modified: 20231117181022640
 tags: 
 title: Find Creatures
 type: text/vnd.tiddlywiki
@@ -31,7 +31,7 @@ type: text/vnd.tiddlywiki
 		<div class="tc-manager-control">
 			Creature type: <$select tiddler="$:/config/Manager/CreatureType" default="">
 				<option value="">---</option>
-				<$list filter="[has[tier]tags[]category[creature]] -[category[creature]tagging[]] +[sort[title]]" variable="tag">
+				<$list filter="[has[tier]tags[]category[creature]![shapechanger]] -[category[creature]tagging[]] [[elemental]] [[fiend]] [[celestial]] +[sort[title]]" variable="tag">
 					<option value=<<tag>>><$text text=<<tag>>/></option>
 				</$list>
 			</$select>

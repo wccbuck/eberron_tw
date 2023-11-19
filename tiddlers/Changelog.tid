@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.24.04
-modified: 20231104233344419
+currentversion: 1.25.00
+modified: 20231119063636624
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,42 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.25.00 <span style="font-weight:normal">(Nov 19, 2023)</span>
+
+''PSA:'' You should check out the new fan-made Eberron supplement [[The Giant Guide to Xen'drik|https://www.dmsguild.com/product/450098/The-Giant-Guide-to-Xendrik]] because a) it's over 500 pages of awesome content, and b) it includes the [[planar symbols|https://www.dmsguild.com/product/388514/Eberron-Symbols-of-the-Planes-Art-Pack]] I designed a while back! I think this is my first DMsGuild art credit, which is pretty cool. In a future update, I'll add some content from there, but I need to read through it first and do some pondering on what belongs in this document and what doesn't.
+
+Now for the actual changelog. TW-related things:
+
+* Added a category selector to the search bar. This should help you locate what you're after sooner. If search "dragon" and select "creature," I'll only see creatures that match the search term, not items/locations/spells etc.
+* Also added "Did you mean [this page]?" to the search bar if you made a typo and got no matches for your search. This uses a [[custom filter|$:/eberron-tw/filters/firstlevenshtein.js]] that finds the page title with the shortest [[levenshtein distance|https://en.wikipedia.org/wiki/Levenshtein_distance]] away from your search term; so if you search "Karnnath," the search results will recommend the Karrnath page.
+** Tiddlywiki version 5.2.6 has a levenshtein filter operator, but I didn't use it because it was much slower for my purposes. (I tested it.) Also, you may be wondering: why haven't I upgraded the Eberron TW to the latest version (5.3.1)? Because attempting to do so completely breaks the two-column plugin and mangles the menu bar, neither of which I made, so it would be a pain to try to fix. Past upgrades have broken the import function and the save function, so who knows what else would break this time. For now, I'm sticking with 5.2.2.
+* Fixed the "tag" macro, or at least the way I call it, e.g. on the pages for [[planar realm]] and [[settlement]]; I accidentally broke it in v1.24.01 a month ago and didn't notice until now.
+* Removed "shapechanger" from the auto-generated list of creature types on Find Creatures. Like all tags, it's still available under "other tag." I also manually added celestial, fiend, and elemental to that list (previously all lumped under "immortal").
+* Tooltips for creatures now show the most relevant creature type instead of "creature." So hovering over [[angel]] now shows "category: creature, celestial" instead of just "category: creature." For instances where a creature has multiple types, I mostly erred on the side of which type was more rare. So, [[fomorian]] should show "giant" rather than "fey," even though it has both types. If a creature page has no type tag (like [[immortal]]), the tooltip still shows "category: creature."
+** Instead of relying on a complex and slow sequence of filter operations for this, I made a new filter called "[[maincreaturetype|$:/eberron-tw/filters/maincreaturetype.js]]." It doesn't take an operator, just returns a creature type or "--".
+* Changed several references of arrows being "fired" from a bow to being "shot," "loosed," or "launched."
+
+Spells/items/creatures:
+
+* Added spells: [[antagonize]], [[warp sense]], [[gate seal]]
+* Clarified that when you incapacitate or kill a [[polymorph]]ed creature, it transforms back, and excess harm overflows onto its new form.
+* Added items: [[amulet of duplicity]], [[amulet of the inferno]], [[antimagic armor]], [[armor of fungal spores]], [[armor of the fallen]], [[armor of weightlessness]], [[baleful talon]], [[boomerang shield]], [[bow of conflagration]], [[crown of whirling comets]], [[dried leech ammunition]], [[fabulist gem]], [[feywrought armor]], [[forcebreaker weapon]], [[gloomwrought armor]], [[hammer of runic focus]], [[house of cards]], [[jester's mask]], [[mimir]], [[plate armor of knight's fellowship]], [[ring of collecting]], [[rogue's mantle]], [[sensory stone]], [[sundering sphere]], [[sword of retribution]], [[sword of the planes]], [[tidecaller trident]], [[weapon of agonizing paralysis]], [[winged ammunition]], [[wraps of unarmed prowess]]
+* Added creatures:
+** Hierarch [[modron]]s: [[decaton]], [[nonaton]], [[octon]], [[septon]], [[hexton]]. Also added a section about hierarch modrons to the [[modron]] page, and removed the [[creature tier]] from "modron" as its a category of constructs encompassing many tiers.
+** Other Sigil creatures: [[sunfly]], [[eater of knowledge]]
+* Added "oddlewin" as an alternate term for a [[nilbog]]
+
+Misc Eberron lore:
+
+* Added the "Crowns for the Crown" challenge to [[Aureon's Crown]]
+* Added languages:
+** [[Stonespeech]], [[Sivis sign language]], [[Aelada]], [[Kaasvola]]
+** Also added the [[sign language]] tag and [[tin ear]] item.
+* Added some [[rakshasa]] names from [[this page|https://www.aonprd.com/MonsterFamilies.aspx?ItemName=Rakshasa]]
+* Added a translation of "fey" (taarna) to the [[Goblin]] dictionary for the [[language translator]]
+* Aligned the lore of [[Koulton Brightwind]] and the [[Wind Whisperers]] closer to canon; I don't know why I changed his story in the first place, but now he fled his house with an [[elemental galleon]] twenty years ago and not an [[airship]] ten years ago, and he stole the airship later.
+* Added a bit on [[warforged]] composition (and decomposition)
 
 !!! 1.24.04 <span style="font-weight:normal">(Nov 04, 2023)</span>
 

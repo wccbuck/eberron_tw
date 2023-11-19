@@ -1,0 +1,16 @@
+category: object
+color: #41D5E1
+created: 20231118193549711
+modified: 20231118193920658
+tags: hindrance detection body accessory mobility stealth
+tier: 3
+title: rogue's mantle
+type: text/vnd.tiddlywiki
+
+This dark, hooded mantle of thick cloth is infused with secretive and deceptive magic. While wearing it, you gain [[darkvision]] within a range of 60 feet. If you already have darkvision, the mantle increases your darkvision's range by 60 feet instead.
+
+In addition, you can cast the spells [[shadow step]] and [[antagonize]].
+
+<<spellpreview "shadow step">>
+
+<<spellpreview antagonize>>

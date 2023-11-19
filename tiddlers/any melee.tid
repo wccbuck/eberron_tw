@@ -1,7 +1,7 @@
 color: #1E868E
 created: 20220624012859215
 list: sword dagger axe hammer mace flail spear whip staff rod [[punch weapon]]
-modified: 20221215055921459
+modified: 20231115195617156
 tags: weapon
 title: any melee
 tooltip: tag for weapons which can take any melee form (not ranged)
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 This tag indicates a weapon which can be of any ''melee'' weapon type, such as a [[bloodseeker weapon]]. It is used on items that should show up on [[Find Things]] when the user chooses, say, the "sword" tag, even if that item doesn't have that specific tag.
 
-<$list filter="[list{!!title}sort[title]]">
-<$macrocall $name="tag" text={{!!title}}/>
+<$list filter="[list{!!title}sort[title]]" variable="tagTitle">
+<$macrocall $name="tag" text=<<tagTitle>>/>
 </$list>
