@@ -1,13 +1,14 @@
 category: talent
 created: 20210726074902766
-modified: 20230620203112380
+modified: 20231128034736843
 tags: wizard
 title: Arcane Tradition
 tooltip: talent for wizards which grants benefits to specializing in a particular spell school
 type: text/vnd.tiddlywiki
+var1: abjuration
 xpcost: 1
 
-''Prerequisite:'' [[Spellcaster]] (or [[Spellcaster 2]]/[[3|Spellcaster 3]]), access to at least two spells from a specific [[spell school]].
+''Prerequisite:'' [[Spellcaster]], or another talent which grants you access to at least two spells from your chosen [[spell school]].
 
 The study of [[wizard]]ry is ancient, stretching back to
 the earliest mortal discoveries of magic. The most common arcane traditions on Eberron revolve around the [[schools of magic|spell school]].
@@ -16,8 +17,14 @@ Choose a [[spell school]]. You gain the ability to cast common and uncommon [[ti
 
 In addition, gain an [[advantage]] when researching or recalling lore or techniques related to your chosen spell school.
 
+Chosen [[spell school]]: <$select field="var1" default="abjuration">
+<$list filter="[tag[spell school]sort[title]]">
+<option><<currentTiddler>></option>
+</$list>
+</$select>
+
 !! Other Talents
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

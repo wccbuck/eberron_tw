@@ -1,6 +1,7 @@
 category: talent
 created: 20220705175105492
-modified: 20230928212442439
+modified: 20231126204004420
+prereq: [[Arcane Tradition]]
 tags: wizard
 title: Third Eye
 type: text/vnd.tiddlywiki

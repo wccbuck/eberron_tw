@@ -1,11 +1,13 @@
 category: game mechanics
 created: 20210103022535043
-modified: 20230814215836389
+modified: 20231129061727875
 tags: Storyloom [[Taking Action]]
 title: bad outcome
 tooltip: Storyloom mechanic: highest die is 3 or lower; things go badly
 type: text/vnd.tiddlywiki
 
 After [[rolling dice|Taking Action]], if your highest die is a 1-3, it's a bad outcome or "failure." Things go poorly. You probably don't achieve your goal and also suffer [[consequence]]s.
+
+Generally, it doesn't matter whether your highest die is a 1, 2, or 3; the consequences are the same. However, some [[magic item]]s may add additional consequences or even grant benefits if your highest die is a 1 on an attempt you make.
 
 See also [[full success]] and [[mixed success]].

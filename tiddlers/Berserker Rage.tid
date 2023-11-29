@@ -1,6 +1,6 @@
 category: talent
 created: 20210726051058675
-modified: 20230620202405775
+modified: 20231126204908569
 tags: barbarian
 title: Berserker Rage
 tooltip: talent which lets you enter the frenzied rage of a barbarian
@@ -17,4 +17,4 @@ Wearing heavy armor or other restrictive protective gear can significantly hampe
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

@@ -1,6 +1,7 @@
 category: talent
 created: 20211215063717102
-modified: 20221205043817703
+modified: 20231126203928083
+prereq: [[Arcane Tradition]]
 tags: wizard
 title: Transmuter's Stone
 type: text/vnd.tiddlywiki
@@ -25,4 +26,4 @@ If you create a new transmuter's stone, the previous one ceases to function.
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

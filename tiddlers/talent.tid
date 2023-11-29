@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210402021419698
-modified: 20231006192529691
+modified: 20231128050315911
 tags: Storyloom
 title: talent
 tooltip: Storyloom mechanic: a player character's special capability or area of expertise
@@ -16,7 +16,7 @@ Typically a talent will allow your character to do one of the following:
 
 When you [[make a character|Character Creation]], you start with three [[experience point]]s you may spend on talents (or two, or four, depending on the game's power level, determined by the GM). Most talents cost one experience point, though several cost two, and a few very powerful talents cost three. As your character advances, you slowly gain [[experience point]]s, which you can use to gain more talents. 
 
-Some talents have prerequisite talents; for example, you can't take [[Changeling Metamorphosis]] without first having taken [[Changeling (talent)]]. These talents tend to be slightly stronger than talents without prerequisites at the same [[experience point]] cost, since they reward a narrow character development focus that closes off other options.
+Some talents have prerequisite talents; for example, you can't take [[Changeling Metamorphosis]] without first having taken [[Changeling (talent)]]. These talents tend to be slightly stronger than talents without prerequisites at the same [[experience point]] cost, since they reward a narrow character development focus that closes off other options. If you really want to take a talent that has a prerequisite, but have a good reason for not wanting the prerequisite, talk to your GM.
 
 <<<
 ''A Note on Talents That Grant Bonuses for Using Tools''<br/>
@@ -36,13 +36,31 @@ If a talent gives you [[advantage]] or +1 [[impact]] to use a [[toolset]] or [[m
 
 !!! Occupation-Based Talents
 <ul>
-<$list filter="[category[talent]tags[]category[occupation]] -[category[occupation]tagging[]] [[background]] +[sort[title]]">
-<li>{{!!article}}<$link overrideClass="graylink"/></li>
+<$list filter="[category[talent]tags[]category[occupation]] -[category[occupation]tagging[]] [[background]] +[sort[title]]" variable="talenttag">
+<li><$link to=<<talenttag>> overrideClass="graylink"/></li>
 <ul>
-<$list filter="[<currentTiddler>tagging[]category[talent]sort[title]]">
+<$list filter="[tag<talenttag>category[talent]] -[tag<talenttag>category[talent]listed[prereq]] +[sort[title]]">
 <li>
 <$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
+<ul>
+<$list filter="[<currentTiddler>listed[prereq]tag<talenttag>category[talent]] +[sort[title]]">
+<li>
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$link to=<<currentTiddler>>><<splittitle>></$link>
+<ul>
+<$list filter="[<currentTiddler>listed[prereq]tag<talenttag>category[talent]] +[sort[title]]">
+<li>
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$link to=<<currentTiddler>>><<splittitle>></$link>
+</$wikify>
+</li>
+</$list>
+</ul>
+</$wikify>
+</li>
+</$list>
+</ul>
 </$wikify>
 </li>
 </$list>
@@ -52,14 +70,34 @@ If a talent gives you [[advantage]] or +1 [[impact]] to use a [[toolset]] or [[m
 
 !!! Species-Based Talents
 
+When you choose a race/species/ancestry for your character, it's highly recommended that you choose that race's base talent at character creation, if one exists. For example, if you're playing as an [[elf]], you probably ought to take [[Elf (talent)]] as one of your starting talents. You can take a different talent instead if you have permission from the GM.
+
 <ul>
-<$list filter="[category[talent]tags[]category[creature]!tag[subrace]sort[title]]">
-<li>{{!!article}}<$link overrideClass="graylink"/></li>
+<$list filter="[category[talent]tags[]category[creature]!tag[subrace]sort[title]]" variable="talenttag">
+<li><$link to=<<talenttag>> overrideClass="graylink"/></li>
 <ul>
-<$list filter="[<currentTiddler>tagging[]category[talent]sort[title]]">
+<$list filter="[tag<talenttag>category[talent]] -[tag<talenttag>category[talent]listed[prereq]] +[sort[title]]">
 <li>
 <$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
+<ul>
+<$list filter="[<currentTiddler>listed[prereq]tag<talenttag>category[talent]] +[sort[title]]">
+<li>
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$link to=<<currentTiddler>>><<splittitle>></$link>
+<ul>
+<$list filter="[<currentTiddler>listed[prereq]tag<talenttag>category[talent]] +[sort[title]]">
+<li>
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$link to=<<currentTiddler>>><<splittitle>></$link>
+</$wikify>
+</li>
+</$list>
+</ul>
+</$wikify>
+</li>
+</$list>
+</ul>
 </$wikify>
 </li>
 </$list>

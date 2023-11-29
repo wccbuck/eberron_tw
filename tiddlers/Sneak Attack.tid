@@ -1,9 +1,15 @@
 category: talent
 created: 20221125204612538
-modified: 20230317042615301
+modified: 20231126235036199
 tags: rogue
 title: Sneak Attack
 type: text/vnd.tiddlywiki
 xpcost: 1
 
 Gain +1 [[impact]] or +1 die when you spend [[momentum]] on an attempt to harm an opponent in combat using [[Guile|approach]].
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

@@ -1,6 +1,6 @@
 category: talent
 created: 20230715165756443
-modified: 20230715200341580
+modified: 20231126204943740
 tags: monk
 title: Disciple of the Open Hand
 type: text/vnd.tiddlywiki
@@ -15,4 +15,4 @@ As a [[monk]] of the Way of the Open Hand, you are a master of unarmed martial a
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

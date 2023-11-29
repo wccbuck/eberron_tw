@@ -1,0 +1,14 @@
+category: talent
+created: 20231126235039300
+modified: 20231127225915253
+prereq: [[Sneak Attack]]
+tags: rogue
+title: Assassin's Eye
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+''Prerequisite:'' [[Sneak Attack]].
+
+When you make a [[boost]] attempt to carefully analyze a creature for at least 30 seconds, you can pinpoint that creature’s weaknesses and exploit them for a devastating attack. While studying your victim, your attention must stay focused on the target the entire time, and the target must not detect your hostile intent or recognize you as an enemy; this usually means remaining hidden for the entire time you are studying the target, but you could even engage in mild conversation with an unsuspecting target while analyzing their weaknesses, as long as they do not detect your hostile intent.
+
+If your boost attempt is successful, then, within the next minute, the next time you spend [[momentum]] on an attempt to harm the target creature using [[Guile|approach]], gain +3 [[impact]].

@@ -1,0 +1,15 @@
+category: talent
+created: 20231127001634608
+modified: 20231127002334551
+prereq: [[Warforged (talent)]]
+tags: warforged [[warforged scout]]
+title: Warforged Scout (talent)
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+''Prerequisite:'' [[Warforged (talent)]].
+
+As a [[warforged scout]], you are the size and shape of a [[halfling]], built for mobility and speed. Gain the following benefits:
+
+* You can use your small size as an asset. You can move and operate in small spaces inaccessible to larger races. In addition, gain [[advantage]] when leveraging your size to hide or dodge.
+* You can run about 20% faster than the average human. Gain +1 [[impact]] when sprinting.

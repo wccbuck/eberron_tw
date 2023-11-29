@@ -1,1 +1,15 @@
-{"created": "20210208051518632", "title": "Face of Tira", "text": "Statues, shrines, and other sacred sites speckle\nthe countryside of [[Thrane]], holy ground for the\npeople to send their prayers to the [[Silver Flame]].\nThough each is impressive in its own way, none\ncompares to the Face of Tira. Sculpted from a rocky\ncrag atop a massive stone outcropping west of\n[[Flamekeep]], it bears the likeness of the famed [[Voice of the Flame|Tira Miron]] in 80-foot-tall splendor. Her eyes peer\neastward, her gaze resting on the site where the\nSilver Flame was born.", "modified": "20210727192007720", "tags": "Thrane shrine monument", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#A3DB62", "points": "47.114,-3.39", "style": "{\"color\": \"#732873\"}"}
+[
+    {
+        "created": "20210208051518632",
+        "text": "Statues, shrines, and other sacred sites speckle\nthe countryside of [[Thrane]], holy ground for the\npeople to send their prayers to the [[Silver Flame]].\nThough each is impressive in its own way, none\ncompares to the Face of Tira. Sculpted from a rocky\ncrag atop a massive stone outcropping west of\n[[Flamekeep]], it bears the likeness of the famed [[Voice of the Flame|Tira Miron]] in 80-foot-tall splendor. Her eyes peer eastward, her gaze resting on the site where the Silver Flame was born.\n\nThe Face of Tira was sculpted by Helgar Lezirani in 734 YK, commissioned by King Thaldren ir'Wynarn IV.",
+        "title": "Face of Tira",
+        "modified": "20231129081952572",
+        "tags": "Thrane shrine monument",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#A3DB62",
+        "points": "47.114,-3.39",
+        "style": "{\"color\": \"#732873\"}"
+    }
+]

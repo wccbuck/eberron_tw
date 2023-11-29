@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.25.00
-modified: 20231119063636624
+currentversion: 1.25.01
+modified: 20231129080212987
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,21 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.25.01 <span style="font-weight:normal">(Nov 29, 2023)</span>
+
+* Made each [[talent]]'s prerequisites (if any) a list field, and used that to better organize the lists on the talent page so that talents are listed under their prerequisites. Added "Prerequisite" column to <$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Talents"/><$action-navigate $to="Find Things"/>Find Talents</$button>. Also improved the "Other Talents" section on talents which were prereqs to others.
+* While I was at it, I made the [[dragonmark]] talents for elves, dwarves, gnomes, and halflings require those ancestries' talents ([[Elf (talent)]], [[Dwarf (talent)]], [[Gnome (talent)]], [[Halfling (talent)]]) as prereqs. As always, GMs can veto prereqs for specific cases, like if (for whatever reason) a player doesn't want their dwarf character to have the usual mechanical bonuses for dwarves but they do want the [[Mark of Warding|Mark of Warding (talent)]].
+* Changed the Shimmerwood Gnome talent into [[Gnome (talent)]].
+* Changed the [[Lorghalan Gnome]] talent so that it didn't overlap with its new prerequisite.
+* Changed the [[Halfling (talent)]] bonus for [[lightfoot]]: Now it's +1 [[impact]] when hiding, instead of an extra [[advantage]].
+* Changed the phrasing of [[Hobgoblin (talent)]]
+* Added talent [[Assassin's Eye]]
+* Added [[warforged scout]] and corresponding [[talent|Warforged Scout (talent)]]
+* Slightly adjusted the description of the [[Khunanese]] language
+* Added a line about "Old Rion" to the [[Aureon]] page
+* Added [[pathadrik]]. This band of "drifting giants" was very briefly mentioned in Secrets of Sarlona, but they were fleshed out in [[Talvakri's Guide to Adar|https://www.dmsguild.com/product/434918/Talvakris-Guide-to-Adar]].
+** Also added a handful of other details here and there from Talvakri's.
 
 !!! 1.25.00 <span style="font-weight:normal">(Nov 19, 2023)</span>
 
@@ -198,6 +213,19 @@ Miscellaneous:
 ** [[Io'lokar]] I didn't touch, since the pop density was around 10 already; that felt right.
 * Added the [[Sprawl]] demiplane
 
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
+
 !!! 1.22.10 <span style="font-weight:normal">(Aug 31, 2023)</span>
 
 * Swapped column position of Changelog and [[Readme]] so that the Readme always shows up even when sharing permalinks for specific pages.
@@ -356,19 +384,6 @@ This update also includes the following changes and additions:
 * Reduced the population of [[Daskaran]] to better fit its lore
 * Added a little info on food and drink to the Five Nations Culture pages, and also added the following new pages:
 ** [[Blink Dog Brew]], [[Mror mushroom brew]], [[waterhouse]], [[preserving pine]]
-
-!
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
-</$button>
 
 !!! 1.21.04 <span style="font-weight:normal">(May 19, 2023)</span>
 

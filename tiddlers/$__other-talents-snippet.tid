@@ -1,0 +1,12 @@
+caption: List of other talents with this as a prerequisite
+created: 20231126231646434
+modified: 20231126231739056
+tags: $:/tags/TextEditor/Snippet
+title: $:/other-talents-snippet
+type: text/vnd.tiddlywiki
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

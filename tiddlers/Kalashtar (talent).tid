@@ -1,6 +1,6 @@
 category: talent
 created: 20210801041832699
-modified: 20221205054042001
+modified: 20231126210120333
 tags: kalashtar
 title: Kalashtar (talent)
 type: text/vnd.tiddlywiki
@@ -16,4 +16,4 @@ must be able to understand at least one language. A creature without telepathy c
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

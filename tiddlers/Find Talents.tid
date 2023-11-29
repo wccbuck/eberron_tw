@@ -1,7 +1,7 @@
 caption: Talents
 created: 20211126205849566
 limit50: [limit[50]]
-modified: 20230913030545913
+modified: 20231127003355091
 tags: 
 title: Find Talents
 type: text/vnd.tiddlywiki
@@ -77,10 +77,10 @@ See also the main [[talent]] page.
 	</div>
 	<div class="tc-manager-list">
 		<table class="manager-table">
-		<tr class="th-sticky"><th align="left">Talent</th><th align="left" width="100px">XP Cost</th><th align="left" max-width="250px">Tags</th></tr>
+		<tr class="th-sticky"><th align="left">Talent</th><th align="center" width="40px">XP</th><th align="left" max-width="200px">Tags</th><th align="left" max-width="200px">Prerequisite</th></tr>
 		<$list filter="[all{$:/config/Manager/Show}!is{$:/config/Manager/System}!has[draft.of]search{$:/config/Manager/Filter}tag:strict{$:/config/Manager/TalentTag}!tag{$:/config/Manager/ExcludeTalentTag}subfilter{$:/config/Manager/XPCost}subfilter{$:/config/Manager/ExcludeTalentTag!!excludeall}category[talent]sort[title]order{$:/config/Manager/TalentSortOrder}sort{$:/config/Manager/TalentSort}order{$:/config/Manager/TalentSortOrder}subfilter{$:/config/Manager/LimitTalents!!limit50}]">
 		<tr><td><$link/></td>
-		<td>
+		<td align="center">
 {{!!xpcost}}
 		</td>
 		<td>
@@ -88,6 +88,14 @@ See also the main [[talent]] page.
 				<$link/>, 
 			</$list>
 			<$list filter="[is[current]tags[]sort[]last[]]">
+				<$link/>
+			</$list>
+		</td>
+        <td>
+			<$list filter="[list[!!prereq]sort[]butlast[]]">
+				<$link/>, 
+			</$list>
+			<$list filter="[list[!!prereq]sort[]last[]]">
 				<$link/>
 			</$list>
 		</td>

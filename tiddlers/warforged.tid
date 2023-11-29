@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200415014832044
-modified: 20231118201033904
+modified: 20231127001316363
 tags: construct humanoid
 tier: 2
 title: warforged
@@ -39,6 +39,8 @@ based on the purpose for which it was designed. Every warforged also has one uni
 
 Although they were manufactured, warforged are
 living [[humanoid]]s. Resting, [[healing magic|magical healing]], and medicinal skill all provide the same benefits to warforged that they do to other humanoids. 
+
+Most warforged are human-sized or a bit larger. However, some [[halfling]]-sized warforged were also created during the war; see [[warforged scout]].
 
 !!! Warforged Composition
 

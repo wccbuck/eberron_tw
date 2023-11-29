@@ -1,0 +1,22 @@
+category: talent
+created: 20231128051102119
+modified: 20231128232207889
+tags: gnome
+title: Gnome (talent)
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+As a [[gnome]], you are a small creature, which allows you to move and operate in small spaces inaccessible to larger races.
+
+Choose ''any two'' of the following benefits:
+
+* Gain [[advantage]] when leveraging your small size to hide or dodge.
+* You can cast [[lesser illusion]] or [[ghost sound]].
+* You have [[darkvision]] within 60 feet.
+* Through sounds and gestures, you can communicate simple ideas with small [[beast]]s. Gnomes with this power often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

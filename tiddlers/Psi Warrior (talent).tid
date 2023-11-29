@@ -1,6 +1,6 @@
 category: talent
 created: 20220619201834661
-modified: 20221106190604129
+modified: 20231126205732518
 tags: [[psi warrior]]
 title: Psi Warrior (talent)
 type: text/vnd.tiddlywiki
@@ -17,4 +17,4 @@ If you later take the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster 3]] ta
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

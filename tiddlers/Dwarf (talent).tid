@@ -1,6 +1,6 @@
 category: talent
 created: 20210801203726708
-modified: 20211128070031824
+modified: 20231126231847388
 tags: dwarf
 title: Dwarf (talent)
 type: text/vnd.tiddlywiki
@@ -10,3 +10,9 @@ As a [[dwarf]], you gain the following benefits:
 
 * You have [[darkvision]] within 60 feet.
 * You have [[advantage]] when resisting poisons, cold weather, or forced movement.
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

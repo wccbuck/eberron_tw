@@ -10,7 +10,7 @@ d7: 7
 duration: 2 minutes
 effect: Caster grows one inch per day for the next {{!!2d4}} days, after which their original height is restored.
 l_duration: 2 days
-modified: 20220301193335150
+modified: 20231126204352632
 s_duration: 9 seconds
 tags: sorcerer
 title: Wild Magic
@@ -26,4 +26,4 @@ that underlie the order of creation. Whenever you cast spells and suffer a [[con
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

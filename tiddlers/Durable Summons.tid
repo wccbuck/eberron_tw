@@ -1,6 +1,7 @@
 category: talent
 created: 20220705172859238
-modified: 20220705173145187
+modified: 20231126204141502
+prereq: [[Arcane Tradition]]
 tags: wizard
 title: Durable Summons
 type: text/vnd.tiddlywiki

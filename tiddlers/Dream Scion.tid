@@ -1,6 +1,6 @@
 category: talent
 created: 20220301172608959
-modified: 20230913030325816
+modified: 20231126205510794
 tags: dreamtouched
 title: Dream Scion
 type: text/vnd.tiddlywiki
@@ -46,4 +46,4 @@ When you take the [[Spellcaster]] talent as a dream scion, you might consider sp
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

@@ -1,6 +1,7 @@
 category: talent
 created: 20230824220443754
-modified: 20230824220700577
+modified: 20231126205758652
+prereq: [[Life Domain]]
 tags: cleric
 title: Blessed Healer
 type: text/vnd.tiddlywiki

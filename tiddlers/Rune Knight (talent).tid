@@ -1,6 +1,6 @@
 category: talent
 created: 20210809025058540
-modified: 20230830020027757
+modified: 20231126210239138
 tags: [[rune knight]]
 title: Rune Knight (talent)
 type: text/vnd.tiddlywiki
@@ -61,4 +61,4 @@ The effects of either of these benefits persist for up to one minute.
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

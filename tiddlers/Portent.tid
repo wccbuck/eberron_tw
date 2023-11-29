@@ -1,6 +1,7 @@
 category: talent
 created: 20220705183335837
-modified: 20230413173507435
+modified: 20231126204057583
+prereq: [[Arcane Tradition]]
 tags: wizard
 title: Portent
 type: text/vnd.tiddlywiki

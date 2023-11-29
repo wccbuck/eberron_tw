@@ -1,6 +1,6 @@
 category: talent
 created: 20210726073314005
-modified: 20231009010944575
+modified: 20231126205225501
 tags: dragonborn
 title: Dragonborn (talent)
 type: text/vnd.tiddlywiki
@@ -14,4 +14,4 @@ This [[talent]] can also be used for a [[sorcerer]] of draconic origin; your inn
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

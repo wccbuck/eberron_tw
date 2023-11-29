@@ -1,6 +1,6 @@
 category: talent
 created: 20210726012748228
-modified: 20220301193317872
+modified: 20231126205251385
 tags: changeling
 title: Changeling (talent)
 type: text/vnd.tiddlywiki
@@ -12,4 +12,4 @@ As a [[changeling]], you may alter your form to look and sound like another simi
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>
