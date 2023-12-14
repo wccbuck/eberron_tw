@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.25.01
-modified: 20231129080212987
+currentversion: 1.25.02
+modified: 20231214084444684
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,26 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.25.02 <span style="font-weight:normal">(Dec 14, 2023)</span>
+
+Added some content from [[The Giant Guide to Xen'drik|https://www.dmsguild.com/product/450098/The-Giant-Guide-to-Xendrik]]. I've only gotten started. I've done little things like moved the [[bhuka]] from [[Xen'drik]] to the [[Blade Desert]], and added some detail to the [[Sun Pillars]], but mainly, I added lots of new [[drow]] content, and deleted lots of old kinda yucky drow content. 
+
+* Went ahead and made the change from Sulatar to Sulatu, and Qaltiar to Qaltiu, to further distinguish "-ar" as a Khorvairian linguistic indicator of "people"; this wasn't a GGtX change, it was a me change, but I felt it was the right time. 
+* Made significant changes and additions to the pages [[Vulkoor]], [[Qaltiu]], [[Hantar'kul]], [[Sulatu]], and [[Gundra'kul]] (formerly "the Obsidian City"). Yes, I intentionally moved the apostrophe.
+* Added the pages [[Ay'qatal]], [[Na'qalla]], [[Vulkoori]] (I don't know how I hadn't made a Vulkoori page yet), [[Brassbinders]], [[Forgebinders]], [[Hearth Promise]], [[Ghostbinders]], [[Army of Promise]], [[Holua Xiv'inn]].
+
+Much more to come. Also added the following things unrelated to the Giant Guide:
+
+* Added the material [[songsilver]]
+* Made a separate page for [[Kloinjer]], the sword used by [[Tira Miron]] to bind [[Bel Shalor]]
+* Added some new titles and epithets to [[Bel Shalor]]
+* Included short paragraphs about the origins of the names [[Argonnessen]], [[Khorvaire]], [[Sarlona]], and [[Xen'drik]]
+* Added some content from the book [[Flee, Mortals!|https://shop.mcdmproductions.com/collections/flee-mortals-the-mcdm-monster-book/products/flee-mortals-the-mcdm-monster-book-pdf]]. Added a bit to [[grung]], and added the creatures [[clawfish]], [[dancing lady]], and [[rotbeast]]. I may add more later.
+* Updated the description of [[wrath]], and added the drug [[silverhaste]], inspired by cut content from S:CoT
+* Added Captain [[Meryl ir'Ravalas]] (changed from d'Ravalas)
+* Added the fact that [[Morningcrest]] is apparently one of the three largest templar monasteries in Khorvaire ([[mentioned here|https://rpg.nobl.ca/archive.php?x=dnd/ebds/20041122a]]). Also there's a fortress called "Tira's Watch" mentioned in that document, but it doesn't show up anywhere else. It says it's on the southeastern border of Breland and Thrane. Merge with [[Arythawn Keep]]? I may decide to add it later.
+* Added a section on "Everyday Necromancy" to [[Atur]]
 
 !!! 1.25.01 <span style="font-weight:normal">(Nov 29, 2023)</span>
 
@@ -663,7 +683,7 @@ Lore stuff:
 * Changed [[Elf (talent)]] to only provide +1 [[impact]], not [[advantage]], when using a chosen artisan's tool or musical instrument
 * Added items [[devastation orb]] and [[weird tank]].
 * Added [[bestow darkvision]] to the spell list for [[Mark of Detection (talent)]]
-* Added [[control flames]] as a spell option for [[Drow (talent)]] if you're a [[Sulatar]]
+* Added [[control flames]] as a spell option for [[Drow (talent)]] if you're a [[Sulatu]]
 * Added some unnamed mountains to eastern [[Breland]]
 * Moved the course of the [[Copper River]] such that it flowed through [[Galethspyre]]
 * More tooltips
@@ -699,7 +719,7 @@ Maybe a controversial change: ''I changed some Sarlonan names and words'' for my
 * ''Corvagura'' has been renamed [[Ghirvagura]]. I always thought Corvagura sounded too much like "Khorvaire" when spoken aloud, for place names with no common etymological root.
 * ''Nulakesh'' has been renamed [[Nulakaz]]. "Nulakesh" just sounds so much like an [[overlord]] name (Sul Khatesh, Rak Tulkhesh). Also added [[Nulakazi]] language page; for my Eberron, this language takes phonological inspiration from Old Persian.
 * ''Khalesh'' has been renamed [[Caleshaz]]. Too many "Kh" names, honestly. I always got it mixed up with [[Khunan]]. Also very similar to Sul Khatesh. This way it sounds a little bit more "Nahuatl"; in my Eberron, the words [[couatl]], [[tlexolotl]], and other Mesoamerican loan words originate from old Caleshaz.
-* ''Shulassakar'' have been renamed [[shulatlaca]]. The -ar ending for a tribe of people seems like a [[Khorvaire]] thing, based on native peoples there like the "dar" ([[Dhakaani]]), as well as -ar names for Talenta families (Boromar, Halamar, Toralamar) and the [[Jhorash'tar]] orcs. The shulatlaca have roots in old [[Caleshaz]] so I made them sound more "Nahuatl." (I know that [[Qaltiar]], [[Sulatar]], and [[kalashtar]] are outliers to my Khorvaire -ar theory; I'm assuming those names are the [[Common]] terms for those folks, and they have their own names for themselves.)
+* ''Shulassakar'' have been renamed [[shulatlaca]]. The -ar ending for a tribe of people seems like a [[Khorvaire]] thing, based on native peoples there like the "dar" ([[Dhakaani]]), as well as -ar names for Talenta families (Boromar, Halamar, Toralamar) and the [[Jhorash'tar]] orcs. The shulatlaca have roots in old [[Caleshaz]] so I made them sound more "Nahuatl." (I know that [[Qaltiar|Qaltiu]], [[Sulatar|Sulatu]], and [[kalashtar]] are outliers to my Khorvaire -ar theory; I'm assuming those names are the [[Common]] terms for those folks, and they have their own names for themselves.)
 * ''Korrandar'' has been renamed [[Telathal]]. Korrandar was always a terrible name; it doesn't sound Adaran or Quor or Draconic at all. Korranberg, Kol Korran, Korranath, "dar" (goblins); it sounds 100% Khorvairian. How did I get "Telathal"? I plugged "Korrandar" into a "Common to Quor" gibberish generator and that's what popped out.
 * ''Helkashtai'' was renamed [[Helkatash]] since she is an [[Inspired]], not a [[kalashtar]] of the Kashtai line. 
 * ''Sulatesh'' was renamed [[Shoralath]]. "Sulatesh" sounds like [[Sulat|Sulat League]] and is just one "k" away from [[Sul Khatesh]].
