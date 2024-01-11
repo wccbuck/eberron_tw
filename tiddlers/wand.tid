@@ -1,16 +1,12 @@
 category: object
 color: #1E868E
 created: 20220216231216859
-modified: 20231119050708556
+modified: 20240106212355919
 tags: [[magical implement]]
 title: wand
 tooltip: tag for magic wand implements
 type: text/vnd.tiddlywiki
 
-A magic wand is about 15 inches long and crafted of
-metal, bone, or wood. It is tipped with metal, crystal,
-stone, or some other material.
-
-See also [[magical implement]].
+A magic wand is a [[magical implement]], typically used to focus [[arcane magic]]. A typical wand is about 15 inches long and crafted of metal, bone, or wood. It is tipped with metal, crystal, stone, or some other material.
 
 !!! <<showitem-type>>

@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200420202337369
-modified: 20230824224312944
+modified: 20240105233207254
 tags: humanoid
 tier: 1
 title: tiefling
@@ -21,12 +21,12 @@ var: uncommon
 
 <div align="right">—James Wyatt, //Dragon Forge//</div>
 
-Tieflings are [[humanoid]]s touched by [[fiend]]ish powers. This influence has left a clear imprint on their appearance and capabilities. Most have natural [[darkvision]] and resistance to fire, as well as an innate [[sorcerous|sorcerer]] magical ability.
+Tieflings are [[humanoid]]s touched by [[fiend]]ish powers. This influence has left a clear imprint on their appearance and capabilities. Most have natural [[darkvision]] and resistance to fire, as well as an innate [[sorcerous|sorcerer]] magical ability. These powers are typically malevolent in nature; for example, a tiefling gifted with power over flame may spontaneously spark fires in their surroundings. As such, when tieflings are recognized as such in the [[Five Nations]], they are seen as cursed and dangerous.
 
 !! Links to Headers
 * <<scrollToHeader "Appearance and Longevity">>
 * <<scrollToHeader "Tiefling Names">>
-* <<scrollToHeader "Tieflings in Eberron">>
+* <<scrollToHeader "Tieflings of Khorvaire">>
 * <<scrollToHeader "Notes">>
 
 !! Appearance and Longevity
@@ -38,7 +38,9 @@ Tieflings have thick tails, four to five feet long, which lash or coil around th
 solid colors—black, red, white, silver, or gold—with no visible sclera or pupil. Their skin tones cover the full range of human coloration, but also include other shades; usually reddish tones, but tieflings of [[Risia]] may have pale white or silvery skin, while those of [[Mabar]] may have pitch black skin. Their hair, cascading down from behind
 their horns, is usually dark, from black or brown to dark red, blue, or purple. 
 
-Tieflings mature at the same rate as humans but live a few years longer. 
+Rarely, a tiefling may have unusual features, including but not limited to: a forked tongue, catlike eyes, six fingers on each hand, goat-like legs with cloven hoofs, leathery or scaly skin, or a smell of brimstone. Some tieflings do not cast a shadow or have a reflection.
+
+Tieflings mature at the same rate as humans but live a few years longer on average. 
 
 !! Tiefling Names
 
@@ -46,11 +48,7 @@ Tiefling names fall into three broad categories. Tieflings
 born into another culture typically have names reflective
 of that culture. Some have names derived from the
 [[Abyssal]] [[language]], passed down through generations,
-that reflect their fiendish heritage. And some younger
-tieflings, striving to find a place in the world, adopt a
-name that signifies a virtue or other concept and then
-try to embody that concept. For some, the chosen name
-is a noble quest. For others, it's a grim destiny.
+that reflect their fiendish heritage. And some younger tieflings, striving to find a place in the world, adopt a name that signifies a virtue or other concept and then try to embody that concept. For some, the chosen name is a noble quest. For others, it's a grim destiny. The tieflings of [[Rellekor]] typically choose a "virtue" name.
 
 //''Masculine Abyssal Names:''// Akmenos, Amnon, Barakas,
 Damakos, Ekemon, Iados, Kairon, Leucis, Melech,
@@ -65,19 +63,16 @@ Excellence, Fear, Glory, Hope, Ideal, Music, Nowhere,
 Open, Poetry, Quest, Random, Reverence, Sorrow,
 Temerity, Torment, Weary 
 
-!! Tieflings in Eberron
+!! Tieflings of Khorvaire
 
 Tieflings rarely appear in the cities and towns of [[Khorvaire]], with most dwelling at the fringes of civilization.
 
 Many tieflings are born to the [[Carrion Tribes]], the barbarians who live in the [[Demon Wastes]]. Such tieflings are touched by the fiendish forces bound beneath
 the Wastes, and the tribes consider them to be blessed. A variety of these tieflings, known as //sakah//, are imbued with the power of the [[rakshasa]]; instead of devilish horns and tail, they have feline eyes and fangs, and skin with tiger-stripe patterns. If you're playing such a tiefling, why have you left the Wastes? It could be that you were destined for some evil purpose—perhaps even serving as an avatar for an imprisoned [[overlord]]—and you are fleeing that destiny.
 
-Other tieflings are shaped not by powers of [[Khyber]], but by the influence of the [[fiend]]-inhabited [[plane]]s (usually [[Fernia]] or [[Shavarath]], but more rarely, [[Mabar]] or [[Risia]]). Such tieflings might be born in [[manifest zone]]s, where a plane exerts influence over a region, or during coterminous periods, when planar influences can shape an unborn child. Planar tieflings are oddities, often seen as strange but not necessarily evil. An entire community of protected planetouched tieflings exists in the village of [[Rellekor]] in [[Thrane]]—a well-kept secret of the Church of the [[Silver Flame]].
+Other tieflings are shaped not by powers of [[Khyber]], but by the influence of the [[fiend]]-inhabited [[plane]]s (usually [[Fernia]] or [[Shavarath]], but more rarely, [[Mabar]] or [[Risia]]). Such tieflings might be born in [[manifest zone]]s, where a plane exerts influence over a region, or during coterminous periods, when malevolent planar influences can shape an unborn child. Planar tieflings are unusual, and unlike other planetouched creatures such as [[aasimar]] and [[genasi]], they tend to be feared and shunned. An entire community of protected planetouched tieflings exists in the village of [[Rellekor]] in [[Thrane]], where they are taught to control their chaotic powers—a well-kept secret of the Church of the [[Silver Flame]].
 
-Finally, the [[Venomous Demesne]]—a city-state hidden
-on the far side of [[Droaam]]—is populated by tieflings.
-These tieflings descend from [[Sarlona]]n mages of ancient [[Ohr Kaluun]] who
-bargained with dark powers, with the Demesne's lords
+Finally, the [[Venomous Demesne]]—a city-state hidden on the far side of [[Droaam]]—is populated by tieflings. These tieflings descend from [[Sarlona]]n mages of ancient [[Ohr Kaluun]] who bargained with dark powers, with the Demesne's lords
 being powerful [[warlock]]s and [[wizard]]s. The Venomous
 Demesne has had no significant contact with the [[Five Nations]] and few know it exists. Your character could be an envoy or exile from it, or simply an adventurer driven
 by a desire to see what lies beyond your homeland. 

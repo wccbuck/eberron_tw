@@ -1,16 +1,16 @@
 category: game mechanics
 created: 20221120230342871
-displaynameorigin: Thrane
-modified: 20231209170523218
-nameorigin: Thrane
+displaynameorigin: Mror
+modified: 20240108193528141
+nameorigin: Mror
 tags: 
 title: random name generator
 tooltip: tool for generating a random name based on country of origin
 type: text/vnd.tiddlywiki
-var1: Lyzeka
-var2: Arostida
-var3: Alvi
-var4: Imartrum
+var1: Andan
+var2: Barddark
+var3: Harberend
+var4: Daphalai
 
 Use this tool to generate names for characters in the world of Eberron. Select a "linguistic origin" from the drop-down list, then click "Generate Four Names." Please forgive any profane, inappropriate, or generally terrible names; this tool does not filter any "blacklist" words.
 

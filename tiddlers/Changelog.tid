@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.25.02
-modified: 20231214084444684
+currentversion: 1.25.03
+modified: 20240111205220587
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,24 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.25.03 <span style="font-weight:normal">(Jan 11, 2024)</span>
+
+Happy New Year!
+
+* Added [[ash remnant]] and [[Covenant of the Gray Mist]] from the 4E ECG
+* Added [[Virashana]], [[Alarkhad]], [[Astalaar]], and [[Red Knight]] from recent KB blog posts
+* Added details to [[Trebaz Sinara]]
+* Added an adventure hook to the [[Barren Sea]]
+* Added a [[Culture of Zilargo]] page from an old Dragonshard article
+* Added an improved sense of smell as an option for the [[Gnome talent|Gnome (talent)]]
+* Added [[Kason ir'Wynarn]]
+* Added some more detail to [[Battle of Cairn Hill]]
+* Added [[Shemeshka]] the [[arcanaloth]] to the [[Immeasurable Market]]; took inspiration from [[this old writeup|http://web.archive.org/web/20060323001616/www.planewalker.com/cutters/files/Shemeska.pdf]]
+* Added some unusual [[tiefling]] features. Also updated how they are perceived in the [[Five Nations]] (spoiler: negatively).
+* Added the consonant clusters "tsh" and "mb" to the [[Goblin]] [[language translator]] to match some canon words. This changed a small percentage of "translated" (generated gibberish) words; for example, "guerrilla" was formerly "ozuutcha," but now it's "ozuutsha." "Car" was formerly "mas," but now it's "mbas."
+* Reduced the percentage of Pure Flame members in the [[templar]]s
+* In the [[Modern Age]] timeline, changed the ending date of the [[Silver Crusade]] from 882 YK (as Exploring Eberron says) to 880 YK (as Faiths of Eberron says). I don't know why it was changed to 882, especially since the text of the Exploring Eberron section says the crusade lasted "for //nearly// fifty years," and it started in 832 YK.
 
 !!! 1.25.02 <span style="font-weight:normal">(Dec 14, 2023)</span>
 
