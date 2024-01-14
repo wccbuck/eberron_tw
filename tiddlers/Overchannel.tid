@@ -1,6 +1,7 @@
 category: talent
 created: 20211215061934694
-modified: 20211215062427697
+modified: 20231126204111067
+prereq: [[Arcane Tradition]]
 tags: wizard
 title: Overchannel
 type: text/vnd.tiddlywiki

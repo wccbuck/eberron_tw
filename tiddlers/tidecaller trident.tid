@@ -1,0 +1,15 @@
+category: object
+charges: 3
+color: #41D5E1
+created: 20231119040605874
+modified: 20231119040859523
+tags: weapon spear hindrance
+tier: 4
+title: tidecaller trident
+type: text/vnd.tiddlywiki
+
+When you attack with this trident while underwater, gain +2 [[impact]]. 
+
+In addition, this trident has 3 charges. You can expend 1 charge to cast [[control water]] from the trident, or 3 charges to cast [[tsunami]] from it. The trident regains <<dr 1d3>> expended charges daily at dawn.
+
+<<itemcharges 3>>

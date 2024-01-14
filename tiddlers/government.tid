@@ -1,7 +1,7 @@
 color: #052c65
 created: 20210225014419806
 list: [[intelligence agency]] military [[law enforcement]]
-modified: 20220805191228862
+modified: 20231115195513605
 tags: [[organization type]]
 title: government
 tooltip: tag for organizations involved in the administration and governance of states
@@ -28,6 +28,6 @@ type: text/vnd.tiddlywiki
 
 !! Other Tags Under "Government" Umbrella
 
-<$list filter="[list{!!title}sort[title]]">
-<$macrocall $name="tag" text={{!!title}}/>
+<$list filter="[list{!!title}sort[title]]" variable="tagTitle">
+<$macrocall $name="tag" text=<<tagTitle>>/>
 </$list>

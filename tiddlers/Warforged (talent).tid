@@ -1,6 +1,6 @@
 category: talent
 created: 20210726022941862
-modified: 20230707022103471
+modified: 20231128034214281
 tags: warforged
 title: Warforged (talent)
 type: text/vnd.tiddlywiki
@@ -11,7 +11,7 @@ As a [[warforged]], you were created to have remarkable fortitude, represented b
 * Gain [[advantage]] when resisting poisons.
 * You don't need to eat, drink, or breathe.
 * You are immune to most [[disease]]s.
-* Your stone and metal shell is considered to be light [[armor]], though it does not convey an additional special [[harm]] box.
+* Your stone and metal shell is considered to be light [[armor]], though it does //not// grant you an additional special [[harm]] box.
 * You don't need to sleep, and magic can't put you to sleep. However, you must spend six hours each night in an inactive, motionless state (a "sentry's rest"), though you remain alert during this time.
 
 This [[talent]] is ''required'' if you have a warforged character, unless you have GM approval.
@@ -20,4 +20,4 @@ This [[talent]] is ''required'' if you have a warforged character, unless you ha
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

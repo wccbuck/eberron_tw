@@ -1,12 +1,12 @@
 color: #092F1E
 created: 20210302043708411
 list: arena bank brothel building casino [[community center]] enclave fence garrison hospital library market mine museum office park residence restaurant shop shrine tavern temple theater university
-modified: 20220805201509869
+modified: 20231115195649554
 tags: [[location type]]
 title: building
 tooltip: group tag for any building location
 type: text/vnd.tiddlywiki
 
-<$list filter="[list{!!title}sort[title]]">
-<$macrocall $name="tag" text={{!!title}}/>
+<$list filter="[list{!!title}sort[title]]" variable="tagTitle">
+<$macrocall $name="tag" text=<<tagTitle>>/>
 </$list>

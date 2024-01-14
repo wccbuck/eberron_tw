@@ -1,13 +1,15 @@
 category: talent
 created: 20221212001441592
-modified: 20221212004550395
+modified: 20231128052227936
+prereq: [[Gnome (talent)]]
 tags: gnome
 title: Lorghalan Gnome
 type: text/vnd.tiddlywiki
 xpcost: 1
 
+''Prerequisite:'' [[Gnome (talent)]].
+
 As a [[gnome]] of [[Lorghalan]], any [[primal magic]] spells you can cast use the [[Primordial]] [[language]] rather than [[Druidic]]. You gain the following benefits:
 
 * You can speak, read, and write the [[Primordial]] language.
-* You can cast the [[druidcraft]] spell.
-* Through sounds and gestures, you can communicate simple ideas with small [[beast]]s. 
+* You can cast the [[druidcraft]] spell. Once per day, you can cast it as an [[uncommon-tier|spell tier]] spell without expending [[stress]]. 

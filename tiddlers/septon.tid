@@ -1,0 +1,12 @@
+category: creature
+color: #EA868F
+created: 20231116215248452
+modified: 20231116215904797
+tags: construct immortal modron
+tier: 4
+title: septon
+type: text/vnd.tiddlywiki
+
+A septon [[modron]] belongs to the fourth tier of <<navAndScrollToHeader modron "hierarch modron">>. Septons are auditors of base [[modron]]s in [[Daanvi]], recording the activities in each of the [[plane]]'s [[layer]]s to ensure operations are in perfect order. They are easily identified by their seven flexible limbs. If threatened, a septon can conjure a network of lightning that fills a 30-foot cube originating from itself, electrocuting all other creatures within that volume.
+
+Like all [[modron]]s, {{!!title}}s have [[truesight]] out to 120 feet and can't be compelled to act in a manner contrary to their nature or their instructions. <<navAndScrollToHeader modron "Hierarch modron">>s can also freely fly and hover. Most hierarchs can cast some combination of the following spells: [[clairvoyance]], [[command]], [[detect magic]], [[dimension door]], [[dispel magic]], [[mending]], [[teleport]], and [[wall of force]].

@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200415014832044
-modified: 20230824222605382
+modified: 20231127001316363
 tags: construct humanoid
 tier: 2
 title: warforged
@@ -25,6 +25,7 @@ If you'd like to play as a warforged, see [[Warforged (talent)]].
 
 !! Links to Headers
 * <<scrollToHeader "Living Steel and Stone">>
+** <<scrollToHeader "Warforged Composition">>
 * <<scrollToHeader "Warforged Personality">>
 ** <<scrollToHeader "Quirks">>
 * <<scrollToHeader "Warforged Names">>
@@ -33,33 +34,26 @@ If you'd like to play as a warforged, see [[Warforged (talent)]].
 
 !! Living Steel and Stone
 
-Warforged are formed from a blend of organic and inorganic materials. Root-like cords infused with alchemical
-fluids serve as their muscles, wrapped around a framework of steel, darkwood, or stone. Armored plates form
-a protective outer shell and reinforce joints. Warforged
-share a common facial design, with a hinged jaw and
-crystal eyes embedded beneath a reinforced brow ridge.
-Beyond these common elements of warforged design,
-the precise materials and build of a warforged vary
+Warforged are formed from a blend of organic and inorganic materials. Root-like cords infused with alchemical fluids serve as their muscles, wrapped around a framework of steel, [[darkwood]], or stone. Armored plates form a protective outer shell and reinforce joints. Warforged share a common facial design, with a hinged jaw and crystal eyes embedded beneath a reinforced brow ridge. Beyond these common elements of warforged design, the precise materials and build of a warforged vary
 based on the purpose for which it was designed. Every warforged also has one unique feature: the fingerprint-like sigil called a "[[ghulra]]" engraved on its forehead.
 
 Although they were manufactured, warforged are
 living [[humanoid]]s. Resting, [[healing magic|magical healing]], and medicinal skill all provide the same benefits to warforged that they do to other humanoids. 
 
+Most warforged are human-sized or a bit larger. However, some [[halfling]]-sized warforged were also created during the war; see [[warforged scout]].
+
+!!! Warforged Composition
+
+The warforged were formed in [[creation forge]]s, which channel the powers of [[Cannith]] heirs to produce effects similar to [[creation]] and [[fabricate]]. The materials of the warforged are not truly natural; this is reflected by the ability of a warforged to change its shape over time (e.g. growing spikes, becoming a [[juggernaut]]), or the fact that an armorer can repair a [[mithral]] warforged even when they don't have any mithral on hand. 
+
+An important side effect of this is that if material is removed from the body of a warforged, it quickly degrades. As a result, stripping a warforged and selling its metal is impossible; a warforged may have [[adamantine]] components, but these will rust and pit a few months after they are pulled from the warforged. This degradation does not apply to [[magic item]]s such as [[warforged item]]s, or components of a warforged that are successfully grafted onto another warforged.
+
 !! Warforged Personality
 
-The warforged were built to serve and to fight. For most
-of their existence, warforged had a clearly defined function and were encouraged to focus purely on that role.
-The [[Treaty of Thronehold]] gave them freedom, but many
-still struggle both to find a place in the post-war world
-and to relate to the creatures who created them.
+The warforged were built to serve and to fight. For most of their existence, warforged had a clearly defined function and were encouraged to focus purely on that role.
+The [[Treaty of Thronehold]] gave them freedom, but many still struggle both to find a place in the post-war world and to relate to the creatures who created them.
 
-The typical warforged shows little emotion. Many
-warforged embrace a concrete purpose—such as
-protecting allies, completing a contract, or exploring
-a land—and embrace this task as they once did war.
-However, there are warforged who delight in exploring
-their feelings, their freedom, and their relationships
-with others. Most warforged have no interest in religion, but some embrace faith and mysticism, seeking higher purpose and deeper meaning.
+The typical warforged shows little emotion. Many warforged embrace a concrete purpose—such as protecting allies, completing a contract, or exploring a land—and embrace this task as they once did war. However, there are warforged who delight in exploring their feelings, their freedom, and their relationships with others. Most warforged have no interest in religion, but some embrace faith and mysticism, seeking higher purpose and deeper meaning.
 
 The typical warforged has a sexless body shape. Some warforged ignore the concept of gender entirely, while others adopt a gender identity.
 

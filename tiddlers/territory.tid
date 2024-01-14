@@ -1,11 +1,11 @@
 created: 20210815231847609
 list: nation region
-modified: 20220805201911695
+modified: 20231115195659295
 tags: 
 title: territory
 tooltip: tag used only for the "Nations and Regions" checkbox on the Map
 type: text/vnd.tiddlywiki
 
-<$list filter="[list{!!title}sort[title]]">
-<$macrocall $name="tag" text={{!!title}}/>
+<$list filter="[list{!!title}sort[title]]" variable="tagTitle">
+<$macrocall $name="tag" text=<<tagTitle>>/>
 </$list>

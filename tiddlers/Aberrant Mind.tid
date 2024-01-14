@@ -1,7 +1,7 @@
 category: talent
 created: 20211128073014384
 list: message [[burning blood]] [[mind whip]] [[psychic lance]] [[arms of Dyrrn]] [[hunger of Dyrrn]] [[dissonant whispers]] [[mind sliver]] [[calm emotions]] [[detect thoughts]] sending [[black tentacles]] [[telepathic bond]] telekinesis [[acid splash]] [[caustic brew]] [[chromatic orb]] [[psychic scream]] [[color spray]]
-modified: 20230913025633784
+modified: 20231126203553141
 tags: Spellcaster sorcerer
 title: Aberrant Mind
 type: text/vnd.tiddlywiki
@@ -38,4 +38,4 @@ Choose two spells as per the [[Spellcaster]]/[[2|Spellcaster 2]]/[[3|Spellcaster
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

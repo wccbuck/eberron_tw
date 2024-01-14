@@ -1,7 +1,8 @@
+alternatetitle: jhorgun'taal jhorguntaal
 category: creature
 color: #EA868F
 created: 20200415175714571
-modified: 20230815064958622
+modified: 20231129060213589
 tags: humanoid
 tier: 1
 title: half-orc
@@ -11,7 +12,7 @@ var: common
 
 //We are hunters in a world of sheep.//
 
-<div align="right">—Kalaash'arna, Tharashk inquisitive </div>
+<div align="right">—[[Kalaash'aarna]], Tharashk inquisitive </div>
 
 With the rise of the [[dragonmarked House|dragonmarked house]] [[Tharashk]],
 [[orc]]s and half-orcs have spread through the [[Five Nations]]

@@ -1,6 +1,6 @@
 category: talent
 created: 20210801032617961
-modified: 20220301193532332
+modified: 20231126210253470
 tags: shifter
 title: Shifter (talent)
 type: text/vnd.tiddlywiki
@@ -19,4 +19,4 @@ In addition, once per day, you may tap into your bestial nature to gain a burst 
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

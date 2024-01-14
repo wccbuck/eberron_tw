@@ -1,13 +1,12 @@
 color: #092F1E
 created: 20210302050557102
 list: district quarter ward [[upper ward]] [[middle ward]] [[lower ward]]
-modified: 20220805195214800
+modified: 20231115195630018
 tags: [[location type]]
 title: city division
 tooltip: an administrative or historical division of a city; a ward, district, or quarter
 type: text/vnd.tiddlywiki
 
-<$list filter="[list{!!title}sort[title]]">
-<$macrocall $name="tag" text={{!!title}}/>
+<$list filter="[list{!!title}sort[title]]" variable="tagTitle">
+<$macrocall $name="tag" text=<<tagTitle>>/>
 </$list>
-

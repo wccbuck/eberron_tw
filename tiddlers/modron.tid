@@ -1,25 +1,40 @@
 category: creature
 color: #EA868F
 created: 20200422192507869
-modified: 20230815072120917
+modified: 20231116220642722
 tags: construct immortal
-tier: 1
 title: modron
 tooltip: construct of absolute law native to Daanvi
 type: text/vnd.tiddlywiki
 
 Modrons are [[construct]]s of absolute law that adhere to a hive-like hierarchy. They inhabit the plane of [[Daanvi]], their existence a clockwork routine of perfect order. Modrons appear as geometric shapes, such as spheres or cubes; the complexity of a modron's shape reflects the level of sophistication of their duties. 
 
-Modrons have no sense of self beyond what is necessary to fulfill their duties. They exist as a unified collective, divided by ranks, yet they always refer to themselves collectively. To a modron, there is no "I," but only "we" or "us." As a result of this "axiomatic mind," modrons are immune to any attempt to compel it to act in a manner contrary to its nature or its instructions.
-
-Five varieties of base modron exist, broken up by rank. Modrons communicate only with their own rank and the ranks immediately above and below them. If a modron is destroyed, its remains disintegrate; a replacement from the next lowest rank then transforms in a flash of light, gaining the physical form of its new rank. The promoted modron is replaced by one of its underlings in the same manner, all the way to the lowest levels of the hierarchy. There, a new set of [[monodrone]]s is created by the plane of [[Daanvi]].
+Base modrons have no sense of self beyond what is necessary to fulfill their duties. They exist as a unified collective, divided by ranks, yet they always refer to themselves collectively. To a modron, there is no "I," but only "we" or "us." As a result of this "axiomatic mind," modrons are immune to any attempt to compel it to act in a manner contrary to its nature or its instructions. 
 
 All modrons possess [[truesight]] out to a range of 120 feet. They speak the [[Daan]] language almost too rapidly for a mortal to discern.
 
+Five varieties of base modron exist, broken up by rank. Modrons communicate only with their own rank and the ranks immediately above and below them. If a modron is destroyed, its remains disintegrate; a replacement from the next lowest rank then transforms in a flash of light, gaining the physical form of its new rank. The promoted modron is replaced by one of its underlings in the same manner, all the way to the lowest levels of the hierarchy. There, a new set of [[monodrone]]s is created by the plane of [[Daanvi]].
+
+!! Hierarch Modron
+
+While the vast majority of modrons are base modrons, the upper-tier hierarch modrons possess greater intelligence and autonomy, and are capable of independent thought and higher-order decision-making. They hold leadership positions in the echelons of [[Daanvi]], maintaining order and coordinating the operations of the lesser modrons. In addition, hierarch modrons are much more formidable in combat than base modrons, they can freely fly and hover, and they possess advanced magical powers; most hierarchs are able to cast the spells [[clairvoyance]], [[command]], [[detect magic]], [[dimension door]], [[dispel magic]], [[mending]], [[teleport]], and [[wall of force]], among any others unique to the individual.
+
+Unlike base modrons, whose rank is directly proportional to the number in their name, the rank of a hierarch modron is //inversely// proportional to their number. Thus, the [[decaton]] is ranked lower than the [[nonaton]], which is below the [[octon]], and so on. Higher ranks than [[hexton]] are theorized to exist by the scholars of the [[Five Nations]], but the characteristics and duties of these hierarchs are unknown. 
+
 !! Types of Modron
+
+!!! Base
 
 * [[monodrone]]
 * [[duodrone]]
 * [[tridrone]]
 * [[quadrone]]
 * [[pentadrone]]
+
+!!! Hierarch
+
+* [[decaton]]
+* [[nonaton]]
+* [[octon]]
+* [[septon]]
+* [[hexton]]

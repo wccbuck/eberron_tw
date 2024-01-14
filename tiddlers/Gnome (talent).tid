@@ -1,0 +1,25 @@
+category: talent
+created: 20231128051102119
+modified: 20240103011029020
+tags: gnome
+title: Gnome (talent)
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+As a [[gnome]], you are a small creature, which allows you to move and operate in small spaces inaccessible to larger races. Your sense of smell is subtle enough that you can pick up the differences in [[Zil|Zilargo]] perfumes (see <<navAndScrollToHeader "Culture of Zilargo" "Language of Scent">>), but this doesn't necessarily translate to a mechanical benefit unless you choose it from the below list.
+
+Choose ''any two'' of the following benefits:
+
+* <$checkbox field="var1" checked="yes" default="no"/> Gain [[advantage]] when leveraging your small size to hide or dodge.
+* <$checkbox field="var2" checked="yes" default="no"/> Gain [[advantage]] when using your sense of smell to help you investigate.
+* <$checkbox field="var3" checked="yes" default="no"/> You can cast [[lesser illusion]] or [[ghost sound]].
+* <$checkbox field="var4" checked="yes" default="no"/> You have [[darkvision]] within 60 feet.
+* <$checkbox field="var5" checked="yes" default="no"/> Through sounds and gestures, you can communicate simple ideas with small [[beast]]s. Gnomes with this power often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.
+
+If you take this talent twice, you may choose the ''remaining three'' benefits from the above list.
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

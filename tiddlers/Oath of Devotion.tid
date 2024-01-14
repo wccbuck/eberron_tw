@@ -1,7 +1,7 @@
 category: talent
 created: 20211123213828103
 list: [[magic weapon]] light [[turn the unholy]] [[protection from immortals]] sanctuary restoration [[zone of truth]] [[beacon of hope]] [[dispel magic]] [[freedom of movement]] [[guardian of faith]] commune [[flame strike]]
-modified: 20230913030325833
+modified: 20231126205847482
 tags: Spellcaster paladin
 title: Oath of Devotion
 type: text/vnd.tiddlywiki
@@ -46,4 +46,4 @@ Choose two spells as per the [[Spellcaster]] talent rules. A [[paladin]] under t
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

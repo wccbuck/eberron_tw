@@ -1,11 +1,14 @@
 category: talent
 created: 20210731220727273
 list: [[cure wounds]] [[healing word]] [[gentle repose]] restoration [[prayer of healing]] [[aura of vitality]] [[aura of purity]] [[aura of life]] heal regeneration [[life transference]] [[spare the dying]] [[raise dead]] resurrection
-modified: 20231009194554506
+modified: 20231126231237719
+prereq: [[Halfling (talent)]]
 tags: [[Mark of Healing]] halfling
 title: Mark of Healing (talent)
 type: text/vnd.tiddlywiki
 xpcost: 1
+
+''Prerequisite:'' [[Halfling (talent)]].
 
 <div style="float: left; width: 100px;">{{$:/eberron-tw/healing.svg}}</div> You possess the [[Mark of Healing]], a [[dragonmark]] that only manifests on [[halfling]]s with ties to House [[Jorasco]]. As a result, you can operate [[dragonmark focus item]]s tied to your dragonmark, and can cast one spell (common or uncommon [[spell tier]]) from the below list. //Recommended Spell: [[cure wounds]].//
 

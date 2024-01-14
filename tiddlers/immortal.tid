@@ -1,7 +1,7 @@
 category: creature
 color: #58151c
 created: 20201216231650019
-modified: 20220710183412146
+modified: 20231117181233036
 title: immortal
 tooltip: entity that embodies a particular aspect of their native plane, e.g. fiends, celestials, elementals
 type: text/vnd.tiddlywiki
@@ -73,6 +73,14 @@ The depth of an immortal's personality is usually directly related to its power 
 
 !! Types of Immortal
 
-<<list-links-article "[tag{!!title}category[creature]] -[tag{!!title}tagging[]category[creature]] +[sort[title]]">>
+The three main categories of immortals are:
+
+* [[celestial]]
+* [[elemental]]
+* [[fiend]]
+
+!!! Other Immortals
+
+<<list-links-article "[tag{!!title}category[creature]![celestial]![fiend]![elemental]] -[tag{!!title}tagging[]category[creature]] +[sort[title]]">>
 
 !!! <<showcreature-type>>

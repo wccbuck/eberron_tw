@@ -1,0 +1,23 @@
+category: object
+color: #41D5E1
+created: 20231117215432337
+modified: 20231117220528320
+tags: accessory jewelry destruction protection
+tier: 5
+title: amulet of the inferno
+type: text/vnd.tiddlywiki
+var1: 15 6
+var2: 8 19
+
+This amulet is infused with the malice of the [[Infernos]] of [[Fernia]]. It grants the following properties to its [[attuned|attunement]] wearer:
+
+* Any magical flames created by you transform into hellfire. Hellfire ignores resistance to [[fire damage|damage type]], and treats immunity to fire as resistance instead. It is also twice as damaging against creatures with vulnerability to either fire or necrotic damage. It is hot enough to melt stone. While your spells can still be interrupted by [[counterspell]], any lingering hellfire caused by your spells cannot be extinguished by any means other than [[epic-tier|spell tier]] spell effects.
+* You can cast the spells [[fire bolt]] and [[produce flame]] at will.
+* You have [[advantage]] on attempts to resist the effects of all [[spell]]s.
+* You have resistance to [[cold damage|damage type]] and can breathe underwater.
+
+A GM might also choose to generate [[random artifact properties]] for the {{!!title}}:
+
+<<<
+{{||random artifact properties}}
+<<<

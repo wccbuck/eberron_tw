@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.24.04
-modified: 20231104233344419
+currentversion: 1.25.03
+modified: 20240111205220587
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,95 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.25.03 <span style="font-weight:normal">(Jan 11, 2024)</span>
+
+Happy New Year!
+
+* Added [[ash remnant]] and [[Covenant of the Gray Mist]] from the 4E ECG
+* Added [[Virashana]], [[Alarkhad]], [[Astalaar]], and [[Red Knight]] from recent KB blog posts
+* Added details to [[Trebaz Sinara]]
+* Added an adventure hook to the [[Barren Sea]]
+* Added a [[Culture of Zilargo]] page from an old Dragonshard article
+* Added an improved sense of smell as an option for the [[Gnome talent|Gnome (talent)]]
+* Added [[Kason ir'Wynarn]]
+* Added some more detail to [[Battle of Cairn Hill]]
+* Added [[Shemeshka]] the [[arcanaloth]] to the [[Immeasurable Market]]; took inspiration from [[this old writeup|http://web.archive.org/web/20060323001616/www.planewalker.com/cutters/files/Shemeska.pdf]]
+* Added some unusual [[tiefling]] features. Also updated how they are perceived in the [[Five Nations]] (spoiler: negatively).
+* Added the consonant clusters "tsh" and "mb" to the [[Goblin]] [[language translator]] to match some canon words. This changed a small percentage of "translated" (generated gibberish) words; for example, "guerrilla" was formerly "ozuutcha," but now it's "ozuutsha." "Car" was formerly "mas," but now it's "mbas."
+* Reduced the percentage of Pure Flame members in the [[templar]]s
+* In the [[Modern Age]] timeline, changed the ending date of the [[Silver Crusade]] from 882 YK (as Exploring Eberron says) to 880 YK (as Faiths of Eberron says). I don't know why it was changed to 882, especially since the text of the Exploring Eberron section says the crusade lasted "for //nearly// fifty years," and it started in 832 YK.
+
+!!! 1.25.02 <span style="font-weight:normal">(Dec 14, 2023)</span>
+
+Added some content from [[The Giant Guide to Xen'drik|https://www.dmsguild.com/product/450098/The-Giant-Guide-to-Xendrik]]. I've only gotten started. I've done little things like moved the [[bhuka]] from [[Xen'drik]] to the [[Blade Desert]], and added some detail to the [[Sun Pillars]], but mainly, I added lots of new [[drow]] content, and deleted lots of old kinda yucky drow content. 
+
+* Went ahead and made the change from Sulatar to Sulatu, and Qaltiar to Qaltiu, to further distinguish "-ar" as a Khorvairian linguistic indicator of "people"; this wasn't a GGtX change, it was a me change, but I felt it was the right time. 
+* Made significant changes and additions to the pages [[Vulkoor]], [[Qaltiu]], [[Hantar'kul]], [[Sulatu]], and [[Gundra'kul]] (formerly "the Obsidian City"). Yes, I intentionally moved the apostrophe.
+* Added the pages [[Ay'qatal]], [[Na'qalla]], [[Vulkoori]] (I don't know how I hadn't made a Vulkoori page yet), [[Brassbinders]], [[Forgebinders]], [[Hearth Promise]], [[Ghostbinders]], [[Army of Promise]], [[Holua Xiv'inn]].
+
+Much more to come. Also added the following things unrelated to the Giant Guide:
+
+* Added the material [[songsilver]]
+* Made a separate page for [[Kloinjer]], the sword used by [[Tira Miron]] to bind [[Bel Shalor]]
+* Added some new titles and epithets to [[Bel Shalor]]
+* Included short paragraphs about the origins of the names [[Argonnessen]], [[Khorvaire]], [[Sarlona]], and [[Xen'drik]]
+* Added some content from the book [[Flee, Mortals!|https://shop.mcdmproductions.com/collections/flee-mortals-the-mcdm-monster-book/products/flee-mortals-the-mcdm-monster-book-pdf]]. Added a bit to [[grung]], and added the creatures [[clawfish]], [[dancing lady]], and [[rotbeast]]. I may add more later.
+* Updated the description of [[wrath]], and added the drug [[silverhaste]], inspired by cut content from S:CoT
+* Added Captain [[Meryl ir'Ravalas]] (changed from d'Ravalas)
+* Added the fact that [[Morningcrest]] is apparently one of the three largest templar monasteries in Khorvaire ([[mentioned here|https://rpg.nobl.ca/archive.php?x=dnd/ebds/20041122a]]). Also there's a fortress called "Tira's Watch" mentioned in that document, but it doesn't show up anywhere else. It says it's on the southeastern border of Breland and Thrane. Merge with [[Arythawn Keep]]? I may decide to add it later.
+* Added a section on "Everyday Necromancy" to [[Atur]]
+
+!!! 1.25.01 <span style="font-weight:normal">(Nov 29, 2023)</span>
+
+* Made each [[talent]]'s prerequisites (if any) a list field, and used that to better organize the lists on the talent page so that talents are listed under their prerequisites. Added "Prerequisite" column to <$button class="tc-btn-invisible tc-tiddlylink"><$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Talents"/><$action-navigate $to="Find Things"/>Find Talents</$button>. Also improved the "Other Talents" section on talents which were prereqs to others.
+* While I was at it, I made the [[dragonmark]] talents for elves, dwarves, gnomes, and halflings require those ancestries' talents ([[Elf (talent)]], [[Dwarf (talent)]], [[Gnome (talent)]], [[Halfling (talent)]]) as prereqs. As always, GMs can veto prereqs for specific cases, like if (for whatever reason) a player doesn't want their dwarf character to have the usual mechanical bonuses for dwarves but they do want the [[Mark of Warding|Mark of Warding (talent)]].
+* Changed the Shimmerwood Gnome talent into [[Gnome (talent)]].
+* Changed the [[Lorghalan Gnome]] talent so that it didn't overlap with its new prerequisite.
+* Changed the [[Halfling (talent)]] bonus for [[lightfoot]]: Now it's +1 [[impact]] when hiding, instead of an extra [[advantage]].
+* Changed the phrasing of [[Hobgoblin (talent)]]
+* Added talent [[Assassin's Eye]]
+* Added [[warforged scout]] and corresponding [[talent|Warforged Scout (talent)]]
+* Slightly adjusted the description of the [[Khunanese]] language
+* Added a line about "Old Rion" to the [[Aureon]] page
+* Added [[pathadrik]]. This band of "drifting giants" was very briefly mentioned in Secrets of Sarlona, but they were fleshed out in [[Talvakri's Guide to Adar|https://www.dmsguild.com/product/434918/Talvakris-Guide-to-Adar]].
+** Also added a handful of other details here and there from Talvakri's.
+
+!!! 1.25.00 <span style="font-weight:normal">(Nov 19, 2023)</span>
+
+''PSA:'' You should check out the new fan-made Eberron supplement [[The Giant Guide to Xen'drik|https://www.dmsguild.com/product/450098/The-Giant-Guide-to-Xendrik]] because a) it's over 500 pages of awesome content, and b) it includes the [[planar symbols|https://www.dmsguild.com/product/388514/Eberron-Symbols-of-the-Planes-Art-Pack]] I designed a while back! I think this is my first DMsGuild art credit, which is pretty cool. In a future update, I'll add some content from there, but I need to read through it first and do some pondering on what belongs in this document and what doesn't.
+
+Now for the actual changelog. TW-related things:
+
+* Added a category selector to the search bar. This should help you locate what you're after sooner. If search "dragon" and select "creature," I'll only see creatures that match the search term, not items/locations/spells etc.
+* Also added "Did you mean [this page]?" to the search bar if you made a typo and got no matches for your search. This uses a [[custom filter|$:/eberron-tw/filters/firstlevenshtein.js]] that finds the page title with the shortest [[levenshtein distance|https://en.wikipedia.org/wiki/Levenshtein_distance]] away from your search term; so if you search "Karnnath," the search results will recommend the Karrnath page.
+** Tiddlywiki version 5.2.6 has a levenshtein filter operator, but I didn't use it because it was much slower for my purposes. (I tested it.) Also, you may be wondering: why haven't I upgraded the Eberron TW to the latest version (5.3.1)? Because attempting to do so completely breaks the two-column plugin and mangles the menu bar, neither of which I made, so it would be a pain to try to fix. Past upgrades have broken the import function and the save function, so who knows what else would break this time. For now, I'm sticking with 5.2.2.
+* Fixed the "tag" macro, or at least the way I call it, e.g. on the pages for [[planar realm]] and [[settlement]]; I accidentally broke it in v1.24.01 a month ago and didn't notice until now.
+* Removed "shapechanger" from the auto-generated list of creature types on Find Creatures. Like all tags, it's still available under "other tag." I also manually added celestial, fiend, and elemental to that list (previously all lumped under "immortal").
+* Tooltips for creatures now show the most relevant creature type instead of "creature." So hovering over [[angel]] now shows "category: creature, celestial" instead of just "category: creature." For instances where a creature has multiple types, I mostly erred on the side of which type was more rare. So, [[fomorian]] should show "giant" rather than "fey," even though it has both types. If a creature page has no type tag (like [[immortal]]), the tooltip still shows "category: creature."
+** Instead of relying on a complex and slow sequence of filter operations for this, I made a new filter called "[[maincreaturetype|$:/eberron-tw/filters/maincreaturetype.js]]." It doesn't take an operator, just returns a creature type or "--".
+* Changed several references of arrows being "fired" from a bow to being "shot," "loosed," or "launched."
+
+Spells/items/creatures:
+
+* Added spells: [[antagonize]], [[warp sense]], [[gate seal]]
+* Clarified that when you incapacitate or kill a [[polymorph]]ed creature, it transforms back, and excess harm overflows onto its new form.
+* Added items: [[amulet of duplicity]], [[amulet of the inferno]], [[antimagic armor]], [[armor of fungal spores]], [[armor of the fallen]], [[armor of weightlessness]], [[baleful talon]], [[boomerang shield]], [[bow of conflagration]], [[crown of whirling comets]], [[dried leech ammunition]], [[fabulist gem]], [[feywrought armor]], [[forcebreaker weapon]], [[gloomwrought armor]], [[hammer of runic focus]], [[house of cards]], [[jester's mask]], [[mimir]], [[plate armor of knight's fellowship]], [[ring of collecting]], [[rogue's mantle]], [[sensory stone]], [[sundering sphere]], [[sword of retribution]], [[sword of the planes]], [[tidecaller trident]], [[weapon of agonizing paralysis]], [[winged ammunition]], [[wraps of unarmed prowess]]
+* Added creatures:
+** Hierarch [[modron]]s: [[decaton]], [[nonaton]], [[octon]], [[septon]], [[hexton]]. Also added a section about hierarch modrons to the [[modron]] page, and removed the [[creature tier]] from "modron" as its a category of constructs encompassing many tiers.
+** Other Sigil creatures: [[sunfly]], [[eater of knowledge]]
+* Added "oddlewin" as an alternate term for a [[nilbog]]
+
+Misc Eberron lore:
+
+* Added the "Crowns for the Crown" challenge to [[Aureon's Crown]]
+* Added languages:
+** [[Stonespeech]], [[Sivis sign language]], [[Aelada]], [[Kaasvola]]
+** Also added the [[sign language]] tag and [[tin ear]] item.
+* Added some [[rakshasa]] names from [[this page|https://www.aonprd.com/MonsterFamilies.aspx?ItemName=Rakshasa]]
+* Added a translation of "fey" (taarna) to the [[Goblin]] dictionary for the [[language translator]]
+* Aligned the lore of [[Koulton Brightwind]] and the [[Wind Whisperers]] closer to canon; I don't know why I changed his story in the first place, but now he fled his house with an [[elemental galleon]] twenty years ago and not an [[airship]] ten years ago, and he stole the airship later.
+* Added a bit on [[warforged]] composition (and decomposition)
 
 !!! 1.24.04 <span style="font-weight:normal">(Nov 04, 2023)</span>
 
@@ -161,6 +250,19 @@ Miscellaneous:
 ** [[Stormreach]], by 75%. New population density is around 15.
 ** [[Io'lokar]] I didn't touch, since the pop density was around 10 already; that felt right.
 * Added the [[Sprawl]] demiplane
+
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
 
 !!! 1.22.10 <span style="font-weight:normal">(Aug 31, 2023)</span>
 
@@ -320,19 +422,6 @@ This update also includes the following changes and additions:
 * Reduced the population of [[Daskaran]] to better fit its lore
 * Added a little info on food and drink to the Five Nations Culture pages, and also added the following new pages:
 ** [[Blink Dog Brew]], [[Mror mushroom brew]], [[waterhouse]], [[preserving pine]]
-
-!
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
-</$button>
 
 !!! 1.21.04 <span style="font-weight:normal">(May 19, 2023)</span>
 
@@ -612,7 +701,7 @@ Lore stuff:
 * Changed [[Elf (talent)]] to only provide +1 [[impact]], not [[advantage]], when using a chosen artisan's tool or musical instrument
 * Added items [[devastation orb]] and [[weird tank]].
 * Added [[bestow darkvision]] to the spell list for [[Mark of Detection (talent)]]
-* Added [[control flames]] as a spell option for [[Drow (talent)]] if you're a [[Sulatar]]
+* Added [[control flames]] as a spell option for [[Drow (talent)]] if you're a [[Sulatu]]
 * Added some unnamed mountains to eastern [[Breland]]
 * Moved the course of the [[Copper River]] such that it flowed through [[Galethspyre]]
 * More tooltips
@@ -648,7 +737,7 @@ Maybe a controversial change: ''I changed some Sarlonan names and words'' for my
 * ''Corvagura'' has been renamed [[Ghirvagura]]. I always thought Corvagura sounded too much like "Khorvaire" when spoken aloud, for place names with no common etymological root.
 * ''Nulakesh'' has been renamed [[Nulakaz]]. "Nulakesh" just sounds so much like an [[overlord]] name (Sul Khatesh, Rak Tulkhesh). Also added [[Nulakazi]] language page; for my Eberron, this language takes phonological inspiration from Old Persian.
 * ''Khalesh'' has been renamed [[Caleshaz]]. Too many "Kh" names, honestly. I always got it mixed up with [[Khunan]]. Also very similar to Sul Khatesh. This way it sounds a little bit more "Nahuatl"; in my Eberron, the words [[couatl]], [[tlexolotl]], and other Mesoamerican loan words originate from old Caleshaz.
-* ''Shulassakar'' have been renamed [[shulatlaca]]. The -ar ending for a tribe of people seems like a [[Khorvaire]] thing, based on native peoples there like the "dar" ([[Dhakaani]]), as well as -ar names for Talenta families (Boromar, Halamar, Toralamar) and the [[Jhorash'tar]] orcs. The shulatlaca have roots in old [[Caleshaz]] so I made them sound more "Nahuatl." (I know that [[Qaltiar]], [[Sulatar]], and [[kalashtar]] are outliers to my Khorvaire -ar theory; I'm assuming those names are the [[Common]] terms for those folks, and they have their own names for themselves.)
+* ''Shulassakar'' have been renamed [[shulatlaca]]. The -ar ending for a tribe of people seems like a [[Khorvaire]] thing, based on native peoples there like the "dar" ([[Dhakaani]]), as well as -ar names for Talenta families (Boromar, Halamar, Toralamar) and the [[Jhorash'tar]] orcs. The shulatlaca have roots in old [[Caleshaz]] so I made them sound more "Nahuatl." (I know that [[Qaltiar|Qaltiu]], [[Sulatar|Sulatu]], and [[kalashtar]] are outliers to my Khorvaire -ar theory; I'm assuming those names are the [[Common]] terms for those folks, and they have their own names for themselves.)
 * ''Korrandar'' has been renamed [[Telathal]]. Korrandar was always a terrible name; it doesn't sound Adaran or Quor or Draconic at all. Korranberg, Kol Korran, Korranath, "dar" (goblins); it sounds 100% Khorvairian. How did I get "Telathal"? I plugged "Korrandar" into a "Common to Quor" gibberish generator and that's what popped out.
 * ''Helkashtai'' was renamed [[Helkatash]] since she is an [[Inspired]], not a [[kalashtar]] of the Kashtai line. 
 * ''Sulatesh'' was renamed [[Shoralath]]. "Sulatesh" sounds like [[Sulat|Sulat League]] and is just one "k" away from [[Sul Khatesh]].

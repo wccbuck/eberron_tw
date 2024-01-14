@@ -1,0 +1,16 @@
+category: object
+color: #41D5E1
+created: 20231118192009360
+modified: 20231118192212160
+tags: armor body summoning
+tier: 2
+title: plate armor of knight's fellowship
+type: text/vnd.tiddlywiki
+
+This gleaming set of silver-and-gold plate armor never tarnishes.
+
+While wearing this armor, you can to summon the spirit of a warrior to your aid. The spirit's corporeal form manifests in an unoccupied space of your choice within 30 feet of you, and is considered a [[tier-2|creature tier]] creature. The spirit disappears when it is incapacitated or after 1 minute, whichever comes first.
+
+The spirit is an ally to you and your companions. It obeys your commands, but if you don't issue any commands, the spirit only acts to avoid danger and dodge attacks.
+
+Once this property is used, it can't be used again until the next dawn.

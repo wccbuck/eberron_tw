@@ -3,7 +3,7 @@ category: game mechanics
 created: 20230509205613057
 displaylanguage: Goblin
 language: Goblin
-modified: 20231020022011748
+modified: 20240105230159389
 scrambling: enabled
 tags: 
 title: language translator
@@ -87,7 +87,7 @@ Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.
 
 <$reveal type="match" state="!!displaylanguage" text="Shedani">
 
-Note: The Shedani "X" is pronounced "dz." Also, the tool does not add punctuation, but apostrophes (pronounced as glottal stops) are commonly found in Shedani words; feel free to add them in after vowels, Ns, Ls, and Ds as you see fit. The [[Vulkoor]]i language group (which includes the [[Qaltiu|Qaltiar]]) uses more apostrophes than the [[Sulatu|Sulatar]] language group, and the Sulatu tends to use more j's than the Vulkoori.
+Note: The Shedani "X" is pronounced "dz." Also, the tool does not add punctuation, but apostrophes (pronounced as glottal stops) are commonly found in Shedani words; feel free to add them in after vowels, Ns, Ls, and Ds as you see fit. The [[Vulkoori]] language group uses more apostrophes than the [[Sulatu]] language group, and the Sulatu tends to use more j's than the Vulkoori.
 
 </$reveal>
 

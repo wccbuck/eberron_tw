@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200416204415062
-modified: 20230706014606740
+modified: 20231214084418529
 points: 49.865,7.76
 population: 63000
 style: {"color": "#8E0024"}
@@ -13,8 +13,7 @@ type: text/vnd.tiddlywiki
 ''Ruler:'' Grand Duke [[Davian Karla]]<br/>
 ''Population:'' <<ntls>>
 
-Known as the City of Night, the Grand Duchy of Atur stands in the shadow of the
-[[Ashen Spires]], cloaked in mist from the [[Karrn Falls|Karrn River]]. For all but a few hours each day, Atur lies shrouded in gloom, a nearly perpetual twilight that gives the
+Known as the City of Night, the Grand Duchy of Atur stands in the shadow of the [[Ashen Spires]], cloaked in mist from the [[Karrn Falls|Karrn River]]. For all but a few hours each day, Atur lies shrouded in gloom, a nearly perpetual twilight that gives the
 city its moniker. Oddly, during the day’s brightest times, the city is quiet, seemingly deserted, except perhaps some [[undead]] performing manual labor. Only at night does Atur come fully to life.
 
 This atmosphere suits the people. At night, they frolic in fest halls and taverns, sampling the forbidden delights of Atur’s infamous bordellos. Even King [[Kaius|Kaius ir'Wynarn III]] is not immune to the city’s allure, and he finds refuge in [[Nighthold]], a royal complex where he sometimes holds court.
@@ -26,6 +25,13 @@ While Atur is a stronghold of the [[Seekers|Blood of Vol]], it's not exclusively
 The [[True Shapers]], a large [[enclave]] of House [[Thuranni]], is located in Atur, as is the [[Atur Academy]] of [[necromancy]].
 
 [[Davian Karla]] has held the title of Grand Duke of Atur and Warden of the [[Lake of Sorrows]] for the last 235 years.
+
+!! Links to Headers
+* <<scrollToHeader "The Grand Duchy">>
+* <<scrollToHeader "A Celebration of Life">>
+* <<scrollToHeader "Undead in Atur">>
+** <<scrollToHeader "Everyday Necromancy">>
+* <<scrollToHeader "Notes">>
 
 !! The Grand Duchy
 
@@ -41,8 +47,21 @@ The hedonistic culture of Atur has evolved over the course of a thousand years, 
 
 !! Undead in Atur
 
-Thanks to the influence of the [[Blood of Vol]], [[undead]] are a common sight in Atur. The Seekers have no taboo around the use of corpses, and most are happy to donate their remains to serve the greater good. As a result, [[zombie]]s and skeletons can be found performing menial tasks and manual labor across the city. Because they serve many different functions, they’re generally painted to indicate their service; blood-red for those associated with the [[Crimson Monastery]] or other temples, dark green for sanitation, black and gold for those tied to the city watch, blue for those tied to commerce. These [[undead]] possess limited intelligence, and are managed by ''Bone Wranglers'', specialized [[magewright]]s who effectively "program" the undead. So a sanitation skeleton is programmed to collect garbage and dispose of it, but it can show limited initiative to overcome obstacles.
+Thanks to the influence of the [[Blood of Vol]], [[undead]] are a common sight in Atur. The Seekers have no taboo around the use of corpses, and most are happy to donate their remains to serve the greater good. As a result, [[zombie]]s and skeletons can be found performing menial tasks and manual labor across the city. Because they serve many different functions, they’re generally painted to indicate their service; blood-red for those associated with the [[Crimson Monastery]] or other temples, dark green for sanitation, black and gold for those tied to the city watch, blue for those tied to commerce. These [[undead]] possess limited intelligence, and are managed by ''bone wranglers'', specialized [[magewright]]s who effectively "program" the undead. So a sanitation skeleton is programmed to collect garbage and dispose of it, but it can show limited initiative to overcome obstacles. See the <<scrollToHeader "Everyday Necromancy">> section below for more examples of the work of the bone wranglers.
 
 The [[Crimson Monastery]] has its own contingent of [[undead]]—[[Seeker|Blood of Vol]] martyrs who have devoted their endless lives to service to their faith. Most of these are [[oathbound|mummy]], a form of mummy. These sapient undead are sustained by the oaths they've sworn to uphold and the restrictions placed upon them; many can't actually leave the Crimson Monastery, while others are bound to their service but can roam the city. Oathbound can also be found in other roles in the city; see the [[Old Bones|Old Bones (tavern)]], the oldest tavern in Atur. Unlike the programmed undead and [[Karrnathi undead]], oathbound do maintain memories of their former lives, but their oaths place considerable limitations on their activities.
 
 A number of businesses in Atur cater specifically to [[undead]]. [[Oathbound|mummy]] can’t eat or drink and don’t experience physical pleasure, but they can still feel desire. ''Second Life'' is an oathbound salon, while ''Eulogies'' is an entertainment venue specializing in storytelling and roleplaying, helping the oathbound remember joys they can no longer experience directly.
+
+!!! Everyday Necromancy
+
+In addition to skeletal labor, many other unique manifestations of [[necromancy]] are common in [[Atur]]. These include the following.
+
+* ''//Bone Beasts.//'' Obedient and tireless, skeletons make excellent laborers—including those of beasts. Skeletal horses, oxen, and [[tribex]] can be found drawing wagons and coaches throughout the city. Skeletal hounds and wolves are employed as tireless watchdogs. Skeletal cats and rats control the living rat population. Skeletal pigeons, with translucent ectoplasm in place of feathers, are used as flying couriers.
+* ''//Ghastlights.//'' Raised skeletons are held together by a mystical, ectoplasmic force. This is typically invisible, but under the right circumstances, it can manifest as a green glow. The streetlights of Atur take advantage of this phenomenon. Shards of bone are implanted in lanterns, and shed an eerie light. The essence burns out over time, so bone-tenders wander the streets with bags of broken bones freshening the lamps. Ghastlights only function in [[Mabar]]an [[manifest zone]]s with the right properties.
+* ''//Remnants.//'' The bonesmiths and wranglers of Atur can create many forms of [[undead]] that use only parts of a corpse. One could encounter a gearwheel being turned by a tirelessly pumping pair of skeletal legs, or a chair with a pair of skeletal arms that massage you while you relax. Other examples include:
+** ''//Garghouls.//'' A "garghoul" is typically a skull which is embedded into a door or a statue and empowered to perform specific actions. In the case of a door garghoul, the embedded skull is aware of any people on the doorstep, and if you speak the proper password it will unlock the door. Properly enchanted garghouls can speak or sing, though they are not properly sentient and can only repeat phrases implanted by bone wranglers. Garghouls can also be used as security, triggering an [[alarm]], [[glyph of warding]], or simply taking notes on intruders or people they observe.
+** //''Helping Hands.''// These are skeletal hands that can be programmed to serve a variety of functions. 
+** ''//Bone Boards.//'' Bones from a specific creature have a sympathetic resonance, which is why the spell [[animate dead]] can't use bones from multiple creatures mixed together. Bonesmiths can use this phenomenon in a variety of ways. For example, mansions in Atur have "bone boards," where moving a knucklebone in the dining room (or any other room) rattles a matching fingerbone in the servant's station.
+** ''//Funerary Fashion.//'' Remnants can be incorporated into clothing; fingerbones are often used as clasps. One of the more colorful accessories is the //rasp//, a skeletal serpent programmed to serve as a belt, boa, or other form of adornment. Despite being dead, rasps can have a painful bite; they don’t produce poison, but can at least serve as a brief distraction if flung at an enemy and commanded to attack.
+

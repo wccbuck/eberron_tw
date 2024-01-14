@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414230807420
-modified: 20230825225234259
+modified: 20240103005606565
 tags: humanoid
 tier: 1
 title: gnome
@@ -18,9 +18,9 @@ words of power, or a [[rogue]]'s careful threat. They give an initial impression
 
 Gnomes are between 3 and 4 feet tall and average about 40 pounds. They mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
 
-Many gnomes have an innate ability to conjure small illusory sounds, equivalent to the audible version of the [[lesser illusion]] cantrip. Some gnomes are able to use these "[[ghost sound]]"s to communicate simple ideas to tiny [[beast]]s, such as squirrels, badgers, and woodpeckers, and keep such animals as pets.
+Gnomes often have keen senses of sight and smell. Many gnomes also have an innate ability to conjure small illusory sounds, equivalent to the audible version of the [[lesser illusion]] cantrip. Some gnomes are able to use these "[[ghost sound]]"s to communicate simple ideas to tiny [[beast]]s, such as squirrels, badgers, and woodpeckers, and keep such animals as pets.
 
-If you'd like to play as a gnome, consider the [[talent]]s [[Shimmerwood Gnome]], [[Lorghalan Gnome]], and/or [[Fade Away]].
+If you'd like to play as a gnome, consider the [[Gnome talent|Gnome (talent)]].
 
 !! Links to Headers
 * <<scrollToHeader "Gnomes of Zilargo">>
@@ -31,20 +31,9 @@ If you'd like to play as a gnome, consider the [[talent]]s [[Shimmerwood Gnome]]
 
 !! Gnomes of Zilargo
 
-To say that every [[Zil|Zilargo]] gnome is a ruthless schemer would
-be a hurtful exaggeration. Intrigue is the favorite pastime of most Zil, though. Every gnome child of Zilargo is taught to manipulate and deceive, and by the time
-they reach adulthood most have been involved in dozens
-of schemes and feuds, some of which persist well into
-adulthood. Even a gnome with a good heart and noble
-goals—of which there are many—often still prefers to
-use trickery and cunning rather than the unreliable
-tools of honesty or brute force.
+To say that every [[Zil|Zilargo]] gnome is a ruthless schemer would be a hurtful exaggeration. Intrigue is the favorite pastime of most Zil, though. Every gnome child of Zilargo is taught to manipulate and deceive, and by the time they reach adulthood most have been involved in dozens of schemes and feuds, some of which persist well into adulthood. Even a gnome with a good heart and noble goals—of which there are many—often still prefers to use trickery and cunning rather than the unreliable tools of honesty or brute force. For more information about the Zilargo culture, see [[Culture of Zilargo]].
 
-The gnomes' natural talent for [[illusion]] aids them in trickery and
-entertaining, and they often use small animals as messengers and guides.
-When you're making a Zil gnome character, consider
-what kinds of schemes you or your family might be
-involved in. The table below offers some suggestions, but you should feel free to elaborate on these schemes, even to absurd extremes. 
+The gnomes' natural talent for [[illusion]] aids them in trickery and entertaining, and they often use small animals as messengers and guides. When you're making a Zil gnome character, consider what kinds of schemes you or your family might be involved in. The table below offers some suggestions, but you should feel free to elaborate on these schemes, even to absurd extremes. 
 
 | !<<dr d10>> |!Scheme |
 | 1 |Your family is working on a new form of [[elemental binding]], but they need a lot of Khyber [[dragonshard]]s. |

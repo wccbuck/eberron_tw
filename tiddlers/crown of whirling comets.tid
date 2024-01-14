@@ -1,0 +1,25 @@
+category: object
+charges: 6
+color: #41D5E1
+created: 20231118011336668
+modified: 20231118011943743
+tags: destruction accessory jewelry head
+tier: 4
+title: crown of whirling comets
+type: text/vnd.tiddlywiki
+
+This delicate silver tiara is decorated with stellar iconography. While you wear the crown after becoming [[attuned|attunement]] to it, the gems on the tiara's points detach and closely orbit your head.
+
+The crown has 6 charges for the following properties, which you can use while wearing the crown:
+
+//''Star Flight.''// You can spend 1 charge to gain the power of flight for 10 minutes. For that duration, you can fly as fast as you can run, and you can hover in place. While flying, you glow faintly with starlight.
+
+//''Starlight Strike.''// You can spend any number of charges to launch bolts of frigid starlight. You launch a number of bolts equal to the number of charges spent, and you can direct the bolts to target one creature or several, so long as all creatures are within 120 feet of you and you can see them. Just as the spell [[magic missile]], these magical projectiles almost always strike their targets; it is nearly impossible to dodge them. Instead of magical force damage, each bolt deals [[cold damage|damage type]].
+
+//''Whirling Hail.''// You can spend 3 charges and cast the [[ice storm]] spell.
+
+<<spellpreview "ice storm">>
+
+The crown regains <<dr "1d6">> expended charges daily at dawn.
+
+<<itemcharges 6>>

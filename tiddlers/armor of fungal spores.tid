@@ -1,0 +1,10 @@
+category: object
+color: #41D5E1
+created: 20231118002539811
+modified: 20231118002827423
+tags: hindrance armor body
+tier: 2
+title: armor of fungal spores
+type: text/vnd.tiddlywiki
+
+While wearing this armor, you can make the armor emit poisonous spores, which fill a 10-foot-radius sphere centered on yourself. Each creature in that area that inhales the spores is poisoned (as a [[basic poison]]). The spores linger in the air for about 30 seconds. Once this property is used, it can't be used again until the next dawn.

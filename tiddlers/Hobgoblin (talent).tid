@@ -1,6 +1,6 @@
 category: talent
 created: 20210811030509542
-modified: 20221125205042624
+modified: 20231129061017356
 tags: hobgoblin goblinoid
 title: Hobgoblin (talent)
 type: text/vnd.tiddlywiki
@@ -9,5 +9,5 @@ xpcost: 1
 As a [[hobgoblin]], you gain the following benefits:
 
 * You have [[darkvision]] within 60 feet. 
-* Whenever you [[push yourself]] to perform an action in front of two or more allies or those you wish to impress, you gain two effective [[momentum]] bonuses rather than one, but on a [[bad outcome]], suffer an additional point of [[stress]].
-** As an optional rule, when the number of observers is five or more, gain three effective momentum bonuses rather than one, but suffer two additional stress on a bad outcome.
+* Whenever you [[push yourself]] to perform an action in front of two or more allies or those you wish to impress, you gain [[advantage]] on the attempt (in addition to the normal benefits of pushing yourself), but on a [[bad outcome]], mark a [[stress]] box, or suffer one [[harm]] as [[psychic damage|damage type]], in addition to any other [[consequence]]s.
+** As an optional rule, when the number of observers is five or more, gain [[advantage]] //and// an extra +1 [[impact]] when you push yourself, but suffer two extra [[stress]] or [[harm]] on a bad outcome.

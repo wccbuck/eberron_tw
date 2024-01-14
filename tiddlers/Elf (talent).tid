@@ -1,6 +1,6 @@
 category: talent
 created: 20211201053733380
-modified: 20230928212522329
+modified: 20231126231755325
 tags: elf
 title: Elf (talent)
 type: text/vnd.tiddlywiki
@@ -14,3 +14,9 @@ As an [[elf]], you gain the following benefits:
 ** Gain two additional [[language]]s.
 ** Gain one [[cantrip|spell tier]] of your choice.
 ** Gain +1 [[impact]] when using an artisan's tool of your choice (such as an [[herbalism kit]] or [[smith's tools]]), or a [[musical instrument]].
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

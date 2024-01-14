@@ -1,6 +1,6 @@
 category: talent
 created: 20221208174321463
-modified: 20221208174738968
+modified: 20231129052104472
 tags: eneko
 title: Eneko (talent)
 type: text/vnd.tiddlywiki
@@ -11,3 +11,4 @@ As an [[eneko]], you gain the following benefits. Note that this [[talent]] cost
 * Gain +1 [[impact]] when performing feats of strength or athletics.
 * Gain an additional [[harm]] box.
 * You are resistant to [[fire damage|damage type]]. You are also acclimated to hot climates and aren't adversely affected by extreme heat.
+** Alternatively, if you are one of the [[pathadrik]] mountainfolk of [[Adar]], or perhaps have the blood of [[frost giant]]s in your veins, you can replace this benefit with a resistance to [[cold damage|damage type]], and an acclimation to cold climates.

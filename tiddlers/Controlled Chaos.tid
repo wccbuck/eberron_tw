@@ -10,7 +10,8 @@ d7: 1
 duration: 45 seconds
 effect: A [[chain devil]] emerges from the target point. It vanishes after {{!!duration}}.
 l_duration: 6 hours
-modified: 20220619055351565
+modified: 20231126204351257
+prereq: [[Wild Magic]]
 s_duration: 1 second
 tags: sorcerer
 title: Controlled Chaos

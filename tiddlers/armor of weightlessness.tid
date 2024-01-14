@@ -1,0 +1,15 @@
+category: object
+charges: 5
+color: #41D5E1
+created: 20231118004257526
+modified: 20231118004422225
+tags: armor body mobility
+tier: 2
+title: armor of weightlessness
+type: text/vnd.tiddlywiki
+
+This armor has 5 charges. While you wear it, you can expend 1 or more charges to cast one of the following spells from the armor, targeting yourself: [[jump]] (1 charge) or [[levitate]] (2 charges).
+
+This armor regains <<dr "1d4 + 1">> expended charges daily at dawn.
+
+<<itemcharges 5>>

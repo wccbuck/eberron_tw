@@ -1,5 +1,5 @@
 created: 20200223062944506
-modified: 20231009193513377
+modified: 20231115062338888
 tags: $:/tags/Macro
 title: $:/eberron-tw/macros/showthings
 type: text/vnd.tiddlywiki
@@ -113,13 +113,23 @@ Find organizations tagged as "{{!!title}}"
 </$button>
 \end
 
-\define showpplent-type()
+\define showpeople-type()
 <$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
 <<resetpplents>>
 <$action-setfield $tiddler="$:/config/Manager/PplEntTag" text={{!!title}}/>
 <$action-setfield $tiddler="$:/state/tab-1473298955" text="Find People/Entities"/>
 <$action-navigate $to="Find Things"/>
 Find people tagged as "{{!!title}}"
+</$button>
+\end
+
+\define showentities-type()
+<$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
+<<resetpplents>>
+<$action-setfield $tiddler="$:/config/Manager/PplEntTag" text={{!!title}}/>
+<$action-setfield $tiddler="$:/state/tab-1473298955" text="Find People/Entities"/>
+<$action-navigate $to="Find Things"/>
+Find entities tagged as "{{!!title}}"
 </$button>
 \end
 

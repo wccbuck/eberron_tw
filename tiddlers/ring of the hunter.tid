@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20210102222441343
-modified: 20220220235901523
+modified: 20231118010655652
 tags: stealth weapon accessory jewelry bow
 tier: 1
 title: ring of the hunter
@@ -13,4 +13,4 @@ nocked arrow when you draw the bowstring. The arrows
 disappear when they strike something, or when the bow
 disappears.
 
-If you drop the bow, or fire more than 3 arrows, it disappears early. Once you have used the ring, it can't be used again until the next dawn.
+If you drop the bow, or shoot more than 3 arrows, it disappears early. Once you have used the ring, it can't be used again until the next dawn.

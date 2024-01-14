@@ -1,7 +1,7 @@
 color: #1E868E
 created: 20220217210809451
 list: sword dagger axe hammer mace flail spear bow projectile crossbow whip staff rod [[punch weapon]]
-modified: 20221215060055449
+modified: 20231115195556441
 tags: weapon
 title: any weapon
 tooltip: tag for weapons which can take any form
@@ -9,6 +9,6 @@ type: text/vnd.tiddlywiki
 
 This tag indicates a weapon which can be of any weapon type, such as a [[weapon of spite]]. It is used on items that should show up on [[Find Things]] when the user chooses, say, the "sword" tag, even if that item doesn't have that specific tag.
 
-<$list filter="[list{!!title}sort[title]]">
-<$macrocall $name="tag" text={{!!title}}/>
+<$list filter="[list{!!title}sort[title]]" variable="tagTitle">
+<$macrocall $name="tag" text=<<tagTitle>>/>
 </$list>

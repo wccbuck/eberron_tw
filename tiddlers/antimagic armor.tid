@@ -1,0 +1,14 @@
+category: object
+color: #41D5E1
+created: 20231118000644654
+modified: 20231118002512182
+tags: armor body invigoration mobility
+tier: 4
+title: antimagic armor
+type: text/vnd.tiddlywiki
+
+While wearing this armor, on command, you can give yourself [[advantage]] to defend against a hostile [[spell]]. You can do this once every hour.
+
+In addition, while you wear this armor, you can use it to cast [[antimagic field]]. Once this property is used, it can't be used again until the next dawn.
+
+<<spellpreview "antimagic field">>

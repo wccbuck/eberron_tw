@@ -1,11 +1,12 @@
+category: object
 color: #1E868E
 created: 20220216231226816
-modified: 20220805195903714
-tags: 
+modified: 20231119050845647
+tags: [[magical implement]]
 title: orb
 tooltip: tag for orb magical implements
 type: text/vnd.tiddlywiki
 
-See [[magical implement]].
+An orb is a type of [[magical implement]].
 
 !!! <<showitem-type>>

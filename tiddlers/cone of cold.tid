@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20210330182646712
-modified: 20221205050110782
+highertier: show
+modified: 20231118012358245
 tags: evocation
 tier: 3
 title: cone of cold
@@ -9,4 +10,8 @@ type: text/vnd.tiddlywiki
 
 A blast of cold air erupts from your hands. Each creature in a 60-foot cone must resist the icy wind or suffer [[cold damage|damage type]]. A creature killed by this spell becomes a frozen statue until it thaws.
 
+<$reveal type="match" state="!!highertier" text="show">
+
 This spell can be upgraded to epic-[[tier|spell tier]] for an even more destructive effect.
+
+</$reveal>

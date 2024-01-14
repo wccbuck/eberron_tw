@@ -1,6 +1,7 @@
 category: talent
 created: 20211128043045641
-modified: 20230801200430496
+modified: 20231126210405669
+prereq: [[Wild Shape (talent)]]
 tags: druid
 title: Enhanced Wild Shape
 type: text/vnd.tiddlywiki

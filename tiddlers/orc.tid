@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200415180639322
-modified: 20231004163358964
+modified: 20240105232102155
 tags: humanoid
 tier: 1
 title: orc
@@ -114,3 +114,5 @@ in [[Droaam]]. The Gaa'ran have a talent for [[primal magic]]
 that suggests they were once tied to the [[Gatekeepers]] of the
 Shadow Marches, but they are not Gatekeepers and don't fight
 [[aberration]]s; their interest lies solely in cultivation.
+
+Note that Gaa'aram communities also include many [[shifter]]s, whom the orcs call //taarka'va//, or "wolf brothers." For more information, see <<navAndScrollToHeader shifter "Shifters of Droaam">>.

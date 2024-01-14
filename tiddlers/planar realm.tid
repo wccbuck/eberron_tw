@@ -1,12 +1,14 @@
 color: #092F1E
 created: 20210302051808171
 list: plane layer barony demiplane [[planar realm]]
-modified: 20220805201039598
+modified: 20231115195544465
 tags: [[location type]]
 title: planar realm
 tooltip: group tag for planes of existence and their layers, as well as demiplanes of Khyber
 type: text/vnd.tiddlywiki
 
-<$list filter="[list{!!title}sort[title]]">
-<$macrocall $name="tag" text={{!!title}}/>
+A planar realm is a general tag encompassing a domain of reality not part of the Material Plane of [[Eberron]].
+
+<$list filter="[list{!!title}sort[title]]" variable="tagTitle">
+<$macrocall $name="tag" text=<<tagTitle>>/>
 </$list>

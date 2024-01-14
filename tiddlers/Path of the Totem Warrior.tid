@@ -1,6 +1,7 @@
 category: talent
 created: 20220720182901629
-modified: 20220823185818050
+modified: 20231126204746462
+prereq: [[Berserker Rage]]
 tags: barbarian
 title: Path of the Totem Warrior
 type: text/vnd.tiddlywiki
@@ -24,4 +25,4 @@ In addition, you can cast one of the following spells while not raging: [[beast 
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

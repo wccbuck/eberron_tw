@@ -1,0 +1,18 @@
+category: object
+color: #41D5E1
+created: 20231118012749378
+modified: 20231118162637039
+tags: [[weapon enhancement]] accessory hindrance
+tier: 3
+title: sundering sphere
+type: text/vnd.tiddlywiki
+
+This marble-size crystal sphere glows with extraplanar energy.
+
+As part of the process of [[attuning|attunement]] to this item, you press the crystal sphere to the hilt of a nonmagical melee [[weapon]] of your choice, magically attaching the sphere to the weapon. The weapon becomes a magic weapon with enhanced combat properties. While wielding this weapon, you also gain the following benefits:
+
+//''Dimensional Anchor.''// You have [[advantage]] on attempts to resist spells or effects that would send you to an extradimensional space, a [[demiplane]], or another [[plane]] of existence against your will.
+
+//''Isolating Smite.''// When you hit a creature with this weapon, you can attempt to temporarily banish it. If the target creature cannot resist the abjuration, it is banished to a harmless extradimensional space for the next 5-15 seconds. When the banished creature returns, it reappears in the space it left or the nearest unoccupied space. Once this property is used, it can't be used again until the next dawn.
+
+When you end your [[attunement]] to the sphere, the sphere harmlessly detaches from the weapon, and the weapon reverts to a nonmagical piece of equipment.

@@ -1,5 +1,5 @@
 /*\
-title: $:/core/modules/filters/minrelevance.js
+title: $:/eberron-tw/minrelevance.js
 type: application/javascript
 module-type: filteroperator
 

@@ -1,7 +1,7 @@
 category: occupation
 color: #A3CFBB
 created: 20200422164821759
-modified: 20230824224522826
+modified: 20231115062419936
 title: inquisitive
 tooltip: private detective
 type: text/vnd.tiddlywiki
@@ -14,6 +14,6 @@ If you'd like to play as an inquisitive, consider the talent [[Shrewd Inquisitiv
 
 !! People and Places Tagged "inquisitive"
 
-!!! <<showpplent-type>>
+!!! <<showpeople-type>>
 
 !!! <<showplace-type>>

@@ -3,11 +3,12 @@
         "created": "20221129053636977",
         "text": "The Kraken's Wake is a [[Windwrights Guild]] ship captained by ''Helias Lyrandar''. The black-and-silver ship runs a route between [[Sharn]] and [[Stormreach]], typically setting off from Greenman Pier in [[Sharn's Welcome]]. Its main sail is emblazoned with the [[kraken]] emblem of House [[Lyrandar]], and is bound with an [[air elemental]], ensuring that the ship always has favorable wind. While not as fast as an [[elemental galleon]], the Kraken's Wake's windsail makes for a quick voyage.\n\nCaptain Helias always pays for a [[sahuagin]] guide to safely navigate the [[Straits of Shargon]], but his crew typically tosses a small offering to the [[Devourer]] overboard, just in case.",
         "title": "Kraken's Wake",
-        "modified": "20221129055258550",
+        "modified": "20231119051254296",
         "tags": "vehicle Stormreach Sharn",
         "type": "text/vnd.tiddlywiki",
         "category": "object",
         "color": "#41D5E1",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "Helias Lyrandar's airship"
     }
 ]

@@ -1,6 +1,7 @@
 category: talent
 created: 20210726023110934
-modified: 20230707024702697
+modified: 20231126204458171
+prereq: [[Warforged (talent)]]
 tags: warforged
 title: Warforged Integrated Protection
 type: text/vnd.tiddlywiki
@@ -17,4 +18,4 @@ As a [[warforged]], your body has built-in defensive layers, which can be enhanc
 
 {{!!title}} is a prerequisite of the following [[talent]]s:
 
-<<list-links-article "[<currentTiddler>backlinks[]category[talent]search['Prerequisite]sort[title]]">>
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>
