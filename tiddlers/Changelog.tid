@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.25.03
-modified: 20240111205220587
+currentversion: 1.25.04
+modified: 20240125224105329
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,16 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.25.04 <span style="font-weight:normal">(Jan 25, 2024)</span>
+
+* Reduced the [[spell tier]] of [[astral projection]] and [[weird]] from legendary to epic
+* Added [[Aejar ir'Wynarn]] and [[Cail d'Deneith]]
+* Added more info to [[Aarott ir'Wynarn]]
+* Added [[Faldren's Folly]], though I centralized it around [[Orcbone]], didn't use the detail about New Wroat extending all the way to modern-day [[Graywall]], and shortened the timeframe. I adapted a story about [[Sora Maenya]] from the Queen of Stone novel for the end of New Wroat instead of the rise of Droaam. I might change these details later if Frontiers presents things differently.
+* The [[Darguun]] page said that the [[Marguul]] are in the southern parts of the nation, which doesn't match other canon; changed that to "northern"
+* As mentioned in a previous update, an old [[CotSF|Silver Flame]] article mentioned a [[templar]] stronghold called "Tira's Watch" somewhere on the southeastern border of [[Thrane]] and [[Breland]]. I went ahead and merged this with [[Arythawn Keep]] in this update.
+* Clarified that the twists in [[eldritch whorlwood]] are in the grain pattern of the wood
 
 !!! 1.25.03 <span style="font-weight:normal">(Jan 11, 2024)</span>
 
