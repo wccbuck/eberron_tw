@@ -359,7 +359,7 @@ Action widget to generate gibberish for different fictional languages
     GenerateGibberishWidget.prototype.execute = function () {
         this.actionTiddler = this.getVariable("currentTiddler");
         this.actionField = this.getAttribute("$field", "generatedname");
-        this.language = this.getAttribute("$language", "Goblin");
+        this.language = this.getAttribute("$language", "Goblin").replace(/\s/g, "");
         this.text = this.getAttribute("$text", "");
         const scrambling = this.getAttribute("$scrambling", "enabled") === "enabled";
 
@@ -374,7 +374,6 @@ Action widget to generate gibberish for different fictional languages
         } catch (error) {
             return;
         }
-
         try {
             sharedLang1 = this.wiki.getTiddler(consTiddlerName).fields.relatedlanguage;
             const sharedCons1TiddlerName = `$:/${sharedLang1}GibberishConsonants`;

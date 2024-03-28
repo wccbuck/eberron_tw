@@ -5,9 +5,10 @@
         "type": "text/vnd.tiddlywiki",
         "title": "Uskal Orien",
         "tags": "humanoid Stormreach human Orien",
-        "modified": "20220506030550817",
+        "modified": "20240319205847036",
         "color": "#FEA627",
         "category": "person",
-        "article": "Viceroy "
+        "article": "Viceroy ",
+        "tooltip": "lead Orien representative in Stormreach"
     }
 ]

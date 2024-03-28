@@ -1,10 +1,10 @@
 category: location
 color: #3B5C0A
 created: 20200414204903370
-modified: 20230511202457836
+modified: 20240314183408046
 population: 8000000
 style: {"fillOpacity":"0","opacity":"0"}
-tags: nation Khorvaire
+tags: nation Khorvaire defunct
 title: Cyre
 tooltip: "the jewel of Galifar", richest of the Five Nations, completely destroyed in the Mourning
 type: text/vnd.tiddlywiki

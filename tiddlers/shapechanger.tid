@@ -1,7 +1,7 @@
 category: creature
 color: #58151c
 created: 20210428061854715
-modified: 20220805222856241
+modified: 20240227024213906
 tags: 
 title: shapechanger
 tooltip: any creature that has the innate ability to change its form
@@ -10,3 +10,9 @@ type: text/vnd.tiddlywiki
 A shapechanger is any kind of creature that has the innate ability to polymorph itself into another form. This includes [[changeling]]s, [[therianthrope]]s, [[rakshasa]]s, [[vampire]]s, [[yuan-ti]], and [[slaad]]s. This transformation is magical, but it is a truly physical transformation and not an [[illusion]]. A shapechanger's true form can be seen via [[truesight]].
 
 !!! <<showcreature-type>>
+
+!! Safeguards Against Shapechangers
+
+[[Eberron]] is a world where [[changeling]]s and other shapechangers inhabit every major settlement. The spell [[discern shapechanger]] exists, and [[Medani]] heirs can use [[trueform spectacles]] to watch for altered forms, but these tools are not very common. So how do people in the [[Five Nations]] deal with the existence of shapechangers in their daily lives?
+
+Since [[changeling]]s cannot duplicate equipment, many people have some sort of distinctive accessory that friends would recognize—a ring, a locket, a pin, or the like. If a person begins acting strangely, their friends might check to see if they were wearing their "token item." Aside from this, cautious people might ask questions such as "Where did we last meet?" before beginning a risky conversation with someone who might be a shapechanger, or even establish code phrases or elaborate handshakes to help authenticate their friends.

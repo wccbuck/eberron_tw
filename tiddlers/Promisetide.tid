@@ -2,7 +2,7 @@ category: event
 color: #A3CFBB
 created: 20210924212138430
 day: 28
-modified: 20211107003438550
+modified: 20240227065334989
 month: 5
 tags: [[Silver Flame]] holiday
 title: Promisetide
@@ -10,8 +10,4 @@ type: text/vnd.tiddlywiki
 
 ''Date: '' <$link to="Khorvaire calendar">{{!!day}}<$list filter=[{!!day2}!is[blank]] variable="noop">-{{!!day2}}</$list> <$transclude tiddler="$:/MonthNames" index={{!!month}}/></$link>
 
-As nature’s beauty
-reaches its height in late spring, the Purified honor
-the [[Silver Flame]] for the promise of the paradise to
-come, when the world is made pure and perfect for
-the faithful to inhabit.
+As nature’s beauty reaches its height in late spring, Promisetide is a time when the faithful of the [[Silver Flame]] renew their vows to fight against evil and protect the innocent. This holiday is a day of reflection on personal and communal sacrifices made in the past year, and a day for Flamists to reaffirm their commitment to the Silver Flame's cause and to each other. In this way, the holiday encourages looking forward to a better future, while emphasizing taking an active role in creating that future.

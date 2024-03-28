@@ -1,13 +1,14 @@
 [
     {
         "created": "20210314225608050",
-        "title": "Tyris d'Vadalis",
         "text": "The House [[Vadalis]] [[enclave]] of [[Blackbriar]] outside of [[Stormreach]] was established by a highly regarded [[druid]] named Mundir d'Vadalis, an avid naturalist who oversaw the house’s interests in [[Xen'drik]] during\nthe [[Last War]]. In the final year of the war, Mundir\nreceived a new apprentice breedmaster named Tyris,\na young man who had gotten into trouble for allegedly conducting unauthorized breeding experiments in and around his native town of [[Erlaskar]]. (Rather\nthan ruin Tyris’s life, the head of the Erlaskar enclave\nopted to send the young man off to Xen’drik.)\n\nMundir was trampled to death in an accident shortly after the [[Treaty of Thronehold]], leaving the fate of the [[Xen'drik]] enclave in doubt. Mundir’s daughter Khepra pled valiantly for the right to head the operation, but her lack of experience in [[magebreeding]] ultimately resulted in that critical responsibility falling to Tyris.\n\nSince taking over, Tyris has continued his former master’s policies for the most part, but he seems to be taking pains to make the house even more removed from [[Stormreach]] affairs than before. It takes a rare occurrence to draw him out of [[Blackbriar]], and one of his first acts as house leader was to instruct Rhomas d’Vadalis, his agent in the [[Citadel of the Twelve]], to assume oversight of [[Tooth and Nail|Stormreach Bazaar]], the one business in Stormreach that House [[Vadalis]] has a direct\ninterest in. Today, Rhomas deals almost exclusively with explorers and other visitors to [[Xen'drik]] (such as PCs). All who work for Tyris are sworn to secrecy about their activities, but some have implied that they were hired to capture exotic animals from the wilds of the continent’s interior on his behalf.",
-        "modified": "20210727192039589",
+        "title": "Tyris d'Vadalis",
+        "modified": "20240319205720282",
         "tags": "human humanoid Vadalis Blackbriar",
         "type": "text/vnd.tiddlywiki",
         "article": "Viceroy ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "leader of the Vadalis enclave outside Stormreach"
     }
 ]

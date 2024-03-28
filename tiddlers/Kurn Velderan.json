@@ -1,13 +1,14 @@
 [
     {
         "created": "20210315000314722",
-        "title": "Kurn Velderan",
         "text": "Viceroy Kurn Velderan makes his home in the [[Tharashk]] [[enclave]] in [[Stormreach]], the [[House Tharashk Refinery]]. He is a busy man. He manages\nnumerous mining camps and monitors activities\nwithin the city, which includes navigating diplomatic\ntightropes between the [[Storm Lords]], [[dragonmarked house]]s, and other forces. He’s working to strengthen the presence of the [[Liondrake's Roar]], the division of\nthe house that recruits mercenaries and laborers from\nthe monstrous races. Under Kurn’s watch, House\n[[Tharashk]] has developed ties with the [[hill giant]]s and\n[[eneko]]. To date, the [[drow]] have shown no interest\nin working with the house, but Kurn is always searching for new possibilities.\n\nKurn oversees the business of the house, but he\ndoesn’t have the time or skills to direct the refinery.\nThis is the work of [[Durgran Torrn]].",
-        "modified": "20210727192017827",
+        "title": "Kurn Velderan",
+        "modified": "20240319210037515",
         "tags": "Velderan Tharashk Stormreach human humanoid",
         "type": "text/vnd.tiddlywiki",
         "article": "Viceroy ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "leader of Tharashk enclave in Stormreach"
     }
 ]

@@ -1,0 +1,17 @@
+color: #D1BB71
+created: 20240314182844306
+modified: 20240320011541320
+tags: 
+title: defunct
+tooltip: tag for nations, empires, treaties, or organizations which no longer exist
+type: text/vnd.tiddlywiki
+
+This tag indicates a nation, empire, treaty, or organization which has dissolved or otherwise ceased to exist as an independent sovereign state.
+
+See also [[deceased]] (for people and person-like entities), and [[extinct]] (for languages and creatures).
+
+!! Defunct Nations
+<<list-links-article "[tag{!!title}tag[nation]sort[title]]">>
+
+!! Defunct Organizations
+<<list-links-article "[tag{!!title}category[organization]sort[title]]">>

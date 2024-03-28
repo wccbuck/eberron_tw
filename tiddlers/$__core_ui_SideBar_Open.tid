@@ -1,6 +1,6 @@
 caption: {{$:/language/SideBar/Open/Caption}}
 created: 20210214055509796
-modified: 20230529162040538
+modified: 20240323194958093
 tags: $:/tags/SideBar
 title: $:/core/ui/SideBar/Open
 type: text/vnd.tiddlywiki
@@ -31,7 +31,7 @@ $button$
 <div class="tc-sidebar-tab-open sq-sidebar-open">
 <$list filter="[list<tv-story-list>]" history=<<tv-history-list>> storyview="pop">
 <div class="tc-sidebar-tab-open-item">
-<$macrocall $name="droppable-item" button="""<$button message="tm-close-tiddler" tooltip={{$:/language/Buttons/Close/Hint}} aria-label={{$:/language/Buttons/Close/Caption}} class="tc-btn-invisible tc-btn-mini">{{$:/core/images/close-button}}</$button>&nbsp;<$link class="tc-sidebar-lists"><span style="font-weight:normal;">{{!!article}}</span>{{!!title}}</$link>"""/>
+<$macrocall $name="droppable-item" button="""<$button message="tm-close-tiddler" tooltip={{$:/language/Buttons/Close/Hint}} aria-label={{$:/language/Buttons/Close/Caption}} class="tc-btn-invisible tc-btn-mini">{{$:/core/images/close-button}}</$button>&nbsp;<$link class="tc-sidebar-lists"><$list filter="[<currentTiddler>!has[draft.of]]"><span style="font-weight:normal;">{{!!article}}</span></$list>{{!!title}}</$link>"""/>
 </div>
 </$list>
 <$tiddler tiddler="">

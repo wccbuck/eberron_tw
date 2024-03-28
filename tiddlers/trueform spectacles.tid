@@ -1,0 +1,13 @@
+category: object
+color: #41D5E1
+created: 20240227014601594
+modified: 20240227020704619
+tags: detection head [[Mark of Detection]] accessory [[dragonmark focus item]]
+tier: 2
+title: trueform spectacles
+tooltip: uncommon dragonmark focus item, grants Detection mark wielder the ability to see shapechangers' true forms
+type: text/vnd.tiddlywiki
+
+In order to use this magic item, you must possess the [[Mark of Detection]].
+
+These crystal lenses fit over the eyes. When the wearer activates the spectacles, they gain the ability to see the true nature of any [[shapechanger]] of [[creature tier]] 3 or lower within 60 feet, regardless of the form it currently assumes (similar to the effects of the spell [[discern shapechanger]]). 

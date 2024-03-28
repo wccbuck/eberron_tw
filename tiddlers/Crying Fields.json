@@ -1,1 +1,15 @@
-{"created": "20210130235619266", "title": "Crying Fields", "text": "A stretch of land east of the town\nof [[Ghalt]], the Crying Fields saw battle after bloody battle\nas [[Thrane]] and [[Aundair]] fought for control of what is now\nsouthern Aundair. Today, no one farms these fields, no\nanimals graze upon the crimson-tinged grass. The place\nhas a forlorn, melancholy atmosphere, as though a thick\nand cloying fog hangs over it. On nights when the primary\nmoon of the month rises full, the sounds of battle can be\nheard rolling across the empty expanse, and some claim\nthat the dead soldiers even appear to continue their endless\nstruggle for the land.\n\nThe name of the area comes from the sound the wind\nmakes when it blows from [[Lake Galifar]] and crosses into\nThrane. That\u2019s when sounds of anguish and despair claim\nthe fields. Low and distant during the day, the cries grow\nlouder and more distinct at night.", "modified": "20210727192002709", "tags": "geography Aundair Khorvaire", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "points": "42.711,-10", "style": "{\"color\": \"#40262D\"}"}
+[
+    {
+        "created": "20210130235619266",
+        "text": "A stretch of land east of the town of [[Ghalt]], the Crying Fields saw battle after bloody battle in 955 YK as [[Thrane]] and [[Aundair]] fought for control of what is now southern Aundair. During these battles, King [[Aarott|Aarott ir'Wynarn]] deployed experimental eldritch siege engines, terrible arcane weapons whose long-term consequences were not understood. Today, no one farms these fields, no animals graze upon the crimson-tinged grass. The place has a forlorn, melancholy atmosphere, as though a thick and cloying fog hangs over it. On nights when the primary [[moon]] of the month rises full, the sounds of battle can be heard rolling across the empty expanse, and some claim that the dead soldiers even appear to continue their endless struggle for the land.\n\nThe name of the area comes from the sound the wind\nmakes when it blows from [[Lake Galifar]] and crosses into\nThrane. That’s when sounds of anguish and despair claim\nthe fields. Low and distant during the day, the cries grow\nlouder and more distinct at night.",
+        "title": "Crying Fields",
+        "modified": "20240205220309483",
+        "tags": "geography Aundair Khorvaire",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "points": "42.711,-10",
+        "style": "{\"color\": \"#40262D\"}"
+    }
+]

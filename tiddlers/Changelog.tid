@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.25.04
-modified: 20240125224105329
+currentversion: 1.26.00
+modified: 20240328074843886
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,46 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.26.00 <span style="font-weight:normal">(Mar 28, 2024)</span>
+
+Lots of additions and changes, mostly adapted from [[The Giant Guide to Xen'drik|https://www.dmsguild.com/product/450098/The-Giant-Guide-to-Xendrik]] and [[Rime of the Frostmaiden|https://dnd.wizards.com/products/icewind-dale-rime-frostmaiden]].
+
+* Added the towns and notable locations of Icewind Dale from [[Rime of the Frostmaiden|https://dnd.wizards.com/products/icewind-dale-rime-frostmaiden]] to [[Orthoss]]. I tried to keep the original dimensions of the map, and keep the distances between towns the same, although I did have to rotate the region a few degrees. The map does look a little bit squashed vertically, but that's due to the latitude and the map projection.
+* Speaking of Forgotten Realms lore, I added some details from Luskan to [[Port Verge]]
+* Added mountains to the [[Lhazaar Principalities]] on the map, and made a page for the [[Fingerbone Mountains]]
+* Added items [[cauldron of plenty]] and [[trueform spectacles]], and the spell [[discern shapechanger]]
+* Added [[titan]] page
+* Added a lot to [[Group of Eleven]] taking inspiration from [[The Giant Guide to Xen'drik|https://www.dmsguild.com/product/450098/The-Giant-Guide-to-Xendrik]] and made pages for the individual city-states and their [[titan]] leaders. I merged some names (why do all the city-states have a "capital" city with a different name?), changed others ("Hekaton" is too on-the-nose for multi-armed giant warriors like the Hecatoncheires of Greek mythology, it takes me right out of the fiction), and just "translated" a few others into [[Giant]]-sounding names. Also, kanon writings on the Group of Eleven say that each city-state was led by //a// (one) great titan mage, so I changed the parts of GGtX that talk about pairs or groups of leaders (but I kept the Concateny of [[Zja Aqat]] because it's very cool).
+** City-states: [[Ketin]] (Crux), [[Karrakos]], [[Grand Ju'qata]], [[Ukargo]], [[Genesis Twins]], [[Eshtarnak]], [[Ix Il'ar]], [[Hul'zamek]] (Hekaton), the [[Gallimaufry]], and [[Zja Aqat]]. Did not add the Twilight Court / Shae Fir since it's unusable for timeline reasons and Spinner of Shadows reasons (see below), so I will have to write the Thelanis city-state from scratch at a future date. I'm thinking it will be on a manifest zone to the [[Assembly]], the [[Shadow|Shadow (barony)]], [[Folly]], or maybe even Misthaven from the upcoming Frontiers book.
+** Leaders: [[Hala'gon the Fulcrum]], [[Ju'qat Reskan Taq]], [[Xeno'tor the Dawnchild]]
+* Also added to [[Sulat League]], and made new pages [[Adaxus]], [[Ram'kanek]], and [[Five Luminaries]]
+* Changed [[Sulat League]] from the "organization" category to "location" category; it's a blurry line, but it was a nation, which is categorized as a location in this document, and it had pretty clear borders
+* Made [[Cul'sir]] and [[Cul'sir Dominion]] separate pages, and added [[oneiromancy]], also taking inspiration from GGtX
+* Intentionally did not add the Spinner of Shadows because I'm not adding Lolth to my Eberron, and GGtX's twist on it with "Zel Erakhni" doesn't quite grab me (and I really don't like the name, it should be incomprehensible [[Abyssal]], not "Zel Spider"). Also did not add Kharna Rayva because an overlord of lust does not interest me and the name is too similar to Karrnath (as well as "carnal"... like Erakhni and Hekaton, too on-the-nose).
+* De-capitalized the "A" in [[Il'ara]]
+* Added [[Dowron's Shield]] region
+* Clarified that the [[Moon Breaker]] might not have actually been the trigger for [[Dal Quor]]'s last turning of the age (see [[this tweet|https://web.archive.org/web/20200830212047/https://twitter.com/HellcowKeith/status/1300181546347892736]])
+* Deleted "Eshtarn Throne" since that bit from Explorer's Handbook was clearly used as inspiration for [[Eshtarnak]] in GGtX
+* Added "[[Old Giant|Giant]]" to the [[language translator]], though it's somewhat bare-bones
+* Added a lot to [[Shae Tirias Tolai]] from [[this old blog post|https://keith-baker.com/silver-and-bone/]], and added a bit to [[Taer Lian Doresh]] from the ECG
+* Updated the [[Age of Giants]] timeline with GGtX stuff, and moved the arrival of the [[dragon]]s who taught [[arcane magic]] to the [[titan]]s 1000 years earlier
+* Added a section "Safeguards Against Shapechangers" to [[shapechanger]]
+* Added [[Shyralla d'Lyrandar]] and [[Jolan d'Medani]] from [[this hard-to-find article about Taer Valaestas|https://web.archive.org/web/20081218233200/http://www.wizards.com/default.asp?x=dnd/drdisp/20080218]]
+* Added to [[Loran Rath]] and [[Tanar Rath]], adding their warlords ([[Renn ir'Tanar]] and [[Charl ir'Loran]]) as described in the ECS. Also added the tag [[Karrnathi warlord]], and the bone knight warlord [[Prothan ir'Vemel]] from Five Nations.
+* Added details to [[Ruken ir'Clarn]] and [[Kaius ir'Wynarn II]]
+* Added Oargev's advisor [[Essyn Cadrel]] from the Fading Dream novel
+* Added some people from City of Stormreach I missed: [[Duralt the Augur]], [[Margana Sooth]], [[Traven ir'Thavar]], [[Jalaine ir'Thavar]]
+* Added [[Marusan]] and [[Harryn Stormblade]] from the novels
+* Changed the central idea of [[Promisetide]], which was written by an author who appears not to have a firm idea of what any of the religions of Eberron are about
+* Clarified that the [[Argentum]] is a branch of the [[templar]]s
+* Added the "Valley of Blades" to the [[Byeshk Mountains]] page (based on one sentence in the 4e ECG)
+* Added "Origins of the Bone Knight" section (Prince of Skulls, Lady Ivory) to the [[bone knight]] page
+* Added the [[maur]] creature and replaced the ogres of [[Tharkgun Dhak]] with maurs
+* Added a plot hook to [[Margana Lain]]
+* Added a note that the [[kar'lassa]] [[Hal'thela]] may provide passage to the [[Thelanian|Thelanis]] [[barony]] of the [[marid]]s
+* Emphasized the //flow// of wealth rather than the hoarding of it in the page for [[Kol Korran]]
+* Added bells and brands to the [[Ghaash'kala]] page
 
 !!! 1.25.04 <span style="font-weight:normal">(Jan 25, 2024)</span>
 
@@ -178,6 +218,19 @@ Actual new stuff:
 * Added a few rare-tier [[weapon]]s (and one [[armor]]): [[flowing weapon]], [[adamantine weapon]], [[adamantine armor]], [[parryfoil weapon]], [[gravity bow]]
 * Made a nicer "spell preview" macro for items that grant you access to a spell
 
+!
+
+<$reveal type="nomatch" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
+</$button>
+
+</$reveal>
+<$reveal type="match" state="!!showmore" text="show">
+
+<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
+</$button>
+
 !!! 1.23.04 <span style="font-weight:normal">(Oct 06, 2023)</span>
 
 * Added [[Pukhalnum]], the language of the [[Ghaash'kala]], and added it to the [[language translator]]. I took much of the vocabulary from fan-made expansions of LotR's Black Speech ([[mostly from here|https://pdfcoffee.com/english-orcish-dictionary-2-pdf-free.html]], prioritizing the Horngoth and LOS variants, but avoiding words based on Quenya). For some reason I decided to add over a thousand words to the Pukhalnum dictionary, way more than any other in this TW. 
@@ -260,19 +313,6 @@ Miscellaneous:
 ** [[Stormreach]], by 75%. New population density is around 15.
 ** [[Io'lokar]] I didn't touch, since the pop density was around 10 already; that felt right.
 * Added the [[Sprawl]] demiplane
-
-!
-
-<$reveal type="nomatch" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="show"><h3>Show Older Changes</h3>
-</$button>
-
-</$reveal>
-<$reveal type="match" state="!!showmore" text="show">
-
-<$button class="tc-btn-invisible tc-tiddlylink" set="!!showmore" setTo="hide"><h3>Hide Older Changes</h3>
-</$button>
 
 !!! 1.22.10 <span style="font-weight:normal">(Aug 31, 2023)</span>
 
@@ -795,7 +835,7 @@ Tweaks, bug fixes, and smaller additions:
 * Added [[gnoll]] "contract names" from Exploring Eberron
 * Added a bit to [[Galethspyre]] and [[Gatherhold]] from [[this old KB blog post|https://keith-baker.com/dragonmarks-lost-lands-and-obscure-places/]]
 * Reorganized some information in the [[Panopticon]] page, pulled some from the [[Daanvi]] page
-* Made a separate page for [[Il'Ara]]
+* Made a separate page for [[Il'ara]]
 * Added [[talent]]s [[Atavist (talent)]], [[Countercharm]] and [[Cutting Words]]
 * Added [[universal property]] as a separate phenomenon category with pages for each one:
 ** [[Absolute Peace]], [[Bloodletting]], [[Broken Rhythms]], [[Burning Bright]], [[Chaotic Time]], [[Constant Change]], [[Dangerous Revelations]], [[Deadly Heat]], [[Elemental Power]], [[Embrace the Unknown]], [[Empowered Fire]], [[Empowered Ice]], [[Enchanted Realm]], [[Eternal Ennui]], [[Eternal Shadows]], [[Extended Druidic Magic]], [[Extended Illusion]], [[Extremely Morphic]], [[Eyes of the Law]], [[Fight On]], [[Fires of Industry]], [[Flexible Time]], [[Flowing Time]], [[Fluid in Form]], [[Gentle Thoughts]], [[Hunger of Mabar]], [[Impeded Illusion]], [[Impeded Magic]], [[Indomitable Beasts]], [[Lethal Cold]], [[Life Triumphant]], [[Light of Life]], [[Necrotic Power]], [[Necrotic Void]], [[No Chance]], [[Plane of Truth]], [[Preservation]], [[Primordial Matter]], [[Pure Light]], [[Radiant Power]], [[Radiant Void]], [[Stagnation]], [[Stillness of Flesh]], [[Storybook Logic]], [[Strange Reality]], [[The Land Provides]], [[Time Is An Illusion]], [[Timeless]], [[Unburdened]], [[Universal Understanding]], [[Unpredictable Magic]], [[Unquenchable Fury]], [[War Magic]], [[Words Have Power]]

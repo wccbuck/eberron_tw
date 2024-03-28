@@ -1,13 +1,14 @@
 [
     {
         "created": "20210305092854676",
-        "title": "House Tharashk Refinery",
         "text": "A smoky, dangerous, and loud world unto itself, the\nHouse [[Tharashk]] refinery looms over [[Graystone]] in [[Stormreach]]. The\n[[orc]] [[Durgran Torrn]] oversees the refinery’s workers, who\nprocess [[dragonshard]]s extracted from [[Xen'drik]]’s interior.\nFrom the small [[Tharashk]] [[enclave]] attached to the refinery, [[Kurn Velderan]] leads the house’s operations in the city: directing Durgran, hiring out [[inquisitive]]s, and\nrunning mining camps beyond the city’s borders. \n\n!! House Tharashk in Stormreach\n\nHouse [[Tharashk]] makes far more money from\nprospecting than it does from its [[inquisitive]]s, and\nover the last two centuries, the House of [[Finding|Mark of Finding]] has taken the\nlead in exploiting the hidden resources of [[Xen'drik]].\nTharashk has established a number of mining camps\nbeyond [[Stormreach]]. [[Dragonshards|dragonshard]] are the common\nquarry, but Tharashk miners also sell iron ore and\nother precious metals to the [[Stormreach Forge]]. It’s\ndangerous working a mine in Xen’drik, and many a\ncrew has disappeared without a trace. But the money is\ngood, and the flow of goods from Xen’drik has helped\nthe young house prosper over the last century.\n\nWithin [[Stormreach]], House [[Tharashk]] dominates\nthe [[Graystone]] ward in [[Cross]]. Even though a steady\nstream of traffic passes from the [[Harbor]] district to\nthe [[Marketplace]], the ward itself is almost entirely\ndedicated to House Tharashk. The massive refinery is\none of the largest employers in Stormreach, processing\nshipments of [[dragonshard]]s and other goods brought\nup the [[Koronoo River]]. Many of the refinery workers\nare unmarked members of House Tharashk, but the\nrefinery also employs locals and immigrants from the\n[[Shadow Marches]], providing lodging in dormitories\nin Graystone itself; most of the five thousand [[orc]]s\nand [[half-orc]]s found in [[Stormreach]] live in [[Graystone]].\nThanks to canteens spread around the dormitories, workers never need to leave the ward; however, many enjoy drinking at the [[Harbor]] district taverns or watching the fights in the [[Red Ring]], and things can get rowdy when a shift lets out at the refinery.\n\nViceroy [[Kurn Velderan]] makes his home in the\n[[Tharashk]] [[enclave]] and oversees the business of the house. The enclave is also where people can go to hire [[inquisitive]]s. Four bound Tharashk inquisitives work in Stormreach, including the peerless [[Shurya Velderan]], and their services are often called on by those frustrated by the corruption within the [[Stormreach Guard]].",
-        "modified": "20210727192013963",
+        "title": "House Tharashk Refinery",
+        "modified": "20240319210151395",
         "tags": "Tharashk Stormreach office Graystone enclave",
         "type": "text/vnd.tiddlywiki",
         "article": "the ",
         "category": "location",
-        "color": "#A3DB62"
+        "color": "#A3DB62",
+        "tooltip": "Tharashk enclave in Stormreach, processes dragonshards, hires out inquisitives"
     }
 ]

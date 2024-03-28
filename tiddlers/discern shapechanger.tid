@@ -1,0 +1,13 @@
+category: spell
+color: #B7A1E0
+created: 20240227015640742
+modified: 20240227020627587
+tags: divination
+tier: 2
+title: discern shapechanger
+tooltip: see the true form of shapechangers within 60 feet of you for 10 minutes
+type: text/vnd.tiddlywiki
+
+Upon casting this spell, you attune your senses to detect the presence and true nature of any [[shapechanger]] within 60 feet of you. For up to 10 minutes (or until your concentration is broken), you can choose to focus on one creature you can see. If the creature is a shapechanger (such as a [[changeling]], [[vampire]], or [[werecreature|therianthrope]]),  you become aware of its true nature and can see its true form. Targets of [[creature tier]] 3 or higher may be able to resist the effects of this spell and keep their true nature hidden.
+
+This spell does not enable you to see through non-[[shapechanger]] related [[illusion]]s or transformations, nor does it reveal the creature's capabilities beyond the fact that it is a shapechanger.

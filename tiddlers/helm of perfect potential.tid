@@ -2,7 +2,7 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20230829233710573
-modified: 20230829235642116
+modified: 20240314193124353
 tags: [[weapon enhancement]] destruction summoning armor head
 tier: 5
 title: helm of perfect potential
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 var1: 3 2
 var2: 18
 
-This copper-hued helm contains a shard of raw elemental energy embedded in its forehead, surrounded by a motif of a rising sun. Legend says a great [[plane]]walking [[artificer]] of the [[Cul'sir Dominion|Cul'sir]] fashioned this helm to hold a distilled fragment of the chaos of [[Kythri]] blended with the primordial essence which permeates [[Lamannia]].
+This copper-hued helm contains a shard of raw elemental energy embedded in its forehead, surrounded by a motif of a rising sun. Legend says a great [[plane]]walking [[artificer]] of the [[Cul'sir Dominion]] fashioned this helm to hold a distilled fragment of the chaos of [[Kythri]] blended with the primordial essence which permeates [[Lamannia]].
 
 At will, the [[attuned|attunement]] wearer of this helm can launch a bolt of searing elemental energy toward a target within 90 feet. Creatures that can't dodge the bolt suffer damage of one of the following [[types|damage type]] (your choice): acid, cold, fire, or lightning.
 

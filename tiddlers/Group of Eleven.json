@@ -1,13 +1,14 @@
 [
     {
         "created": "20201222035855880",
-        "text": "The Group of Eleven was an [[Age of Giants]] alliance of eleven\n[[giant]] city-states, each led by a powerful [[Externalist|Externalist Theory]] mage. Their\ndiverse culture valued competition, believing it drove evolution. Each city-state studied a different [[plane]] of existence, with the exceptions of [[Dal Quor]] (in which the [[Cul'sir]] took a keen interest) and [[Mabar]].",
+        "text": "The Group of Eleven was an [[Age of Giants]] alliance of eleven\n[[giant]] city-states, each led by a powerful [[Externalist|Externalist Theory]] [[titan]] mage. Their diverse culture valued competition, believing it drove evolution. Each city-state studied a different [[plane]] of existence, with the exceptions of [[Dal Quor]] (in which the [[Cul'sir|Cul'sir Dominion]] took a keen interest) and [[Mabar]].\n\nThe origins of the Group of Eleven lie in the rise of the [[Cul'sir Dominion]] in northern [[Xen'drik]]. Fearing the armies of the [[God-King|Cul'sir]], eleven cities across the southern half of the continent formed a non-aggression pact known as the Endecimal Treaty and pooled their resources to the north. What began as a show of force to defend against conquest quickly became a flourishing network of mutual enrichment, catalyzing economic growth and spurring the advancement of their arcane mastery. Each of the Eleven came to rely on each other for their [[planar|plane]] specialties, binding them together into a single political entity. But competition for power and prestige was at the heart of this network—a rivalry not only among the eleven city-states, but with the Cul'sir Dominion itself.\n\nUnlike the [[Dominion|Cul'sir Dominion]] and the [[Sulat League]], historical records suggest that none of the Eleven participated in the subjugation of the [[elves|elf]], whether as slaves or research subjects—at least not on the same scale. In fact, it is possible that some of the city-states even supported the elves in their rebellion following the destruction of [[Crya]].\n\n!! The Eleven City-States\n\n|!City-State |!Plane |!Leader |\n|[[Ketin]] |[[Daanvi]] |[[Hala'gon the Fulcrum]] |\n|[[Karrakos]] |[[Dolurrh]] |The Oracle of Stone |\n|[[Grand Ju'qata]] |[[Fernia]] |Pasha [[Ju'qat Reskan Taq]] |\n|[[Ukargo]] |[[Irian]] |[[Xeno'tor the Dawnchild]] |\n|The [[Genesis Twins]] |[[Kythri]] |The Anarch Prime |\n|[[Eshtarnak]] |[[Lamannia]] |the Apex |\n|[[Ix Il'ar]] |[[Risia]] |[[Il'ara]] the Archarcanist |\n|[[Hul'zamek]] |[[Shavarath]] |The Saint of Swords |\n|The [[Gallimaufry]] |[[Syrania]] |The Provost of Masks |\n|[Unknown] |[[Thelanis]] |[Unknown] |\n|[[Zja Aqat]] |[[Xoriat]] |The Concateny |",
         "type": "text/vnd.tiddlywiki",
         "title": "Group of Eleven",
-        "tags": "government Xen'drik [[Age of Giants]] giant",
-        "modified": "20230814213045063",
-        "color": "#9EC5FE",
+        "tags": "Xen'drik [[Age of Giants]] defunct government",
+        "modified": "20240328072903219",
+        "color": "#9ec5fe",
         "category": "organization",
-        "article": "the "
+        "article": "the ",
+        "tooltip": "alliance of titan city-states during the Age of Giants, each specialized in the study of one plane"
     }
 ]
