@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.26.00
-modified: 20240328074843886
+currentversion: 1.26.01
+modified: 20240420221108761
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,20 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.26.01 <span style="font-weight:normal">(Apr 20, 2024)</span>
+
+* Added to [[siege staff]]s based on [[this article|https://keith-baker.com/ifaq-siege-staffs/]]
+* Added a page for [[Gyrnar Shult]]
+* Added a paragraph about criminal penalties under the [[Code of Galifar]]
+* Added a paragraph about a [[Kythri]] [[manifest zone]] to the [[Black Pit]] page
+* Added a few details about the legacy of [[Breggor Firstking]]
+* Added to the [[Three Sisters]]—a little legend about where their name came from, as well as some old Lhazaaran-sounding names for each of the three islands (taking inspiration from Greek, Persian, and Arabic names).
+* Removed the "Ten-Towns" and related Icewind Dale sites from the lists of notable places in the [[Lhazaar Principalities]] page. They were kind of crowding the town lists.
+* Added a line about [[Ghaash'kala]] halberds and greatswords
+* Added a mention that Siberys [[dragonshard]]s can be used to enhance [[psionics]]
+* Added the Karrnathi town of [[Ember]] which is mentioned in ExE
+* Nudged [[Lakeside]] closer to the lakeside
 
 !!! 1.26.00 <span style="font-weight:normal">(Mar 28, 2024)</span>
 

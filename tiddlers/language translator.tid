@@ -1,0 +1,136 @@
+alternatetitle: gibberish generator translate
+category: game mechanics
+created: 20230509205613057
+displaylanguage: Goblin
+language: Goblin
+modified: 20240409225842775
+scrambling: enabled
+tags: 
+title: language translator
+tooltip: tool for translating text into an Eberron language, or generate gibberish that sounds about right
+translatetext: Hello! This is an example sentence, which is translated into gibberish below.
+type: text/vnd.tiddlywiki
+var1: __Saa__! Kar oz er onor twodrash, dhot oz thikeshten kat dhoshenshaat hanshar.
+
+\define translateActions() <$action-generate-gibberish $language={{!!language}} $text=<<actionValue>> $field="var1" $scrambling={{!!scrambling}}/>
+\define translateActions2() <$action-generate-gibberish $language={{!!language}} $text={{!!translatetext}} $field="var1" $scrambling={{!!scrambling}}/><$action-setfield displaylanguage={{!!language}}/>
+
+Use this tool to "translate" text into the selected Eberron language. The tool will directly translate some English words to the given language choice, using available canon sources (and some non-Eberron sources). These words are __underlined__ in the translation. For every other word, the tool generates gibberish that should sound close enough to authentic.
+
+As you type your text below, the tool will translate it into your chosen language.
+
+<$edit-text field="translatetext" rows="5" class="translator-text-box" tag="textarea" style="height: 100px;" placeholder="Text to translate goes here" default="" inputActions=<<translateActions>>/>
+
+<div style="display:flex;">
+''Select language:''&nbsp;<$select field="language" actions=<<translateActions2>>>
+<optgroup label="Khorvaire & Aerenal">
+<option title="'Dhak,' language of Darguun and Droaam">Goblin</option>
+<option title="'Elvish,' language of Aerenal">Aerenese</option>
+<option title="'Dwarvish,' language of the Mror Holds">Dethek</option>
+<option title="'Bescat,' language of the Talenta Plains">Talentan</option>
+<option title="'Gnomish,' language of Zilargo">Zilasalza</option>
+<option title="Language of the Shadow Marches">Azhani</option>
+<option title="Language of the Ghaash'kala of the Labyrinth">Pukhalnum</option>
+</optgroup>
+<optgroup label="Sarlona">
+<option title="Language of Riedra">Riedran</option>
+<option title="Language of Adar">Adaran</option>
+<option title="Language of Syrkarn">Syrk</option>
+</optgroup>
+<optgroup label="Xen'drik">
+<option title="Language of the Xen'drik Drow">Shedani</option>
+<option title="Language of the Ancient Titans">Old Giant</option>
+</optgroup>
+<optgroup label="Immortal">
+<option title="'Celestial,' immortal language of celestials and dragons">Draconic</option>
+<option title="Immortal language of fiends">Abyssal</option>
+</optgroup>
+</$select><div style="flex-grow:1;"></div><$checkbox field="scrambling" checked="enabled" unchecked="disabled" default="enabled" actions=<<translateActions2>>> Syllable Shuffling Enabled</$checkbox>
+</div>
+
+<$reveal type="nomatch" state="!!displaylanguage" text="Old Giant">
+<h3>Translated to <$link to={{!!displaylanguage}}/>:</h3>
+</$reveal>
+<$reveal type="match" state="!!displaylanguage" text="Old Giant">
+<h3>Translated to [[Old Giant|Giant]]:</h3>
+</$reveal>
+
+<<<
+
+{{!!var1}}
+
+<<<
+
+<$reveal type="match" state="!!displaylanguage" text="Goblin">
+
+Note: This translation is for the modern language spoken in [[Darguun]], [[Droaam]], and across [[Khorvaire]]. Pronounce the translated words intuitively, emphasizing doubled vowels. However, when translating for the [[Heirs of Dhakaan]], replace "th" with "t," pronounce "z" as [["ɮ" (lezh)|https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_lateral_fricatives]], almost like an "L" and a "ZH" spoken simultaneously, and pronounce "lh" as [["ɫ" (belted l)|https://en.wikipedia.org/wiki/Voiceless_dental_and_alveolar_lateral_fricatives]], almost like an "L" and a "SH" spoken simultaneously.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaylanguage" text="Zilasalza">
+
+Note: The Zilasalza "sz" sound is pronounced like an English "s," with your tongue curled a little higher, while making your lips into an "oo" shape. By contrast, the Zilasalza "s" is pronounced like an English "s" with your lips in an "ee" shape. Another way to think of it: "sz" is pronounced with a duck face, and "s" is pronounced with a smile.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaylanguage" text="Riedran">
+
+Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.org/wiki/Aspirated_consonant]]. So tʰ is more like t+h, not like the English "th," and pʰ is pronounced p+h, not "f."
+
+</$reveal>
+
+<$reveal type="match" state="!!displaylanguage" text="Adaran">
+
+Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.org/wiki/Aspirated_consonant]]. So tʰ is more like t+h, not like the English "th," and pʰ is pronounced p+h, not "f." Also, the Adaran "X" is pronounced as [[ɕ|https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative]], which is kind of halfway between "s" and "sh." 
+
+</$reveal>
+
+<$reveal type="match" state="!!displaylanguage" text="Syrk">
+
+Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.org/wiki/Aspirated_consonant]]. So tʰ is more like t+h, not like the English "th." Also, the Syrk "X" is pronounced as [[ɕ|https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative]], which is kind of halfway between "s" and "sh." 
+
+</$reveal>
+
+<$reveal type="match" state="!!displaylanguage" text="Shedani">
+
+Note: The Shedani "X" is pronounced "dz." Also, the tool does not add punctuation, but apostrophes (pronounced as glottal stops) are commonly found in Shedani words; feel free to add them in after vowels, Ns, Ls, and Ds as you see fit. The [[Vulkoori]] language group uses more apostrophes than the [[Sulatu]] language group, and the Sulatu tends to use more j's than the Vulkoori.
+
+</$reveal>
+
+<$reveal type="match" state="!!displaylanguage" text="Pukhalnum">
+
+Note: Pukhalnum has very few words with more than three syllables, and almost none with more than four. If any of your translated words are excessively long, consider cutting out some middle syllables, or perhaps deleting a letter or two from your original word.
+
+</$reveal>
+
+!! About This Tool
+
+For all words that aren't returned by just looking up a translated word in a dictionary, this tool generates a "gibberish" translation. The way that works is: each word you type is broken down into consonant blocks and vowel blocks. I've also got lists of consonant/vowel blocks for each fantasy language. Each word block is assigned a number by feeding it into a hash function. The word block's hash code gets a little extra shuffling and scrambling, so that each English syllable doesn't always give you the same fantasy language syllable (though you can turn that feature off by clicking the "Syllable Shuffling" checkbox; see the section below for an explanation). That hash code is then reduced to a number within the range of my consonant/vowel block lists by using its [[digital root|https://en.wikipedia.org/wiki/Digital_root]]. That root is then used as an index to determine which fantasy word block to use. Also, sometimes one word block is added or removed; this isn't decided randomly, but rather by the hash code of the whole word. So this tool is not random in any way, it's always gonna give you the same result for the same words, but it's much more complicated than a direct letter cipher (e.g. "a" = "uu," "b" = "sh," etc.)
+
+Also, if a gibberish word just happens to already be a defined word in the dictionary, the tool passes it back through the translate function. But it only does this once, so it's possible to get homonyms, rarely.
+
+Apostrophes in the output text are only seen in the case of direct dictionary lookups (like in [[Goblin]], "nine" = "gath'mokaas"), but the gibberish generator will not add punctuation of any kind. There's one exception: the [[Azhani]] vowel list includes "i'i" and "a'a."
+
+Some languages, like [[Riedran]] and [[Adaran]], are canonically closely linguistically related. To reflect this, I've made some lists of shared consonants that both languages pull from. This means occasionally when switching between two related languages, you'll get translated words that seem pretty similar. For example, "cliff" translates to "vist" in [[Talentan]], and "vrost" in [[Dethek]]; and "sentence" translates to "cloghiepha" in [[Aerenese]], and "kulugafa" in [[Shedani]].
+
+Also, in cases where a language is canonically related to [[Common]], sometimes the consonants you put in are the same as the ones you put out. For example, the Dethek translation of "hello" is "hellar."
+
+Source code here: [[$:/eberron-tw/action-generate-gibberish.js]]
+
+Details on specific language considerations can be found on the [[github issue page|https://github.com/wccbuck/eberron_tw/issues/24]].
+
+!! Disable Syllable Shuffling
+
+This tool does not know what a plural is, nor a verb tense. Plugging in "friend" and "friendly" into the Goblin translator will give you "drest" and "hombii," two entirely different words. This is due to an intentional design decision to make unrelated but similarly-spelled English words like "friend" and "fried" translate to different-sounding words (in this example, "drest" and "bic"). 
+
+However, you might actually want words that are similarly-spelled in English to be similarly-spelled in Goblin. With this feature disabled, "friendly" sounds plausibly related to "friend" ("tambii" vs "taaj"), but also to "fried" ("taahn").
+
+|!Shuffling Enabled? |!Friend |!Friendly |!Fried |
+| Yes |drest |hombii |bic |
+| No |taaj |tambii |taahn |
+
+Note that even with the feature disabled, sometimes you'll still see the entire translated word drastically change as you type, if the language is linguistically related to Common or another language.
+
+If you would prefer to disable this feature, just click the checkbox below.
+
+<$checkbox field="scrambling" checked="enabled" unchecked="disabled" default="enabled" actions=<<translateActions2>>> Syllable Shuffling Enabled</$checkbox>

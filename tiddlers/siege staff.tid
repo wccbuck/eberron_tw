@@ -1,33 +1,55 @@
+alternatetitle: blast force focus staff
 category: object
 color: #41D5E1
 created: 20201209020131411
-modified: 20220824210252609
+modified: 20240410181954958
 tags: [[magical implement]] [[arcane artillery]] fixed weapon
 tier: 0
 title: siege staff
 tooltip: arcane artillery, 15-foot long staff that either launches magical bursts of energy or amplifies a caster's spells
 type: text/vnd.tiddlywiki
 
-Siege staffs, the primary form of [[arcane artillery]], are made of
-wood—typically around fifteen feet long—engraved with mystic
-sigils and inlaid with [[dragonshard]]s.
+In the world of [[Eberron]], [[magical implement]]s such as [[wand]]s, [[rod]]s, and [[staff]]s are effective tools for channeling [[arcane magic]]. Many cultures throughout history have developed staff-shaped spell focuses, and cultures with sufficient mastery of arcane science have taken that principle to an extreme, crafting very large cylindrical [[arcane artillery]] to concentrate massive amounts of destructive energy. In the [[Five Nations]], the generic term for such artillery is "siege staff." Each culture has a different approach to this weapon's design, but all versions share a common foundation.
 
-Activating a siege staff takes three actions: one to prime the
-staff; one action to aim it; and one action to release the spell.
+See also [[long rod]], a smaller and more portable form of siege staff.
 
-There are several basic models, each of which serves a
-different purpose. When activated, it produces one of the
-following effects, determined by its model:
+!! Links to Headers
+* <<scrollToHeader "Cannith Siege Staffs">>
+* <<scrollToHeader "Other Forms of Siege Staff">>
+* <<scrollToHeader "Notes">>
 
-//''Blast Staff.''// This model was typically used to bombard
-massed troops or villages, unleashing a wide burst of energy. It
-has a range of 300/1200 feet and targets all creatures within a
-60-foot-radius sphere. 
+!! Cannith Siege Staffs
+
+The primary form of [[arcane artillery]] in the [[Five Nations]] is the [[Cannith]] siege staff, mass-produced by the [[Fabricators Guild]]. These staffs are typically around fifteen feet long, made of [[densewood]] with a steel core, wrapped in steel bands engraved with mystic sigils, and inlaid with [[dragonshard]]s.
+
+Activating a siege staff takes three separate actions: priming the staff; aiming the staff; and releasing the spell.
+
+There are three basic models of Cannith siege staff, each of which serves a different purpose. When activated, it produces one of the following effects, determined by its model:
+
+//''Blast Staff.''// This model was typically used during the [[Last War]] to bombard massed troops or villages, unleashing a wide burst of energy. It has a range of 1200 feet (300 with good accuracy) and targets all creatures within a 60-foot-radius sphere. 
 
 //''Force Staff.''// This model releases focused blasts of pure
 energy. Developed late in the war, these were primarily used
-to target fortifications, [[warforged titan]]s, and [[airship]]s. It has a
-range of 600/2400 feet.
+to target fortifications, [[warforged titan]]s, and [[airship]]s. It has a range of 2400 feet (600 with good accuracy).
 
-//''Focus Staff.''// This model acts as a [[magical implement]], amplifying the spells cast by an [[attuned|attunement]] spellcaster. Any offensive spell can be cast through this model of siege staff. The range is magnified by a factor of up to 10—so a [[fire bolt]] cast through
-a siege staff has a range of up to 1,200 feet. The spell's area of effect is doubled. If the spell normally affects a single target, it instead affects a 20-foot-radius sphere.
+//''Focus Staff.''// This model acts as a [[magical implement]], amplifying the spells cast by an [[attuned|attunement]] spellcaster. Any offensive spell can be cast through this model of siege staff. The range is magnified by a factor of up to 10—so a [[fire bolt]] cast through a siege staff has a range of up to 1,200 feet. The spell's area of effect is doubled. If the spell normally affects a single target, it instead affects a 20-foot-radius sphere.
+
+!! Other Forms of Siege Staff
+
+The House [[Cannith]] siege staff is the most commonly used artillery in [[Khorvaire]], particularly by the nations of [[Breland]] and (formerly) [[Cyre]] who relied heavily on Cannith production facilities during the [[Last War]]. But [[Aundair]], [[Karrnath]], and [[Thrane]] all also deployed their own designs alongside Cannith staffs.
+
+* In [[Aundair]], the [[Arcane Congress]] of [[Arcanix]] developed a wide range of experimental siege staff designs. These continue to be produced in small batches, and have much more variety than Cannith designs. Their blast staffs launch almost any [[damage type]], and their focus staffs offer a great deal of flexibility. Aundairian staffs are more elegant than either Cannith or [[Karrnath]]i designs. 
+** In addition to Arcanix siege staffs, some Aundairian siege staffs are made by hand and blessed by a particular [[archfey]]. These staffs often have unique limitations—for example, they must be used by a particular bloodline, or the artillerist must share a secret or tell a story to reload the weapon. The greater the restriction, the more powerful the weapon. Fey-touched siege staffs also may have strange quirks, such as unpredictable [[damage type]]s or areas of effect.
+* In [[Karrnath]], while Cannith siege staffs are widely employed, chivalric orders such as the [[Blackened Sky]] produce unique designs. Blackened Sky artillery typically uses [[darkwood]] with bands of spiked iron, and are wider and thicker than Cannith designs. These staffs tend to deal [[fire damage|damage type]], or in the case of focus staffs, enhance [[evocation]] magic. Before they were disbanded, [[Seeker|Blood of Vol]] units such as the Order of the [[Emerald Claw]] produced weapons that inflict psychic terror or project [[necromancy]] spells.
+* In [[Thrane]], the Silver Pyromancers of the [[Gilded Labyrinth]] have created small batches of [[divine|divine magic]] artillery. These are made of oak inlaid with silver, and typically inflict [[radiant damage|damage type]]. These can only be used by divine spellcasters, and reloading and firing these siege staffs typically requires singing hymns to the [[Silver Flame]].
+
+Beyond the [[Five Nations]], siege staffs vary greatly in form and appearance.
+
+* In the [[Lhazaar Principalities]], siege staffs are often mounted on ships, and each one is hand-carved and unique. Lhazaar staffmakers combine different types of wood with metals and other components that mutually resonate. Some Lhazaar artillerists prefer having knots or whorls in the wood; others cut such imperfections out of a staff. Bands of metal are common, but some staffmakers hammer nails of different metals into the length of the wood, or drape anchor chains over them. Lhazaar siege staffs commonly have unique quirks; a staff might be particularly potent, but often "jams" or even emits a backlash that effects anyone close to the staff. Focus staffs are fairly rare on Lhazaar ships. Some notable traditions include the following.
+** The [[Wind Whisperers]] produce blast staffs that volley an exploding ball of echoing thunder, and force staffs that shoot bolts of lightning.
+** The [[Bloodsails]] bind spirits to their siege staffs, firing bolts of howling spectral matter, inflicting [[psychic damage|damage type]]. Terrifying their targets to death has the advantage of killing crew while leaving the enemy vessel undamaged. Bloodsails also have been known to use focus staffs that project [[necromancy]] spells.
+** [[Lorghalan ships|Fleet of Lorghalan]] tend not to use siege staffs, and instead fling small [[earth elemental]] cannonballs at opposing ships.
+* The [[sahuagin]] civilization of the [[Eternal Dominion]] doesn't use the same forms of mass production seen in the [[Five Nations]], but its siege staffs are quite uniform in design and appearance. The Dominion often mounts siege staffs onto [[drake turtle]]s. The following two artillery designs are most commonly used by the Dominion.
+** ''Spikes'' are whorled shafts of coral or bone. While rare, [[kraken]] bone makes especially powerful spikes. These staffs deal [[force damage|damage type]].
+** ''Slugs'' are living siege staffs crafted by Dominion [[magebreeders|magebreeding]]. These staffs launch jets of digestive acid or pods that explode into clouds of poison gas, and tend to have a shorter range but wider area-of-effect compared to Cannith staffs.
+* In [[Riedra]], the [[Harmonious Sail]] mounts siege staffs (or even [[orb]]s) made of [[crysteel]] and [[sentira]] on their ships. Telepathic weapons inflict [[psychic damage|damage type]], while telekinetic weapons inflict [[force damage|damage type]].

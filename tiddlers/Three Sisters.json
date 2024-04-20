@@ -1,1 +1,15 @@
-{"created": "20210204211237703", "title": "Three Sisters", "text": "The Three Sisters are a trio of islands in the [[Lhazaar Principalities]]. They separate the [[Bitter Sea]] from the [[Straits of Orthoss]].", "modified": "20210727192037544", "tags": "[[Lhazaar Principalities]] island", "type": "text/vnd.tiddlywiki", "article": "the ", "category": "location", "color": "#3B5C0A", "polygons": "62.732,24.42 62.889,25.0 63.194,25.05 63.212,24.68 63.102,24.24 62.935,24.02|63.148,22.82 63.249,23.6 63.378,23.9 63.591,23.75 63.84,23.28 63.877,22.7 63.711,22.18 63.425,22.07 63.268,22.35|63.332,21.21 63.471,21.63 63.646,21.66 63.692,21.56 63.877,21.42 63.702,20.85 63.591,20.66 63.526,20.94 63.397,20.93", "style": "{\"fillOpacity\":\"0\",\"opacity\":\"0\"}"}
+[
+    {
+        "created": "20210204211237703",
+        "text": "The Three Sisters are a trio of islands in the [[Lhazaar Principalities]]. They separate the [[Bitter Sea]] from the [[Straits of Orthoss]]. Their individual names are Zhivanaar, Lyritza, and Tashineh.\n\nThe names for these three islands were the names of the daughters of the great pirate lord [[Lhazaar]]. According to legend, Lhazaar wanted her three daughters to settle down in the Principalities and find an island to rule, to help stabilize the new [[human]] colony. But the sisters preferred to sail, and they intended to return to [[Rhiavhaar]] and continue their adventures. And so Lhazaar magically turned their ships into these islands, forcing the three sisters to remain.",
+        "title": "Three Sisters",
+        "modified": "20240405064132682",
+        "tags": "[[Lhazaar Principalities]] island",
+        "type": "text/vnd.tiddlywiki",
+        "article": "the ",
+        "category": "location",
+        "color": "#3B5C0A",
+        "polygons": "62.732,24.42 62.889,25.0 63.194,25.05 63.212,24.68 63.102,24.24 62.935,24.02|63.148,22.82 63.249,23.6 63.378,23.9 63.591,23.75 63.84,23.28 63.877,22.7 63.711,22.18 63.425,22.07 63.268,22.35|63.332,21.21 63.471,21.63 63.646,21.66 63.692,21.56 63.877,21.42 63.702,20.85 63.591,20.66 63.526,20.94 63.397,20.93",
+        "style": "{\"fillOpacity\":\"0\",\"opacity\":\"0\"}"
+    }
+]
