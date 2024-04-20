@@ -1,14 +1,15 @@
 [
     {
         "created": "20201225041008947",
-        "text": "The Sulat League was an [[Age of Giants]] civilization of titans in [[Xen'drik]], led by the legendary \"Fire Prince,\" Adaxus. They specialized in the [[binding|elemental binding]] of [[fiend]]s and [[elemental]]s, as well as [[magebreeding]]. They are believed to have been responsible for the creation of the [[Moon Breaker]], the doomsday weapon that sealed off the [[plane]] of [[Dal Quor]] from [[Eberron]]. They also created the [[drow]] as living weapons to deal with rebellious [[elves|elf]], and it's thought that [[fire giant]]s are remnants of the Sulat.\n\nThe knowledge and wisdom of the Sulat League was\nlost in the cataclysm that destroyed [[Xen'drik]], and the\n[[fire giant]]s fell into barbarism with their kin. One legacy\nof this civilization remains, however—the [[Sulatu]] [[drow]],\nwho still live in the ruined obsidian fortresses of their\nformer masters.\n\nThe [[Battalion of the Basalt Towers]], [[fire giant]] ancestors of the Sulat, might some day seek to regain the knowledge of the Sulat League. At the moment, however, these giants exploit their physical might rather than arcane knowledge.",
+        "text": "The Sulat (or //Sul'at//, meaning \"Firebound\") League was an [[Age of Giants]] civilization of [[titan]]s that dominated central [[Xen'drik]] and rivaled the [[Cul'sir Dominion]] in power. Their meritocratic society revolved around advanced [[arcane research|arcane magic]], specializing in the [[binding|elemental binding]] of [[fiend]]s and [[elemental]]s, as well as [[magebreeding]] and [[transmutation]]. \n\nThe Sulat League was founded by the Hellfire Titan [[Adaxus]] to stand against the threat of the [[Cul'sir Dominion]]. After centuries of conflict between the two empires, Adaxus was deposed and shackled for his increasingly destructive trafficking of [[fiend]]s, after which the League was ruled by a council of [[Five Luminaries]].\n\nSulat League arcanists are believed to have been responsible for the creation of the [[Moon Breaker]], the doomsday weapon used by [[Cul'sir]] to seal off the [[plane]] of [[Dal Quor]] from [[Eberron]]. They also created the [[drow]] as living weapons to deal with rebellious [[elves|elf]], and it's thought that [[fire giant]]s are remnants of the Sulat.\n\nThe knowledge and wisdom of the Sulat League was\nlost in the cataclysm that destroyed [[Xen'drik]], and the\n[[fire giant]]s fell into barbarism with their kin. One legacy\nof this civilization remains, however—the [[Sulatu]] [[drow]],\nwho still live in the ruined obsidian fortresses of their\nformer masters.\n\nThe [[Battalion of the Basalt Towers]], [[fire giant]] ancestors of the Sulat, seek to regain the knowledge of the Sulat League and reclaim the glory of Fire Prince [[Adaxus]]—and may be searching for ways to release the Hellfire Titan.",
         "type": "text/vnd.tiddlywiki",
         "title": "Sulat League",
-        "tags": "government Xen'drik giant [[Age of Giants]]",
-        "modified": "20231209170611207",
-        "color": "#9EC5FE",
-        "category": "organization",
+        "tags": "Xen'drik [[Age of Giants]] defunct nation",
+        "modified": "20240326034237398",
+        "color": "#3b5c0a",
+        "category": "location",
         "article": "the ",
-        "tooltip": "civilization of titans during the Age of Giants, ancestors of fire giants, masters of binding magic, creators of the drow"
+        "tooltip": "civilization of titans during the Age of Giants, ancestors of fire giants, masters of binding magic, creators of the drow",
+        "alternatetitle": "Sul'at"
     }
 ]

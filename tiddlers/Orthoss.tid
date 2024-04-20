@@ -1,8 +1,9 @@
+alternatetitle: Ten-Towns Ten Towns Icewind Dale
 category: location
 color: #3B5C0A
 created: 20210204213116152
-modified: 20231025230332456
-polygons: 64.302,28.13 64.375,28.72 64.634,29.35 64.818,29.95 64.994,29.95 65.142,29.63 65.354,29.53 65.52,29.56 65.64,30.03 65.982,30.21 66.065,29.78 66.231,29.73 66.323,30.28 66.498,30.84 66.628,31.15 66.877,31.65 67.255,31.14 67.431,30.87 67.412,30.4 67.495,30.08 67.578,29.53 67.523,29.07 67.348,28.58 67.154,28.71 66.96,27.84 66.618,27.68 66.591,27.14 66.434,26.6 66.268,26.44 66.286,26.03 66.24,25.7 66.148,25.74 66.12,25.3 65.991,24.77 65.76,24.59 65.658,24.83 65.382,24.83 65.188,24.51 65.132,24.79 65.188,25.19 65.354,25.64 65.382,26.02 65.086,25.7 64.523,25.58 64.366,25.68 64.375,26.03 64.043,26.86 64.071,27.8
+modified: 20240216202110816
+polygons: 64.302,28.13 64.375,28.72 64.634,29.35 64.818,29.95 64.994,29.95 65.142,29.63 65.354,29.53 65.52,29.56 65.64,30.03 65.982,30.21 66.065,29.78 66.231,29.73 66.323,30.28 66.498,30.84 66.628,31.15 66.877,31.65 67.255,31.14 67.431,30.87 67.412,30.4 67.495,30.08 67.578,29.53 67.523,29.07 67.348,28.58 67.154,28.71 66.96,27.84 66.618,27.68 66.591,27.14 66.434,26.6 66.268,26.44 66.286,26.03 66.24,25.7 66.148,25.74 66.12,25.3 65.991,24.77 65.76,24.59 65.658,24.83 65.382,24.83 65.188,24.51 65.132,24.79 65.188,25.19 65.214,25.226 65.241,25.293 65.256,25.372 65.287,25.431 65.314,25.458 65.333,25.53 65.364,25.628 65.377,25.713 65.386,25.883 65.384,25.988 65.375,25.998 65.363,25.978 65.341,25.962 65.321,25.956 65.278,25.917 65.239,25.876 65.197,25.82 65.154,25.817 65.118,25.732 65.077,25.604 65.045,25.593 64.523,25.58 64.366,25.68 64.375,26.03 64.043,26.86 64.071,27.8
 style: {"fillOpacity":"0","opacity":"0"}
 tags: [[Lhazaar Principalities]] island
 title: Orthoss
@@ -10,6 +11,28 @@ type: text/vnd.tiddlywiki
 
 The icy island of Orthoss in the [[Lhazaar Principalities]] is a haven for the [[Khoravar|half-elf]], and half-elves from across [[Khorvaire]] have found their way to the town of [[Blackrock]]. Notably, the Lhazaar lifestyle has attracted a number of members of House [[Medani]] and House [[Lyrandar]] over the centuries—young rebels seeking an escape from the smothering traditions of their [[houses|dragonmarked house]]. Their blood has been spread across the island, and it has been spread quite thin—but occasionally a child of Orthoss develops a [[dragonmark]].
 
-The town of [[Blackrock]] is the seat of power of the [[Wind Whisperers]].
+The coastal town of [[Blackrock]] is the seat of power of the [[Wind Whisperers]], and is the largest settlement on the island. 
+
+!! Ten-Towns
+
+Further inland from Blackrock, a trio of lakes defines a habitable region in the dale between forbidding and frigid mountains to the north and south. This region is known to the locals as "Ten-Towns," and while Lhazaar [[Khoravar|half-elf]] culture is the common thread that unites these settlements, each town is influenced by a unique immigrant culture from elsewhere in the [[Principalities|Lhazaar Principalities]] or mainland [[Khorvaire]]. For most of the year, residents of Ten-Towns tend to remain indoors when they're not working, since it's so frightfully cold outside, which gives each settlement a deathly quiet aspect.
+
+<<list-links-article "[tag{!!title}!has[draft.of]tag[town]![Blackrock]sort[title]]">>
+
+All of the ten towns except [[Bryn Shander]] are built on the shores of the three lakes. The largest population of knucklehead trout is in [[Maer Dualdon]], the deepest of the lakes. [[Redwaters]], the shallowest lake, almost completely freezes in winter, making the fishing there difficult. [[Lac Dinneshere]] catches the worst of the winds blowing off the glaciers to the northeast and thus has the roughest waters. Small thermal vents at the bottom of these lakes keep them from freezing completely, even in the coldest winters.
+
+Ten-Towns fishing boats are simple affairs. The smallest are rowboats and single-masted skiffs that require careful handling to avoid capsizing. Larger, twin-masted cogs and keelboats with single decks handle the wind and waves better. These ships fly the flags of their towns and provide fish for the whole community, not for any individual fisher.
+
+When thick ice covers the lakes, many fishers stay to the shelters of their homes and hearths, but the most dedicated or desperate cut holes in the ice and dangle their lines down in hopes of tempting hungry trout.
+
+Most locals travel from town to town on foot. Those who need to transport more goods than they can carry use wooden sleds pulled by dogs or domesticated [[axe beak]]s as pack animals. Such things can be bought and sold in every Orthoss settlement.
+
+!!! Other Folk of Orthoss
+
+A few other settlements can be found along Orthoss's eastern and southern coasts. In addition, nomadic clans known collectively as the "Reghed" can be found among the mountains and glaciers of Orthoss; most of the clans are [[human]] or [[half-elf]], but a few are [[eneko]] who may have a distant ancestral link to the [[pathadrik]] of [[Adar]]. These tall folk are known as "verbeegs" or "goliaths" to the folk of Orthoss. 
+
+Centuries ago, many of the Reghed clans were feared as violent marauders who would raid any settlements that formed in the valley; the gradual disappearance of these aggressive clans between five and three hundred years ago allowed the towns of the dale to persist and grow to what they are today. That said, some roving bands in the dale still make their living by robbing caravans and occasionally raiding settlements.
+
+!! Rime, the Freezing Fog
 
 The lair of the infamous [[white dragon]] [[Rime]] is hidden somewhere on Orthoss. Though no one has seen the dragon in over a century, many locals expect it to return.

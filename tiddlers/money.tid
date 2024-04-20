@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210409191449051
-modified: 20230806080524826
+modified: 20240326171920658
 tags: Storyloom
 title: money
 tooltip: documentation page for the use of currency in Storyloom and Eberron
@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 
 The [[Storyloom]] system doesn't keep track of every single coin your character spends in-universe. However, larger (and therefore story-relevant) sums of money can be symbolized by ''crowns'' (indicated with a "c" symbol). For a quick reference, 1c is about 1-2 days' wages for a laborer, equivalent to approximately 10 gold pieces (5E), or about $100 USD. Purchases or expenditures less than 1c are considered to be negligible.
 
-Other denominations include ''sovereigns'' (indicated with an "s" symbol), which are equal to 5 crowns, and ''galifars'' ("g"), which are equal to 5 sovereigns. At your table, you can indicate these currencies with copper, silver, and gold coin tokens for crowns, sovereigns, and galifars, respectively.
+Other denominations include ''sovereigns'' (indicated with an "s" symbol), which are equal to 5 crowns, and ''galifars'' ("g"), which are equal to 5 sovereigns. At your table, you can indicate these currencies with copper, silver, and gold coin tokens for crowns, sovereigns, and galifars, respectively. Coins of the [[Five Nations]] typically display the chuckling countenance of [[Kol Korran]].
 
 Carrying around 10c or more in coin tends to be rather bulky; each footstep likely results in a noisy jangling. If you are a customer of a [[Kundarak]] bank, you can receive a [[Sivis]]-notarized [[letter of credit]] for a specific amount of money, designated for a specific person or organization.
 

@@ -1,0 +1,16 @@
+category: occupation
+color: #A3CFBB
+created: 20240202232408238
+modified: 20240202232709293
+tags: Karrnath
+title: Karrnathi warlord
+tooltip: a duke of Karrnath
+type: text/vnd.tiddlywiki
+
+The dukes granted land and title by the crown of [[Karrnath]] typically take the title of "warlord". From their fortress-towns, called raths, the warlords protect their holdings and gather their legions until the king calls for their services.
+
+See also [[Culture of Karrnath]] and [[Nobility of the Five Nations]].
+
+!! The Warlords of Karrnath
+
+<<list-links-article "[tag{!!title}sort[title]]">>

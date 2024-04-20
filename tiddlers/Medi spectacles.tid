@@ -1,11 +1,11 @@
 category: object
 color: #41D5E1
 created: 20201210035109136
-modified: 20220220232609247
+modified: 20240227014809830
 tags: detection head [[Mark of Detection]] accessory [[dragonmark focus item]]
 tier: 1
 title: Medi spectacles
-tooltip: common dragonmark focus item, grants Detection mark wielder advantage to investigate
+tooltip: common dragonmark focus item, grants Detection mark wielder +1 impact to investigate
 type: text/vnd.tiddlywiki
 
 In order to use this magic item, you must possess the [[Mark of Detection]].

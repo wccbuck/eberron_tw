@@ -1,13 +1,14 @@
 [
     {
         "created": "20210212004637233",
-        "title": "Keslo d'Ghallanda",
         "text": "The viceroy in charge of\n[[Ghallanda Hall]] in [[Sharn]], Keslo is a harried [[halfling]]\nindeed. Since the end of the [[Last War]], he has been\nspending more and more of his time keeping his\nguests from attacking each other (a natural consequence when bitter enemies live in proximity to one\nanother). One of the few actions that will cause the\n[[Ghallanda]]s to withdraw their hospitality is for one\nguest to attack another, and Keslo has had to forcibly remove more guests in the last two years than in\nthe previous twenty. Because his job involves careful negotiations with nearly every powerful group in Sharn, he’s one of the best-connected people in the city. Not much happens in Sharn that Keslo d’Ghallanda doesn’t find out about eventually.",
-        "modified": "20210727192016691",
+        "title": "Keslo d'Ghallanda",
+        "modified": "20240319210527040",
         "tags": "halfling Ghallanda humanoid [[Ghallanda Hall]] Sharn",
         "type": "text/vnd.tiddlywiki",
         "article": "Viceroy ",
         "category": "person",
-        "color": "#FEA627"
+        "color": "#FEA627",
+        "tooltip": "leader of Ghallanda House enclave in Sharn, extremely well-connected"
     }
 ]

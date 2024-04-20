@@ -1,9 +1,17 @@
 color: #D1BB71
 created: 20220523004337558
-modified: 20220805194925235
+modified: 20240314182650767
 tags: 
 title: extinct
-tooltip: tag for language no longer spoken by any living peoples
+tooltip: tag for language no longer spoken by any living peoples, or a species of creature with no surviving individuals
 type: text/vnd.tiddlywiki
 
-This tag indicates a [[language]] which is no longer spoken by any living peoples.
+This tag indicates a [[language]] which is no longer spoken by any living peoples. It can also be used to indicate an extinct creature.
+
+See also [[deceased]] (for people and entities), and [[defunct]] (for nations).
+
+!! Extinct Languages
+<<list-links-article "[tag{!!title}tag[language]sort[title]]">>
+
+!! Extinct Creatures
+<<list-links-article "[tag{!!title}category[creature]sort[title]]">>

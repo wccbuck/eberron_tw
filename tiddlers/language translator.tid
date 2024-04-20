@@ -1,9 +1,9 @@
 alternatetitle: gibberish generator translate
 category: game mechanics
 created: 20230509205613057
-displaylanguage: Aerenese
-language: Aerenese
-modified: 20240204004139317
+displaylanguage: Goblin
+language: Goblin
+modified: 20240409225842775
 scrambling: enabled
 tags: 
 title: language translator
@@ -39,6 +39,7 @@ As you type your text below, the tool will translate it into your chosen languag
 </optgroup>
 <optgroup label="Xen'drik">
 <option title="Language of the Xen'drik Drow">Shedani</option>
+<option title="Language of the Ancient Titans">Old Giant</option>
 </optgroup>
 <optgroup label="Immortal">
 <option title="'Celestial,' immortal language of celestials and dragons">Draconic</option>
@@ -47,7 +48,12 @@ As you type your text below, the tool will translate it into your chosen languag
 </$select><div style="flex-grow:1;"></div><$checkbox field="scrambling" checked="enabled" unchecked="disabled" default="enabled" actions=<<translateActions2>>> Syllable Shuffling Enabled</$checkbox>
 </div>
 
-!!! Translated to <$link to={{!!displaylanguage}}/>:
+<$reveal type="nomatch" state="!!displaylanguage" text="Old Giant">
+<h3>Translated to <$link to={{!!displaylanguage}}/>:</h3>
+</$reveal>
+<$reveal type="match" state="!!displaylanguage" text="Old Giant">
+<h3>Translated to [[Old Giant|Giant]]:</h3>
+</$reveal>
 
 <<<
 
