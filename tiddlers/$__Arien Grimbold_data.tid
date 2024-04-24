@@ -7,7 +7,7 @@ flaw: Terrified of [[fey]] magic and curses
 force: 1
 guile: 0
 ideal: I must discover the source of my power
-modified: 20240204012706060
+modified: 20240424003651088
 momentum: 0
 money: 1
 name: Arien Grimbold
@@ -15,11 +15,11 @@ num-sh: 1
 savvy: 0
 sp: 2
 speed: 0
-tags: sh1
+tags: h4 s1
 title: $:/Arien Grimbold/data
 trait: Innate understanding of hierarchy of evil
 type: text/vnd.tiddlywiki
-xp: 0
+xp: 1
 
 Father: Oarsen Grimbold, gleaner and gardener
 Mother: Vylae, elven herbalist, formerly of Pylas Pyrial

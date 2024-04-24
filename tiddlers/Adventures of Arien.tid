@@ -1,6 +1,6 @@
 category: note
 created: 20220208023535083
-modified: 20240204024246055
+modified: 20240424003608948
 tags: 
 title: Adventures of Arien
 type: text/vnd.tiddlywiki
@@ -17,7 +17,7 @@ The adventures of [[Arien Grimbold]]!
 
 !! Links to Headers
 * <<scrollToHeader "Brainstorming">>
-* <<scrollToHeader "Session 17">>
+* <<scrollToHeader "Session 18">>
 ** <<scrollToHeader "TODO">>
 ** <<scrollToHeader "Magic Items">>
 * <<scrollToHeader "Scenes">>
@@ -31,19 +31,22 @@ The adventures of [[Arien Grimbold]]!
 !! Brainstorming
 
 * Kupo should provide an occasional [[detect immortal]] or similar [[divination]] for Arien.
+* After Reavers of Harkenwold, Alita expressed a desire for some easy ones. Some slam-dunk adventures, some side quests / filler episodes.
 
 See also <<navAndScrollToHeader "Future Adventure Prep" "Miscellaneous Brainstorming">>
 
-!! Session 17
+!! Session 18
 
 Adventure notes: [[The Reavers of Harkenwold]]<br/>
 Session notes: [[The Liberation of Harkenwold]]
 
-* Arien goes to [[Dry Rise]] to meet the Cliffwalkers, but run the Hunted scene on her way there.
-** The gnome warlock in the Hunted encounter is the same one Arien let flee in an earlier scene.
-** Iron Circle folks in the Hunted encounter say that from now on, any person that houses Arien or gives her any aid at all will be killed, and their home or tavern burned to the ground.
-* [[Dry Rise]], then [[Cliffwalker Camp]]. Complete <<navAndScrollToHeader "The Reavers of Harkenwold" "The Cliffwalker Shifters">>
-* The Battle of Mistmarsh.
+* ''Arien gets 1 experience point at the end of the Battle of Mistmarsh''
+* <<navAndScrollToHeader "The Reavers of Harkenwold" "Harken Keep Encounters">>
+* Major things to note: 
+** [[Nazin Redthorn]] was killed in the Battle of Mistmarsh, so we should replace him with the evil priestess [[Kaltis]]. The book also recommends another Iron Circle commander named Tyranda Falkon, but really Kaltis should be the big bad for this part of the adventure since she's the one who desecrated the Five Beasts site
+** Arien needs to get her [[benevolent armor]] back, which was stolen from her during the "Hunted" encounter. Perhaps it is in the upper bailey barracks (area 14 on the [[Harken Keep]] map)
+** Arien needs at least a day or two to rest after the fight, since she's exhausted and injured.
+* Who should go with her on the mission to infiltrate? [[Curlot Grem]] himself? Minnow, the Cliffwalker?
 
 !!! TODO
 
@@ -52,14 +55,17 @@ Session notes: [[The Liberation of Harkenwold]]
 ** Courtesy title: "Defender of Harkenwold". Count [[Alben ir'Clarn]] doesn't have the authority to knight her, nor even does his father [[Ruken ir'Clarn]], but he'll put in a good word to the Duke.
 ** Big public ceremony and feast in Harkenton, with Arien as the guest of honor. The Count is there as is [[Ruken ir'Clarn]]. Residents personally thank her. Serves as a morale boost for the county
 ** Option: some land, granted as a fief or benefice. A plot of moderately fertile land near Mistmarsh, perhaps with a small cottage? A little steading on the [[Yedan River]], perhaps 15 acres, where Arien (and her family) could be granted stewardship/custodianship or a form of tenancy with favorable terms (no tax or rent for her lifetime, and only a moderate share of any profit from the land). Not only a reward, but a strategic move by the Clarn family, hoping to ensure she stays close by.
+*** This means it's harder to justify wandering far and wide on adventures... maybe we make this plot of land something her parents move into and they just manage themselves.
 *** If Arien wants to try to profit from the land, here are some options and associated costs:
 *** Farming: 50-100 crowns for field prep and seed, new buildings for specialty equipment or livestock might be 200-500c. Income could be 200c per month during harvest season, but small income otherwise, if any.
 *** Inn or Tavern: 500-1000c prolly, a little less if converting existing structure. Could earn 200c-500c per month during Gatherhunt, maybe 50-150c per month in off season
 *** Docking station: 300-600c. Would charge fees for docking, loading/unloading. Plus a warehouse: 400-800c. Could earn 300-700c during Gatherhunt, 100-300c per month in off season
 *** Trading Post / Market: 200-500c. Could earn 300c per month during Gatherhunt, 100ish crowns in off season, but depends on understanding market trends and making relationships with traders / suppliers.
 ** Arien's parents perhaps could be appointed to some important position. (Curlot too.)
-** As for money... I'm thinking, a lot. More than Arien knows what to do with. Like [[500-700c|money]]. Enough that if she stashes a good chunk of it, she doesn't need to worry too much about income.
-*** She could also invest this money into her benefice if she wants, perhaps try to convert the cottage into a tavern in time for Gatherhunt 2 months away.
+** As for money... I'm thinking, a lot. More than Arien knows what to do with. Like [[500c|money]]. (dollars equivalent: about $50k) Enough that if she stashes a good chunk of it, she doesn't need to worry too much about income.
+*** 500c in the bank would be 500/50 = 10c of negligible costs / lifestyle costs. 400c -> 8c, 300c -> 6c
+*** Could buy a couple of rare-tier items
+*** She could also invest this money into her benefice if she wants (if we go that direction), perhaps try to convert the cottage into a tavern in time for Gatherhunt 2 months away.
 ** Ruken privately speaks with Arien, wants to make sure that if the newspapers interview her about what happened, that she doesn't paint the Clarn family in a negative light. He considers this entire debacle to be extremely embarrassing, and privately, he is furious with Alben. He wants her to tell newspapers that he, Ruken, was the one who contracted her to look into what was happening in Harkenwold, and he knew she would be the best course of action to free the county, that it wasn't safe for Alben to return, etc etc.
 * Start outlining the trip to Sharn, as well as conversations that need to happen first
 
