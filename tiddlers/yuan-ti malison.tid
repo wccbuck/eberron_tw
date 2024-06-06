@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210112071521173
-modified: 20210727192043505
+modified: 20240606044921396
 tags: yuan-ti humanoid monstrosity
 tier: 2
 title: yuan-ti malison
@@ -42,6 +42,7 @@ Malisons can shapeshift into snakes at will, and are able to communicate with sn
 
 <<<
 ''Generate Malison Appearance''
+<hr/>
 
 Choose malison type: <$select tiddler="$:/config/YTMalisonType" default=""><$list filter="[range[5]]" variable="type"><option value=<<type>>>Type <$text text=<<type>>/></option></$list></$select>
 

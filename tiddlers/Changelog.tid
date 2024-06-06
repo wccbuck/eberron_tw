@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.26.01
-modified: 20240420221108761
+currentversion: 1.26.02
+modified: 20240606205550354
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,32 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.26.02 <span style="font-weight:normal">(Jun 06, 2024)</span>
+
+* Added a whole lot to the [[radiant idol]] page, and added the idol [[Vorlintar]]
+* Added [[lamia]] and [[ovinnik]] creatures
+* Added a "Pacts" section to the [[Second Son]] page
+* Added a note about real-life inspirations for [[Kessler]]
+* Added details from Forge of War about [[Ravar Orioth]]'s [[manifest zone]] to [[Shavarath]]
+* Added the volcano "Kobek's Voice" to the [[Graywall Mountains]]
+* Added "forgelier" as another word for [[warforged]]
+* Added some pre-war details about the [[King's Citadel]]
+* Added [[warlord]] tag to [[Xorchylic]]
+* Included [[leucrotta]]s in the [[Great Pack]]
+* Put [[axe beak]]s in northern mainland [[Lhazaar Principalities]]
+* Added a bit to [[Shavalant]] and [[Suthar Draal]]
+* Renamed "Taal'chib" to [[Lhek Traakar]]
+* Added an "origins" section to the [[troll]] page
+* Added the [[Carnage Hounds]] and [[Uushak]] (adapted from the "Carrion Hounds" from PGtE)
+* Added "thieves' bane" rare-tier version of [[hold portal]]
+* Added details and history to [[Lurching Tower]]
+* Added details to [[Mirror Lake]]
+* Doubled population of [[Starilaskur]] from 120,000 to 240,000 (about 60% the population of [[Wroat]], rather than ~30%). It's still the third largest settlement in Breland, but its population makes more sense now as the heart of Brelish industry
+* Added a sidebar for [[kar'lassa]] from ExE
+* Added details to the pages for [[oni]] and [[Cavallah]] pertaining to being vessels for fiends
+* Added "depravation" from the 4e ECG to the [[dimensional seal]] page
+* Improved the formatting of blockquotes document-wide
 
 !!! 1.26.01 <span style="font-weight:normal">(Apr 20, 2024)</span>
 

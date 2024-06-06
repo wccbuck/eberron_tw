@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414225913615
-modified: 20230824224100612
+modified: 20240606050736348
 tags: humanoid
 tier: 1
 title: kalashtar
@@ -9,7 +9,9 @@ tooltip: psionic humanoid who is spiritually linked to a renegade quori
 type: text/vnd.tiddlywiki
 var: uncommon
 
+<<<
 //I am kalashtar, born of two worlds. Over a thousand years ago, my ancestor bound her bloodline to the spirit Kashtai, and I am a child of that union. Kashtai moves within me. Her memories come to me in dreams, and at times her voice whispers in the silence of my mind. As long as at least one of my sisters is alive, Kashtai will survive—and as long as she lives, she will fight [[il-Lashtavar]]. //
+<<<
 
 <div align="right">—Lakashtai, servant of the light</div>
 

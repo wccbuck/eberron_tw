@@ -2,7 +2,7 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20220623185249515
-modified: 20220708173815105
+modified: 20240606051245384
 tags: tool summoning
 tier: 2
 title: damp bag
@@ -25,12 +25,12 @@ The creature is friendly to you and your companions, and it acts on its own acco
 | 7 |sea lion |
 | 8 |[[quipper]] |
 
-<$button>
+<<<
+<$button class="vertical-margin-2">
 <$action-chooserandom $filter="crab [[reef shark]] crocodile dolphin [[giant sea horse]] octopus [[sea lion]] quipper" $field="var"/>
 Random Sea Creature
 </$button>
 
-<<<
 ''{{!!var}}''
 <<<
 

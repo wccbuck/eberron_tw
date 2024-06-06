@@ -1,6 +1,6 @@
 category: talent
 created: 20211128043045641
-modified: 20231126210405669
+modified: 20240606051222856
 prereq: [[Wild Shape (talent)]]
 tags: druid
 title: Enhanced Wild Shape
@@ -12,7 +12,8 @@ xpcost: 2
 Three times per day, you can assume the [[shape|wild shape]] of any [[beast]], [[elemental]], or [[plant creature]] of [[creature tier]] ''2'' or less that you have seen before. If the chosen creature can fly, it must be creature tier 1 or 0. The transformation lasts for up to an hour, or earlier if you are knocked unconscious.
 
 <<<
-''Alternative Version''<br/>
+''Alternative Version''
+<hr/>
 As an alternative, you may choose ''two'' [[beast]]s, [[elemental]]s, or [[plant creature]]s of [[creature tier]] 2 that will be your only two [[wild shape]]s, in exchange for no limitations on number of transformations per day and no time limit. Choose the version of [[wild shape]]s you want (and, if applicable, which creatures) when you take this [[talent]].
 <<<
 

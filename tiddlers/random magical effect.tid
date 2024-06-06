@@ -11,14 +11,15 @@ d7: 3
 duration: 20 minutes
 effect: All cloth within 50 yards is scrubbed clean.
 l_duration: 6 hours
-modified: 20230424180527962
+modified: 20240606050509230
 s_duration: 5 seconds
 tags: 
 title: random magical effect
 tooltip: random generator for unpredictable magical side effects
 type: text/vnd.tiddlywiki
 
-<$button>
+<<<
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/RandomMagicEffect" $field="effect"/>
 <$action-chooserandom $dataTiddler="$:/RandomShortDuration" $field="s_duration"/>
 <$action-chooserandom $dataTiddler="$:/RandomDuration" $field="duration"/>
@@ -33,6 +34,5 @@ type: text/vnd.tiddlywiki
 Random Magical Effect
 </$button>
 
-<<<
 {{!!effect}}
 <<<

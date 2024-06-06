@@ -2,14 +2,16 @@ alternatetitle: message station
 category: object
 color: #41D5E1
 created: 20200423023852620
-modified: 20231115051506769
+modified: 20240606055324419
 tags: communication [[Mark of Scribing]] tool [[dragonmark focus item]] fixed
 tier: 3
 title: speaking stone
 tooltip: long-distance communication technology operated by House Sivis
 type: text/vnd.tiddlywiki
 
+<<<
 //Even late at night, the message station was a bustle of activity. [[Gnome|gnome]]s were scurrying about, and the air was full of whispers. One entire wall was covered with bookshelves, filled with identical black leather tomes. The opposite side of the room was dominated by three marble busts on high pedestals. The busts had the features of elderly, sagacious gnomes, with faceted [[dragonshard]]s in place of eyes. Two gnomes sat by each bust, each holding a quill and book. Occasionally the gnomes would talk to the statue, but most of the time they seemed to sit and listen, furiously scribbling notes in their books.//
+<<<
 <div align="right">—a description of the Halfstone Street message station, [[Black Arch]], [[Sharn]]</div>
 
 The key to long-distance, virtually instantaneous communication across [[Khorvaire]] is House [[Sivis]]'s network of ''message stations'', operated by the [[Speakers Guild]]. Each station contains at least one speaking stone, which is carved from a Siberys [[dragonshard]] and inscribed with arcane symbols that uniquely identify it. If you're a [[gnome]] with the [[Mark of Scribing]], you can touch the stone and send a short message from it (about 25 words or less; or, if compressed with [[Stonespeech]], up to 75 words; as the [[sending]] spell). The target is any other speaking stone whose location or unique sequence of symbols you know. A creature within 5 feet of the stone hears the message as if they were the target.

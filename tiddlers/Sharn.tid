@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200410005743410
-modified: 20231101225928404
+modified: 20240606044325459
 points: 20.175,-24.54
 population: 2542200
 style: {"color": "#8E0024"}
@@ -11,6 +11,7 @@ tooltip: the City of Towers, largest city in Khorvaire
 type: text/vnd.tiddlywiki
 var: Two drunk [[dwarves|dwarf]] pass a bottle of spirits back and forth and sing a bawdy song. Passersby are mortified.
 
+<<<
 //I've been here a week, and it's still hard
 not to feel overwhelmed by the city. The towers
 rise up until they disappear into the clouds. Lights
@@ -27,6 +28,7 @@ senses and keep moving.//
 
 //It's not until I reach the lift that I realize the [[warforged]]
 stole my purse.//
+<<<
 
 <div align="right">—A newcomer to the big city</div>
 
@@ -158,6 +160,7 @@ seek vengeance against those they blame for their pain.
 
 ! Guide to the City
 
+<<<
 //When you live on the inside low, you never see
 the [[sun|Sun]]. People hear "towers," they think of graceful little
 spires, the sort of thing you see poking up in the corner of
@@ -180,6 +183,7 @@ above you. //
 can still see the sun. Down on the inside low, all we have is
 gloom and the constant drip, water and worse descending
 from the city above us.//
+<<<
 
 <div align="right">—A street urchin describing Sharn</div>
 
@@ -516,15 +520,15 @@ questions:
 * Why isn't anyone else getting involved? What is complicating this situation?
 * What do the people involved hope is going to happen next? What are they afraid might happen next? How are the circumstances changed because the characters have witnessed the event?
 
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/LowerSharnStreetEvents" $field="var"/>
 Lower Sharn Street Event
 </$button>
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/UpperSharnStreetEvents" $field="var"/>
 Upper Sharn Street Event
 </$button>
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/SkywayStreetEvents" $field="var"/>
 Skyway Street Event
 </$button>

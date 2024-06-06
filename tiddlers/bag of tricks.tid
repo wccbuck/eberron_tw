@@ -2,7 +2,7 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20201227023212621
-modified: 20220708173831630
+modified: 20240606051459477
 tags: tool summoning
 tier: 2
 title: bag of tricks
@@ -17,12 +17,12 @@ The creature is friendly to you and your companions. You can command how the cre
 
 Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
 
-<$button>
+<<<
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/BagOfTricksTable" $field="var"/>
 Random Beast
 </$button>
 
-<<<
 ''{{!!var}}''
 <<<
 

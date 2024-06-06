@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210112064116895
-modified: 20230824215223245
+modified: 20240606045011024
 tags: shapechanger humanoid monstrosity
 title: yuan-ti
 tooltip: vicious snakelike humanoid
@@ -58,7 +58,7 @@ The yuan-ti care nothing for these theories. They have no loyalty to the [[Lords
 Click the button below to generate some example yuan-ti names.
 
 <<<
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $filter="Apoph Ath Eph Eth Gath Gor Kal Kul Lar Lath Nag Raj Rax Reth Sar Sesh Sor Sreth Sur Suth" $field="var1"/>
 <$action-chooserandom $filter="a ah ax e el i ir o ol oth u ur" $field="var2"/>
 <$action-chooserandom $filter="gash gin gor ka kom kur la lash leth loth tha thex thir thra xal xol xur ya zag zolm" $field="var3"/>
