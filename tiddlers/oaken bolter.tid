@@ -3,7 +3,7 @@ color: #EA868F
 created: 20210723180344051
 enhancement: //''Self-Repairing.''// The clockwork slowly regenerates damage. This effect can be temporarily suppressed if the clockwork suffers lightning damage.
 malfunction: //''Overheats.''// The clockwork randomly becomes incapacitated for a few seconds at a time.
-modified: 20210727192023335
+modified: 20240606050639171
 tags: construct clockwork
 tier: 2
 title: oaken bolter
@@ -14,7 +14,7 @@ No ordinary ballista, an oaken bolter is a [[clockwork]] [[construct]] capable o
 !! Clockwork Enhancement and Malfunction
 
 <<<
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/ClockworkEnhancements" $field=enhancement/>
 <$action-chooserandom $dataTiddler="$:/ClockworkMalfunctions" $field=malfunction/>
 Generate

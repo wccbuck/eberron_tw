@@ -2,7 +2,7 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20200425004840183
-modified: 20220706212223226
+modified: 20240606051515546
 tags: ridiculous tool convenience
 tier: 3
 title: bag of surprises
@@ -11,12 +11,12 @@ var: 10 matches wrapped in wax paper###bag full of door hinges###oil lamp###
 
 When you reach into this bag, you pull out a random object as determined by the button below. An object lasts for <<dr 1d4>> half-hours after you remove it from the bag, or until it is destroyed by force, after which point it disappears into smoke. You can pull out three objects per day.
 
-<$button>
+<<<
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/BagOfSurprisesTable" $field="var" $unique="true" $number="3" $opt="hashes"/>
 3 Random Objects
 </$button>
 
-<<<
 ''Objects: ''
 <$vars v1={{{[{!!var}split[###]nth[1]]}}} v2={{{[{!!var}split[###]nth[2]]}}} v3={{{[{!!var}split[###]nth[3]]}}}>
 

@@ -1,5 +1,5 @@
 created: 20230606030358359
-modified: 20231126201213442
+modified: 20240606045532854
 title: timeline shortening equation
 tooltip: More than 1300 years ago: Adjusted year = √(2600*(original year - 650))
 type: text/vnd.tiddlywiki
@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 In the [[Eberron Tiddlywiki|Readme]] (as of version 1.22.00, June 15 2023), the [[timeline of Eberron|era]] has been shortened to reduce the implausibility of all the millennia-spanning kingdoms of antiquity. Older dates are adjusted more dramatically than more recent dates. Dates that are 1300 or fewer years ago are unchanged, so as to preserve the "998 YK" default campaign starting year, as well as the [[Riedra]]n calendar conversion (so the present year in Riedra is still 1300 Unity). But all timeline events that occurred more than 1300 years ago are adjusted according to the following formula:
 
 <<<
-!!! Adjusted year = √(2600*(original year - 650))
+<h3 style="padding-top: 5px; padding-bottom: 5px;">Adjusted year = √(2600*(original year - 650))</h3>
 <<<
 
 Major consequences of this adjustment:

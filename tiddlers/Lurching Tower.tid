@@ -1,11 +1,14 @@
 category: location
 color: #4C8201
 created: 20210404230219908
-modified: 20210727192019636
+modified: 20240601210852555
 points: 37.043,-1.17
 style: {"color": "#732873"}
 tags: fortress Breland
 title: Lurching Tower
+tooltip: Brelish fortress near border with Thrane, was the first unsuccessful prototype for Breland's floating fortresses
 type: text/vnd.tiddlywiki
 
-Lurching Tower is a [[Brelish|Breland]] fort near the [[Thrane]] border.
+Lurching Tower is a [[Brelish|Breland]] fort near the [[Thrane]] border. It was the first deployed prototype of the floating fortresses of Breland, of which [[Argonth]] is the most famous. The tower was constructed in [[Sharn]] in 909 YK, then disassembled and shipped to [[Starilaskur]] in pieces via [[lightning rail]]. After reassembly, the Brelish military intended to use the floating tower to lead an assault against [[Thrane]]'s encampments south of the [[Brey River]]. The hovering tower teetered and swayed as it moved, and over the course of a month, it traveled only 90 miles northeast before it ceased to move at all, 10 miles south of the contested territory. An onlooker compared the tower's movement to the "lurching" of a drunkard, and the name stuck. 
+
+The tower was repurposed into a fixed and permanent stronghold to defend against further [[Thranish|Thrane]] aggression. However, Thrane successfully captured Lurching Tower in 911 YK; it would hold the region until the following year, when the newly-completed floating fortress [[Chydris]] led Breland to decisive victory in the Second Battle of Lurching Tower and pushed Thranish forces north of the [[Brey River]].

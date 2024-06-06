@@ -1,7 +1,7 @@
 category: creature
 color: #58151c
 created: 20200419053402840
-modified: 20231025172815819
+modified: 20240606044500570
 title: dragon
 tooltip: legendary winged serpentine creature with innate magical power
 type: text/vnd.tiddlywiki
@@ -39,12 +39,12 @@ The dragons of Eberron aren't restricted in alignment—good [[red dragon]]s and
 
 Dragon names tend to the long and unpronounceable (at least for the lesser races). When interacting with other creatures, dragons either use a diminutive, create a descriptive nickname, or insist that the creature attempt to use its full name.
 
-<$button>
+<<<
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/DragonNames" $field="var"/>
 Generate Random Dragon Name
 </$button>
 
-<<<
 ''Dragon Name: ''{{!!var}}
 <<<
 

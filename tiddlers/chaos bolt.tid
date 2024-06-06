@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210430212149620
-modified: 20221205043521304
+modified: 20240606051344756
 tags: evocation
 tier: 2
 title: chaos bolt
@@ -11,7 +11,7 @@ var: acid, force
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. The attack's [[damage type]] is randomly determined, using the button below.
 
 <<<
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $filter="acid cold fire force lightning psychic" $number="2" $unique="true" $field="var" $opt="comma"/>
 Random Damage Type
 </$button>

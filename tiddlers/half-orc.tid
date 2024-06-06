@@ -2,16 +2,17 @@ alternatetitle: jhorgun'taal jhorguntaal
 category: creature
 color: #EA868F
 created: 20200415175714571
-modified: 20231129060213589
+modified: 20240606061326488
 tags: humanoid
 tier: 1
 title: half-orc
-tooltip: humanoid of orc and human ancestry
+tooltip: humanoid of orc and human ancestry, also known as jhorgun'taal
 type: text/vnd.tiddlywiki
 var: common
 
+<<<
 //We are hunters in a world of sheep.//
-
+<<<
 <div align="right">—[[Kalaash'aarna]], Tharashk inquisitive </div>
 
 With the rise of the [[dragonmarked House|dragonmarked house]] [[Tharashk]],

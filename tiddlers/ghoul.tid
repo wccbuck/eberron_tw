@@ -1,14 +1,16 @@
 category: creature
 color: #EA868F
 created: 20210218181351559
-modified: 20230424072437108
+modified: 20240606061456570
 tags: undead
 tier: 1
 title: ghoul
 tooltip: undead menace, feeds on dead humanoid flesh
 type: text/vnd.tiddlywiki
 
+<<<
 //The [[halfling]]s of the [[Talenta Plains]] tell the stories of the Hungry Hunter, Orlasca. The greatest hunter of his age, Orlasca swore to eat every creature that he killed. When he was forced to kill another halfling, his oath compelled him to consume his enemy… and he developed an insatiable appetite for halfling flesh. After he slew his own tribe, Orlasca was finally slain. But so great was his hunger that his spirit lingered, slipping into the forms of weaker creatures and trying to work its way up to halfling form. A great Talenta taboo is to never consume the flesh of a creature that eats its own kind—because that allows the spirit of Orlasca to pass into you and transform you.//
+<<<
 <div align="right">—An account of ghouls in Khorvairian folk tales</div>
 
 Ghouls are the most commonly encountered [[undead]] threat in the [[Five Nations]]. They roam the night in packs, driven by an insatiable hunger for [[humanoid]] flesh. Their teeth are razor-sharp, and they can paralyze with a touch for up to 1 minute. Like maggots or carrion beetles, ghouls thrive in places rank with decay and death. When it can't feed on the dead, it pursues living creatures and attempts to make corpses of them. Though they gain no nourishment from the corpses they devour, ghouls are driven by the unending hunger of [[Mabar]] that compels them to consume. A ghoul's undead flesh never rots, and this monster can persist in a crypt or tomb for untold ages without feeding.

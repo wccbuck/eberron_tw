@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20210404232801740
-modified: 20230814220127770
+modified: 20240606062004179
 points: 32.077,-42.39
 population: 2000
 style: {"color": "#CA5700"}
@@ -9,9 +9,9 @@ tags: [[Shadow Marches]] town
 title: Dhavin's Post
 type: text/vnd.tiddlywiki
 
+<<<
 //On the [[Blackwater River]]’s shore, a village comes into view. The squat buildings look foul; the wood from which they were built is pitch black. The thatching is moist and slimy, running down the walls from some of the huts. A long, wooden bridge connects both river shores—the construction hops from one small island to the next. It looks much like the buildings: blackened, rickety, and haphazard.//
-
-!
+<<<
 
 ''Ruler:'' [[Obom Koman|Obom's Mansion]]<br/>
 ''Population:'' <<ntls>>

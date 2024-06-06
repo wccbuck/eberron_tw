@@ -2,7 +2,7 @@ category: object
 charges: 7
 color: #41D5E1
 created: 20220715225400739
-modified: 20230317042233646
+modified: 20240606045222522
 tags: [[magical implement]] wand ridiculous
 tier: 3
 title: wand of wonder
@@ -17,12 +17,12 @@ If the effect covers an area, you must center the spell on and include the targe
 
 The wand regains <<dr 1d6+1>> expended charges daily at dawn. If you get a [[bad outcome]] on your attempt when you expend the last charge, trigger a [[random magical effect]]. The wand then crumbles into dust and is destroyed.
 
-<$button>
+<<<
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/WandOfWonderEffects" $field="var"/>
 Wand Of Wonder Effect
 </$button>
 
-<<<
 ''Effect: ''{{!!var}}
 <<<
 

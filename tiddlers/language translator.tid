@@ -3,9 +3,9 @@ category: game mechanics
 created: 20230509205613057
 displaylanguage: Goblin
 language: Goblin
-modified: 20240519030244465
+modified: 20240606075858435
 scrambling: enabled
-tags: 
+tags:
 title: language translator
 tooltip: tool for translating text into an Eberron language, or generate gibberish that sounds about right
 translatetext: fragrant scent oil
@@ -81,13 +81,13 @@ Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.
 
 <$reveal type="match" state="!!displaylanguage" text="Adaran">
 
-Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.org/wiki/Aspirated_consonant]]. So tʰ is more like t+h, not like the English "th," and pʰ is pronounced p+h, not "f." Also, the Adaran "X" is pronounced as [[ɕ|https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative]], which is kind of halfway between "s" and "sh." 
+Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.org/wiki/Aspirated_consonant]]. So tʰ is more like t+h, not like the English "th," and pʰ is pronounced p+h, not "f." Also, the Adaran "X" is pronounced as [[ɕ|https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative]], which is kind of halfway between "s" and "sh."
 
 </$reveal>
 
 <$reveal type="match" state="!!displaylanguage" text="Syrk">
 
-Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.org/wiki/Aspirated_consonant]]. So tʰ is more like t+h, not like the English "th." Also, the Syrk "X" is pronounced as [[ɕ|https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative]], which is kind of halfway between "s" and "sh." 
+Note: The little h (ʰ) indicates an [[aspirated consonant|https://en.wikipedia.org/wiki/Aspirated_consonant]]. So tʰ is more like t+h, not like the English "th." Also, the Syrk "X" is pronounced as [[ɕ|https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative]], which is kind of halfway between "s" and "sh."
 
 </$reveal>
 
@@ -121,7 +121,7 @@ Details on specific language considerations can be found on the [[github issue p
 
 !! Disable Syllable Shuffling
 
-This tool does not know what a plural is, nor a verb tense. Plugging in "friend" and "friendly" into the Goblin translator will give you "drest" and "hombii," two entirely different words. This is due to an intentional design decision to make unrelated but similarly-spelled English words like "friend" and "fried" translate to different-sounding words (in this example, "drest" and "bic"). 
+This tool does not know what a plural is, nor a verb tense. Plugging in "friend" and "friendly" into the Goblin translator will give you "drest" and "hombii," two entirely different words. This is due to an intentional design decision to make unrelated but similarly-spelled English words like "friend" and "fried" translate to different-sounding words (in this example, "drest" and "bic").
 
 However, you might actually want words that are similarly-spelled in English to be similarly-spelled in Goblin. With this feature disabled, "friendly" sounds plausibly related to "friend" ("tambii" vs "taaj"), but also to "fried" ("taahn").
 

@@ -2,7 +2,7 @@ alternatetitle: Karhashan
 category: location
 color: #4C8201
 created: 20210207063511520
-modified: 20230919183551817
+modified: 20240606060733795
 points: 41.012,32.71
 population: 45000
 style: {"color": "#8E0024"}
@@ -11,7 +11,9 @@ title: Ka'rhashan
 tooltip: city in Q'barra, largest dragonborn community in Khorvaire
 type: text/vnd.tiddlywiki
 
+<<<
 //"Duty before Glory."//
+<<<
 <div align="right">—[[Draconic]] inscription on the gates of Ka'rhashan</div>
 
 !

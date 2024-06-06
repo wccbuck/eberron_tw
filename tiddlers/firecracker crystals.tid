@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20211226041614605
-modified: 20220218214107020
+modified: 20240606051017346
 tags: tool entertainment
 tier: 1
 title: firecracker crystals
@@ -23,7 +23,7 @@ Firecracker crystals typically come in bags of 10. Roll a number of d8's equal t
 | 8 |Black |Releases a mystery effect. Roll a <<dr d7>> and consult this table when using this crystal to determine its effect. |
 
 <<< 
-<$button><$action-chooserandom $field="var1" $filter="[range[8]]" $number="10" $opt="comma" $replace="true"/>Generate 10 Crystals</$button>
+<$button class="vertical-margin-2"><$action-chooserandom $field="var1" $filter="[range[8]]" $number="10" $opt="comma" $replace="true"/>Generate 10 Crystals</$button>
 
 ''{{!!var1}}''
 <<<

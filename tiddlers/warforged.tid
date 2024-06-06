@@ -1,7 +1,8 @@
+alternatetitle: forgelier
 category: creature
 color: #EA868F
 created: 20200415014832044
-modified: 20231127001316363
+modified: 20240606052251924
 tags: construct humanoid
 tier: 2
 title: warforged
@@ -9,15 +10,17 @@ tooltip: sapient construct, built to fight in the Last War
 type: text/vnd.tiddlywiki
 var: uncommon
 
+<<<
 //"Pierce was built by design, while you were built by accident," Lakashtai said. "The soul is what matters, not the shape of the vessel."//
 
 //"What makes you think he has a soul?" Gerrion said.//
 
 //"What makes you think you do?"//
+<<<
 
 <div align="right">—Keith Baker, //The Shattered Land//</div>
 
-The warforged are [[construct]]s built to fight in the [[Last War]]. While the first warforged were mindless automatons, House [[Cannith]] devoted vast resources to improving these steel soldiers. An unexpected breakthrough by [[Aaren d'Cannith]] thirty years ago produced sapient soldiers, giving rise to what some have only grudgingly accepted as a new species. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond
+The warforged (also known as "forgeliers") are [[construct]]s built to fight in the [[Last War]]. While the first warforged were mindless automatons, House [[Cannith]] devoted vast resources to improving these steel soldiers. An unexpected breakthrough by [[Aaren d'Cannith]] thirty years ago produced sapient soldiers, giving rise to what some have only grudgingly accepted as a new species. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond
 war. A warforged can be a steadfast ally, a cold-hearted
 killer, or a visionary in search of meaning. 
 

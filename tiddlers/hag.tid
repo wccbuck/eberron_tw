@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20201215032907085
-modified: 20220805221020161
+modified: 20240606050908514
 tags: monstrosity humanoid
 title: hag
 tooltip: crone-like monstrous humanoid imbued with magic
@@ -24,7 +24,7 @@ The most prominent hags on [[Khorvaire]] are the [[Daughters of Sora Kell]]. Bor
 Hags often name themselves in darkly whimsical ways, claiming monikers such as Black Morwen, Peggy Pigknuckle, Grandmother Titchwillow, Nanna Shug, Rotten Ethel, or Auntie Wormtooth.
 
 <<<
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/HagTitle" $field="var1"/>
 <$action-chooserandom $dataTiddler="$:/HagFN" $field="var2"/>
 <$action-chooserandom $dataTiddler="$:/HagLN" $field="var3"/>

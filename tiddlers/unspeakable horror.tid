@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20220825234934026
-modified: 20230815070005560
+modified: 20240606045325890
 tags: aberration
 tier: 3
 title: unspeakable horror
@@ -22,7 +22,7 @@ The results of these tables are meant to be broad, so feel free to describe the 
 You can also click the button below to generate a horror from all three tables. This horror has a 1 in 4 chance of having two "attacking limbs."
 
 <<<
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $filter="[[is armored in petrified wood, alien crystal, rusted mechanisms, sculpted stone, or an exoskeleton. It is well-protected against physical attacks, and it is immune to petrification.]] [[boasts spider-like legs, many-jointed appendages, or thrashing tentacles. It can move quickly, reaching speeds of 12 mph.]] [[is composed of a clot of boneless flesh, shadowy tendrils, or mist. It is amorphous and can squeeze through any opening at least 1 inch wide.]] [[boasts exposed entrails, bloated parasites, or a gelatinous shroud, perhaps because it is inside out. Any creature that touches the horror suffers acid damage.]]" $field="var1"/>
 <$action-chooserandom $filter="[[is a lumpy, bludgeoning appendage]] [[ends in a sharp blade made of bone]] [[is a corrosive pseudopod which deals acid damage]] [[is a grasping tentacle which can wrap around and restrain a creature]] [[ends in a poisonous, piercing barb]]" $field="var2" $unique="true" $number="2" $opt="hashes"/>
 <$action-chooserandom $dataTiddler="$:/1112" $field="var3"/>

@@ -1,23 +1,29 @@
 category: creature
 color: #58151c
 created: 20200415015309474
-modified: 20221123221509900
+modified: 20240602203625020
 title: humanoid
 tooltip: human, elf, dwarf, orc, etc.
 type: text/vnd.tiddlywiki
 
-Humanoids are the main peoples of Eberron, both civilized and savage, including [[human]]s and a tremendous variety of other species. They have [[language]] and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form.
+Humanoids are intelligent creatures who constitute the main peoples of Eberron, including [[human]]s and a tremendous variety of other species (or "races", colloquially). They have [[language]] and culture, few if any innate magical abilities (though most humanoids can learn [[spellcasting|spell]]), and a bipedal form. They tend to have four limbs, opposable thumbs, and binocular vision, though there are exceptions.
 
 !!! <<showcreature-type>>
 
 !! Common
 
+The following humanoids are frequently seen throughout the [[Five Nations]] of [[Khorvaire]].
+
 <<list-links-article "[tag{!!title}var[common]category[creature]sort[title]]">>
 
 !! Uncommon
 
+The following humanoids are rare in the [[Five Nations]], but most people are aware they exist.
+
 <<list-links-article "[tag{!!title}var[uncommon]category[creature]sort[title]]">>
 
 !! Exotic
+
+The following humanoids are almost never seen in the [[Five Nations]].
 
 <<list-links-article "[tag{!!title}!var[common]!var[uncommon]!tag[therianthrope]category[creature]] -[tag{!!title}tagging[]category[creature]] +[sort[title]]">>

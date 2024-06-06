@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414222441964
-modified: 20230606055826908
+modified: 20240606060637814
 tags: humanoid
 tier: 1
 title: human
@@ -9,8 +9,9 @@ tooltip: most populous and diverse humanoid on Eberron
 type: text/vnd.tiddlywiki
 var: common
 
+<<<
 //[[Dwarves|dwarf]] are stoic. [[Elves|elf]] are wise. [[Gnomes|gnome]] are cunning. And humans? They can't make up their mind, so they try to be all of these things at once.//
-
+<<<
 <div align="right">—[[Kessler]], [[bard]] of [[Sharn]]</div>
 
 The first human settlers came to [[Khorvaire]] from [[Sarlona]] about

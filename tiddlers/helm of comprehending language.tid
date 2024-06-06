@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20220623230821206
-modified: 20230801153851907
+modified: 20240606050949250
 tags: communication armor head
 tier: 2
 title: helm of comprehending language
@@ -10,11 +10,11 @@ var: Abyssal
 
 While wearing this helm, you can understand one [[language]] (determined by the GM, or randomly using the button below) but ''not any other language''.
 
-<$button>
+<<<
+<$button class="vertical-margin-2">
 <$action-chooserandom $filter="[tag[language]]" $field="var"/>
 Random Language
 </$button>
 
-<<<
 ''Language: ''<$link to={{!!var}}/>
 <<<

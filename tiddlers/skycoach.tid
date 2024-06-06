@@ -1,7 +1,7 @@
 category: object
 color: #41D5E1
 created: 20200415012709563
-modified: 20230425175700685
+modified: 20240606050212513
 tags: vehicle
 tier: 0
 title: skycoach
@@ -34,13 +34,13 @@ The skycoach business has deep roots in the city of [[Sharn]]. A handful of one-
 
 Skycoach pilots are often colorful characters. The company they work for may suggest characteristics of a pilot—[[Gold Line]] pilots are usually more “respectable” than [[Swan]] pilots, and Gold Liners know the best restaurants in [[Skyway]] while the Swan can take you to the dingiest dives in [[Lower Dura]]. But company aside, the Generate Coach Pilot button below can help you quickly create an interesting pilot.
 
-<$button>
+<<<
+<$button class="vertical-margin-2">
 <$action-chooserandom $filter="[[An elderly]] [[A young]] [[A talkative]] [[A sullen]] [[A curious]] [[A rude]] [[A helpful]] [[A creepy]]" $field="var1"/>
 <$action-chooserandom $dataTiddler="$:/SkycoachPilotRandomCreature" $field="var2"/>
 <$action-chooserandom $dataTiddler="$:/SkycoachPilotRandomQuirk" $field="var3"/>
 Generate Coach Pilot
 </$button>
 
-<<<
 ''Skycoach Pilot:'' {{!!var1}} {{!!var2}} {{!!var3}}
 <<<

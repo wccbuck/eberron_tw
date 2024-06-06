@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20210428054345961
-modified: 20230814215101118
+modified: 20240606050342995
 tags: [[primal magic]]
 tier: 3
 title: reincarnate
@@ -15,7 +15,7 @@ You touch a dead [[humanoid]] or a piece of a dead humanoid. Provided that the c
 The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The GM chooses a form the creature takes when restored to life, or chooses a random [[humanoid]] race:
 
 <<<
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $filter="[category[creature]tag[humanoid]has[var]!has[article]!tag[monstrosity]!tag[construct]] [[goblin]] [[hobgoblin]] [[bugbear]] -[[goblinoid]] -[[kalashtar]]" $field="var"/>
 Random Race
 </$button>

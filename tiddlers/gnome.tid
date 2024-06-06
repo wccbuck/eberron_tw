@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414230807420
-modified: 20240103005606565
+modified: 20240606061349845
 tags: humanoid
 tier: 1
 title: gnome
@@ -9,8 +9,9 @@ tooltip: small humanoid with a talent for illusion and intrigue
 type: text/vnd.tiddlywiki
 var: common
 
+<<<
 //Five words can defeat a thousand swords. //
-
+<<<
 <div align="right">—Zil proverb</div>
 
 The average gnome has a love of knowledge that borders on obsession, a curiosity that admits no limits, and a vast collection of potentially useful information on every personal acquaintance. Most gnomes detest physical violence and prefer to solve their problems with words—whether that's a [[bard]]'s eloquent persuasion, a [[wizard]]'s

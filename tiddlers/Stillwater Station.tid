@@ -1,17 +1,19 @@
 category: location
 color: #4C8201
 created: 20210324010235990
-modified: 20230103233537932
+modified: 20240606054903994
 points: 36.065,10.4
 style: {"color": "#CA5700"}
 tags: town Mournland
 title: Stillwater Station
 type: text/vnd.tiddlywiki
 
+<<<
 //"...of all my adventures on this, my most recent and hopefully final expedition
 to Old [[Cyre]], the last was surely the strangest. Consider this, friend Carnaby:
 There exists now, on the fetid soil of the [[Mournland]], an actual frontier town!
 Just south of [[Lake Cyre]], on the old [[lightning rail]] line, an unlikely alliance of settlers and scavengers has founded a permanent community. They call it Stillwater Station, and although it is a primitive and wild place, it is indeed a functioning trading post. Had I not seen it with mine own eyes, I would never have believed it. Fresh water, a tavern, and a modest offering of goods...//
+<<<
 <div align="right">—Ashford Terra, smuggler, in a dispatch to [[Sharn]] tavern keeper Carnaby Goebb</div>
 
 Since the arcane cataclysm known as Day of

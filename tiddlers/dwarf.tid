@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414232527235
-modified: 20230824223146179
+modified: 20240606061840562
 tags: humanoid
 tier: 1
 title: dwarf
@@ -9,8 +9,9 @@ tooltip: stout, long-lived folk of the mountains and cold places
 type: text/vnd.tiddlywiki
 var: common
 
+<<<
 //Gold is the gift of the mountains, but iron comes from blood and bone.//
-
+<<<
 <div align="right">—Mror proverb</div>
 
 The origin of the dwarves is shrouded in mystery. Some

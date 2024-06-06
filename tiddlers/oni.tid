@@ -1,8 +1,8 @@
 category: creature
 color: #EA868F
 created: 20201215040404357
-modified: 20220805222313026
-tags: giant
+modified: 20240602204901754
+tags: giant ogre
 tier: 3
 title: oni
 tooltip: demonic ogre-like shapeshifting creature
@@ -10,40 +10,25 @@ type: text/vnd.tiddlywiki
 
 Oni look like demonic [[ogre]]s with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black. 
 
-Oni are sometimes called "ogre mages" because of their innate magical ability, but are at most distantly related to true [[ogre]]s. By the light of day, an oni hides its true form with shapeshifting magic, gaining the trust of those it intends to betray when darkness descends. These creatures can change their size as well as their shape, appearing as [[humanoid]]s as they pass through towns, pretending to be travelers, woodcutters, or frontier folk. In such a form, an oni takes stock of the selection of humanoids in a settlement and devises ways to abduct and devour some of them.
+Oni are sometimes called "ogre mages" because of their innate magical ability. By the light of day, an oni hides its true form with shapeshifting magic, gaining the trust of those it intends to betray when darkness descends. These creatures can change their size as well as their shape, appearing as [[humanoid]]s as they pass through towns, pretending to be travelers, woodcutters, or frontier folk. In such a form, an oni takes stock of the selection of humanoids in a settlement and devises ways to abduct and devour some of them.
 
-While rare, the intelligence and power of the oni make them valuable to the Daughters in [[Droaam]]. The oni [[Tzaryan Rrac]] is a trusted warlord, while other oni serve as commanders in [[Maenya's Fist]], inquisitors in [[Katra's Voice]], or administrators throughout the realm.
+!! Oni in Droaam
 
-Oni are cunning and curious. Some serve the Daughters in
-exchange for treasure, others for arcane lore, while some are
-simply content with the power they hold as agents of the hags.
-You could tie their broader goals to their true origin—if the
-oni are exiles from a hidden kingdom, they might be building
-power to reclaim that kingdom. If they are the children of
-the Daughters, they could be competing with one another to
-impress their parent, and generally engaging in sibling rivalry. 
+Oni are cunning and curious. While rare, the intelligence and power of the oni make them valuable to the [[Daughters of Sora Kell]] in [[Droaam]]. The oni [[Tzaryan Rrac]] and [[Drul Kantar]] are trusted [[warlord]]s, while other oni serve as commanders in [[Maenya's Fist]], inquisitors in [[Katra's Voice]], or administrators throughout the realm. Some serve the Daughters in exchange for treasure, others for arcane lore, while some are simply content with the power they hold as agents of the [[hag]]s.
+
+As summarized in the <<scrollToHeader "Origins of the Oni">> section below, many of the "ogre mages" of [[Droaam]] may have native [[fiend]]s bound to their bloodlines, and the specific nature of that fiend may influence an oni's personality traits, appearance, and supernatural abilities.
 
 !! Oni of Sarlona
 
 The [[Path of Inspiration]] teaches that the oni is a vessel for a lesser //altavar//. That fact
-explains the oni's mystical powers and fiendish appearance. According to the doctrine, the ogre mage has been crafted as a prison for the [[fiend]] within; if the oni lives a noble life of service to the [[Inspired]], they can actually redeem the evil spirit trapped within them. Such a tremendous victory surely earns the ogre mage great
-advancement in their next life. Of course, the evil spirit
-tempts the oni, encouraging them to use their power
-for personal gain or even trying to get them to turn against
-the [[Inspired]]. To do so might bring power in this life, but
-it forever dooms the soul. Regardless of conditioning,
-oni are constantly watched by the [[Thousand Eyes]],
-the [[Inspired]], and by their own kind.
+explains the oni's mystical powers and fiendish appearance. According to the doctrine, the ogre mage has been crafted as a prison for the [[fiend]] within; if the oni lives a noble life of service to the [[Inspired]], they can actually redeem the evil spirit trapped within them. Such a tremendous victory surely earns the ogre mage great advancement in their next life. Of course, the evil spirit tempts the oni, encouraging them to use their power for personal gain or even trying to get them to turn against the [[Inspired]]. To do so might bring power in this life, but it forever dooms the soul. Regardless of conditioning, oni are constantly watched by the [[Thousand Eyes]], the [[Inspired]], and by their own kind.
 
-The people of [[Sarlona]] consider [[oni]] and [[ogre]]s to be of one race. The majority of oni and ogres in Sarlona are concentrated in the [[Riedra]]n province of [[Borunan]]. They make up a small percentage of the population, but are more common in Borunan than they are anywhere in [[Khorvaire]]. Young oni undergo intense indoctrination to ensure they become weapons of the [[Inspired]], and they usually serve in Riedra's [[Horned Guard]] or [[Savage Legion|Taskaan Legion]]. Dissident oni who have overcome this indoctrination can be found among the [[Horned Shadow]].
+The majority of oni and [[ogre]]s in Sarlona are concentrated in the [[Riedra]]n province of [[Borunan]]. They make up a small percentage of the population, but are more common in Borunan than they are anywhere in [[Khorvaire]]. Young oni undergo intense indoctrination to ensure they become weapons of the [[Inspired]], and they usually serve in Riedra's [[Horned Guard]] or [[Savage Legion|Taskaan Legion]]. Dissident oni who have overcome this indoctrination can be found among the [[Horned Shadow]].
 
 !! Origins of the Oni
 
-The origins of the oni are a mystery. Some people
-believe oni are the offspring of [[hag]]s and [[giant]]s, and that some
-are children or grandchildren of the [[Daughters of Sora Kell]] themselves.
-Other stories claim there's a kingdom of oni in [[Khyber]],
-likely a demiplane, and that the oni of the surface world are
-criminals banished from this wondrous realm.
+The origins of the oni are a mystery. Some people believe oni are the offspring of [[hag]]s and [[giant]]s, and that some are children or grandchildren of the [[Daughters of Sora Kell]] themselves. Other stories claim there's a kingdom of oni in a [[demiplane]] of [[Khyber]], and that the oni of the surface world are criminals banished from this wondrous realm.
 
 The most likely explanation is not too far off from the doctrine of the [[Path of Inspiration]]. Like the [[rakshasa]] and the [[overlord]]s, the [[immortal]]s of [[Shavarath]] cannot be permanently bound. But during their service in [[Gul Dol]], the gateway to [[Shavarath]] in the [[Sarlona]]n kingdom of [[Borunan]], the [[ogre]] champions found a way to bind defeated [[fiend]]s to their own bodies—an involuntary version of the process that created the [[kalashtar]], trapping a fiend within a bloodline of ogres. Thus the supernatural powers of the oni may be tied to the essence of [[devil]]s bound to the bloodlines. This could be why many oni are drawn toward evil; but the oni of [[Borunan]] resisted those sinister instincts, using the power of their defeated foes to fight alongside [[celestial]]s. 
+
+While the oni of [[Borunan]] are bound to [[fiend]]s of [[Shavarath]], the oni of [[Droaam]] tend to be bound to native fiends of [[Eberron]]. An oni tied to [[Sul Khatesh]] might not have a direct connection to that [[overlord]], but perhaps has a lesser [[devil]] of that archfiend bound to their bloodline, which would tend to affect their personality and abilities; the warlord [[Tzaryan Rrac]]'s obsession with arcane relics and rituals may indicate a connection with the Queen of Shadows.

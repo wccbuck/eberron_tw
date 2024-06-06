@@ -2,16 +2,17 @@ alternatetitle: Khoravar
 category: creature
 color: #EA868F
 created: 20200415173654759
-modified: 20230824070743846
+modified: 20240606060816426
 tags: humanoid
 tier: 1
 title: half-elf
-tooltip: humanoid with human and elf ancestry; "a child of Khorvaire"
+tooltip: humanoid with human and elf ancestry; known as Khoravar, "a child of Khorvaire"
 type: text/vnd.tiddlywiki
 var: common
 
+<<<
 //I'm not half anything. You [[human]]s come from [[Sarlona]]. [[Elves|elf]] are from [[Aerenal]]. Me? I'm a true child of [[Khorvaire]].//
-
+<<<
 <div align="right">—Nandon Tam, Khoravar activist </div>
 
 From the Towering Woods of the [[Eldeen Reaches]] to

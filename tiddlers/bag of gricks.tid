@@ -2,7 +2,7 @@ category: object
 charges: 3
 color: #41D5E1
 created: 20210820224045403
-modified: 20220708173657335
+modified: 20240606044734736
 tags: tool summoning
 tier: 2
 title: bag of gricks
@@ -17,12 +17,12 @@ The creature is ''not'' under your control, and acts on its own accord. It may b
 
 Once three objects have been pulled from the bag, the bag can't be used again until the next dawn.
 
-<$button>
+<<<
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/BagOfGricksTable" $field="var"/>
 Random Aberration
 </$button>
 
-<<<
 ''{{!!var}}''
 <<<
 
