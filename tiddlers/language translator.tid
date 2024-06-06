@@ -3,14 +3,14 @@ category: game mechanics
 created: 20230509205613057
 displaylanguage: Goblin
 language: Goblin
-modified: 20240424013250642
+modified: 20240519030244465
 scrambling: enabled
 tags: 
 title: language translator
 tooltip: tool for translating text into an Eberron language, or generate gibberish that sounds about right
-translatetext: 
+translatetext: fragrant scent oil
 type: text/vnd.tiddlywiki
-var1: 
+var1: keltaan prel aal
 
 \define translateActions() <$action-generate-gibberish $language={{!!language}} $text=<<actionValue>> $field="var1" $scrambling={{!!scrambling}}/>
 \define translateActions2() <$action-generate-gibberish $language={{!!language}} $text={{!!translatetext}} $field="var1" $scrambling={{!!scrambling}}/><$action-setfield displaylanguage={{!!language}}/>

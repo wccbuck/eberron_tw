@@ -1,6 +1,6 @@
 category: note
 created: 20220302010115523
-modified: 20240429090108687
+modified: 20240507200227293
 tags: 
 title: Future Adventure Prep
 type: text/vnd.tiddlywiki
@@ -30,6 +30,8 @@ Brelish town names: Finnseat, Breyreach, Molstep, Grasshollow, Wex
 * <<scrollToHeader "Thrane">>
 * <<scrollToHeader "Eventually">>
 * <<scrollToHeader "Long-Term Plans">>
+** <<scrollToHeader "Katashka">>
+** <<scrollToHeader "Eldrantulku">>
 
 
 !! General Adventure Ideas Alita Wants
@@ -42,6 +44,7 @@ Brelish town names: Finnseat, Breyreach, Molstep, Grasshollow, Wex
 * Save orphans (there's an orphanage in [[Gate of Gold]], where [[Viktor Saint-Demain]] was raised. Or maybe Arien has to deal with a haunted orphanage) 
 * Underwater adventure ([[Thunder Sea]])
 * Homestead, build home base
+* Go to [[Syrkarn]] and get a [[sheshmiraj]] mount ("horse with dog mouth")
 
 !! Miscellaneous Brainstorming
 
@@ -74,7 +77,7 @@ Some other, non-canon ideas:
 
 ''Templars in Breland''
 
-Note: Nix the Medani commander for now, but maybe keep Ser Graym Lannerik as the former commander, now luminary. Who is the current commander? Is there even one? Maybe Hilia Graddan is the current commander, Silloene is a marshal like Elrik Sensworth. Arien can maybe work through Ser Silloene; maybe she's the one who coordinates with [[Warden Tower]] and [[Gaia Sotharr]]?
+Note: Nix the Medani commander for now, but maybe keep Ser Graym Lannerik as the former commander, now luminary. Who is the current commander? Is there even one? Maybe Hilia Graddan is the current commander, Silloene is a marshal. Arien can maybe work through Ser Silloene; maybe she's the one who coordinates with [[Warden Tower]] and [[Gaia Sotharr]]?
 
 * I think it is popular to refer to a templar as "Ser [first name]," and it's unusual to use the templar's last name in e.g. newspaper articles; only when using their full name for clarification.
 * Headquarters: "Bastion of Eternal Vigilance?" iunno. I like the idea of it being located in [[Black Arch]]. Could officially just be called the "Bastion of the Templar Commandery of Breland" (BTCB)
@@ -85,7 +88,7 @@ Note: Nix the Medani commander for now, but maybe keep Ser Graym Lannerik as the
 ** Ser Silloene recently rose to this role. Her predecessor, Ser Graym Lannerik, retired to a remote monastery as a Luminary. But for many years, he served as Silloene's mentor and helped her navigate church politics.
 * Marshals: 
 ** Hilia Graddan, believes in results over ritual. Often clashes with more orthodox templars
-** Elrik Sensworth, a former member of the [[Sharn Watch]] (specifically [[Guardians of the Gate]]). Has an extensive knowledge of the city's layout.
+** ~~Elrik Sensworth, a former member of the [[Sharn Watch]] (specifically [[Guardians of the Gate]]). Has an extensive knowledge of the city's layout.~~ Moved Elrik to Starilaskur
 * See [[Coldflame Keep]]; there used to be a much larger templar presence in Sharn. From [[Mazin Tana]]: "The garrison [at Coldflame Keep] was built to house a hundred soldiers, but currently there are only eight templars in residence. While these soldiers are supposed to protect the district from supernatural threats, Mazin believes that they have been chosen by the Archierophant to keep an eye on the aging priest—to make certain that Mazin does not try to interfere with the powers that control the Church in Sharn. While he is disillusioned with his superiors, Mazin still believes in the ideals of the Church and does his best to help those in need." Wow, so maybe there's a contingent of templars who are loyal to [[Ythana Morr]], and Ser Silloene is somehow unaware of this. Or she is, but she's not sure to what degree. There could be a series of quests where Silloene asks Arien to investigate Ythana, as an outsider. ~~Eventually, Arien could help overthrow Ythana and Mazin Tana could be appointed the new Archierophant.~~
 ** Alita asked not to focus on religious corruption too much, so let's not put the Archierophant in focus. Make it more of a "the authorities aren't super helpful here, welcome to Sharn" angle, similar to the Sharn Watch. Make the Archierophant just kind of useless instead of openly hostile. We could focus on [[Gaia Sotharr]] vs [[Gath]].
 
@@ -136,11 +139,11 @@ Two years ago (shortly before [[Treaty of Thronehold]], so technically Breland a
 
 Sejra believes Arien should speak with the Araflamists about her power, but Belmin isn't convinced. He can't forbid Arien from going, of course; as a votary of the Martial Temple, Arien has to abide by a certain code of conduct, but that doesn't include obeying Belmin's whim. In any case, Sejra recommends Arien trains with the templars, who might help her (and everyone) make sense of her power. (And while she's there, maybe try to find out whatever she can that might help reconcile the friendship between the Preceptor and the Knight-Marshal). The Preceptor very much wants to stay apprised of everything they discover. 
 
-First have a training scene with the Araflamists (names for templars: [], []). Could pull names I already came up with from the Sharn templar section. But then, Arien meets Luminary [], an old templar scholar who helps guide Arien through some meditation under the sun. It's then that Arien perhaps communes with the Fernian spark of divinity within her.
+First have a training scene with the Araflamists (names for templars: Elrik Sensworth, Taldorin, Cathya). Elrik is a former member of the Watch who has extensive knowledge of the city's layout. But then, Arien meets Luminary Zenio, an old templar scholar who helps guide Arien through some meditation under the rays of the sun. It's then that Arien perhaps communes with the Fernian spark of divinity within her.
 
 What is that divinity? The physical form of some [[celestial]] of [[Fernia]] was destroyed 20 years ago, and a sliver of that angel's power embedded into Arien's soul. Perhaps this was when [[Vylae]] was pregnant with her, but Vylae did not recognize the significance of the event at the time. The [[angel]]s of Fernia represent the comfort fire offers: its life-giving warmth, the light that holds back the shadows. They are typically [[deva]]s or other lesser angels, and they generally seek to assist and comfort travelers when they can. But we can say this one was a more powerful entity; something like a firemane angel from GGR. As written they sound more Shavarath ("holy champions and paragons of war", "firemanes typically have red hair; in the heat of battle, a firemane's hair can ignite, transforming into a mane of flames cascading over its shoulders and down its back." "They are fierce warriors devoted to justice and dedicated to protecting the weak against evil and oppression. They are commanders, advisors, strategists, and soldiers. Their presence in battle inspires the mortal soldiers of the legion with righteous zeal.") But we can tweak that to be more Fernian: shift the focus so that firemane angels are beacons of hope, celestials that keep the fire of hope alive even against overwhelming odds. The fire that protects and fights back against the cold of despair. Their fiery passion is like that of the charismatic leader who inspires courage and strives to protect the light.
 
-Eventually, the spiritual authorities that surround Arien realize they are out of their depth with figuring out what exactly her power is. There is a meeting where [[Dowin Lin Adredar]] suggests taking a trip to Sharn to meet with the planar scholars there. Belmin reaches out to the [[Devout of the Celestial Crown]], the [[liturgical council]] of Sharn, and sets things up so that Arien can lodge with the [[Citadel of the Sun]] in [[Hope's Peak]], [[Upper Dura]]. He suggests she meet with Aerela Tal (Khoravar adept) there. (Conveniently, this district borders [[Clifftop]], where Arien might do some adventuring.)
+Eventually, the spiritual authorities that surround Arien realize they are out of their depth with figuring out what exactly her power is. There is a meeting where [[Dowin Lin Adredar]] suggests taking a trip to Sharn to meet with the planar scholars there.  I think also the two liaisons should also be at this meeting (the full Consistory of the Martial Temple), Harvain ir'Dolris (crown liaison) and Dorcy Galterby (liturgical liaison). Harvain is very concerned about national security, comes off as a bit of a jerk perhaps. Maybe Captain [[Meryl ir'Ravalas]] of the Dark Lanterns is here as well. Anyway, Belmin reaches out to the [[Devout of the Celestial Crown]], the [[liturgical council]] of Sharn, and sets things up so that Arien can lodge with the [[Citadel of the Sun]] in [[Hope's Peak]], [[Upper Dura]]. He suggests she meet with Aerela Tal (Khoravar adept) there. (Conveniently, this district borders [[Clifftop]], where Arien might do some adventuring.)
 
 But Belmin also warns her about the Church of the Silver Flame in Sharn, saying that the [[Argentum]] of [[Thrane]] has certainly heard of her abilities by now, and that the last thing he'd want is for Thrane or the Church to somehow twist her gift or take advantage of her. He wants to make sure she is well supported when she gets to Sharn, which is why he wants her to make connections at the [[Citadel of the Sun]].
 
@@ -186,7 +189,7 @@ Aejar, as a prince, has the authority to appoint knights. (Knighthood is an hono
 
 !! Sharn
 
-Arien goes to [[Sharn]]. She checks in with Aerela Tal at the [[Citadel of the Sun]]. But when she arrives she's basically a celebrity. At least one person asks her to attend the [[Tain Gala]]. She also gets recruitment requests from both [[Clifftop Adventurers Guild]] and [[Deathsgate Adventurers Guild]]. Meanwhile, Dowin and his group of [[Morgrave University]] scholars want to study her, and not much is going on at the [[Citadel of the Sun]], so Arien might be compelled to join Clifftop or otherwise start adventuring, to stave off boredom more than anything else.
+Arien goes to [[Sharn]]. She checks in with Aerela Tal at the [[Citadel of the Sun]]. But when she arrives she's basically a celebrity. At least one person asks her to attend the [[Tain Gala]]. She also gets recruitment requests from both [[Clifftop Adventurers' Guild]] and [[Deathsgate Adventurers' Guild]]. Meanwhile, Dowin and his group of [[Morgrave University]] scholars want to study her, and not much is going on at the [[Citadel of the Sun]], so Arien might be compelled to join Clifftop or otherwise start adventuring, to stave off boredom more than anything else.
 
 We could say that the [[Race of Eight Winds]] is about to start right when she arrives, so she can see the intensity of the competition and how it grabs the attention of everyone in [[Dura]] every year. Depending on when she arrives, might need to push it back; it canonically happens Lharvion 23.
 
@@ -254,6 +257,7 @@ Eventually, she realizes her power comes from a [[celestial]] of [[Fernia]], who
 * Another shrink-down adventure involving [[brigganock]]s.
 ** Brigganock names: Trig, Zarli, Oyla, Golmo, Obud (lives in a hut on a pony named Keg, lowers a rope ladder to get down from the saddle straps), Pim, Zwee
 * [[Krezent]]
+* An agent (guide) of the [[Traveler]]. Perhaps [[Chance]]?
 * Consider [[Eyes Unclouded Anthology|https://www.dmsguild.com/product/322733/Eyes-Unclouded]]. Cinderlings are perfect for Arien.
 * Consider stealing ideas from Oracle of War if Arien wants to salvage in the Mournland (don't forget I have some thoughts on Mournland stuff in [[Old Miscellaneous Planning Notes]])
 * A journey to the [[Labyrinth]] to meet with the [[Ghaash'kala]]. Learn about the Binding Flame. Maybe she is sent here (or chooses to come here) to investigate what happened to a great paladin who never returned, and to recover his holy relics. 
@@ -263,6 +267,8 @@ Eventually, she realizes her power comes from a [[celestial]] of [[Fernia]], who
 * Note about the Ghaash'kala: They have a connection to the [[Abyssal Forest of Khaar]]. This could be a way for Arien to have a demiplane shortcut between the Labyrinth and the [[Faded Forest]] near [[Mistmarsh]]!
 
 !! Long-Term Plans
+
+!!! Katashka
 
 I think we can maybe think about a campaign focused in part around [[Katashka]] straining against its bonds. Its prison is shattered into little fragments, some of which could be used as phylacteries by [[lich]]es. Its speaker in the [[Lords of Dust]] is [[Mazyralyx]] the [[dracolich]]. His champions include the ancient wizard [[Kyuss]].
 
@@ -279,6 +285,10 @@ Rak Tulkhesh is the manifestation of aggression and war. Either it can't be dest
 So the actual destruction of, say, [[Katashka]] might cause mortals to lose their fear of death entirely. Not great. 
 
 So perhaps Arien's journey will be a way to form a "better" cage for these fiends, or some kind of system that restores the world to what it could have been had Siberys not been destroyed. Removing the overlords is a blunt instrument; Arien should find a way to bring about a new age where no matter what happens, the overlords can't break free and cause a new Age of Demons, without outright destroying them.
+
+If this is the case and Arien needs to make some fundamental change to the world, we should incorporate the [[Traveler]] (like a Guide character, perhaps bringing in the [[Cabinet of Faces]]) and perhaps some [[Xoriat]] shenanigans.
+
+!!! Eldrantulku
 
 Another overlord we could use: [[Eldrantulku]] the Oathbreaker. Good reasons to suspect it is bound somewhere beneath Breland. In fact, his prakhutu [[Neabaz]], the Voice of Chaos, is a perfect villain for spreading discord in [[Breland]] and abroad, and probably is working with speakers of other overlords (e.g. [[Mazyralyx]], [[Mordakhesh]]) to make this come about. [[Emerald Claw]], cults of the [[Grim King|Katashka]], the [[Swords of Liberty]], etc. Other servants include [[Thelestes]], a "claw" of Neabaz.
 
