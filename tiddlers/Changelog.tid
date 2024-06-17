@@ -1,7 +1,7 @@
 created: 20211110214827026
 creator: ziphion
-currentversion: 1.26.02
-modified: 20240606205550354
+currentversion: 1.26.03
+modified: 20240617220504383
 modifier: ziphion
 showmore: hide
 tags: Readme
@@ -16,6 +16,19 @@ Use the [[Eberron TW Updater]] to update your local copy to the latest version.
 !!! New here? Check the [[Readme]]!
 
 </$list>
+
+!!! 1.26.03 <span style="font-weight:normal">(Jun 17, 2024)</span>
+
+I've got a big update planned, including content from [[this post about the Talenta Plains|https://keith-baker.com/talenta-mysteries/]] and an improved interactive map of the [[Mror Holds]], but it'll have to wait until my schedule clears up.
+
+* Added the fort [[Brey Crossing]] and removed references to a duchy with that name
+* Added a note to [[Bulwark]] that he was formerly named Three
+* Also added the [[Crown Knights]] of [[Thrane]] and Captain [[Malik Otherro]]
+* Changed some details about [[Starilaskur]]'s planar connections
+* Added a few spells to the [[Artificer (talent)]] recommended list
+* Improved the month table on the [[Khorvaire calendar]] page
+* Added a couple of paragraphs to [[prakhutu]]
+* Fixed miscellaneous typos and mistakes
 
 !!! 1.26.02 <span style="font-weight:normal">(Jun 06, 2024)</span>
 
