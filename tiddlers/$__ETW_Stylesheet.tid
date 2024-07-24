@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20240606044245561
+modified: 20240710150454091
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -415,6 +415,13 @@ input.cs-newsegments {
 
 .fmw-polmap {
     background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/eberron-tw/FMW/wireframe-globe.svg">>');
+	background-repeat: no-repeat;
+	background-size: 25px 25px;
+	background-clip: padding-box;
+}
+
+.fmw-mror {
+    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/eberron-tw/FMW/mror-symbol.svg">>');
 	background-repeat: no-repeat;
 	background-size: 25px 25px;
 	background-clip: padding-box;

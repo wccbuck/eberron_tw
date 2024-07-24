@@ -1,5 +1,5 @@
 created: 20240528061106885
-modified: 20240528064748561
+modified: 20240712230712802
 tags: 
 title: $:/UpdateChecklist
 type: text/vnd.tiddlywiki
@@ -22,8 +22,7 @@ Reset Find Things
 </li>
 <$reveal type="nomatch" state="$:/themes/tiddlywiki/vanilla/metrics/sidebarwidth" text="21vw">
 <li>
-<$button>
-<$action-setfield $tiddler="$:/themes/tiddlywiki/vanilla/metrics/sidebarwidth" text="21vw"/>
+<$button set="$:/themes/tiddlywiki/vanilla/metrics/sidebarwidth" setTo="21vw">
 Set sidebar width to 21vw
 </$button> ([[$:/themes/tiddlywiki/vanilla/metrics/sidebarwidth]])
 </li>

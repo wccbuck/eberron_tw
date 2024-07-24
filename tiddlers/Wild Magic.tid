@@ -1,17 +1,17 @@
-2d4: 6
+2d4: 4
 category: talent
 created: 20210726072826690
-d10: 4
+d10: 5
 d20: 20
-d35: 20
-d4: 4
-d50: 20
-d7: 7
-duration: 2 minutes
-effect: Caster grows one inch per day for the next {{!!2d4}} days, after which their original height is restored.
-l_duration: 2 days
-modified: 20231126204352632
-s_duration: 9 seconds
+d35: 35
+d4: 2
+d50: 5
+d7: 6
+duration: 45 seconds
+effect: Caster thinks that they've stolen this body from its rightful owner for the next {{!!duration}}.
+l_duration: 4 days
+modified: 20240711193431757
+s_duration: 8 seconds
 tags: sorcerer
 title: Wild Magic
 type: text/vnd.tiddlywiki

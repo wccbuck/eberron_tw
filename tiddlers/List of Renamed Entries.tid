@@ -1,0 +1,105 @@
+created: 20240712003032794
+modified: 20240724064915686
+tags: Readme
+title: List of Renamed Entries
+tooltip: list of entries in the Eberron TW which have been renamed from source materials
+type: text/vnd.tiddlywiki
+
+This list is an attempt to assemble in one place all the entries in the Eberron TW that I have renamed from canon or "kanon" (non-canon writings of Keith Baker). I may have missed or forgotten a few. I've also included a reason for the rename. In most cases, the reason is to avoid confusion with other identically-named or similarly-named entries.
+
+!! Places
+
+First, a list of Adaran location names that I've changed because the original names were lifted directly from "exotic" real-life Asian cultures for the book //Secrets of Sarlona//. Some, but not all, of these changes were based on [[Talvakri's Guide to Adar|https://www.dmsguild.com/product/434918/Talvakris-Guide-to-Adar]] by Megan Caldwell.
+
+* Bishma → [[Biivma]]. Bhishma is a revered figure in Hinduism.
+* Hanuman → [[Havaluma]]. Hanuman is a Hindu deity.
+* il-Shakti → [[il-Shati]]. Shakti is a core concept in Hinduism.
+* Jathara Sound/Bay → [[Jahara Sound]] and [[Jahara Bay]]. Jathara means abdomen in Sanskrit; the writer might have been inspired by yoga pose names.
+* Khada → [[Kaadan]]. A khada is a ceremonial scarf used by Himalayan Buddhists.
+* Loohar → [[Looyan]]. Loohar is a real town in India.
+* Shambala → [[Shavaala]]. Really, //Secrets of Sarlona// writers? //Shambala?//
+
+A couple of other Sarlonan changes:
+
+* Corvagura → [[Ghirvagura]]. I always thought Corvagura sounded too much like "Khorvaire" when spoken aloud, for place names with no common etymological root. This change also gave me an opportunity to add an aspirated consonant to a Riedran place name, to reflect different language origins.
+* Khalesh → [[Caleshaz]]. I renamed this because there is an overabundance of "Kh" names in Eberron, and specifically in Sarlona; I always get this one mixed up with [[Khunan]]. It's also very similar to [[Sul Khatesh]]. Like [[Nulakaz]] below, I wanted this name to take phonological inspiration from Old Persian and stand out from other place names.
+* Korrandar → [[Telathal]]. "Korrandar" was the most Khorvairian-sounding name ever. It doesn't sound Adaran or Quor or Draconic in the slightest. I got the new name by plugging "Korrandar" into an old Quor gibberish generator before I [[made my own|language translator]] for the Eberron TW.
+* Nulakesh → [[Nulakaz]]. As mentioned above with Caleshaz, I wanted to add some Old Persian name influence to some of the old kingdoms of Riedra. Plus, "Nulakesh" just sounds so much like an [[overlord]] name (Sul Khatesh, Rak Tulkhesh).
+
+Miscellaneous place name changes:
+
+* Basura Swamp → [[Basira Swamp]]. "Basura" means "trash" in Spanish.
+* Cornerstone ([[Lorghalan]] city) → [[Hornstone]]. There is already a [[Cornerstone|Cornerstone (Kythri city)]] in [[Kythri]] and a [[Cornerstone]] district of [[Sharn]]. I chose Hornstone because it's a synonym for "cornerstone" in Old English: "hyrnstan."
+* Graywall/Graystone district of Sharn → [[Grawand]]. The district is already named inconsistently in canon. [[Graywall]] is already a very prominent city, and [[Graystone]] is already a ward in another very prominent city ([[Stormreach]]). The new name derives from "grau wand"="gray wall" in German.
+* Stillwater → [[Dwellwater]]. This is an underwater district of [[Sharn]] mentioned in cut content for Sharn: City of Towers. There are already two other "Stillwaters" in Eberron, so I chose to make a new name for this neighborhood.
+* Tzanthus → [[Szanthus]]. This was a minor thing, but I added the "sz" phoneme into the [[Zil|Zilargo]] language and wanted to use it in a place name.
+
+!! People/Entities
+
+I changed a few names to avoid confusion with other, similar names:
+
+* Caskal Dulaen → [[Ivellios Dulaen]]. Caskal, [[Caskar|Caskar Halavik]], Cask, [[Castal|Castal d'Cannith]], these names are too similar. Ivellios is on the list of recommended elf names from the 3.5e PHB and I hadn't used it anywhere yet.
+* Castar → [[Korbis Kan Nezzelech]]. Another character with a name very similar to other characters.
+* Cask → [[Mig]]. Again, too many Cask- and Cast- names, especially among a group of characters all associated with the [[Boromar Clan]] who could easily all come up in the same campaign arc.
+* Kassh Droranath → [[Kash Droranath]]. This character has no obvious connection to [[Kasshta Keep]], so I felt that removing the extra "s" made sense.
+* Orlasca (the "Hungry Hunter" associated with [[Talenta|Talenta Plains]] [[ghoul]]s) → ''Orgosca''. The original name was way too similar to [[Orlassk]], a completely unrelated entity. I tried to make it work with different pronunciations but it's just better to rename it.
+* Spider → [[Opilion]]. This arachnid-like [[warforged]] antagonist from an adventure set in [[Sharn]] (//Quoth the Raven//, Dungeon #150) unfortunately shared a name with a [[changeling]] information broker also located in [[Sharn]] (the [[Spider]]). I renamed him after a different, lesser-known arachnid.
+* Per (changeling) → [[Vurs]]. [[Per]] is a town in [[Syrkarn]]. I know that there are people in real life named "Paris" and "Dallas" but in fictional settings I'd prefer that type of thing be intentional.
+
+Other names I changed not necessarily to avoid confusion, but because they were annoyingly similar to pre-existing names:
+
+* Asshalara → [[Zetsash]]. "Asshalara" is among my most-hated Eberron names. "Jaasakah" is worse but not by much. Ass-halara? Ass-shalara...? I can't find a pronunciation that works for me at all. And there's already a member of the [[Bleak Council]] named [[Shalashar]]. Also it sounds annoyingly similar to [[Ashtakala]], and the "assh" thing is already played out in [[Avassh]] and [[Kasshta|Kasshta Keep]]. Zetsash is better.
+* Kashtarhak → [[Neabaz]]. Kashtarhak was too similar to [[Katashka]] for my tastes, not to mention the general overabundance of "ashta" sounds in Eberron names. Plus, Neabaz from Greyhawk/FR lore makes a great source of inspiration for the speaker of [[Eldrantulku]].
+* Raqashtar → [[Raqazda]]. Too many "ashta"s. For an entity from an entirely different plane of existence than [[kalashtar]] and [[Jhorash'tar]], this guy sure had a matching name.
+* Sulatesh → [[Shoralath]]. "Sulatesh" sounds like [[Sulat|Sulat League]] and is just one "k" away from [[Sul Khatesh]].
+* Torrm (the [[Gatekeeper|Gatekeepers]] druid) → [[Tazlag]]. Her name was too similar to [[Torrn]].
+* Torgaan Shashaarat → [[Toru Durburz]]. The original name sounds like a stereotypical hobgoblin, not the leader of an almost completely linguistically sundered group of orcs. The Goblin word for "sword" is right there in his last name. The new name takes inspiration from LotR's Black Speech.
+* Uusharak → [[Uushak]]. Minor change, I just thought the original name sounded too similar to a [[Mror clan]].
+
+Some names just seemed to not follow established rules of the world, such as:
+
+* Helkashtai → [[Helkatash]]. This person is an [[Inspired]], not a [[kalashtar]] of the Kashtai line, so her name is constructed incorrectly.
+* Meryl d'Ravalas → [[Meryl ir'Ravalas]]. The author who created this character did not know that the d' prefix is for dragonmarked heirs.
+
+Miscellaneous person/entity name changes:
+
+* Haalrac → [[Hunrut]]. Searching for "Haalrac" turns up a bunch of results for [[Kech Ghaalrac]]. I like Hunrut better since in my Eberron, [[minotaur]]s speak a unique dialect that branched away from [[Goblin]] and I prefer their names to be distinctive from Goblin-sounding names.
+* Prince of Bones → [[Lhek Traakar]]. Not really a rename as much as a "translation" of this [[Droaam]] [[warlord]]'s name into [[Goblin]].
+* Gray (changeling) → [[Loz]]. This one was purely personal; I know a person in real life named "Grey" and was preparing to run a game where this changeling NPC's name would have been humorously confusing. I like Loz better than Gray for this character, though, since there's already a lot of "Gray" in [[Sharn]] ([[Grayflood]], [[Gray House]], Graywall/Graystone ([[Grawand]]))
+* Daerath Ozeyra → [[Ozaera]]. A [[patron ancestor]] mentioned in an old sample [[Tairnadal]] character sheet, I changed this name to fit the "look" of more recent writings on patron ancestors.
+
+!! Organizations
+
+The following names were changed to avoid similarities with real-world groups:
+
+* Akiak → [[Doriak]]. Akiak is a real group of people. This change isn't mine, it originated on the Eberron Discord server and then was made "kanon" in Chronicles of Eberron.
+* Storm Front → [[Kraken's Brood]]. Storm Front is a real-life white supremacist organization. Like Doriak, this change is kanon (Chronicles of Eberron).
+
+I changed three out of the four [[Ghaash'kala]] clan names, taking inspiration from LotR's Black Speech:
+
+* Kastar → ''Dumul''. Sounded too similar to other names (see Castal/Caskar/Cask/etc in the "People" section above). Dumul means something like "quick" or "swift" in one of the dictionaries for Black Speech.
+* Jaasakah → ''Vadokah''. "Jaasakah" sounds like "Jessica" in a valley girl accent. Terrible. The new name essentially means "deadly" in one of the Black Speech dictionaries.
+* Vanka → ''Jundaut''. Just a taste thing, I thought "Vanka" was not a very evocative name, and wanted to rename it something more closely aligned with LotR's Black Speech. Also I had already renamed a different tribe "Vadokah" which I felt was to similar to Vanka. Jundaut means something like "final" in Black Speech.
+
+Miscellaneous organization name changes:
+
+* Royal Guard → [[Breland Municipal Guard]]. The original name implies that they are the king's bodyguards, a role which overlaps with the [[King's Shields]]. This name more closely matches this military division's legacy role.
+* Cold Wind → [[Brood of Ruin]]. Renamed because "Cold Wind" sounds like a pleasant afternoon, not one of the vicious [[Carrion Tribes]]. Also we already have [[Razor Wind]].
+* Carrion Hounds → [[Carnage Hounds]]. Having a [[Carrion Tribe|Carrion Tribes]] named Carrion Hounds was too redundant and silly.
+* Dark Pack → [[Great Pack]]. Like other name changes, this change also is kanon, so I made the change in this document to align with more recent writings (plus "Dark Pack" is a bit corny and edgy).
+* Dark Daggers Gang → [[K.N.I.V.E.S.]] Speaking of edgy, the "Dark Daggers Gang" is such a dumb name, and so generic as to be criminally boring. I think the change I made is sufficiently over-the-top to reflect gang leader [[Kreelo]]'s narcissism and "extra"-ness.
+* Qaltiar → [[Qaltiu]]. The -ar ending seems to be widely applied in cultures across the entire world as a suffix indicating "people." I chose to make the -ar ending be a Proto-[[Khorvairian|Khorvaire]] linguistic artifact, which explains the [[Dhakaan]]i "dar", the [[Talentan|Talenta Plains]] Boromar/Halamar/Toralamar, the [[Jhorash'tar]], and a few others. While "[[kalashtar]]" is still a non-Khorvaire example, I've made changes to several others (including the shulassakar below) for the sake of authentic-feeling linguistic variety. Here, I've replaced the -ar in drow cultures with -u.
+* Sulatar → [[Sulatu]]. See Qaltiu above.
+* Ja'khor → [[Va'khor]]. "Ja" already canonically means "bright" ([[Ja'shaarat]]); it probably shouldn't also mean "black."
+* Red Gauntlets → [[Von Harrla's Regiment]]. "Red Gauntlets" is too similar to "Redcloak Battalion" in my mind. Took this name from one of the honors/decorations in the Red Gauntlet Regiment section of PGtE ("Von Harrla's Ring").
+
+!! Creatures
+
+* crystal dragon → [[quartz dragon]]. Not really an Eberron thing per se, I just didn't like this name because //all// the [[gem dragon]]s are "crystal" dragons. Why didn't this one get a specific mineral like the others?
+* shulassakar → [[shulatlaca]]. As with Qaltiar/Sulatar which I discussed above, "shulassakar" has an -ar ending and really kinda shouldn't, in my mind. These people originate from Sarlona, specifically old [[Caleshaz]] (Khalesh) most likely, and in my Eberron, the Caleshaz language is also where the word [[couatl]] comes from. So I chose a name that sounds like it could have the same linguistic origin as "couatl."
+
+!! Objects
+
+* Black Dog Brew → [[Blink Dog Brew]]. Black Dog Brewing is a real brewing company, the emblem beast of House [[Ghallanda]] is the [[blink dog]], and the [[Black Dogs]] are already a canon secret society within Ghallanda.
+* Kloijner → [[Kloinjer]]. This isn't actually a rename, it's just an attempt to standardize the name which is split about 50/50 between these two spellings across various writings.
+* flying buttress → ''floating buttress''. These are the magical structures supporting many of the towers of [[Sharn]]. I know KB likes the "flying buttress" joke, but that term means something specific and non-magical not only in our world, but also in canon Eberron (for example, see the description of the [[Cathedral of the Silver Flame]]).

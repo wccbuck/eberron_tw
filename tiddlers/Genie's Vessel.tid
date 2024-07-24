@@ -1,0 +1,34 @@
+category: talent
+created: 20240715050820140
+modified: 20240715060037921
+tags: warlock
+title: Genie's Vessel
+type: text/vnd.tiddlywiki
+xpcost: 1
+
+You have made a [[warlock]]'s pact with a powerful [[genie]]. Choose one of the following types for your genie patron: [[dao]], [[djinni]], [[efreeti]], or [[marid]]. 
+
+Your patron has given you a magical vessel that grants you a measure of the genie's power. The vessel is a handheld object, and you can use it as a [[magical implement]] for your spells. You can decide what the object is, but consider the following ideas:
+
+* Oil lamp
+* Urn
+* Ring with a compartment
+* Stoppered bottle
+* Hollow statuette
+* Ornate lantern
+
+While you are touching the vessel, you can magically vanish and enter the vessel, which remains behind in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20-foot-radius cylinder, 20 feet high, and resembles your vessel. The interior is furnished with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to eight hours, but you exit it early if you die, you choose to leave, or the vessel is destroyed. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in unoccupied spaces where the vessel once was. Once you enter the vessel, you can't enter it again until you rest for at least six hours.
+
+In addition, you gain the ability to cast ''one'' [[uncommon-tier|spell tier]] [[spell]] that matches your [[genie]] patron's type. Some potential choices include:
+
+* ''Any genie type:'' [[detect immortal]], [[phantasm]], [[purify food and drink]]
+* ''Dao:'' [[sanctuary]], [[spike growth]]
+* ''Djinni:'' [[thunderwave]], [[gale]]
+* ''Efreeti:'' [[scorching ray]], [[pyrotechnics]]
+* ''Marid:'' [[fog cloud]], [[create or destroy water]]
+
+!! Other Talents
+
+{{!!title}} is a prerequisite of the following [[talent]]s:
+
+<<list-links-article "[<currentTiddler>listed[prereq]category[talent]sort[title]]">>

@@ -1,13 +1,13 @@
 category: location
 color: #4C8201
 created: 20200414065829104
-modified: 20230825203300933
+modified: 20240703064605906
 points: 39.378,15.0
 population: 3000
 style: {"color": "#CA5700"}
 tags: town [[Talenta Plains]]
 title: Gatherhold
-tooltip: greatest settlement of the Talenta Plains, site of tribal council meetings
+tooltip: by far the largest settlement of the Talenta Plains, site of tribal council meetings
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>
@@ -29,10 +29,10 @@ Buildings designed for outsiders, including a large [[Gold Dragon Inn]] and sign
 
 Many [[halfling]]s, even permanent residents, prefer to put up their tents along the surrounding hills rather than stay cooped up inside “boxes,” as they call even the most lavish set of rooms. This portion of the town comprises a majority of the population. Wagons and caravans are always coming and going. There’s always an open market and a festival of some sort, but the location and the theme is constantly changing. Some days you might see a theater performance with masked storytellers; some days feature races or jousting; some days you might compete in an eating contest. The [[dinosaur]] stock show is a particularly popular event.
 
-At least three times a year, Gatherhold hosts a
-meeting of the tribal council. All tribes are welcome
-to attend, but attendance by the [[lathon|Halpum]] and the [[lath]]s
-of the five largest tribes is mandatory. During the five
-or ten days that the council remains in session, the
-town’s population swells as a continuous stream of
-tribes passes through.
+At least three times a year, Gatherhold hosts a meeting of the tribal council. All tribes are welcome to attend, but attendance by the [[lathon|Halpum]] and the [[lath]]s of the five largest tribes is mandatory. During the five or ten days that the council remains in session, the town’s population swells as a continuous stream of tribes passes through.
+
+!! What About the Haunting Curse?
+
+One of the greatest <<navAndScrollToHeader "Talenta Plains" "mysteries of the Talenta Plains">> is the so-called //Haunting Curse:// a slow and inexorable process by which any permanent settlement in the plains becomes infested with restless [[ghost]]s, and [[arcane magic]] of all kinds gradually malfunctions and breaks down. How is Gatherhold able to survive?
+
+This is a mystery even to the Talenta themselves. The most logical answer is that the town sits on the shore of [[Lake Cyre]] at the very edge of the [[Talenta Plains]], and might simply be outside the region of the curse. The same may be true of the [[kleynam]]s (small towns) along the northern border with [[Karrnath]]. On the other hand, [[Maskweavers]] and other mystics have long performed rituals to draw in the favor of benevolent spirits to protect and preserve Gatherhold, and these traditions could be ultimately responsible for its ongoing prosperity.
