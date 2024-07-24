@@ -1,14 +1,38 @@
 category: creature
 color: #EA868F
 created: 20200415032155418
-modified: 20230818205625582
+modified: 20240606204729679
 tags: immortal
 tier: 4
 title: radiant idol
 tooltip: "fallen angel" of Syrania, seeks adoration of mortals
 type: text/vnd.tiddlywiki
+var1: Vala Tus
+var2: Trickery
+var3: spectral
+
+<<<
+//“Tonight we shall destroy [[Vorlintar]], the Voice of the Innocent and the Keeper of Hopes, Fifth among the Fallen of Syrania. Call him by his titles,” Drego said, “But do not speak his name.”//
+
+//“Keeper of Hopes?” Brom said, and his chuckle echoed off the walls. “He doesn’t sound so terrible.”//
+
+//“And he wasn’t, when he was a force for light. Now he holds to his dominions, but he has become a force for evil. He is indeed the Keeper of Hopes – the hopes that he has stolen from all those who fall under his sway. He devours innocence, leaving pain and despair. As we draw closer to his throne, you will feel his talons tearing at your mind. You must be strong and hold him at bay, for a clean death is far better than a life without hope.”//
+<<<
+<div align="right">—Keith Baker, //The Son of Khyber//</div>
 
 A radiant idol was an [[angel]] from the [[plane]] of [[Syrania]] that succumbed to the corruption of the Material Plane. One sin led to their fall: the desire to be worshiped by mortals. Now in the mortal realm, most radiant idols gather cults of devoted followers.
+
+!! Links to Headers
+* <<scrollToHeader "Overview">>
+* <<scrollToHeader "Appearance and Personality">>
+** <<scrollToHeader "Random Radiant Idol Generator">>
+* <<scrollToHeader "Abilities and Properties">>
+* <<scrollToHeader "Anchor Points">>
+** <<scrollToHeader "Death and Rebirth">>
+* <<scrollToHeader "Radiant Idols of Sharn">>
+* <<scrollToHeader "Notes">>
+
+!! Overview
 
 Syranian [[virtue]]s sometimes travel to the Material Plane to
 conduct research for their [[dominion]], concealing their true
@@ -23,22 +47,90 @@ Many sages believe that touching [[Eberron]]'s ground
 makes angels vulnerable to the influence of [[Khyber]] and the
 [[overlord]]s, while others theorize that mortal worship—the
 positive energy that sustains the [[Undying Court]]—is like a
-drug to the dominions. Whatever the cause, dominions who
+drug to the dominions. Whatever the cause, [[dominion]]s who
 interact with mortals run the risk of becoming corrupted.
 Such [[immortal]]s crave mortal adoration and often seek to
 dominate mortals by exercising the power of their sphere. 
 
-Not all [[dominion]]s fall prey to this corruption, but once
-one does, there seems to be no way to undo it. Even if the
-angel is destroyed and reforms, the corruption remains. (Note: a destroyed radiant idol eventually reforms at the spot where its feet first touched the ground in the Material Plane.) It's unlikely that such an angel would be met in [[Syrania]] itself; typically, these corrupted angels are forever stripped of the power of flight and condemned to walk the Material Plane as radiant idols.
+Not all [[dominion]]s fall prey to this corruption, but once one does, there seems to be no way to undo it. Even if the angel is destroyed and reforms (see <<scrollToHeader "Anchor Points">> below), the corruption remains. It's unlikely that such an angel would be met in [[Syrania]] itself; typically, these corrupted angels are forever stripped of the power of flight and condemned to walk the Material Plane as radiant idols. 
 
-Radiant idols often gild their names with lofty titles, such as "Vorlintar, the Voice of the Innocent and the Keeper of Hopes." An idol with such epithets might actually feed on the hopes of the innocent.
-
-!! Appearance
+!! Appearance and Personality
 
 The insatiable hunger to be adored can transform a fallen angel, physically and mentally.
-In its true form, a radiant idol appears to be a warped
-angel. It might have bloody stumps in place of its wings,
-or its wings could be weighted down with chains representing its pride. A radiant idol disguises itself to hide its corruption, presenting an image of celestial glory.
+In its true form, a radiant idol appears to be a warped angel, [[humanoid]] in appearance but 9 or more feet tall. It might have bloody stumps in place of its wings, or its wings could be weighted down with chains representing its pride. A radiant idol disguises itself to hide its corruption, presenting an image of celestial glory.
 
-When a radiant idol achieves a sizable following through silvered words and demonstrations of power, its facade begins to crack, and a downward spiral ensues. As the radiant idol sinks deeper into the realm of material power, it begins twisting its followers, leading them ever deeper into ominous ritualism, hedonistic folly, and fanatical doom.
+When a radiant idol achieves a sizable following through silvered words and demonstrations of power, its facade begins to crack, and a downward spiral ensues. As the radiant idol sinks deeper into the realm of material power, it begins twisting its followers, leading them ever deeper into ominous ritualism, hedonistic folly, and fanatical doom. As a rule, these idols are not as thoroughly evil as true [[fiend]]s, but decades or centuries of chasing the thrill of worship can push fallen [[dominion]]s down dark paths. And when they have fully yielded to their corruption, radiant idols can be classified as fiends, and [[spell]]s and [[magic item]]s that interact with fiends will register them as such.
+
+Despite their similarities, each radiant idol embodies a specific and unique idea—a warped version of the focus within its [[Syranian domain]] it once studied as a [[dominion]]. For example, [[Vorlintar]], "the Voice of the Innocent and the Keeper of Hopes," now //steals// the hopes from the innocent. An idol known as "the Lady of Lightning, She Who Guides the First Strike" might once have contemplated preemptive strikes in battle throughout history, but now revels in seeing conflict unfold and guiding the swing that brings down an unprepared enemy. An idol who once embodied a specific aspect of Joy now leads bacchanalian frenzies.
+
+!!! Random Radiant Idol Generator
+
+To create a random radiant idol, roll on the following table for each column, or use the button below the table. Roll //twice// on the name column and combine the names together, e.g. //Ranrael// or //Kastar-Ular//. The wings column describes why this fallen angel can no longer fly, but also suggests a theme for their appearance. The domain/cult focus column gives a broad [[Syranian domain]] within which this idol should embody a narrow aspect, as well as a possible scheme of that idol's cult.
+
+| !<<dr d8>> |!Name |!Wings |!Domain/Cult Focus |
+| 1 |Kastar |Severed |''Order.''  The cult seeks to bring order to the idol’s sphere of influence, stopping violence and crime, but also enforcing a dress code and restricting free speech. |
+| 2 |Rael |Petrified |''Forge.'' The cult is building a monument or weapons—or a monument that is also a weapon—that honor the idol. |
+| 3 |Ular |Chained |''Death.'' The idol promises a peaceful eternity to victims killed in a ritual manner; their souls are contained within the idol, preventing resurrection until the idol is destroyed. |
+| 4 |Astul |Frozen |''Life.'' The idol uses its magic to provide perfect health to its cultists—but for every cultist it heals, an innocent person suffers the malady removed. |
+| 5 |Ran |Burnt |''Peace.'' Cultists of the idol exist in a state of perfect, serene peace; however, they are incapable of taking any remotely aggressive action, even in the most desperate situations. |
+| 6 |Avar |Glass |''Trickery.'' The idol yearns to see intrigues unfold in the community, and dispatches its cultists to infiltrate factions and guilds to sow discord. |
+| 7 |Tus |Broken |''Knowledge.'' The cultists of the idol cannot lie, and others find they cannot lie //to// the cultists. What chaos will this bring to a community that has a lot of skeletons in its closets? |
+| 8 |Vala |Spectral |''Nature.'' The idol can provide a community with bountiful crops and healthy stock… but there is a price for this supernatural prosperity. |
+
+<<<
+<$button class="vertical-margin-2">
+<$action-chooserandom $filter="Kastar Rael Ular Astul Ran Avar Tus Vala" $field="var1" $number="2" $unique="true"/>
+<$action-chooserandom $filter="Order [[the Forge]] Death Life Peace Trickery Knowledge Nature" $field="var2"/>
+<$action-chooserandom $filter="severed petrified chained frozen burnt glass broken spectral" $field="var3"/>
+Generate Radiant Idol
+</$button>
+
+''Radiant Idol: '' <$list filter="[list[!!var1]butlast[]]"><<currentTiddler>></$list><$list filter="[list[!!var1]last[]lowercase[]]"><<currentTiddler>></$list>, Idol of {{!!var2}} with {{!!var3}} wings
+<<<
+
+!! Abilities and Properties
+
+Radiant idols possess innate magical abilities which enable them to build their cults and enhance their followers' devotion. They can cast a wide variety of [[enchantment]] spells such as [[charm]], [[enthrall]], [[suggestion]], [[confusion]], and [[hold]]. They are immune to [[zone of truth]] and any other magical effect that would allow a creature to determine the truth of its words or that would force the idol to tell the truth. They can also manipulate sleeping mortals with a power similar to the [[dream]] spell, luring new followers from a distance and communicating to loyal cultists. They can also [[alter self]] at will, allowing the fallen angel to move among mortals in disguise (using a special form of the spell that lets them shrink to the size of a typical [[human]]), or to enhance its splendor and glory and hide its disfigurement. Many radiant idols can also [[dispel magic]], and once per day, they can [[teleport]] to their anchor point (see <<scrollToHeader "Anchor Points">> below). Additional spells and powers depend on an idol's specific [[Syranian domain]]; if there is a similar [[cleric]] domain, you can take inspiration from that domain [[talent]]'s suggested spell list.
+
+A fallen dominion also emits an "aura of false divinity" out to a radius of thirty feet, which both raises the morale of its cultists, and afflicts its enemies with despair. In a sense, the idol //feels// like a divine presence, awesome and terrible—which can either inspire hope, or terror.
+
+A radiant idol can form a powerful bond called a ''blood oath'' with their cultists. After an extended ritual, the idol forges a magical, mental connection with a mortal; as long as they are both on the Material Plane, the idol can use this bond to locate and [[scry|scrying]] on that mortal, cause them pain, or even kill them outright. An idol can also [[dominate]] a creature bound by its blood oath once per day. This oath can even be forced on unwilling participants, if they are restrained throughout the ritual and fail to spiritually resist. In this case, a victim may not even believe in the idol, but knows that it could be watching them at any time, and that if they defy it, they could suffer pain or death.
+
+Radiant idols have one key weakness: they ''cannot fly by any means.'' No spell intended to grant flight, even [[levitate]], functions with a radiant idol as its target. An idol could be [[polymorph]]ed into a winged form that would normally have the power of flight, but the idol still cannot fly in that form. Notably, ''this flightless curse extends out to a radius of 30 feet''; any spells that grant flight to any target that are cast within that radius immediately fail, as if they were within an [[antimagic field]], and [[magic item]]s that grant the power of flight likewise fail. This means a radiant idol in [[altered form|alter self]] walking the streets of [[Sharn]] must take care not to walk too close to [[skycoach]]es or [[soarsled]]s, lest they suddenly and suspiciously crash.
+
+!! Anchor Points
+
+In the world of [[Eberron]], [[immortal]]s cannot be permanently destroyed, and this is as true for radiant idols as it is for any other immortal. Radiant idols always reform as radiant idols after death; their corruption is permanent, and if it could have been undone by death, they would simply be killed instead of cast out of [[Syrania]].
+
+A destroyed radiant idol eventually reforms at its //anchor point//—the location where the idol is bound to the Material Plane. A radiant idol's supernatural abilities are typically enhanced while they are in this location. With few exceptions, radiant idols are content to dwell in the power and security of their anchor point and bask in the adoration of their cultists. Initially, this anchor is the spot where the angel's feet first touched the ground, but with effort, an idol can shift the anchor to a location that better resonates with its nature and [[domain|Syranian domain]]. For example, an idol who was once a [[dominion]] of agriculture might wander to a small farming village and set its anchor there; this "Father of the Harvest" would then recruit a following, and bring prosperity to the community in exchange for worship or strange rituals, or for something more sinister, like blood sacrifices.
+
+Not all radiant idols desire to sit and lurk at their anchor point. For example, an idol of trickery might be more interested in weaving a web of deception and intrigue to feel alive, moving about a city and playing all sides. It could stir up new conflicts within the criminal underworld, or amplify the rivalries of [[Aurum]] Concordians. The idol may have its own small cult within this web—a few agents in every faction bound by its blood oath—or it could be content to manage its machinations all on its own. But regardless of how "anchored" the idol is, it still //has// an anchor point somewhere, and the fallen angel will return there when it is destroyed.
+
+!!! Death and Rebirth
+
+While radiant idols cannot be permanently destroyed, the time they take to come back can vary widely, and they can be prevented from reforming in other ways. Consider the following options.
+
+* //''Default Option: Slow Return.''// An idol will reform and return to its anchor point, but the process takes centuries, or even millennia. This means that when adventurers encounter a radiant idol, even if that idol only recently materialized and started its cult, it wasn't necessarily //recently banished// from [[Syrania]]; it could have been banished five thousand years ago, and it's only just reformed after its most recent destruction a few centuries ago. Cultists can accelerate a radiant idol's return through rituals.
+* //''Lingering Presence.''// This idol will never reform unaided, but its spirit lingers at its anchor point. Perhaps it can still cast [[dream]] or project other minor mystical effects. It can only reconstitute itself if mortal cultists perform rituals to summon it back… so it will try to push people to do this through dreams, or by guiding them to lore of its cult.
+* //''Swift Return, Unless...''// This idol will return in days or weeks of being destroyed, //unless// it is destroyed in a particular way—using a particular weapon, at a particular time and place, by a person meeting a particular condition. Essentially, by following a minor path of the [[Draconic Prophecy]]. If the radiant idol is destroyed properly, revert to one of the two options above.
+* //''Binding.''// An idol's return can be indefinitely postponed by binding them within an [[iron flask]] or similar effect or [[spell]]. As an example, the infamous radiant idol known as [[Kotharel the Harvester]] returned rapidly each time it was killed, so it was imprisoned within [[Dreadhold]] almost three hundred years ago. Kotharel languishes there in a magically warded cell to this day.
+
+!! Radiant Idols of Sharn
+
+<<<
+//“When an angel rises up and seeks to claim the mantle of a god, it is cast down to earth and bound so it can never rise again. And Sharn is where the spirits above dispose of their refuse.”//
+<<<
+
+The city of [[Sharn]]'s powerful [[manifest zone]] to [[Syrania]] and its large population of potential devotees has drawn a significant number of radiant idols to the city. Even so, there are almost never more than a half-dozen of them in Sharn at any given time, as they tend to be extremely ill-at-ease when they can detect the influence of another nearby idol. Aside from their flightlessness, they have no limitations to their movement, so radiant idols that first appear in Sharn can easily leave the city and wander until they find a suitable community, reestablish their <<scrollToHeader "anchor points">>, and begin recruiting disciples. 
+
+Historically, when an idol has revealed itself in Sharn as a true public nuisance, the city has deployed the [[Blackened Book]], [[templar]]s of the [[Silver Flame]], and/or local heroes to dispatch it. Today, the city might also make use of the [[Redcloaks|Redcloak Battalion]]. Ancient records dating back to the days of [[Ja'shaarat]] indicate that even the [[Dhakaani|Dhakaan]] knew about and contended with radiant idols here. But the presence of a radiant idol is not usually obvious. It materializes quietly at its anchor point, and its cults tend to hoard their secret knowledge and rarely make themselves known to the world at large. And even when they are known, radiant idols are exceedingly dangerous for law enforcement to deal with; if a concerned citizen were to inform [[Warden Dalian|Blackened Book]] that there's a radiant idol in [[Fallen]], Dalian would likely say "Thank goodness it's somewhere we can ignore!" And those who do want the threat dealt with, such as [[Faela]] or [[Mazin Tana]], do not have the power to do so themselves. The task of defeating these entities often falls upon heroes of the age—such as player characters.
+
+The following is a list of ideas of where radiant idols might be found in [[Sharn]].
+
+* The idol [[Vorlintar]] has anchored itself to a ruined temple in the desolate district of [[Fallen]]—an ideal location for consuming the hopes of the downtrodden. 
+* [[Zotharr]], idol of Death, commands a small cult from an [[unassuming inn|Marquan's Rooms for Let]] in [[Boldrei's Hearth]], and is making increasingly extravagant and violent demands on its followers.
+* A radiant idol of War, a "Giver of Strength," might anchor itself in a district wracked by gang warfare, or beneath the [[Cornerstone arena|Cornerstone (arena)]], drinking in the aggression of the combat matches above. It might offer blessings to those who fight as it wishes—perhaps granting the benefits of [[heroism]] to its chosen champions—but punish cultists who fail to live up to its standards with torment or death. This idol could masquerade as an aspect of [[Dol Dorn]].
+* An idol of Order in a [[lower ward]] could inspire its cult to act as a volunteer police force, picking up the slack from the corrupt [[Sharn Watch]].
+* An idol of Tempest could be anchored in a high spire in the [[upper ward]]s, drawing lightning to its tower, and convincing its disciples that is an aspect of the [[Devourer]].
+
+As mentioned in the <<scrollToHeader "Abilities and Properties">> section above, the flightless aura of a radiant idol also disables nearby [[skycoach]]es and other magic items commonly found in [[Sharn]].

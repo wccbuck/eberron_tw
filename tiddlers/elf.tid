@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414234116668
-modified: 20231006202923268
+modified: 20240606061706947
 tags: humanoid
 tier: 1
 title: elf
@@ -9,8 +9,9 @@ tooltip: long-lived humanoid, culture centered on tradition and respect for the 
 type: text/vnd.tiddlywiki
 var: common
 
+<<<
 //Put up your swords and talk of peace, or hide behind your walls of stone. When the host of [[Valenar]] thunders forth, neither will save you.//
-
+<<<
 <div align="right">—[[Shaeras Vadallia]], High King of Valenar</div>
 
 Almost ten thousand years ago, during the [[Age of Giants]], the elves of the distant

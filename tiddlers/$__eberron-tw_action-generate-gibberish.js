@@ -357,7 +357,7 @@ Action widget to generate gibberish for different fictional languages
     Compute the internal state of the widget
     */
     GenerateGibberishWidget.prototype.execute = function () {
-        this.actionTiddler = this.getVariable("currentTiddler");
+        this.actionTiddler = this.getAttribute("$tiddler", this.getVariable("currentTiddler"));
         this.actionField = this.getAttribute("$field", "generatedname");
         this.language = this.getAttribute("$language", "Goblin").replace(/\s/g, "");
         this.text = this.getAttribute("$text", "");

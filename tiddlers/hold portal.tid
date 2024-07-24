@@ -1,7 +1,8 @@
 category: spell
 color: #B7A1E0
 created: 20230503143320279
-modified: 20230503144153186
+highertier: show
+modified: 20240531231055692
 tags: abjuration
 tier: 2
 title: hold portal
@@ -11,3 +12,13 @@ type: text/vnd.tiddlywiki
 Choose a door, gate, window, or shutter made of wood, metal, or stone within 60 feet and speak a command word. This spell magically holds that portal shut, just as if it were securely closed and normally locked. The spell lasts for 10 minutes, or until the portal is forced open (either by physical force, or a spell like [[knock]] or [[dispel magic]]).
 
 For a similar spell with permanent duration, see [[arcane lock]].
+
+<$reveal type="match" state="!!highertier" text="show">
+
+!! Rare-Tier
+
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you can cause the portal (or a large portion of it) to explode outward whenever it is physically or magically forced open before the spell's duration expires. The explosion deals damage equivalent to that of a [[fireball]] in a 20-foot radius, but creatures standing on the inside of the door are unaffected.
+
+The rare-tier version of this spell is sometimes referred to as ''"thieves' bane."''
+
+</$reveal>

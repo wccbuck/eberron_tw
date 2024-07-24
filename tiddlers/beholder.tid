@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200423002333849
-modified: 20221205050225678
+modified: 20240606051443701
 tags: aberration
 tier: 4
 title: beholder
@@ -69,7 +69,7 @@ for one beholder to consider another a flawed abomination, which should be destr
 Use the following button to produce a variety of different appearances for beholders. 
 
 <<<
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/BeholderBodyDiameter" $field="var1"/>
 <$action-chooserandom $dataTiddler="$:/BeholderSkinTexture" $field="var2"/>
 <$action-chooserandom $dataTiddler="$:/BeholderSkinColor" $field="var3"/><$action-chooserandom $dataTiddler="$:/BeholderSkinExtra" $field="var4"/>

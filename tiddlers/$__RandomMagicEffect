@@ -840,7 +840,7 @@
 1768: Caster thinks that their hands will disintegrate if they touch gold for the next {{!!duration}}.
 1769: Caster thinks that their head is a parasitic organism for the next {{!!s_duration}}.
 1773: Caster thinks that their head will shatter if they wear a hat for the next {{!!duration}}.
-1774: Caster thinks that their [[magic item]]s are about to explode for the next {{!!1d4}}0 seconds.
+1774: Caster thinks that their [[magic item]]s are about to explode for the next {{!!d4}}0 seconds.
 1775: Caster thinks that their [[magic item]]s are plotting against them for the next {{!!duration}}.
 1776: Caster thinks that their soul is controlling their body from far away for the next {{!!duration}}.
 1777: Caster thinks that their soul was forced into this current body for the next {{!!duration}}.
@@ -2411,7 +2411,7 @@ for the next {{!!duration}}.
 7096: Target's eyes appear to be tiny fireballs for the next {{!!duration}}.
 7098: Target's eyes bulge from the top of their head like a frog's eyes for the next {{!!duration}}.
 7099: Target's eyes bulge to 3x size for the next {{!!duration}}.
-7100: Target's eyes burst, blinding him, but they grow back over the course of {{!!duration}}.
+7100: Target's eyes burst, blinding them, but they grow back over the course of {{!!duration}}.
 7101: Target's eyes can move independently, like a chameleon's, for the next {{!!duration}}.
 7102: Target's eyes each have {{!!d4}} additional irises and pupils for the next {{!!duration}}.
 7104: Target's eyes merge into a single eye somewhere on their face for the next {{!!duration}}.
@@ -3560,3 +3560,45 @@ for the next {{!!duration}}.
 10036: The caster's clothes smell like wood smoke for the next {{!!l_duration}}.
 10037: Every object the target is carrying is suddenly but neatly packed into a canvas satchel on the ground at their feet.
 10038: Any spell effect of [[uncommon tier or lower|spell tier]] on you suddenly ends.
+10039: A deck of cards appears nearby with the image of the caster as all the face cards. The deck vanishes after {{!!l_duration}}.
+10040: Caster's tooth is spat out as a high-velocity projectile at the target; painless, but the tooth does not grow back on its own
+10041: A swarm of squawking crows appears and attempts to carry the caster aloft. They disappear after {{!!duration}}.
+10042: Target can eat all the food they want for an entire day with no consequences.
+10043: A loud, repeating alarm sound fills the area for the next {{!!duration}}.
+10044: Glowing numerals spin over the caster's head before finally settling on a random number between 1 and 1,000. (<<dr d1000>>)
+10045: A handful of pebbles on the ground nearby transmute into juicy, delicious blueberries.
+10046: A translucent but tangible staircase projects from a nearby wall leading up 10 feet (or the maximum height of the wall). it vanishes after {{!!duration}}.
+10047: Target will have a pleasant dream tonight when they sleep. If they don't sleep, they will have a vivid and pleasant daydream that lasts {{!!s_duration}} sometime in the next 36 hours.
+10048: Target blooms with delicate pale blue flowers that vanish after {{!!duration}}.
+10049: Target gains the ability to read in their dreams for the next {{!!l_duration}}.
+10050: A small, rolled-up scroll detailing the target's astrological horoscope appears in the target's hand. The scroll vanishes after {{!!duration}}.
+10051: Caster is distracted by an annoying, catchy melody that only they can hear for the next {{!!duration}}.
+10052: Target drools out a sticky, slug-like slime creature. The creature is not hostile, and persists for the next {{!!duration}} before melting into a thin goo.
+10053: All of the caster's close relatives, regardless of location, know the caster's current whereabouts for the next {{!!duration}}.
+10054: Target is compelled to immediately describe everything they did the previous day.
+10055: For the next {{!!duration}}, target inanimate object, or an inanimate object being worn or carried by the target, screams whenever touched by a living creature.
+10056: Target's footsteps are thunderously loud and leave clearly-visible footprints on the ground for the next {{!!duration}}.
+10057: Target's mouth is filled with chewing gum. The gum vanishes after {{!!duration}}.
+10058: A "meteor shower" of flaming, dismembered body parts rains down on a {{!!2d4}}-foot radius area centered on where the target is currently located for the next {{!!duration}}.
+10059: Target and caster are suddenly wearing matching gold-spangled outfits, complete with fabulous hats and gloves. The effect reverts after {{!!duration}}.
+10060: Within a {{!!2d4}}-foot radius around the caster, all small spills are cleaned up, and stains are removed from clothing.
+10061: Circumstances shift such that the caster and target will coincidentally run into each other within the next 24 hours.
+10062: A swarm of tiny clockwork creatures appears nearby and begins busily tidying the space. They vanish after {{!!duration}}.
+10063: All of the target's money on their person is instantly transferred to the person nearest to them. If there is no such person within 10 feet, the money instead appears on the ground 10 feet away in the direction of the nearest person.
+10064: Caster is aware of the nearest [[undead]] creature for the next {{!!duration}}.
+10065: Target forgets the names of all their loved ones for the next {{!!duration}}.
+10066: Target can't hear anything except for the caster's voice for the next {{!!duration}}.
+10067: Plant vines sprout painfully from any open wounds within {{!!2d4}} feet of the caster.
+10068: Caster can only speak in rhymes for the next {{!!duration}}.
+10069: Target can only speak in rhymes for the next {{!!duration}}.
+10070: Target is invisible to adults, but not children, for the next {{!!duration}}.
+10071: Target falls in love with the next person they see. The effect lasts for {{!!duration}}, after which the target feels extreme animosity towards that same person for the next {{!!s_duration}}.
+10072: Target's hands turn into fish for the next {{!!duration}}.
+10073: Target has telescoping arms and neck for the next {{!!duration}}.
+10074: Caster's hands and eyes exchange places on their body. They revert to normal after {{!!duration}}.
+10075: A warm breeze blows through the area.
+10076: Non-magical liquids within {{!!d4}}0 feet of the caster suddenly dry up.
+10077: Caster is compelled to repeat the last few words spoken to them for the next {{!!duration}}.
+10078: All wood within {{!!d4}}0 feet of the caster becomes soft and limp for the next {{!!duration}}.
+10079: Anyone within earshot of the caster experiences tinnitus for the next {{!!duration}}.
+10080: A portal to the [[Ironlands]], the [[Abyssal Forest of Khaar]], or similarly hostile [[demiplane]] opens within {{!!d4}}0 feet of the caster. It closes and vanishes after {{!!duration}}.

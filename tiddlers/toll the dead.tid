@@ -1,10 +1,10 @@
 category: spell
 color: #B7A1E0
 created: 20210503184852434
-modified: 20221205062641434
+modified: 20240701192938080
 tags: [[divine magic]] necromancy
 tier: 1
 title: toll the dead
 type: text/vnd.tiddlywiki
 
-You point at one creature you can see within 60 feet, and the sound of a dolorous bell fills the air around it for a moment. The target must resist your magic or suffer some [[necrotic damage|damage type]]. If the target has already suffered some damage or in some other way is closer to death, this spell does additional necrotic damage.
+You point at one creature you can see within 60 feet, and the sound of a dolorous bell fills the air around it for a moment. The target must resist your magic or suffer some [[necrotic damage|damage type]]. If the target is already wounded or in some other way is closer to death, this spell does additional necrotic damage.

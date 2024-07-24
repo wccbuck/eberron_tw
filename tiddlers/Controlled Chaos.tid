@@ -10,7 +10,7 @@ d7: 1
 duration: 45 seconds
 effect: A [[chain devil]] emerges from the target point. It vanishes after {{!!duration}}.
 l_duration: 6 hours
-modified: 20231126204351257
+modified: 20240606051303423
 prereq: [[Wild Magic]]
 s_duration: 1 second
 tags: sorcerer
@@ -22,7 +22,8 @@ xpcost: 2
 
 Any time you trigger a [[random magical effect]], you may generate two and choose which one occurs.
 
-<$button>
+<<<
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/RandomMagicEffect" $field="effect"/>
 <$action-chooserandom $dataTiddler="$:/RandomShortDuration" $field="s_duration"/>
 <$action-chooserandom $dataTiddler="$:/RandomDuration" $field="duration"/>
@@ -47,8 +48,6 @@ Any time you trigger a [[random magical effect]], you may generate two and choos
 <$action-chooserandom $filter="5 10 15 20 25 30 35 40 45 50" $field="d50" $tiddler="$:/ControlledChaosExtraEffect"/>
 Two Random Magical Effects
 </$button>
-
-<<<
 
 # {{!!effect}}
 # {{$:/ControlledChaosExtraEffect}}

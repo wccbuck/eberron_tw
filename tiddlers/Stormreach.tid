@@ -1,7 +1,7 @@
 category: location
 color: #4C8201
 created: 20200417021808268
-modified: 20231209170008727
+modified: 20240606055310337
 points: 0.859,-42.298
 population: 75000
 style: {"color": "#8E0024"}
@@ -10,6 +10,7 @@ title: Stormreach
 tooltip: humanity's largest outpost on Xen'drik
 type: text/vnd.tiddlywiki
 
+<<<
 //In the arena known as the [[Red Ring]], a [[Valenar]] warrior leaps out of the way of a [[giant]]’s club. The [[elf]] came to Stormreach in search of his history—now he is forced to reenact it in this deadly contest.//
 
 //In [[Falconer's Spire]], a [[Lyrandar]] lord studies maps and reports. He reaches out with his thoughts, feeling the paths of the storm and considering if he wants to hold back the tempest or welcome it in.//
@@ -17,8 +18,7 @@ type: text/vnd.tiddlywiki
 //In the slum of [[Dannel's Pride]], a young man studies the scroll he’s been given, marveling at the destructive power bound within its words. For an instant he feels doubt. Then he hears the cries of a starving child and the curses of a crippled soldier, and he knows what he must do.//
 
 //In a harbor alley, a merchant spits blood and teeth onto the ground. As the [[eneko]] ruffian draws back for another blow, the wounded man sees a guard standing in the mouth of the alley, and for an instant hope surges through him. But the guard just laughs, and the merchant realizes... the guard is waiting for his cut.//
-
-!
+<<<
 
 ''Rulers:'' The [[Storm Lords]]<br/>
 ''Motto:'' “Rising on the edge of the world.”<br/>

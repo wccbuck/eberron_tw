@@ -1,20 +1,28 @@
 category: creature
 color: #EA868F
 created: 20200423052636250
-modified: 20240306231706614
+modified: 20240602050615598
 tags: giant
 tier: 2
 title: troll
 tooltip: hulking, monstrous creature with ravenous appetite and rapid regenerative ability
 type: text/vnd.tiddlywiki
 
-A troll eats anything that moves, from grubs to [[human]]s, and is rightly feared for its ravenous appetite, feral cunning, and remarkable regenerative power.
+A troll is a fearsome [[giantkin|giant]] known for its ravenous appetite, feral cunning, and remarkable regenerative power.
 
-Trolls stand about 9 feet tall and weigh between 400 and 500 lbs. Their skin is usually shades of moss green, putrid gray, or some mottled combination of the two, and their long ropy hair is black, gray, or dark green. Their long, ungainly arms end in massive clawed hands, and they possess [[darkvision]] and an enhanced sense of smell.
+!! Links to Headers
+* <<scrollToHeader "Overview">>
+* <<scrollToHeader "Trolls of Droaam">>
+* <<scrollToHeader "Troll Origins">>
+* <<scrollToHeader "Notes">>
 
-Smashing a troll's bones and slashing through its rubbery hide only makes it angry. A troll's wounds close quickly. If the monster loses an arm, a leg, or even its head, those dismembered parts can sometimes act with a life of their own. A troll can even reattach severed body parts, untroubled by its momentary disability. Only acid and fire can arrest the regenerative properties of a troll's flesh. The trolls, enraged, will attack individuals making acid and fire attacks against them above all other prey.
+!! Overview
 
-Their regenerative capabilities make trolls especially susceptible to mutation. A decapitated troll might grow two heads from the stump of its neck, while a troll that eats a fey creature might gain one or more of that creature's traits.
+Trolls stand about 9 feet tall and weigh between 400 and 600 lbs. They are long-lived and extremely durable, but they have a very low rate of reproduction. Their skin is usually shades of moss green, putrid gray, or some mottled combination of the two, and their long ropy hair is black, gray, or dark green. Their long, ungainly arms end in massive clawed hands, and they possess [[darkvision]] and an enhanced sense of smell. Trolls will eat anything that moves, from grubs to [[human]]s.
+
+Smashing a troll's bones and slashing through its rubbery hide only makes it angry. A troll's wounds close quickly. If the monster loses an arm, a leg, or even its head, those dismembered parts can sometimes act with a life of their own. A troll can even reattach severed body parts, untroubled by its momentary disability. Only acid and fire can arrest the regenerative properties of a troll's flesh. 
+
+Their regenerative capabilities make trolls especially susceptible to mutation. A decapitated troll might grow two heads from the stump of its neck, while a troll that eats a fey creature might gain one or more of that creature's traits. If those mutations never become malignant or parasitic, a troll may live for more than two centuries.
 
 Trolls are proud of their strength, and enjoy engaging in
 tests of strength, like tug of war or lifting, with other trolls or
@@ -26,6 +34,12 @@ An aquatic variety of troll, known as a ''scrag'', is known to inhabit bodies of
 
 !! Trolls of Droaam
 
-Trolls are native to all four major continents of Eberron, but most of the trolls on [[Khorvaire]] have fled to [[Droaam]]. There, many of them serve as elite guards of the [[Daughters of Sora Kell]]. Others serve the daughters in a different way: in grist mills, the flesh of living trolls is carved off and formed into sausage to sustain the burgeoning population of the nation; the trolls regenerate and the process begins again. This "[[grist]]" would normally be completely inedible, but the Daughters have a secret alchemical process that makes the sausage palatable, if not exactly delicious.
+Trolls can be found on all four major continents of Eberron, but their largest population is on [[Khorvaire]], and most of these dwell in [[Droaam]]. There, they have wandered the Barrens unchallenged for centuries (particularly in the region of [[Suthar Draal]]), but have never been as populous as [[ogre]]s or [[goblin]]s and have never amassed in great numbers or forged a kingdom. They are often found in the vicinity or in the service of [[hag]]s. Today, many trolls serve the [[Daughters of Sora Kell]] in an unusual and disturbing way: in [[grist]] mills, the flesh of living trolls is carved off and formed into sausage to sustain the burgeoning population of the nation; the trolls regenerate and the process begins again. This "[[grist]]" would normally be completely inedible, but the Daughters have a secret alchemical process that makes the sausage palatable, if not exactly delicious.
 
-Like skullcrusher [[ogre]]s, the war trolls of [[Maenya's Fist]] ([[creature tier]] ''3'') are a unique subspecies that may be the result of [[magebreeding]]. They are utterly devoted to [[Sora Maenya]] and to [[Droaam]]. War trolls are stronger, smarter, and more skilled than their ordinary counterparts, and have a stony hide which resists slicing and piercing. In addition, they typically wear plate armor and wield sophisticated weapons. 
+Other trolls serve the Daughters as elite soldiers of [[Maenya's Fist]]. Like skullcrusher [[ogre]]s, war trolls ([[creature tier]] ''3'') are a unique subspecies that may be the result of [[magebreeding]]. They are utterly devoted to [[Sora Maenya]] and to [[Droaam]]. War trolls are stronger, smarter, and more skilled than their ordinary counterparts, and have a stony hide which resists slicing and piercing. In addition, they typically wear plate armor and wield sophisticated weapons. 
+
+!! Troll Origins
+
+The origin of the troll species is a mystery. A common folk belief is that trolls are the children of [[hag]]s, considering how often they can be found alongside them. But the dominant theory among [[Korranberg|Library of Korranberg]] scholars is that the first trolls were [[fey]]—either native to [[Eberron]], or [[Thelanian|Thelanis]] creatures related to [[fomorian]]s—that were the metaphysical storybook embodiment of the "monster under the bridge," and that they and their descendants have become more "real" as they have ventured further from fey forces.
+
+However, a competing theory has been proposed by scholars at [[Morgrave University]]. Expanding on the Kel Kador theory that [[goblinoid]]s ([[goblin]]s, [[hobgoblin]]s, and [[bugbear]]s) are a [[magebred|magebreeding]] species, with subspecies designed to fill specific roles in society, Morgrave scholars contend that an unknown pre-[[Dhakaani|Dhakaan]] civilization bioengineered the trolls as well—but that the trolls proved wild and uncontrollable, and could not be integrated into goblinoid civilization.

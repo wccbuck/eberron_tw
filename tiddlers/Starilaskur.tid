@@ -1,18 +1,18 @@
 category: location
 color: #4C8201
 created: 20210207032641612
-modified: 20231229054010210
+modified: 20240610185657837
 points: 35.206,-2.56
-population: 120000
+population: 240000
 style: {"color": "#8E0024"}
 tags: Breland city
 title: Starilaskur
-tooltip: "City at the Crossroads", third largest city in Breland
+tooltip: "City of Steel," third largest city in Breland
 type: text/vnd.tiddlywiki
 
 ''Population:'' <<ntls>>
 
-Starilaskur, the "City at the Crossroads," is a large city in [[Breland]], located near the shores of [[Lake Brey]] and the [[Brey River]], and sitting at several major intersections of the [[lightning rail]] and [[Orien trade roads]]. It is the largest settlement in the Brey Crossing duchy of [[Breland]], which is governed by Duchess Laruna ir’Panalric. For centuries, Starilaskur has been an industrial powerhouse, and today its factories mass-produce commodities and weapons that are sold throughout the [[Five Nations]]. 
+Starilaskur, the "City of Steel," is a large city in [[Breland]], located near the shores of [[Lake Brey]] and the [[Brey River]], and sitting at several major intersections of the [[lightning rail]] and [[Orien trade roads]]. For centuries, Starilaskur has been an industrial powerhouse, and today its factories mass-produce commodities and weapons that are sold throughout the [[Five Nations]], such as the [[SAC-12]] [[crossbow]]. 
 
 The city's population has a higher percentage of devout Vassals of the [[Sovereign Host]] than most other Brelish cities. It is home to the [[Martial Temple of Dol Arrah]], an academy of war that specializes in honing the talents of Vassal [[cleric]]s and [[paladin]]s, as well as a large monastery of the monastic Order of the [[Broken Blade]]; both of these temples are located in the Faneside district. It is also the seat of a large [[Cannith]] [[enclave]], which has led by Viceroy [[Haldon d'Cannith]] for the last sixty years. A large chapter of the [[King's Dark Lanterns]] is based in Starilaskur, led by Captain [[Meryl ir'Ravalas]].
 
@@ -22,8 +22,8 @@ The city's population has swelled with refugees from [[Cyre]] over the last four
 
 In 916 YK, during the peaceful festival of [[Sun's Blessing]], the armies of [[Thrane]] mounted a great assault against Starilaskur. Since that day, many [[Brelish|Breland]] curse Thrane and its dishonorable attack on this holiday.
 
-!! City of Lyrical Labors
+!! Starilaskur's Planar Influences
 
-Like many major cities, Starilaskur is located on a [[manifest zone]] to another [[plane]]—in this case, linking it to the Faerie Court of [[Thelanis]]. However, it is not a gate to that [[fey]] realm, nor is it bound by fey logic or chaotic time. Starilaskur's manifest zone is tied to a [[barony]] of Thelanis known as the [[Assembly]] of the [[Forge Maiden]]. This connection strengthens the [[Brelish|Breland]] spirit of innovation of those within the city.
+Like many major cities, Starilaskur is located on a [[manifest zone]] to another [[plane]]—in this case, linking it to the fiery plane of [[Fernia]]. Unlike other Fernian zones, this connection does not make Starilaskur unseasonably warm except during summers when the plane is coterminous. But it does confer its [[Fires of Industry]] property over most of the city, which enhances the quality and output of the city's factories. In some parts of the city, this bonus only applies to craft that incorporates flame; in others, such as the district of Weaversong, the bonus depends on the craftsperson //singing about their work// while they perform their craft. 
 
-While within Starilaskur's [[manifest zone]], attempts to craft things using a [[toolset]] are done with improved [[impact]], with one caveat: one must sing a song related to their craft while working! For this reason, Starilaskur is known far and wide as the "City of Lyrical Labors."
+Starilaskur also possesses a smaller [[manifest zone]] encompassing the university district of Lorikur Heights, which is tied to the Faerie Court of [[Thelanis]]—specifically, to the [[barony]] known as the [[Assembly]] of the [[Forge Maiden]]. This connection strengthens the [[Brelish|Breland]] spirit of innovation and encourages the invention of never-before-seen contraptions and concoctions. Many of these end in catastrophic failure, but others have the potential to reshape life in the [[Five Nations]] as we know it.

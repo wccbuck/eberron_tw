@@ -3,7 +3,7 @@ color: #EA868F
 created: 20210723180143128
 enhancement: //''Sturdy Frame.''// The clockwork's ability to stay upright and withstand falls and impacts is enhanced.
 malfunction: //''Leaking Lubricant.''// The clockwork becomes increasingly exhausted and eventually grinds to a halt.
-modified: 20210727191959535
+modified: 20240606051415278
 tags: construct clockwork
 tier: 1
 title: bronze scout
@@ -14,7 +14,7 @@ A bronze scout, a [[clockwork]] [[construct]], seldom emerges from below ground;
 !! Clockwork Enhancement and Malfunction
 
 <<<
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/ClockworkEnhancements" $field=enhancement/>
 <$action-chooserandom $dataTiddler="$:/ClockworkMalfunctions" $field=malfunction/>
 Generate

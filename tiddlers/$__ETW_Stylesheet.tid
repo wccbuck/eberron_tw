@@ -1,5 +1,5 @@
 created: 20200212174048601
-modified: 20231115004230096
+modified: 20240710150454091
 tags: $:/tags/Stylesheet
 title: $:/ETW_Stylesheet
 type: text/vnd.tiddlywiki
@@ -420,6 +420,13 @@ input.cs-newsegments {
 	background-clip: padding-box;
 }
 
+.fmw-mror {
+    background-image: linear-gradient(transparent, transparent), url('<<datauri "$:/eberron-tw/FMW/mror-symbol.svg">>');
+	background-repeat: no-repeat;
+	background-size: 25px 25px;
+	background-clip: padding-box;
+}
+
 .masoch-white {
     font-family: 'masoch-dirach'; font-variant: small-caps; font-weight:500;
 	font-size: 1.2em;
@@ -451,4 +458,14 @@ input.cs-newsegments {
 .did-you-mean a {
   display: inline !important;
   padding: 0px !important;
+}
+
+blockquote {
+  background:<<color select-tag-background>>;
+  padding-right: 10px; 
+}
+
+.vertical-margin-2 {
+  margin-top: 2px;
+  margin-bottom: 2px;
 }

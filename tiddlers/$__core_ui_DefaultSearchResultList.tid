@@ -1,7 +1,7 @@
 caption: {{$:/language/Search/DefaultResults/Caption}}
 created: 20210804034650621
 first-search-filter: [!is[system]regexp:category{$:/core/ui/DefaultSearchResultList!!selected-category}search:title,article,alternatetitle<userInput>sort{$:/config/SearchSort}limit[250]]
-modified: 20231129072153166
+modified: 20240528063056645
 second-search-filter: [!is[system]regexp:category{$:/core/ui/DefaultSearchResultList!!selected-category}search<userInput>sort{$:/config/SearchSort}limit[250]]
 selected-category: .*
 tags: $:/tags/SearchResults

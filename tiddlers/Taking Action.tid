@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210331200737600
-modified: 20231013210057526
+modified: 20240606045747115
 tags: Storyloom
 title: Taking Action
 tooltip: documentation page for the core attempt mechanic in Storyloom
@@ -32,7 +32,8 @@ You roll ''two dice'' when attempting to directly [[overcome]] an obstacle, or '
 Like [[Blades in the Dark|https://bladesinthedark.com/basics]] and other "Powered by the Apocalypse" games, ''the GM does not roll dice to take actions. Only the players do.'' So enemies, NPCs, and the like only "act" in the sense that their actions and decisions are narrated depending on the results of the players' dice rolls. 
 
 <<<
-''A Note on NPC Game Mechanics''<br/>
+''A Note on NPC Game Mechanics''
+<hr/>
 Certain spells, items, and magical effects in the game might describe how they restore the target's [[stress]] or [[harm]], or apply [[disadvantage]] to a specific action performed by the target, or in some way interact with PC-specific game mechanics. If any of these effects are applied to non-player characters, the GM needs to adjudicate how to translate them into a player-focused mechanic. Some are easy; disadvantage for an enemy means an [[advantage]] for a PC. Others might need some narrative framing. When in doubt, the GM can just translate bonuses into [[momentum]] or some other positive effect.
 <<<
 
@@ -51,7 +52,8 @@ The [[risk]] associated with an attempt determines how bad the [[consequence]]s 
 The GM decides how to set the [[impact]] and [[risk]] based on the context of the scene, and by the [[approach]]es chosen by the players (see the <<scrollToHeader "Choosing Approaches">> section below). If a player is playing it safe with their character's approaches, the GM might decide impact is low, risk is low. On the other hand, an action which may turn the tides in a desperate situation might be high impact, high risk. The player character's [[approach]] scores allow them to increase their [[impact]] and/or mitigate [[risk]], as described in the <<scrollToHeader "Choosing Approaches">> section. Other things on a PC's [[character sheet|character sheet template]] like [[talent]]s, [[spell]]s, and [[magic item]]s can also affect impact and risk.
 
 <<<
-''GM Guideline: Setting Default Impact and Risk''<br/>
+''GM Guideline: Setting Default Impact and Risk''
+<hr/>
 Generally, for a moderate-level challenge, the default impact is ''zero'' (before the player adds their [[approach]] points and other modifiers), and the default risk is ''moderate'' (2). Risk should not be set above "extreme" (4), and impact should not be set below zero; see [[Challenge Tiers]] for how to set up tougher challenges.
 <<<
 

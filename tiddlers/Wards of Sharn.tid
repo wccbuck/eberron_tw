@@ -1,6 +1,6 @@
 category: miscellaneous
 created: 20201222081940370
-modified: 20230831205105972
+modified: 20240606045150886
 tags: Sharn
 title: Wards of Sharn
 type: text/vnd.tiddlywiki
@@ -92,8 +92,9 @@ possibility.
 For a walking travel time guideline, use the following: 30 minutes per district, including ones connected by bridge; but only 10 minutes for going up or down a level. Factors like traffic or lift wait times can impact this estimate.
 
 <<<
-
-Example: [[Clifftop]] to [[Deathsgate]]. 
+''Example Travel Time Estimate''
+<hr/>
+Traveling from [[Clifftop]] to [[Deathsgate]]. 
 
 ''Path 1:'' [[Clifftop]] →(30m)→ [[Hope's Peak]] →(30m)→ [[Redstone]] →(30m)→ [[Daggerwatch]] →(30m)→ [[Highhold]] →(30m)→ [[Sunrise]] →(30m)→ [[Ocean View]] →(30m)→ [[Dalan's Refuge]] →(down, 10m)→ [[Deathsgate]] (''220 minutes'')
 

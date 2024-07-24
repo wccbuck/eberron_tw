@@ -1,0 +1,66 @@
+created: 20240528061106885
+modified: 20240712230712802
+tags: 
+title: $:/UpdateChecklist
+type: text/vnd.tiddlywiki
+var1: __Saa__! Kar oz er onor twodrash, dhot oz thikeshten kat dhoshenshaat hanshar.
+
+<ul>
+<li>
+<$button>
+<<resetobjects>>
+<<resetorgs>>
+<<resetplaces>>
+<<resetspells>>
+<<resetcreatures>>
+<<resetpplents>>
+<<resettalents>>
+<<resetmisc>>
+<$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Items"/>
+Reset Find Things
+</$button>
+</li>
+<$reveal type="nomatch" state="$:/themes/tiddlywiki/vanilla/metrics/sidebarwidth" text="21vw">
+<li>
+<$button set="$:/themes/tiddlywiki/vanilla/metrics/sidebarwidth" setTo="21vw">
+Set sidebar width to 21vw
+</$button> ([[$:/themes/tiddlywiki/vanilla/metrics/sidebarwidth]])
+</li>
+</$reveal>
+<$reveal type="nomatch" state="$:/MapBounds" text="-52.56,14.09,49.39,64.24,39.17,-1.58">
+<li>
+<$button>
+<$action-setfield $tiddler="$:/MapBounds" text="-52.56,14.09,49.39,64.24,39.17,-1.58"/>
+Center map on Khorvaire
+</$button> ([[$:/MapBounds]])
+</li>
+</$reveal>
+<$reveal type="nomatch" state="$:/Markers" text="">
+<li>
+<$button>
+<$action-setfield $tiddler="$:/Markers" text=""/>
+Clear map markers
+</$button> ([[$:/Markers]])
+</li>
+</$reveal>
+<$reveal type="nomatch" state="$:/core/ui/DefaultSearchResultList!!selected-category" text=".*">
+<li>
+<$button>
+<$action-setfield $tiddler="$:/core/ui/DefaultSearchResultList" selected-category=".*"/>
+Set search category to "any"
+</$button> ([[$:/core/ui/DefaultSearchResultList]])
+</li>
+</$reveal>
+<$reveal type="nomatch" state="language translator!!var1" text="__Saa__! Kar oz er onor twodrash, dhot oz thikeshten kat dhoshenshaat hanshar.">
+<li>
+<$button>
+<$action-setfield $tiddler="language translator" translatetext="Hello! This is an example sentence, which is translated into gibberish below."/>
+<$action-setfield $tiddler="language translator" language="Goblin"/>
+<$action-setfield $tiddler="language translator" displaylanguage="Goblin"/>
+<$action-setfield $tiddler="language translator" scrambling="enabled"/>
+<$action-generate-gibberish $tiddler="language translator" $language={{language translator!!language}} $text="Hello! This is an example sentence, which is translated into gibberish below." $field="var1" $scrambling="enabled"/>
+Reset language translator
+</$button> ([[language translator]])
+</li>
+</$reveal>
+</ul>

@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210112074431531
-modified: 20210727192043494
+modified: 20240606044948703
 tags: yuan-ti humanoid monstrosity
 tier: 3
 title: yuan-ti abomination
@@ -18,16 +18,14 @@ Monstrous serpents with burly [[humanoid]] torsos and arms, abominations form th
 Abominations can shapeshift into snakes at will, and are able to communicate with snakes freely. Some abominations are able to secrete an acidic slime, camouflage themselves with chameleon-like skin, shed their skin to avoid being restrained, [[polymorph]] their enemies into snakes, or other unique mutations.
 
 <<<
-''Generate Abomination Appearance''
-
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $dataTiddler="$:/YTSnakeBodyShape" $field="y_sbshape2"/>
 <$action-chooserandom $dataTiddler="$:/YTScaleColor" $field="y_sc7"/>
 <$action-chooserandom $dataTiddler="$:/YTScalePattern" $field="y_sp7"/>
 <$action-chooserandom $dataTiddler="$:/YTTongueColor" $field="y_tongue7"/>
 <$action-chooserandom $dataTiddler="$:/YTEyeColor" $field="y_eye7"/>
 <$action-chooserandom $dataTiddler="$:/YTHeadShape" $field="y_headshape2"/>
-Generate
+Generate Abomination Appearance
 </$button>
 
 ''Abomination:'' The yuan-ti is a monstrous {{!!y_sbshape2}} serpent with a burly humanoid torso and arms and a {{!!y_headshape2}} head. It has {{!!y_sp7}} {{!!y_sc7}} scales, {{!!y_eye7}} serpentine eyes and {{!!y_tongue7}} forked tongue.

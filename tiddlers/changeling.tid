@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20200414202806968
-modified: 20230824222746069
+modified: 20240701221122590
 tags: humanoid shapechanger
 tier: 1
 title: changeling
@@ -9,8 +9,9 @@ tooltip: shapeshifting humanoid, often with permanent or shared personas
 type: text/vnd.tiddlywiki
 var: common
 
+<<<
 //Long ago, there was a woman named [[Jes|Children of Jes]], and she had one hundred children. Her rivals conspired against her and swore to kill her children. Jes begged the [[Sovereign|Sovereign Host]]s for help, but their only answer was the wind and rain. In the depths of her despair, a lonely traveler took her hand. "I will protect your children if they follow my path. Let them wander the world. They may be shunned and feared, but they will never be destroyed." Jes agreed, and the traveler gave her his cloak. When she draped it over her children, their old faces melted away and they could be whoever they wanted to be. And so it remains. Though the children are shunned by all, the gift of the [[Traveler]] protects them still.//
-
+<<<
 <div align="right">—[[Chance]], changeling priest</div>
 
 Changelings can shift their forms with a thought. Many
@@ -24,6 +25,7 @@ If you'd like to play as a changeling, see [[Changeling (talent)]].
 * <<scrollToHeader "A Hidden People">>
 * <<scrollToHeader "Masks and Personas">>
 * <<scrollToHeader "Changeling Names">>
+* <<scrollToHeader "Superstitions About Changelings">>
 * <<scrollToHeader "Changelings of Sarlona">>
 * <<scrollToHeader "Notes">>
 
@@ -82,8 +84,19 @@ likely miss. So, two changelings might have the name
 
 Changelings have a fluid relationship with gender, seeing it as one characteristic to change among many.
 
-//''Changeling Names:''// Aunn, Bin, Cas, Dox, Fie, Hars, Jin,
-Lam, Mas, Nix, Ot, Paik, Ruz, Sim, Toox, Vil, Yug 
+//''Changeling Names:''// Aunn, Bin, Cas, Dox, Fie, Hars, Jin, Lam, Mas, Nix, Ot, Paik, Ruz, Sim, Toox, Vil, Yug
+
+!! Superstitions About Changelings
+
+The people of the [[Five Nations]] have developed some useful methods for defending against deception by changelings and other shapechangers, including the use of code words and identifying accessories, as well as magical tools (see <<navAndScrollToHeader "shapechanger" "Safeguards Against Shapechangers">>). But many superstitions about changelings and how to reveal them have also arisen over the centuries. 
+
+For example, in [[Aundair]], folk often conflate changelings with [[fey]], and hold a wide range of strange beliefs, such as: changelings are burnt by objects of [[cold iron]]; they can be exposed by true love's first kiss; and they cannot assume the appearance of someone who is pure of heart and devoted to the [[Sovereigns|Sovereign Host]] (which means that if a changeling impersonates you, that reflects poorly on your character).
+
+Some parts of [[Thrane]] have a folk belief that changelings are forced to reveal their true appearance when exposed to fire. This may reflect unfortunate historical events where changelings //chose// to drop their disguises to avoid being burnt alive.
+
+In [[Breland]], according to popular belief, you can identify a changeling by cutting their hair. While it is true that changeling hair will eventually revert to its true colorless shade when cut, or even crumble away if the changeling grew the hair for their disguise, this process takes 24 hours or more; the Brelish belief that you can tell //immediately// is erroneous.
+
+In [[Karrnath]], people believe that [[vampire]]s can taste the difference between the blood of a changeling and that of a human. This actually may be true, but it's a very subtle distinction, and only the most refined palettes can detect it.
 
 !! Changelings of Sarlona
 

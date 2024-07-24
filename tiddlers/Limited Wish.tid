@@ -1,0 +1,25 @@
+category: talent
+created: 20240715053551676
+modified: 20240715060823199
+prereq: [[Genie's Vessel]]
+tags: warlock
+title: Limited Wish
+type: text/vnd.tiddlywiki
+xpcost: 2
+
+''Prerequisite:'' [[Genie's Vessel]].
+
+You entreat your [[genie]] patron to grant you a small wish. You can speak your desire to your genie's vessel, requesting the effect of one [[spell]] that is [[rare-tier|spell tier]] or lower and that doesn't normally take more than a few seconds to cast. You don't need to meet the requirements for the spell, including costly components; the spell simply takes effect. Using this feature requires making an [[attempt|Taking Action]]; rolling a [[bad outcome]] still causes the spell to be cast, but in a way that works against you or dramatically spirals out of control. //Be careful what you wish for...//
+
+Once you use this feature, you can't use it again for 3 days, or possibly more if you suffered [[consequence]]s as part of your [[attempt|Taking Action]].
+
+!!! <$button class="tc-btn-invisible tc-tiddlylink" style="text-align:left;">
+<$action-setfield $tiddler="$:/config/Manager/Filter" text=""/>
+<$action-setfield $tiddler="$:/config/Manager/SpellTier" tier="3" comparison="≤" text="[has[tier]!greaterthan:tier{$:/config/Manager/SpellTier!!tier}]"/>
+<$action-setfield $tiddler="$:/config/Manager/SpellTag" text=""/>
+<$action-setfield $tiddler="$:/config/Manager/SpellSort" text="tier"/>
+<$action-setfield $tiddler="$:/config/Manager/SpellSortOrder" text="reverse"/>
+<$action-setfield $tiddler="$:/state/tab-1473298955" text="Find Spells"/>
+<$action-navigate $to="Find Things"/>
+Find Rare-Tier Spells
+</$button>

@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210402021419698
-modified: 20231128050315911
+modified: 20240619204814042
 tags: Storyloom
 title: talent
 tooltip: Storyloom mechanic: a player character's special capability or area of expertise
@@ -19,7 +19,7 @@ When you [[make a character|Character Creation]], you start with three [[experie
 Some talents have prerequisite talents; for example, you can't take [[Changeling Metamorphosis]] without first having taken [[Changeling (talent)]]. These talents tend to be slightly stronger than talents without prerequisites at the same [[experience point]] cost, since they reward a narrow character development focus that closes off other options. If you really want to take a talent that has a prerequisite, but have a good reason for not wanting the prerequisite, talk to your GM.
 
 <<<
-''A Note on Talents That Grant Bonuses for Using Tools''<br/>
+''A Note on Talents That Grant Bonuses for Using Tools''<br/><hr/>
 If a talent gives you [[advantage]] or +1 [[impact]] to use a [[toolset]] or [[musical instrument]], unless otherwise stated, you must use that item for one of its intended purposes in order to gain the benefit. That is, if a talent gives you an advantage when using [[thieves' tools]], you don't get that advantage for swinging the satchel of tools like a weapon. If you use the toolset or musical instrument as a [[magical implement]], you must take the [[Implement Expertise]] talent to gain an advantage.
 <<<
 
@@ -41,17 +41,17 @@ If a talent gives you [[advantage]] or +1 [[impact]] to use a [[toolset]] or [[m
 <ul>
 <$list filter="[tag<talenttag>category[talent]] -[tag<talenttag>category[talent]listed[prereq]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 <ul>
 <$list filter="[<currentTiddler>listed[prereq]tag<talenttag>category[talent]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 <ul>
 <$list filter="[<currentTiddler>listed[prereq]tag<talenttag>category[talent]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 </$wikify>
 </li>
@@ -78,17 +78,17 @@ When you choose a race/species/ancestry for your character, it's highly recommen
 <ul>
 <$list filter="[tag<talenttag>category[talent]] -[tag<talenttag>category[talent]listed[prereq]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 <ul>
 <$list filter="[<currentTiddler>listed[prereq]tag<talenttag>category[talent]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 <ul>
 <$list filter="[<currentTiddler>listed[prereq]tag<talenttag>category[talent]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 </$wikify>
 </li>
@@ -110,7 +110,7 @@ When you choose a race/species/ancestry for your character, it's highly recommen
 <ul>
 <$list filter="[category[talent]] -[category[occupation]tagging[]] -[category[creature]tagging[]] -[tag[background]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 </$wikify>
 </li>

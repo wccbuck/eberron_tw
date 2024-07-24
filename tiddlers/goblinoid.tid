@@ -1,14 +1,16 @@
 category: creature
 color: #EA868F
 created: 20200415001347201
-modified: 20231115041520947
+modified: 20240606054454613
 tags: humanoid
 title: goblinoid
 tooltip: goblins, hobgoblins, bugbears; once the dominant species of Khorvaire
 type: text/vnd.tiddlywiki
 var: common
 
+<<<
 //Hoisting the head by the fading plumes of the ruined helmet, still tied under the chin by a cord, [[Haruuc|Haruuc Shaarat'kor]] raised it in one hand and his bloody sword in the other. "Your lord is dead!" he howled in the human language. "The battle is done! By my sword, I claim this place and name it [[Rhukaan Draal]], the crown city of [[Darguun]], the land of the people!"//
+<<<
 
 <div align="right">—Don Bassingthwaite, //The Doom of Kings//</div>
 

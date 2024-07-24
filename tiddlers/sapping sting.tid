@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20240701192748391
+modified: 20240701193134017
+tags: necromancy
+tier: 1
+title: sapping sting
+type: text/vnd.tiddlywiki
+
+With a word and a gesture, you sap the vitality of one creature you can see within 30 feet. If the target cannot physically resist your magic, they suffer some [[necrotic damage|damage type]] and are weakened for one or two seconds, which may cause them to fall prone or drop what they are holding.

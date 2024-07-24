@@ -2,7 +2,7 @@ category: spell
 color: #B7A1E0
 created: 20210501025623091
 highertier: show
-modified: 20230921211729175
+modified: 20240531231115090
 tags: [[divine magic]] abjuration
 tier: 2
 title: aid
@@ -14,6 +14,6 @@ Your spell bolsters your allies with toughness and resolve. You or one living cr
 
 !! Rare-Tier
 
-When you cast //{{!!title}}// as an rare-[[tier|spell tier]] spell, you may target up to three creatures within 30 feet, and the [[advantage]] to resist fear or despair lasts for 1 hour.
+When you cast //{{!!title}}// as a rare-[[tier|spell tier]] spell, you may target up to three creatures within 30 feet, and the [[advantage]] to resist fear or despair lasts for 1 hour.
 
 </$reveal>

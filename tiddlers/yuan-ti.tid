@@ -1,7 +1,7 @@
 category: creature
 color: #EA868F
 created: 20210112064116895
-modified: 20230824215223245
+modified: 20240716052712583
 tags: shapechanger humanoid monstrosity
 title: yuan-ti
 tooltip: vicious snakelike humanoid
@@ -28,7 +28,7 @@ See also [[Yuan-Ti Pureblood (talent)]].
 
 The yuan-ti arose in [[Sarlona]], rising from the blasted ruins of once-great [[Khunan]] and naming their new land "[[Syrkarn]]." Some sages posit that the creation of the yuan-ti was tied to the near-release of a bound [[overlord]] in Syrkarn over fourteen hundred years ago. However, the supposition that the yuan-ti might be [[shulatlaca]] tainted by exposure to [[fiend]]ish magic remains little more than a guess.
 
-Driven from [[Sarlona]] by the [[Inspired]] shortly after the [[Sundering]], the yuan-ti were given shelter in [[Argonnessen]]. There, some took up residence in the city [[Io'vakas]], where at least one sect began practicing forbidden [[arcane arts|arcane magic]], and claimed direct worship of the [[Dragon|dragon]] Gods of [[Thir]] for themselves. When the dragons discovered this blasphemy, they razed the city and killed nearly the entire population. They continue to hunt the yuan-ti on the shores of Argonnessen to this day.
+Driven from [[Sarlona]] by the [[Inspired]] shortly after the [[Sundering]], the yuan-ti were given shelter in [[Argonnessen]]. There, some took up residence in the city [[Io'vakas]], where at least one sect began practicing forbidden [[arcane arts|arcane magic]], and claimed direct worship of the [[Dragon Gods]] of [[Thir]] for themselves. When the dragons discovered this blasphemy, they razed the city and killed nearly the entire population. They continue to hunt the yuan-ti on the shores of Argonnessen to this day.
 
 The surviving yuan-ti exiles escaped to the continent of [[Xen'drik]]. Proud and spiteful, the yuan-ti intend to wreak vengeance on all who have ever crossed them, from the [[dragon]]s of [[Argonnessen]] to the humans whose ancestors drove them from [[Sarlona]]. Deep in the jungles, many worship the [[Devourer]] in the form of a great serpent that will one day consume the world.
 
@@ -58,7 +58,7 @@ The yuan-ti care nothing for these theories. They have no loyalty to the [[Lords
 Click the button below to generate some example yuan-ti names.
 
 <<<
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $filter="Apoph Ath Eph Eth Gath Gor Kal Kul Lar Lath Nag Raj Rax Reth Sar Sesh Sor Sreth Sur Suth" $field="var1"/>
 <$action-chooserandom $filter="a ah ax e el i ir o ol oth u ur" $field="var2"/>
 <$action-chooserandom $filter="gash gin gor ka kom kur la lash leth loth tha thex thir thra xal xol xur ya zag zolm" $field="var3"/>

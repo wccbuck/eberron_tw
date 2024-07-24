@@ -1,7 +1,7 @@
 category: phenomenon
 color: #432874
 created: 20221031233633224
-modified: 20230815065036090
+modified: 20240606050034797
 tags: [[Sovereign Host]]
 title: Sovereign Saints and Relics
 tooltip: random tables for generating saints and relics of the Sovereign Host
@@ -48,7 +48,7 @@ In addition, some Sovereign saints still live, such as [[Daca]] in [[High Hope]]
 | 20 |Lukar |The Beautiful |The [[Dark Six]] |Martyring Weapon |[[Dragon|dragon]] |
 
 <<<
-<$button>
+<$button class="vertical-margin-2">
 <$action-chooserandom $filter="Asta Davan Isti Moras Tara Drago Besre Jurian Ket Urik Theda Laris Beleth Kaine Hariel Cord Sede Vedim Chantalyn Lukar" $field="var1"/>
 <$action-chooserandom $filter="Old Strong Quick Beacon Unloved Kind Forgotten Wise True Young Gentle Small Clever Bold Grim Frail Arcane Warrior Unseen Beautiful" $field="var2"/>
 <$action-chooserandom $dataTiddler="$:/SaintSovereign" $field="var3"/>

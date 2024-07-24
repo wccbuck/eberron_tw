@@ -1,13 +1,13 @@
 category: object
 color: #41D5E1
 created: 20210602173917791
-modified: 20230413222009637
+modified: 20240711040534247
 tags: tool
 tier: 0
 title: trinket
 tooltip: a simple item lightly touched by mystery
 type: text/vnd.tiddlywiki
-var: An iron ingot engraved in [[Orcish]] with a [[Jhorash'tar]] vow
+var: A petrified [[werewolf|therianthrope]] paw capped in silver
 
 \define changedyes() <$action-setfield $tiddler="$:/TrinketTableName" changed="yes"/>
 \define tablename() {{!!caption}} ({{{ [<currentTiddler>indexes[]count[]] }}})
@@ -19,7 +19,8 @@ Select Trinket Table: <$select tiddler="$:/TrinketTableName" default="" actions=
 </$list>
 </$select>
 
-<$button>
+<<<
+<$button class="vertical-margin-2">
 <$list filter="[title[$:/TrinketTableName]text[$:/AllTrinketTables]changed[yes]then[Yes]]">
 <$wikify name="att" text="""<$list filter="[tag[trinket]!title[$:/AllTrinketTables]!has[draft.of]]">{{!!text}}
 </$list>""">
@@ -30,6 +31,5 @@ Select Trinket Table: <$select tiddler="$:/TrinketTableName" default="" actions=
 <$action-chooserandom $dataTiddler={{$:/TrinketTableName}} $field="var"/>
 Generate Trinket</$button>
 
-<<<
 ''Trinket: '' {{!!var}}
 <<<
