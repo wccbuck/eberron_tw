@@ -1,6 +1,6 @@
 category: note
 created: 20220302010115523
-modified: 20240606230635817
+modified: 20240724191218411
 tags: 
 title: Future Adventure Prep
 type: text/vnd.tiddlywiki
@@ -30,6 +30,8 @@ This is for sketching out adventures many sessions away. See [[Adventures of Ari
 * <<scrollToHeader "Long-Term Plans">>
 ** <<scrollToHeader "Katashka">>
 ** <<scrollToHeader "Eldrantulku">>
+** <<scrollToHeader "Both?">>
+** <<scrollToHeader "The Flame That Crawls">>
 
 
 !! General Adventure Ideas Alita Wants
@@ -39,7 +41,7 @@ This is for sketching out adventures many sessions away. See [[Adventures of Ari
 * Save a handsome prince on the road (could be [[Aejar ir'Wynarn|Sharn Inquisitive for Zarantyr 15th, 998]])
 * Get treasure!
 * Meet [[Boranel|Boranel ir'Wynarn]]
-* Save orphans (there's an orphanage in [[Gate of Gold]], where [[Viktor Saint-Demain]] was raised. Or maybe Arien has to deal with a haunted orphanage) 
+* Save orphans (there's an orphanage in [[Gate of Gold]], where [[Viktor Saint-Demain]] was raised. Or maybe Arien has to deal with a haunted orphanage)
 * Underwater adventure ([[Thunder Sea]])
 * Homestead, build home base
 * Go to [[Syrkarn]] and get a [[sheshmiraj]] mount ("horse with dog mouth")
@@ -70,7 +72,7 @@ Some other, non-canon ideas:
 
 * Practices might reflect Breland's more cosmopolitan nature. Teachings might highlight stories where the Flame acted though non-human agents, or where evils have been averted through understanding and diplomacy.
 * Perhaps there's a practice where members invite beings from "category 3" (medusas, trolls, gnolls, ogres, etc) for a shared meal, symbolizing acceptance and shared commitment to peace. Call it "Allkind Supper."
-** Could be held in temple halls or even in residential areas, members of CotSF and folk of the Barrens (perhaps called "mosaic folk") bring their own home-cooked dishes, and are encouraged to tell the story behind their dish. 
+** Could be held in temple halls or even in residential areas, members of CotSF and folk of the Barrens (perhaps called "mosaic folk") bring their own home-cooked dishes, and are encouraged to tell the story behind their dish.
 ** Some mosaic folk appreciate this gesture, but others question its intentions, and even feel tokenized in a way that underscores their "otherness."
 
 ''Templars in Breland''
@@ -84,7 +86,7 @@ Note: Nix the Medani commander for now, but maybe keep Ser Graym Lannerik as the
 ** ~~Maintains her connection to her House, and thus maintains a network of informants, ensuring the templars are one step ahead of any potential threat.~~
 ** KB says: "The [[Korth Edicts]] prevent Dragonmarked heirs from owning land or wielding political power. But they don’t cover every possible position of authority, and notably can become priests without having to cut ties with their houses. Dragonmarked heirs have just as much right to practice their chosen religion as anyone else; many of the houses assert that their gifts show that they are favored by the Sovereigns. In the case of the Silver Flame, yes, a Medani Heir could become a templar commander. But keep in mind that those commanders are chosen by the cardinals and certified by the Keeper; any candidate will have to have shown unshakable faith and commitment to the Church, as well as tactical brilliance and a long record of service. So they wouldn’t have to legally break ties to their house, but there could be no question of their commitment to the Church."
 ** Ser Silloene recently rose to this role. Her predecessor, Ser Graym Lannerik, retired to a remote monastery as a Luminary. But for many years, he served as Silloene's mentor and helped her navigate church politics.
-* Marshals: 
+* Marshals:
 ** Hilia Graddan, believes in results over ritual. Often clashes with more orthodox templars
 ** ~~Elrik Sensworth, a former member of the [[Sharn Watch]] (specifically [[Guardians of the Gate]]). Has an extensive knowledge of the city's layout.~~ Moved Elrik to Starilaskur
 * See [[Coldflame Keep]]; there used to be a much larger templar presence in Sharn. From [[Mazin Tana]]: "The garrison [at Coldflame Keep] was built to house a hundred soldiers, but currently there are only eight templars in residence. While these soldiers are supposed to protect the district from supernatural threats, Mazin believes that they have been chosen by the Archierophant to keep an eye on the aging priest—to make certain that Mazin does not try to interfere with the powers that control the Church in Sharn. While he is disillusioned with his superiors, Mazin still believes in the ideals of the Church and does his best to help those in need." Wow, so maybe there's a contingent of templars who are loyal to [[Ythana Morr]], and Ser Silloene is somehow unaware of this. Or she is, but she's not sure to what degree. There could be a series of quests where Silloene asks Arien to investigate Ythana, as an outsider. ~~Eventually, Arien could help overthrow Ythana and Mazin Tana could be appointed the new Archierophant.~~
@@ -98,7 +100,7 @@ Note: Nix the Medani commander for now, but maybe keep Ser Graym Lannerik as the
 * What to do about [[Gath]]. Continue fighting? He's somewhat benign, maybe just keep him contained?
 * Extensions of other Brelish attitudes: Cyran refugees? Should Brelish churches have an open-door policy towards Cyran flamists?
 * Opinions about the [[Council of Cardinals]] and [[Thrane]] in general
-* 
+*
 
 !!! Liturgical Councils
 
@@ -131,11 +133,11 @@ Names for [[liturgical council]]s, thanks to ChatGPT:
 
 !! Return to Starilaskur
 
-In the past, the Araflamist Order of Templars of Starilaskur had a closer relationship with the Martial Temple of Dol Arrah. In fact, [[Sejra Whitebinder]] was trained in demonology by the late Araflamist Luminary Rolla, and she has a great respect for this order. But [[Preceptor Belmin|Cadoc Belmin]] has had some recent drama with Knight-Marshal Quinedda ir'Moran. 
+In the past, the Araflamist Order of Templars of Starilaskur had a closer relationship with the Martial Temple of Dol Arrah. In fact, [[Sejra Whitebinder]] was trained in demonology by the late Araflamist Luminary Rolla, and she has a great respect for this order. But [[Preceptor Belmin|Cadoc Belmin]] has had some recent drama with Knight-Marshal Quinedda ir'Moran.
 
 Two years ago (shortly before [[Treaty of Thronehold]], so technically Breland and Thrane were still at war), an envoy from Flamekeep came to Starilaskur on some kind of diplomatic mission. Maybe it had to do with investigating some kind of supernatural threat, but it still had an element of strengthening diplomatic relations between Thrane and Breland. Regardless, Belmin and ir'Moran were both in a meeting with this person. The Thrane envoy said something to piss off Belmin; maybe they implied that Thrane templars are the "real" templars, or called Starilaskur's local legend about Tira Miron a "quaint little fable" or something. Regardless, Belmin said some words, ir'Moran tried to mediate, Belmin got mad at her too, and the meeting was adjourned. Belmin's words can't have been something exceedingly offensive, since Belmin is usually so cool and collected and wouldn't have risked embarrassing the Martial Temple or threatening the pre-treaty ceasefire. But it's gotta be bad enough that Belmin and ir'Moran haven't spoken to each other since.
 
-Sejra believes Arien should speak with the Araflamists about her power, but Belmin isn't convinced. He can't forbid Arien from going, of course; as a votary of the Martial Temple, Arien has to abide by a certain code of conduct, but that doesn't include obeying Belmin's whim. In any case, Sejra recommends Arien trains with the templars, who might help her (and everyone) make sense of her power. (And while she's there, maybe try to find out whatever she can that might help reconcile the friendship between the Preceptor and the Knight-Marshal). The Preceptor very much wants to stay apprised of everything they discover. 
+Sejra believes Arien should speak with the Araflamists about her power, but Belmin isn't convinced. He can't forbid Arien from going, of course; as a votary of the Martial Temple, Arien has to abide by a certain code of conduct, but that doesn't include obeying Belmin's whim. In any case, Sejra recommends Arien trains with the templars, who might help her (and everyone) make sense of her power. (And while she's there, maybe try to find out whatever she can that might help reconcile the friendship between the Preceptor and the Knight-Marshal). The Preceptor very much wants to stay apprised of everything they discover.
 
 First have a training scene with the Araflamists (names for templars: Elrik Sensworth, Taldorin, Cathya). Elrik is a former member of the Watch who has extensive knowledge of the city's layout. But then, Arien meets Luminary Zenio, an old templar scholar who helps guide Arien through some meditation under the rays of the sun. It's then that Arien perhaps communes with the Fernian spark of divinity within her.
 
@@ -149,7 +151,7 @@ Meanwhile, Dowin (who goes with Arien?) wants to facilitate a scholarly collabor
 
 !! On the Way to Sharn
 
-A joke: 
+A joke:
 
 An [[elf]] returns to his native [[Sharn]] after centuries of traveling. He arrives at [[Terminus Station]], goes outside, puts his suitcase on the ground, looks around and sighs. “Oh Sharn, I don’t recognize you at all!” He looks down, and his suitcase is gone. “Ah, it’s great to be home!”
 
@@ -258,10 +260,10 @@ Eventually, she realizes her power comes from a [[celestial]] of [[Fernia]], who
 * An agent (guide) of the [[Traveler]]. Perhaps [[Chance]]?
 * Consider [[Eyes Unclouded Anthology|https://www.dmsguild.com/product/322733/Eyes-Unclouded]]. Cinderlings are perfect for Arien.
 * Consider stealing ideas from Oracle of War if Arien wants to salvage in the Mournland (don't forget I have some thoughts on Mournland stuff in [[Old Miscellaneous Planning Notes]])
-* A journey to the [[Labyrinth]] to meet with the [[Ghaash'kala]]. Learn about the Binding Flame. Maybe she is sent here (or chooses to come here) to investigate what happened to a great paladin who never returned, and to recover his holy relics. 
+* A journey to the [[Labyrinth]] to meet with the [[Ghaash'kala]]. Learn about the Binding Flame. Maybe she is sent here (or chooses to come here) to investigate what happened to a great paladin who never returned, and to recover his holy relics.
 ** Travel through Aundair (encounter Pure Flame?)
-** Travel through the Eldeen Reaches (encounter maybe a village that needs help, then enter the Towering Wood and maybe encounter shifters/lycanthropes) 
-** Arrive in the Demon Wastes and fight fiends and barbarians with the Ghaash’kala orcs. 
+** Travel through the Eldeen Reaches (encounter maybe a village that needs help, then enter the Towering Wood and maybe encounter shifters/lycanthropes)
+** Arrive in the Demon Wastes and fight fiends and barbarians with the Ghaash’kala orcs.
 * Note about the Ghaash'kala: They have a connection to the [[Abyssal Forest of Khaar]]. This could be a way for Arien to have a demiplane shortcut between the Labyrinth and the [[Faded Forest]] near [[Mistmarsh]]!
 
 !! Long-Term Plans
@@ -280,7 +282,7 @@ It might work, but the next question is what the consequences of doing that woul
 Rak Tulkhesh is the manifestation of aggression and war. Either it can't be destroyed, because ongoing aggression will cause it to reform... or you completely destroy the concept of aggression in mortals, which could have vast unforeseen consequences.
 <<<
 
-So the actual destruction of, say, [[Katashka]] might cause mortals to lose their fear of death entirely. Not great. 
+So the actual destruction of, say, [[Katashka]] might cause mortals to lose their fear of death entirely. Not great.
 
 So perhaps Arien's journey will be a way to form a "better" cage for these fiends, or some kind of system that restores the world to what it could have been had Siberys not been destroyed. Removing the overlords is a blunt instrument; Arien should find a way to bring about a new age where no matter what happens, the overlords can't break free and cause a new Age of Demons, without outright destroying them.
 
@@ -295,3 +297,13 @@ Another overlord we could use: [[Eldrantulku]] the Oathbreaker. Good reasons to 
 The [[barghest]] curse originated as the betrayal of seventeen oaths, according to legend.
 
 Also consider oathbound ([[mummies|mummy]]) and how their oaths might play into an Oathbreaker campaign.
+
+!!! Both?
+
+It could be that a [[Draconic Prophecy]] stanza vaguely predicts the release of //either// [[Eldrantulku]] or [[Katashka]]. E.g. "comrades will consume one another" could mean betrayal and broken bonds, or it could mean zombies. "Whispers of decay carried on poisoned breath..." Literal decay or moral decay, who's to say? "masses shall become puppets and march to their own requiem..." The masses are manipulated by paranoia and march to war, or they've become undead hordes?
+
+!!! The Flame That Crawls
+
+I'd love to introduce a very late-game plot point where Arien (and perhaps a guide from the [[Chamber]] or something weirder like [[The Last Breath of Siberys|Bahamut]]) want to create a //new flame//, a flame of transformation, that can burn the overlords and change them from a force of evil to a force of good. Essentially, complete the creation that was halted when Khyber killed Siberys. See the above section about the [[Traveler]] / [[Xoriat]] stuff. Essentially there needs to be a trip to Xoriat where Arien taps into the well of pure creation to make something new. Definitely somehow include the planes of [[Fernia]] and [[Thelanis]] in this quest.
+
+//However...// this is an extremely risky endeavor. In the process of making a new flame, she might also create and unleash some new threat: //The Flame That Crawls.// Some entity that leaks out of Xoriat and threatens to transmute everything. The dragons of [[Argonnessen]] may try to stop her, and if she releases this abomination, the dragons might seek to nuke it from orbit—since otherwise the entire Material Plane may be at risk. She'd need to convince them to not destroy everything and perhaps help her contain the Crawling Flame and eliminate it more surgically.

@@ -1,0 +1,10 @@
+category: spell
+color: #B7A1E0
+created: 20240701193411428
+modified: 20240701193943897
+tags: enchantment
+tier: 2
+title: beguiling gift
+type: text/vnd.tiddlywiki
+
+You offer an object to a creature adjacent to you, and entice it into using or consuming the proffered item. If the target cannot resist your enchantment, it immediately takes the offered object if able, dropping an already held object if necessary. Within a few seconds, the target uses the object for its intended purpose; for example, an apple would be eaten, a [[potion]] consumed, a ring put on a finger, and a sword wielded in a free hand. The subject is under no obligation to continue consuming or using the item once the spell's 10-second duration has expired.

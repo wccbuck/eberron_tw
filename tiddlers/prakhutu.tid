@@ -1,22 +1,31 @@
 category: occupation
 color: #A3CFBB
 created: 20220317180725095
-modified: 20230814215328775
+modified: 20240617215406057
 tags: [[Lords of Dust]]
 title: prakhutu
 tooltip: "speaker" or chosen servant of an overlord, usually a rakshasa
 type: text/vnd.tiddlywiki
 
-Almost every [[overlord]] has a particular chosen servant, an exarch with a close mystical bond to the archfiend. Such an exarch is known as a //prakhutu//, or "speaker." As each bound overlord is in a state of semi-conscious torpor, only able to perceive reality through vague, dreamlike visions, its prakhutu serves as its eyes and voice. The speaker regularly [[commune]]s with their master and acts on its behalf to direct its followers, represent it on the [[Bleak Council]] of [[Ashtakala]], and work to bring about its eventual release from bondage.
+Almost every [[overlord]] has a particular chosen servant, an exarch with a close mystical bond to the archfiend. Such an exarch is known as a //prakhutu//, or "speaker." As each bound overlord is in a state of semi-conscious torpor, only able to perceive reality through vague, dreamlike visions, its prakhutu serves as its eyes and voice. The speaker regularly [[commune]]s with their master and acts on its behalf to direct its followers, represents it on the [[Bleak Council]] of [[Ashtakala]], and works to bring about its eventual release from bondage.
 
 Most prakhutu are [[fiend]]s, and most of those are [[rakshasa]]. Notable exceptions include the dragons [[Rhashaak]] and [[Mazyralyx]]. Prakhutu who are native fiends are usually tied to the heart [[demiplane]] of their [[overlord]] master; for example, when [[Mordakhesh]] dies, he returns to the [[Bitter Shield]], the heart of [[Rak Tulkhesh]]. Such speakers could be thought of as extensions of the overlords themselves, even if they have their own unique personalities and interests. 
+
+A prakhutu is not necessarily the most powerful fiend of an overlord. What sets them apart is their ability to hear the guiding voice of their master, and channel its power to assert authority over other spirits tied to it. In addition, this ability is not a permanent boon; speakerhood is a reflection of the focus of the overlord. [[Mordakhesh]] is the speaker of [[Rak Tulkhesh]] because he is an exceptional commander and strategist, and he serves the needs of the Rage of War better than entities that are driven solely by bloodlust. But if the Rage of War's disposition fundamentally shifted, its focus might shift to another one of its children. 
+
+While generally [[overlord]]s keep the same prakhutu for entire ages, some overlords, such as [[Tul Oreshka]], change speakers frequently; her current prakhutu is the extraplanar fiend [[Korliac of the Gray Flame|Korliac]]. As another example, [[Katashka]]'s first speaker was an [[ak'chazar rakshasa|rakshasa]] named Hesh of the Rattling Bones. But when [[Mazyralyx]] became the first [[dracolich]], he embodied the fear of the edge of life and death better than any [[fiend]] could, and thus drew the Gatekeeper's attention and took the role of prakhutu.
 
 !! Notable Prakhutu
 
 <ul>
 <$list filter="[tag{!!title}sort[relevance]]">
 <li>
+<$list filter="[<currentTiddler>search:title[Drul Kantar]]">
+{{!!article}}[[Drulkalatar Atesh|Drul Kantar]] (speaker for the [[Wild Heart]])
+</$list>
+<$list filter="[<currentTiddler>!title[Drul Kantar]]">
 {{!!article}}<$link/> (speaker for {{{ [<currentTiddler>tags[]category[entity]tag[overlord]] }}})
+</$list>
 </li>
 </$list>
 </ul>

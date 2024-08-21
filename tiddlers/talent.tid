@@ -1,6 +1,6 @@
 category: game mechanics
 created: 20210402021419698
-modified: 20240606043454736
+modified: 20240619204814042
 tags: Storyloom
 title: talent
 tooltip: Storyloom mechanic: a player character's special capability or area of expertise
@@ -41,17 +41,17 @@ If a talent gives you [[advantage]] or +1 [[impact]] to use a [[toolset]] or [[m
 <ul>
 <$list filter="[tag<talenttag>category[talent]] -[tag<talenttag>category[talent]listed[prereq]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 <ul>
 <$list filter="[<currentTiddler>listed[prereq]tag<talenttag>category[talent]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 <ul>
 <$list filter="[<currentTiddler>listed[prereq]tag<talenttag>category[talent]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 </$wikify>
 </li>
@@ -78,17 +78,17 @@ When you choose a race/species/ancestry for your character, it's highly recommen
 <ul>
 <$list filter="[tag<talenttag>category[talent]] -[tag<talenttag>category[talent]listed[prereq]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 <ul>
 <$list filter="[<currentTiddler>listed[prereq]tag<talenttag>category[talent]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 <ul>
 <$list filter="[<currentTiddler>listed[prereq]tag<talenttag>category[talent]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 </$wikify>
 </li>
@@ -110,7 +110,7 @@ When you choose a race/species/ancestry for your character, it's highly recommen
 <ul>
 <$list filter="[category[talent]] -[category[occupation]tagging[]] -[category[creature]tagging[]] -[tag[background]] +[sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 </$wikify>
 </li>

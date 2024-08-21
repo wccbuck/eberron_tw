@@ -1,6 +1,6 @@
 category: talent
 created: 20210725173949205
-modified: 20231012023849793
+modified: 20240619204930589
 title: Spellcaster
 tooltip: talent which allows a player character to cast spells (2 common/uncommon or 1 rare)
 type: text/vnd.tiddlywiki
@@ -28,7 +28,7 @@ Different character archetypes/occupations have access to different sets of avai
 <ul>
 <$list filter="[<currentTiddler>tagging[]category[talent]tag[Spellcaster]sort[title]]">
 <li>
-<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(]first[]]}}}">
+<$wikify name="splittitle" text= "{{{[<currentTiddler>split[(t]first[]]}}}">
 <$link to=<<currentTiddler>>><<splittitle>></$link>
 </$wikify>
 </li>

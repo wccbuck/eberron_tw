@@ -1,13 +1,13 @@
 category: object
 color: #41D5E1
 created: 20210602173917791
-modified: 20240606045352941
+modified: 20240711040534247
 tags: tool
 tier: 0
 title: trinket
 tooltip: a simple item lightly touched by mystery
 type: text/vnd.tiddlywiki
-var: An iron ingot engraved in [[Orcish]] with a [[Jhorash'tar]] vow
+var: A petrified [[werewolf|therianthrope]] paw capped in silver
 
 \define changedyes() <$action-setfield $tiddler="$:/TrinketTableName" changed="yes"/>
 \define tablename() {{!!caption}} ({{{ [<currentTiddler>indexes[]count[]] }}})

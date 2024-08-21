@@ -1,7 +1,7 @@
 category: spell
 color: #B7A1E0
 created: 20201211174259686
-modified: 20220824163443508
+modified: 20240715053816082
 tags: conjuration
 tier: 5
 title: wish
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 
 Wish is the mightiest [[spell]] a mortal creature can cast. By simply speaking aloud, you can alter the very foundations of reality in accord with your desires.
 
-The basic use of this spell is to duplicate <<showspells "any other spell">> that is epic-tier or lower. Alternatively, you can achieve an endless variety of other effects, including:
+The basic use of this spell is to duplicate <<showspells "any other spell">> that is epic-[[tier|spell tier]] or lower. Alternatively, you can achieve an endless variety of other effects, including:
 
 * Create one object of up to [[5000c|money]] in value, no more than 300 feet in any dimension.
 * Fully heal up to twenty creatures that you can see.

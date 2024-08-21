@@ -1,8 +1,16 @@
 color: #092F1E
 created: 20210718042104327
-modified: 20220805195425720
+modified: 20240619210856993
 title: casino
 tooltip: tag for locations where people can gamble
 type: text/vnd.tiddlywiki
 
+Casinos are entertainment facilities that offer gambling. 
+
 !!! <<showplace-type>>
+
+!! Magical Cheating
+
+In the world of [[Eberron]], one might expect the existence of [[divination]] magic to subvert the "fairness" of gambling, but casinos have a variety of ways to handle magical cheating. For example, the spell [[nondetection]] is an [[uncommon-tier spell|spell tier]], meaning it is within the realm of "everyday magic." Successful casinos often have a nondetection field that covers the entire gambling hall, which prevents anyone from reading thoughts, scrying, or otherwise gaining unfair information. 
+
+Meanwhile, specialized security [[magewright]]s watch for cheaters using [[detect magic]] and communicate with each other using [[message]]—which they are able to cast within the nondetection field due to a special amulet which exempts them from the effect. One might be able to steal one of these amulets in order to covertly use divination in the casino... but the arcane "frequency" of the field might be changed each morning, so unless the amulet has recently been tuned, it won't work. And of course, even with a working amulet, you'll still need to hide your spellcasting from security!

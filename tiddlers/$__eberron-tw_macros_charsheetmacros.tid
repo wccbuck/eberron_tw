@@ -1,5 +1,5 @@
 created: 20210803194143720
-modified: 20231012031941957
+modified: 20240619204907338
 tags: $:/tags/Macro
 title: $:/eberron-tw/macros/charsheetmacros
 type: text/vnd.tiddlywiki
@@ -11,22 +11,22 @@ type: text/vnd.tiddlywiki
 <option value="">None</option>
 <optgroup label="Occupation-Based Talents">
 <$list filter="[category[occupation]tagging[]category[talent]sort[title]]">
-<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
+<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(t]first[]]}}}</option>
 </$list>
 </optgroup>
 <optgroup label="Species-Based Talents">
 <$list filter="[category[creature]tagging[]category[talent]] -[tag[dragonmark]tagging[]category[talent]] +[sort[title]]">
-<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
+<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(t]first[]]}}}</option>
 </$list>
 </optgroup>
 <optgroup label="Dragonmark-Based Talents">
 <$list filter="[tag[dragonmark]tagging[]category[talent]sort[title]]">
-<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
+<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(t]first[]]}}}</option>
 </$list>
 </optgroup>
 <optgroup label="Other Talents">
 <$list filter="[category[talent]] -[tag[dragonmark]tagging[]tag[talent]] -[category[creature]tagging[]category[talent]] -[category[occupation]tagging[]category[talent]] +[sort[title]]">
-<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(]first[]]}}}</option>
+<option value=<<currentTiddler>>>{{{[<currentTiddler>split[(t]first[]]}}}</option>
 </$list>
 </optgroup>
 </$select>

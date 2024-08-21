@@ -454,13 +454,13 @@ NGMT43: A potion bottle with a mysterious purple substance inside.
 NGMT44: A small swan carved from ice that never melts.
 NGMT45: A chess board with magnetized pieces that prevent cheating.
 NGMT46: A rusted hatchet with initials carved into the handle.
-NGMT47: A small jar with a label that reads "Gelatinous Jelly".
+NGMT47: A small jar with a label that reads "Gelatinous Jelly."
 NGMT48: A family portrait with a face torn out.
 NGMT49: A twenty-sided die with a sword in place of the 20.
 NGMT50: A broken clockwork raven.
 NGMT51: A pair of gloves made of [[werewolf]] leather.
 NGMT52: The fossilized claw of a [[griffon]].
-NGMT53: A putrid cylinder of cream labeled "[[Flumph|flumph]] Bait".
+NGMT53: A putrid cylinder of cream labeled "[[Flumph|flumph]] Bait."
 NGMT54: A bag woven from the scales of a young [[dragon]]. It holds half a dozen dice.
 NGMT55: A pebble that will return to you every morning if lost.
 NGMT56: A two-faced silver coin.
@@ -640,7 +640,7 @@ SECET36: 24 rib bones delicately inscribed with the love story of [[Karrnath]] w
 SECET37: A small pouch of grave soil containing 4 [[Mabar]]-infused earthworms
 SECET38: Three unlucky [[Keeper]]'s coins, robbed from graves
 SECET39: A mobile of glowing orbs representing the [[moon]]s; the [[13th|Crya]] is cracked and burnt out
-SECET40: 13 toy [[dwarven|dwarf]] soldiers representing the [[Mror clan]]s; the face of the [[Noldrun|Noldrunhold]] dwarf is worn away
+SECET40: 13 toy [[dwarven|dwarf]] soldiers representing the [[Mror clan]]s; the face of the [[Noldrun]] dwarf is worn away
 SECET41: A cloak sewn from the tabards of every nation recognized at the [[Treaty of Thronehold]]
 SECET42: A map that depicts no current known lands; twelve [[quori]] portals are marked and stricken, but one remains circled
 SECET43: A black [[Kundarak]] tome, locks broken; it lists 13 prisoners of the Deep Ward of [[Dreadhold]], with most details omitted
@@ -851,7 +851,7 @@ SECET247: This tricentennial bottle of [[Nightwood]] Ale contains just enough al
 SECET248: An onion with a frowning face scrawled on it; it can’t be given away willingly
 SECET249: Tal ([[Talentan|Talenta Plains]] tea) leaves that, when brewed, cause the drinker's ears to steam
 SECET250: A cogs-crown, a cinnamon lozenge that lasts for weeks without losing its flavor
-SECET251: A handful of [[Mabar]]an "badberries", which cause immediate regurgitation when swallowed
+SECET251: A handful of [[Mabar]]an "badberries," which cause immediate regurgitation when swallowed
 SECET252: A [[Fernia]]n pheasant that bakes itself once slain and plucked
 SECET253: A handful of glowing [[Thranish|Thrane]] beesh-berries
 SECET254: An edible mess kit sculpted from [[hathil root]]
@@ -1733,7 +1733,7 @@ SECW268: A bent metal key that unlocks a blacklisted [[Kundarak]] vault
 SECW269: A circlet forged in the [[Fist of Onatar]]
 SECW270: The key to an unknown [[Kundarak]] safety deposit box
 SECW271: A [[Kundarak]] bank note officiated by House [[Sivis]] promising the payment of three sacks of potatoes
-SECW272: A pockmarked pickaxe head from [[Korran’s Maw|Noldrunhold]]
+SECW272: A pockmarked pickaxe head from [[Korran’s Maw|Noldrun]]
 SECW273: A chip of obsidian from the [[Fist of Onatar]]
 SECW274: A scroll detailing the family tree of an unknown [[dwarf]] [[clan|Mror clan]], which contains some interesting (non-dwarven) branches
 SECW275: A rod made from a heavy metal inscribed with warding runes
@@ -1741,7 +1741,7 @@ SECW276: A bent and mangled ring which once belonged to a member of the [[Aurum]
 SECW277: A wooden case containing a braid from a [[Mror|Mror Holds]] hero’s beard
 SECW278: The notes of a [[dwarven|dwarf]] metallurgist detailing plans for a new type of alloy
 SECW279: A tankard designed with a dagger hidden in the handle; the tankard is styled as a severed [[orc]] head
-SECW280: An iron chalice reclaimed from [[Noldrunhold]] that whispers profanities in [[Dwarven|Dethek]]
+SECW280: An iron chalice reclaimed from [[Noldrunthrone]] that whispers profanities in [[Dwarven|Dethek]]
 SECW281: A toy-sized ship crafted from the magically crystallized fog of [[Mirror Lake]]
 SECW282: A simple journal from a treasure hunter in the [[Goradra Gap]]; every day the words of the ledger shift and change to alter the account within
 SECW283: A bejeweled letter opener monogrammed with the initials “O [[d'K|Kundarak]]”
